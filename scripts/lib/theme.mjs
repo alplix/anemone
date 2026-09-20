@@ -32,12 +32,15 @@ const CVD_ACCENT = {
 };
 
 const BASE = {
-  light: { bg: "#fbfaf7", surface: "#ffffff", surface2: "#f1efe9", text: "#1b1c20", muted: "#4b4d55", border: "#6f7079", soft: "#d6d3ca", link: "#0a4fbd", primary: "#0a4fbd", onPrimary: "#ffffff", focus: "#0a4fbd", ok: "#0b6b3a", bad: "#b3261e", warn: "#7a5000", scheme: "light" },
-  dark: { bg: "#121316", surface: "#1b1c21", surface2: "#24262c", text: "#ecebe6", muted: "#b6b8c0", border: "#8c8f9a", soft: "#3a3c44", link: "#8ab4ff", primary: "#8ab4ff", onPrimary: "#0b1020", focus: "#ffd166", ok: "#6fd39a", bad: "#ff9c93", warn: "#f2c260", scheme: "dark" },
-  sepia: { bg: "#efe2c6", surface: "#f6ecd5", surface2: "#e6d6b3", text: "#3a2d18", muted: "#57452a", border: "#75633f", soft: "#cbb88f", link: "#6b3200", primary: "#5d3a0a", onPrimary: "#fbf3e0", focus: "#6b3200", ok: "#2f5d1f", bad: "#8f2a1a", warn: "#6b4a00", scheme: "light" },
-  contrast: { bg: "#000000", surface: "#000000", surface2: "#101010", text: "#ffffff", muted: "#eaeaea", border: "#ffffff", soft: "#9a9a9a", link: "#ffe14d", primary: "#ffe14d", onPrimary: "#000000", focus: "#7dd3ff", ok: "#7dff9a", bad: "#ff9c9c", warn: "#ffd24d", scheme: "dark" },
-  cvd: { bg: "#fbfaf7", surface: "#ffffff", surface2: "#f1efe9", text: "#1b1c20", muted: "#4b4d55", border: "#6f7079", soft: "#d6d3ca", link: "#0058a3", primary: "#0058a3", onPrimary: "#ffffff", focus: "#0058a3", ok: "#0058a3", bad: "#a63c00", warn: "#7a5000", scheme: "light" },
-  paper: { bg: "#ffffff", surface: "#ffffff", surface2: "#ffffff", text: "#000000", muted: "#000000", border: "#000000", soft: "#000000", link: "#000000", primary: "#000000", onPrimary: "#ffffff", focus: "#000000", ok: "#000000", bad: "#000000", warn: "#000000", scheme: "light" },
+  console: { bg: "#0b0f14", surface: "#121a23", surface2: "#16212c", text: "#d3dde0", muted: "#93a8b5", border: "#5b7383", soft: "#2b3b4a", link: "#6cd5ff", primary: "#4dd6b4", onPrimary: "#05110d", focus: "#ffd166", ok: "#7ee787", bad: "#ff8a8a", warn: "#ffb454", cyan: "#6cd5ff", violet: "#b79cff", scheme: "dark", fam: "dark" },
+  terminal: { bg: "#0a0f0a", surface: "#0e160e", surface2: "#0a1c0e", text: "#33ff66", muted: "#5fd47f", border: "#1f8f3f", soft: "#164d24", link: "#55e6ff", primary: "#33ff66", onPrimary: "#041004", focus: "#ffb300", ok: "#7dff9a", bad: "#ff7a7a", warn: "#ffb300", cyan: "#55e6ff", violet: "#d59cff", scheme: "dark", fam: "dark" },
+  amber: { bg: "#120c04", surface: "#1a1206", surface2: "#241806", text: "#ffb84d", muted: "#d9a04a", border: "#8a6a2a", soft: "#4a3410", link: "#ffe0a3", primary: "#e39a1b", onPrimary: "#140b00", focus: "#ffffff", ok: "#d9e05a", bad: "#ff8f70", warn: "#ffd27a", cyan: "#ffe0a3", violet: "#ff9d6e", scheme: "dark", fam: "dark" },
+  ice: { bg: "#060c14", surface: "#0b1622", surface2: "#0f1f30", text: "#cfe6ff", muted: "#8fb0d0", border: "#4f7fa8", soft: "#234868", link: "#7fe4ff", primary: "#4fb4ff", onPrimary: "#03101c", focus: "#ffcf7a", ok: "#79e6c1", bad: "#ff8fa0", warn: "#ffcf7a", cyan: "#7fe4ff", violet: "#a9a2ff", scheme: "dark", fam: "dark" },
+  light: { bg: "#fbfaf7", surface: "#ffffff", surface2: "#f1efe9", text: "#1b1c20", muted: "#4b4d55", border: "#6f7079", soft: "#d6d3ca", link: "#0a4fbd", primary: "#0a4fbd", onPrimary: "#ffffff", focus: "#0a4fbd", ok: "#0b6b3a", bad: "#b3261e", warn: "#7a5000", cyan: "#00607f", violet: "#5b3fb0", scheme: "light", fam: "light" },
+  sepia: { bg: "#efe2c6", surface: "#f6ecd5", surface2: "#e6d6b3", text: "#3a2d18", muted: "#57452a", border: "#75633f", soft: "#cbb88f", link: "#6b3200", primary: "#5d3a0a", onPrimary: "#fbf3e0", focus: "#6b3200", ok: "#2f5d1f", bad: "#8f2a1a", warn: "#6b4a00", cyan: "#0a5060", violet: "#5a3a8a", scheme: "light", fam: "sepia" },
+  contrast: { bg: "#000000", surface: "#000000", surface2: "#101010", text: "#ffffff", muted: "#eaeaea", border: "#ffffff", soft: "#9a9a9a", link: "#ffe14d", primary: "#ffe14d", onPrimary: "#000000", focus: "#7dd3ff", ok: "#7dff9a", bad: "#ff9c9c", warn: "#ffd24d", cyan: "#7dd3ff", violet: "#d6b8ff", scheme: "dark", fam: "contrast" },
+  cvd: { bg: "#fbfaf7", surface: "#ffffff", surface2: "#f1efe9", text: "#1b1c20", muted: "#4b4d55", border: "#6f7079", soft: "#d6d3ca", link: "#0058a3", primary: "#0058a3", onPrimary: "#ffffff", focus: "#0058a3", ok: "#0058a3", bad: "#a63c00", warn: "#7a5000", cyan: "#00607f", violet: "#7a3f75", scheme: "light", fam: "cvd" },
+  paper: { bg: "#ffffff", surface: "#ffffff", surface2: "#ffffff", text: "#000000", muted: "#000000", border: "#000000", soft: "#000000", link: "#000000", primary: "#000000", onPrimary: "#ffffff", focus: "#000000", ok: "#000000", bad: "#000000", warn: "#000000", cyan: "#000000", violet: "#000000", scheme: "light", fam: "paper" },
 };
 
 function family(theme, name) {
@@ -56,7 +59,7 @@ export function buildThemes() {
   const themes = {};
   for (const [name, base] of Object.entries(BASE)) {
     const fams = {};
-    for (const f of FAMILIES) fams[f] = family(name, f);
+    for (const f of FAMILIES) fams[f] = family(base.fam, f);
     themes[name] = { ...base, fams };
   }
   return themes;
@@ -67,7 +70,7 @@ function decls(t) {
     `color-scheme:${t.scheme}`,
     `--bg:${t.bg}`, `--surface:${t.surface}`, `--surface2:${t.surface2}`, `--text:${t.text}`, `--muted:${t.muted}`,
     `--border:${t.border}`, `--soft:${t.soft}`, `--link:${t.link}`, `--primary:${t.primary}`, `--on-primary:${t.onPrimary}`,
-    `--focus:${t.focus}`, `--ok:${t.ok}`, `--bad:${t.bad}`, `--warn:${t.warn}`,
+    `--focus:${t.focus}`, `--ok:${t.ok}`, `--bad:${t.bad}`, `--warn:${t.warn}`, `--cyan:${t.cyan}`, `--violet:${t.violet}`,
   ];
   for (const [f, c] of Object.entries(t.fams)) lines.push(`--f-${f}:${c.accent}`, `--f-${f}-bg:${c.tint}`, `--f-${f}-ink:${c.ink}`);
   return lines.join(";");
@@ -76,8 +79,7 @@ function decls(t) {
 export function tokensCss() {
   const T = buildThemes();
   let css = "/* generated by scripts/lib/theme.mjs - do not edit */\n";
-  css += `:root{${decls(T.light)}}\n`;
-  css += `@media (prefers-color-scheme:dark){:root:not([data-theme]){${decls(T.dark)}}}\n`;
+  css += `:root{${decls(T.console)}}\n`; // the default look: colourful console
   css += `@media (prefers-contrast:more){:root:not([data-theme]){${decls(T.contrast)}}}\n`;
   for (const name of Object.keys(T)) css += `:root[data-theme="${name}"]{${decls(T[name])}}\n`;
   return css;
@@ -101,6 +103,7 @@ export function contrastReport() {
       add(name, `warn on ${bg}`, t.warn, t[bg], 4.5);
     }
     add(name, "on-primary on primary", t.onPrimary, t.primary, 4.5);
+    for (const c of ["cyan", "violet", "warn", "ok"]) { add(name, `${c} (reference colour) on bg`, t[c], t.bg, 4.5); add(name, `${c} (reference colour) on surface`, t[c], t.surface, 4.5); }
     add(name, "border on bg (UI boundary)", t.border, t.bg, 3);
     add(name, "border on surface (UI boundary)", t.border, t.surface, 3);
     add(name, "focus ring on bg", t.focus, t.bg, 3);

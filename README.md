@@ -52,7 +52,6 @@ src/assets/                  CSS, the JavaScript game layer (ES modules, no bund
 docs/                        GENERATED site, committed, served by GitHub Pages
 guide/                       data-format.md, authoring.md
 worker/                      optional accounts / leaderboard service (Cloudflare Worker + D1), see its README
-notes/                       planning notes
 ```
 
 ## Adding a lesson
@@ -115,7 +114,7 @@ Target: WCAG 2.2 AA. Semantic landmarks, one `<h1>`, a skip link, labelled contr
 
 ## Privacy
 
-The site sets no cookies, has no analytics and loads nothing from third parties. Progress lives in `localStorage` (`anemone.state`, `anemone.settings`). Details: the site's Privacy page. Not legal advice; written with KVKK/GDPR awareness.
+The site sets no cookies, has no analytics and loads nothing from third parties. Progress lives in `localStorage` (`anemone.state`, `anemone.settings`). Details: the site's Privacy page. 
 
 ## Moderation word lists
 
@@ -123,7 +122,7 @@ The optional account service (in `worker/`) rejects offensive usernames, names, 
 
 ## How the content is made
 
-Everything here, code and text, was produced with AI assistance (Anthropic's Claude) under the direction of Alperen Yavuz, in a controlled multi-step process built for this project: source research, drafting from verified sources in original wording, verification of every citation against independent databases (Crossref, library and publisher records), automated validation, and revision. The project owner is responsible for what is published; the content has **not** yet been reviewed by a university lecturer, and Anemone is independent of İstanbul University/AUZEF (their course text was used only as a map of topics). The text is written in its own words, not copied from books; theories and facts are free to use and each lesson cites its sources. Translations are labelled until a native speaker has read them.
+Everything here, code and text, was produced with AI assistance (Anthropic's Claude) under the direction of Alperen Yavuz, in a controlled multi-step process built for this project: source research, drafting from verified sources in original wording, verification of every citation against independent databases (Crossref, library and publisher records), automated validation, and revision. The project owner is responsible for what is published; the content has **not** yet been reviewed by a university lecturer. The text is written in its own words, not copied from books; theories and facts are free to use and each lesson cites its sources. Translations are labelled until a native speaker has read them.
 
 ## Licence
 

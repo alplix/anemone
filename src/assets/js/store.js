@@ -7,7 +7,7 @@ const SKEY = "anemone.settings";
 export const FORMAT = "anemone-save";
 
 export const DEFAULT_SETTINGS = {
-  theme: "auto", fs: "1", lh: "1.6", dyslexia: false, motion: "auto", reading: "cards",
+  theme: "console", fs: "1", lh: "1.6", dyslexia: false, motion: "auto", reading: "cards",
   goalMin: 15, tip: "off", tipSeen: "", skipDeep: false,
 };
 
@@ -113,7 +113,8 @@ const str = (v, max = 64) => (typeof v === "string" ? v.slice(0, max) : "");
 
 export function sanitizeSettings(s) {
   const out = {};
-  if (["auto", "light", "dark", "sepia", "contrast", "cvd", "paper"].includes(s.theme)) out.theme = s.theme;
+  if (["console", "terminal", "amber", "ice", "light", "sepia", "contrast", "cvd", "paper"].includes(s.theme)) out.theme = s.theme;
+  else if (s.theme === "dark" || s.theme === "auto") out.theme = "console";
   if (["0.9", "1", "1.15", "1.3", "1.5", "1.75"].includes(String(s.fs))) out.fs = String(s.fs);
   if (["1.4", "1.6", "1.8", "2"].includes(String(s.lh))) out.lh = String(s.lh);
   if (typeof s.dyslexia === "boolean") out.dyslexia = s.dyslexia;

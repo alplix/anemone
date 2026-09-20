@@ -1,154 +1,154 @@
 {
   "id": "mass-communication-theories",
   "version": 1,
-  "_comment": "Language-independent structure. Order in this file = global order; prerequisites must point to EARLIER lessons (validated). status: planned | ready. auzef = units of the AUZEF course text (Polat 2016) the lesson covers, used for the exam-focused 'AUZEF track'.",
+  "_comment": "Language-independent structure. Order in this file = global order; prerequisites must point to EARLIER lessons (validated). status: planned | ready. ref = units of a reference course text the lesson covers (internal planning aid)..",
   "units": [
     {
       "id": "foundations", "color": "blue",
       "lessons": [
-        { "id": "what-is-communication", "prereq": [], "minutes": 30, "auzef": [], "status": "planned" },
-        { "id": "mass-media-history", "prereq": ["what-is-communication"], "minutes": 35, "auzef": [], "status": "planned" },
-        { "id": "what-is-theory", "prereq": ["what-is-communication"], "minutes": 30, "auzef": ["P1", "P12"], "status": "planned" },
-        { "id": "research-methods", "prereq": ["what-is-theory"], "minutes": 35, "auzef": [], "status": "planned" },
-        { "id": "social-thought-roots", "prereq": ["what-is-theory"], "minutes": 35, "auzef": ["P1", "P2"], "status": "planned" },
-        { "id": "functionalism-interactionism", "prereq": ["social-thought-roots"], "minutes": 35, "auzef": ["P2"], "status": "planned" },
-        { "id": "chicago-school", "prereq": ["social-thought-roots"], "minutes": 30, "auzef": [], "status": "planned" },
-        { "id": "mass-society", "prereq": ["social-thought-roots", "mass-media-history"], "minutes": 30, "auzef": [], "status": "planned" },
-        { "id": "lasswell-shannon-weaver", "prereq": ["what-is-theory"], "minutes": 30, "auzef": ["P4"], "status": "planned" },
-        { "id": "process-models", "prereq": ["lasswell-shannon-weaver"], "minutes": 35, "auzef": ["P6"], "status": "planned" },
-        { "id": "other-models", "prereq": ["process-models"], "minutes": 30, "auzef": [], "status": "planned" }
+        { "id": "what-is-communication", "prereq": [], "minutes": 30, "ref": [], "status": "planned" },
+        { "id": "mass-media-history", "prereq": ["what-is-communication"], "minutes": 35, "ref": [], "status": "planned" },
+        { "id": "what-is-theory", "prereq": ["what-is-communication"], "minutes": 30, "ref": ["P1", "P12"], "status": "planned" },
+        { "id": "research-methods", "prereq": ["what-is-theory"], "minutes": 35, "ref": [], "status": "planned" },
+        { "id": "social-thought-roots", "prereq": ["what-is-theory"], "minutes": 35, "ref": ["P1", "P2"], "status": "planned" },
+        { "id": "functionalism-interactionism", "prereq": ["social-thought-roots"], "minutes": 35, "ref": ["P2"], "status": "planned" },
+        { "id": "chicago-school", "prereq": ["social-thought-roots"], "minutes": 30, "ref": [], "status": "planned" },
+        { "id": "mass-society", "prereq": ["social-thought-roots", "mass-media-history"], "minutes": 30, "ref": [], "status": "planned" },
+        { "id": "lasswell-shannon-weaver", "prereq": ["what-is-theory"], "minutes": 30, "ref": ["P4"], "status": "planned" },
+        { "id": "process-models", "prereq": ["lasswell-shannon-weaver"], "minutes": 35, "ref": ["P6"], "status": "planned" },
+        { "id": "other-models", "prereq": ["process-models"], "minutes": 30, "ref": [], "status": "planned" }
       ]
     },
     {
       "id": "early-effects", "color": "red",
       "lessons": [
-        { "id": "propaganda-history", "prereq": ["mass-society", "lasswell-shannon-weaver"], "minutes": 35, "auzef": ["P6"], "status": "planned" },
-        { "id": "propaganda-public-opinion", "prereq": ["propaganda-history"], "minutes": 30, "auzef": ["P6"], "status": "planned" },
-        { "id": "magic-bullet", "prereq": ["propaganda-public-opinion"], "minutes": 30, "auzef": ["P10"], "status": "planned" },
-        { "id": "payne-fund-mars", "prereq": ["magic-bullet"], "minutes": 30, "auzef": [], "status": "planned" },
-        { "id": "persuasion-yale", "prereq": ["payne-fund-mars"], "minutes": 35, "auzef": ["P5"], "status": "planned" },
-        { "id": "attitudes-consistency", "prereq": ["persuasion-yale"], "minutes": 35, "auzef": ["P4", "P5"], "status": "planned" }
+        { "id": "propaganda-history", "prereq": ["mass-society", "lasswell-shannon-weaver"], "minutes": 35, "ref": ["P6"], "status": "planned" },
+        { "id": "propaganda-public-opinion", "prereq": ["propaganda-history"], "minutes": 30, "ref": ["P6"], "status": "planned" },
+        { "id": "magic-bullet", "prereq": ["propaganda-public-opinion"], "minutes": 30, "ref": ["P10"], "status": "planned" },
+        { "id": "payne-fund-mars", "prereq": ["magic-bullet"], "minutes": 30, "ref": [], "status": "planned" },
+        { "id": "persuasion-yale", "prereq": ["payne-fund-mars"], "minutes": 35, "ref": ["P5"], "status": "planned" },
+        { "id": "attitudes-consistency", "prereq": ["persuasion-yale"], "minutes": 35, "ref": ["P4", "P5"], "status": "planned" }
       ]
     },
     {
       "id": "limited-effects", "color": "orange",
       "lessons": [
-        { "id": "voting-studies", "prereq": ["attitudes-consistency"], "minutes": 35, "auzef": ["P7"], "status": "planned" },
-        { "id": "selective-processes", "prereq": ["voting-studies"], "minutes": 30, "auzef": ["P7"], "status": "planned" },
-        { "id": "two-step-flow", "prereq": ["voting-studies"], "minutes": 30, "auzef": ["P7"], "status": "planned" },
-        { "id": "functions-of-media", "prereq": ["selective-processes", "functionalism-interactionism"], "minutes": 30, "auzef": [], "status": "planned" },
-        { "id": "gatekeeping", "prereq": ["lasswell-shannon-weaver"], "minutes": 30, "auzef": ["P7"], "status": "planned" },
-        { "id": "news-values", "prereq": ["gatekeeping"], "minutes": 30, "auzef": [], "status": "planned" },
-        { "id": "diffusion", "prereq": ["two-step-flow"], "minutes": 35, "auzef": ["P7"], "status": "planned" },
-        { "id": "modernization-theories", "prereq": ["diffusion"], "minutes": 30, "auzef": [], "status": "planned" },
-        { "id": "dependency", "prereq": ["voting-studies", "functionalism-interactionism"], "minutes": 30, "auzef": ["P7"], "status": "planned" },
-        { "id": "children-and-tv", "prereq": ["selective-processes"], "minutes": 30, "auzef": [], "status": "planned" }
+        { "id": "voting-studies", "prereq": ["attitudes-consistency"], "minutes": 35, "ref": ["P7"], "status": "planned" },
+        { "id": "selective-processes", "prereq": ["voting-studies"], "minutes": 30, "ref": ["P7"], "status": "planned" },
+        { "id": "two-step-flow", "prereq": ["voting-studies"], "minutes": 30, "ref": ["P7"], "status": "planned" },
+        { "id": "functions-of-media", "prereq": ["selective-processes", "functionalism-interactionism"], "minutes": 30, "ref": [], "status": "planned" },
+        { "id": "gatekeeping", "prereq": ["lasswell-shannon-weaver"], "minutes": 30, "ref": ["P7"], "status": "planned" },
+        { "id": "news-values", "prereq": ["gatekeeping"], "minutes": 30, "ref": [], "status": "planned" },
+        { "id": "diffusion", "prereq": ["two-step-flow"], "minutes": 35, "ref": ["P7"], "status": "planned" },
+        { "id": "modernization-theories", "prereq": ["diffusion"], "minutes": 30, "ref": [], "status": "planned" },
+        { "id": "dependency", "prereq": ["voting-studies", "functionalism-interactionism"], "minutes": 30, "ref": ["P7"], "status": "planned" },
+        { "id": "children-and-tv", "prereq": ["selective-processes"], "minutes": 30, "ref": [], "status": "planned" }
       ]
     },
     {
       "id": "mid-range-effects", "color": "purple",
       "lessons": [
-        { "id": "agenda-setting", "prereq": ["voting-studies", "gatekeeping"], "minutes": 40, "auzef": ["P9"], "status": "ready" },
-        { "id": "priming-second-level", "prereq": ["agenda-setting"], "minutes": 35, "auzef": [], "status": "planned" },
-        { "id": "agenda-building", "prereq": ["agenda-setting"], "minutes": 30, "auzef": ["P9"], "status": "planned" },
-        { "id": "framing", "prereq": ["agenda-setting"], "minutes": 35, "auzef": [], "status": "planned" },
-        { "id": "cultivation", "prereq": ["magic-bullet", "voting-studies"], "minutes": 40, "auzef": ["P8"], "status": "ready" },
-        { "id": "mainstreaming-critique", "prereq": ["cultivation"], "minutes": 30, "auzef": ["P8"], "status": "planned" },
-        { "id": "spiral-of-silence", "prereq": ["cultivation"], "minutes": 40, "auzef": ["P10"], "status": "ready" },
-        { "id": "spiral-research", "prereq": ["spiral-of-silence"], "minutes": 30, "auzef": [], "status": "planned" },
-        { "id": "knowledge-gap", "prereq": ["diffusion"], "minutes": 30, "auzef": [], "status": "planned" }
+        { "id": "agenda-setting", "prereq": ["voting-studies", "gatekeeping"], "minutes": 40, "ref": ["P9"], "status": "ready" },
+        { "id": "priming-second-level", "prereq": ["agenda-setting"], "minutes": 35, "ref": [], "status": "planned" },
+        { "id": "agenda-building", "prereq": ["agenda-setting"], "minutes": 30, "ref": ["P9"], "status": "planned" },
+        { "id": "framing", "prereq": ["agenda-setting"], "minutes": 35, "ref": [], "status": "planned" },
+        { "id": "cultivation", "prereq": ["magic-bullet", "voting-studies"], "minutes": 40, "ref": ["P8"], "status": "ready" },
+        { "id": "mainstreaming-critique", "prereq": ["cultivation"], "minutes": 30, "ref": ["P8"], "status": "planned" },
+        { "id": "spiral-of-silence", "prereq": ["cultivation"], "minutes": 40, "ref": ["P10"], "status": "ready" },
+        { "id": "spiral-research", "prereq": ["spiral-of-silence"], "minutes": 30, "ref": [], "status": "planned" },
+        { "id": "knowledge-gap", "prereq": ["diffusion"], "minutes": 30, "ref": [], "status": "planned" }
       ]
     },
     {
       "id": "audience-effects", "color": "pink",
       "lessons": [
-        { "id": "uses-gratifications", "prereq": ["selective-processes"], "minutes": 35, "auzef": [], "status": "planned" },
-        { "id": "parasocial-interaction", "prereq": ["uses-gratifications"], "minutes": 30, "auzef": [], "status": "planned" },
-        { "id": "third-person-effect", "prereq": ["selective-processes"], "minutes": 30, "auzef": [], "status": "planned" },
-        { "id": "media-violence", "prereq": ["attitudes-consistency", "children-and-tv"], "minutes": 40, "auzef": [], "status": "planned" },
-        { "id": "media-effects-eras", "prereq": ["agenda-setting", "cultivation", "uses-gratifications"], "minutes": 30, "auzef": ["P12"], "status": "planned" }
+        { "id": "uses-gratifications", "prereq": ["selective-processes"], "minutes": 35, "ref": [], "status": "planned" },
+        { "id": "parasocial-interaction", "prereq": ["uses-gratifications"], "minutes": 30, "ref": [], "status": "planned" },
+        { "id": "third-person-effect", "prereq": ["selective-processes"], "minutes": 30, "ref": [], "status": "planned" },
+        { "id": "media-violence", "prereq": ["attitudes-consistency", "children-and-tv"], "minutes": 40, "ref": [], "status": "planned" },
+        { "id": "media-effects-eras", "prereq": ["agenda-setting", "cultivation", "uses-gratifications"], "minutes": 30, "ref": ["P12"], "status": "planned" }
       ]
     },
     {
       "id": "technology", "color": "teal",
       "lessons": [
-        { "id": "innis-toronto", "prereq": ["what-is-theory"], "minutes": 30, "auzef": ["P11"], "status": "planned" },
-        { "id": "mcluhan", "prereq": ["innis-toronto"], "minutes": 35, "auzef": ["P11"], "status": "planned" },
-        { "id": "media-ecology", "prereq": ["mcluhan"], "minutes": 35, "auzef": [], "status": "planned" },
-        { "id": "technology-critique", "prereq": ["mcluhan"], "minutes": 30, "auzef": [], "status": "planned" }
+        { "id": "innis-toronto", "prereq": ["what-is-theory"], "minutes": 30, "ref": ["P11"], "status": "planned" },
+        { "id": "mcluhan", "prereq": ["innis-toronto"], "minutes": 35, "ref": ["P11"], "status": "planned" },
+        { "id": "media-ecology", "prereq": ["mcluhan"], "minutes": 35, "ref": [], "status": "planned" },
+        { "id": "technology-critique", "prereq": ["mcluhan"], "minutes": 30, "ref": [], "status": "planned" }
       ]
     },
     {
       "id": "critical", "color": "crimson",
       "lessons": [
-        { "id": "marxist-foundations", "prereq": ["social-thought-roots"], "minutes": 35, "auzef": ["P3"], "status": "planned" },
-        { "id": "mass-culture-debate", "prereq": ["mass-society"], "minutes": 30, "auzef": [], "status": "planned" },
-        { "id": "frankfurt-1", "prereq": ["marxist-foundations", "mass-society"], "minutes": 40, "auzef": ["P13"], "status": "planned" },
-        { "id": "frankfurt-2", "prereq": ["frankfurt-1"], "minutes": 30, "auzef": ["P13"], "status": "planned" },
-        { "id": "public-sphere", "prereq": ["frankfurt-1"], "minutes": 40, "auzef": ["P13"], "status": "planned" },
-        { "id": "gramsci-hegemony", "prereq": ["marxist-foundations"], "minutes": 35, "auzef": [], "status": "planned" },
-        { "id": "althusser-ideology", "prereq": ["marxist-foundations"], "minutes": 30, "auzef": [], "status": "planned" },
-        { "id": "political-economy-intro", "prereq": ["marxist-foundations"], "minutes": 35, "auzef": [], "status": "planned" },
-        { "id": "audience-commodity", "prereq": ["political-economy-intro"], "minutes": 30, "auzef": [], "status": "planned" },
-        { "id": "propaganda-model", "prereq": ["political-economy-intro", "propaganda-public-opinion"], "minutes": 35, "auzef": [], "status": "planned" },
-        { "id": "news-sociology", "prereq": ["gatekeeping", "propaganda-model"], "minutes": 35, "auzef": [], "status": "planned" },
-        { "id": "globalization-imperialism", "prereq": ["political-economy-intro", "modernization-theories"], "minutes": 35, "auzef": [], "status": "planned" },
-        { "id": "orientalism-postcolonial", "prereq": ["globalization-imperialism"], "minutes": 35, "auzef": [], "status": "planned" },
-        { "id": "feminist-media-theory", "prereq": ["what-is-theory"], "minutes": 40, "auzef": [], "status": "planned" }
+        { "id": "marxist-foundations", "prereq": ["social-thought-roots"], "minutes": 35, "ref": ["P3"], "status": "planned" },
+        { "id": "mass-culture-debate", "prereq": ["mass-society"], "minutes": 30, "ref": [], "status": "planned" },
+        { "id": "frankfurt-1", "prereq": ["marxist-foundations", "mass-society"], "minutes": 40, "ref": ["P13"], "status": "planned" },
+        { "id": "frankfurt-2", "prereq": ["frankfurt-1"], "minutes": 30, "ref": ["P13"], "status": "planned" },
+        { "id": "public-sphere", "prereq": ["frankfurt-1"], "minutes": 40, "ref": ["P13"], "status": "planned" },
+        { "id": "gramsci-hegemony", "prereq": ["marxist-foundations"], "minutes": 35, "ref": [], "status": "planned" },
+        { "id": "althusser-ideology", "prereq": ["marxist-foundations"], "minutes": 30, "ref": [], "status": "planned" },
+        { "id": "political-economy-intro", "prereq": ["marxist-foundations"], "minutes": 35, "ref": [], "status": "planned" },
+        { "id": "audience-commodity", "prereq": ["political-economy-intro"], "minutes": 30, "ref": [], "status": "planned" },
+        { "id": "propaganda-model", "prereq": ["political-economy-intro", "propaganda-public-opinion"], "minutes": 35, "ref": [], "status": "planned" },
+        { "id": "news-sociology", "prereq": ["gatekeeping", "propaganda-model"], "minutes": 35, "ref": [], "status": "planned" },
+        { "id": "globalization-imperialism", "prereq": ["political-economy-intro", "modernization-theories"], "minutes": 35, "ref": [], "status": "planned" },
+        { "id": "orientalism-postcolonial", "prereq": ["globalization-imperialism"], "minutes": 35, "ref": [], "status": "planned" },
+        { "id": "feminist-media-theory", "prereq": ["what-is-theory"], "minutes": 40, "ref": [], "status": "planned" }
       ]
     },
     {
       "id": "culture-meaning", "color": "green",
       "lessons": [
-        { "id": "saussure-structuralism", "prereq": ["what-is-theory"], "minutes": 35, "auzef": ["P14"], "status": "planned" },
-        { "id": "semiotics-barthes", "prereq": ["saussure-structuralism"], "minutes": 35, "auzef": ["P14"], "status": "planned" },
-        { "id": "ritual-view", "prereq": ["process-models"], "minutes": 30, "auzef": [], "status": "planned" },
-        { "id": "cultural-studies-birmingham", "prereq": ["gramsci-hegemony", "saussure-structuralism"], "minutes": 35, "auzef": ["P14"], "status": "planned" },
-        { "id": "subcultures-moral-panics", "prereq": ["cultural-studies-birmingham"], "minutes": 30, "auzef": [], "status": "planned" },
-        { "id": "encoding-decoding", "prereq": ["cultural-studies-birmingham", "uses-gratifications"], "minutes": 40, "auzef": [], "status": "planned" },
-        { "id": "audience-reception", "prereq": ["encoding-decoding"], "minutes": 35, "auzef": [], "status": "planned" },
-        { "id": "discourse-power", "prereq": ["saussure-structuralism"], "minutes": 40, "auzef": [], "status": "planned" },
-        { "id": "postmodernism", "prereq": ["saussure-structuralism", "frankfurt-1"], "minutes": 35, "auzef": ["P14"], "status": "planned" },
-        { "id": "social-construction-of-reality", "prereq": ["functionalism-interactionism"], "minutes": 30, "auzef": [], "status": "planned" }
+        { "id": "saussure-structuralism", "prereq": ["what-is-theory"], "minutes": 35, "ref": ["P14"], "status": "planned" },
+        { "id": "semiotics-barthes", "prereq": ["saussure-structuralism"], "minutes": 35, "ref": ["P14"], "status": "planned" },
+        { "id": "ritual-view", "prereq": ["process-models"], "minutes": 30, "ref": [], "status": "planned" },
+        { "id": "cultural-studies-birmingham", "prereq": ["gramsci-hegemony", "saussure-structuralism"], "minutes": 35, "ref": ["P14"], "status": "planned" },
+        { "id": "subcultures-moral-panics", "prereq": ["cultural-studies-birmingham"], "minutes": 30, "ref": [], "status": "planned" },
+        { "id": "encoding-decoding", "prereq": ["cultural-studies-birmingham", "uses-gratifications"], "minutes": 40, "ref": [], "status": "planned" },
+        { "id": "audience-reception", "prereq": ["encoding-decoding"], "minutes": 35, "ref": [], "status": "planned" },
+        { "id": "discourse-power", "prereq": ["saussure-structuralism"], "minutes": 40, "ref": [], "status": "planned" },
+        { "id": "postmodernism", "prereq": ["saussure-structuralism", "frankfurt-1"], "minutes": 35, "ref": ["P14"], "status": "planned" },
+        { "id": "social-construction-of-reality", "prereq": ["functionalism-interactionism"], "minutes": 30, "ref": [], "status": "planned" }
       ]
     },
     {
       "id": "normative-systems", "color": "slate",
       "lessons": [
-        { "id": "press-freedom-history", "prereq": ["mass-society"], "minutes": 30, "auzef": [], "status": "planned" },
-        { "id": "four-theories", "prereq": ["press-freedom-history"], "minutes": 30, "auzef": [], "status": "planned" },
-        { "id": "social-responsibility", "prereq": ["four-theories"], "minutes": 30, "auzef": [], "status": "planned" },
-        { "id": "public-service-media", "prereq": ["social-responsibility", "public-sphere"], "minutes": 30, "auzef": [], "status": "planned" },
-        { "id": "media-ethics", "prereq": ["social-responsibility"], "minutes": 30, "auzef": [], "status": "planned" },
-        { "id": "media-systems", "prereq": ["four-theories"], "minutes": 30, "auzef": [], "status": "planned" },
-        { "id": "turkey-media", "prereq": ["media-systems"], "minutes": 40, "auzef": [], "status": "planned" }
+        { "id": "press-freedom-history", "prereq": ["mass-society"], "minutes": 30, "ref": [], "status": "planned" },
+        { "id": "four-theories", "prereq": ["press-freedom-history"], "minutes": 30, "ref": [], "status": "planned" },
+        { "id": "social-responsibility", "prereq": ["four-theories"], "minutes": 30, "ref": [], "status": "planned" },
+        { "id": "public-service-media", "prereq": ["social-responsibility", "public-sphere"], "minutes": 30, "ref": [], "status": "planned" },
+        { "id": "media-ethics", "prereq": ["social-responsibility"], "minutes": 30, "ref": [], "status": "planned" },
+        { "id": "media-systems", "prereq": ["four-theories"], "minutes": 30, "ref": [], "status": "planned" },
+        { "id": "turkey-media", "prereq": ["media-systems"], "minutes": 40, "ref": [], "status": "planned" }
       ]
     },
     {
       "id": "digital", "color": "indigo",
       "lessons": [
-        { "id": "cmc-theories", "prereq": ["process-models"], "minutes": 35, "auzef": [], "status": "planned" },
-        { "id": "network-society", "prereq": ["technology-critique", "political-economy-intro"], "minutes": 35, "auzef": [], "status": "planned" },
-        { "id": "participatory-culture", "prereq": ["uses-gratifications", "network-society"], "minutes": 30, "auzef": [], "status": "planned" },
-        { "id": "networked-publics", "prereq": ["cmc-theories"], "minutes": 30, "auzef": [], "status": "planned" },
-        { "id": "connective-action", "prereq": ["networked-publics", "network-society"], "minutes": 35, "auzef": [], "status": "planned" },
-        { "id": "digital-public-sphere", "prereq": ["public-sphere", "networked-publics"], "minutes": 30, "auzef": [], "status": "planned" },
-        { "id": "filter-bubbles", "prereq": ["spiral-of-silence", "network-society"], "minutes": 35, "auzef": [], "status": "planned" },
-        { "id": "disinformation", "prereq": ["agenda-setting", "filter-bubbles"], "minutes": 40, "auzef": [], "status": "planned" },
-        { "id": "platform-society", "prereq": ["political-economy-intro", "network-society"], "minutes": 35, "auzef": [], "status": "planned" },
-        { "id": "surveillance-capitalism", "prereq": ["platform-society"], "minutes": 30, "auzef": [], "status": "planned" },
-        { "id": "algorithmic-media", "prereq": ["platform-society"], "minutes": 30, "auzef": [], "status": "planned" },
-        { "id": "mediatization", "prereq": ["media-ecology", "news-sociology"], "minutes": 35, "auzef": [], "status": "planned" },
-        { "id": "digital-divide-literacy", "prereq": ["knowledge-gap", "network-society"], "minutes": 30, "auzef": [], "status": "planned" },
-        { "id": "ai-and-communication", "prereq": ["algorithmic-media", "disinformation"], "minutes": 30, "auzef": [], "status": "planned" }
+        { "id": "cmc-theories", "prereq": ["process-models"], "minutes": 35, "ref": [], "status": "planned" },
+        { "id": "network-society", "prereq": ["technology-critique", "political-economy-intro"], "minutes": 35, "ref": [], "status": "planned" },
+        { "id": "participatory-culture", "prereq": ["uses-gratifications", "network-society"], "minutes": 30, "ref": [], "status": "planned" },
+        { "id": "networked-publics", "prereq": ["cmc-theories"], "minutes": 30, "ref": [], "status": "planned" },
+        { "id": "connective-action", "prereq": ["networked-publics", "network-society"], "minutes": 35, "ref": [], "status": "planned" },
+        { "id": "digital-public-sphere", "prereq": ["public-sphere", "networked-publics"], "minutes": 30, "ref": [], "status": "planned" },
+        { "id": "filter-bubbles", "prereq": ["spiral-of-silence", "network-society"], "minutes": 35, "ref": [], "status": "planned" },
+        { "id": "disinformation", "prereq": ["agenda-setting", "filter-bubbles"], "minutes": 40, "ref": [], "status": "planned" },
+        { "id": "platform-society", "prereq": ["political-economy-intro", "network-society"], "minutes": 35, "ref": [], "status": "planned" },
+        { "id": "surveillance-capitalism", "prereq": ["platform-society"], "minutes": 30, "ref": [], "status": "planned" },
+        { "id": "algorithmic-media", "prereq": ["platform-society"], "minutes": 30, "ref": [], "status": "planned" },
+        { "id": "mediatization", "prereq": ["media-ecology", "news-sociology"], "minutes": 35, "ref": [], "status": "planned" },
+        { "id": "digital-divide-literacy", "prereq": ["knowledge-gap", "network-society"], "minutes": 30, "ref": [], "status": "planned" },
+        { "id": "ai-and-communication", "prereq": ["algorithmic-media", "disinformation"], "minutes": 30, "ref": [], "status": "planned" }
       ]
     },
     {
       "id": "capstone", "color": "gold",
       "lessons": [
-        { "id": "theory-map", "prereq": ["media-effects-eras", "frankfurt-1", "cultural-studies-birmingham"], "minutes": 30, "auzef": ["P12"], "status": "planned" },
-        { "id": "exam-strategies", "prereq": ["theory-map"], "minutes": 30, "auzef": [], "status": "planned" },
-        { "id": "case-workshop", "prereq": ["theory-map"], "minutes": 40, "auzef": [], "status": "planned" }
+        { "id": "theory-map", "prereq": ["media-effects-eras", "frankfurt-1", "cultural-studies-birmingham"], "minutes": 30, "ref": ["P12"], "status": "planned" },
+        { "id": "exam-strategies", "prereq": ["theory-map"], "minutes": 30, "ref": [], "status": "planned" },
+        { "id": "case-workshop", "prereq": ["theory-map"], "minutes": 40, "ref": [], "status": "planned" }
       ]
     }
   ]

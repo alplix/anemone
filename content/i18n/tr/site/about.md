@@ -13,7 +13,7 @@ Kodlayan: **Alperen Yavuz**. Yazan: **Alperen Yavuz**. Alperen projeyi tasarlar 
 
 Bu sitedeki her şey, yazılım da metin de, Alperen Yavuz'un yönlendirmesiyle yapay zekâ desteğiyle üretildi (kullanılan model Anthropic'in Claude'udur). Bu, bir sohbet robotuna yöneltilmiş tek bir istek değildir. Bu proje için özel olarak hazırlanmış, kontrollü ve çok adımlı bir süreçtir:
 
-1. **Araştırma.** Her ders için üniversitelerin izlenceleri ve ders notları karşılaştırılır (bunlar arasında İstanbul Üniversitesi AUZEF ders notu var; yalnızca konu haritası olarak kullanılır), yanı sıra uluslararası ders kitapları ve her şeyden önce özgün eserler ve çalışmalar taranır.
+1. **Araştırma.** Her ders için ders izlenceleri ve ders kitapları karşılaştırılır yanı sıra uluslararası ders kitapları ve her şeyden önce özgün eserler ve çalışmalar taranır.
 2. **Taslak.** Dersler bu kaynaklardan, yapay zekânın kendi cümleleriyle, yazılı bir yazım rehberine uyularak taslaklanır (önce doğruluk, kart başına tek fikir, düşündüren sorular).
 3. **Doğrulama.** Her atıf bağımsız bir veritabanına karşı sınanır (makaleler için Crossref, kitaplar için kütüphane ve yayınevi kayıtları). Doğrulanamayan kaynak kullanılmaz. Biyografiler için en az iki bağımsız kaynak aranır. Otomatik doğrulayıcılar; başvuruların çözüldüğünü, önkoşulların tutarlı olduğunu, her sorunun tek doğru cevabı olduğunu ve çevirilerin özgün metinle aynı yapıya sahip olduğunu denetler.
 4. **Düzenleme.** Taslaklar sonraki turlarda gözden geçirilir; doğrulanamayan her şey tahmin edilmek yerine listelenir ve dışarıda bırakılır.
@@ -23,7 +23,6 @@ Anlatım özgündür. Metin kitaplardan kopyalanmaz: olgular, adlar, tarihler ve
 ## Bu ne değildir?
 
 - Henüz **bir üniversite öğretim üyesi tarafından gözden geçirilmedi**. Yukarıdaki kontrollere rağmen hata olabilir. Bir hata bulursan lütfen bize bildir (İletişim sayfasına bak).
-- **Bağımsızdır.** İstanbul Üniversitesi'nin, AUZEF'in veya başka bir kurumun yayını, onaylı ya da bağlantılı işi değildir. Ders notları yalnızca bir dersin hangi konuları kapsadığını gösteren harita olarak kullanılır.
 - Sınav sonucu konusunda hiçbir garanti vermez.
 
 ## Kaynaklar ve "son güncelleme" tarihi

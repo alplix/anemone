@@ -8,8 +8,7 @@ import { render as renderMd } from "./markdown.mjs";
 const AUTHOR = (cx) => ({ "@type": "Person", name: cx.config.author.name, url: cx.config.author.url });
 
 function crumbs(cx, items) {
-  const html = `<nav class="breadcrumb small" aria-label="${esc(cx.t("nav.breadcrumb"))}"><ol style="list-style:none;display:flex;flex-wrap:wrap;gap:.2rem .6rem;padding:0;margin:.8rem 0 0">${items
-    .map((it, i) => `<li>${it.url && i < items.length - 1 ? `<a href="${esc(it.url)}">${esc(it.name)}</a>` : `<span${i === items.length - 1 ? ' aria-current="page"' : ""}>${esc(it.name)}</span>`}${i < items.length - 1 ? '<span aria-hidden="true"> ›</span>' : ""}</li>`).join("")}</ol></nav>`;
+  const html = "";
   return { html, ld: breadcrumbLd(cx, items.map((it) => ({ name: it.name, url: it.url || cx.url() }))) };
 }
 
@@ -106,7 +105,7 @@ export function lessonPage(cx, course, lesson) {
       bodyHtml += `<section class="lesson-section" data-section="${c.section}" aria-labelledby="s-${c.section}"><h2 id="s-${c.section}">${esc(t("section." + c.section))}</h2>\n`;
     }
     const inner = md(cx, c.body, mdc);
-    const q = c.question ? staticQuestion(cx, plainQuestion(c.question), t("lesson.mini-question")) : "";
+    const q = ""; // questions live in the separate Questions area, never inside a lesson
     const kindLabel = c.layer === "deep" ? t("kind.deep") : t("kind." + c.kind);
     tocItems.push({ id: c.id, title: c.title, layer: c.layer });
     if (c.layer === "deep") {
@@ -116,7 +115,6 @@ export function lessonPage(cx, course, lesson) {
     }
   }
   closeSection();
-  const quizHtml = (text.quiz || []).map((q, i) => staticQuestion(cx, plainQuestion(q), t("lesson.question-n", { n: i + 1 }))).join("\n");
 
   // references
   const cited = [...citeMap.entries()].sort((a, b) => a[1] - b[1]);
@@ -128,11 +126,14 @@ export function lessonPage(cx, course, lesson) {
   const prereqLinks = (lesson.prereq || []).map((p) => `<a href="${esc(lessonUrl(cx, course, p))}">${esc(info.lessons[p].title)}</a>`).join(", ");
   const idx = lesson.index;
   const prev = course.lessons[idx - 1], next = course.lessons[idx + 1];
+  const practice = `<p class="callout"><a class="btn btn-primary" href="${esc(cx.url("app", "review"))}?lesson=${esc(lesson.id)}">${esc(t("lesson.practice"))}</a> <span class="small muted">${esc(t("lesson.practice-hint"))}</span></p>`;
   const pager = `<nav class="pager" aria-label="${esc(t("lesson.pager"))}">${prev ? `<a href="${esc(lessonUrl(cx, course, prev.id))}" rel="prev"><small>${esc(t("lesson.prev"))}</small>${esc(info.lessons[prev.id].title)}</a>` : "<span></span>"}${next ? `<a href="${esc(lessonUrl(cx, course, next.id))}" rel="next"><small>${esc(t("lesson.next"))}</small>${esc(info.lessons[next.id].title)}</a>` : ""}</nav>`;
 
   const peopleLinks = (meta.people || []).map((id) => L.people[id] ? `<li><a class="ref ref-person" data-ref="person:${id}" href="${esc(cx.url(cx.seg("url.people"), L.people[id].slug))}">${esc(L.people[id].name)}</a></li>` : "").join("");
   const conceptLinks = (meta.concepts || []).map((id) => L.concepts[id] ? `<li><a class="ref ref-concept" data-ref="concept:${id}" href="${esc(cx.url(cx.seg("url.glossary"), L.concepts[id].slug))}">${esc(L.concepts[id].term)}</a></li>` : "").join("");
 
+  const listInline = (items) => `<ul>${items}</ul>`;
+  const infobox = `<aside class="infobox" aria-labelledby="ib-h"><h2 id="ib-h">${esc(t("lesson.in-lesson"))}</h2><dl>${prereqLinks ? `<dt>${esc(t("lesson.prereqs"))}</dt><dd>${prereqLinks}</dd>` : ""}${peopleLinks ? `<dt>${esc(t("lesson.people"))}</dt><dd>${listInline(peopleLinks)}</dd>` : ""}${conceptLinks ? `<dt>${esc(t("lesson.concepts"))}</dt><dd>${listInline(conceptLinks)}</dd>` : ""}<dt>${esc(t("lesson.references"))}</dt><dd><a href="#references">${esc(t("lesson.jump-refs"))}</a></dd></dl></aside>`;
   const tocHtml = `<details class="toc"><summary>${esc(t("lesson.toc"))}</summary><ol>${tocItems.map((i) => `<li><a href="#c-${esc(i.id)}">${esc(plainText(i.title))}</a>${i.layer === "deep" ? ` <span class="small muted">(${esc(t("kind.deep"))})</span>` : ""}</li>`).join("")}</ol></details>`;
 
   const payload = buildLessonPayload(cx, course, lesson, text);
@@ -142,7 +143,6 @@ export function lessonPage(cx, course, lesson) {
     { name: text.title, url },
   ]);
   const minutesText = t("lesson.minutes", { n: lesson.minutes });
-  const auzef = lesson.auzef?.length ? `<li><span class="badge badge-soft" title="${esc(t("lesson.auzef-title"))}">${esc(t("badge.auzef"))} ${esc(lesson.auzef.join(", "))}</span></li>` : "";
   const body = `<div class="container reading ${famClass(unit.color)}">
 ${bc.html}
 <article class="lesson" data-course="${esc(course.id)}" data-lesson="${esc(lesson.id)}" data-unit="${esc(unit.id)}" lang="${esc(lang.code)}">
@@ -150,23 +150,20 @@ ${bc.html}
 <p class="eyebrow">${esc(t("lesson.unit", { n: unit.index + 1 + 0, title: unitInfo.title }))}</p>
 <h1>${esc(text.title)}</h1>
 <p class="lead">${esc(plainText(text.claim))}</p>
-<ul class="lesson-meta"><li>${esc(minutesText)}</li><li>${esc(t("lesson.updated", { date: cx.dateFmt(text.updated) }))}</li>${auzef}</ul>
-${prereqLinks ? `<p class="small">${esc(t("lesson.prereqs"))} ${prereqLinks}</p>` : ""}
+<ul class="lesson-meta"><li>${esc(minutesText)}</li><li>${esc(t("lesson.updated", { date: cx.dateFmt(text.updated) }))}</li></ul>
 </header>
 <div id="reader-mount"></div>
+${infobox}
 ${tocHtml}
 <div id="lesson-body">
 ${bodyHtml}
-<section class="lesson-section" id="quiz" aria-labelledby="quiz-h"><h2 id="quiz-h">${esc(t("lesson.quiz"))}</h2>
-${quizHtml}
-</section>
 </div>
-${peopleLinks || conceptLinks ? `<section aria-labelledby="in-lesson"><h2 id="in-lesson">${esc(t("lesson.in-lesson"))}</h2>${peopleLinks ? `<h3>${esc(t("lesson.people"))}</h3><ul>${peopleLinks}</ul>` : ""}${conceptLinks ? `<h3>${esc(t("lesson.concepts"))}</h3><ul>${conceptLinks}</ul>` : ""}</section>` : ""}
 <section id="references" aria-labelledby="refs-h"><h2 id="refs-h">${esc(t("lesson.references"))}</h2>
 <ol class="reference-list">${refsHtml}</ol>
 ${also ? `<h3>${esc(t("lesson.also-consulted"))}</h3><ul>${also}</ul>` : ""}
 </section>
 <p class="small muted">${esc(t("lesson.method-note"))} <a href="${esc(cx.url(cx.seg("url.about")))}">${esc(t("footer.how"))}</a></p>
+${practice}
 ${pager}
 </article>
 </div>`;
@@ -217,7 +214,7 @@ export function lessonStubPage(cx, course, lesson) {
 <p class="eyebrow">${esc(t("lesson.unit", { n: unit.index + 1, title: info.units[unit.id].title }))}</p>
 <h1>${esc(li.title)}</h1>
 <p class="notice" role="note">${esc(t("lesson.planned-body"))}</p>
-<ul class="lesson-meta"><li>${esc(t("lesson.minutes", { n: lesson.minutes }))}</li>${lesson.auzef?.length ? `<li><span class="badge badge-soft">${esc(t("badge.auzef"))} ${esc(lesson.auzef.join(", "))}</span></li>` : ""}</ul>
+<ul class="lesson-meta"><li>${esc(t("lesson.minutes", { n: lesson.minutes }))}</li></ul>
 ${prereq ? `<h2>${esc(t("lesson.prereqs"))}</h2><ul>${prereq}</ul>` : ""}
 <p><a class="btn" href="${esc(courseUrl(cx, course))}">${esc(t("lesson.back-to-course"))}</a></p>
 </article></div>`;
@@ -240,7 +237,7 @@ export function coursePage(cx, course) {
       const li = info.lessons[l.id];
       const rec = course.lessonById[l.id];
       const state = l.status === "ready" ? t("state.available") : t("state.planned");
-      return `<li class="lesson-item" data-lesson="${esc(l.id)}" data-prereq="${esc((l.prereq || []).join(" "))}" data-status="${l.status}" data-state="${l.status === "ready" ? "open" : "planned"}"><span class="num">${rec.index + 1}.</span><a href="${esc(lessonUrl(cx, course, l.id))}">${esc(li.title)}</a><span class="badge">${esc(t("lesson.minutes", { n: l.minutes }))}</span>${l.auzef?.length ? `<span class="badge badge-soft" title="${esc(t("lesson.auzef-title"))}">${esc(t("badge.auzef"))}</span>` : ""}<span class="state" data-role="state">${esc(state)}</span></li>`;
+      return `<li class="lesson-item" data-lesson="${esc(l.id)}" data-prereq="${esc((l.prereq || []).join(" "))}" data-status="${l.status}" data-state="${l.status === "ready" ? "open" : "planned"}"><span class="num">${rec.index + 1}.</span><a href="${esc(lessonUrl(cx, course, l.id))}">${esc(li.title)}</a><span class="badge">${esc(t("lesson.minutes", { n: l.minutes }))}</span><span class="state" data-role="state">${esc(state)}</span></li>`;
     }).join("");
     return `<section class="unit ${famClass(u.color)}" id="unit-${esc(u.id)}" aria-labelledby="u-${esc(u.id)}" data-unit="${esc(u.id)}"><p class="eyebrow">${esc(t("lesson.unit-short", { n: ui + 1 }))}</p><h2 id="u-${esc(u.id)}">${esc(uinfo.title)}</h2><ul class="lesson-list">${items}</ul></section>`;
   }).join("\n");
@@ -248,7 +245,6 @@ export function coursePage(cx, course) {
 <header class="hero"><p class="eyebrow">${esc(t("course.eyebrow"))}</p><h1>${esc(info.title)}</h1><p class="lead">${esc(info.description)}</p>
 <ul class="lesson-meta"><li>${esc(t("course.n-units", { n: course.units.length }))}</li><li>${esc(t("course.n-lessons", { n: course.lessons.length }))}</li><li>${esc(t("course.n-hours", { n: Math.round(total / 60) }))}</li><li>${esc(t("course.n-ready", { n: ready, total: course.lessons.length }))}</li></ul>
 <div class="btn-row js-only"><a class="btn btn-primary" id="continue-link" data-course="${esc(course.id)}" href="#" hidden></a></div>
-<p class="callout">${esc(t("course.auzef-note"))}</p>
 </header>
 <div id="course-map" data-course="${esc(course.id)}">
 ${units}
@@ -265,18 +261,31 @@ ${units}
 
 export function homePage(cx) {
   const { model, lang, t, config } = cx;
-  const tiles = Object.values(model.courses).map((course) => {
-    const info = model.i18n[lang.code].courses[course.id].info;
-    const total = course.lessons.reduce((a, l) => a + l.minutes, 0);
-    return `<li class="tile fam-blue"><h3><a class="stretch" href="${esc(courseUrl(cx, course))}">${esc(info.title)}</a></h3><p>${esc(info.description)}</p><p class="meta">${esc(t("course.n-lessons", { n: course.lessons.length }))} · ${esc(t("course.n-hours", { n: Math.round(total / 60) }))}</p></li>`;
-  }).join("");
+  const L = model.i18n[lang.code];
+  const course = Object.values(model.courses)[0];
+  const cinfo = L.courses[course.id].info;
+  const total = course.lessons.reduce((a, l) => a + l.minutes, 0);
+  const item = (href, title, what) => `<li><a href="${esc(href)}"><span>${esc(title)}</span><span class="what">${esc(what)}</span></a></li>`;
+  const index = [
+    item(courseUrl(cx, course), cinfo.title, t("idx.course", { lessons: course.lessons.length, hours: Math.round(total / 60) })),
+    item(cx.url(cx.seg("url.people")), t("nav.people"), t("idx.people")),
+    item(cx.url(cx.seg("url.glossary")), t("nav.glossary"), t("idx.glossary")),
+    item(cx.url(cx.seg("url.timeline")), t("nav.timeline"), t("idx.timeline")),
+    item(cx.url("app", "study"), t("nav.study"), t("idx.study")),
+    item(cx.url("app", "review"), t("app.review.title"), t("idx.review")),
+    item(cx.url("app", "exam"), t("app.exam.title"), t("idx.exam")),
+    item(cx.url("app", "stats"), t("app.stats.title"), t("idx.stats")),
+    item(cx.url("app", "settings"), t("nav.settings"), t("idx.settings")),
+    item(cx.url("app", "account"), t("app.account.title"), t("idx.account")),
+    item(cx.url(cx.seg("url.about")), t("nav.about"), t("idx.about")),
+  ].join("");
   const features = [1, 2, 3, 4, 5, 6].map((i) => `<li><strong>${esc(t("home.f" + i + ".t"))}</strong> ${esc(t("home.f" + i + ".d"))}</li>`).join("");
-  const body = `<div class="container">
+  const body = `<div class="container reading">
 <header class="hero"><p class="eyebrow">${esc(t("site.tagline"))}</p><h1>${esc(t("home.title"))}</h1><p class="lead">${esc(t("home.lead"))}</p>
-<div class="btn-row"><a class="btn btn-primary js-only" id="continue-link" href="#" hidden></a><a class="btn" id="start-link" href="${esc(courseUrl(cx, Object.values(model.courses)[0]))}">${esc(t("home.browse"))}</a><a class="btn btn-ghost js-only" href="${esc(cx.url("app", "study"))}">${esc(t("nav.study"))}</a></div></header>
-<section aria-labelledby="courses-h"><h2 id="courses-h">${esc(t("home.courses"))}</h2><ul class="tiles">${tiles}</ul></section>
-<section aria-labelledby="how-h"><h2 id="how-h">${esc(t("home.how"))}</h2><ul>${features}</ul></section>
+<div class="btn-row"><a class="btn btn-primary js-only" id="continue-link" href="#" hidden></a></div></header>
+<section aria-labelledby="idx-h"><h2 id="idx-h">${esc(t("idx.title"))}</h2><ul class="index-list">${index}</ul></section>
 <div id="daily-tip" class="js-only" hidden></div>
+<section aria-labelledby="how-h"><h2 id="how-h">${esc(t("home.how"))}</h2><ul>${features}</ul></section>
 </div>`;
   const ld = [{ "@context": "https://schema.org", "@type": "WebSite", name: config.name, url: cx.abs(cx.url()), inLanguage: lang.code, description: t("home.lead"), author: AUTHOR(cx), publisher: AUTHOR(cx) }];
   return { key: "home", kind: "home", lang, path: cx.url(), title: t("home.meta-title", { name: config.name }), description: t("home.lead"), robots: "index", body, pageType: "home", ld, nav: "courses" };

@@ -28,8 +28,7 @@ Keep the register and the humour of the source: friendly, direct, curious, never
 
 ## Sources and the Turkish course
 
-`turkey` cards (examples from Turkey) stay in the translation with the Turkish context explained in one clause for foreign readers. The "AUZEF" mentions in `exam` cards stay (they matter for Turkish students) with a short gloss ("the İstanbul University open and distance education faculty").
-
+`turkey` cards (examples from Turkey) stay in the translation with the Turkish context explained in one clause for foreign readers.
 ## Status flag
 
 Set `"translation": { "status": "machine", "date": "<today>" }` on lesson files (and add `"translation": { "status": "machine" }` to people and concept files). It becomes `reviewed` only after a native speaker has read the text. The site shows an "automatic translation" label until then.

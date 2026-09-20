@@ -1,0 +1,18 @@
+{
+  "app.review.title": "Questions",
+  "app.review.desc": "Questions chosen for you from what you have read: reviews, mistakes and new ones (private, stored on this device).",
+  "idx.review": "Questions picked for you by your progress",
+  "review.intro": "Questions are not part of the lessons. This area serves them to you according to what you have read: reviews that are due first, then your mistakes, then new questions from the cards you have read.",
+  "q.smart-title": "Questions picked for you",
+  "q.smart-line": "{total} questions are ready from what you have read: {due} to review, {mistake} from your mistakes, {fresh} new.",
+  "q.smart-lesson": "Showing questions for the lesson: {title}",
+  "q.smart-start": "Start ({n} questions)",
+  "q.smart-none-read": "Nothing to ask yet. Read a lesson first: the questions of the cards you read appear here.",
+  "q.smart-caught-up": "You are caught up. New questions appear as you read more, and reviews return when they are due.",
+  "lesson.practice": "Practise this lesson's questions",
+  "lesson.practice-hint": "Questions live in their own area and follow your progress.",
+  "reader.finish": "Finish the lesson",
+  "reader.end-title": "Lesson finished",
+  "reader.end-msg": "You reached the end. Practise the questions for this lesson whenever you like, or read on.",
+  "review.none-yet": "Nothing to review yet. Start with the questions picked for you above."
+}

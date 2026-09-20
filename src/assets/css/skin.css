@@ -1,0 +1,121 @@
+/* Console skin: a colourful, terminal-flavoured reading environment that is NOT a command console.
+   Everything is reached by clicking inside the text (wiki style): no menu, a prompt-style path bar, colour-coded
+   references, output-block cards. Colours come from the theme tokens (contrast-checked), nothing depends on colour alone. */
+
+html { font-size: calc(100% * var(--fs, 1)); }
+body { line-height: var(--lh, 1.65); --radius: 6px; --bw: 1px; }
+h1, h2, h3, h4 { text-wrap: pretty; }
+h1 { font-size: 1.55rem; } h2 { font-size: 1.2rem; } h3 { font-size: 1.05rem; }
+
+/* ---------- prompt bar (replaces the header menu) ---------- */
+.topbar { background: var(--surface); border-bottom: 1px solid var(--soft); position: static; }
+.topbar .container { display: flex; align-items: center; gap: .5rem 1rem; min-height: 3rem; padding-block: .25rem; flex-wrap: nowrap; }
+.prompt { flex: 1 1 auto; min-width: 0; margin: 0; }
+.prompt ol { list-style: none; display: flex; flex-wrap: wrap; align-items: baseline; gap: 0 .1rem; padding: 0; margin: 0; }
+.prompt li { margin: 0; display: inline-flex; align-items: baseline; min-width: 0; }
+.prompt a, .prompt [aria-current] { display: inline-flex; align-items: center; min-height: 44px; padding-inline: .2rem; text-decoration: none; overflow-wrap: anywhere; }
+.prompt a { color: var(--cyan); }
+.prompt a:hover, .prompt a:focus-visible { text-decoration: underline; }
+.prompt .sep { color: var(--muted); padding-inline: .05rem; }
+.prompt .user { color: var(--ok); font-weight: 700; }
+.prompt [aria-current] { color: var(--text); font-weight: 700; }
+.prompt .dollar { color: var(--warn); padding-inline-start: .4rem; }
+.tools { display: flex; gap: .3rem; flex: none; }
+.tools .btn { min-height: 44px; padding: .3rem .7rem; font-size: .85rem; }
+.brand-mark { width: 1.1rem; height: 1.1rem; margin-inline-end: .3rem; color: var(--primary); align-self: center; }
+
+/* ---------- status line (game HUD + small print) ---------- */
+.status { border-top: 1px solid var(--soft); background: var(--surface); margin-top: 3rem; padding-block: 1rem 1.6rem; font-size: .85rem; }
+.status .container { display: grid; gap: .6rem; }
+.hud { display: flex; flex-wrap: wrap; gap: .2rem 1rem; align-items: center; margin: 0; color: var(--muted); }
+.hud a { color: var(--ok); text-decoration: none; font-weight: 700; min-height: 44px; display: inline-flex; align-items: center; }
+.hud a:hover { text-decoration: underline; }
+.status .foot-links { display: flex; flex-wrap: wrap; gap: 0 1rem; list-style: none; padding: 0; margin: 0; }
+.status .foot-links a { display: inline-flex; align-items: center; min-height: 44px; color: var(--muted); }
+
+/* ---------- colour-coded references inside the text ---------- */
+a.ref { text-decoration: underline dotted; text-underline-offset: .2em; font-weight: 600; }
+a.ref-person { color: var(--cyan); }
+a.ref-concept { color: var(--warn); }
+a.ref-lesson { color: var(--ok); }
+a.ref-person::before { content: "@"; opacity: .7; }
+a.ref-concept::before { content: "#"; opacity: .7; }
+a.ref-lesson::before { content: "→ "; opacity: .7; }
+.cite a { color: var(--violet); text-decoration: none; font-weight: 700; }
+.yr { color: var(--warn); font-variant-numeric: tabular-nums; }
+strong { color: var(--text); }
+blockquote { color: var(--ok); border-inline-start: 3px solid var(--ok); font-style: normal; }
+blockquote::before { content: "> "; }
+em { color: var(--violet); font-style: normal; }
+p em { text-decoration: underline dotted; text-underline-offset: .2em; }
+
+/* ---------- output blocks ---------- */
+.reading { max-width: 46rem; }
+.lesson-header { border-inline-start: 0; padding-inline-start: 0; border-bottom: 1px dashed var(--border); }
+.lesson-header h1::before { content: "# "; color: var(--fam, var(--primary)); }
+.eyebrow { text-transform: none; letter-spacing: 0; color: var(--fam, var(--muted)); }
+.eyebrow::before { content: "["; } .eyebrow::after { content: "]"; }
+.lead { color: var(--text); font-size: 1.02rem; }
+.infobox { border: 1px solid var(--border); border-inline-start: 4px solid var(--fam, var(--primary)); background: var(--surface); border-radius: var(--radius); padding: .6rem 1rem; margin-block: 1rem; font-size: .92rem; }
+.infobox h2 { font-size: .95rem; margin: .2rem 0 .3rem; color: var(--fam, var(--muted)); }
+.infobox h2::before { content: "── "; }
+.infobox dl { display: grid; grid-template-columns: max-content 1fr; gap: .25rem 1rem; margin: 0; }
+.infobox dt { color: var(--muted); } .infobox dd { margin: 0; }
+.infobox ul { list-style: none; padding: 0; margin: 0; display: inline; }
+.infobox li { display: inline; margin: 0; }
+.infobox li a { display: inline-block; min-height: 24px; padding-inline: .25rem; } .infobox li + li::before { content: " · "; color: var(--muted); }
+.lesson-section > h2 { font-size: .95rem; text-transform: none; letter-spacing: 0; border-block-end: 0; color: var(--fam); display: flex; align-items: center; gap: .6rem; }
+.lesson-section > h2::before { content: "──"; } .lesson-section > h2::after { content: ""; flex: 1; border-block-end: 1px dashed var(--border); }
+.card { background: var(--surface); border: 1px solid var(--soft); border-inline-start: 3px solid var(--fam); border-radius: var(--radius); }
+.card > h3::before { content: "## "; color: var(--fam); }
+.card-kind { text-transform: none; letter-spacing: 0; color: var(--fam); font-weight: 700; }
+.card-kind::before { content: "["; } .card-kind::after { content: "]"; }
+.card[data-kind="story"] { background: var(--surface2); color: var(--text); }
+.card[data-layer="deep"] { background: var(--bg); border-inline-start-style: dashed; }
+.quiz-q, .feedback { border-radius: var(--radius); }
+.feedback { background: var(--surface2); }
+.pager a { border-radius: var(--radius); }
+
+/* ---------- buttons, tiles, lists ---------- */
+.btn { border-radius: var(--radius); font-weight: 700; border: 1px solid var(--border); background: transparent; }
+.btn::before { content: "["; opacity: .55; } .btn::after { content: "]"; opacity: .55; }
+.btn:hover { background: var(--surface2); }
+.btn-primary { background: var(--primary); border-color: var(--primary); color: var(--on-primary); }
+.btn-primary::before, .btn-primary::after { opacity: .7; }
+.btn-primary:hover { background: var(--primary); filter: brightness(1.1); }
+.choice { border-radius: var(--radius); background: var(--surface); }
+.tile { border-radius: var(--radius); border-width: 1px; border-inline-start-width: 3px; }
+.unit { border-radius: var(--radius); background: var(--surface); color: var(--text); border: 1px solid var(--soft); border-inline-start: 3px solid var(--fam); }
+.unit h2 { color: var(--text); }
+.unit h2::before { content: "▸ "; color: var(--fam); }
+.lesson-item { border-radius: var(--radius); background: var(--bg); }
+.lesson-item .num { color: var(--fam); }
+.badge { border-radius: 3px; background: transparent; }
+.toc, .stat, .table-wrap, fieldset, .callout, .notice { border-radius: var(--radius); }
+dialog { border-radius: var(--radius); }
+.hero { padding-block: 1.2rem .4rem; } .hero h1 { font-size: 1.7rem; }
+.hero h1::before { content: "$ "; color: var(--warn); }
+.index-list { list-style: none; padding: 0; margin: 0 0 1rem; display: grid; gap: .1rem; }
+.index-list li { margin: 0; }
+.index-list a { display: flex; flex-wrap: wrap; gap: .1rem .8rem; align-items: baseline; min-height: 44px; padding: .5rem .3rem; border-bottom: 1px dashed var(--soft); text-decoration: none; color: var(--link); }
+.index-list a:hover { background: var(--surface2); }
+.index-list .what { color: var(--muted); font-size: .88rem; }
+.index-list b { color: var(--warn); }
+.toasts { z-index: 60; }
+
+/* paper / e-ink: keep it flat, black and white; the brackets and symbols still carry the meaning */
+:root[data-theme="paper"] .topbar, :root[data-theme="paper"] .status { background: #fff; border-color: #000; }
+:root[data-theme="paper"] a.ref, :root[data-theme="paper"] .cite a { color: #000; text-decoration: underline; }
+:root[data-theme="paper"] .yr { color: #000; }
+
+@media (max-width: 40rem) {
+  html { font-size: calc(96% * var(--fs, 1)); }
+  .topbar .container { flex-wrap: wrap; }
+  .prompt { flex-basis: 100%; }
+  .tools { width: 100%; }
+  .reader-bar { top: 0; }
+}
+@media (min-width: 40.01rem) { .reader-bar { top: 0; } }
+
+/* client-rendered app views: reserve room so the page does not jump when they appear */
+#app-root { min-height: 70vh; }

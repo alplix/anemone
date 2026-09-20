@@ -11,7 +11,7 @@ content/
   bibliography/*.json                         verified sources, merged by id (one file per batch is fine)
   people/<id>.json                            language-independent person facts
   concepts/<id>.json                          language-independent concept facts
-  courses/<course>/course.json                units, order, prerequisites, minutes, AUZEF map
+  courses/<course>/course.json                units, order, prerequisites, minutes
   courses/<course>/lessons/<lesson>.json      language-independent lesson meta (people, concepts, sources)
   i18n/<lang>/ui.json                         interface strings
   i18n/<lang>/site/*.md                       about / method / privacy pages (Markdown-lite)

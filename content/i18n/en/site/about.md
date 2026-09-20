@@ -13,7 +13,7 @@ Coded by **Alperen Yavuz**. Written by **Alperen Yavuz**. Alperen conceived and 
 
 Everything on this site, the software and the text, was produced with AI assistance under Alperen Yavuz's direction (the AI model used is Anthropic's Claude). This is not a single request to a chatbot. It is a controlled, multi-step process prepared specially for this project:
 
-1. **Research.** For each lesson the syllabi and course texts of universities are compared (among them the İstanbul University AUZEF course text, used only as a map of topics), together with international textbooks and, above all, the original works and studies.
+1. **Research.** For each lesson course syllabi and textbooks are compared, together with international textbooks and, above all, the original works and studies.
 2. **Drafting.** Lessons are drafted in the AI's own wording from those sources, following a written authoring guide (accuracy first, one idea per card, questions that make you think).
 3. **Verification.** Every citation is checked against an independent database (Crossref for articles, library and publisher records for books). A source that cannot be confirmed is not used. Biographies need at least two independent reference sources. Automated validators check that references resolve, prerequisites make sense, questions have exactly one correct answer, and that translations have the same structure as the original.
 4. **Editing.** Drafts are revised in further passes, and anything that could not be verified is listed and left out instead of guessed.
@@ -23,7 +23,6 @@ The wording is original. Text is not copied from books: facts, names, dates and 
 ## What this is not
 
 - It is **not reviewed by a university lecturer yet**. Despite the checks above, mistakes are possible. If you find one, please tell us (see Contact).
-- It is **independent**. It is not published, endorsed or affiliated with İstanbul University, AUZEF or any other institution. Course texts are used only as a map of which topics a course covers.
 - It gives no guarantee about exam results.
 
 ## Sources and the "last updated" date

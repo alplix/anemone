@@ -3,7 +3,7 @@ import { h, focusEl, announce, addDays, todayStr, tableWrap, setTitle, shuffle }
 import { getJson } from "./i18n.js";
 import * as store from "./store.js";
 import { t, num, pct, dateLong } from "./i18n.js";
-import { loadCourses, payload, questionsOf } from "./pool.js";
+import { loadCourses, payload, questionsOf, readyLessons } from "./pool.js";
 import { dueKeys, openMistakes, record, RULES, addXp, INTERVALS } from "./learn.js";
 import { mountQuestion } from "./questions.js";
 import { setStudyContext } from "./time.js";
@@ -28,15 +28,65 @@ async function resolve(keys) {
   return out;
 }
 
+/** Questions the reader is ready for, ordered by need: due for review > open mistakes > new (only from what was read). */
+async function buildQueue(lessonFilter) {
+  const courses = await loadCourses();
+  const s = store.get(), today = todayStr();
+  const scored = [];
+  for (const c of courses) for (const l of readyLessons(c)) {
+    const ls = s.progress.lessons[l.id];
+    const explicit = !!lessonFilter && l.id === lessonFilter;
+    if (lessonFilter && !explicit) continue;
+    if (!explicit && !(ls && Object.keys(ls.seen).length)) continue; // nothing read there yet
+    const p = await payload(c.id, l.id);
+    if (!p) continue;
+    const core = p.order.filter((o) => o.layer === "core");
+    const readFrac = ls ? core.filter((o) => ls.seen[o.id]).length / Math.max(1, core.length) : 0;
+    const cand = [
+      ...Object.entries(p.cards).filter(([cardId]) => explicit || ls?.seen[cardId]).map(([, q]) => q),
+      ...(explicit || readFrac >= 0.6 ? p.quiz : []),
+    ];
+    for (const q of cand) {
+      const key = l.id + "/" + q.id, lt = s.leitner[key], mist = s.mistakes[key], seenBefore = s.q[key];
+      let score, tag;
+      if (lt && lt.due <= today) { score = 100; tag = "due"; }
+      else if (mist && !mist.resolved) { score = 70; tag = "mistake"; }
+      else if (!seenBefore) { score = 40 + readFrac * 10; tag = "new"; }
+      else if (explicit) { score = 5; tag = "again"; }
+      else continue;
+      scored.push({ key, q, lesson: l.id, title: p.title, unit: p.unit, tag, score: score + Math.random() * 12 });
+    }
+  }
+  scored.sort((a, b) => b.score - a.score);
+  const counts = { due: 0, mistake: 0, new: 0, again: 0 };
+  scored.forEach((x) => { counts[x.tag]++; });
+  // take the ten most needed, then avoid three questions in a row from one lesson
+  const top = scored.slice(0, SESSION), ordered = [];
+  while (top.length) {
+    const i = top.findIndex((x) => !(ordered.length >= 2 && ordered.at(-1).lesson === x.lesson && ordered.at(-2).lesson === x.lesson));
+    ordered.push(top.splice(i < 0 ? 0 : i, 1)[0]);
+  }
+  return { items: ordered, counts, total: scored.length };
+}
+
 export async function renderReview(root) {
   setStudyContext(true);
   const s = store.get();
+  const lessonFilter = new URLSearchParams(location.search).get("lesson") || "";
+  const smart = await buildQueue(lessonFilter);
   const due = dueKeys(), mistakes = openMistakes();
   const boxes = [1, 2, 3, 4, 5].map((b) => Object.values(s.leitner).filter((v) => v.box === b).length);
   const upcoming = Object.values(s.leitner).map((v) => v.due).filter((d) => d > todayStr()).sort()[0];
   root.textContent = "";
   root.append(
     h("p", { class: "lead", text: t("review.intro") }),
+    h("section", { "aria-labelledby": "rv-smart" },
+      h("h2", { id: "rv-smart", text: t("q.smart-title") }),
+      smart.items.length
+        ? h("div", {}, h("p", { text: t("q.smart-line", { total: num(smart.total), due: num(smart.counts.due), mistake: num(smart.counts.mistake), fresh: num(smart.counts.new) }) }),
+          lessonFilter ? h("p", { class: "small muted", text: t("q.smart-lesson", { title: smart.items[0].title }) }) : null,
+          h("button", { type: "button", class: "btn btn-primary", onclick: () => runItems(root, smart.items) }, t("q.smart-start", { n: smart.items.length })))
+        : h("p", { class: "notice", text: Object.keys(s.progress.lessons).length ? t("q.smart-caught-up") : t("q.smart-none-read") })),
     h("section", { "aria-labelledby": "rv-due" },
       h("h2", { id: "rv-due", text: t("review.due-title") }),
       h("p", { text: t("review.due-line", { n: num(due.length) }) }),
@@ -45,7 +95,7 @@ export async function renderReview(root) {
       h("h2", { id: "rv-mist", text: t("review.mistakes-title") }),
       h("p", { text: t("review.mistakes-line", { n: num(mistakes.length) }) }),
       mistakes.length ? h("button", { type: "button", class: "btn", onclick: () => run(root, mistakes.slice(0, SESSION), "mistakes") }, t("review.mistakes-start", { n: Math.min(SESSION, mistakes.length) })) : null),
-    h("section", { "aria-labelledby": "rv-boxes" },
+    h("section", {},
       h("h2", { id: "rv-boxes", text: t("review.boxes-title") }),
       h("p", { text: t("review.boxes-help", { days: INTERVALS.slice(1).join(", ") }) }),
       tableWrap(t("review.boxes-title"), h("table", {},
@@ -61,7 +111,10 @@ export async function renderReview(root) {
 }
 
 async function run(root, keys, kind) {
-  const items = await resolve(keys);
+  runItems(root, await resolve(keys));
+}
+
+function runItems(root, items) {
   root.textContent = "";
   if (!items.length) { root.append(h("p", { class: "notice", text: t("review.empty-session") })); return; }
   const head = h("h2", { tabindex: "-1" });
@@ -78,8 +131,8 @@ async function run(root, keys, kind) {
     holder.append(h("p", { class: "small muted", text: t("review.from", { title: it.title }) }));
     mountQuestion(holder, it.q, {
       onAnswer: (res) => {
-        record(it.key, res.ok, "review");
-        if (res.ok) { right++; addXp(RULES.review, "review"); } else wrong.push(it);
+        const rec = record(it.key, res.ok, "review");
+        if (res.ok) { right++; addXp(rec.firstRight ? RULES.miniFirst : RULES.review, "review"); } else wrong.push(it);
       },
       continueLabel: i === items.length - 1 ? t("review.finish") : t("q.continue"),
       onContinue: () => { i++; show(); },

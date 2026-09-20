@@ -42,7 +42,7 @@ if (bad.length) { console.error(bad.map((r) => `contrast FAIL ${r.theme} ${r.pai
 // ---------------------------------------------------------------------------
 const srcAssets = path.join(ROOT, "src", "assets");
 // small, safe CSS minification: strip comments and collapse whitespace (no selector or value rewriting)
-const cssText = minCss(tokensCss() + readText(path.join(srcAssets, "css", "site.css")));
+const cssText = minCss(tokensCss() + readText(path.join(srcAssets, "css", "site.css")) + readText(path.join(srcAssets, "css", "skin.css")));
 const cssHash = hash(cssText);
 out("assets/css/site.css", cssText);
 const jsFiles = walkFiles(path.join(srcAssets, "js"));
@@ -148,7 +148,7 @@ for (const lang of model.publishedLangs) {
         id: u.id, color: u.color, index: ui, title: info.units[u.id].title,
         lessons: u.lessons.map((l) => {
           const rec = course.lessonById[l.id];
-          return { id: l.id, title: info.lessons[l.id].title, url: P.lessonUrl(cx, course, l.id), minutes: l.minutes, prereq: l.prereq || [], status: l.status, auzef: l.auzef || [], index: rec.index, unit: u.id };
+          return { id: l.id, title: info.lessons[l.id].title, url: P.lessonUrl(cx, course, l.id), minutes: l.minutes, prereq: l.prereq || [], status: l.status, index: rec.index, unit: u.id };
         }),
       })),
     };

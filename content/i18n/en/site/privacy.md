@@ -23,9 +23,9 @@ Accounts, public profiles and leaderboards are planned as an optional extra. Whe
 
 Nothing is collected. If profiles are introduced, people under 18 will not have their name or free text shown publicly.
 
-## Your rights
+## Your data stays with you
 
-Under data-protection laws such as the GDPR and the Turkish KVKK you have rights of access, correction, deletion and portability. Because we hold no data about you, there is nothing to request from us today; your data is on your device and you control it. This text is plain-language information and not legal advice.
+Because we hold no data about you, there is nothing to request from us; your data is on your device and you control it. You can export or delete it at any time on the Settings page. This text is plain-language information.
 
 ## Contact
 

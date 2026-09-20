@@ -1,0 +1,18 @@
+{
+  "app.review.title": "Sorular",
+  "app.review.desc": "Okuduklarına göre sana seçilen sorular: tekrarlar, hatalar ve yeni sorular (özel, bu cihazda saklanır).",
+  "idx.review": "İlerlemene göre sana seçilen sorular",
+  "review.intro": "Sorular derslerin içinde değildir. Bu alan onları okuduklarına göre sana sunar: önce zamanı gelen tekrarlar, sonra hataların, sonra okuduğun kartlardan yeni sorular.",
+  "q.smart-title": "Sana özel sorular",
+  "q.smart-line": "Okuduklarından {total} soru hazır: {due} tekrar, {mistake} hata, {fresh} yeni.",
+  "q.smart-lesson": "Şu dersin soruları gösteriliyor: {title}",
+  "q.smart-start": "Başla ({n} soru)",
+  "q.smart-none-read": "Henüz sorulacak bir şey yok. Önce bir ders oku: okuduğun kartların soruları burada açılır.",
+  "q.smart-caught-up": "Şimdilik hepsi tamam. Okudukça yeni sorular gelir, zamanı gelen tekrarlar geri döner.",
+  "lesson.practice": "Bu dersin sorularını çöz",
+  "lesson.practice-hint": "Sorular ayrı bir alanda ve ilerlemene göre gelir.",
+  "reader.finish": "Dersi bitir",
+  "reader.end-title": "Ders bitti",
+  "reader.end-msg": "Sona geldin. Bu dersin sorularını istediğinde çözebilir ya da okumaya devam edebilirsin.",
+  "review.none-yet": "Henüz tekrar edilecek bir şey yok. Yukarıdaki sana özel sorularla başla."
+}

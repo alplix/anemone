@@ -9,7 +9,7 @@ import { confirmDialog } from "./dialog.js";
 export function applySettings() {
   const s = store.getSettings();
   const d = document.documentElement;
-  if (s.theme && s.theme !== "auto") d.setAttribute("data-theme", s.theme); else d.removeAttribute("data-theme");
+  d.setAttribute("data-theme", s.theme && s.theme !== "auto" ? s.theme : "console");
   d.style.setProperty("--fs", s.fs);
   d.style.setProperty("--lh", s.lh);
   if (s.dyslexia) d.setAttribute("data-dyslexia", "1"); else d.removeAttribute("data-dyslexia");
@@ -35,8 +35,8 @@ export function renderSettings(root) {
   root.append(
     h("p", { class: "lead", text: t("settings.intro") }),
     radioGroup("theme", t("settings.theme"), [
-      ["auto", t("theme.auto")], ["light", t("theme.light")], ["dark", t("theme.dark")], ["sepia", t("theme.sepia")],
-      ["contrast", t("theme.contrast")], ["cvd", t("theme.cvd")], ["paper", t("theme.paper")],
+      ["console", t("theme.console")], ["terminal", t("theme.terminal")], ["amber", t("theme.amber")], ["ice", t("theme.ice")], ["light", t("theme.light")],
+      ["sepia", t("theme.sepia")], ["cvd", t("theme.cvd")], ["contrast", t("theme.contrast")], ["paper", t("theme.paper")],
     ], s.theme, upd("theme"), t("settings.theme-hint")),
     radioGroup("fs", t("settings.fs"), [["0.9", "90%"], ["1", "100%"], ["1.15", "115%"], ["1.3", "130%"], ["1.5", "150%"], ["1.75", "175%"]], s.fs, upd("fs")),
     radioGroup("lh", t("settings.lh"), [["1.4", t("lh.tight")], ["1.6", t("lh.normal")], ["1.8", t("lh.relaxed")], ["2", t("lh.wide")]], s.lh, upd("lh")),

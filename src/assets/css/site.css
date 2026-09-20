@@ -2,11 +2,12 @@
    the build prepends to this file. Logical properties everywhere so dir="rtl" mirrors the layout. */
 
 *, *::before, *::after { box-sizing: border-box; }
+:root { --mono: "Cascadia Mono", "JetBrains Mono", "SF Mono", ui-monospace, Menlo, Consolas, "DejaVu Sans Mono", "Liberation Mono", monospace; --font: var(--mono); }
 [hidden] { display: none !important; }
 html { -webkit-text-size-adjust: 100%; text-size-adjust: 100%; font-size: calc(112.5% * var(--fs, 1)); scroll-padding-top: 4.5rem; }
 body {
   margin: 0; background: var(--bg); color: var(--text);
-  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif;
+  font-family: var(--font);
   line-height: var(--lh, 1.6); font-size: 1rem; min-height: 100vh; display: flex; flex-direction: column;
   overflow-wrap: break-word; --bw: 2px; --radius: 14px;
 }
@@ -196,15 +197,15 @@ dialog::backdrop { background: rgba(0, 0, 0, .55); }
 .xpbar { display: grid; gap: .3rem; }
 
 /* ---------- language & script specifics ---------- */
-:lang(zh-Hans) body, html:lang(zh-Hans) body { font-family: "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", "Source Han Sans SC", "WenQuanYi Micro Hei", sans-serif; }
-html:lang(zh-Hant) body { font-family: "PingFang TC", "Microsoft JhengHei", "Noto Sans CJK TC", "Source Han Sans TC", sans-serif; }
-html:lang(ja) body { font-family: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo", "Noto Sans CJK JP", sans-serif; }
-html:lang(ko) body { font-family: "Apple SD Gothic Neo", "Malgun Gothic", "Noto Sans CJK KR", "Noto Sans KR", sans-serif; }
-html:lang(th) body { font-family: "Thonburi", "Leelawadee UI", "Noto Sans Thai", Tahoma, sans-serif; }
-html:lang(ar) body, html:lang(fa) body, html:lang(ur) body { font-family: "Segoe UI", Tahoma, "Geeza Pro", "Noto Naskh Arabic", "Noto Sans Arabic", sans-serif; }
-html:lang(he) body { font-family: "Segoe UI", "Arial Hebrew", "Noto Sans Hebrew", Arial, sans-serif; }
-html:lang(hi) body { font-family: "Nirmala UI", "Kohinoor Devanagari", "Noto Sans Devanagari", "Mangal", sans-serif; }
-html:lang(bn) body { font-family: "Nirmala UI", "Kohinoor Bangla", "Noto Sans Bengali", "Vrinda", sans-serif; }
+html:lang(zh-Hans) { --font: "PingFang SC", "Microsoft YaHei", "Noto Sans CJK SC", "Source Han Sans SC", "WenQuanYi Micro Hei", sans-serif; }
+html:lang(zh-Hant) { --font: "PingFang TC", "Microsoft JhengHei", "Noto Sans CJK TC", "Source Han Sans TC", sans-serif; }
+html:lang(ja) { --font: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Yu Gothic", "Meiryo", "Noto Sans CJK JP", sans-serif; }
+html:lang(ko) { --font: "Apple SD Gothic Neo", "Malgun Gothic", "Noto Sans CJK KR", "Noto Sans KR", sans-serif; }
+html:lang(th) { --font: "Thonburi", "Leelawadee UI", "Noto Sans Thai", Tahoma, sans-serif; }
+html:lang(ar) body, html:lang(fa) body, html:lang(ur) { --font: "Segoe UI", Tahoma, "Geeza Pro", "Noto Naskh Arabic", "Noto Sans Arabic", sans-serif; }
+html:lang(he) { --font: "Segoe UI", "Arial Hebrew", "Noto Sans Hebrew", Arial, sans-serif; }
+html:lang(hi) { --font: "Nirmala UI", "Kohinoor Devanagari", "Noto Sans Devanagari", "Mangal", sans-serif; }
+html:lang(bn) { --font: "Nirmala UI", "Kohinoor Bangla", "Noto Sans Bengali", "Vrinda", sans-serif; }
 html:lang(zh-Hans) body, html:lang(zh-Hant) body, html:lang(ja) body { line-break: strict; word-break: normal; overflow-wrap: anywhere; letter-spacing: .01em; }
 html:lang(ko) body { word-break: keep-all; overflow-wrap: anywhere; }
 html:lang(th) body { line-break: auto; word-break: normal; overflow-wrap: anywhere; }

@@ -1,0 +1,23 @@
+{
+  "theme.console": "Konsol (renkli)",
+  "theme.terminal": "Terminal (yeşil)",
+  "theme.amber": "Amber",
+  "theme.ice": "Buz",
+  "theme.cycle": "Renk temasını değiştir",
+  "theme.short": "Tema",
+  "theme.now": "Tema: {name}",
+  "hud.line": "Sv {level} {rank} · {xp} XP · seri {streak}",
+  "lesson.jump-refs": "Kaynakçaya git",
+  "idx.title": "Dizin",
+  "idx.course": "{lessons} ders, yaklaşık {hours} saat",
+  "idx.people": "Kuramların arkasındaki kişiler",
+  "idx.glossary": "Her kavramın kısa tanımı",
+  "idx.timeline": "Eserler ve yaşam süreleri, sırayla",
+  "idx.study": "Devam et, günlük hedef, rozetler",
+  "idx.review": "Aralıklı tekrar ve hata defteri",
+  "idx.exam": "Ünite sınavları ve denemeler",
+  "idx.stats": "İsabet, çalışma süresi, zayıf konular",
+  "idx.settings": "Tema, yazı boyutu, okuma modu, kayıt dosyası",
+  "idx.account": "İsteğe bağlı hesap: eşitleme ve skor tabloları",
+  "idx.about": "İçerik nasıl hazırlandı ve denetlendi"
+}

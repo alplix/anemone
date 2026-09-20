@@ -102,7 +102,7 @@ export function formatBib(b, { html = true } = {}) {
 // ---------------------------------------------------------------------------
 // head + layout
 // ---------------------------------------------------------------------------
-const EARLY = `<script>try{var d=document.documentElement,s=JSON.parse(localStorage.getItem('anemone.settings')||'{}');if(s.theme&&s.theme!=='auto')d.setAttribute('data-theme',s.theme);if(s.fs)d.style.setProperty('--fs',s.fs);if(s.lh)d.style.setProperty('--lh',s.lh);if(s.dyslexia)d.setAttribute('data-dyslexia','1');if(s.motion==='reduce')d.setAttribute('data-motion','reduce')}catch(e){}</script>`;
+const EARLY = `<script>try{var d=document.documentElement,s=JSON.parse(localStorage.getItem('anemone.settings')||'{}');if(s.theme&&s.theme!=='auto'&&s.theme!=='dark')d.setAttribute('data-theme',s.theme);if(s.fs)d.style.setProperty('--fs',s.fs);if(s.lh)d.style.setProperty('--lh',s.lh);if(s.dyslexia)d.setAttribute('data-dyslexia','1');if(s.motion==='reduce')d.setAttribute('data-motion','reduce')}catch(e){}</script>`;
 
 export function ldScripts(list) {
   return (list || []).filter(Boolean).map((o) => `<script type="application/ld+json">${jsonForScript(o)}</script>`).join("\n");
@@ -116,6 +116,7 @@ export function breadcrumbLd(cx, items) {
   };
 }
 
+const BRAND_MARK = `<svg class="brand-mark" viewBox="0 0 64 64" aria-hidden="true" focusable="false"><g fill="currentColor"><ellipse cx="32" cy="15" rx="7" ry="13"/><ellipse cx="32" cy="15" rx="7" ry="13" transform="rotate(60 32 32)"/><ellipse cx="32" cy="15" rx="7" ry="13" transform="rotate(120 32 32)"/><ellipse cx="32" cy="15" rx="7" ry="13" transform="rotate(180 32 32)"/><ellipse cx="32" cy="15" rx="7" ry="13" transform="rotate(240 32 32)"/><ellipse cx="32" cy="15" rx="7" ry="13" transform="rotate(300 32 32)"/></g></svg>`;
 const BRAND_SVG = `<svg viewBox="0 0 64 64" aria-hidden="true" focusable="false"><g fill="currentColor"><ellipse cx="32" cy="15" rx="7" ry="13"/><ellipse cx="32" cy="15" rx="7" ry="13" transform="rotate(60 32 32)"/><ellipse cx="32" cy="15" rx="7" ry="13" transform="rotate(120 32 32)"/><ellipse cx="32" cy="15" rx="7" ry="13" transform="rotate(180 32 32)"/><ellipse cx="32" cy="15" rx="7" ry="13" transform="rotate(240 32 32)"/><ellipse cx="32" cy="15" rx="7" ry="13" transform="rotate(300 32 32)"/></g><circle cx="32" cy="32" r="6" fill="var(--bg)"/></svg>`;
 
 /**
@@ -137,16 +138,16 @@ export function layout(cx, page, assets) {
     ver.naver && `<meta name="naver-site-verification" content="${esc(ver.naver)}">`,
     ver.baidu && `<meta name="baidu-site-verification" content="${esc(ver.baidu)}">`,
   ].filter(Boolean).join("\n");
-  const navItems = [
-    ["courses", cx.url(), t("nav.courses")],
-    ["people", cx.url(cx.seg("url.people")), t("nav.people")],
-    ["glossary", cx.url(cx.seg("url.glossary")), t("nav.glossary")],
-    ["timeline", cx.url(cx.seg("url.timeline")), t("nav.timeline")],
-    ["study", cx.url("app", "study"), t("nav.study")],
-    ["settings", cx.url("app", "settings"), t("nav.settings")],
-    ["about", cx.url(cx.seg("url.about")), t("nav.about")],
-  ];
-  const nav = navItems.map(([id, href, label]) => `<a href="${esc(href)}"${page.nav === id ? ' aria-current="page"' : ""}>${esc(label)}</a>`).join("");
+  // wiki-style navigation: a prompt-like path bar (each segment is a link) instead of a menu
+  const bl = (page.ld || []).find((o) => o && o["@type"] === "BreadcrumbList");
+  let trail = bl ? bl.itemListElement.map((it) => ({ name: it.name, href: String(it.item).replace(cx.origin, "") })) : [];
+  if (trail.length && trail[0].name === t("bc.home")) trail = trail.slice(1);
+  if (!bl && page.pageType !== "home") trail = [{ name: String(page.title).split(" | ")[0], href: page.path }];
+  const promptItems = trail.length
+    ? trail.map((it, i) => `<li><span class="sep" aria-hidden="true">/</span>${i < trail.length - 1 ? `<a href="${esc(it.href)}">${esc(it.name)}</a>` : `<span aria-current="page">${esc(it.name)}</span>`}</li>`).join("")
+    : "";
+  const brand = trail.length ? `<a class="user" href="${esc(cx.url())}">${esc(config.name.toLowerCase())}</a>` : `<span class="user" aria-current="page">${esc(config.name.toLowerCase())}</span>`;
+  const others = (page.langLinks || []).filter((l) => !l.current).slice(0, 2).map((l) => `<a class="btn" href="${esc(l.href)}" hreflang="${esc(l.code)}" lang="${esc(l.code)}" title="${esc(l.name)}">${esc(l.code.toUpperCase())}</a>`).join("");
   const langLinks = (page.langLinks || []).map((l) => `<li><a href="${esc(l.href)}" hreflang="${esc(l.code)}" lang="${esc(l.code)}"${l.current ? ' aria-current="true"' : ""}>${esc(l.name)}</a></li>`).join("");
   const bodyAttrs = Object.entries({ "data-page": page.pageType || "", "data-lang": lang.code, "data-base": base, "data-lang-path": lang.path, "data-build": assets.version, "data-api": config.apiBase || "", ...(page.dataAttrs || {}) })
     .map(([k, v]) => `${k}="${esc(v)}"`).join(" ");
@@ -186,19 +187,19 @@ ${ldScripts(page.ld)}
 </head>
 <body ${bodyAttrs}>
 <a class="skip-link" href="#main">${esc(t("skip"))}</a>
-<header class="site-header"><div class="container">
-<a class="brand" href="${esc(cx.url())}">${BRAND_SVG}<span>${esc(config.name)}</span></a>
-<nav class="site-nav" aria-label="${esc(t("nav.label"))}">${nav}</nav>
+<header class="topbar"><div class="container">
+<nav class="prompt" aria-label="${esc(t("nav.breadcrumb"))}"><ol><li>${BRAND_MARK}${brand}</li>${promptItems}<li><span class="dollar" aria-hidden="true">$</span></li></ol></nav>
+<div class="tools">${others}<button type="button" class="btn js-only" id="theme-cycle" aria-label="${esc(t("theme.cycle"))}"><span aria-hidden="true">◐</span> <span id="theme-name">${esc(t("theme.short"))}</span></button></div>
 </div></header>
 <main id="main" tabindex="-1">
 ${page.body}
 </main>
-<footer class="site-footer"><div class="container">
+<footer class="status"><div class="container">
+<p class="hud" id="hud"><a href="${esc(cx.url("app", "study"))}">${esc(t("nav.study"))}</a><a href="${esc(cx.url("app", "settings"))}">${esc(t("nav.settings"))}</a></p>
 ${trans}
-<p>${esc(credit)} <a href="${esc(cx.url(cx.seg("url.about")))}">${esc(t("footer.how"))}</a></p>
+<p class="small">${esc(credit)} <a href="${esc(cx.url(cx.seg("url.about")))}">${esc(t("footer.how"))}</a></p>
 ${updated}
-<ul class="footer-links">
-<li><a href="${esc(cx.url(cx.seg("url.about")))}">${esc(t("nav.about"))}</a></li>
+<ul class="foot-links">
 <li><a href="${esc(cx.url(cx.seg("url.privacy")))}">${esc(t("nav.privacy"))}</a></li>
 <li><a href="${esc(cx.url(cx.seg("url.contact")))}">${esc(t("nav.contact"))}</a></li>
 <li><a href="${esc(config.contentIssueUrl)}" rel="noopener noreferrer">${esc(t("footer.report"))}</a></li>

@@ -23,9 +23,9 @@ Hesap, herkese açık profil ve skor tabloları isteğe bağlı ek olarak planla
 
 Hiçbir şey toplanmaz. Profiller getirilirse 18 yaş altındakilerin adı ve serbest metinleri herkese açık gösterilmez.
 
-## Haklarınız
+## Verilerin sende
 
-GDPR ve KVKK gibi veri koruma yasaları erişim, düzeltme, silme ve taşınabilirlik hakları tanır. Senin hakkında veri tutmadığımız için bugün bizden talep edebileceğin bir şey yok; verin cihazında ve denetim sende. Bu metin sade dille bilgilendirmedir, hukuki danışmanlık değildir.
+Senin hakkında veri tutmadığımız için bizden talep edebileceğin bir şey yok; verin cihazında ve denetim sende. İstediğin an Ayarlar sayfasından dışa aktarabilir ya da silebilirsin. Bu metin sade dille bilgilendirmedir.
 
 ## İletişim
 
