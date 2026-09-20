@@ -1,0 +1,14 @@
+{
+  "id": "lasswell", "lang": "en",
+  "translation": { "status": "machine" },
+  "name": "Harold Lasswell", "nativeName": "", "slug": "harold-lasswell",
+  "short": "American political scientist and pioneer of propaganda studies with Propaganda Technique in the World War (1927). Textbooks attribute the hypodermic-needle model to him.",
+  "born": "Donnellson, Illinois",
+  "died": "New York",
+  "roles": ["political scientist", "propaganda researcher"],
+  "bio": "Harold Dwight Lasswell was born in 1902 in the small town of Donnellson, Illinois, the child of a schoolteacher and a Presbyterian minister. At sixteen he went to study in Chicago on a scholarship, continued his graduate work in London, and completed a doctorate in political science in Chicago. On the title page of his 1927 book he appears as an assistant professor of political science at Chicago. In later years he taught at Yale; he died in New York in 1978.\n\nHe is best known for *Propaganda Technique in the World War* (1927). The book is one of the first major systematic studies of propaganda techniques in the First World War, and it calls propaganda one of the most powerful instrumentalities of the modern world; but on the same pages it also says that extravagant estimates should be pared down and that it is hard to separate the influence of propaganda from other means of control. In later years he carried his work over into a general analysis of communication; the formula “who says what, in which channel, to whom, with what effect?” is associated with him. Another broad line of his work is the “policy sciences”, which treat politics and law together; *Politics: Who Gets What, When, How* (1936) is among his most widely read books.\n\nOne detail matters in this lesson: textbooks often attribute the hypodermic-needle model to Lasswell. Yet the scanned texts of the 1927 book do not contain the phrases “hypodermic needle” or “magic bullet”; the documented uses of those phrases belong to textbook authors of the 1960s and 1970s.",
+  "works": [
+    { "bib": "lasswell-1927-propaganda", "note": "A systematic study of First World War propaganda; the book textbooks credit with the hypodermic-needle model, though it does not contain the phrases." }
+  ],
+  "inCourse": "In the [[lesson:magic-bullet]] lesson we use the primary text to see why calling him the “owner” of the hypodermic-needle model is problematic; he also appears in the [[lesson:propaganda-public-opinion]] lesson, in the context of propaganda and public opinion."
+}

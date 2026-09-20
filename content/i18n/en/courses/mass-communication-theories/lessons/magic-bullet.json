@@ -1,0 +1,548 @@
+{
+  "id": "magic-bullet",
+  "lang": "en",
+  "translation": { "status": "machine", "date": "2026-09-20" },
+  "title": "The Hypodermic Needle and Magic Bullet Model",
+  "slug": "magic-bullet-model",
+  "description": "The hypodermic needle (magic bullet) model: the propaganda fear, the Mars broadcast, what Cantril found, how the “bullet theory” label arose, exam tips.",
+  "claim": "The hypodermic needle (magic bullet) model was not defended as a single theory in the 1920s–30s; it is a scattered “media are very powerful” worry that textbooks of the 1960s–70s named and then “refuted”, and its most famous example, the Mars invasion broadcast, gives a far more mixed picture than the myth of mass panic.",
+  "keywords": ["hypodermic needle model", "magic bullet theory", "bullet theory", "powerful effects", "Lasswell", "Cantril", "War of the Worlds", "Orson Welles", "straw man", "propaganda"],
+  "updated": "2026-09-20",
+  "timeline": {
+    "wotw-broadcast": "Orson Welles’s Mars invasion radio play is broadcast (30 October)",
+    "peoples-choice": "Lazarsfeld, Berelson and Gaudet: The People’s Choice",
+    "personal-influence": "Katz and Lazarsfeld: Personal Influence; the first pages of the “powerful to limited” story",
+    "berlo-hypodermic": "Berlo refers to “hypodermic needle” concepts",
+    "schramm-bullet-theory": "Schramm claims the name “Bullet Theory”",
+    "noelle-neumann-powerful": "Noelle-Neumann: return to the concept of powerful mass media",
+    "gitlin-dominant-paradigm": "Gitlin: critique of the limited-effects “dominant paradigm”",
+    "sproule-myth": "Sproule: the magic bullet myth",
+    "myth-of-panic": "Pooley and Socolow: the myth of the Mars “panic”"
+  },
+  "cards": [
+    {
+      "id": "ctx-search", "section": "context", "layer": "core", "kind": "story",
+      "title": "You open the book, and the sentence isn’t there",
+      "body": "The textbook says: the hypodermic needle (magic bullet) model was born in Harold Lasswell’s 1927 book *Propaganda Technique in the World War*. You get curious, open the scanned text of the book and search for “hypodermic”, “needle” and “syringe”.\n\nYou find nothing. In the scanned texts of both the 1927 edition and the 1938 reprint those words are missing; “bullet” appears only in lists of forbidden bullets in the law of war, in a book title in a footnote and in one quotation: “Thoughts are Bullets” [[cite:lasswell-1927-propaganda]]. (In one place, in a sentence about Wilson’s propaganda, poison is said to be injected into the veins of a people; but that is a figure of speech inside a sentence, not a model.)\n\nSo where did the phrases come from? The traces that can be documented are these:\n\n- In 1960 David Berlo, in *The Process of Communication*, speaks of “hypodermic needle” conceptions; but he attributes it to nobody. He refers to the early discussions of mass communication in this way, and his aim is to defend his own “process” view [[cite:berlo-1960]].\n- In 1971 Wilbur Schramm openly claims the word “bullet”: “I have elsewhere called this the Bullet Theory of communication” [[cite:schramm-1971-nature]].\n\nSo the first documented users of the phrases are not Lasswell but textbook authors looking back in 1960 and 1971. In this lesson we untangle the difference between a model and a label.",
+      "question": {
+        "id": "ctx-search-q", "type": "mcq",
+        "prompt": "A friend says: “Lasswell set out the hypodermic needle model in his 1927 book, it says so right there.” Which reply best fits the documents?",
+        "options": [
+          "You’re right; the book is about propaganda, so the model must be in it.",
+          "The scanned texts of the book do not contain the two phrases; documented uses are found in Berlo in 1960 (“hypodermic needle”) and Schramm in 1971 (“bullet”).",
+          "The phrase was first used by Orson Welles in 1938.",
+          "Where the phrase came from cannot be traced in any source, so arguing about it is pointless."
+        ],
+        "answer": 1,
+        "explain": "The two separate scanned texts of the book contain neither “hypodermic needle” nor “magic bullet”, while Berlo (1960) and Schramm (1971) plainly use them in their own texts. The first option is tempting because there is an intuitive link between the topic (propaganda) and the phrase (needle); but sharing a topic does not show that a phrase is in the book. The fourth option is wrong: usage can be traced by looking at the texts, exactly as we did in this lesson."
+      }
+    },
+    {
+      "id": "ctx-fear", "section": "context", "layer": "core", "kind": "story",
+      "title": "The fear was real, but there was no “theory”",
+      "body": "In 1927 [[person:lasswell|Lasswell]] wrote: “propaganda is one of the most powerful instrumentalities in the modern world” [[cite:lasswell-1927-propaganda]]. But there is a caution at the start of the sentence: he says this holds even after all allowances have been made and extravagant estimates pared to the bone. On the same pages he also writes that it is hard to separate the influence of propaganda from the closely related means of control.\n\nWhat was the mood of the time? Schramm later summed it up: First World War propaganda, and then Communist and Nazi propaganda, had frightened many people. The audience was thought of as a target waiting to be hit, propaganda became a hate word, and laws were passed to protect people considered defenseless [[cite:schramm-1971-nature]]. (This is an account written in 1971, looking back.)\n\nThe new medium was radio. Hadley Cantril and Gordon Allport published *The Psychology of Radio* in 1935; in 1937 the Rockefeller Foundation granted $67,000 to a two-year radio research project [[cite:pooley-socolow-2013-ijoc]].\n\nSo the fear was real: propaganda and a new mass medium. But the fear had no single formula, no proposition labelled “this is a theory”. The formula was written by those who came later.",
+      "question": {
+        "id": "ctx-fear-q", "type": "mcq",
+        "prompt": "A student writes in an exam: “Lasswell argued that propaganda affects every listener automatically and without limit.” Comparing this with Lasswell’s 1927 text, what do you say about the sentence?",
+        "options": [
+          "True; “one of the most powerful instrumentalities” means unlimited effect.",
+          "An overgeneralization; Lasswell called propaganda very powerful but also wrote that extravagant estimates should be pared down and that its influence is hard to separate from other means of control.",
+          "True; Lasswell likened propaganda to poison injected into the veins of a people.",
+          "False; Lasswell argued that propaganda had no effect."
+        ],
+        "answer": 1,
+        "explain": "Lasswell speaks of a strong effect, but with cautionary sentences: extravagant estimates should be pared down, and propaganda’s influence is hard to separate from closely related means of control. “Powerful” is not the same as “unlimited and automatic”; the first option makes exactly this slide. The third option turns a single figure of speech in the book (poison injected into the veins when describing Wilson’s propaganda) into a general model; the figure of speech stays inside its sentence. The fourth option goes to the opposite extreme: Lasswell did not treat propaganda as unimportant."
+      }
+    },
+    {
+      "id": "deep-lasswell", "section": "context", "layer": "deep", "kind": "text",
+      "title": "Deep dive: Lasswell 1927 in his own sentences",
+      "body": "When the textbook tells Lasswell’s story without reading him, an “injector” appears. The book’s own sentences give a more tangled picture [[cite:lasswell-1927-propaganda]]:\n\n- **p. 220:** “propaganda is one of the most powerful instrumentalities in the modern world”; but only after all allowances have been made. He also notes that General Pétain, who restored order in the French army after the mutinies of 1917, did not rely exclusively on propaganda.\n- **p. 221:** he calls propaganda the “new hammer and anvil of social solidarity”; the reason he gives is that in large societies talk and print, no longer the war dance, are needed to bind people together. He also treats propaganda as a concession to the rationality of a modern world that reads and goes to school.\n- **p. 222:** he draws an “atomized world”, for which propaganda is the antidote. If the mass wants to be free of iron chains, it must accept “chains of silver”; because “more can be won by illusion than by coercion”.\n- **p. 217:** in a sentence describing Wilson’s propaganda there is a figure of speech about poison being “injected into the veins” of a people.\n\nThe conclusion from this text is our own reading: Lasswell is a real defender of the idea of powerful effects; but his receiver is not a “bull’s-eye”, it is a wilful, reading world that has to be persuaded. The hypodermic needle is a shortened caricature of this picture."
+    },
+    {
+      "id": "people-cast", "section": "people-time", "layer": "core", "kind": "text",
+      "title": "Who is who, and which year?",
+      "body": "The story has two casts: the *fearers and researchers* of the 1920s–30s, and then those who *rewrote the past*.\n\n**The players of the period**\n\n- [[person:lippmann|Walter Lippmann]]: *Public Opinion* (1922), “the pictures in our heads” [[cite:lippmann-1922]].\n- [[person:lasswell|Harold Lasswell]]: *Propaganda Technique in the World War* (1927) [[cite:lasswell-1927-propaganda]].\n- [[person:cantril|Hadley Cantril]]: *The Psychology of Radio* (1935) with Gordon Allport; *The Invasion from Mars* (1940) with the assistance of Hazel Gaudet and Herta Herzog [[cite:pooley-socolow-2013-ijoc]].\n- [[person:lazarsfeld|Paul Lazarsfeld]]: director of the Rockefeller-funded radio research project; later *The People’s Choice* (1944) and, with Elihu Katz, *Personal Influence* (1955) [[cite:katz-lazarsfeld-1955]].\n\n**Those who used the label and those who questioned its past**\n\n- David Berlo (1960) and Wilbur Schramm (1971): the documented users of the phrases.\n- Steven Chaffee with John Hochheimer (1985), Jeffery Bineham (1988), J. Michael Sproule (1989), Jefferson Pooley (2006), Deborah Lubken (2008), Pooley with Michael Socolow (2013): those who studied historically how the label came about [[cite:pooley-socolow-2013-ijoc]].\n\nA memory hook so you don’t mix up the names: *the fearers were in the 1920s–30s, the “bullet” speakers in the 1960s–70s, the “it’s a myth” speakers after the 1980s.*",
+      "question": {
+        "id": "people-cast-q", "type": "match",
+        "prompt": "Match each work with its year.",
+        "pairs": [
+          ["Lasswell: Propaganda Technique in the World War", "1927"],
+          ["Cantril: The Invasion from Mars", "1940"],
+          ["Berlo: The Process of Communication", "1960"],
+          ["Sproule: Progressive Propaganda Critics and the Magic Bullet Myth", "1989"]
+        ],
+        "explain": "The order: Lasswell 1927, Cantril 1940, Berlo 1960, Sproule 1989. The pairs most often confused are Berlo (1960) with Schramm (1971), and Lasswell (1927) with Lippmann (1922). Rule of thumb: the propaganda fear belongs to the 1920s–30s, the “bullet” label to the 1960s–70s, the “myth” debate to the 1980s."
+      }
+    },
+    {
+      "id": "claim-textbook", "section": "claim", "layer": "core", "kind": "text",
+      "title": "The textbook version: the needle in three sentences",
+      "body": "In textbooks the hypodermic needle or magic bullet model is told roughly like this:\n\n1. The mass media are powerful and the message hits the target directly.\n2. The audience members are isolated, defenseless and passive.\n3. The effect is fast and almost the same in everyone, just like an injection under the skin or a bullet hitting its target.\n\nTurkish sources give the same idea several names: *hipodermik iğne* (hypodermic needle), *sihirli mermi* (magic bullet), *uyarıcı–tepki* (stimulus–response) and *propaganda modeli* (propaganda model). Yaylagül treats them as names of the same model, uses the image of a syringe injecting under the skin or a magic bullet, and links the model with Lasswell’s propaganda work [[cite:yaylagul-2006]]. This is “the textbook version”.\n\n**The claim of this lesson is different:** this three-sentence summary is not a summary of a theory of that period, but a *summarizing* written afterwards. Textbooks often do not name a single prewar person or work to illustrate this “needle predecessor” [[cite:pooley-socolow-2013-ijoc]]. The [[concept:magic-bullet|hypodermic needle model]] and the [[concept:powerful-effects|powerful effects assumption]] must not be confused either; the second is far broader and more scattered.",
+      "question": {
+        "id": "claim-textbook-q", "type": "mcq",
+        "prompt": "Which of the following is NOT part of the *textbook version* of the hypodermic needle model?",
+        "options": [
+          "Audience members are isolated and passive.",
+          "The effect is fast and similar in everyone.",
+          "No prewar text that formulated a single theory under this name can be shown.",
+          "The message works directly, like an injection under the skin."
+        ],
+        "answer": 2,
+        "explain": "The third option is not the textbook version but the historians’ criticism: textbooks describe the model without showing a single prewar example text. The other three options are the model’s definition in textbooks. The most common mistake with “NOT” questions is to tick a sentence that looks true and forget what the question asks."
+      }
+    },
+    {
+      "id": "claim-historian", "section": "claim", "layer": "core", "kind": "lab",
+      "title": "Be the judge: was there a “theory”?",
+      "body": "The historians’ claim in one sentence: the needle/bullet is not a single theory adopted by scholars in the 1920s–30s but a *label* used in the story the field of communication tells itself about its past [[cite:pooley-socolow-2013-ijoc]] [[cite:bineham-1988]]. In 1989 Sproule examined why reading the interwar propaganda critics as “magic bullet” thinkers is historically inaccurate, and why that reading took hold in the 1940s and 1950s [[cite:sproule-1989]].\n\n**The judge experiment (hypothetical).** A claim says: “Theory X was widely defended in the 1930s.” Ask three questions for evidence:\n\n1. Did anyone write X down as an explicit proposition?\n2. Did others of the same period cite and defend it as X, or does the name appear only in *later* generations?\n3. Did those who first used the phrase present it as their own theory, or as a “past” they were criticizing?\n\nLook at the traces we collected on the first card: the phrases are not in Lasswell’s book; Berlo mentions “hypodermic needle” as a *counter-example* to his own “process” view; Schramm names the “Bullet Theory” himself and says that by the middle 1950s it had been “shot full of holes”.\n\n**What it does not say.** It says neither that people in the 1930s did not fear the media nor that the media have no effect. Steven Chaffee, replying to Bineham, argued that the history of the hypodermic model is distinct from the history of empirical research on media effects [[cite:chaffee-1988]]; more in the critique section.",
+      "question": {
+        "id": "claim-historian-q", "type": "mcq",
+        "prompt": "An article says: “In the 1930s everyone believed in the hypodermic needle model; Lazarsfeld’s team refuted it with evidence.” As a referee, which question do you ask first?",
+        "options": [
+          "In which city did Lazarsfeld work?",
+          "Can a text from the 1930s that openly defends the hypodermic needle model be shown?",
+          "How old is the hypodermic needle model?",
+          "Does the article’s author know Lazarsfeld?"
+        ],
+        "answer": 1,
+        "explain": "The evidence for the claim comes first: is there a text that defends the theory that is said to have been defended? The historians’ debate turns on exactly this. The other options are details unrelated to the topic; to say “refuted” there must first be something to refute."
+      }
+    },
+    {
+      "id": "concepts-terms", "section": "concepts", "layer": "core", "kind": "text",
+      "title": "Glossary: six names for one thing, and a trap",
+      "body": "- **Hypodermic needle (syringe) model** [[concept:magic-bullet]]: the textbook story that a message works like an injection under the skin, directly and fast.\n- **Magic bullet (bullet theory)**: another name for the same idea. Schramm claims the phrase “Bullet Theory” in 1971 as his own naming [[cite:schramm-1971-nature]].\n- **Stimulus–response and the propaganda model** (*uyarıcı–tepki*, *propaganda modeli*): other names of the same model in Turkish sources [[cite:yaylagul-2006]].\n- **Powerful effects assumption** [[concept:powerful-effects]]: the belief that media strongly shape social and political views; broader than the hypodermic model and not a single theory.\n- **The “powerful to limited” story**: the account “first everyone thought media were powerful, then Lazarsfeld’s team showed they were limited”; Pooley calls it “textbook boilerplate” [[cite:pooley-2006]].\n- **Straw man**: a rival view distorted so that it is easy to refute. Historians treat the hypodermic picture as an example [[cite:pooley-socolow-2013-ijoc]] [[cite:bauer-nadler-2021]].\n- **Suggestibility** [[concept:suggestibility]]: a concept in Cantril’s Mars study; accepting incoming information as true without testing it enough [[cite:cantril-1971-invasion-summary]].\n- **Checking up** and **standards of judgment**: two key concepts the Cantril team used to explain who believed and who did not [[cite:pooley-socolow-2013-ijoc]].\n\n**The trap:** “powerful effects” and “hypodermic needle” are not synonyms. One names a broad worry, the other the textbook caricature of that worry.",
+      "question": {
+        "id": "concepts-terms-q", "type": "mcq",
+        "prompt": "An author says “the older generation thought media were a hypodermic needle, we corrected it with evidence” to promote their own approach, but cannot show a single text by the older generation that defends this. Which term do historians use for this situation?",
+        "options": [
+          "A distorted rival (straw man)",
+          "Resonance",
+          "Gatekeeping",
+          "Priming"
+        ],
+        "answer": 0,
+        "explain": "A view distorted so that it is easy to refute and then set up against one’s own is a straw man; historians call the hypodermic picture this. Resonance (cultivation), gatekeeping and priming are concepts of other theories; in exams options from unrelated theories are often put in as distractors."
+      }
+    },
+    {
+      "id": "assump-myth", "section": "assumptions", "layer": "core", "kind": "myth",
+      "title": "Assumptions: what people assume and what the records show",
+      "body": "**What people assume:** The hypodermic model assumes three things: (1) audience members are isolated “atomized” individuals, (2) a message has the same effect in everyone, (3) the effect is instant.\n\n**What the records say**\n\n(1) The idea of an *isolated crowd* really was in the air of the period: in 1927 Lasswell speaks of an “atomized world” and treats propaganda as a new instrument trying to hold that world together [[cite:lasswell-1927-propaganda]]. That idea is the subject of the [[lesson:mass-society]] lesson; but it is a *social theory*, not the claim that “the message hits everyone the same way”.\n\n(2) The assumption of *the same effect in everyone* is not held even by the most cited case. In his own summary Cantril writes that they found no single observable variable (“no single observable variable”) consistently related to the reaction; the same broadcast frightened some and did not even disturb others [[cite:cantril-1971-invasion-summary]].\n\n(3) The assumption of an *instant, direct effect* was strained by the 1940 election study of Lazarsfeld’s team: in *The People’s Choice* (1944), as Schramm and Roberts report, almost no votes seemed directly influenced by the mass media; the finding led to the idea of a “two-step flow”, in which ideas flow from the media to opinion leaders and from them to less active sections of the population [[cite:schramm-roberts-1971]]. ([[lesson:two-step-flow]])\n\nConclusion: pieces of the textbook’s three assumptions are found in the texts of the period; but the compilation that turned them into a single theory was the work of later generations.",
+      "question": {
+        "id": "assump-myth-q", "type": "tf",
+        "prompt": "True or false: According to Cantril’s own summary, a single observable variable consistently explained reactions to the Mars broadcast.",
+        "answer": false,
+        "explain": "False. Cantril writes the opposite: they found no single variable consistently explaining the panic; several factors worked together, such as a lack of critical ability, personality traits and the influence of those around. The reason the wrong answer is tempting is that the Mars broadcast is remembered as “everyone who heard it panicked”."
+      }
+    },
+    {
+      "id": "how-myth-steps", "section": "how-it-works", "layer": "core", "kind": "steps",
+      "title": "How does a label become a “theory”? Seven stops",
+      "body": "1. **1917–1930s, fear:** worry about propaganda and the new medium, radio [[cite:schramm-1971-nature]] [[cite:pooley-socolow-2013-ijoc]].\n2. **1938–1940, the Mars invasion:** the panic story and Cantril’s book (next cards).\n3. **1944, *The People’s Choice*:** almost no vote seems directly influenced by the media [[cite:schramm-roberts-1971]].\n4. **1955, *Personal Influence*:** in its first 15 pages the “first powerful, then limited” story is told; but none of the prewar “powerful effects” works is named [[cite:pooley-2006]] [[cite:pooley-socolow-2013-ijoc]].\n5. **1960, Berlo:** “hypodermic needle” is mentioned as a counter-example to the “process” model [[cite:berlo-1960]].\n6. **1971, Schramm:** the name “Bullet Theory” is claimed; by the middle 1950s it is said to have been “shot full of holes” [[cite:schramm-1971-nature]].\n7. **From the 1980s, textbooks:** Lowery and DeFleur’s 1983 book is organised around the progression from magic bullet theory to limited effects; later textbooks use the same skeleton [[cite:pooley-socolow-2013-ijoc]].\n\nNobody is saying this was a conspiracy. In the words of the title of Pooley’s article, this is the field’s *remembered history*: at each stop people told a simple “before” that showed off their own findings, and over time that “before” came to be known as a theory.",
+      "question": {
+        "id": "how-myth-steps-q", "type": "order",
+        "prompt": "Put these events in order, from earliest to latest.",
+        "items": [
+          "Radio and the propaganda worry: the fear period (1920s–30s)",
+          "The Mars broadcast and Cantril’s book (1938–1940)",
+          "*The People’s Choice* (1944)",
+          "The “powerful to limited” story of *Personal Influence* (1955)",
+          "Berlo’s mention of “hypodermic needle” (1960)",
+          "Schramm’s naming of the “Bullet Theory” (1971)"
+        ],
+        "explain": "The order: the fear period, Mars (1938–40), The People’s Choice (1944), Personal Influence (1955), Berlo (1960), Schramm (1971). A common mistake is to place Berlo and Schramm in the 1930s; they are the generation that used the label *looking back*. The logic: first the fear, then evidence and the story, and last the naming of the label."
+      }
+    },
+    {
+      "id": "how-wotw-steps", "section": "how-it-works", "layer": "core", "kind": "steps",
+      "title": "The production line of a myth: the Mars invasion",
+      "body": "The same mechanism worked on a smaller scale in 1938:\n\n1. **Sunday evening, 30 October 1938:** on CBS the programme *Mercury Theatre on the Air* broadcasts a radio play adapted from H. G. Wells’s novel *The War of the Worlds* [[cite:pooley-socolow-2013-ijoc]].\n2. **The same night:** the Hooper ratings service phones 5,000 households for a national measurement; only 2 per cent say they are listening to a radio play or the Orson Welles programme, and none says a news broadcast [[cite:pooley-socolow-2013-slate]].\n3. **Morning of 31 October:** newspapers put the “panic” on their front pages; CBS’s Frank Stanton has drawn up a questionnaire that same night and started fieldwork [[cite:pooley-socolow-2013-ijoc]].\n4. **November:** Herta Herzog conducts in-depth interviews with frightened listeners; the Rockefeller-linked General Education Board grants $3,000 for the “mass hysteria” study [[cite:pooley-socolow-2013-ijoc]].\n5. **About six weeks later:** the report of the American Institute of Public Opinion (AIPO) is compiled; Cantril leans heavily on this data in the book [[cite:pooley-socolow-2013-slate]].\n6. **1940:** *The Invasion from Mars* is published; in the following decades the book becomes textbooks’ “powerful effects” example [[cite:pooley-socolow-2013-ijoc]].\n\nIn the next cards we will open each of these links.",
+      "question": {
+        "id": "how-wotw-steps-q", "type": "mcq",
+        "prompt": "Cantril’s Mars book relied heavily on AIPO data. Why should this data be read with caution?",
+        "options": [
+          "Because AIPO only questioned children.",
+          "Because the report was compiled about six weeks after the broadcast, following the newspaper noise, and gave a much higher audience figure than the other measures.",
+          "Because AIPO’s data was never published.",
+          "Because it gave exactly the same result as the Hooper measurement."
+        ],
+        "answer": 1,
+        "explain": "According to Pooley and Socolow the report was compiled about six weeks after the broadcast; Cantril himself acknowledged that this measure gave an audience figure more than 100 per cent higher than any other known measure and that it might have been influenced by newspaper publicity. The fourth option is the opposite: it contradicted Hooper’s 2 per cent. The third option is invented: the data was published and used in the book."
+      }
+    },
+    {
+      "id": "ev-broadcast", "section": "evidence", "layer": "core", "kind": "story",
+      "title": "Sunday evening: a radio play plays like “news”",
+      "body": "Let’s picture the scene again, this time relying on documents. Sunday evening, CBS. The programme is called *Mercury Theatre on the Air*; Orson Welles is at its head. The play is written in the language of radio itself: the programme seems to be interrupted and special news bulletins come in; astronomers, an observatory professor, military commanders and government officials speak in turn. As Cantril stresses, the astronomers listed are all fictitious; the main character, “Professor Pierson”, is played by Welles [[cite:cantril-1971-invasion-summary]].\n\nThe events deliberately move from the credible to the incredible: first an atmospheric disturbance and explosions, a seismograph reading of earthquake intensity, a meteorite; only then does the lid of a metal cylinder begin to open. Cantril also notes the author’s technique: as things become less credible, the reporter on the spot expresses his own astonishment too, so the listener’s doubt seems shared. In addition, following the war crisis of September 1938 on the radio bulletin by bulletin had made the “programme interrupted by news” form familiar to listeners [[cite:cantril-1971-invasion-summary]].\n\nThere is more: at the start of the programme it was clearly announced that it was a play; but according to Cantril most people do not listen to the first announcements of a programme, and “tuning in late” was decisive. On top of that, on the other side there was one of the best-loved programmes of the time, Edgar Bergen’s comedy-variety show the *Chase and Sanborn Hour* [[cite:pooley-socolow-2013-slate]].",
+      "question": {
+        "id": "ev-broadcast-q", "type": "mcq",
+        "prompt": "Although the start of the broadcast clearly announced “this is a play”, why did some listeners get it wrong? Which is correct according to Cantril’s summary?",
+        "options": [
+          "Because at that time radio plays and news broadcasts could not technically be told apart.",
+          "Because Welles deliberately did not broadcast the announcement.",
+          "Because many tuned in late rather than at the start, listening to the first announcements was not a common habit, and the “bulletin” form was familiar.",
+          "Because the programme was broadcast only to rural areas."
+        ],
+        "answer": 2,
+        "explain": "Cantril names tuning in late, the common habit of not listening to the first announcements, and the familiarity of the news-bulletin technique. The first option looks tempting but has no basis: that it was a play had been announced at the start of the programme. The second option is also wrong: the announcements were made; the problem was that many people did not listen to them."
+      }
+    },
+    {
+      "id": "ev-cantril-four", "section": "evidence", "layer": "core", "kind": "text",
+      "title": "Cantril’s own picture: the same broadcast, four kinds of listeners",
+      "body": "Cantril’s summary is less a story of “mass panic” than a study of *how people tested the broadcast*. The team carried out detailed interviews with 135 people; more than a hundred of them were *selected* from among people known to have been upset by the broadcast [[cite:cantril-1971-invasion-summary]]. (That is, the sample was built from people already affected; it is not a measurement of the mass.) They divided listeners into four groups:\n\n1. Those who checked the **internal evidence** of the broadcast: they likened it to fiction and realized it was a play.\n2. Those who compared the broadcast **against other information** and learned it was a play (for example those who looked at the programme listing in the newspaper).\n3. Those who **tried to check but went on believing:** most had looked out of the window or called to their neighbours; the street looked either “the same as usual” or full of cars, and both confirmed the fear.\n4. Those who **made no attempt to check:** some were too frightened to think of it, others gave in to resignation.\n\nCantril’s conclusion: no single variable consistently explained the panic; but a lack of “critical ability” made fear easier for a large part of the listeners. The highly educated weighed the event more easily against their own standards; backgrounds such as a religious frame, the war scare and economic anxiety spread over ten years made acceptance easier for some people [[cite:cantril-1971-invasion-summary]]. So the same “bullet” landed in different places on different targets.",
+      "question": {
+        "id": "ev-cantril-four-q", "type": "mcq",
+        "prompt": "A listener runs to the window in fear, sees that the street is “the same as usual” and thinks “the disaster hasn’t reached us yet”. Which group in Cantril’s classification does this listener belong to?",
+        "options": [
+          "Those who checked the internal evidence of the broadcast",
+          "Those who checked against other information and learned it was a play",
+          "Those who tried to check but went on believing",
+          "Those who made no attempt to check"
+        ],
+        "answer": 2,
+        "explain": "The listener tried to check (looked out of the window) but read the check so that it confirmed the first assumption: the third group. The fourth option is tempting because it feels as if fear drove the behaviour; but the fourth group is those who did not even try to check."
+      }
+    },
+    {
+      "id": "ev-panic-myth", "section": "evidence", "layer": "core", "kind": "myth",
+      "title": "What people assume: millions panicked",
+      "body": "**What people assume:** In 1938 millions of people poured into the streets in America; Welles’s radio hit the country like a hypodermic needle.\n\n**What the records say**\n\n- According to Cantril’s own summary, at least six million people heard the broadcast and at least a million of them were frightened or disturbed [[cite:cantril-1971-invasion-summary]]. Note: “frightened *or disturbed*” is not the same as “panic”. Pooley and Socolow say Cantril lumped “frightened”, “disturbed” and “excited” together with “panicked” [[cite:pooley-socolow-2013-slate]].\n- The same night, in Hooper’s national measurement covering 5,000 households, only 2 per cent were listening to the programme; on the other side was the best-loved comedy-variety show of the day [[cite:pooley-socolow-2013-slate]].\n- There is no verified death or hospital case: six New York hospitals reported no record of cases brought in because of the broadcast; the rumour of “shock” cases in Newark was also not confirmed [[cite:pooley-socolow-2013-slate]].\n- The survey Cantril relied on, in his own words, gave an audience figure more than 100 per cent higher than any other known measure, and may have been affected by the newspaper noise [[cite:pooley-socolow-2013-slate]].\n\nBut let’s be balanced: some listeners really were frightened; Cantril’s interviews show that. According to Hayes and Battles, the most common response was to get in touch with others through social and technological networks, to question the meaning of the broadcast and to share information with family and friends [[cite:hayes-battles-2011]].",
+      "question": {
+        "id": "ev-panic-myth-q", "type": "mcq",
+        "prompt": "In the Hooper measurement only 2 per cent of the 5,000 households were listening to the programme. Which inference from this finding is most defensible?",
+        "options": [
+          "Nobody was frightened.",
+          "The programme had reached a much smaller audience than told; this weakens the “millions panicked” story but does not erase the fact that some listeners were really frightened.",
+          "All of Cantril’s work is fake.",
+          "Radio can have no effect on the masses."
+        ],
+        "answer": 1,
+        "explain": "The measurement shows that the audience was far smaller than expected; but this does not mean that none of the listeners were frightened (Cantril’s interviews document that some were). The first and third options are overgeneralizations; the fourth erases the difference between “a single event” and “any effect of radio whatsoever”."
+      }
+    },
+    {
+      "id": "ev-newspapers", "section": "evidence", "layer": "core", "kind": "myth",
+      "title": "What people assume: newspapers just reported what happened",
+      "body": "**What people assume:** Newspapers wrote what they saw that morning; if there had been no real panic they would not have written it.\n\n**What the records say.** In the Depression years advertising revenue had shifted to radio and newspapers had suffered. According to Pooley and Socolow, newspapers used the opportunity to show that radio could not be trusted for news work [[cite:pooley-socolow-2013-slate]]. One example: Ben Gross, the radio editor of the *New York Daily News*, recalls in his 1954 memoir that as he rode to CBS while the broadcast was ending the streets of Manhattan were empty; his paper came out a few hours later with a “panic” headline [[cite:pooley-socolow-2013-slate]].\n\nThe story did not last either. According to W. Joseph Campbell, most newspapers dropped it after a day or two; had a truly nationwide panic occurred, detailed reports would have been expected for days and weeks [[cite:pooley-socolow-2013-slate]]. A. Brad Schwartz’s book also argues that the panic story was exaggerated right after the event, and that newspapers had a hand in it [[cite:heller-2015-npr]].\n\nThe irony is this: the first big producer of the “media are powerful” story may have been *the media themselves*; so one must look at the interest of whoever tells the story. On the regulatory side, too, things stayed calm: the FCC obtained an informal promise from the networks not to use fictional news “flashes”; neither CBS nor Welles was sanctioned [[cite:pooley-socolow-2013-slate]].",
+      "question": {
+        "id": "ev-newspapers-q", "type": "mcq",
+        "prompt": "What role does the Depression-era rivalry between newspapers and radio play in explaining the exaggeration of the panic story?",
+        "options": [
+          "Radio advertising had strengthened newspapers, so newspapers wanted to defend radio.",
+          "Newspapers that had lost advertising revenue could have an interest in making radio look unreliable for news; this calls for questioning the source of the story.",
+          "Newspapers never followed the radio broadcast, so they made up the panic story.",
+          "This rivalry began after 1938."
+        ],
+        "answer": 1,
+        "explain": "Pooley and Socolow’s explanation: newspapers that had lost advertising revenue to radio had an interest in making radio look unreliable for news work. This is not a diagnosis but an “interest” explanation; that is why it calls for questioning the source. The first option is the reverse of the facts; the third is an unsupported claim."
+      }
+    },
+    {
+      "id": "ev-biggott", "section": "evidence", "layer": "core", "kind": "story",
+      "title": "Mr. Biggott: cartoons that the bullet did not hit",
+      "body": "In the 1940s a group of researchers tried something interesting: to reduce prejudice by making it look ridiculous. A cartoon series about a character called Mr. Biggott was prepared. Biggott displayed his prejudice in the most unlikely places; for example he would not let the hospital use anything but “blue blood” for a transfusion into him. The idea: while laughing at the character, viewers would also move away from their own prejudice.\n\nThe result was unexpected. According to Schramm and Roberts’s summary, the campaign, if anything, left the audience more prejudiced: instead of laughing at the cartoons, some approved of them, and some missed the point or misunderstood it [[cite:schramm-roberts-1971]]. Eunice Cooper and Marie Jahoda’s 1947 article analyses how prejudiced people reinterpreted propaganda to fit their prejudices [[cite:cooper-jahoda-1947]].\n\nSchramm cites this study as an example against the “bullet” story: when prejudiced people were given anti-prejudice propaganda, they used it to reinforce their existing prejudices. In his words, the target refused to fall over even when the bullet hit it [[cite:schramm-1971-nature]].\n\nThis study is from the 1940s; that is, *after* the period in which the “bullet” claim is said to have been made. But what it shows matters: the receiver reads the message through their own frame, so the same message lands in different places. Another side of Cantril’s four groups.",
+      "question": {
+        "id": "ev-biggott-q", "type": "mcq",
+        "prompt": "What point against the hypodermic picture does the Mr. Biggott study show?",
+        "options": [
+          "That nobody watched the cartoons.",
+          "That the same message can produce the opposite of the intended result in a prejudiced receiver: the receiver interprets the message within their own frame.",
+          "That propaganda always works.",
+          "That prejudice is inborn."
+        ],
+        "answer": 1,
+        "explain": "The study shows that target viewers reinterpreted the message to fit their own prejudice and that the effect sometimes turned around; the hypodermic picture assumes the message works the same in everyone. The third option says the reverse (“propaganda always works”): the finding is the opposite of that."
+      }
+    },
+    {
+      "id": "deep-numbers", "section": "evidence", "layer": "deep", "kind": "text",
+      "title": "Deep dive: the numbers and method of the Mars study",
+      "body": "**The Hooper measurement.** On the night of the broadcast the C. E. Hooper service called 5,000 households *by telephone*; asked which programme they were listening to, only 2 per cent gave an answer such as a radio play or the Welles programme, and none said a news broadcast. This summary had been published in *Broadcasting* [[cite:pooley-socolow-2013-slate]]. (Our inference: a telephone measurement does not cover households without a telephone.)\n\n**The AIPO survey.** Cantril defended this data because it also covered homes without telephones and small communities; but the report was compiled about six weeks after the broadcast, after the newspaper noise, and gave a much higher figure than the other measures [[cite:pooley-socolow-2013-slate]].\n\n**Stanton’s survey.** On the night of the broadcast Frank Stanton drew up a questionnaire and had the Hooper Holmes company carry it out; this company did personal interviews for the insurance industry and did not rely on the telephone alone. The data is said never to have been published, but to have supplied most of the evidence for the book’s finding on the link between critical ability and education [[cite:pooley-socolow-2013-ijoc]].\n\n**Interviews.** According to Cantril’s summary, detailed interviews were held with 135 people; more than a hundred were people known to have been upset by the broadcast [[cite:cantril-1971-invasion-summary]]. In November Herzog also conducted in-depth interviews with frightened listeners [[cite:pooley-socolow-2013-ijoc]]; I could not tell from the sources whether these two sets of interviews are the same.\n\n**Money.** The Rockefeller-linked General Education Board granted $3,000 for the “mass hysteria” study; the project as a whole had been set up in 1937 with a renewable two-year grant of $67,000 [[cite:pooley-socolow-2013-ijoc]].\n\nA warning (our own reading): none of these figures answers “how many people panicked” directly, because “frightened”, “disturbed” and “panicked” had been merged into one measure."
+    },
+    {
+      "id": "deep-authorship", "section": "evidence", "layer": "deep", "kind": "story",
+      "title": "Deep dive: whose book is it? A dispute over authorship",
+      "body": "*The Invasion from Mars* came out with only Cantril’s name on the cover; Herta Herzog and Hazel Gaudet were mentioned as having given “assistance” [[cite:pooley-socolow-2013-ijoc]]. From archive documents Pooley and Socolow tell this: there was already a sharp dispute between Cantril and Lazarsfeld while the radio project was under way; the archive records suggest that at the end of 1939 they settled with a bargain: Lazarsfeld dropped his claim (on his own and Herzog’s behalf) to credit for the book, and Cantril agreed to the project’s move to another institution. The authors liken this, wryly, to divorce proceedings: the book went to Cantril and the research institute to Lazarsfeld.\n\nThe credit for the idea was also spread out: the concept of “checking up” was apparently developed by Herzog; the book’s most celebrated finding, the link between some listeners’ critical ability and their tendency to check the broadcast, rested on it [[cite:pooley-socolow-2013-ijoc]].\n\nA second irony: Cantril insisted on a dramatic writing style and exaggerated the extent of the panic; the book was also presented in its original marketing as a “mystery-adventure story of the American people” [[cite:pooley-socolow-2013-ijoc]].\n\nThe upshot: there was more continuity than thought between Lazarsfeld’s line of research (a selective, differentiated audience) and Cantril’s book; but that continuity was erased in the remembered history because of the two men’s split. In textbooks the book was placed on the “powerful effects” side and Lazarsfeld’s team on the “limited effects” side. Cantril’s later study with Hastorf, *They Saw a Game*, describes how supporters of different teams saw the same football game differently [[cite:hastorf-cantril-1954]]. Our reading: Cantril’s outlook was far from a plain “hypodermic needle”."
+    },
+    {
+      "id": "crit-nobody", "section": "critique", "layer": "core", "kind": "myth",
+      "title": "What people assume: in the 1930s everyone believed in the “bullet theory”",
+      "body": "**What people assume:** Prewar scholars thought of the audience as a passive target; Lazarsfeld’s team dispelled this naivety with evidence.\n\n**What historians found**\n\n- Bineham (1988) argued that how the history of the hypodermic model is told influences the field’s theoretical and methodological choices; different histories brought different definitions of the model with them [[cite:bineham-1988]].\n- Sproule (1989) examined why reading interwar propaganda critics as “magic bullet” thinkers is historically inaccurate, and why the misunderstanding took hold in the 1940s and 1950s [[cite:sproule-1989]]. According to Bauer and Nadler these critics stood in a progressive line that probed the interests of institutions [[cite:bauer-nadler-2021]].\n- Pooley (2006) traces the “first powerful, then limited” story back to the first 15 pages of *Personal Influence* [[cite:pooley-2006]]; Lubken (2008) looks at it as a *straw man*, a dummy rival [[cite:lubken-2008]].\n\n**Let’s be fair.** To say “nobody believed in powerful effects” would also be wrong. Parsons (2021) shows that the “suggestion doctrine”, born in social psychology at the start of the twentieth century, was one of the dominant explanations of media influence before the war [[cite:parsons-2021]]; Lasswell had called propaganda “one of the most powerful instrumentalities”. Chaffee, in his reply to Bineham, argued that the history of the hypodermic model must be kept apart from the history of empirical research [[cite:chaffee-1988]].\n\nThe balanced conclusion: **there was no single, official “bullet theory”; but there was a scattered belief in “powerful effects”.**",
+      "question": {
+        "id": "crit-nobody-q", "type": "mcq",
+        "prompt": "Which of the following is closest to the historians’ claim?",
+        "options": [
+          "In the 1930s a single “bullet theory” had been formally adopted and was refuted in the 1940s.",
+          "Scattered beliefs in powerful effects existed; but the framework that gathered them into a single, official “hypodermic/bullet theory” was built later.",
+          "Before the war nobody thought the media were powerful.",
+          "Lasswell invented the hypodermic model and historians are hiding it."
+        ],
+        "answer": 1,
+        "explain": "The second option combines two observations: a scattered belief in powerful effects (the suggestion doctrine, the propaganda worry) was real, but the “hypodermic/bullet theory” framework was built later. The first option is the textbook version. The third is an overcorrection; Parsons and Lasswell’s text show the opposite. The fourth is an unsupported accusation."
+      }
+    },
+    {
+      "id": "crit-two-stage", "section": "critique", "layer": "core", "kind": "text",
+      "title": "Whom did the “powerful to limited” story serve?",
+      "body": "Historians also ask why this story caught on so well. Several answers stand out:\n\n- **A founding story.** The account “first a naive assumption, then careful measurement” helps a new field present itself as scientific. Pooley writes that the narrative in the first 15 pages of *Personal Influence* shaped the field’s understanding of its own history more than any other publication [[cite:pooley-2006]].\n- **A paradigm shift.** According to Sproule, a critical framework called “propaganda analysis” gained weight in American social science in the 1920s–30s. Towards the end of the 1930s, when science came to be equated with statistics and experiment and demands for national mobilization arrived, it gave way to “communication research”, which could offer government and private funders useful and politically uncontroversial service [[cite:sproule-1987]].\n- **A convenient opposite.** According to Bauer and Nadler, the dummy of the naive receiver, while promoting a more positivist research, reduced the ethical questions that could have embarrassed the institutions funding the field [[cite:bauer-nadler-2021]].\n- **A need for a concrete example.** Textbooks often say “first there was the bullet” without naming a prewar person; when an example is asked for, Cantril’s Mars book is usually shown [[cite:pooley-socolow-2013-ijoc]]. Yet Pooley and Socolow argue that this book is an early link in the line of Lazarsfeld’s radio project that complicated media influence [[cite:pooley-socolow-2013-ijoc]].",
+      "question": {
+        "id": "crit-two-stage-q", "type": "tf",
+        "prompt": "True or false: According to Pooley and Socolow, although Cantril’s Mars book is shown in textbooks as a “powerful effects” example, it is in fact an early link in a line of research that complicated media influence.",
+        "answer": true,
+        "explain": "True. The authors read the book as continuous with the “complicating media influence” line of the radio project directed by Lazarsfeld and the later Bureau; the book’s core finding (that some listeners checked the broadcast) anticipates the idea of a selective, differentiated audience. What makes “false” tempting is the customary placement in textbooks."
+      }
+    },
+    {
+      "id": "deep-historiography", "section": "critique", "layer": "deep", "kind": "text",
+      "title": "Deep dive: historians disagree, who argued what?",
+      "body": "This card is at summary level; for works whose abstracts only I could open, I report what the abstracts say.\n\n- **Chaffee and Hochheimer (1985).** Pooley and Socolow list them, together with Lubken, Pooley and Sproule, among the historians who study how the “needle” shorthand hardened [[cite:chaffee-hochheimer-1985]] [[cite:pooley-socolow-2013-ijoc]].\n- **Bineham (1988)** and **Chaffee (1988).** According to Bineham, how the model is told affects the field’s choices [[cite:bineham-1988]]. Chaffee, in his reply in the same issue, argues that the history of the hypodermic model should be *kept apart* from the history of empirical research [[cite:chaffee-1988]]. So there is disagreement even among historians: the textbook myth is one thing, the research past another.\n- **Sproule (1987, 1989).** In 1987 he tells the rise of propaganda analysis and its displacement by “communication research” [[cite:sproule-1987]]; in 1989 he argues that the “magic bullet myth” misdescribes the interwar critics [[cite:sproule-1989]].\n- **Pooley (2006).** He traces the “powerful to limited” story back to the first 15 pages of *Personal Influence* [[cite:pooley-2006]].\n- **Lubken (2008).** The chapter’s title is “Remembering the Straw Man”; it treats the hypodermic picture as a remembered dummy rival [[cite:lubken-2008]].\n- **Pooley and Socolow (2013).** They argue that Cantril’s Mars book, contrary to its placement in textbooks, is continuous with the line that complicated media influence [[cite:pooley-socolow-2013-ijoc]].\n- **Bauer and Nadler (2021).** They say that the same “distorted memory” should be kept in mind in today’s misinformation research too [[cite:bauer-nadler-2021]]."
+    },
+    {
+      "id": "deep-suggestion", "section": "critique", "layer": "deep", "kind": "text",
+      "title": "Deep dive: the forgotten doctrine, suggestion",
+      "body": "Which idea was there in place of the needle label? Parsons (2021) answers: the **suggestion doctrine**. Born in social psychology at the start of the twentieth century and applied to media effects before the war, it was in that period one of the foremost psychological explanations of opinion change and one of the dominant theories of media influence; yet it has been largely ignored in contemporary histories of communication [[cite:parsons-2021]]. So to say “there was no idea of powerful effects before the war” would be wrong; what there was, was a psychological explanation rather than a single “bullet” theory.\n\nCantril’s summary also carries traces of this vocabulary: listeners who believed the broadcast and were frightened count as, for that night, highly suggestible people; those who were not frightened showed what psychologists used to call a “critical faculty” [[cite:cantril-1971-invasion-summary]]. But Cantril explains suggestibility not as a fixed tendency in the person but as depending on the person’s *standards of judgment*; he lists four cases: those whose standards let them “place” the event at once; those who try to check and fail; those none of whose standards is adequate; those who do not think other interpretations are possible [[concept:suggestibility]].\n\nThat is why the Mars study is not a plain “hypodermic” story: it takes an old concept (suggestion) but ties it to *what the receiver knows*. Our reading: it treats the receiver not as a target but as an interpreter with more or less knowledge."
+    },
+    {
+      "id": "today-revivals", "section": "today", "layer": "core", "kind": "text",
+      "title": "“Powerful effects” never died: the comebacks",
+      "body": "The needle label shrank over time, but the idea that “media can be powerful” came back in different forms:\n\n- **1973, Noelle-Neumann.** After about twenty years of “limited effects” research, in her article *Return to the Concept of Powerful Mass Media* she argued that the media could be powerful; in her view laboratory studies missed three features of the media: ubiquity, cumulation and consonance [[cite:noelle-neumann-1973]] [[cite:salmon-kline-1983]]. This idea is the background of the [[lesson:spiral-of-silence]] lesson.\n- **1978, Gitlin.** Todd Gitlin argued that limited-effects research defined effects very narrowly, through short-term, measurable behaviour, and so was almost doomed from the start to find at most slight effects; and that it overlooked the media’s power to determine what counts as politically real and legitimate [[cite:gitlin-1978]].\n- **After the 1970s, mid-range approaches.** Agenda-setting ([[lesson:agenda-setting]]) and cultivation ([[lesson:cultivation]]) rebuilt effects not as “the instant hit of a single message” but as a long-term and indirect process.\n- **2008, Bennett and Iyengar.** They asked whether, in an age of fragmenting and personalizing channels, we are entering “a new era of minimal effects” [[cite:bennett-iyengar-2008]].\n\nOur reading (not documented): what these comebacks have in common is that none of them says “once the message leaves the mouth the target falls”; all define the effect conditionally, as *who, over how long, under what conditions*.",
+      "question": {
+        "id": "today-revivals-q", "type": "mcq",
+        "prompt": "Which work put forward the trio “ubiquity, cumulation and consonance” as the grounds for a return to “powerful mass media”?",
+        "options": [
+          "Cantril, 1940",
+          "Noelle-Neumann, 1973",
+          "Kalla and Broockman, 2018",
+          "Berlo, 1960"
+        ],
+        "answer": 1,
+        "explain": "This trio is the claim of Noelle-Neumann’s 1973 article. Cantril stands for the Mars study, Berlo for the mention of the needle, and Kalla and Broockman for field experiments finding the persuasive effect of campaign contact close to zero; each answers a different question."
+      }
+    },
+    {
+      "id": "deep-revivals", "section": "today", "layer": "deep", "kind": "text",
+      "title": "Deep dive: the three comebacks in detail",
+      "body": "**Noelle-Neumann (1973).** According to the summary by Salmon and Kline (1983), this article, written after about twenty years of limited-effects findings, claims that the media can be powerful. Why? Because effects research had mostly been done in the laboratory and had not taken into account *ubiquity* (a person can hardly escape the same messages), *cumulation* (the same messages pile up) and *consonance* (journalists share similar values, rely on the same sources and influence one another). Consonance limits a person’s ability to form independent opinions and makes selective perception harder [[cite:salmon-kline-1983]]. This is not a needle; it is a conditional and cumulative power.\n\n**Gitlin (1978).** The article says that the “dominant paradigm” took as its theme the relative powerlessness of the broadcasters while media ownership was becoming more concentrated after the war; it argues that this paradigm defined effects in a *behaviourist, short-term and measurable* way, and so almost guaranteed that surveys would show slight effects at most. According to Gitlin this approach highlighted audiences’ resistance and put their dependency and acquiescence in the background; the media’s power to say what is politically real and legitimate was overlooked [[cite:gitlin-1978]]. So Gitlin is not going back to the needle picture; he is criticizing the question “what is an effect?”.\n\n**Bennett and Iyengar (2008).** The abstract poses a series of questions: if people have become detached from shared contexts such as public schools, parties and civic groups, how do they respond to media messages? If channels have multiplied and become individualized, is “mass media” still a valid concept? Does the new environment foreshadow a return to a time of minimal effects? [[cite:bennett-iyengar-2008]]. Our reading: these questions keep open whether the “powerful to limited” story is starting over."
+    },
+    {
+      "id": "today-digital", "section": "today", "layer": "core", "kind": "story",
+      "title": "Bullet or fallout on social media?",
+      "body": "New fear has come with a new medium: social media. Two documented studies show the two ends of the picture.\n\n**Contagion.** Kramer, Guillory and Hancock (2014) reported that in an experiment on Facebook with 689,003 users, when the emotional content of the News Feed was changed, the emotional tone of people’s own posts changed too. But the authors themselves write that the effect sizes were small (as small as d = 0.001); they nevertheless argue that at Facebook’s scale small effects may not be negligible in aggregate [[cite:kramer-et-al-2014]].\n\n**Persuasion.** Kalla and Broockman (2018) examined the effect of campaign contact and advertising on vote choice in general elections in 49 field experiments and reported that the best estimate is *zero*; persuasive effects appeared only in two rare circumstances [[cite:kalla-broockman-2018]].\n\nThe two findings do not contradict each other: *triggering* a feeling and *changing* an opinion are different questions. Remember Bauer and Nadler’s warning too: if misinformation researchers remember the propaganda research of the past only as a caricature, they do their own field no favours [[cite:bauer-nadler-2021]].\n\nOur reading (not documented): instead of asking “is it a needle?”, asking “which effect, how big, in whom, under what conditions?” is a sturdier habit against the panic stories of both 1938 and today.",
+      "question": {
+        "id": "today-digital-q", "type": "mcq",
+        "prompt": "Which is correct about Kramer and colleagues’ Facebook experiment with 689,003 users?",
+        "options": [
+          "The effect sizes were large and every user reacted the same way.",
+          "The authors reported small effect sizes (as small as d = 0.001) but argued that at Facebook’s scale small effects can matter in aggregate.",
+          "The experiment found no effect.",
+          "The experiment was conducted only with newspaper readers."
+        ],
+        "answer": 1,
+        "explain": "The study reported a small but consistent contagion effect, and the authors argued that scale can make small effects important. The first option is a contemporary echo of the “needle” picture (a large effect, the same in everyone); the data do not support it. The third option is at the opposite extreme: the effect was small but not zero."
+      }
+    },
+    {
+      "id": "today-lab", "section": "today", "layer": "core", "kind": "lab",
+      "title": "Mini lab: “check up” on the message",
+      "body": "Try Cantril’s four groups on your own phone. This is not a scientific study; it is an exercise to feel the logic. (Hypothetical scenario.)\n\nA frightening message lands in a group chat: “Tonight there is a big danger in the city, everyone should ...”. Before believing or forwarding it, make four “checks”:\n\n1. **Internal evidence:** Is the message consistent within itself? Are the numbers, the speeds, the “a friend of a friend” sources plausible? (Cantril’s group 1.)\n2. **External source:** Look at an independent source, for example an official announcement and two separate news organisations. (Group 2.)\n3. **The trap: checking with people who share the same fear.** Asking friends “did you see it too?” can, as with Cantril’s group 3, confirm your own fear: you are looking in the wrong place.\n4. **Wait:** Don’t forward without any check. (Group 4.)\n\nThen ask: which check was hardest to do? Why?\n\n**What it does not prove.** This exercise does not say “people are easily fooled”; Cantril’s team too recorded that many listeners tested the broadcast successfully [[cite:cantril-1971-invasion-summary]]. The exercise draws attention to the *conditions* that play a part in the spread of false information (fear, urgency, an unreliable source). With Bauer and Nadler’s warning: work without turning the people of past ages into a “naive” caricature [[cite:bauer-nadler-2021]].",
+      "question": {
+        "id": "today-lab-q", "type": "mcq",
+        "prompt": "In a neighbourhood group everyone confirms each other’s “there is a strange light in the street” message. According to Cantril’s findings, why is this an insufficient check?",
+        "options": [
+          "Because friends always lie.",
+          "Because information from people affected by the same situation, with similar doubt and fear, tends to confirm an interpretation that was already suspect.",
+          "Because the telephone is always unreliable.",
+          "Because only newspapers are a valid source."
+        ],
+        "answer": 1,
+        "explain": "According to Cantril’s summary, those who checked unsuccessfully mostly consulted friends and neighbours; these people too were full of doubt and hesitation and reinforced the first suspicion. The first option ties the problem to people’s intentions; but the problem is not intention, it is that the source was itself affected by the situation."
+      }
+    },
+    {
+      "id": "exam-patterns", "section": "exam", "layer": "core", "kind": "text",
+      "title": "This is how exams ask it",
+      "body": "**Common patterns**\n\n- “Which name is most often associated with the hypodermic needle model or magic bullet theory?” → Lasswell. Textbooks associate it this way; Yaylagül too links the model with Lasswell’s propaganda work [[cite:yaylagul-2006]].\n- “The assumptions of the model?” → a powerful medium, an isolated and passive receiver, a direct and instant effect, a similar effect in everyone.\n- “Compare with limited effects” → on the limited-effects side, Lazarsfeld and his team ([[lesson:voting-studies]]).\n- “The 1938 Mars broadcast” → Welles, CBS; Cantril’s book 1940.\n\n**Tempting wrong answers**\n\n- “Lazarsfeld put forward the hypodermic model” → no; he is on the limited-effects side.\n- “Cantril proved the panic” → according to historians its basis is weak; Cantril’s own summary gives a mixed picture too.\n- “Berlo and Schramm defended this theory in the 1930s” → no, they refer to the label in the 1960s–70s as a “past”.\n- Years: Lippmann 1922; Lasswell 1927; Mars broadcast 1938; Cantril 1940; *Personal Influence* 1955.\n\n**Alternative names (in Turkish sources):** *hipodermik iğne*, *sihirli mermi*, *uyarıcı–tepki*, *propaganda modeli* (hypodermic needle, magic bullet, stimulus–response, propaganda model) [[cite:yaylagul-2006]]. In English: *hypodermic needle*, *magic bullet*, *bullet theory*.\n\nIn open-ended questions, knowing the textbook version and the historical version separately makes the difference (next card).",
+      "question": {
+        "id": "exam-patterns-q", "type": "mcq",
+        "prompt": "A multiple-choice question: “Which theorist is most often associated with the hypodermic needle model?” Options: Lazarsfeld, Lasswell, Gerbner, McCombs. According to the textbook association, which is the right option?",
+        "options": [
+          "Lazarsfeld",
+          "Lasswell",
+          "Gerbner",
+          "McCombs"
+        ],
+        "answer": 1,
+        "explain": "Textbooks associate the model with Lasswell’s propaganda work; this is an *association*, not proof that Lasswell used the phrases. Lazarsfeld is on the limited-effects side, Gerbner is the name of cultivation, McCombs of agenda-setting. In an open-ended question, adding that the association was made later earns marks."
+      }
+    },
+    {
+      "id": "exam-answer", "section": "exam", "layer": "core", "kind": "steps",
+      "title": "Open-ended question: the two-version answer",
+      "body": "For a question like “Explain and criticize the hypodermic needle (magic bullet) model”, use this skeleton:\n\n1. **Give the textbook version (2–3 sentences):** a powerful medium, an isolated and passive receiver, a direct and instant effect; the image of an “injection under the skin” or a “bullet hitting its target”.\n2. **Give the context:** First World War propaganda, the rise of radio, Lasswell’s 1927 book and the fear left by the 1938 Mars broadcast.\n3. **Add the historical correction:** “The documented uses of the phrases are Berlo (1960) and Schramm (1971); historians such as Sproule (1989), Bineham (1988) and Lubken (2008) treat it as a label constructed later, a *straw man*.”\n4. **Give one concrete counter-example:** the Mars broadcast (2 per cent in Hooper; Cantril’s own four groups) or the Mr. Biggott study.\n5. **Say what replaced it and the comebacks:** limited effects (Lazarsfeld), then Noelle-Neumann 1973, Gitlin 1978 and mid-range theories.\n\nA two-sentence sample opening: “The hypodermic needle model is a textbook account that assumes mass media inject the message directly into a passive receiver; however, according to historians no single theory under this name was defended in the 1920s–30s, and the label was constructed by later generations.”",
+      "question": {
+        "id": "exam-answer-q", "type": "mcq",
+        "prompt": "A student writes in an open-ended answer: “Lasswell founded the hypodermic needle model in 1927; Lazarsfeld refuted it in 1940.” Which correction should be added first to improve the answer?",
+        "options": [
+          "Lazarsfeld’s date of birth.",
+          "That the phrases are not in the 1927 book, that the label was used later (Berlo 1960, Schramm 1971), and that historians call it a straw man.",
+          "Which city Lasswell lived in.",
+          "That the model was also used in engineering."
+        ],
+        "answer": 1,
+        "explain": "The heaviest gap is the claim itself: what is described as “founded” and “refuted” is not documented. The second option supplies both the correction and the source names; the other options are details unrelated to the topic."
+      }
+    },
+    {
+      "id": "summary", "section": "summary", "layer": "core", "kind": "summary",
+      "title": "Summary card",
+      "body": "- **Textbook version:** a powerful medium, an isolated and passive receiver, a direct and instant effect; names: hypodermic needle, magic bullet, stimulus–response.\n- **Documented use:** the phrases are not in Lasswell’s 1927 book; “hypodermic needle” is in Berlo (1960), “Bullet Theory” in Schramm (1971).\n- **The fear was real:** the propaganda and radio worry; Lasswell said “one of the most powerful instrumentalities”, but with cautionary sentences.\n- **The Mars broadcast (1938):** Cantril’s own summary gives four kinds of listeners and “no single variable”; 2 per cent in Hooper; newspaper rivalry; the “panic” was exaggerated.\n- **Historians:** Bineham (1988), Sproule (1989), Lubken (2008), Pooley (2006), Pooley and Socolow (2013): there was no single, official “bullet theory”; but there was a scattered belief in “powerful effects” (Parsons 2021, the suggestion doctrine).\n- **The story’s function:** the “powerful to limited” account became a founding story and a convenient opposite for a new field.\n- **Comebacks:** Noelle-Neumann (1973), Gitlin (1978), mid-range theories, Bennett and Iyengar (2008); today: “which effect, how big, in whom, under what conditions?”\n- **Exam:** keep the textbook version and the historical version apart; Lasswell is an association; Lazarsfeld is on the limited-effects side.",
+      "question": {
+        "id": "summary-q", "type": "tf",
+        "prompt": "True or false: According to this lesson, Lasswell set out the phrases “hypodermic needle” and “magic bullet” as a theory in his 1927 book.",
+        "answer": false,
+        "explain": "False. The phrases do not occur in the scanned texts of the book; “hypodermic needle” is documented in Berlo (1960) and “Bullet Theory” in Schramm (1971). Lasswell’s sentences on powerful effects do exist, and they come with cautionary sentences."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1", "type": "mcq",
+      "prompt": "What is the documented information about the relation between Lasswell’s 1927 book and the phrases “hypodermic needle/magic bullet”?",
+      "options": [
+        "The book defines the two phrases and sets out the model there for the first time.",
+        "The scanned texts of the book do not contain the two phrases; documented uses are in Berlo (1960, “hypodermic needle”) and Schramm (1971, “Bullet Theory”).",
+        "The phrases first appear in Cantril’s 1940 book.",
+        "Both phrases were taken from Lippmann’s 1922 book."
+      ],
+      "answer": 1,
+      "explain": "The right answer is the second option: the phrases were not found in either scanned text; the documented uses are in 1960 and 1971. The first option is the textbook version itself; it is tempting because it is so often repeated. The third and fourth options have no basis."
+    },
+    {
+      "id": "q2", "type": "tf",
+      "prompt": "True or false: On the night of the broadcast, in Hooper’s national measurement covering 5,000 households, only 2 per cent gave an answer such as the Welles programme on CBS or a radio play.",
+      "answer": true,
+      "explain": "True. According to the measurement Pooley and Socolow report, 2 per cent gave such an answer and none said a news broadcast. What makes “false” tempting is the widespread story that the programme “brought the country to a halt”; yet on the other side there was a much-loved comedy-variety show."
+    },
+    {
+      "id": "q3", "type": "match",
+      "prompt": "Match each name or work with its contribution.",
+      "pairs": [
+        ["David Berlo (1960)", "Mentions “hypodermic needle” conceptions as a counter-example to his own “process” view"],
+        ["Wilbur Schramm (1971)", "Claims the naming “Bullet Theory” and says that by the middle 1950s it was “shot full of holes”"],
+        ["J. Michael Sproule (1989)", "Examines how “magic bullet” misdescribes the interwar propaganda critics"],
+        ["Jefferson Pooley (2006)", "Traces the “powerful to limited” story back to the first 15 pages of Personal Influence"],
+        ["Noelle-Neumann (1973)", "Argues for a return to “powerful mass media” with ubiquity, cumulation and consonance"]
+      ],
+      "explain": "These pairings are often mixed up. Berlo and Schramm are *users* of the label; Sproule and Pooley are *historians* of the label; Noelle-Neumann represents a *comeback* of powerful effects."
+    },
+    {
+      "id": "q4", "type": "order",
+      "prompt": "Put these events in order, from earliest to latest.",
+      "items": [
+        "Lasswell’s *Propaganda Technique in the World War* (1927)",
+        "The Mars broadcast (30 October 1938)",
+        "Cantril’s *The Invasion from Mars* (1940)",
+        "*Personal Influence* (1955)",
+        "Berlo’s *The Process of Communication* (1960)",
+        "Schramm and Roberts’s revised edition and the “Bullet Theory” (1971)",
+        "Sproule’s “magic bullet myth” article (1989)"
+      ],
+      "explain": "The order: 1927, 1938, 1940, 1955, 1960, 1971, 1989. The most common mistake is to place Berlo and Schramm (who used the label) in the 1930s; the logic: fear and events first, labelling later, and historians questioning the label last."
+    },
+    {
+      "id": "q5", "type": "cloze",
+      "prompt": "Fill in the blanks.",
+      "text": "According to Cantril’s summary, {{1}} people heard the broadcast; but in Hooper’s national measurement only {{2}} per cent of 5,000 households said they were listening to the Welles programme or a radio play.",
+      "blanks": [
+        { "options": ["at least six million", "at least sixty million", "about six thousand"], "answer": 0 },
+        { "options": ["2", "20", "50"], "answer": 0 }
+      ],
+      "explain": "Cantril wrote that “at least six million” people listened; Hooper found 2 per cent. That the two figures stand side by side in the same story shows why historians question the data Cantril used."
+    },
+    {
+      "id": "q6", "type": "case",
+      "scenario": "A news site runs the headline “Thousands of viewers panicked!” after a scene in a series staged to look real. As evidence it shows a few angry posts shared on social media and the site’s own “reader poll”. The site is a rival of the channel that aired the scene. (Hypothetical scenario.)",
+      "parts": [
+        {
+          "id": "q6a",
+          "prompt": "Going by what you take from the 1938 Mars experience, which question do you ask first?",
+          "options": [
+            "How many people actually watched, and were “panic” and “surprise or excitement” measured separately?",
+            "How expensive was the series?",
+            "Who were the actors?"
+          ],
+          "answer": 0,
+          "explain": "The Mars case had two problems: the audience was much smaller than expected, and “frightened, disturbed, excited” had been lumped together with “panic”. The same two questions apply here. The other options are off topic."
+        },
+        {
+          "id": "q6b",
+          "prompt": "How do you assess the fact that the news site is a rival?",
+          "options": [
+            "It is unimportant; the source of the story is not questioned.",
+            "In 1938 newspapers were rivals of radio; a similar interest may have affected the measure of the story here, so the source’s incentives should be questioned.",
+            "Rivalry proves the story is true."
+          ],
+          "answer": 1,
+          "explain": "According to Pooley and Socolow, newspapers had an interest in making radio look unreliable. This is not proof but an incentive to question. The first and third options ignore the incentive or turn it around."
+        },
+        {
+          "id": "q6c",
+          "prompt": "Using Cantril’s classification, how do you interpret how much evidence a few angry posts are?",
+          "options": [
+            "The posts represent all viewers.",
+            "Cantril’s sample too was selected from people known to have been upset; similarly these posts show only those affected, not the proportion.",
+            "The posts prove all four groups."
+          ],
+          "answer": 1,
+          "explain": "More than a hundred of Cantril’s 135 interviews were selected from people known to have been upset; this shows how those affected reacted, not how many were affected. The same limit applies to selected posts."
+        }
+      ],
+      "takeaway": "Three tools for being sceptical of “mass panic” stories: question the size of the audience, the definition of the measure (panic or surprise?) and the incentives of the reporter."
+    },
+    {
+      "id": "q7", "type": "mcq",
+      "prompt": "Which of the following is a balancing finding against the claim “in the 1930s the belief in powerful effects did not exist at all”?",
+      "options": [
+        "Hooper’s 2 per cent measurement",
+        "According to Parsons (2021), the suggestion doctrine was one of the dominant explanations of media influence before the war",
+        "The Mr. Biggott study",
+        "Schramm’s “shot full of holes” expression"
+      ],
+      "answer": 1,
+      "explain": "The suggestion doctrine shows that a theoretical basis for powerful effects existed before the war, which refutes the claim “it did not exist at all”. The Hooper measurement and Mr. Biggott are findings that *weaken* the powerful-effects claim; Schramm’s expression is his 1971 assessment of the label."
+    },
+    {
+      "id": "q8", "type": "mcq",
+      "prompt": "According to Noelle-Neumann’s 1973 article, which three features did laboratory studies miss?",
+      "options": [
+        "Selective exposure, selective perception, selective retention",
+        "Ubiquity, cumulation and consonance",
+        "Gatekeeping, agenda-setting, framing",
+        "Agenda, priming, framing"
+      ],
+      "answer": 1,
+      "explain": "As Salmon and Kline report, Noelle-Neumann puts forward the trio of ubiquity, cumulation and consonance. The first option is the “selective processes” of the limited-effects period, exactly the framework Noelle-Neumann tried to go beyond. The third and fourth options are concepts of other theories."
+    },
+    {
+      "id": "q9", "type": "tf",
+      "prompt": "True or false: Gitlin (1978) argued that limited-effects research, by defining effects very narrowly and in the short term, was prone to finding slight effects.",
+      "answer": true,
+      "explain": "True. Gitlin argued that the dominant paradigm defined effects in a behaviourist way, very narrowly and directly, so that surveys could show at most slight effects. What makes “false” tempting is that Gitlin does not go back to the needle picture; his criticism is about the *definition* of effect."
+    },
+    {
+      "id": "q10", "type": "mcq",
+      "prompt": "Which sentence is historically most accurate about the hypodermic needle (magic bullet) model?",
+      "options": [
+        "It was a single theory formally adopted by scholars in the 1920s–30s.",
+        "Rather than a theory defended in the 1920s–30s, it is a label named later (Berlo 1960, Schramm 1971) and “refuted” in textbooks; a scattered belief in “powerful effects” was real.",
+        "Nobody ever thought the media were powerful.",
+        "It is solely an invention of Lasswell."
+      ],
+      "answer": 1,
+      "explain": "The second option says both that the label was added later and that a real, scattered belief in powerful effects existed. The first option is the textbook version; the third is an overcorrection; the fourth is an unsupported attribution."
+    }
+  ]
+}

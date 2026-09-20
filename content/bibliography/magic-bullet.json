@@ -1,0 +1,285 @@
+{
+  "lasswell-1927-propaganda": {
+    "type": "book",
+    "authors": ["Lasswell, Harold D."],
+    "year": 1927,
+    "title": "Propaganda technique in the World War",
+    "publisher": "Kegan Paul, Trench, Trubner & Co.; Alfred A. Knopf",
+    "place": "London; New York",
+    "verified": { "status": "ok", "methods": ["open-library", "full-text"], "date": "2026-09-20", "note": "Open Library lists the 1927 editions (Kegan Paul, Trench, Trubner; A. A. Knopf) and the 1938 Peter Smith reprint. OCR text of two scans read on archive.org: the 1927 London/New York edition (Delhi University Library copy, id dli.ernet.6011; title page 'London: Kegan Paul, Trench, Trubner & Co., Ltd. New York: Alfred A. Knopf') and the 1938 Peter Smith reprint (id PropagandaTechniqueInTheWorldWar). Passages checked in both: p. 217 (Wilson, 'injected into the veins'), p. 220 ('one of the most powerful instrumentalities in the modern world'; difficulty of separating propaganda from other means of control), p. 221 ('new hammer and anvil of social solidarity'), p. 222 ('atomized world'; 'more can be won by illusion than by coercion'). Neither OCR text contains 'hypodermic', 'needle' or 'syringe'; 'bullet' occurs only in war-law lists, in a footnoted book title (Bullets and Billets, 1917) and in a quotation ('Thoughts are Bullets', attributed there to George William Curtis); 'magic' only in 'the magic of his eloquence'." }
+  },
+  "berlo-1960": {
+    "type": "book",
+    "authors": ["Berlo, David K."],
+    "year": 1960,
+    "title": "The process of communication: An introduction to theory and practice",
+    "publisher": "Holt, Rinehart and Winston",
+    "place": "New York",
+    "verified": { "status": "ok", "methods": ["open-library", "full-text"], "date": "2026-09-20", "note": "Open Library lists the 1960 Holt, Rinehart and Winston edition (LCCN 60007981). OCR text of a scan (Digital Library of India copy, archive.org id dli.ernet.235577) read: pp. 27-28 use 'hypodermic needle' (and 'hypodermic-needle') for 'much of the early discussion of the effects of the mass media' without naming any author, as a contrast to a process view; the index lists 'hypodermic needle concept, 27-28'. The word 'bullet' does not occur in this sense." }
+  },
+  "schramm-roberts-1971": {
+    "type": "book",
+    "authors": ["Schramm, Wilbur (Ed.)", "Roberts, Donald F. (Ed.)"],
+    "year": 1971,
+    "title": "The process and effects of mass communication",
+    "edition": "Rev. ed.",
+    "publisher": "University of Illinois Press",
+    "place": "Urbana, IL",
+    "verified": { "status": "ok", "methods": ["open-library", "full-text"], "date": "2026-09-20", "note": "Open Library lists the 1971 revised edition (University of Illinois Press) and the 1954 first edition. Full-text PDF of the revised edition read (worldradiohistory.com copy): contents, foreword, the editors' introductions and the reprinted articles. On p. 59 the editors write of the 'long-held \"hypodermic needle\" or \"bullet\" theory of mass media effect' being doubted after the 1940 election study; their introduction to the audience section describes the Cooper-Jahoda 'Mr. Biggott' study." }
+  },
+  "schramm-1971-nature": {
+    "type": "chapter",
+    "authors": ["Schramm, Wilbur"],
+    "year": 1971,
+    "title": "The nature of communication between humans",
+    "editors": ["Schramm, Wilbur", "Roberts, Donald F."],
+    "bookTitle": "The process and effects of mass communication (rev. ed.)",
+    "publisher": "University of Illinois Press", "place": "Urbana, IL",
+    "verified": { "status": "ok", "methods": ["full-text", "second-source"], "date": "2026-09-20", "note": "Chapter opens the volume (contents: p. 3). Read in the full-text PDF: pp. 8-10 - 'I have elsewhere called this the Bullet Theory of communication'; the passage on how frightening World War I, Communist and Nazi propaganda were; 'the Bullet Theory ... had been shot full of holes' by the middle 1950s. The editors' introduction (p. 59) and the foreword to the second edition use the same phrase, so the naming is confirmed in three places of the same book. Chapter end page not confirmed, so no page range is given." }
+  },
+  "cantril-1971-invasion-summary": {
+    "type": "chapter",
+    "authors": ["Cantril, Hadley"],
+    "year": 1971,
+    "title": "The invasion from Mars",
+    "editors": ["Schramm, Wilbur", "Roberts, Donald F."],
+    "bookTitle": "The process and effects of mass communication (rev. ed.)",
+    "publisher": "University of Illinois Press", "place": "Urbana, IL",
+    "pages": "579-595",
+    "verified": { "status": "ok", "methods": ["full-text", "second-source"], "date": "2026-09-20", "note": "Cantril's own summary of part of his 1940 book, reprinted from Newcomb, Hartley et al., Readings in Social Psychology (Holt, 1947). Read in the Schramm-Roberts full-text PDF (pp. 579-595; the passage 'At least six million people heard the broadcast. At least a million of them were frightened or disturbed' is on p. 580) and, identically, in a second copy of the same summary (chesler.us/resources/links/Cantril.pdf). Used for: 135 interviews, fictitious experts, tuning in late, the four groups of listeners, 'no single observable variable', suggestibility and standards of judgment. End page 595 inferred from running heads." }
+  },
+  "cantril-1940": {
+    "type": "book",
+    "authors": ["Cantril, Hadley"],
+    "year": 1940,
+    "title": "The invasion from Mars: A study in the psychology of panic (with the assistance of Hazel Gaudet and Herta Herzog)",
+    "publisher": "Princeton University Press",
+    "place": "Princeton, NJ",
+    "verified": { "status": "ok", "methods": ["open-library", "second-source"], "date": "2026-09-20", "note": "Open Library lists the 1940 Princeton University Press first edition (LCCN 40027430). Bibliographic details and the 'with the assistance of Hazel Gaudet and Herta Herzog' credit match the reference list of Pooley & Socolow 2013 and the Science Fiction Encyclopedia entry on Cantril. The book itself was not opened (borrowing-only copy); the lesson uses Cantril's own 1947/1971 summary of it. Month of publication differs between sources (March vs 15 April 1940), so only the year is used." }
+  },
+  "pooley-socolow-2013-ijoc": {
+    "type": "article",
+    "authors": ["Pooley, Jefferson D.", "Socolow, Michael J."],
+    "year": 2013,
+    "title": "Checking up on The Invasion from Mars: Hadley Cantril, Paul F. Lazarsfeld, and the making of a misremembered classic",
+    "container": "International Journal of Communication", "volume": "7", "pages": "1920-1948",
+    "url": "https://ijoc.org/index.php/ijoc/article/view/2117",
+    "verified": { "status": "ok", "methods": ["publisher-page", "full-text"], "date": "2026-09-20", "note": "Open-access PDF read in full (ijoc.org, 29 pages; volume/pages as printed on the running heads). Used for: the 'hypodermic needle / magic bullet' shorthand and the textbook two-stage story; Lowery & DeFleur 1983 organisation; Stanton's Hooper Holmes questionnaire; Herzog's interviews and the invention of 'checking up'; the General Education Board grant; the Princeton Radio Research Project (1937, $67,000); Cantril's biography; the argument that the book is continuous with the Bureau's work." }
+  },
+  "pooley-socolow-2013-slate": {
+    "type": "web",
+    "authors": ["Pooley, Jefferson", "Socolow, Michael J."],
+    "year": 2013,
+    "title": "The myth of the War of the Worlds panic",
+    "publisher": "Slate",
+    "url": "https://slate.com/culture/2013/10/orson-welles-war-of-the-worlds-panic-myth-the-infamous-radio-broadcast-did-not-cause-a-nationwide-hysteria.html",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["archived-page"], "date": "2026-09-20", "note": "Page opened and read in full (published 28 Oct 2013): Hooper survey of 5,000 households (2 per cent), newspapers and radio, no verified deaths, hospital checks, Cantril's reliance on the AIPO survey and the quoted 'over 100 per cent higher' remark, Campbell's finding on fading coverage, the FCC's informal agreement. Popular version by the same authors as the peer-reviewed IJoC article; independent confirmation comes from Hayes & Battles 2011 and the NPR review of Schwartz 2015." }
+  },
+  "hayes-battles-2011": {
+    "type": "article",
+    "authors": ["Hayes, Joy Elizabeth", "Battles, Kathleen"],
+    "year": 2011,
+    "title": "Exchange and interconnection in US network radio: A reinterpretation of the 1938 War of the Worlds broadcast",
+    "container": "Radio Journal: International Studies in Broadcast & Audio Media", "volume": "9", "issue": "1", "pages": "51-62",
+    "doi": "10.1386/rjao.9.1.51_1",
+    "verified": { "status": "ok", "methods": ["crossref"], "date": "2026-09-20", "note": "Crossref record and abstract read (abstract: many listeners were frightened or disturbed, but the primary audience response was to communicate with others through social and technological networks). Full text not read; only the abstract-level claim is used." }
+  },
+  "heller-2015-npr": {
+    "type": "web",
+    "authors": ["Heller, Jason"],
+    "year": 2015,
+    "title": "The Martians are coming! ‘Broadcast Hysteria’ looks at the war over ‘Worlds’",
+    "publisher": "NPR",
+    "url": "https://www.npr.org/2015/05/09/403130170/the-martians-are-coming-broadcast-hysteria-looks-at-the-war-over-worlds",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["archived-page"], "date": "2026-09-20", "note": "Review of A. Brad Schwartz, Broadcast Hysteria (2015), opened and read (URL date 9 May 2015). Used only for the review's account of Schwartz's thesis: the panic was greatly exaggerated right after the broadcast, and newspapers wanting to discredit their rival radio had a stake in that. Schwartz's book itself was not opened." }
+  },
+  "pooley-2006": {
+    "type": "article",
+    "authors": ["Pooley, Jefferson"],
+    "year": 2006,
+    "title": "Fifteen pages that shook the field: Personal Influence, Edward Shils, and the remembered history of mass communication research",
+    "container": "The ANNALS of the American Academy of Political and Social Science", "volume": "608", "issue": "1", "pages": "130-156",
+    "doi": "10.1177/0002716206292460",
+    "verified": { "status": "ok", "methods": ["crossref", "second-source"], "date": "2026-09-20", "note": "Crossref record and abstract read (the 'powerful-to-limited-effects' story line as 'textbook boilerplate'); reference details confirmed in the reference list of Pooley & Socolow 2013. Full text not read." }
+  },
+  "bineham-1988": {
+    "type": "article",
+    "authors": ["Bineham, Jeffery L."],
+    "year": 1988,
+    "title": "A historical account of the hypodermic model in mass communication",
+    "container": "Communication Monographs", "volume": "55", "issue": "3", "pages": "230-246",
+    "doi": "10.1080/03637758809376169",
+    "verified": { "status": "ok", "methods": ["crossref", "eric-abstract"], "date": "2026-09-20", "note": "Crossref record matched; ERIC EJ377312 abstract read (different conceptions of the history of mass communication research and of the hypodermic model influence scholars' theoretical and methodological choices). Full text not read; only abstract-level claims are used." }
+  },
+  "chaffee-1988": {
+    "type": "article",
+    "authors": ["Chaffee, Steven H."],
+    "year": 1988,
+    "title": "Differentiating the hypodermic model from empirical research: A comment on Bineham's commentaries",
+    "container": "Communication Monographs", "volume": "55", "issue": "3", "pages": "247-249",
+    "doi": "10.1080/03637758809376170",
+    "verified": { "status": "ok", "methods": ["crossref", "eric-abstract"], "date": "2026-09-20", "note": "Crossref record matched; ERIC EJ377313 abstract read (argues that the history of the hypodermic model is distinct from the history and literature of empirical research on media effects). Full text not read." }
+  },
+  "chaffee-hochheimer-1985": {
+    "type": "chapter",
+    "authors": ["Chaffee, Steven H.", "Hochheimer, John L."],
+    "year": 1985,
+    "title": "The beginnings of political communication research in the United States: Origins of the ‘limited effects’ model",
+    "editors": ["Rogers, Everett M.", "Balle, Francis"],
+    "bookTitle": "The media revolution in America and in Western Europe",
+    "publisher": "Ablex", "place": "Norwood, NJ",
+    "pages": "267-296",
+    "verified": { "status": "ok", "methods": ["open-library", "second-source"], "date": "2026-09-20", "note": "Book confirmed in Open Library (Rogers & Balle, Ablex 1985, LCCN 84021680). Chapter title and pages 267-296 as given in the reference list of Pooley & Socolow 2013 and in a search-index listing of the volume. A 1992 bibliography (ERIC ED355593) lists the chapter under a different venue (Gurevitch & Levy, Mass Communication Review Yearbook 5, pp. 75-104), which looks like a different printing or an error; not resolved. The chapter itself was not read; it is only named as one of the historians in Pooley & Socolow's list." }
+  },
+  "sproule-1989": {
+    "type": "article",
+    "authors": ["Sproule, J. Michael"],
+    "year": 1989,
+    "title": "Progressive propaganda critics and the magic bullet myth",
+    "container": "Critical Studies in Mass Communication", "volume": "6", "issue": "3", "pages": "225-246",
+    "doi": "10.1080/15295038909366750",
+    "verified": { "status": "ok", "methods": ["crossref", "eric-abstract", "second-source"], "date": "2026-09-20", "note": "Crossref record matched; ERIC EJ400309 abstract read (examines the historical inaccuracies of the 'magic bullet' interpretation of interwar propaganda critics and why it gained sway in the 1940s and 1950s). Described in the same terms by Bauer & Nadler 2021. Full text not read." }
+  },
+  "sproule-1987": {
+    "type": "article",
+    "authors": ["Sproule, J. Michael"],
+    "year": 1987,
+    "title": "Propaganda studies in American social science: The rise and fall of the critical paradigm",
+    "container": "Quarterly Journal of Speech", "volume": "73", "issue": "1", "pages": "60-78",
+    "doi": "10.1080/00335638709383794",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract"], "date": "2026-09-20", "note": "Crossref record matched and abstract read via OpenAlex (propaganda analysis in the 1920s-30s; displaced by communication research). Full text not read." }
+  },
+  "lubken-2008": {
+    "type": "chapter",
+    "authors": ["Lubken, Deborah"],
+    "year": 2008,
+    "title": "Remembering the straw man: The travels and adventures of hypodermic",
+    "editors": ["Park, David W.", "Pooley, Jefferson"],
+    "bookTitle": "The history of media and communication research: Contested memories",
+    "publisher": "Peter Lang", "place": "New York",
+    "pages": "19-42",
+    "verified": { "status": "ok", "methods": ["library-catalogue", "second-source"], "date": "2026-09-20", "note": "Library of Congress table of contents (LCCN 2007051150) lists the chapter first in Part I, 'State of the historiography'; pages 19-42 and publisher as given in the reference list of Pooley & Socolow 2013; the chapter is cited alongside Sproule 1989 as showing the 'magic bullet' rendering to be a straw figure in Bauer & Nadler 2021. The chapter itself was not read." }
+  },
+  "parsons-2021": {
+    "type": "article",
+    "authors": ["Parsons, Patrick R."],
+    "year": 2021,
+    "title": "The lost doctrine: Suggestion theory in early media effects research",
+    "container": "Journalism & Communication Monographs", "volume": "23", "issue": "2", "pages": "80-138",
+    "doi": "10.1177/15226379211006119",
+    "verified": { "status": "ok", "methods": ["crossref"], "date": "2026-09-20", "note": "Crossref record and abstract read (the suggestion doctrine as one of the foremost psychological explanations of opinion change and a dominant theory of media influence before World War II, largely ignored in histories of the field). Full text not read (publisher page returned 403)." }
+  },
+  "bauer-nadler-2021": {
+    "type": "web",
+    "authors": ["Bauer, A. J.", "Nadler, Anthony"],
+    "year": 2021,
+    "title": "Propaganda Analysis revisited",
+    "publisher": "Harvard Kennedy School Misinformation Review",
+    "url": "https://misinforeview.hks.harvard.edu/article/propaganda-analysis-revisited/",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["archived-page"], "date": "2026-09-20", "note": "Editorial opened and read (citation metadata: A. J. Bauer, Anthony Nadler, 1 April 2021). Used for: propaganda analysis 1919-1937 as a progressive, reform-minded endeavour (after Sproule); the 'magic bullet' rendering as a distorted memory and straw figure (Sproule 1989; Lubken 2008); the warning against remembering only a caricature of propaganda research. No DOI was found." }
+  },
+  "cooper-jahoda-1947": {
+    "type": "article",
+    "authors": ["Cooper, Eunice", "Jahoda, Marie"],
+    "year": 1947,
+    "title": "The evasion of propaganda: How prejudiced people respond to anti-prejudice propaganda",
+    "container": "The Journal of Psychology", "volume": "23", "issue": "1", "pages": "15-25",
+    "doi": "10.1080/00223980.1947.9917316",
+    "verified": { "status": "ok", "methods": ["crossref", "second-source"], "date": "2026-09-20", "note": "Crossref record matched; the study (Mr. Biggott cartoons) and its result are described in the editors' introduction in Schramm & Roberts 1971 (which reprints the article). The article itself was not read; only that description is used." }
+  },
+  "hastorf-cantril-1954": {
+    "type": "article",
+    "authors": ["Hastorf, Albert H.", "Cantril, Hadley"],
+    "year": 1954,
+    "title": "They saw a game: A case study",
+    "container": "The Journal of Abnormal and Social Psychology", "volume": "49", "issue": "1", "pages": "129-134",
+    "doi": "10.1037/h0057880",
+    "verified": { "status": "ok", "methods": ["crossref", "second-source"], "date": "2026-09-20", "note": "Crossref record matched; described in Schramm & Roberts 1971 (which reprints it) as an account of how people who wanted different teams to win saw the same football game. The article itself was not read." }
+  },
+  "noelle-neumann-1973": {
+    "type": "article",
+    "authors": ["Noelle-Neumann, Elisabeth"],
+    "year": 1973,
+    "title": "Return to the concept of powerful mass media",
+    "container": "Studies of Broadcasting", "volume": "9",
+    "verified": { "status": "ok", "methods": ["second-source", "index-listings"], "date": "2026-09-20", "note": "Existence, title, year and journal confirmed by Salmon & Kline 1983 (ERIC ED235528, full text read: it describes the article as coming after two decades of limited-effects research and lists ubiquity, cumulation and consonance) and by BibSonomy and SCIRP reference listings. Pages are not given because sources disagree (67-112 in the listings, 68-105 in Salmon & Kline). The article itself was not read." }
+  },
+  "salmon-kline-1983": {
+    "type": "report",
+    "authors": ["Salmon, Charles T.", "Kline, F. Gerald"],
+    "year": 1983,
+    "title": "The spiral of silence ten years later: An examination and evaluation",
+    "publisher": "Paper presented at the annual meeting of the International Communication Association, Dallas, TX, May 26-30, 1983 (ERIC ED235528)",
+    "url": "https://eric.ed.gov/?id=ED235528",
+    "verified": { "status": "ok", "methods": ["eric-record", "full-text"], "date": "2026-09-20", "note": "ERIC record and full-text PDF read. Used only for its description of Noelle-Neumann 1973 (return to powerful media after two decades of limited-effects research; ubiquity, cumulation, consonance)." }
+  },
+  "gitlin-1978": {
+    "type": "article",
+    "authors": ["Gitlin, Todd"],
+    "year": 1978,
+    "title": "Media sociology: The dominant paradigm",
+    "container": "Theory and Society", "volume": "6", "issue": "2", "pages": "205-253",
+    "doi": "10.1007/BF01681751",
+    "verified": { "status": "ok", "methods": ["crossref", "full-text"], "date": "2026-09-20", "note": "Crossref record matched; pp. 205-206 read in a full-text copy (introduction: the dominant paradigm defined effects narrowly and short-term, making slight effects very likely)." }
+  },
+  "bennett-iyengar-2008": {
+    "type": "article",
+    "authors": ["Bennett, W. Lance", "Iyengar, Shanto"],
+    "year": 2008,
+    "title": "A new era of minimal effects? The changing foundations of political communication",
+    "container": "Journal of Communication", "volume": "58", "issue": "4", "pages": "707-731",
+    "doi": "10.1111/j.1460-2466.2008.00410.x",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract"], "date": "2026-09-20", "note": "Crossref record matched and abstract read via OpenAlex (asks whether audience fragmentation foreshadows a return to minimal effects). Full text not read." }
+  },
+  "kalla-broockman-2018": {
+    "type": "article",
+    "authors": ["Kalla, Joshua L.", "Broockman, David E."],
+    "year": 2018,
+    "title": "The minimal persuasive effects of campaign contact in general elections: Evidence from 49 field experiments",
+    "container": "American Political Science Review", "volume": "112", "issue": "1", "pages": "148-166",
+    "doi": "10.1017/S0003055417000363",
+    "verified": { "status": "ok", "methods": ["crossref"], "date": "2026-09-20", "note": "Crossref record and abstract read (best estimate of the effect of campaign contact and advertising in general elections is zero; 40 existing field experiments plus 9 original ones). Crossref gives 2017 (online); the print issue 112(1) is dated 2018, which is used here." }
+  },
+  "kramer-et-al-2014": {
+    "type": "article",
+    "authors": ["Kramer, Adam D. I.", "Guillory, Jamie E.", "Hancock, Jeffrey T."],
+    "year": 2014,
+    "title": "Experimental evidence of massive-scale emotional contagion through social networks",
+    "container": "Proceedings of the National Academy of Sciences", "volume": "111", "issue": "24", "pages": "8788-8790",
+    "doi": "10.1073/pnas.1320040111",
+    "verified": { "status": "ok", "methods": ["crossref", "full-text"], "date": "2026-09-20", "note": "Crossref record matched; full text read (PMC copy): N = 689,003; the authors call the effect sizes small ('as small as d = 0.001') and argue that small effects can matter at Facebook's scale." }
+  },
+  "encyclopedia-lasswell-historians": {
+    "type": "web",
+    "authors": ["Encyclopedia.com"],
+    "year": 2024,
+    "title": "Harold Dwight Lasswell",
+    "publisher": "Encyclopedia.com",
+    "url": "https://www.encyclopedia.com/people/history/historians-miscellaneous-biographies/harold-dwight-lasswell",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["archived-page"], "date": "2026-09-20", "note": "Page opened: Lasswell 1902-1978; born in Donnellson, Illinois; university scholarship at sixteen; faculty at Chicago and later Yale; died in New York City in 1978; Propaganda Technique (1927) and Politics: Who Gets What, When, How (1936); the 'who says what in which channel to whom with what effect' formula. The page mis-titles the 1927 book 'Propaganda Technique in World War I'; the title is taken from the book itself." }
+  },
+  "encyclopedia-lasswell-social-sciences": {
+    "type": "web",
+    "authors": ["Encyclopedia.com"],
+    "year": 2024,
+    "title": "Lasswell, Harold D.",
+    "publisher": "Encyclopedia.com",
+    "url": "https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/lasswell-harold-d",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["archived-page"], "date": "2026-09-20", "note": "Second, separate reference-work entry on the same site (opened via a fetch tool): born 1902 in Donnellson, Illinois; died 1978; Ph.D. in political science, Chicago; later professor at Yale; policy sciences. Only birth and death years and the broad career are used because the two entries differ on the years of individual posts." }
+  },
+  "sfe-cantril": {
+    "type": "web",
+    "authors": ["The Encyclopedia of Science Fiction"],
+    "year": 2025,
+    "title": "Cantril, Hadley",
+    "publisher": "SFE (sf-encyclopedia.com)",
+    "url": "https://sf-encyclopedia.com/entry/cantril_hadley",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["archived-page"], "date": "2026-09-20", "note": "Entry opened (updated 7 April 2025): Cantril (1906-1969), US psychologist; The Invasion from Mars (1940) 'with the assistance of' Hazel Gaudet and Herta Herzog; it prints the script by Howard Koch of Welles's 30 October 1938 broadcast of H. G. Wells's The War of the Worlds. Dates 1906-1969 agree with Pooley & Socolow 2013." }
+  }
+}

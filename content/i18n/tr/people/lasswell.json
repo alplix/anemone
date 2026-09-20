@@ -1,0 +1,13 @@
+{
+  "id": "lasswell", "lang": "tr",
+  "name": "Harold Lasswell", "nativeName": "", "slug": "harold-lasswell",
+  "short": "Amerikalı siyaset bilimci; Propaganda Technique in the World War (1927) kitabıyla propaganda çalışmalarının öncülerinden. Ders kitapları şırınga modelini ona atfeder.",
+  "born": "Donnellson, Illinois",
+  "died": "New York",
+  "roles": ["siyaset bilimci", "propaganda araştırmacısı"],
+  "bio": "Harold Dwight Lasswell, 1902’de Illinois’in Donnellson kasabasında, bir öğretmenle bir Presbiteryen din adamının çocuğu olarak doğdu. On altı yaşında burslu olarak Chicago’da okumaya başladı, lisansüstü çalışmalarını da Londra’da sürdürdü ve Chicago’da siyaset bilimi doktorasını tamamladı. 1927 tarihli kitabının kapağında adı, Chicago’da siyaset bilimi yardımcı doçenti olarak geçer. Kariyerinin ilerleyen yıllarında Yale’de ders verdi; 1978’de New York’ta öldü.\n\nAdı en çok *Propaganda Technique in the World War* (1927) kitabıyla anılır. Kitap, Birinci Dünya Savaşı’ndaki propaganda tekniklerini sistemli biçimde inceleyen ilk büyük çalışmalardandır ve propagandayı modern dünyanın en güçlü araçlarından biri sayar; ama aynı sayfalarda abartılı tahminlerin kırpılması gerektiğini ve propagandanın etkisini öteki denetim araçlarından ayırmanın zor olduğunu da yazar. Sonraki yıllarda çalışmasını iletişimin genel çözümlemesine taşıdı; “kim, hangi kanaldan, kime, hangi etkiyle ne söylüyor?” formülü onunla anılır. Bir başka geniş çizgisi, siyaseti ve hukuku birlikte ele alan “politika bilimleri”dir; *Politics: Who Gets What, When, How* (1936) kitabı da onun en çok okunan eserlerindendir.\n\nBu derste önemli bir ayrıntı var: ders kitapları şırınga (hipodermik iğne) modelini sık sık Lasswell’a atfeder. Oysa 1927 kitabının taranmış metinlerinde “hypodermic needle” ya da “magic bullet” deyimleri geçmez; deyimlerin belgelenmiş kullanımı 1960’lı ve 1970’li yıllardaki ders kitabı yazarlarına aittir.",
+  "works": [
+    { "bib": "lasswell-1927-propaganda", "note": "Birinci Dünya Savaşı propagandasının sistemli incelemesi; ders kitaplarının şırınga modelini atfettiği, ama deyimleri içermeyen kitap." }
+  ],
+  "inCourse": "[[lesson:magic-bullet]] dersinde, şırınga modelinin “sahibi” sayılmasının neden sorunlu olduğunu birincil metinle inceleriz; propaganda ve kamuoyu bağlamında [[lesson:propaganda-public-opinion]] dersinde de geçer."
+}

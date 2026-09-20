@@ -1,0 +1,548 @@
+{
+  "id": "magic-bullet",
+  "lang": "tr",
+  "translation": { "status": "source", "date": "2026-09-20" },
+  "title": "Şırınga ve Sihirli Mermi Modeli",
+  "slug": "siringa-modeli",
+  "description": "Şırınga (sihirli mermi) modeli: propaganda korkusu, Mars istilası yayını, Cantril’in gerçek bulguları, ‘mermi kuramı’ etiketinin hikâyesi, sınav ipuçları.",
+  "claim": "Şırınga (sihirli mermi) modeli, 1920–30’larda tek bir kuram olarak savunulmuş değil; dağınık bir “medya çok güçlü” kaygısının, 1960–70’lerin ders kitaplarında adı konup “çürütülen” bir etikete dönüşmüş hâlidir; en ünlü örneği olan Mars istilası yayını da “kitlesel panik” efsanesinden çok daha karışık bir tablo verir.",
+  "keywords": ["şırınga modeli", "hipodermik iğne", "sihirli mermi", "bullet theory", "güçlü etkiler", "Lasswell", "Cantril", "Mars istilası", "Orson Welles", "straw man", "propaganda"],
+  "updated": "2026-09-20",
+  "timeline": {
+    "wotw-broadcast": "Orson Welles’in Mars istilası radyo oyunu yayınlanır (30 Ekim)",
+    "peoples-choice": "Lazarsfeld, Berelson ve Gaudet: The People’s Choice",
+    "personal-influence": "Katz ve Lazarsfeld: Personal Influence; “güçlüden sınırlıya” hikâyesinin ilk sayfaları",
+    "berlo-hypodermic": "Berlo “hypodermic needle” anlayışlarını anar",
+    "schramm-bullet-theory": "Schramm “Bullet Theory” adlandırmasını sahiplenir",
+    "noelle-neumann-powerful": "Noelle-Neumann: güçlü kitle medyası kavramına dönüş",
+    "gitlin-dominant-paradigm": "Gitlin: sınırlı etki “baskın paradigması” eleştirisi",
+    "sproule-myth": "Sproule: sihirli mermi efsanesi",
+    "myth-of-panic": "Pooley ve Socolow: Mars “paniği” efsanesi"
+  },
+  "cards": [
+    {
+      "id": "ctx-search", "section": "context", "layer": "core", "kind": "story",
+      "title": "Kitabı açtın, cümle yok",
+      "body": "Ders kitabı diyor ki: şırınga (sihirli mermi) modelini Harold Lasswell’ın 1927 tarihli *Propaganda Technique in the World War* kitabı doğurdu. Sen de merak edip kitabın taranmış metnini açıyor, “hypodermic”, “needle” ve “syringe” sözcüklerini arıyorsun.\n\nBulamıyorsun. Kitabın hem 1927 basımının hem 1938 yeniden basımının taranmış metninde bu sözcükler yok; “bullet” ise yalnızca savaş hukukundaki yasak mermiler, bir dipnottaki kitap adı ve bir alıntı bağlamında geçiyor: “Thoughts are Bullets” [[cite:lasswell-1927-propaganda]]. (Bir yerde, Wilson’un propagandasını anlatan cümlede zehrin bir halkın damarlarına enjekte edilmesinden söz edilir; ama bu, bir model değil cümle içinde bir benzetmedir.)\n\nO zaman deyim nereden geldi? Belgelenebilen izler şunlar:\n\n- 1960’ta David Berlo, *The Process of Communication* kitabında “hypodermic needle” anlayışlarından söz eder; ama bunu kimseye mal etmez. Kitle iletişiminin erken tartışmalarını böyle anar ve amacı kendi “süreç” bakışını savunmaktır [[cite:berlo-1960]].\n- 1971’de Wilbur Schramm “bullet” sözünü açıkça sahiplenir: “I have elsewhere called this the Bullet Theory of communication” [[cite:schramm-1971-nature]].\n\nYani deyimlerin belgelenmiş ilk kullanıcıları Lasswell değil, 1960’ta ve 1971’de geriye bakan ders kitabı yazarlarıdır. Bu derste model ile etiket arasındaki farkı çözeceğiz.",
+      "question": {
+        "id": "ctx-search-q", "type": "mcq",
+        "prompt": "Arkadaşın, “Şırınga modelini Lasswell 1927 kitabında ortaya koydu, kitapta yazıyor” diyor. Belgelere en uygun karşılık hangisi?",
+        "options": [
+          "Haklısın; kitap propaganda konulu olduğuna göre model de orada olmalı.",
+          "Kitabın taranmış metinlerinde bu iki deyim yok; belgelenmiş kullanımlar 1960’ta Berlo’da (“hypodermic needle”) ve 1971’de Schramm’da (“bullet”) görülüyor.",
+          "Deyimi ilk kez 1938’de Orson Welles kullandı.",
+          "Deyimin nereden çıktığı hiçbir kaynakta izlenemez, o yüzden tartışmak anlamsız."
+        ],
+        "answer": 1,
+        "explain": "Kitabın iki ayrı taranmış metninde “hypodermic needle” ya da “magic bullet” geçmez; Berlo (1960) ve Schramm (1971) ise metinlerinde açıkça görülür. İlk şık cazip, çünkü konu (propaganda) ile deyim (şırınga) arasında sezgisel bir bağ var; ama konu aynı olmak, deyimin orada olduğunu göstermez. Dördüncü şık yanlış: kullanım izleri tam da bu ders boyunca yaptığımız gibi metinlere bakılarak sürülebiliyor."
+      }
+    },
+    {
+      "id": "ctx-fear", "section": "context", "layer": "core", "kind": "story",
+      "title": "Korku gerçekti, ama “kuram” yoktu",
+      "body": "1927’de [[person:lasswell|Lasswell]] şunu yazdı: “propaganda is one of the most powerful instrumentalities in the modern world” [[cite:lasswell-1927-propaganda]]. Ama cümlenin başında bir ihtiyat var: bütün payların düşülmesinden ve abartılı tahminlerin kemiğine kadar kırpılmasından sonra bile böyle olduğunu söyler. Aynı sayfalarda propagandanın etkisini ona yakın öteki denetim araçlarından ayırmanın zor olduğunu da yazar.\n\nO dönemin havası neydi? Schramm sonradan şöyle özetler: Birinci Dünya Savaşı propagandası, ardından komünist ve Nazi propagandası pek çok insanı ürkütmüştü. Dinleyici, vurulmayı bekleyen bir hedef gibi düşünülüyor, propaganda kötü bir sözcüğe dönüşüyor, savunmasız sayılan insanları korumak için yasalar çıkarılıyordu [[cite:schramm-1971-nature]]. (Bu, 1971’de geriye bakan bir anlatı.)\n\nYeni araç radyoydu. Hadley Cantril ile Gordon Allport 1935’te *The Psychology of Radio* kitabını yayımladı; 1937’de Rockefeller Vakfı, iki yıllık bir radyo araştırma projesine 67.000 dolar ayırdı [[cite:pooley-socolow-2013-ijoc]].\n\nYani korku gerçekti: propaganda ve yeni bir kitle aracı. Ama korkunun tek bir formülü, yani “bu bir kuramdır” diye adı konmuş bir önermesi yoktu. Formülü sonra gelenler yazdı.",
+      "question": {
+        "id": "ctx-fear-q", "type": "mcq",
+        "prompt": "Bir öğrenci sınavda şöyle yazıyor: “Lasswell, propagandanın her dinleyiciyi otomatik ve sınırsız biçimde etkilediğini savundu.” Lasswell’ın 1927 metniyle karşılaştırırsan bu cümle için ne dersin?",
+        "options": [
+          "Doğru; “en güçlü araçlardan biri” demek sınırsız etki demektir.",
+          "Aşırı bir genelleme; Lasswell propagandayı çok güçlü saydı ama abartılı tahminlerin kırpılması gerektiğini ve etkiyi öteki denetim araçlarından ayırmanın zor olduğunu da yazdı.",
+          "Doğru; Lasswell propagandayı bir halkın damarlarına enjekte edilen zehre benzetti.",
+          "Yanlış; Lasswell propagandanın etkisiz olduğunu savundu."
+        ],
+        "answer": 1,
+        "explain": "Lasswell güçlü bir etkiden söz eder ama ihtiyat cümleleriyle: abartılı tahminleri kırpmak gerektiğini ve propaganda etkisini yakın denetim araçlarından ayırmanın zor olduğunu yazar. “Güçlü” ile “sınırsız ve otomatik” aynı şey değildir; ilk şık tam bu kaymayı yapıyor. Üçüncü şık, kitaptaki tek bir benzetmeyi (Wilson’un propagandasını anlatırken zehrin damarlara enjekte edilmesi) genel bir modele çevirir; oysa benzetme, cümle içinde kalır. Dördüncü şık ise ters uca gidiyor: Lasswell propagandayı önemsiz saymadı."
+      }
+    },
+    {
+      "id": "deep-lasswell", "section": "context", "layer": "deep", "kind": "text",
+      "title": "Derin: Lasswell 1927’yi kendi cümleleriyle",
+      "body": "Ders kitabı Lasswell’ı okumadan anlatıldığında ortaya “enjeksiyon yapan biri” çıkar. Kitabın kendi cümleleri daha karışık bir resim verir [[cite:lasswell-1927-propaganda]]:\n\n- **s. 220:** “propaganda is one of the most powerful instrumentalities in the modern world”; ama bütün payların düşülmesinden sonra. Fransız ordusunda 1917 isyanlarından sonra düzeni yeniden kuran komutan Pétain’in yalnızca propagandaya dayanmadığını da not eder.\n- **s. 221:** propagandayı “new hammer and anvil of social solidarity” diye adlandırır; gerekçesi, büyük toplumlarda insanları birleştirmek için artık savaş dansı değil, konuşma ve basılı sözün gerekmesidir. Ayrıca propagandayı, okuyan ve okullu modern dünyanın akılcılığına verilmiş bir taviz sayar.\n- **s. 222:** “atomized world” çizer; bunun ilacı propagandadır. Kitle demir zincirlerden kurtulmak istiyorsa “chains of silver” (gümüş zincirler) kabul etmelidir; çünkü “more can be won by illusion than by coercion”.\n- **s. 217:** Wilson’un propagandasını anlatan cümlede, zehrin bir halkın damarlarına “injected into the veins” edildiğinden söz eden bir benzetme geçer.\n\nBu metinden çıkan sonuç bizim okumamızdır: Lasswell güçlü etki fikrinin gerçek bir savunucusudur; ama alıcısı bir “hedef tahtası” değil, ikna edilmesi gereken, iradeli ve okuyan bir dünyadır. Şırınga, bu resmin kısaltılmış bir karikatürüdür."
+    },
+    {
+      "id": "people-cast", "section": "people-time", "layer": "core", "kind": "text",
+      "title": "Kim kimdir, hangi yıl?",
+      "body": "Hikâyenin iki kadrosu var: 1920–30’ların *korkanları ve araştırmacıları*, sonra geçmişi *yeniden yazanlar*.\n\n**Dönemin oyuncuları**\n\n- [[person:lippmann|Walter Lippmann]]: *Public Opinion* (1922), “kafamızdaki resimler” [[cite:lippmann-1922]].\n- [[person:lasswell|Harold Lasswell]]: *Propaganda Technique in the World War* (1927) [[cite:lasswell-1927-propaganda]].\n- [[person:cantril|Hadley Cantril]]: Gordon Allport’la *The Psychology of Radio* (1935); Hazel Gaudet ve Herta Herzog’un yardımıyla *The Invasion from Mars* (1940) [[cite:pooley-socolow-2013-ijoc]].\n- [[person:lazarsfeld|Paul Lazarsfeld]]: Rockefeller destekli radyo araştırma projesinin yöneticisi; sonra *The People’s Choice* (1944) ve Elihu Katz’la *Personal Influence* (1955) [[cite:katz-lazarsfeld-1955]].\n\n**Etiketi kullananlar ve geçmişini sorgulayanlar**\n\n- David Berlo (1960) ve Wilbur Schramm (1971): deyimlerin belgelenmiş kullanıcıları.\n- Steven Chaffee ile John Hochheimer (1985), Jeffery Bineham (1988), J. Michael Sproule (1989), Jefferson Pooley (2006), Deborah Lubken (2008), Pooley ile Michael Socolow (2013): etiketin nasıl oluştuğunu tarihsel olarak inceleyenler [[cite:pooley-socolow-2013-ijoc]].\n\nİsimleri karıştırmamak için bir hafıza kancası: *korkanlar 1920–30’larda, “mermi” diyenler 1960–70’lerde, “bu bir efsane” diyenler 1980’lerden sonra.*",
+      "question": {
+        "id": "people-cast-q", "type": "match",
+        "prompt": "Her eseri yılıyla eşleştir.",
+        "pairs": [
+          ["Lasswell: Propaganda Technique in the World War", "1927"],
+          ["Cantril: The Invasion from Mars", "1940"],
+          ["Berlo: The Process of Communication", "1960"],
+          ["Sproule: Progressive Propaganda Critics and the Magic Bullet Myth", "1989"]
+        ],
+        "explain": "Sıra: Lasswell 1927, Cantril 1940, Berlo 1960, Sproule 1989. En sık karıştırılan: Berlo (1960) ile Schramm (1971) ve Lasswell (1927) ile Lippmann (1922). Kural: propaganda korkusu 1920–30’lara, “mermi” etiketi 1960–70’lere, “efsane” tartışması 1980’lere aittir."
+      }
+    },
+    {
+      "id": "claim-textbook", "section": "claim", "layer": "core", "kind": "text",
+      "title": "Ders kitabı sürümü: üç cümlede şırınga",
+      "body": "Ders kitaplarında şırınga (hipodermik iğne) ya da sihirli mermi modeli kabaca şöyle anlatılır:\n\n1. Kitle iletişim araçları güçlüdür ve mesaj hedefe doğrudan çarpar.\n2. Alıcılar birbirinden kopuk, savunmasız ve edilgendir.\n3. Etki hızlıdır ve herkeste hemen hemen aynıdır; tıpkı deri altına yapılan bir enjeksiyon ya da hedefe isabet eden bir mermi gibi.\n\nTürkçe kaynaklar aynı fikri çeşitli adlarla anar: *hipodermik iğne*, *sihirli mermi*, *uyarıcı–tepki* ve *propaganda modeli*. Yaylagül bunları aynı modelin adları sayar, deri altına enjeksiyon yapan bir şırınga ya da sihirli bir mermi benzetmesini kullanır ve modeli Lasswell’ın propaganda çalışmalarıyla ilişkilendirir [[cite:yaylagul-2006]]. Bu, “ders kitabı sürümü”dür.\n\n**Bu dersin iddiası ise farklı:** bu üç cümlelik özet, o dönemin bir teorisinin özeti değil, sonradan yazılmış bir *özetleme*dir. Ders kitapları çoğu kez bu “şırınga öncülü”nü örneklemek için savaş öncesinden tek bir isim ya da eser bile göstermez [[cite:pooley-socolow-2013-ijoc]]. [[concept:magic-bullet|Şırınga modeli]] ile [[concept:powerful-effects|güçlü etki varsayımı]] da birbirine karıştırılmamalıdır; ikincisi çok daha geniş ve dağınıktır.",
+      "question": {
+        "id": "claim-textbook-q", "type": "mcq",
+        "prompt": "Aşağıdakilerden hangisi şırınga modelinin *ders kitabı sürümüne* ait DEĞİLDİR?",
+        "options": [
+          "Alıcılar kopuk ve edilgendir.",
+          "Etki hızlıdır ve herkeste benzerdir.",
+          "Bu adla tek bir kuram formüle eden savaş öncesi bir metin gösterilemez.",
+          "Mesaj, deri altına enjeksiyon gibi doğrudan işler."
+        ],
+        "answer": 2,
+        "explain": "Üçüncü şık, ders kitabı sürümü değil, tarihçilerin eleştirisidir: ders kitapları savaş öncesinden tek bir örnek metin göstermeden modeli anlatır. Diğer üç şık modelin ders kitaplarındaki tanımıdır. “DEĞİLDİR” sorularında en sık yapılan hata, doğru gibi görünen bir cümleyi işaretleyip sorunun ne sorduğunu unutmaktır."
+      }
+    },
+    {
+      "id": "claim-historian", "section": "claim", "layer": "core", "kind": "lab",
+      "title": "Hâkim ol: bir “kuram” var mıydı?",
+      "body": "Tarihçilerin savı tek cümlede: şırınga/mermi, 1920–30’ların bilim insanlarının benimsediği tek bir kuram değil, iletişim alanının kendine anlattığı geçmiş hikâyesinde kullanılan bir *etikettir* [[cite:pooley-socolow-2013-ijoc]] [[cite:bineham-1988]]. Sproule 1989’da savaşlar arası propaganda eleştirmenlerini “sihirli mermi” diye okumanın tarihsel olarak yanlış olduğunu inceledi ve bu yorumun neden 1940’larda ve 1950’lerde tuttuğunu sordu [[cite:sproule-1989]].\n\n**Hâkim deneyi (varsayımsal).** Bir iddia var: “X kuramı 1930’larda yaygın olarak savunuluyordu.” Kanıt için üç soru sor:\n\n1. Birisi X’i açık bir önerme olarak yazdı mı?\n2. Aynı dönemde başkaları ona X diye atıf yapıp savundu mu, yoksa adı yalnızca *sonraki* kuşaklarda mı geçiyor?\n3. Deyimi ilk kullananlar onu kendi kuramları olarak mı sundu, yoksa eleştirdikleri bir “geçmiş” olarak mı?\n\nİlk kartta topladığımız izlere bak: Lasswell’ın kitabında deyimler yok; Berlo “hypodermic needle”ı, kendi “süreç” bakışına karşı bir *karşı örnek* olarak anar; Schramm “Bullet Theory”yi kendisi adlandırır ve 1950’lerin ortasına gelindiğinde onun “shot full of holes” olduğunu söyler.\n\n**Ne demiyor?** Ne 1930’larda insanların medyadan korkmadığını ne de medyanın hiç etkisi olmadığını söylüyor. Steven Chaffee, Bineham’a yanıtında, şırınga modelinin tarihinin medya etkileri üzerine ampirik araştırmaların tarihinden ayrı olduğunu savunmuştu [[cite:chaffee-1988]]; ayrıntısı eleştiri bölümünde.",
+      "question": {
+        "id": "claim-historian-q", "type": "mcq",
+        "prompt": "Bir makale “1930’larda herkes şırınga modeline inanıyordu; Lazarsfeld’in ekibi bunu kanıtla çürüttü” diyor. Hakem olarak ilk hangi soruyu sorarsın?",
+        "options": [
+          "Lazarsfeld hangi şehirde çalışıyordu?",
+          "1930’lardan şırınga modelini açıkça savunan bir metin gösterilebiliyor mu?",
+          "Şırınga modeli kaç yaşında?",
+          "Makalenin yazarı Lazarsfeld’i tanıyor mu?"
+        ],
+        "answer": 1,
+        "explain": "Önce iddianın kanıtı sorulur: savunuldu denen kuramı savunan bir metin var mı? Tarihçilerin tartışması tam burada düğümleniyor. Diğer şıklar konudan bağımsız ayrıntılardır; “çürüttü” demek için önce çürütülecek şeyin ortada olması gerekir."
+      }
+    },
+    {
+      "id": "concepts-terms", "section": "concepts", "layer": "core", "kind": "text",
+      "title": "Kavramlar sözlüğü: aynı şeyin altı adı, bir de tuzak",
+      "body": "- **Şırınga (hipodermik iğne) modeli** [[concept:magic-bullet]]: mesajın deri altına enjeksiyon gibi doğrudan ve hızla işlediğini varsayan ders kitabı anlatısı.\n- **Sihirli mermi (bullet theory)**: aynı fikrin başka adı. “Bullet Theory” ifadesini Schramm 1971’de kendi adlandırması olarak sahiplenir [[cite:schramm-1971-nature]].\n- **Uyarıcı–tepki (stimulus–response) ve propaganda modeli**: Türkçe kaynaklarda aynı modelin öteki adları [[cite:yaylagul-2006]].\n- **Güçlü etki varsayımı** [[concept:powerful-effects]]: medyanın toplumsal ve siyasal görüşleri güçlü biçimde biçimlendirdiği inancı; şırınga modelinden geniştir ve tek bir kuram değildir.\n- **“Güçlüden sınırlıya” hikâyesi**: “önce herkes medyayı güçlü sandı, sonra Lazarsfeld’in ekibi sınırlı olduğunu gösterdi” anlatısı; Pooley bunu “textbook boilerplate” diye niteler [[cite:pooley-2006]].\n- **Straw man**: çürütmesi kolay olsun diye çarpıtılıp karşıya konan rakip görüş. Tarihçiler şırınga tasvirini bunun bir örneği sayar [[cite:pooley-socolow-2013-ijoc]] [[cite:bauer-nadler-2021]].\n- **Telkin edilebilirlik** [[concept:suggestibility]]: Cantril’in Mars çalışmasındaki kavram; gelen bilgiyi yeterince sınamadan doğru kabul etme [[cite:cantril-1971-invasion-summary]].\n- **Kontrol etme (checking up)** ve **yargı ölçütleri**: Cantril ekibinin kimin inandığını, kimin inanmadığını açıklarken kullandığı iki anahtar kavram [[cite:pooley-socolow-2013-ijoc]].\n\n**Tuzak:** “güçlü etki” ile “şırınga” eş anlamlı değildir. Biri geniş bir kaygıyı, öteki o kaygının ders kitabındaki karikatürünü anlatır.",
+      "question": {
+        "id": "concepts-terms-q", "type": "mcq",
+        "prompt": "Bir yazar “eski kuşak medyayı şırınga sanıyordu, biz kanıtla düzelttik” diyerek kendi yaklaşımını öne çıkarıyor; ama eski kuşaktan bunu savunan tek bir metin gösteremiyor. Tarihçilerin bu durum için kullandığı terim hangisidir?",
+        "options": [
+          "Çarpıtılmış rakip (straw man)",
+          "Rezonans",
+          "Kapı bekçiliği",
+          "Öncüleme"
+        ],
+        "answer": 0,
+        "explain": "Çürütmesi kolay olsun diye çarpıtılıp karşıya konan görüş, straw man’dir; tarihçiler şırınga tasvirini böyle adlandırır. Rezonans (kültivasyon), kapı bekçiliği ve öncüleme başka kuramların kavramlarıdır; sınavda ilgisiz kuramlardan gelen şıklar çoğu kez dikkat dağıtıcı olarak konur."
+      }
+    },
+    {
+      "id": "assump-myth", "section": "assumptions", "layer": "core", "kind": "myth",
+      "title": "Varsayımlar: sanılan ve kayıtlara geçen",
+      "body": "**Sanılan:** Şırınga modeli üç şeyi varsayar: (1) alıcılar birbirinden kopuk “atomize” bireylerdir, (2) mesaj herkeste aynı etkiyi yapar, (3) etki anidir.\n\n**Kayıtlar ne söylüyor?**\n\n(1) *Kopuk kalabalık* düşüncesi gerçekten dönemin havasındadır: Lasswell 1927’de “atomized world”den söz eder ve propagandayı bu dünyayı bir arada tutmaya çalışan yeni bir araç sayar [[cite:lasswell-1927-propaganda]]. Bu düşünce [[lesson:mass-society]] dersinin konusudur; ama bu bir *toplum kuramıdır*, “mesaj herkese aynı çarpar” demek değildir.\n\n(2) *Herkeste aynı etki* varsayımını, en çok anılan örnek olay bile tutmaz. Cantril kendi özetinde paniği tutarlı biçimde açıklayan tek bir gözlenebilir değişken (“no single observable variable”) bulamadıklarını yazar; aynı yayın kimini korkuttu, kimini rahatsız bile etmedi [[cite:cantril-1971-invasion-summary]].\n\n(3) *Anlık, doğrudan etki* varsayımını Lazarsfeld’in ekibinin 1940 seçim çalışması zorladı: *The People’s Choice*’ta (1944), Schramm ve Roberts’ın aktardığına göre, oyların neredeyse hiçbiri medyadan doğrudan etkilenmiş görünmüyordu; bulgu fikirlerin medyadan kanaat önderlerine, oradan da daha az etkin kesimlere aktığı “iki aşamalı akış” fikrine yol açtı [[cite:schramm-roberts-1971]]. ([[lesson:two-step-flow]])\n\nSonuç: ders kitabındaki üç varsayımın parçaları dönemin metinlerinde var; ama onları tek bir kuram hâline getiren derleme sonraki kuşakların işi.",
+      "question": {
+        "id": "assump-myth-q", "type": "tf",
+        "prompt": "Doğru mu yanlış mı: Cantril’in kendi özetine göre Mars yayınına verilen tepkileri tutarlı biçimde açıklayan tek bir gözlenebilir değişken vardı.",
+        "answer": false,
+        "explain": "Yanlış. Cantril tam tersini yazar: paniği tutarlı biçimde açıklayan tek bir değişken bulamadılar; eleştirel yetinin eksikliği, kişilik özellikleri, çevredekilerin etkisi gibi birkaç etken birlikte işliyordu. Doğru cevabı cazip kılan şey, Mars yayınının “yayını duyan herkes paniğe kapıldı” diye hatırlanması."
+      }
+    },
+    {
+      "id": "how-myth-steps", "section": "how-it-works", "layer": "core", "kind": "steps",
+      "title": "Bir etiket nasıl “kuram” olur? Yedi durak",
+      "body": "1. **1917–1930’lar, korku:** propaganda kaygısı ve yeni araç radyo [[cite:schramm-1971-nature]] [[cite:pooley-socolow-2013-ijoc]].\n2. **1938–1940, Mars istilası:** panik hikâyesi ve Cantril’in kitabı (sonraki kartlar).\n3. **1944, *The People’s Choice*:** medyadan doğrudan etkilenen oy neredeyse görünmüyor [[cite:schramm-roberts-1971]].\n4. **1955, *Personal Influence*:** ilk 15 sayfada “önce güçlü, sonra sınırlı” hikâyesi anlatılır; ama savaş öncesi “güçlü etki” eserlerinden hiçbiri adıyla gösterilmez [[cite:pooley-2006]] [[cite:pooley-socolow-2013-ijoc]].\n5. **1960, Berlo:** “hypodermic needle”, “süreç” modeline karşıt bir karşı örnek olarak anılır [[cite:berlo-1960]].\n6. **1971, Schramm:** “Bullet Theory” adı sahiplenilir; 1950’lerin ortasına gelindiğinde onun “shot full of holes” olduğu söylenir [[cite:schramm-1971-nature]].\n7. **1980’lerden itibaren, ders kitapları:** Lowery ve DeFleur’un 1983 tarihli kitabı, sihirli mermi kuramından sınırlı etkilere doğru ilerleyişin etrafında kurulmuştur; sonraki ders kitapları da bu iskeleti kullanır [[cite:pooley-socolow-2013-ijoc]].\n\nBunun bir komplo olduğunu söyleyen yok. Pooley’in makale başlığındaki ifadeyle bu, alanın *hatırlanan tarihidir*: her durakta insanlar kendi bulgularını öne çıkaran basit bir “öncesi” anlattılar ve o öncesi zamanla kuram diye tanınır oldu.",
+      "question": {
+        "id": "how-myth-steps-q", "type": "order",
+        "prompt": "Bu olayları eskiden yeniye doğru sırala.",
+        "items": [
+          "Radyo ve propaganda kaygısı: korku dönemi (1920–30’lar)",
+          "Mars yayını ve Cantril’in kitabı (1938–1940)",
+          "*The People’s Choice* (1944)",
+          "*Personal Influence*’ın “güçlüden sınırlıya” hikâyesi (1955)",
+          "Berlo’nun “hypodermic needle” anışı (1960)",
+          "Schramm’ın “Bullet Theory” adlandırması (1971)"
+        ],
+        "explain": "Sıra: korku dönemi, Mars (1938–40), People’s Choice (1944), Personal Influence (1955), Berlo (1960), Schramm (1971). Sık yapılan hata, Berlo ve Schramm’ı 1930’lara yerleştirmektir; oysa onlar etiketi *geriye bakarak* kullanan kuşaktır. Mantık: önce korku, sonra kanıtlar ve hikâye, en son etiketin adı."
+      }
+    },
+    {
+      "id": "how-wotw-steps", "section": "how-it-works", "layer": "core", "kind": "steps",
+      "title": "Bir efsanenin üretim hattı: Mars istilası",
+      "body": "Aynı mekanizma daha küçük ölçekte 1938’de çalıştı:\n\n1. **30 Ekim 1938, pazar akşamı:** CBS’te *Mercury Theatre on the Air* programı, H. G. Wells’in *Dünyalar Savaşı* romanından uyarlanmış bir radyo oyunu yayınlar [[cite:pooley-socolow-2013-ijoc]].\n2. **Aynı gece:** Hooper derecelendirme servisi ulusal ölçüm için 5.000 haneyi arar; yalnızca yüzde 2’si bir radyo oyunu ya da Orson Welles programı dinlediğini söyler, hiçbiri haber yayını demez [[cite:pooley-socolow-2013-slate]].\n3. **31 Ekim sabahı:** gazeteler “panik”i manşete taşır; CBS’ten Frank Stanton aynı gece bir soru formu hazırlayıp saha çalışmasını başlatmıştır [[cite:pooley-socolow-2013-ijoc]].\n4. **Kasım:** Herta Herzog korkan dinleyicilerle derinlemesine görüşmeler yapar; Rockefeller’ın Genel Eğitim Kurulu, “Kitle Histerisi” çalışması için 3.000 dolar verir [[cite:pooley-socolow-2013-ijoc]].\n5. **Yaklaşık altı hafta sonra:** Amerikan Kamuoyu Enstitüsü’nün (AIPO) raporu derlenir; Cantril kitapta bu veriye çok yaslanır [[cite:pooley-socolow-2013-slate]].\n6. **1940:** *The Invasion from Mars* yayımlanır; kitap sonraki on yıllarda ders kitaplarının “güçlü etki” örneği olur [[cite:pooley-socolow-2013-ijoc]].\n\nSonraki kartlarda bu halkaları tek tek açacağız.",
+      "question": {
+        "id": "how-wotw-steps-q", "type": "mcq",
+        "prompt": "Cantril’in Mars kitabı büyük ölçüde AIPO verisine yaslanıyordu. Bu veri neden temkinli okunmalıdır?",
+        "options": [
+          "Çünkü AIPO yalnızca çocukları sorguladı.",
+          "Çünkü rapor yayından yaklaşık altı hafta sonra, gazete gürültüsünün ardından derlendi ve öteki ölçümlerden çok daha yüksek bir dinleyici oranı veriyordu.",
+          "Çünkü AIPO’nun verisi hiç yayımlanmadı.",
+          "Çünkü Hooper ölçümüyle birebir aynı sonucu veriyordu."
+        ],
+        "answer": 1,
+        "explain": "Pooley ve Socolow’a göre rapor yayından yaklaşık altı hafta sonra derlendi; Cantril’in kendisi de bu ölçümün diğer bilinen ölçümlerden yüzde yüzün üzerinde daha yüksek bir dinleyici oranı verdiğini ve gazete haberlerinden etkilenmiş olabileceğini kabul etmişti. Dördüncü şık tam tersidir: Hooper’ın yüzde 2’siyle çelişiyordu. Üçüncü şık uydurmadır: veri yayımlandı ve kitapta kullanıldı."
+      }
+    },
+    {
+      "id": "ev-broadcast", "section": "evidence", "layer": "core", "kind": "story",
+      "title": "Pazar akşamı: bir radyo oyunu “haber” gibi çalıyor",
+      "body": "Sahneyi bu sefer belgelere dayanarak canlandıralım. Pazar akşamı, CBS. Programın adı *Mercury Theatre on the Air*; başında Orson Welles var. Oyun, radyonun kendi diliyle yazılmış: program sanki kesilir, özel haber bültenleri gelir; gökbilimciler, bir gözlemevi profesörü, askerî komutanlar, hükûmet yetkilileri sırayla konuşur. Cantril’in vurguladığı gibi sıralanan gökbilimcilerin hepsi uydurmadır; başkarakter “Profesör Pierson”ı Welles oynar [[cite:cantril-1971-invasion-summary]].\n\nOlaylar bilerek “inandırıcıdan inanılmaza” doğru ilerler: önce atmosfer bozukluğu ve patlamalar, deprem şiddetinde bir sismograf kaydı, bir göktaşı; ancak sonra metal bir silindirin kapağı açılır. Cantril, yazarın tekniğini de not eder: işler inanılmazlaştıkça olay yerindeki muhabir de kendi şaşkınlığını dile getirir; böylece dinleyicinin kuşkusu sanki paylaşılmış olur. Ayrıca 1938 Eylül’ündeki savaş krizinin radyodan bülten bülten izlenmesi, “programı kesen haber” biçimini dinleyiciye tanıdık kılmıştı [[cite:cantril-1971-invasion-summary]].\n\nBir de şu var: programın başında oyun olduğu açıkça duyuruldu; ama Cantril’e göre çoğu insan bir programın ilk duyurularını dinlemez ve “geç bağlanmak” belirleyiciydi. Üstelik karşıda o dönemin en sevilen programlarından, Edgar Bergen’in komedi-müzik gösterisi *Chase and Sanborn Hour* vardı [[cite:pooley-socolow-2013-slate]].",
+      "question": {
+        "id": "ev-broadcast-q", "type": "mcq",
+        "prompt": "Oyunun başında “bu bir oyundur” diye duyuru yapılmasına rağmen bazı dinleyiciler neden yanıldı? Cantril’in özetine göre hangisi doğrudur?",
+        "options": [
+          "Çünkü o dönemde radyo oyunları ile haber yayınları teknik olarak ayırt edilemezdi.",
+          "Çünkü Welles duyuruyu bilerek yayınlamadı.",
+          "Çünkü çoğu kez programın başından değil sonradan bağlandılar, ilk duyuruları dinlemek yaygın bir alışkanlık değildi ve “bülten” biçimi tanıdıktı.",
+          "Çünkü program yalnızca kırsal bölgelere yayınlandı."
+        ],
+        "answer": 2,
+        "explain": "Cantril hem geç bağlanmayı hem de insanların ilk duyuruları dinlememe alışkanlığını, ayrıca haber bülteni tekniğinin tanıdık olmasını sayar. Birinci şık cazip görünür ama dayanaksızdır: oyun olduğu programın başında zaten duyurulmuştu. İkinci şık da yanlış: duyurular yapıldı; sorun, çoğu kişinin onları dinlememesiydi."
+      }
+    },
+    {
+      "id": "ev-cantril-four", "section": "evidence", "layer": "core", "kind": "text",
+      "title": "Cantril’in kendi tablosu: aynı yayın, dört tür dinleyici",
+      "body": "Cantril’in özeti bir “kitle paniği” hikâyesinden çok, insanların yayını *nasıl sınadığı* üzerine bir çalışmadır. Ekip 135 kişiyle ayrıntılı görüşme yaptı; bunların yüzden fazlası, yayından rahatsız olduğu bilinen kişiler arasından *seçilmişti* [[cite:cantril-1971-invasion-summary]]. (Yani örneklem, zaten etkilenenlerden kuruluydu; bu bir kitle ölçümü değil.) Dinleyicileri dört gruba ayırdılar:\n\n1. Yayının **iç kanıtlarını** sınayanlar: kurgu hikâyelere benzetip oyun olduğunu fark edenler.\n2. Yayını **başka bilgiyle** karşılaştırıp oyun olduğunu öğrenenler (örneğin gazetedeki program listesine bakanlar).\n3. Karşılaştırmayı **denedi ama inanmaya devam edenler:** çoğu pencereden dışarı bakmış ya da komşularına seslenmişti; sokak ya “her zamanki gibi” görünüyor ya da arabalarla dolu görünüyordu, ikisi de korkuyu doğruladı.\n4. **Hiç kontrol etmeyenler:** bir kısmı korkudan kontrol etmeyi akıl edemedi, bir kısmı çaresizliğe teslim oldu.\n\nCantril’in vardığı sonuç: paniği tutarlı biçimde açıklayan tek bir değişken bulunamadı; ama “eleştirel yeti” eksikliği, dinleyicilerin geniş bir bölümünde korkuyu kolaylaştırmıştı. Eğitim düzeyi yüksek olanlar olguyu kendi ölçütleriyle daha kolay tartıyordu; dinî çerçeve, savaş korkusu, on yıla yayılan ekonomik kaygı gibi zeminler ise bazı kişiler için kabulü kolaylaştırıyordu [[cite:cantril-1971-invasion-summary]]. Yani aynı “mermi”, farklı hedeflerde farklı yerlere düştü.",
+      "question": {
+        "id": "ev-cantril-four-q", "type": "mcq",
+        "prompt": "Bir dinleyici korkuyla pencereye koşuyor, sokağın “her zamanki gibi” olduğunu görüyor ve “felaket henüz bize ulaşmamış” diye düşünüyor. Cantril’in sınıflamasında hangi gruba girer?",
+        "options": [
+          "Yayının iç kanıtlarını sınayanlar",
+          "Başka bilgiyle karşılaştırıp oyun olduğunu öğrenenler",
+          "Karşılaştırmayı deneyip yine de inanmaya devam edenler",
+          "Hiç kontrol etmeyenler"
+        ],
+        "answer": 2,
+        "explain": "Dinleyici kontrol etmeyi denemiş (pencereye bakmış) ama kontrolü, ilk varsayımını doğrulayacak biçimde yorumlamış: üçüncü grup. Dördüncü şık cazip, çünkü korku yüzünden davrandığı hissi veriyor; ama dördüncü grup hiç kontrol etmeyi denemeyenlerdir."
+      }
+    },
+    {
+      "id": "ev-panic-myth", "section": "evidence", "layer": "core", "kind": "myth",
+      "title": "Sanılan: milyonlarca insan paniğe kapıldı",
+      "body": "**Sanılan:** 1938’de Amerika’da milyonlarca insan sokaklara döküldü; Welles’in radyosu ülkeyi bir şırınga gibi vurdu.\n\n**Kayıtlar ne söylüyor?**\n\n- Cantril’in kendi özetine göre en az altı milyon kişi yayını dinledi ve bunların en az bir milyonu korktu ya da rahatsız oldu [[cite:cantril-1971-invasion-summary]]. Dikkat: “korkmuş *ya da rahatsız olmuş*” ile “panik” aynı şey değil. Pooley ve Socolow, Cantril’in “korkmuş”, “rahatsız olmuş”, “heyecanlanmış” ile “panik”i aynı kefeye koyduğunu söyler [[cite:pooley-socolow-2013-slate]].\n- Aynı gece Hooper’ın 5.000 haneyi kapsayan ulusal ölçümünde yalnızca yüzde 2’si programı dinliyordu; karşı programda o dönemin en sevilen komedi-müzik gösterisi vardı [[cite:pooley-socolow-2013-slate]].\n- Doğrulanmış ölüm ya da hastane vakası yok: New York’taki altı hastane, yayın nedeniyle getirilmiş bir vaka kaydı olmadığını bildirdi; Newark’taki “şok” söylentisi de doğrulanmadı [[cite:pooley-socolow-2013-slate]].\n- Cantril’in dayandığı anket, kendi ifadesiyle öteki bilinen ölçümlerden yüzde yüzün üzerinde daha yüksek bir dinleyici oranı veriyordu ve gazete gürültüsünden etkilenmiş olabilirdi [[cite:pooley-socolow-2013-slate]].\n\nAma dengeli olalım: bazı dinleyiciler gerçekten korktu; Cantril’in görüşmeleri bunu gösteriyor. Hayes ve Battles’a göre ise en yaygın tepki, sosyal ve teknolojik ağlar üzerinden başkalarıyla iletişime geçmek, yayının anlamını sorgulamak, aile ve arkadaşlarla bilgi paylaşmaktı [[cite:hayes-battles-2011]].",
+      "question": {
+        "id": "ev-panic-myth-q", "type": "mcq",
+        "prompt": "Hooper ölçümünde 5.000 hanenin yalnızca yüzde 2’sinin programı dinlediği çıktı. Bu bulgudan en savunulabilir çıkarım hangisidir?",
+        "options": [
+          "Hiç kimse korkmadı.",
+          "Program, anlatılanın çok altında bir kitleye ulaşmıştı; bu, “milyonlarca kişi panikledi” anlatısını zayıflatır, ama bazı dinleyicilerin gerçekten korktuğunu yok etmez.",
+          "Cantril’in bütün çalışması sahtedir.",
+          "Radyo, kitleler üzerinde hiçbir etki yapamaz."
+        ],
+        "answer": 1,
+        "explain": "Ölçüm, dinleyici sayısının beklenenden çok küçük olduğunu gösterir; ama bu, dinleyenlerden bazılarının korkmadığı anlamına gelmez (Cantril’in görüşmeleri korkanların varlığını belgeler). Birinci ve üçüncü şıklar aşırı genellemedir; dördüncüsü ise “tek bir olay” ile “radyonun her türlü etkisi” arasındaki farkı silmektedir."
+      }
+    },
+    {
+      "id": "ev-newspapers", "section": "evidence", "layer": "core", "kind": "myth",
+      "title": "Sanılan: gazeteler yalnızca olanı aktardı",
+      "body": "**Sanılan:** Gazeteler sabah gördüklerini yazdı; ortada gerçek bir panik olmasaydı bunu yazmazlardı.\n\n**Kayıtlar ne söylüyor?** Depresyon yıllarında reklam gelirleri radyoya kaymış, gazeteler zarar görmüştü. Pooley ve Socolow’a göre gazeteler bu fırsatı, radyonun haber işi için güvenilir olmadığını göstermek amacıyla kullandı [[cite:pooley-socolow-2013-slate]]. Bir örnek: *New York Daily News*’in radyo editörü Ben Gross 1954’te yayımladığı anılarında, yayın bitmek üzereyken CBS’e giderken Manhattan sokaklarının boş olduğunu hatırlar; gazetesi ise birkaç saat sonra “panik” manşetiyle çıkmıştı [[cite:pooley-socolow-2013-slate]].\n\nHaber kalıcı da değildi. W. Joseph Campbell’a göre gazetelerin çoğu hikâyeyi bir iki gün sonra bıraktı; gerçekten ülke çapında bir panik olsaydı günler ve haftalarca ayrıntılı haber beklenirdi [[cite:pooley-socolow-2013-slate]]. A. Brad Schwartz’ın kitabı da, panik anlatısının daha olaydan hemen sonra abartıldığını ve bunda gazetelerin payı olduğunu savunur [[cite:heller-2015-npr]].\n\nİroni şu: “medya güçlüdür” hikâyesinin ilk büyük üreticisi, *medyanın kendisi* olabilir; bu yüzden hikâyeyi anlatanın çıkarına bakmak gerekir. Düzenleyici tarafta da tablo sakindi: FCC ağlardan gayriresmî olarak kurgusal “haber flaşı” yayınlamama sözü aldı; ne CBS ne Welles yaptırıma uğradı [[cite:pooley-socolow-2013-slate]].",
+      "question": {
+        "id": "ev-newspapers-q", "type": "mcq",
+        "prompt": "Depresyon yıllarındaki gazete–radyo rekabeti, panik haberinin abartılmasını açıklamada nasıl bir rol oynar?",
+        "options": [
+          "Radyo reklamları gazeteleri güçlendirmişti, bu yüzden gazeteler radyoyu savunmak istedi.",
+          "Reklam gelirini kaybeden gazetelerin, radyoyu haber için güvenilmez göstermekte çıkarı olabilirdi; bu, hikâyenin kaynağını sorgulamayı gerektirir.",
+          "Gazeteler radyo yayınını hiç izlemedi, bu yüzden panik haberi uydurdu.",
+          "Bu rekabet 1938’den sonra başladı."
+        ],
+        "answer": 1,
+        "explain": "Pooley ve Socolow’un açıklaması: reklam gelirini radyoya kaptıran gazetelerin, radyoyu haber işi için güvensiz göstermekte çıkarı vardı. Bu bir teşhis değil, bir “çıkar” açıklaması; bu yüzden kaynağı sorgulamayı gerektirir. Birinci şık gerçeğin tersidir; üçüncü şık ise kanıtsız bir iddiadır."
+      }
+    },
+    {
+      "id": "ev-biggott", "section": "evidence", "layer": "core", "kind": "story",
+      "title": "Bay Biggott: mermi tutmayan çizgi filmler",
+      "body": "1940’larda bir grup araştırmacı ilginç bir şey denedi: önyargıyı gülünç göstererek azaltmak. Bay Biggott adlı bir karakteri anlatan çizgi film dizisi hazırlandı. Biggott önyargısını en olmadık yerlerde sergiliyordu; örneğin hastanede kendisine nakil için “mavi kan” dışında bir şey verilmesine izin vermiyordu. Fikir şuydu: izleyici karakterle alay ederken kendi önyargısından da uzaklaşsın.\n\nSonuç beklenmedikti. Schramm ve Roberts’ın özetine göre kampanya, bir etkisi olduysa, izleyicileri daha önyargılı bıraktı: çizgi filmlere gülmek yerine bir kısmı onları onayladı, bir kısmı esprinin ne olduğunu kaçırdı ya da yanlış anladı [[cite:schramm-roberts-1971]]. Eunice Cooper ve Marie Jahoda’nın 1947 tarihli makalesi, önyargılı insanların propagandayı kendi önyargılarına uyacak biçimde nasıl yeniden yorumladığını çözümler [[cite:cooper-jahoda-1947]].\n\nSchramm bu çalışmayı “mermi” anlatısına karşı bir örnek olarak anar: önyargılı insanlara önyargı karşıtı propaganda sunulunca, onu kendi önyargılarını pekiştirmek için kullanmışlardı. Ona göre hedef, mermi vurduğunda bile devrilmeyi reddediyordu [[cite:schramm-1971-nature]].\n\nBu çalışma 1940’lardan; yani “mermi” iddiasının öne sürüldüğü söylenen dönemden *sonra*. Ama gösterdiği şey önemli: alıcı mesajı kendi çerçevesinden okur, bu yüzden aynı mesaj farklı yerlere düşer. Cantril’in dört grubunun bir başka yüzü.",
+      "question": {
+        "id": "ev-biggott-q", "type": "mcq",
+        "prompt": "Bay Biggott çalışması, şırınga tasvirine karşı hangi noktayı gösterir?",
+        "options": [
+          "Çizgi filmlerin kimse tarafından izlenmediğini.",
+          "Aynı mesajın önyargılı alıcıda istenenin tersi bir sonuç verebildiğini: alıcı mesajı kendi çerçevesinde yorumlar.",
+          "Propagandanın her zaman işe yaradığını.",
+          "Önyargının doğuştan geldiğini."
+        ],
+        "answer": 1,
+        "explain": "Çalışma, hedef izleyicinin mesajı kendi önyargısına uyduracak biçimde yeniden yorumladığını ve etkinin bazen tersine döndüğünü gösterir; şırınga tasviri ise mesajın herkeste aynı işlediğini varsayar. İkinci şık tersini söyler (“propaganda her zaman işe yarar”): bulgu bunun tam tersi."
+      }
+    },
+    {
+      "id": "deep-numbers", "section": "evidence", "layer": "deep", "kind": "text",
+      "title": "Derin: Mars çalışmasının rakamları ve yöntemi",
+      "body": "**Hooper ölçümü.** C. E. Hooper servisi yayın gecesi 5.000 haneyi *telefonla* aradı; hangi programı dinledikleri sorulunca yalnızca yüzde 2’si radyo oyunu ya da Welles programı gibi bir yanıt verdi, hiçbiri haber yayını demedi. Bu özet *Broadcasting* dergisinde yayımlanmıştı [[cite:pooley-socolow-2013-slate]]. (Bizim çıkarımımız: telefonla ölçüm, telefonu olmayan haneleri kapsamaz.)\n\n**AIPO anketi.** Cantril, telefonsuz haneleri ve küçük yerleşimleri de kapsadığı için bu veriyi savundu; ama rapor yayından yaklaşık altı hafta sonra, gazete gürültüsünün ardından derlendi ve öteki ölçümlerden çok daha yüksek bir oran verdi [[cite:pooley-socolow-2013-slate]].\n\n**Stanton’ın anketi.** Frank Stanton yayın gecesi bir soru formu hazırlayıp Hooper Holmes şirketine yaptırdı; bu şirket sigorta işi için yüz yüze görüşme yapıyor, yalnızca telefona dayanmıyordu. Verinin hiçbir zaman yayımlanmadığı, ama kitabın eleştirel yeti ile eğitim arasındaki bağa ilişkin bulgusunun büyük bölümünü sağladığı bildirilir [[cite:pooley-socolow-2013-ijoc]].\n\n**Görüşmeler.** Cantril’in özetine göre 135 kişiyle ayrıntılı görüşme yapıldı; yüzden fazlası yayından rahatsız olduğu bilinen kişilerdendi [[cite:cantril-1971-invasion-summary]]. Ayrıca Kasım ayında Herzog korkan dinleyicilerle derinlemesine görüşmeler yürüttü [[cite:pooley-socolow-2013-ijoc]]; bu iki görüşme kümesinin aynı olup olmadığını kaynaklardan çıkaramadım.\n\n**Para.** Rockefeller’ın Genel Eğitim Kurulu “kitle histerisi” çalışması için 3.000 dolar verdi; projenin tamamı ise 1937’de yenilenebilir iki yıllık 67.000 dolarlık bir hibeyle kurulmuştu [[cite:pooley-socolow-2013-ijoc]].\n\nUyarı (bizim yorumumuz): bu rakamların hiçbiri “kaç kişi panikledi” sorusuna doğrudan yanıt vermez; çünkü “korkmuş”, “rahatsız olmuş” ve “panik” tek bir ölçüde birleştirilmişti."
+    },
+    {
+      "id": "deep-authorship", "section": "evidence", "layer": "deep", "kind": "story",
+      "title": "Derin: Kitap kimin? Bir yazarlık kavgası",
+      "body": "*The Invasion from Mars* kapakta yalnızca Cantril’in adıyla çıktı; Herta Herzog ve Hazel Gaudet “yardımıyla” olarak anıldı [[cite:pooley-socolow-2013-ijoc]]. Pooley ve Socolow arşiv belgelerinden şunu anlatır: Cantril ile Lazarsfeld arasında radyo projesi sürerken zaten sert bir anlaşmazlık vardı; arşiv kayıtları, 1939 sonunda bir pazarlıkla uzlaşıldığını düşündürüyor: Lazarsfeld, kitabın yazarlık kredisi üzerindeki iddiasından (kendi ve Herzog adına) vazgeçti; Cantril da projenin başka bir kuruma taşınmasına razı oldu. Yazarlar bunu, alaycı bir dille, akademik boşanma davasına benzetir: kitap Cantril’e, araştırma enstitüsü Lazarsfeld’e kaldı.\n\n“Eleştirel yeti” ve “kontrol etme” fikri için kredi de dağılmıştı: “checking up” (kontrol etme) kavramını görünüşe göre Herzog geliştirdi; kitabın en ünlü bulgusu, yani bazı dinleyicilerin eleştirel yetisiyle yayını kontrol etme eğilimi arasındaki bağ, ona dayanıyordu [[cite:pooley-socolow-2013-ijoc]].\n\nİkinci ironi: Cantril kitabın dramatik bir üslupla yazılmasında ısrar etti ve panikin boyutunu abarttı; kitap da ilk pazarlamasında “mystery-adventure story of the American people” diye sunuldu [[cite:pooley-socolow-2013-ijoc]].\n\nSonuç: Lazarsfeld’in araştırma çizgisi (seçici, çeşitlenmiş izleyici) ile Cantril’in kitabı arasında düşünülenden çok süreklilik vardı; ama bu süreklilik, iki adamın ayrılığı yüzünden hatırlanan tarihte silindi. Ders kitaplarında kitap “güçlü etki”, Lazarsfeld’in ekibi “sınırlı etki” tarafına yerleştirildi. Cantril’in ilerleyen yıllarda Hastorf’la yaptığı *They Saw a Game* çalışması ise, aynı futbol maçını farklı takımların taraftarlarının farklı gördüğünü anlatır [[cite:hastorf-cantril-1954]]. Bizim okumamız: Cantril’in bakışı saf bir “şırınga”dan uzaktı."
+    },
+    {
+      "id": "crit-nobody", "section": "critique", "layer": "core", "kind": "myth",
+      "title": "Sanılan: 1930’larda herkes “mermi kuramı”na inanıyordu",
+      "body": "**Sanılan:** Savaş öncesi bilim insanları izleyiciyi edilgen bir hedef sandı; Lazarsfeld’in ekibi bu saflığı kanıtla dağıttı.\n\n**Tarihçilerin bulduğu:**\n\n- Bineham (1988), şırınga modelinin tarihinin nasıl anlatıldığının, alanın kuramsal ve yöntemsel tercihlerini etkilediğini savundu; farklı tarih anlatıları modelin farklı tanımlarını da beraberinde getiriyordu [[cite:bineham-1988]].\n- Sproule (1989), savaşlar arası propaganda eleştirmenlerini “sihirli mermi” diye okumanın tarihsel olarak yanlış olduğunu, bu yanlış anlamanın neden 1940’larda ve 1950’lerde tuttuğunu inceledi [[cite:sproule-1989]]. Bauer ve Nadler’in aktardığına göre bu eleştirmenler, kurumların çıkarlarını irdeleyen ilerlemeci bir çizgideydi [[cite:bauer-nadler-2021]].\n- Pooley (2006), “önce güçlü, sonra sınırlı” hikâyesini *Personal Influence*’ın ilk 15 sayfasına kadar götürür [[cite:pooley-2006]]; Lubken (2008) buna bir *straw man*, yani kukla rakip gözüyle bakar [[cite:lubken-2008]].\n\n**Adil olalım.** “Hiç kimse güçlü etkiye inanmadı” demek de yanlış olur. Parsons (2021), 20. yüzyıl başında sosyal psikolojide doğan “telkin öğretisi”nin savaş öncesinde medya etkisinin baskın açıklamalarından biri olduğunu gösterir [[cite:parsons-2021]]; Lasswell propagandayı “en güçlü araçlardan biri” saymıştı. Chaffee de Bineham’a yanıtında, şırınga modelinin tarihinin ampirik araştırmalar tarihinden ayrı tutulması gerektiğini savundu [[cite:chaffee-1988]].\n\nDengeli sonuç: **tek ve resmî bir “mermi kuramı” yok; ama dağınık bir “güçlü etki” inancı vardı.**",
+      "question": {
+        "id": "crit-nobody-q", "type": "mcq",
+        "prompt": "Aşağıdakilerden hangisi tarihçilerin savına en yakındır?",
+        "options": [
+          "1930’larda tek bir “mermi kuramı” resmen benimsenmişti ve 1940’larda çürütüldü.",
+          "Güçlü etkiye dair dağınık inançlar vardı; ama bunları tek, resmî bir “şırınga/mermi kuramı” diye toplayan çerçeve sonradan kuruldu.",
+          "Savaş öncesinde kimse medyanın güçlü olduğunu düşünmedi.",
+          "Şırınga modelini Lasswell icat etti, tarihçiler bunu gizliyor."
+        ],
+        "answer": 1,
+        "explain": "İkinci şık iki gözlemi birleştirir: dağınık güçlü-etki inancı (telkin öğretisi, propaganda kaygısı) gerçekti, ama “şırınga/mermi kuramı” çerçevesi sonradan kuruldu. Birinci şık ders kitabı sürümüdür. Üçüncü şık aşırı bir düzeltmedir; Parsons ve Lasswell’ın metni bunun tersini gösteriyor. Dördüncü şık ise kanıtsız bir suçlamadır."
+      }
+    },
+    {
+      "id": "crit-two-stage", "section": "critique", "layer": "core", "kind": "text",
+      "title": "“Güçlüden sınırlıya” hikâyesi kime hizmet etti?",
+      "body": "Tarihçiler, bu hikâyenin neden bu kadar tuttuğunu da sorar. Öne çıkan yanıtlar:\n\n- **Bir kurucu hikâye.** “Önce saf bir varsayım, sonra titiz ölçüm” anlatısı, yeni bir alanın kendini bilimsel olarak tanıtmasına yarar. Pooley, *Personal Influence*’ın ilk 15 sayfasındaki anlatının alanın tarih anlayışını hiçbir yayının yapamadığı ölçüde biçimlendirdiğini yazar [[cite:pooley-2006]].\n- **Bir paradigma değişimi.** Sproule’a göre 1920–30’larda “propaganda analizi” adlı eleştirel çerçeve Amerikan sosyal biliminde ağırlık kazandı. 1930’ların sonuna doğru bilim istatistik ve deneyle özdeşleşince ve ulusal seferberlik talepleri gelince, yerini hükûmete ve özel fonlara işe yarar, siyaseten tartışmasız hizmet sunabilen “iletişim araştırması”na bıraktı [[cite:sproule-1987]].\n- **Rahat bir karşıt.** Bauer ve Nadler’e göre saf alıcı kuklası, daha pozitivist bir araştırmayı öne çıkarırken alanı fonlayan kurumları rahatsız edebilecek etik soruları azalttı [[cite:bauer-nadler-2021]].\n- **Somut örnek ihtiyacı.** Ders kitapları çoğu kez savaş öncesi tek bir isim göstermeden “önce mermi vardı” der; örnek istenince genellikle Cantril’in Mars kitabı gösterilir [[cite:pooley-socolow-2013-ijoc]]. Oysa Pooley ve Socolow, bu kitabın Lazarsfeld’in radyo projesinin medya etkisini karmaşıklaştırma çizgisinin erken bir halkası olduğunu savunur [[cite:pooley-socolow-2013-ijoc]].",
+      "question": {
+        "id": "crit-two-stage-q", "type": "tf",
+        "prompt": "Doğru mu yanlış mı: Pooley ve Socolow’a göre Cantril’in Mars kitabı, ders kitaplarında “güçlü etki” örneği gösterilse de, aslında medya etkisini karmaşıklaştıran bir araştırma çizgisinin erken bir halkasıdır.",
+        "answer": true,
+        "explain": "Doğru. Yazarlar kitabı, Lazarsfeld’in yönettiği radyo projesinin ve sonraki Büro’nun “medya etkisini karmaşıklaştırma” çizgisiyle süreklilik içinde okur; kitabın çekirdek bulgusu (bazı dinleyicilerin yayını kontrol etmesi) seçici, çeşitlenmiş izleyici fikrini önceler. “Yanlış” cevabı cazip kılan şey, ders kitaplarındaki alışılmış yerleştirme."
+      }
+    },
+    {
+      "id": "deep-historiography", "section": "critique", "layer": "deep", "kind": "text",
+      "title": "Derin: Tarihçiler tartışıyor — kim ne savundu?",
+      "body": "Bu kart özet düzeyindedir; yalnızca özetlerini açabildiğim çalışmalarda özetlerin söylediğini aktarıyorum.\n\n- **Chaffee ve Hochheimer (1985).** Pooley ve Socolow, onları Lubken, Pooley ve Sproule’la birlikte, “şırınga” kısaltmasının nasıl katılaştığını inceleyen tarihçiler arasında sayar [[cite:chaffee-hochheimer-1985]] [[cite:pooley-socolow-2013-ijoc]].\n- **Bineham (1988)** ve **Chaffee (1988).** Bineham’a göre modelin nasıl anlatıldığı, alanın seçimlerini etkiler [[cite:bineham-1988]]. Chaffee ise aynı sayıdaki yanıtında, şırınga modelinin tarihini ampirik araştırmaların tarihinden *ayırmak* gerektiğini savunur [[cite:chaffee-1988]]. Yani tarihçiler arasında bile tartışma var: ders kitabı efsanesi bir şey, araştırma geçmişi başka bir şey.\n- **Sproule (1987, 1989).** 1987’de propaganda analizinin yükselişini ve “iletişim araştırması”yla yer değiştirmesini anlatır [[cite:sproule-1987]]; 1989’da “sihirli mermi efsanesi”nin savaşlar arası eleştirmenleri yanlış tanımladığını savunur [[cite:sproule-1989]].\n- **Pooley (2006).** “Güçlüden sınırlıya” hikâyesini, *Personal Influence*’ın ilk 15 sayfasına kadar izler [[cite:pooley-2006]].\n- **Lubken (2008).** Bölüm başlığı “Remembering the Straw Man”dir; şırınga tasvirini hatırlanan bir kukla rakip olarak ele alır [[cite:lubken-2008]].\n- **Pooley ve Socolow (2013).** Cantril’in Mars kitabının, ders kitaplarındaki yerleştirmenin aksine, medya etkisini karmaşıklaştıran çizgiyle sürekli olduğunu savunur [[cite:pooley-socolow-2013-ijoc]].\n- **Bauer ve Nadler (2021).** Aynı “çarpıtılmış anı”nın günümüzün yanlış bilgi araştırmalarında da dikkate alınması gerektiğini söyler [[cite:bauer-nadler-2021]]."
+    },
+    {
+      "id": "deep-suggestion", "section": "critique", "layer": "deep", "kind": "text",
+      "title": "Derin: Unutulan öğreti — telkin",
+      "body": "Şırınga etiketi yerine hangi fikir vardı? Parsons (2021) yanıtlar: **telkin öğretisi**. 20. yüzyıl başında sosyal psikolojide doğmuş, savaştan önce medya etkilerine uygulanmış; o dönemde fikir değişiminin başlıca psikolojik açıklamalarından ve medya etkisinin baskın kuramlarından biri olmuş; buna rağmen çağdaş iletişim tarihlerinde büyük ölçüde göz ardı edilmiş [[cite:parsons-2021]]. Yani “savaş öncesinde güçlü etki fikri yoktu” demek yanlış olur; olan, onun tek bir “mermi” kuramı değil, psikolojik bir açıklama olmasıydı.\n\nCantril’in özeti de bu sözlüğün izlerini taşır: yayına inanıp korkanlar o gece için oldukça telkine açık kişiler sayılır; korkmayanlar ise psikologların eskiden “critical faculty” dediği şeyi sergilemişti [[cite:cantril-1971-invasion-summary]]. Ama Cantril, telkin edilebilirliği kişide sabit bir eğilim olarak değil, o kişinin elindeki *yargı ölçütlerine* bağlı olarak açıklar: dört durum sayar: ölçütü olguyu hemen “yerleştirmeye” yetenler; kontrol etmeyi deneyip başarısız olanlar; hiçbir ölçütü yetmeyenler; başka yorumların olabileceğini düşünmeyenler [[concept:suggestibility]].\n\nBu yüzden Mars çalışması saf bir “şırınga” anlatısı değildir: eski bir kavramı (telkin) alır ama onu alıcının *ne bildiğine* bağlar. Bizim okumamız: alıcıyı bir hedef değil, bilgisi az ya da çok bir yorumcu olarak görür."
+    },
+    {
+      "id": "today-revivals", "section": "today", "layer": "core", "kind": "text",
+      "title": "“Güçlü etki” hiç ölmedi: geri dönüşler",
+      "body": "Şırınga etiketi zamanla küçüldü ama “medya güçlü olabilir” fikri farklı biçimlerde geri döndü:\n\n- **1973, Noelle-Neumann.** Yaklaşık yirmi yıl süren “sınırlı etki” araştırmalarının ardından *Return to the Concept of Powerful Mass Media* (güçlü kitle medyası kavramına dönüş) makalesinde medyanın güçlü olabileceğini savundu; ona göre laboratuvar çalışmaları medyanın üç özelliğini kaçırıyordu: her yerde bulunma, birikim ve tekdüzelik (*consonance*) [[cite:noelle-neumann-1973]] [[cite:salmon-kline-1983]]. Bu fikir [[lesson:spiral-of-silence]] dersinin arka planıdır.\n- **1978, Gitlin.** Todd Gitlin, sınırlı etki araştırmasının etkiyi kısa vadeli ve ölçülebilir davranışlarla, çok dar tanımladığını; bu yüzden en fazla hafif etki bulmaya neredeyse baştan mahkûm olduğunu; medyanın neyin siyaseten gerçek ve meşru sayılacağını belirleme gücünü gözden kaçırdığını savundu [[cite:gitlin-1978]].\n- **1970’lerden sonra, orta düzey yaklaşımlar.** Gündem belirleme ([[lesson:agenda-setting]]) ve kültivasyon ([[lesson:cultivation]]) etkiyi “tek mesajın anlık çarpması” olarak değil, uzun vadeli ve dolaylı bir süreç olarak yeniden kurdu.\n- **2008, Bennett ve Iyengar.** Parçalanan ve kişiselleşen kanallar çağında “yeni bir asgari etki dönemi”ne girip girmediğimizi sordular [[cite:bennett-iyengar-2008]].\n\nBizim okumamız (belgelenmiş değil): bu geri dönüşlerin ortak yanı, hiçbirinin “mesaj ağızdan çıkınca hedef devrilir” dememesi; hepsi etkiyi *kim, ne kadar süre, hangi koşulda* diye koşullu tanımlıyor.",
+      "question": {
+        "id": "today-revivals-q", "type": "mcq",
+        "prompt": "“Her yerde bulunma, birikim ve tekdüzelik” üçlüsünü hangi çalışma, “güçlü kitle medyası”na dönüşün gerekçesi olarak öne sürdü?",
+        "options": [
+          "Cantril, 1940",
+          "Noelle-Neumann, 1973",
+          "Kalla ve Broockman, 2018",
+          "Berlo, 1960"
+        ],
+        "answer": 1,
+        "explain": "Bu üçlü, Noelle-Neumann’ın 1973 tarihli makalesindeki savdır. Cantril Mars çalışmasını, Berlo şırınga anışını, Kalla ve Broockman ise kampanya temasının ikna etkisini sıfıra yakın bulan saha deneylerini temsil eder; hepsi farklı sorulara yanıttır."
+      }
+    },
+    {
+      "id": "deep-revivals", "section": "today", "layer": "deep", "kind": "text",
+      "title": "Derin: Üç geri dönüşün ayrıntısı",
+      "body": "**Noelle-Neumann (1973).** Salmon ve Kline’ın (1983) özetine göre, yaklaşık yirmi yıllık sınırlı etki bulgularının ardından yazılan bu makale, medyanın güçlü olabileceğini iddia eder. Neden? Çünkü etki araştırmaları çoğunlukla laboratuvarda yapılmıştır ve *her yerde bulunma* (kişi aynı mesajlardan kolay kaçamaz), *birikim* (aynı mesajlar birikir) ve *tekdüzelik* (gazeteciler benzer değerleri paylaşır, aynı kaynaklara başvurur, birbirini etkiler) hesaba katılmamıştır. Tekdüzelik, kişinin bağımsız görüş oluşturmasını sınırlar ve seçici algıyı zorlaştırır [[cite:salmon-kline-1983]]. Bu, şırınga değil; koşullu ve kümülatif bir güçtür.\n\n**Gitlin (1978).** Makale, “baskın paradigma”nın savaştan beri medya sahipliği yoğunlaşırken medyanın göreli güçsüzlüğünü tema edindiğini söyler; bu paradigmanın etkiyi *davranışçı, kısa vadeli ve ölçülebilir* tanımladığını, böylece anketlerde en fazla hafif etkinin görüleceğini neredeyse garantilediğini savunur. Gitlin’e göre bu yaklaşım, izleyicilerin direncini öne çıkarıp bağımlılığını ve boyun eğişini geri plana itti; medyanın neyin siyasal olarak gerçek ve meşru olduğunu söyleme gücü gözden kaçtı [[cite:gitlin-1978]]. Yani Gitlin, şırınga tasvirine dönmüyor; “etki nedir?” sorusunu eleştiriyor.\n\n**Bennett ve Iyengar (2008).** Özet, bir dizi soru sorar: insanlar kamusal okullar, partiler, sivil gruplar gibi ortak bağlamlardan koptuysa mesajlara nasıl yanıt veriyorlar? Kanallar çoğalıp kişiselleştiyse “kitle medyası” hâlâ geçerli bir kavram mı? Yeni ortam bir “asgari etki” dönemine dönüşü mü müjdeliyor? [[cite:bennett-iyengar-2008]]. Bizim okumamız: bu sorular, “güçlüden sınırlıya” hikâyesinin bir kez daha başa dönüp dönmediği sorusunu açık tutuyor."
+    },
+    {
+      "id": "today-digital", "section": "today", "layer": "core", "kind": "story",
+      "title": "Sosyal medyada mermi mi, serpinti mi?",
+      "body": "Yeni korku yeni araçla geldi: sosyal medya. İki belgelenmiş çalışma, tablonun iki ucunu gösterir.\n\n**Bulaşma.** Kramer, Guillory ve Hancock (2014), Facebook’ta 689.003 kullanıcılık bir deneyde, haber akışındaki duygusal içerik değiştirilince kişilerin kendi paylaşımlarının duygusunun da değiştiğini bildirdi. Ama yazarlar, etki büyüklüklerinin küçük olduğunu (en küçüğü d = 0,001) kendileri de yazar; yine de Facebook ölçeğinde küçük etkilerin toplamda önemsiz olmayabileceğini savunur [[cite:kramer-et-al-2014]].\n\n**İkna.** Kalla ve Broockman (2018), genel seçimlerde kampanya temasının ve reklamın oy tercihine etkisini 49 saha deneyinde inceledi ve en iyi tahminin *sıfır* olduğunu bildirdi; ikna etkisi yalnızca iki nadir durumda ortaya çıkıyordu [[cite:kalla-broockman-2018]].\n\nİki bulgu birbirini çelişmiyor: bir duyguyu *tetiklemek* ile bir görüşü *değiştirmek* farklı sorular. Bauer ve Nadler’in uyarısını da unutma: yanlış bilgi araştırmacıları geçmişin propaganda araştırmasını yalnızca bir karikatür olarak hatırlarsa, kendi alanlarına kötülük etmiş olurlar [[cite:bauer-nadler-2021]].\n\nBizim yorumumuz (belgelenmiş değil): “şırınga mı?” diye sormak yerine “hangi etki, ne kadar büyük, kimde, hangi koşulda?” diye sormak, hem 1938’in hem bugünün panik anlatılarına karşı daha sağlam bir alışkanlık.",
+      "question": {
+        "id": "today-digital-q", "type": "mcq",
+        "prompt": "Kramer ve arkadaşlarının 689.003 kullanıcılı Facebook deneyi hakkında hangisi doğrudur?",
+        "options": [
+          "Etki büyüklükleri yüksekti ve her kullanıcı aynı tepkiyi verdi.",
+          "Yazarlar etki büyüklüklerinin küçük olduğunu (en küçüğü d = 0,001) bildirdi, ama Facebook ölçeğinde küçük etkilerin de toplamda önemli olabileceğini savundu.",
+          "Deney hiçbir etki bulamadı.",
+          "Deney yalnızca gazete okurlarıyla yapıldı."
+        ],
+        "answer": 1,
+        "explain": "Çalışma küçük ama tutarlı bir bulaşma etkisi bildirdi ve yazarlar ölçeğin küçük etkileri önemli kılabileceğini savundu. Birinci şık, “şırınga” tasvirinin çağdaş bir yansımasıdır (yüksek ve herkeste aynı etki); veri bunu desteklemiyor. Üçüncü şık aşırı ters yöndedir: etki küçüktü ama sıfır değildi."
+      }
+    },
+    {
+      "id": "today-lab", "section": "today", "layer": "core", "kind": "lab",
+      "title": "Mini laboratuvar: mesajı “kontrol et”",
+      "body": "Cantril’in dört grubunu kendi telefonunda dene. Bu bilimsel bir çalışma değil; mantığı hissetmek için bir egzersiz. (Varsayımsal senaryo.)\n\nGrup sohbetine ürkütücü bir mesaj düştü: “Bu akşam şehirde büyük bir tehlike var, herkes ...”. Hemen inanmadan ya da iletmeden önce dört “kontrol” yap:\n\n1. **İç kanıt:** Mesaj kendi içinde tutarlı mı? Sayılar, hızlar, “bir tanıdığın tanıdığı” gibi kaynaklar makul mü? (Cantril’in 1. grubu.)\n2. **Dış kaynak:** Bağımsız bir kaynağa, örneğin resmî bir duyuruya ve iki ayrı haber kuruluşuna bak. (2. grup.)\n3. **Tuzak: aynı korkuyu paylaşanlarla kontrol.** “Sen de mi gördün?” diye arkadaşlara sormak, Cantril’in 3. grubunun yaptığı gibi, kendi korkunu doğrulatabilir: yanlış yere bakıyorsun.\n4. **Bekle:** Hiç kontrol etmeden iletme. (4. grup.)\n\nSonra sor: Hangi kontrolü yapmak en zordu? Neden?\n\n**Neyi kanıtlamaz?** Bu egzersiz “insanlar kolay kandırılır” demez; Cantril’in ekibi de birçok dinleyicinin yayını başarıyla sınadığını kaydetti [[cite:cantril-1971-invasion-summary]]. Egzersiz, yanlış bilginin yayılmasında rol oynayan *koşullara* (korku, aciliyet, güvenilmez kaynak) dikkat çeker. Bauer ve Nadler’in uyarısıyla: eski çağların insanlarını “saf” karikatürüne çevirmeden çalış [[cite:bauer-nadler-2021]].",
+      "question": {
+        "id": "today-lab-q", "type": "mcq",
+        "prompt": "Mahalle grubunda herkes birbirinin “sokakta tuhaf bir ışık var” mesajını doğruluyor. Cantril’in bulgusuna göre bu neden yetersiz bir kontroldür?",
+        "options": [
+          "Çünkü arkadaşlar her zaman yalan söyler.",
+          "Çünkü aynı durumdan etkilenen, benzer kuşku ve korku taşıyan kişilerin verdiği bilgi, zaten şüpheli olan yorumu doğrulamaya eğilimlidir.",
+          "Çünkü telefon her zaman güvenilmezdir.",
+          "Çünkü yalnızca gazete geçerli bir kaynaktır."
+        ],
+        "answer": 1,
+        "explain": "Cantril’in özetine göre başarısız kontrol edenler çoğunlukla arkadaşlarına ve komşularına danışmıştı; bu kişiler de kuşku ve tereddütle doluydu ve ilk kuşkuyu pekiştirdi. Birinci şık, sorunu kişilerin niyetine bağlıyor; oysa sorun niyet değil, kaynağın durumdan etkilenmiş olması."
+      }
+    },
+    {
+      "id": "exam-patterns", "section": "exam", "layer": "core", "kind": "text",
+      "title": "Sınavda böyle sorulur",
+      "body": "**Sık çıkan kalıplar**\n\n- “Şırınga (hipodermik iğne) modeli ya da sihirli mermi kuramı ile en sık ilişkilendirilen isim?” → Lasswell. Ders kitapları böyle ilişkilendirir; Yaylagül de modeli Lasswell’ın propaganda çalışmalarıyla ilişkilendirir [[cite:yaylagul-2006]].\n- “Modelin varsayımları?” → güçlü araç, kopuk ve edilgen alıcı, doğrudan ve anlık, herkeste benzer etki.\n- “Sınırlı etkilerle karşılaştırınız” → sınırlı etkiler tarafında Lazarsfeld ve ekibi ([[lesson:voting-studies]]).\n- “1938 Mars yayını” → Welles, CBS; Cantril’in kitabı 1940.\n\n**Cazip yanlışlar**\n\n- “Şırınga modelini Lazarsfeld ortaya attı” → hayır; o, sınırlı etkiler tarafıdır.\n- “Cantril paniği kanıtladı” → tarihçilere göre dayanağı zayıf; Cantril’in kendi özeti de karma bir tablo verir.\n- “Berlo ve Schramm 1930’larda bu kuramı savundu” → hayır, onlar etiketi 1960–70’lerde “geçmiş” diye anar.\n- Yıllar: Lippmann 1922; Lasswell 1927; Mars yayını 1938; Cantril 1940; *Personal Influence* 1955.\n\n**Alternatif adlar (Türkçe kaynaklarda):** hipodermik iğne, sihirli mermi, uyarıcı–tepki, propaganda modeli [[cite:yaylagul-2006]]. İngilizcede *hypodermic needle*, *magic bullet*, *bullet theory*.\n\nAçık uçlu sorularda ders kitabı sürümünü ve tarihsel sürümü ayrı ayrı bilmek fark yaratır (sonraki kart).",
+      "question": {
+        "id": "exam-patterns-q", "type": "mcq",
+        "prompt": "Çoktan seçmeli bir soru: “Şırınga (hipodermik iğne) modeli ile en sık ilişkilendirilen kuramcı hangisidir?” Şıklar: Lazarsfeld, Lasswell, Gerbner, McCombs. Ders kitabı ilişkilendirmesine göre doğru şık hangisidir?",
+        "options": [
+          "Lazarsfeld",
+          "Lasswell",
+          "Gerbner",
+          "McCombs"
+        ],
+        "answer": 1,
+        "explain": "Ders kitapları modeli Lasswell’ın propaganda çalışmalarıyla ilişkilendirir; bu bir *ilişkilendirmedir*, Lasswell’ın deyimleri kullandığının kanıtı değildir. Lazarsfeld sınırlı etkiler tarafıdır, Gerbner kültivasyonun, McCombs gündem belirlemenin ismidir. Açık uçlu soruda ilişkilendirmenin sonradan yapıldığını da eklemek puan getirir."
+      }
+    },
+    {
+      "id": "exam-answer", "section": "exam", "layer": "core", "kind": "steps",
+      "title": "Açık uçlu soru: iki sürümlü cevap",
+      "body": "“Şırınga (sihirli mermi) modelini açıklayıp eleştiriniz” türü bir soruda şu iskeleti kullan:\n\n1. **Ders kitabı sürümünü ver (2–3 cümle):** güçlü araç, kopuk ve edilgen alıcı, doğrudan ve anlık etki; “deri altına enjeksiyon” ya da “isabet eden mermi” benzetmesi.\n2. **Bağlamı söyle:** Birinci Dünya Savaşı propagandası, radyonun yükselişi, Lasswell’ın 1927 kitabı ve 1938 Mars yayınının bıraktığı korku.\n3. **Tarihsel düzeltmeyi ekle:** “Deyimlerin belgelenmiş kullanımı Berlo (1960) ve Schramm (1971)’dir; Sproule (1989), Bineham (1988) ve Lubken (2008) gibi tarihçiler bunu sonradan kurulmuş bir etiket, bir *straw man* sayar.”\n4. **Somut bir karşı örnek ver:** Mars yayını (Hooper’da yüzde 2; Cantril’in kendi dört grubu) ya da Bay Biggott çalışması.\n5. **Yerini alanı ve geri dönüşleri söyle:** sınırlı etkiler (Lazarsfeld), sonra Noelle-Neumann 1973, Gitlin 1978 ve orta düzey kuramlar.\n\nİki cümlelik örnek bir giriş: “Şırınga modeli, kitle iletişim araçlarının mesajı edilgen alıcıya doğrudan enjekte ettiğini varsayan bir ders kitabı anlatısıdır; ancak tarihçilere göre 1920–30’larda bu adla tek bir kuram savunulmamış, etiket sonraki kuşaklarca kurulmuştur.”",
+      "question": {
+        "id": "exam-answer-q", "type": "mcq",
+        "prompt": "Bir öğrenci açık uçlu cevabında şöyle yazıyor: “Şırınga modelini Lasswell 1927’de kurdu; Lazarsfeld 1940’ta çürüttü.” Cevabı geliştirmek için ilk eklemesi gereken düzeltme hangisidir?",
+        "options": [
+          "Lazarsfeld’in doğum tarihi.",
+          "Deyimlerin 1927 kitabında geçmediğini, etiketin sonradan (Berlo 1960, Schramm 1971) kullanıldığını ve tarihçilerin buna straw man dediğini.",
+          "Lasswell’ın hangi şehirde yaşadığı.",
+          "Modelin mühendislikte de kullanıldığı."
+        ],
+        "answer": 1,
+        "explain": "En ağır eksik, iddianın kendisidir: “kurdu” ve “çürüttü” dediği şey belgelenmiş değil. İkinci şık hem düzeltmeyi hem kaynak adlarını verir; diğer şıklar konudan bağımsız ayrıntılardır."
+      }
+    },
+    {
+      "id": "summary", "section": "summary", "layer": "core", "kind": "summary",
+      "title": "Özet kartı",
+      "body": "- **Ders kitabı sürümü:** güçlü araç, kopuk ve edilgen alıcı, doğrudan ve anlık etki; adları: şırınga, hipodermik iğne, sihirli mermi, uyarıcı–tepki.\n- **Belgelenmiş kullanım:** Lasswell’ın 1927 kitabında deyimler yok; “hypodermic needle” Berlo’da (1960), “Bullet Theory” Schramm’da (1971).\n- **Korku gerçekti:** propaganda ve radyo kaygısı; Lasswell “en güçlü araçlardan biri” dedi, ama ihtiyat cümleleriyle.\n- **Mars yayını (1938):** Cantril’in kendi özeti dört tür dinleyici ve “tek bir değişken yok” der; Hooper’da yüzde 2; gazete rekabeti; “panik” abartılmıştı.\n- **Tarihçiler:** Bineham (1988), Sproule (1989), Lubken (2008), Pooley (2006), Pooley ve Socolow (2013): tek ve resmî bir “mermi kuramı” yoktu; ama dağınık bir “güçlü etki” inancı vardı (Parsons 2021, telkin öğretisi).\n- **Hikâyenin işlevi:** “güçlüden sınırlıya” anlatısı yeni bir alanın kurucu hikâyesi ve rahat bir karşıt oldu.\n- **Geri dönüşler:** Noelle-Neumann (1973), Gitlin (1978), orta düzey kuramlar, Bennett ve Iyengar (2008); bugün: “hangi etki, ne kadar, kimde, hangi koşulda?”\n- **Sınav:** ders kitabı sürümünü ve tarihsel sürümü ayır; Lasswell ilişkilendirmedir, Lazarsfeld sınırlı etkiler tarafıdır.",
+      "question": {
+        "id": "summary-q", "type": "tf",
+        "prompt": "Doğru mu yanlış mı: Bu derse göre Lasswell, 1927 kitabında “hypodermic needle” ve “magic bullet” deyimlerini bir kuram olarak ortaya koymuştur.",
+        "answer": false,
+        "explain": "Yanlış. Kitabın taranmış metinlerinde bu deyimler geçmez; “hypodermic needle” belgelenmiş olarak Berlo’da (1960), “Bullet Theory” Schramm’da (1971) görülür. Lasswell’ın güçlü etkiye dair cümleleri ise vardır ve ihtiyat cümleleriyle birlikte gelir."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1", "type": "mcq",
+      "prompt": "Lasswell’ın 1927 kitabı ile “şırınga/sihirli mermi” deyimleri arasındaki ilişki hakkında belgelenmiş bilgi hangisidir?",
+      "options": [
+        "Kitap, iki deyimi tanımlar ve modeli ilk kez orada ortaya koyar.",
+        "Kitabın taranmış metinlerinde iki deyim yoktur; belgelenmiş kullanımlar Berlo (1960, “hypodermic needle”) ve Schramm (1971, “Bullet Theory”) metinlerindedir.",
+        "Deyimler ilk kez Cantril’in 1940 tarihli kitabında geçer.",
+        "İki deyim de Lippmann’ın 1922 kitabından alınmıştır."
+      ],
+      "answer": 1,
+      "explain": "Doğru cevap ikinci şık: iki taranmış metinde de deyimler görülmedi; belgelenmiş kullanımlar 1960 ve 1971’dedir. İlk şık ders kitabı sürümünün tam kendisidir; cazip, çünkü sık tekrarlanır. Üçüncü ve dördüncü şıkların dayanağı yoktur."
+    },
+    {
+      "id": "q2", "type": "tf",
+      "prompt": "Doğru mu yanlış mı: Yayın gecesi Hooper’ın 5.000 haneyi kapsayan ulusal ölçümünde yalnızca yüzde 2’si CBS’teki Welles programı ya da radyo oyunu gibi bir yanıt verdi.",
+      "answer": true,
+      "explain": "Doğru. Pooley ve Socolow’un aktardığı ölçüme göre yüzde 2 böyle yanıt verdi, hiçbiri “haber yayını” demedi. Yanlış cevabı cazip kılan şey, programın “ülkeyi kilitlediği” yolundaki yaygın hikâye; oysa karşıda çok sevilen bir komedi-müzik programı vardı."
+    },
+    {
+      "id": "q3", "type": "match",
+      "prompt": "Her ismi ya da eseri katkısıyla eşleştir.",
+      "pairs": [
+        ["David Berlo (1960)", "“Hypodermic needle” anlayışlarını, kendi “süreç” bakışına karşı bir karşı örnek olarak anar"],
+        ["Wilbur Schramm (1971)", "“Bullet Theory” adlandırmasını sahiplenir ve onun 1950’lerin ortasında “shot full of holes” olduğunu söyler"],
+        ["J. Michael Sproule (1989)", "“Sihirli mermi”nin savaşlar arası propaganda eleştirmenlerini yanlış tanımladığını inceler"],
+        ["Jefferson Pooley (2006)", "“Güçlüden sınırlıya” hikâyesini Personal Influence’ın ilk 15 sayfasına kadar izler"],
+        ["Noelle-Neumann (1973)", "Her yerde bulunma, birikim ve tekdüzelik kavramlarıyla “güçlü kitle medyası”na dönüşü savunur"]
+      ],
+      "explain": "Bu eşleşmeleri karıştırmak sık yapılır. Berlo ve Schramm etiketin *kullanıcıları*dır; Sproule ve Pooley etiketin *tarihçileri*; Noelle-Neumann ise güçlü etkinin bir *geri dönüşü*nü temsil eder."
+    },
+    {
+      "id": "q4", "type": "order",
+      "prompt": "Bu olayları eskiden yeniye doğru sırala.",
+      "items": [
+        "Lasswell’ın *Propaganda Technique in the World War* kitabı (1927)",
+        "Mars yayını (30 Ekim 1938)",
+        "Cantril’in *The Invasion from Mars* kitabı (1940)",
+        "*Personal Influence* (1955)",
+        "Berlo’nun *The Process of Communication* kitabı (1960)",
+        "Schramm ve Roberts’ın gözden geçirilmiş baskısı ve “Bullet Theory” (1971)",
+        "Sproule’un “sihirli mermi efsanesi” makalesi (1989)"
+      ],
+      "explain": "Sıra: 1927, 1938, 1940, 1955, 1960, 1971, 1989. En sık yapılan hata, Berlo ve Schramm’ı (etiketi kullananlar) 1930’lara yerleştirmektir; mantık: korku ve olaylar önce, etiketleme sonra, etiketi sorgulayan tarihçiler en sonda."
+    },
+    {
+      "id": "q5", "type": "cloze",
+      "prompt": "Boşlukları doldur.",
+      "text": "Cantril’in özetine göre {{1}} kişi yayını dinledi; ancak Hooper’ın ulusal ölçümünde 5.000 haneden yalnızca yüzde {{2}}’si Welles programı ya da bir radyo oyunu dinlediğini söyledi.",
+      "blanks": [
+        { "options": ["en az altı milyon", "en az altmış milyon", "yaklaşık altı bin"], "answer": 0 },
+        { "options": ["2", "20", "50"], "answer": 0 }
+      ],
+      "explain": "Cantril “en az altı milyon” kişinin dinlediğini yazdı; Hooper ise yüzde 2 buldu. İki sayının aynı anlatıda yan yana durması, tarihçilerin neden Cantril’in kullandığı verileri sorguladığını gösterir."
+    },
+    {
+      "id": "q6", "type": "case",
+      "scenario": "Bir haber sitesi, gerçek gibi kurgulanmış bir dizi sahnesinin ardından “Binlerce izleyici paniğe kapıldı!” manşetini atıyor. Kanıt olarak sosyal medyada paylaşılan birkaç öfkeli gönderi ve sitenin kendi “okur anketi” gösteriliyor. Site, sahneyi yayınlayan kanalla rekabet hâlinde. (Varsayımsal senaryo.)",
+      "parts": [
+        {
+          "id": "q6a",
+          "prompt": "1938 Mars deneyiminden çıkardığın derse göre ilk hangi soruyu sorarsın?",
+          "options": [
+            "Kaç kişi gerçekten izledi ve “panik” ile “şaşırma ya da heyecan” ayrı ayrı ölçüldü mü?",
+            "Dizi ne kadar pahalıydı?",
+            "Oyuncular kimdi?"
+          ],
+          "answer": 0,
+          "explain": "Mars örneğinde iki sorun vardı: dinleyici sayısı beklenenden çok küçüktü ve “korkmuş, rahatsız olmuş, heyecanlanmış” ile “panik” aynı kefeye konmuştu. Aynı iki soru burada da geçerli. Diğer şıklar konu dışıdır."
+        },
+        {
+          "id": "q6b",
+          "prompt": "Haberi yapan sitenin rekabet hâlinde olmasını nasıl değerlendirirsin?",
+          "options": [
+            "Önemsizdir; haberin kaynağı sorgulanmaz.",
+            "1938’de gazeteler radyoyla rekabet hâlindeydi; benzer bir çıkar burada da haberin ölçüsünü etkilemiş olabilir, bu yüzden kaynağın teşvikleri sorgulanmalı.",
+            "Rekabet, haberin doğru olduğunu kanıtlar."
+          ],
+          "answer": 1,
+          "explain": "Pooley ve Socolow’a göre gazeteler radyoyu güvenilmez göstermekte çıkar sahibiydi. Bu kanıt değil, sorgulanacak bir teşviktir. Birinci ve üçüncü şık, teşviki yok sayıyor ya da tersine çeviriyor."
+        },
+        {
+          "id": "q6c",
+          "prompt": "Cantril’in sınıflamasını kullanarak, birkaç öfkeli gönderinin ne kadar kanıt olduğunu nasıl yorumlarsın?",
+          "options": [
+            "Gönderiler bütün izleyicileri temsil eder.",
+            "Cantril’in örneklemi de zaten “rahatsız olduğu bilinenler”den seçilmişti; benzer biçimde bu gönderiler yalnızca etkilenenleri gösterir, oranı değil.",
+            "Gönderiler, dört grubun hepsini kanıtlar."
+          ],
+          "answer": 1,
+          "explain": "Cantril’in 135 görüşmesinin yüzden fazlası rahatsız olduğu bilinen kişilerden seçilmişti; bu, ne kadar kişinin etkilendiğini değil, etkilenenlerin nasıl tepki verdiğini gösterir. Aynı sınır, seçilmiş gönderiler için de geçerlidir."
+        }
+      ],
+      "takeaway": "“Kitle paniği” haberlerine şüpheyle yaklaşmanın üç aracı: izleyici sayısını, ölçü tanımını (panik mi, şaşkınlık mı?) ve habercinin teşviklerini sorgulamak."
+    },
+    {
+      "id": "q7", "type": "mcq",
+      "prompt": "Aşağıdakilerden hangisi “1930’larda güçlü etki inancı hiç yoktu” savına karşı dengeleyici bir bulgudur?",
+      "options": [
+        "Hooper’ın yüzde 2’lik ölçümü",
+        "Parsons’a (2021) göre telkin öğretisi, savaş öncesinde medya etkisinin baskın açıklamalarından biriydi",
+        "Bay Biggott çalışması",
+        "Schramm’ın “delik deşik” ifadesi"
+      ],
+      "answer": 1,
+      "explain": "Telkin öğretisi, savaş öncesinde güçlü etkiye dair kuramsal bir zemin bulunduğunu gösterir; “hiç yoktu” savını yalanlar. Hooper ölçümü ve Bay Biggott, güçlü etki savını *zayıflatan* bulgulardır; Schramm’ın ifadesi ise etiketin 1971’deki değerlendirmesidir."
+    },
+    {
+      "id": "q8", "type": "mcq",
+      "prompt": "Noelle-Neumann’ın 1973 tarihli makalesine göre laboratuvar çalışmalarının kaçırdığı üç özellik hangisidir?",
+      "options": [
+        "Seçici maruz kalma, seçici algı, seçici hatırlama",
+        "Her yerde bulunma, birikim ve tekdüzelik",
+        "Kapı bekçiliği, gündem belirleme, çerçeveleme",
+        "Gündem, öncüleme, çerçeveleme"
+      ],
+      "answer": 1,
+      "explain": "Salmon ve Kline’ın aktardığı gibi Noelle-Neumann ubiquity (her yerde bulunma), cumulation (birikim) ve consonance (tekdüzelik) üçlüsünü öne çıkarır. Birinci şık sınırlı etkiler döneminin “seçici süreçleri”dir; tam da Noelle-Neumann’ın aşmaya çalıştığı çerçevedir. Üçüncü ve dördüncü şık başka kuramların kavramlarıdır."
+    },
+    {
+      "id": "q9", "type": "tf",
+      "prompt": "Doğru mu yanlış mı: Gitlin (1978), sınırlı etki araştırmasının etkiyi çok dar ve kısa vadeli tanımladığı için hafif etki bulmaya yatkın olduğunu savundu.",
+      "answer": true,
+      "explain": "Doğru. Gitlin, baskın paradigmanın etkiyi davranışçı biçimde, çok dar ve doğrudan tanımladığını, bu yüzden anketlerin en fazla hafif etki gösterebileceğini savundu. “Yanlış” cevabı cazip kılan şey, Gitlin’in şırınga tasvirine dönmediği; onun eleştirisi etkinin *tanımı* üzerinedir."
+    },
+    {
+      "id": "q10", "type": "mcq",
+      "prompt": "Şırınga (sihirli mermi) modeli için tarihsel açıdan en doğru cümle hangisidir?",
+      "options": [
+        "1920–30’larda bilim insanları tarafından resmen benimsenmiş, tek bir kuramdır.",
+        "1920–30’larda tek bir kuram olarak savunulmaktan çok, sonradan (Berlo 1960, Schramm 1971) adı konmuş ve ders kitaplarında “çürütülen” bir etikettir; dağınık bir “güçlü etki” inancı ise gerçekti.",
+        "Hiçbir zaman hiç kimse medyanın güçlü olduğunu düşünmedi.",
+        "Yalnızca Lasswell’ın bir icadıdır."
+      ],
+      "answer": 1,
+      "explain": "İkinci şık, hem etiketin sonradan konduğunu hem de gerçek, dağınık bir güçlü etki inancının bulunduğunu birlikte söyler. Birinci şık ders kitabı sürümü; üçüncü şık aşırı bir düzeltme; dördüncü şık ise kanıtsız bir atıftır."
+    }
+  ]
+}
