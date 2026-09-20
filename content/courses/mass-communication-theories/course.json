@@ -24,7 +24,7 @@
       "lessons": [
         { "id": "propaganda-history", "prereq": ["mass-society", "lasswell-shannon-weaver"], "minutes": 35, "ref": ["P6"], "status": "planned" },
         { "id": "propaganda-public-opinion", "prereq": ["propaganda-history"], "minutes": 30, "ref": ["P6"], "status": "planned" },
-        { "id": "magic-bullet", "prereq": ["propaganda-public-opinion"], "minutes": 30, "ref": ["P10"], "status": "planned" },
+        { "id": "magic-bullet", "prereq": ["propaganda-public-opinion"], "minutes": 35, "ref": ["P10"], "status": "ready" },
         { "id": "payne-fund-mars", "prereq": ["magic-bullet"], "minutes": 30, "ref": [], "status": "planned" },
         { "id": "persuasion-yale", "prereq": ["payne-fund-mars"], "minutes": 35, "ref": ["P5"], "status": "planned" },
         { "id": "attitudes-consistency", "prereq": ["persuasion-yale"], "minutes": 35, "ref": ["P4", "P5"], "status": "planned" }
