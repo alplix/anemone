@@ -1,0 +1,16 @@
+{
+  "id": "merton",
+  "born": {
+    "year": 1910
+  },
+  "died": {
+    "year": 2003
+  },
+  "sources": [
+    "columbia-c250-merton",
+    "cole-2004-merton"
+  ],
+  "works": [
+    "merton-1949"
+  ]
+}

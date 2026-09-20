@@ -1,0 +1,10 @@
+{
+  "id": "falsifiability",
+  "lang": "tr",
+  "term": "yanlışlanabilirlik",
+  "altTerms": [],
+  "slug": "yanlislanabilirlik",
+  "short": "Bir kuramın, olası bir gözlemle bağdaşmayabilmesi; Popper’a göre bilimsel kuramı bilim dışı olandan ayıran ölçüt.",
+  "body": "Yanlışlanabilirlik (Karl Popper), bir kuramın olası bir gözlemle çelişebilecek biçimde ifade edilmesidir. Popper, Einstein’ın riskli, çürütülebilir öngörülerini, her insan davranışına uyan psikanalitik açıklamalarla karşılaştırdı. Kuramlar ona göre asla kesin doğrulanmaz; yalnızca sınavlardan geçerek desteklenir.\n\nEleştiri: bir öngörü tutmadığında, yanlış olanın kuram mı yoksa yardımcı varsayımlar mı olduğunu bilmek zor olabilir (Putnam, Lakatos); büyük kuramlar anomalilere rağmen yaşar (Kuhn). Popper yardımcı varsayımı değiştirmenin, yeni sınanabilir öngörüler doğurduğu sürece saygın olduğunu kabul etti. İletişimde nedensel iddialar için verimli bir soru; yorumlayıcı ve eleştirel kuramlara aynı sertlikle uygulanmaz.",
+  "example": "Hayal et: “Haber izleyenler etkilenir; etkilenmiyorlarsa gizli direnç vardır” diyen kuramı hiçbir gözlem çürütemez, o yüzden sınanabilirliği zayıftır."
+}

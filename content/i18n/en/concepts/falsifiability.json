@@ -1,0 +1,13 @@
+{
+  "id": "falsifiability",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "falsifiability",
+  "altTerms": [],
+  "slug": "falsifiability",
+  "short": "That a theory could turn out incompatible with some possible observation; for Popper, the criterion separating scientific from non-scientific theory.",
+  "body": "Falsifiability (Karl Popper) means stating a theory so that it could conflict with some possible observation. Popper contrasted Einstein’s risky, refutable predictions with psychoanalytic accounts that fit any human behaviour. In his view theories are never conclusively verified; they are only corroborated by surviving tests.\n\nCriticism: when a prediction fails, it can be hard to know whether the theory or the auxiliary assumptions are wrong (Putnam, Lakatos); big theories live on despite anomalies (Kuhn). Popper accepted that changing an auxiliary hypothesis is respectable as long as it yields new testable predictions. In communication it is a productive question for causal claims; it is not applied with the same strictness to interpretive and critical theories.",
+  "example": "Imagine a theory saying “news viewers are influenced; if they are not, there is hidden resistance”: no observation could refute it, so its testability is weak."
+}

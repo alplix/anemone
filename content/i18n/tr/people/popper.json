@@ -1,0 +1,20 @@
+{
+  "id": "popper",
+  "lang": "tr",
+  "name": "Karl Popper",
+  "nativeName": "",
+  "slug": "karl-popper",
+  "short": "Viyana doğumlu bilim felsefecisi (1902–1994); bilimsel kuramın yanlışlanabilir olması gerektiği ölçütüyle tanınır.",
+  "born": "Viyana",
+  "roles": [
+    "bilim felsefecisi"
+  ],
+  "bio": "Karl Popper 28 Temmuz 1902’de Viyana’da doğdu ve 1994’te öldü. Bilim felsefesinin en çok tartışılan isimlerinden biridir. Bilimi bilim olmayandan ayırma sorusuna yanıtı yanlışlanabilirliktir: bir kuram, olası bir gözlemle bağdaşmayabiliyorsa bilimseldir.\n\nBunu Einstein’ın riskli öngörüleri ile her insan davranışına uyan psikanalitik açıklamaları karşılaştırarak gösterdi. Ona göre kuramlar hiçbir zaman kesin doğrulanmaz; yalnızca sınavlardan geçerek desteklenir. Yardımcı varsayımları değiştirmenin, yeni sınanabilir öngörüler doğurduğu sürece saygın bilimsel uygulama olduğunu da kabul etti.\n\nAna eseri *Logik der Forschung* 1935’te Viyana’da yayımlandı; İngilizce çevirisi *The Logic of Scientific Discovery* 1959’da çıktı. Kuhn, Lakatos ve Putnam gibi düşünürler onun fikirlerini eleştirdi; bu eleştiriler bilim felsefesinin ana tartışma başlıklarından biri hâline geldi.",
+  "works": [
+    {
+      "bib": "popper-1959",
+      "note": "Yanlışlanabilirlik ölçütünün kaynağı; özgün adı Logik der Forschung (1935)."
+    }
+  ],
+  "inCourse": "Kuramı yargılamanın ilk sorusu olan sınanabilirlik, bu derste ([[lesson:what-is-theory]]) onun ölçütüyle ele alınır."
+}

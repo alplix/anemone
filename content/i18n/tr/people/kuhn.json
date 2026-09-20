@@ -1,0 +1,22 @@
+{
+  "id": "kuhn",
+  "lang": "tr",
+  "name": "Thomas S. Kuhn",
+  "nativeName": "",
+  "slug": "thomas-kuhn",
+  "short": "ABD’li bilim tarihçisi ve felsefecisi (1922–1996); “paradigma” kavramını bilimin işleyişini anlatan merkezi bir fikre dönüştürdü.",
+  "born": "Cincinnati",
+  "died": "Cambridge, Massachusetts",
+  "roles": [
+    "bilim tarihçisi",
+    "bilim felsefecisi"
+  ],
+  "bio": "Thomas S. Kuhn 1922’de Cincinnati’de doğdu ve 17 Haziran 1996’da Cambridge, Massachusetts’te öldü. 1979’da Princeton’dan MIT’ye geçti; 1982–1991 arasında Laurance S. Rockefeller Felsefe Profesörü’ydü, 1991’de emekli oldu.\n\n*The Structure of Scientific Revolutions* (1962, University of Chicago Press) kitabında bilimi birikimli bir ilerleme olarak değil, dönemlere ayrılan bir süreç olarak anlattı: paradigmanın bulmacalar sunduğu “normal bilim”, anomalilerin birikmesi, kriz ve devrim. Stanford Felsefe Ansiklopedisi’ne göre paradigma iki anlamda kullanılır: örnek niteliğindeki başarılar ve daha geniş bir “disipliner matris”. 1970’te kitabın ek yazılı ikinci baskısı çıktı.\n\nSosyal bilimler onun fikirlerini büyük bir coşkuyla benimsedi; kendisi ise sosyal bilimlerin uzun bir normal bilim dönemi sürdürebileceğinden şüpheliydi. Kitap bir milyonun üzerinde basıldı ve bir düzineden fazla dile çevrildi.",
+  "works": [
+    {
+      "bib": "kuhn-1962",
+      "note": "Paradigma kavramının ve normal bilim–devrim şemasının kaynağı."
+    }
+  ],
+  "inCourse": "“Paradigma” sözcüğünün gevşek kullanımına karşı, bu derste ([[lesson:what-is-theory]]) Kuhn’un kendi anlamı gösterilir."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "falsifiability",
+  "family": "method",
+  "introducedBy": [
+    "popper"
+  ],
+  "related": [
+    "theory",
+    "paradigm"
+  ],
+  "sources": [
+    "popper-1959",
+    "sep-popper",
+    "iep-popper"
+  ]
+}

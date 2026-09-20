@@ -1,0 +1,13 @@
+{
+  "id": "paradigm",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "paradigm",
+  "altTerms": [],
+  "slug": "paradigm",
+  "short": "In Kuhn, the exemplary achievements a scientific community shares, together with the beliefs, values and tools that go with them; in communication studies often used loosely for a “dominant approach”.",
+  "body": "Paradigm is used in two senses in Thomas Kuhn’s *The Structure of Scientific Revolutions* (1962): consensus on exemplary research achievements, and a broader “disciplinary matrix” of shared theoretical beliefs, values, instruments and techniques. In normal science a paradigm supplies puzzles and tools for solving them; when anomalies pile up, crisis and revolution follow.\n\nIn communication studies the word is often used more loosely: McQuail’s “dominant paradigm” and “alternative paradigm”, or the three paradigms of Potter and colleagues. These point to majority practice and a way of looking, not to the community consensus Kuhn meant.",
+  "example": "Potter, Cooper and Dupagne (1993): the social science paradigm was the majority in journals but could not be called “dominant” in the field."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "theory",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "theory",
+  "altTerms": [],
+  "slug": "theory",
+  "short": "A systematic set of ideas that helps make sense of a phenomenon, explain it, predict a consequence and guide action; in the strict sense, connected propositions from which observed regularities can be derived.",
+  "body": "In its broadest sense, a theory is any systematic set of ideas that helps make sense of a phenomenon, guide action or predict a consequence (McQuail). The strict sense is Merton’s: a set of logically connected propositions from which observed regularities can be derived. A theory is more than a single hypothesis or an isolated empirical generalisation: it contains the set of assumptions from which the generalisations themselves are derived.\n\nThat is why it matters to tell theory apart from hypothesis, model, paradigm and common sense. Details in the [[lesson:what-is-theory]] lesson.",
+  "example": "The “theory of relative deprivation”: people compare themselves with others they see as similar, so under some conditions those who suffered a bigger loss may feel less deprived (Merton 1949)."
+}

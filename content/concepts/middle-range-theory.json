@@ -1,0 +1,14 @@
+{
+  "id": "middle-range-theory",
+  "family": "method",
+  "introducedBy": [
+    "merton"
+  ],
+  "related": [
+    "theory"
+  ],
+  "sources": [
+    "merton-1949",
+    "cole-2004-merton"
+  ]
+}

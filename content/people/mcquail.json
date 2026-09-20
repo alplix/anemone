@@ -1,0 +1,16 @@
+{
+  "id": "mcquail",
+  "born": {
+    "year": 1935
+  },
+  "died": {
+    "year": 2017
+  },
+  "sources": [
+    "ssspace-mcquail-2017",
+    "ecrea-mcquail-2017"
+  ],
+  "works": [
+    "mcquail-2010"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "critical-research",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "critical research",
+  "altTerms": [
+    "critical theory"
+  ],
+  "slug": "critical-research",
+  "short": "In Lazarsfeld’s 1941 distinction, communication research that questions, on the basis of values, the media’s general role in society and the problems beneath it.",
+  "body": "Critical research is the other end of Lazarsfeld’s 1941 distinction. In McQuail’s summary, critical theory aims to expose underlying problems and faults in media practice and to relate them comprehensively to social issues in the light of certain values.\n\nMcQuail’s “alternative paradigm” overlaps with this line: it reads society critically, rejects value neutrality and abandons the transmission model. The distinction is not a sharp wall but a direction; according to Yavuz (2015), there has been a search for a midway between the two poles since the 1940s.",
+  "example": "A study of how media ownership and control shape the dominant ideology in news."
+}

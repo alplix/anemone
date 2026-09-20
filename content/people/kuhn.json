@@ -1,0 +1,16 @@
+{
+  "id": "kuhn",
+  "born": {
+    "year": 1922
+  },
+  "died": {
+    "year": 1996
+  },
+  "sources": [
+    "sep-kuhn",
+    "mit-news-kuhn-1996"
+  ],
+  "works": [
+    "kuhn-1962"
+  ]
+}

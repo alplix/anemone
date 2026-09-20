@@ -1,0 +1,24 @@
+{
+  "id": "mcquail",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "name": "Denis McQuail",
+  "nativeName": "",
+  "slug": "denis-mcquail",
+  "short": "British communication theorist (1935–2017); author of the textbook “Mass Communication Theory”.",
+  "born": "London",
+  "roles": [
+    "communication theorist",
+    "professor at the University of Amsterdam"
+  ],
+  "bio": "Denis McQuail was born in London on 12 April 1935 and died on 25 June 2017. He read history at Oxford (1958) and completed his doctorate at Leeds (1967). He was a lecturer in sociology at Leeds; from 1977 he held the chair in communications at the University of Amsterdam, retiring in 1997.\n\n*Mass Communication Theory* first appeared in 1983 as a short 245-page introduction; by its sixth edition it ran to 621 pages, had been translated into 22 languages and had sold over 120,000 copies. The book is known for placing theories into kinds, paradigms and axes rather than just listing them. He refined the uses-and-gratifications approach, worked with Jay Blumler on political communication, and was among the founders of the *European Journal of Communication*.\n\nYou will meet part of his mapping work in this lesson: kinds of theory, media-centric and society-centric views, dominant and alternative paradigms.",
+  "works": [
+    {
+      "bib": "mcquail-2010",
+      "note": "The 6th edition, read for the kinds of theory and the four-perspective scheme."
+    }
+  ],
+  "inCourse": "The main source of this lesson’s ([[lesson:what-is-theory]]) classification schemes."
+}

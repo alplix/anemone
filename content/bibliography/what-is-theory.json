@@ -1,0 +1,276 @@
+{
+  "lazarsfeld-1949": {
+    "type": "article",
+    "authors": ["Lazarsfeld, Paul F."],
+    "year": 1949,
+    "title": "The American Soldier—An expository review",
+    "container": "Public Opinion Quarterly", "volume": "13", "issue": "3", "pages": "377-404",
+    "doi": "10.1086/266089",
+    "verified": { "status": "ok", "methods": ["crossref", "source-itself"], "date": "2026-09-20", "note": "Crossref record matched (gives first page 377 only). The full text (a 28-page scan of the journal issue, pp. 377-404, hosted on gwern.net) was read: the six 'obvious' statements with their common-sense glosses, the claim that every one is the direct opposite of what was found, and the passages on regularities and 'obviousness' were checked against the text. Only three of the six items (education and neurosis, rural vs. city morale, Southern vs. Northern soldiers in the tropics) are used in the lesson." }
+  },
+  "lazarsfeld-1941": {
+    "type": "article",
+    "authors": ["Lazarsfeld, Paul F."],
+    "year": 1941,
+    "title": "Remarks on administrative and critical communications research",
+    "container": "Studies in Philosophy and Social Science", "volume": "9", "issue": "1", "pages": "2-16",
+    "doi": "10.5840/zfs1941912",
+    "verified": { "status": "ok", "methods": ["crossref", "publisher-page", "second-source"], "date": "2026-09-20", "note": "Crossref and the Philosophy Documentation Center page give volume 9, issue 1, pp. 2-16, 1941 (the PDC/Crossref record lists the journal under its German title Zeitschrift für Sozialforschung; McQuail 2010 and Pooley & Jerabek 2022 cite the same essay as Studies in Philosophy and Social Science 9(1), 2-16). The essay itself was NOT read; the lesson uses only what McQuail 2010 (critical vs. administrative orientation), Shepperd 2022 (a short quotation) and Pooley & Jerabek 2022 (its place in the Lazarsfeld-Adorno relationship, published in the Frankfurt Institute's house journal) report about it." }
+  },
+  "merton-1949": {
+    "type": "book",
+    "authors": ["Merton, Robert K."],
+    "year": 1949,
+    "title": "Social theory and social structure",
+    "publisher": "Free Press", "place": "Glencoe, Ill.", "edition": "1st ed.",
+    "verified": { "status": "ok", "methods": ["open-library", "source-itself"], "date": "2026-09-20", "note": "Open Library lists 1949 Free Press (Glencoe, Ill.) editions. The chapter 'On sociological theories of the middle range' was read as an anthology excerpt (12 pages, headed '[1949]', 'pp. 39-53 from Merton, Social Theory and Social Structure (New York: Simon & Schuster, The Free Press, 1949)'). That publisher line belongs to a later edition, so the exact wording of the excerpt may come from an enlarged edition; the lesson paraphrases the ideas and attributes them to Merton (1949), as the reprint does. The idea of 'theories of the middle range' is also attributed to Merton in Cole 2004 (obituary) and in the EBSCO Research Starters entry." }
+  },
+  "mcquail-2010": {
+    "type": "book",
+    "authors": ["McQuail, Denis"],
+    "year": 2010,
+    "title": "McQuail's mass communication theory",
+    "publisher": "SAGE Publications", "place": "London", "edition": "6th ed.",
+    "verified": { "status": "ok", "methods": ["open-library", "source-itself"], "date": "2026-09-20", "note": "Title page of a full-text copy read ('6th edition', Sage Publications Ltd, London; LCCN 2009932171; ISBN 978-1-84920-291-6; earlier editions 1983, 1987, 1994, 2000, 2005); Open Library lists the 2010 SAGE editions (ISBNs 9781849202916, 9781849202923). The copy was a third-party-hosted PDF; it was used only to check facts. Passages used: Chapter 1 ('Different kinds of theory', Figure 1.1 'Dimensions and types of media theory', the critical vs. administrative orientation of Lazarsfeld 1941, the definition of communication science by Berger and Chaffee 1987, difficulty of testing media theories, western bias); Chapter 3 ('The rise of a dominant paradigm', 'An alternative, critical paradigm', 'Paradigms compared', Potter et al. 1993, Meyrowitz 2008, Fink and Gantz 1996, Gitlin 1978). All wording in the lesson is our own." }
+  },
+  "mcquail-2000": {
+    "type": "book",
+    "authors": ["McQuail, Denis"],
+    "year": 2000,
+    "title": "McQuail's mass communication theory",
+    "publisher": "Sage Publications", "place": "London", "edition": "4th ed.",
+    "verified": { "status": "ok", "methods": ["open-library", "second-source"], "date": "2026-09-20", "note": "Open Library lists the 2000 Sage edition (London/Thousand Oaks). The passage 'at least four kinds of theory ... social scientific, normative, operational and everyday theory' (2000: 7-8) was read as quoted in a graduate-course handout (Siregar, 'Kedudukan teori media dalam kajian budaya'), and the 6th edition (mcquail-2010) was read directly, where the same list has five items (cultural theory added). The 4th edition itself was not opened." }
+  },
+  "craig-1999": {
+    "type": "article",
+    "authors": ["Craig, Robert T."],
+    "year": 1999,
+    "title": "Communication theory as a field",
+    "container": "Communication Theory", "volume": "9", "issue": "2", "pages": "119-161",
+    "doi": "10.1111/j.1468-2885.1999.tb00355.x",
+    "verified": { "status": "ok", "methods": ["crossref", "publisher-page", "openalex-abstract"], "date": "2026-09-20", "note": "Crossref, the Oxford Academic abstract page and the OpenAlex abstract agree on bibliographic data and abstract wording (seven traditions named; 'tentative scheme of the field'). The article's full text was not read; the one-line characterisations of each tradition come from a LibreTexts table that cites Craig 1999 (libretexts-craig-table)." }
+  },
+  "craig-2007": {
+    "type": "article",
+    "authors": ["Craig, Robert T."],
+    "year": 2007,
+    "title": "Pragmatism in the field of communication theory",
+    "container": "Communication Theory", "volume": "17", "issue": "2", "pages": "125-145",
+    "doi": "10.1111/j.1468-2885.2007.00292.x",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract"], "date": "2026-09-20", "note": "Crossref record matched; abstract read via OpenAlex (reconsiders the 1999 metamodel in light of Russill's proposal of a pragmatist tradition). Full text not read." }
+  },
+  "craig-2009": {
+    "type": "article",
+    "authors": ["Craig, Robert T."],
+    "year": 2009,
+    "title": "Reflection on “Communication theory as a field”",
+    "container": "Revue internationale de communication sociale et publique", "volume": "2", "pages": "7-12",
+    "doi": "10.4000/communiquer.346",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract"], "date": "2026-09-20", "note": "Crossref record matched; the (truncated) abstract read via OpenAlex says the article is cited mostly as a gesture toward the field or toward 'the famous seven traditions'. Full text not read (the OpenEdition page returned 404 when fetched)." }
+  },
+  "craig-muller-2007": {
+    "type": "book",
+    "editors": ["Craig, Robert T.", "Muller, Heidi L."],
+    "authors": ["Craig, Robert T.", "Muller, Heidi L."],
+    "year": 2007,
+    "title": "Theorizing communication: Readings across traditions",
+    "publisher": "SAGE Publications",
+    "verified": { "status": "ok", "methods": ["publisher-page", "open-library", "review-record"], "date": "2026-09-20", "note": "Publisher (Sage) page: editors Craig and Muller, April 2007, an anthology of primary readings organised around the seven traditions (rhetorical, semiotic, phenomenological, cybernetic, sociopsychological, sociocultural, critical). Open Library lists it (Sage, 2007); a review record in European Journal of Communication 23(2) (Crossref 10.1177/02673231080930020502) also lists the volume as Sage, 2007." }
+  },
+  "potter-cooper-dupagne-1993": {
+    "type": "article",
+    "authors": ["Potter, W. James", "Cooper, Roger", "Dupagne, Michel"],
+    "year": 1993,
+    "title": "The three paradigms of mass media research in mainstream communication journals",
+    "container": "Communication Theory", "volume": "3", "issue": "4", "pages": "317-335",
+    "doi": "10.1111/j.1468-2885.1993.tb00077.x",
+    "verified": { "status": "ok", "methods": ["crossref", "publisher-page", "openalex-abstract"], "date": "2026-09-20", "note": "Crossref, the Oxford Academic abstract page and the OpenAlex abstract agree. The abstract gives: eight major communication journals, six characteristics coded; social science paradigm over 60%, interpretive about 34%, critical less than 6% of studies; social science paradigm 'the majority paradigm' but not 'dominant'; most social-science-style work failed to meet the standards on theoretical orientation and probability sampling. Only the abstract was read." }
+  },
+  "meyrowitz-2008": {
+    "type": "article",
+    "authors": ["Meyrowitz, Joshua"],
+    "year": 2008,
+    "title": "Power, pleasure, patterns: Intersecting narratives of media influence",
+    "container": "Journal of Communication", "volume": "58", "issue": "4", "pages": "641-663",
+    "doi": "10.1111/j.1460-2466.2008.00406.x",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract", "second-source"], "date": "2026-09-20", "note": "Crossref record matched; the abstract (the rat joke about observer bias and the three research camps watching a family with television news) read via OpenAlex; McQuail 2010 (Chapter 3) independently reports the three 'root narratives' of power, pleasure and pattern. Only the abstract was read." }
+  },
+  "popper-1959": {
+    "type": "book",
+    "authors": ["Popper, Karl R."],
+    "year": 1959,
+    "title": "The logic of scientific discovery",
+    "publisher": "Hutchinson", "place": "London",
+    "originalYear": 1935, "originalTitle": "Logik der Forschung",
+    "verified": { "status": "ok", "methods": ["open-library", "reference-work"], "date": "2026-09-20", "note": "Open Library: Logik der Forschung, Wien, J. Springer, 1935; The logic of scientific discovery, London, Hutchinson, 1959. The Stanford Encyclopedia entry (Thornton) lists the 1935 Springer original and the 1959 English translation; the Internet Encyclopedia of Philosophy also dates the German original 1935. (Some sources say 1934, the actual publication year; the title page and catalogues say 1935.)" }
+  },
+  "kuhn-1962": {
+    "type": "book",
+    "authors": ["Kuhn, Thomas S."],
+    "year": 1962,
+    "title": "The structure of scientific revolutions",
+    "publisher": "University of Chicago Press", "place": "Chicago",
+    "verified": { "status": "ok", "methods": ["open-library", "reference-work", "obituary"], "date": "2026-09-20", "note": "Open Library lists University of Chicago Press editions from 1962; the Stanford Encyclopedia entry (Bird) gives 1962 and the second edition of 1970 with a postscript; the MIT obituary (1996) gives 1962." }
+  },
+  "sep-popper": {
+    "type": "web",
+    "authors": ["Thornton, Stephen"],
+    "year": 2026,
+    "title": "Karl Popper",
+    "publisher": "Stanford Encyclopedia of Philosophy",
+    "url": "https://plato.stanford.edu/entries/popper/", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["reference-work", "page-read"], "date": "2026-09-20", "note": "Page read (first published 13 Nov 1997; substantive revision 31 Jul 2026 as displayed). Used for: birth (Vienna, 1902) and death (1994), Logik der Forschung 1935 / English 1959, falsifiability as demarcation criterion, Einstein vs. Freud/Adler contrast, Eddington 1919, theories 'corroborated but never verified', criticisms (auxiliary hypotheses, Lakatos, Kuhn) and Popper's reply on ad hoc modifications." }
+  },
+  "iep-popper": {
+    "type": "web",
+    "authors": ["Shea, Brendan"],
+    "title": "Karl Popper: Philosophy of science",
+    "publisher": "Internet Encyclopedia of Philosophy",
+    "url": "https://iep.utm.edu/pop-sci/", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["reference-work", "page-read"], "date": "2026-09-20", "note": "Page read; author name as reported by the page fetch. Used for: Popper 1902-1994, falsifiability, the Einstein/psychoanalysis/Marxism contrast, ad hoc immunization, criticisms by Kuhn and Putnam." }
+  },
+  "sep-kuhn": {
+    "type": "web",
+    "authors": ["Bird, Alexander"],
+    "year": 2025,
+    "title": "Thomas Kuhn",
+    "publisher": "Stanford Encyclopedia of Philosophy",
+    "url": "https://plato.stanford.edu/entries/thomas-kuhn/", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["reference-work", "page-read"], "date": "2026-09-20", "note": "Page read (first published 13 Aug 2004; substantive revision 2 Sep 2025 as displayed). Used for: Kuhn 1922-1996, Structure of Scientific Revolutions 1962 (University of Chicago Press) and 2nd ed. 1970 with postscript, paradigm as exemplar and as disciplinary matrix, 'pre-paradigm' period, normal science-anomaly-crisis-revolution, Kuhn's reception in the social sciences and his doubts about normal science there." }
+  },
+  "mit-news-kuhn-1996": {
+    "type": "web",
+    "anonymous": true,
+    "year": 1996,
+    "title": "Prof. Thomas S. Kuhn of MIT, noted historian of science, dead at 73",
+    "publisher": "MIT News Office",
+    "url": "https://news.mit.edu/1996/kuhn", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["obituary", "page-read"], "date": "2026-09-20", "note": "Page read (18 Jun 1996): born Cincinnati 1922, died Cambridge, Massachusetts, 17 Jun 1996; joined MIT in 1979 from Princeton; The Structure of Scientific Revolutions (1962)." }
+  },
+  "columbia-c250-merton": {
+    "type": "web",
+    "anonymous": true,
+    "title": "Robert King Merton (Remarkable Columbians)",
+    "publisher": "Columbia University, Columbia 250",
+    "url": "https://c250.columbia.edu/c250_celebrates/remarkable_columbians/robert_king_merton.html", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["institutional-page", "page-read"], "date": "2026-09-20", "note": "Page read: born 1910 in Philadelphia, died February 2003; joined the Columbia faculty in 1941; co-founded the Bureau of Applied Social Research with Lazarsfeld; concepts such as self-fulfilling prophecy; National Medal of Science 1994." }
+  },
+  "cole-2004-merton": {
+    "type": "article",
+    "authors": ["Cole, Jonathan R."],
+    "year": 2004,
+    "title": "Robert K. Merton, 1910-2003",
+    "container": "Scientometrics", "volume": "60", "issue": "1", "pages": "37-40",
+    "doi": "10.1023/b:scie.0000027305.61662.68",
+    "verified": { "status": "ok", "methods": ["crossref", "full-text"], "date": "2026-09-20", "note": "Crossref record matched; the obituary was read in full: dates 1910-2003, 'theories of the middle range' as his American style of sociological inquiry linking theory closely with empirical testing, coined terms such as the focus group and the self-fulfilling prophecy, National Medal of Science." }
+  },
+  "ssspace-mcquail-2017": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2017,
+    "title": "The theorist of mass communication: Denis McQuail, 1935-2017",
+    "publisher": "Social Science Space (SAGE)",
+    "url": "https://www.socialsciencespace.com/2017/07/theorist-mass-communication-denis-mcquail-1935-2017/", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["obituary", "page-read"], "date": "2026-09-20", "note": "Page read: born 12 April 1935 in London, died 25 June 2017; Oxford BA in history 1958, Leeds PhD 1967; lecturer at Leeds, professor at Amsterdam from 1977; the textbook first published 1983 (245 pages), 6th edition 621 pages." }
+  },
+  "ecrea-mcquail-2017": {
+    "type": "web",
+    "anonymous": true,
+    "title": "A tribute to Denis McQuail (1935-2017)",
+    "publisher": "ECREA (European Communication Research and Education Association)",
+    "url": "https://www.ecrea.eu/news/4959032", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["obituary", "page-read"], "date": "2026-09-20", "note": "Page read: 1935-2017, died 25 June; PhD Leeds 1967; chair in communications at Amsterdam 1977, retired 1997; Mass Communication Theory first published 1983." }
+  },
+  "colorado-craig": {
+    "type": "web",
+    "anonymous": true,
+    "title": "Robert T. Craig (faculty emeritus profile)",
+    "publisher": "University of Colorado Boulder, College of Communication, Media, Design and Information",
+    "url": "https://www.colorado.edu/cmdi/people/faculty-emeritus/robert-t-craig", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["institutional-page", "page-read"], "date": "2026-09-20", "note": "Page read: professor emeritus; specialization in communication theory and philosophy, discourse analysis, argumentation; joined the faculty in 1990, chair 2001-2005, retired from full-time teaching in 2014; NCA Distinguished Scholar; fellow and past president of ICA; founding editor of Communication Theory." }
+  },
+  "intellect-craig": {
+    "type": "web",
+    "anonymous": true,
+    "title": "About Robert T. Craig",
+    "publisher": "Intellect Books",
+    "url": "https://www.intellectbooks.com/robert-t-craig", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["publisher-page", "page-read"], "date": "2026-09-20", "note": "Page read: professor emeritus of communication at the University of Colorado Boulder; fellow and former president of ICA; founded the journal Communication Theory; co-edits the International Encyclopedia of Communication Theory and Philosophy." }
+  },
+  "bedeian-2016": {
+    "type": "article",
+    "authors": ["Bedeian, Arthur G."],
+    "year": 2016,
+    "title": "A note on the aphorism “there is nothing as practical as a good theory”",
+    "container": "Journal of Management History", "volume": "22", "issue": "2", "pages": "236-242",
+    "doi": "10.1108/jmh-01-2016-0004",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract"], "date": "2026-09-20", "note": "Crossref record matched; abstract read via OpenAlex: the aphorism is traced back through General Electric's use in the 1920s to Friedrich W. Dörpfeld's 1873 book Grundlinien einer Theorie des Lehrplans, so it did not originate with Lewin. Full text not read." }
+  },
+  "mccain-2015": {
+    "type": "article",
+    "authors": ["McCain, Katherine W."],
+    "year": 2015,
+    "title": "“Nothing as practical as a good theory”: Does Lewin's maxim still have salience in the applied social sciences?",
+    "container": "Proceedings of the Association for Information Science and Technology", "volume": "52", "issue": "1", "pages": "1-4",
+    "doi": "10.1002/pra2.2015.145052010077",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract"], "date": "2026-09-20", "note": "Crossref record matched; abstract read via OpenAlex: 693 English-language journal articles from 1945-2013 using variants of the maxim, about 70% in psychology, management and education. Full text not read." }
+  },
+  "pooley-jerabek-2022": {
+    "type": "article",
+    "authors": ["Pooley, Jefferson", "Jeřábek, Hynek"],
+    "year": 2022,
+    "title": "Lazarsfeld's legacy: Introduction",
+    "container": "International Journal of Communication", "volume": "16", "pages": "604-607",
+    "url": "https://ijoc.org/index.php/ijoc/article/download/18657/3662",
+    "verified": { "status": "ok", "methods": ["full-text", "journal-site"], "date": "2026-09-20", "note": "Open-access PDF read in full (International Journal of Communication 16(2022), Forum 604-607). Used for: the 'apolitical positivist' caricature (Mills 1959, Gitlin 1978, Hall 1982), 'administrative research' as Adorno's unflattering shorthand, Lazarsfeld's 1941 essay in the Frankfurt Institute's house journal, his mixing of qualitative and quantitative methods, the 'tightrope walker' remark (1948), his friendship with Noelle-Neumann after 1960. No DOI found." }
+  },
+  "shepperd-2022": {
+    "type": "article",
+    "authors": ["Shepperd, Josh"],
+    "year": 2022,
+    "title": "Theodor Adorno, Paul Lazarsfeld, and the public interest mandate of early communications research, 1935-1941",
+    "container": "Communication Theory", "volume": "32", "issue": "1", "pages": "142-160",
+    "doi": "10.1093/ct/qtab009",
+    "verified": { "status": "ok", "methods": ["crossref", "full-text"], "date": "2026-09-20", "note": "Crossref record matched (online 2021, issue 2022); the author-accepted 26-page PDF was read. Used for: the Communications Act of 1934 'public interest' mandate and educational broadcasting as the context of the Princeton Radio Research Project, Rockefeller Foundation funding, Adorno brought to the project in the late 1930s, Lazarsfeld's 1941 description of administrative research as a 'tool handled by people or agencies for given purposes'. The article's account is one scholar's archival reading and is presented as such." }
+  },
+  "libretexts-craig-table": {
+    "type": "web",
+    "anonymous": true,
+    "title": "Organizational communication: Theory, research and practice, section 4.3 Rethinking communication",
+    "publisher": "LibreTexts (Social Sciences)",
+    "url": "https://socialsci.libretexts.org/Bookshelves/Communication/Book:_Organizational_Communication_-_Theory_Research_and_Practice/04:_Modern_Theories_of_Organizational_Communication/4.03:_Rethinking_Communication", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["page-read", "second-source"], "date": "2026-09-20", "note": "Table 4.1 read; it cites Craig 1999 and gives, for each of the seven traditions, the phrase for what communication is 'theorized as': cybernetic 'information processing', phenomenological 'experience of otherness', sociopsychological 'expression, interaction, influence', sociocultural '(re)production of social order', semiotic 'intersubjective mediation by signs', critical 'discursive reflection', rhetorical 'practical art of discourse'. The same phrases for four traditions appeared in a second, independent teaching text seen in search results (not opened because of a 403)." }
+  },
+  "wikibooks-comm-theory": {
+    "type": "web",
+    "anonymous": true,
+    "title": "Survey of communication study, chapter 5: Communication theory",
+    "publisher": "Wikibooks",
+    "url": "https://en.wikibooks.org/wiki/Survey_of_Communication_Study/Chapter_5_-_Communication_Theory", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["page-read", "second-source"], "date": "2026-09-20", "note": "Page read: attributes to Littlejohn and Foss six criteria for evaluating theory (scope, parsimony, heuristic value, openness, appropriateness, validity) and lists functions of theory. The identical list appears in libretexts-evaluating-theories. The Littlejohn and Foss book itself was not opened, so the lesson says 'as textbooks summarise Littlejohn and Foss'." }
+  },
+  "libretexts-evaluating-theories": {
+    "type": "web",
+    "anonymous": true,
+    "title": "Fundamentals of communication, section 3.7 Evaluating theories",
+    "publisher": "LOUIS: The Louisiana Library Network (via LibreTexts)",
+    "url": "https://socialsci.libretexts.org/Bookshelves/Communication/Introduction_to_Communication/Fundamentals_of_Communication/03:_Communication_Theory/3.07:_Evaluating_Theories", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["page-read"], "date": "2026-09-20", "note": "Page read (CC BY 4.0 open textbook): six criteria named scope, parsimony, heuristic value, openness, appropriateness, validity, each with a one-line description; does not mention Popper or falsifiability." }
+  },
+  "erdogan-keloglu-durmus-2005": {
+    "type": "article",
+    "authors": ["Erdoğan, İrfan", "Keloğlu-İşler, Esra", "Durmuş, Nurgül"],
+    "year": 2005,
+    "title": "Kitle iletişiminde pozitivist ampirik geleneğin kuruluşu: Lazarsfeld ve yönetimsel araştırmalar",
+    "container": "İletişim Kuram ve Araştırma Dergisi", "issue": "21", "pages": "1-13",
+    "verified": { "status": "ok", "methods": ["repository-record", "journal-toc"], "date": "2026-09-20", "note": "A university research-repository record gives the title, issue 21, 2005, pp. 1-13 (author order there: Durmuş Şenyapar, Erdoğan, Keloğlu İşler); the journal's own 2005/21 table of contents lists it on p. 1 with Erdoğan, Keloğlu-İşler, Durmuş. Only the title and the fact that it treats Lazarsfeld's 'yönetimsel araştırmalar' as the founding of the positivist empirical tradition are used. The article text was not read; no DOI." }
+  },
+  "yavuz-2015": {
+    "type": "article",
+    "authors": ["Yavuz, Şahinde"],
+    "year": 2015,
+    "title": "Kitle iletişim araştırmalarında anadamar/çoğulcu ve eleştirel/radikal kuram arasında yöndeşme tartışmaları",
+    "container": "Karadeniz Teknik Üniversitesi İletişim Araştırmaları Dergisi", "volume": "5", "issue": "1", "pages": "25-39",
+    "verified": { "status": "ok", "methods": ["publisher-page", "abstract-read"], "date": "2026-09-20", "note": "DergiPark article page read twice (June 2015, vol. 5 no. 1, pp. 25-39); Turkish and English abstracts read (search for a midway between mainstream/pluralist and critical/radical poles since the 1940s; neither tradition fixed; keywords convergence/yöndeşme). Full text not read; no DOI used (the page displays a non-standard identifier)." }
+  }
+}

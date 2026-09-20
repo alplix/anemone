@@ -1,0 +1,24 @@
+{
+  "id": "craig",
+  "lang": "tr",
+  "name": "Robert T. Craig",
+  "nativeName": "",
+  "slug": "robert-t-craig",
+  "short": "ABD’li iletişim kuramcısı; 1999 tarihli makalesiyle iletişim kuramını “yedi gelenek” olarak haritalandırdı.",
+  "roles": [
+    "iletişim kuramcısı",
+    "Colorado Boulder Üniversitesi emekli profesörü"
+  ],
+  "bio": "Robert T. Craig, Colorado Boulder Üniversitesi’nde iletişim alanında emekli profesördür. İletişim kuramı ve felsefesi, söylem çözümlemesi ve argümantasyon üzerine çalışır. 1990’da bu üniversitenin kadrosuna katıldı, 2001–2005 arasında bölüm başkanlığı yaptı, 2014’te tam zamanlı öğretmenlikten emekli oldu.\n\nUluslararası İletişim Derneği’nin (ICA) üyesi ve eski başkanı, Ulusal İletişim Derneği’nin (NCA) “seçkin bilim insanı”, ICA’nın *Communication Theory* dergisinin kurucu editörüdür. *International Encyclopedia of Communication Theory and Philosophy*’nin ortak editörlerinden biri olarak anılır.\n\n1999’da *Communication Theory* dergisinde yayımlanan “Communication Theory as a Field” makalesinde iletişim kuramını, iletişimi farklı biçimlerde tanımlayan yedi gelenek arasında bir diyalog olarak yeniden kurmayı önerdi. Heidi L. Muller’la birlikte derlediği *Theorizing Communication* (2007) bu yedi geleneğe göre düzenlenmiş bir okuma kitabıdır.",
+  "works": [
+    {
+      "bib": "craig-1999",
+      "note": "Yedi gelenek şemasının ve “üstsöylem” fikrinin kaynağı."
+    },
+    {
+      "bib": "craig-muller-2007",
+      "note": "Şemaya göre düzenlenmiş birincil kaynak okumaları."
+    }
+  ],
+  "inCourse": "Dersin ([[lesson:what-is-theory]]) “iletişim nedir?” sorusuna yedi cevap veren haritasını sunar."
+}

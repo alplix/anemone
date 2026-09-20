@@ -1,0 +1,842 @@
+{
+  "id": "what-is-theory",
+  "lang": "en",
+  "translation": {
+    "status": "machine",
+    "date": "2026-09-20"
+  },
+  "title": "What Is a Theory? Paradigms and Classifications",
+  "slug": "what-is-a-theory",
+  "description": "How do theory, hypothesis, model and paradigm differ? A reusable map for classifying and judging theories, with Merton, Popper, Kuhn, McQuail and Craig.",
+  "claim": "A theory is a systematic set of ideas that helps make sense of a phenomenon, explain it, predict it and guide action; in communication there is no single “true” theory, only many traditions asking different questions; so a theory should be read not by “is it true?” but by “what does it ask, what does it see, what can it not see?”",
+  "keywords": [
+    "what is a theory",
+    "hypothesis",
+    "model",
+    "paradigm",
+    "middle-range theory",
+    "Merton",
+    "Popper",
+    "falsifiability",
+    "Kuhn",
+    "McQuail",
+    "Craig",
+    "seven traditions",
+    "dominant paradigm",
+    "administrative research",
+    "critical research"
+  ],
+  "updated": "2026-09-20",
+  "timeline": {
+    "popper-logik": "Popper, Logik der Forschung: the falsifiability criterion (English 1959)",
+    "lazarsfeld-remarks": "Lazarsfeld, the distinction between administrative and critical communication research",
+    "american-soldier-review": "Lazarsfeld’s American Soldier review: the “obvious” list",
+    "merton-middle-range": "Merton, Social Theory and Social Structure: middle-range theories",
+    "kuhn-structure": "Kuhn, The Structure of Scientific Revolutions: the paradigm",
+    "three-paradigms-count": "Potter, Cooper and Dupagne: counting three paradigms in journals",
+    "craig-seven-traditions": "Craig, Communication Theory as a Field: seven traditions",
+    "meyrowitz-narratives": "Meyrowitz: the narratives of power, pleasure and pattern",
+    "mcquail-sixth-edition": "McQuail, Mass Communication Theory, 6th edition (first edition 1983)"
+  },
+  "cards": [
+    {
+      "id": "ctx-obvious",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "Three “obvious” statements, all three backwards",
+      "body": "Autumn 1949. The sociologist [[person:lazarsfeld|Paul Lazarsfeld]] is writing a piece introducing the first two volumes of *The American Soldier*, the summary of the huge studies the US Army had carried out on its soldiers during the war. The Army’s research branch had done about 300 studies and piled up more than 600,000 interviews. [[cite:lazarsfeld-1949]]\n\nHe opens with a game: he lists a few “findings” and next to each puts a reason that makes you say “of course.” Try it yourself:\n\n- Better-educated soldiers showed more symptoms of psychological disturbance than the less educated. (Intellectuals are known to be sensitive.)\n- Soldiers of rural background were in better spirits than city soldiers. (They are used to hardship.)\n- Southern soldiers stood up to the climate of the hot Pacific islands better than Northerners. (They are used to the heat.)\n\nDid you buy it? Lazarsfeld explains: every statement on the list was the direct opposite of what was actually found. The less educated soldiers showed more symptoms; Southerners did not adapt to the tropical climate any better than Northerners. [[cite:lazarsfeld-1949]]\n\nThe real point: had he announced the true results first, the reader would have called those “obvious” too. Human beings can react in any number of ways; what matters is knowing which reactions are common under which conditions. [[cite:lazarsfeld-1949]] Everyday common sense finds a reason for any result after the fact. A theory has to speak beforehand.",
+      "question": {
+        "id": "ctx-obvious-q",
+        "type": "mcq",
+        "prompt": "What is the main lesson of Lazarsfeld’s “obvious” list?",
+        "options": [
+          "All common beliefs about soldiers are wrong.",
+          "That a result feels “obvious” once you hear it does not show it was known in advance; common sense can find a reason for any result.",
+          "Surveys only confirm what everybody already knows.",
+          "The higher the education, the worse the mental health."
+        ],
+        "answer": 1,
+        "explain": "Lazarsfeld turns the objection “surveys only tell us the obvious” on its head: unless you knew the result beforehand, saying “obvious” is easy. The first option overgeneralises: the author does not say common sense is always wrong, only that it was reversed in these examples. The third option is the very objection he answers, and the fourth states the opposite of the finding (the less educated soldiers showed more symptoms)."
+      }
+    },
+    {
+      "id": "ctx-lenses",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "The same living room, three different pairs of glasses",
+      "body": "Joshua Meyrowitz opens a 2008 article with a joke. Scientists from different countries study the same rats. Each group “discovers” in the rats the traits that fit the stereotype of its own country: one sees orderly hierarchies, another animals driven by the impulse of the moment, a third creative long-term adaptations. Everyone sees what they already “know.” [[cite:meyrowitz-2008]] Meyrowitz calls it a joke about observer bias; but he adds that something similar probably lies beneath all our ways of knowing about human communication. [[cite:meyrowitz-2008]]\n\nThen he sets a scene: a family is watching the television news. One research camp sees the family exposed to a dominant ideological text. Another sees the family using the media for ends that are useful and pleasant to them: keeping watch on the world, socialising the children, finding something to talk about. A third looks neither at content nor at intentions but at the structure of interaction the medium creates: television, unlike the newspaper, puts family members of different ages and genders into the same experience. [[cite:meyrowitz-2008]] McQuail reports these three narratives under Meyrowitz’s labels “power, pleasure and pattern.” [[cite:mcquail-2010]]\n\nWhy so many views? McQuail gives one reason plainly: there is no single definition of “communication” that everyone agrees on. Some take it to mean transmitting information, some giving and taking meaning, some sharing, some exerting influence. On top of that the field grew out of the meeting of many disciplines. [[cite:mcquail-2010]] This lesson is here to help you find your way through that crowd.",
+      "question": {
+        "id": "ctx-lenses-q",
+        "type": "mcq",
+        "prompt": "A researcher argues that a family watches the evening news to have something to talk about with the neighbours and to keep an eye on what is happening in the world. Which of Meyrowitz’s three narratives is this closest to?",
+        "options": [
+          "Power: the family is crushed under a dominant ideological text.",
+          "Pleasure: the family uses the media for ends useful and pleasing to it.",
+          "Pattern: what matters is the structure the medium creates.",
+          "All three say the same thing, so there is no difference."
+        ],
+        "answer": 1,
+        "explain": "A view that sees the audience actively using media for its own purposes is close to the “pleasure” narrative. The “power” narrative stresses a dominant ideological text and resistance to it; “pattern” looks at the structure of the medium rather than content. The last option contradicts the starting point of this lesson: the same scene looks different through different glasses."
+      }
+    },
+    {
+      "id": "deep-visibility",
+      "section": "context",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep: Lazarsfeld’s “invisible society” argument",
+      "body": "The paragraphs around the “obvious” game explain why Lazarsfeld was not bothered that surveys produce “ordinary” findings. For him, finding regularities is the beginning of every science; to build theories you need to know what people usually do under various conditions, and before designing an experiment you need to know which problems are worth pursuing. [[cite:lazarsfeld-1949]]\n\nThe difference between the social and natural sciences is that social events are much less “visible” than events in nature: that bodies fall to the ground is obvious; that notions of right and wrong vary across cultures, or that customs can serve a function different from what people believe, is not obvious at all. So when a study reports a prevailing regularity, it is easy for the reader to say “of course, that’s how it is.” [[cite:lazarsfeld-1949]]\n\nThe link to the lesson’s main idea: everyday common sense overstates its power to predict by calling “invisible” social regularities obvious after the fact. A theory is insurance against that overstatement, because it has to speak before the result."
+    },
+    {
+      "id": "people-cast",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "text",
+      "title": "The names and years you will meet in this lesson",
+      "body": "For exams, it helps more to know who answered which question than to memorise years. Still, here is the skeleton of the lesson:\n\n- **1935 – [[person:popper|Karl Popper]]:** *Logik der Forschung*, later *The Logic of Scientific Discovery* (English 1959). The idea that a scientific theory must be falsifiable. [[cite:popper-1959]]\n- **1941 – [[person:lazarsfeld|Paul Lazarsfeld]]:** the distinction between “administrative” and “critical” communication research. [[cite:lazarsfeld-1941]]\n- **1949 – [[person:merton|Robert K. Merton]]:** *Social Theory and Social Structure* and “theories of the middle range.” [[cite:merton-1949]] The same year Lazarsfeld’s *American Soldier* review appeared. [[cite:lazarsfeld-1949]]\n- **1962 – [[person:kuhn|Thomas Kuhn]]:** *The Structure of Scientific Revolutions* and the paradigm. [[cite:kuhn-1962]]\n- **1983 – [[person:mcquail|Denis McQuail]]:** first edition of *Mass Communication Theory*; sixth edition 2010. [[cite:mcquail-2010]]\n- **1993 – Potter, Cooper and Dupagne:** counted the field’s “three paradigms” in journal articles. [[cite:potter-cooper-dupagne-1993]]\n- **1999 – [[person:craig|Robert T. Craig]]:** the “seven traditions” of communication theory. [[cite:craig-1999]]\n\nThe order tells a story too: first came the discussion of how science works (Popper, Kuhn), then the scale of theory in the social sciences (Merton), then communication research’s own internal divisions (Lazarsfeld, Potter and colleagues, Craig).",
+      "question": {
+        "id": "people-cast-q",
+        "type": "mcq",
+        "prompt": "Which of the following pairings is correct?",
+        "options": [
+          "Kuhn, 1962: paradigm",
+          "Popper, 1962: paradigm",
+          "Merton, 1935: falsifiability",
+          "Craig, 1949: seven traditions"
+        ],
+        "answer": 0,
+        "explain": "Kuhn’s *The Structure of Scientific Revolutions* appeared in 1962 and is tied to the concept of paradigm. Popper is tied to falsifiability, Merton to middle-range theory and Craig to the seven traditions, and their years are 1935, 1949 and 1999 respectively. The pair that gets mixed up most often in exams is Popper–Kuhn: one is about testing theories, the other about how science works socially and historically."
+      }
+    },
+    {
+      "id": "people-contexts",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "story",
+      "title": "Theories are not born in a vacuum: three scenes",
+      "body": "**Scene 1: Princeton, late 1930s.** A radio-audience research project runs on Rockefeller Foundation money. On Shepperd’s reading of the archival letters, the project took shape around the “public interest” clause of the Communications Act of 1934 and the debate over educational broadcasting. [[cite:shepperd-2022]] Alongside Lazarsfeld, the survey master from Vienna, comes Theodor Adorno, an exile from Frankfurt. The two think very differently. The label “administrative research,” according to Pooley and Jeřábek, began as Adorno’s shorthand, hardly a compliment, for this radio research work. [[cite:pooley-jerabek-2022]]\n\n**Scene 2: postwar America.** In McQuail’s account, the “dominant paradigm” took shape especially in the decade after the Second World War, when North America held an overwhelming lead in both the social sciences and the media. Functionalism came from sociology, the transmission model from information theory, and the measuring tools from surveys and statistics. The opposing line began with the Frankfurt School exiles who went to the USA in the 1930s and took shape in the 1960s and 70s under the influence of the “ideas of 1968.” [[cite:mcquail-2010]]\n\n**Scene 3: 1968.** In one year a violence commission finances a content analysis of violence on television, and this leads to the birth of the [[concept:cultivation|cultivation]] line. [[cite:shanahan-morgan-1999]] That same autumn in Chapel Hill, the issues undecided voters called important are compared with media content. [[cite:mccombs-shaw-1972]] The result: [[concept:agenda-setting|agenda-setting]].\n\nOur interpretation: a theory is the answer to an era’s question, money, technology and method. “Who, when, on whose money, chasing which question?” is the first step in reading a theory.",
+      "question": {
+        "id": "people-contexts-q",
+        "type": "tf",
+        "prompt": "True or false: the label “administrative research” was Lazarsfeld’s own invention, chosen as praise.",
+        "answer": false,
+        "explain": "False. According to Pooley and Jeřábek, the label was Adorno’s shorthand for Lazarsfeld’s radio research work, hardly a compliment; Lazarsfeld later adopted it and defended administrative research in his 1941 essay. That is how the label has followed him ever since."
+      }
+    },
+    {
+      "id": "deep-lazarsfeld-caricature",
+      "section": "people-time",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep: the caricature of “positivist Lazarsfeld”",
+      "body": "In the field’s memory Lazarsfeld is often the “apolitical positivist.” According to Pooley and Jeřábek, this image was fixed first and with lasting effect by C. Wright Mills (1959); Todd Gitlin (1978) issued a similar indictment; and Stuart Hall (1982) wrote that British cultural studies defined itself against the “behavioral mainstream hegemony.” The result: epithets such as positivist, behaviourist, mainstream, dominant, functionalist. [[cite:pooley-jerabek-2022]]\n\nThe authors find these epithets “lazy” as applied to Lazarsfeld. In their view “administrative research” was Adorno’s shorthand; the 1941 essay was a nuanced, famous but rarely read defence, published in the Frankfurt Institute’s own journal. From his earliest days to his last Columbia years Lazarsfeld wanted to mix qualitative and quantitative methods, and he described the funded researcher as a “tightrope walker” (1948). After 1960 he formed a deep friendship with Noelle-Neumann. [[cite:pooley-jerabek-2022]]\n\nCaution: this is a revisionist debate; Shepperd, for his part, tells the Adorno–Lazarsfeld tension through a different archival reading, within the frame of the public-interest clause of the 1934 Communications Act. [[cite:shepperd-2022]] Not only the map but the history that draws the map is contested."
+    },
+    {
+      "id": "claim-core",
+      "section": "claim",
+      "layer": "core",
+      "kind": "text",
+      "title": "The core claim: a theory is a lens",
+      "body": "The lesson defends this claim: **a theory is a systematic set of ideas that helps make sense of a phenomenon, explain it, predict it and guide action; in communication there is no single “true” theory, only many traditions asking different questions; so a theory should be read not by “is it true?” but by “what does it ask, what does it see, what can it not see?”**\n\nThe broad definition is McQuail’s: a theory need not be only a system of law-like propositions; it can be any systematic set of ideas that helps make sense of a phenomenon, guide action or predict a consequence. [[cite:mcquail-2010]] This definition takes “theory” out of the laboratory: the patterned practical knowledge a journalist uses to choose news, and an audience member’s own experience with media, both fall under the umbrella. We will come back to Merton’s stricter definition shortly.\n\nWhy do we find the lens a good comparison? Because a lens magnifies one thing while blurring another. In the distinction McQuail reports, critical theory tries to relate the problems underlying media practice to social issues, while applied theory aims to use communication more effectively for practical problems. [[cite:mcquail-2010]] Both see something real; both see little of where the other is looking. (The lens image is ours, not a scientific term.)",
+      "question": {
+        "id": "claim-core-q",
+        "type": "mcq",
+        "prompt": "According to McQuail’s broad definition, which of the following can count as a “theory”?",
+        "options": [
+          "Only law-like propositions tested in laboratory experiments",
+          "The patterned practical knowledge a news editor has built up from experience",
+          "Only explanations produced at universities and published in refereed journals",
+          "Only relationships expressed in numbers"
+        ],
+        "answer": 1,
+        "explain": "McQuail calls the practical knowledge of media practitioners “operational theory” as long as it is systematic and persistent. The other three options narrow theory: law-like propositions, academic output or numerical relationships are only some kinds of theory, not all."
+      }
+    },
+    {
+      "id": "claim-functions",
+      "section": "claim",
+      "layer": "core",
+      "kind": "steps",
+      "title": "The four jobs of a theory (and one overtime shift)",
+      "body": "On paper a theory is a set of sentences; its value shows in the jobs it does. Four jobs follow from the verbs in McQuail’s definition and from definitions of communication science: [[cite:mcquail-2010]]\n\n1. **Making sense (describing):** grouping scattered observations and naming them. Saying “these two events are really cases of the same kind.”\n2. **Explaining:** why is it so? The definition of communication science by Berger and Chaffee speaks of explaining phenomena through testable theories. [[cite:mcquail-2010]]\n3. **Predicting:** “if this condition holds, expect that outcome.” A prediction lets a theory work against itself.\n4. **Guiding:** helping you choose what to do and how in practice. Media practitioners do this too: they use practical theories to choose news, to please audiences, to stay within limits. [[cite:mcquail-2010]]\n5. **Overtime shift, for critical theories:** exposing. Critical theory aims to make visible the problems and faults underneath media practice. [[cite:mcquail-2010]]\n\nImagine: on a local news site an editor thinks “short headlines get read more in the evening” and shortens the headlines. That is a *guiding* theory; it may be untested, but it steers behaviour. If an academic measured it for a week, it would move to the *prediction* stage.",
+      "question": {
+        "id": "claim-functions-q",
+        "type": "mcq",
+        "prompt": "A researcher says, “If a topic is heavily shared on social media for a week, its place in the main news bulletins the following week will grow,” and prepares to test it. Which job of theory is being done?",
+        "options": [
+          "Only describing",
+          "Predicting",
+          "The normative job of theory",
+          "The overtime shift of critical theory"
+        ],
+        "answer": 1,
+        "explain": "The pattern “if this condition, expect that outcome” is prediction and produces a testable inference. Describing would only say “what is,” the normative job says “what ought to be,” and the critical overtime shift aims to expose hidden problems. The sentence here does none of those."
+      }
+    },
+    {
+      "id": "deep-lewin",
+      "section": "claim",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep: whose line is “nothing is so practical as a good theory”?",
+      "body": "There is a famous saying about theory’s job of guiding action: “there is nothing so practical as a good theory.” It is usually attributed to Kurt Lewin. McCain collected 693 English-language journal articles from 1945–2013 that used variants of the saying; about 70% were in psychology, management and education. [[cite:mccain-2015]]\n\nBedeian (2016), however, showed that the saying did not originate with Lewin. He traced it first to General Electric’s use in the 1920s, and from there to Friedrich W. Dörpfeld’s 1873 book on the theory of the curriculum. [[cite:bedeian-2016]] So the saying is an instance of exactly what we are discussing: once a wrong attribution is in print, it goes into circulation.\n\nThe lesson to draw: asking “who said this?” is also part of questioning a theory’s context of origin."
+    },
+    {
+      "id": "concepts-relatives",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Six relatives: common sense, hypothesis, generalisation, theory, model, paradigm",
+      "body": "Merton complained that the word “theory” risks becoming meaningless: it is applied to everything from small working hypotheses through vague speculation to axiomatic systems. [[cite:merton-1949]] For exams, tell the relatives apart:\n\n- **Everyday (common-sense) theory:** the knowledge we all draw from our own experience. It really does steer how we use media. [[cite:mcquail-2010]] But it is untested; Lazarsfeld’s list showed the risk.\n- **Hypothesis:** a testable claim about a single relationship. In Merton’s phrase, the small but necessary working hypotheses produced in abundance in day-to-day research. [[cite:merton-1949]]\n- **Empirical generalisation:** an isolated proposition summarising an observed regularity. For Merton a theory is more than that: it is the set of assumptions from which the generalisations themselves are derived. [[cite:merton-1949]]\n- **Theory:** a set of logically connected propositions from which observed regularities can be derived. [[cite:merton-1949]]\n- **Model:** a schema that simplifies and shows the parts of a process and their relations. Shannon and Weaver’s model draws communication as a process running from source, message, signal, channel, receiver to destination. [[cite:mcquail-2010]] A model often shows “how it runs,” not “why.”\n- **Paradigm:** in Kuhn, the exemplary achievements a scientific community shares, with the beliefs, tools and values tied to them. [[cite:sep-kuhn]] In communication writing it is often used loosely for a “dominant way of looking” (as in McQuail’s “dominant paradigm”). [[cite:mcquail-2010]]\n\nThe word “law” rarely appears in communication; the definition by Berger and Chaffee, as reported, speaks of “law-like generalisations.” [[cite:mcquail-2010]]",
+      "question": {
+        "id": "concepts-relatives-q",
+        "type": "mcq",
+        "prompt": "A researcher will test the sentence “the more violence in the evening news, the higher viewers’ fear scores” with survey data collected this week. What does this sentence most resemble?",
+        "options": [
+          "A paradigm",
+          "A hypothesis",
+          "A model",
+          "A law"
+        ],
+        "answer": 1,
+        "explain": "A sentence that states a single relationship in testable form is a hypothesis. A paradigm is the framework and examples shared by a whole community; a model shows a process schematically; a law claims a regularity that holds under all conditions (rare in communication). This sentence does not claim anything that large."
+      }
+    },
+    {
+      "id": "concepts-midrange",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Middle-range theory: neither giant nor tiny",
+      "body": "A large part of this course is about “middle-range” theories. The term comes from [[person:merton|Merton]]: middle-range theories stand between the small working hypotheses produced in abundance in day-to-day research and the grand unifying efforts to explain all of social behaviour, organisation and change under one roof. [[cite:merton-1949]]\n\nIn Merton’s description these theories are abstract but close enough to observation to become testable propositions. Their domains are limited: reference groups, social mobility, role conflict, the formation of norms. His own comparison: like a theory of prices, a germ theory of disease or the kinetic theory of gases. [[cite:merton-1949]] Such theories are not derived from a single “theory of everything”; later they may prove consistent with one. [[cite:merton-1949]] In Cole’s words, this is the American style of sociology that Merton created, tying theory tightly to empirical testing. [[cite:cole-2004-merton]]\n\nIn this course, theories such as agenda-setting, cultivation and the spiral of silence can be read as close to this description: each takes a delimited domain (the news agenda, television’s picture of the world, fear of being in the minority) and treats it with testable propositions. This is our reading; Merton did not classify media effects in this framework. In exams, link Merton’s name to middle-range theory and to the position between “grand” and “small” theories.",
+      "question": {
+        "id": "concepts-midrange-q",
+        "type": "mcq",
+        "prompt": "Which of the following fits Merton’s description of middle-range theory?",
+        "options": [
+          "A universal theory deriving every regularity in society from a single system",
+          "A set of propositions about a delimited domain (say, reference groups), concrete enough to yield testable hypotheses",
+          "The summary table of the data you collected in one study",
+          "Only psychological laws that can be established in laboratory experiments"
+        ],
+        "answer": 1,
+        "explain": "Middle-range theory treats a limited domain and can be turned into testable propositions. The first option is what Merton calls a grand unifying effort; the third is not even a theory but plain description; the fourth adds a restriction that is not in Merton’s description."
+      }
+    },
+    {
+      "id": "concepts-mcquail",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "McQuail’s kinds of theory: scientific, cultural, normative, operational, everyday",
+      "body": "McQuail (6th edition, 2010) says that if we understand theory not only as law-like propositions but as any systematic set of ideas that helps make sense of a phenomenon, guide action or predict a consequence, we can distinguish at least five kinds. [[cite:mcquail-2010]]\n\n- **Social scientific theory:** general propositions about the nature, workings and effects of media, based on systematic and objective observation, which can be tested and confirmed or rejected.\n- **Cultural theory:** very diverse. Some forms evaluate cultural products against quality criteria; others challenge the hierarchy. Its core is often imaginative and ideational, and it resists the demand for testing by observation.\n- **Normative theory:** says how media ought to work in line with social values. It is found in laws, regulations and ethics codes.\n- **Operational theory:** the practical knowledge media practitioners build up in their work: choosing news, pleasing audiences, designing advertising.\n- **Everyday (common-sense) theory:** the knowledge we all draw from our own experience with media. It also lets us tell “reality” from “fiction.”\n\nWatch out: in the fourth edition of the same book (2000) only four kinds are listed (scientific, normative, operational, everyday). Cultural theory was added later. [[cite:mcquail-2000]] If an exam asks “four or five?”, check which edition you read.",
+      "question": {
+        "id": "concepts-mcquail-q",
+        "type": "mcq",
+        "prompt": "A newspaper’s news editor decides which story goes on the front page in the morning meeting, using rules that are never written down but have been applied for years. Which of McQuail’s kinds of theory describes this knowledge?",
+        "options": [
+          "Normative theory",
+          "Operational theory",
+          "Cultural theory",
+          "Social scientific theory"
+        ],
+        "answer": 1,
+        "explain": "The knowledge media practitioners accumulate in practice, patterned but often unwritten, is operational theory. Normative theory says “what ought to be,” cultural theory evaluates or questions cultural products, and social scientific theory rests on systematic observation. The editor’s practical knowledge is none of those."
+      }
+    },
+    {
+      "id": "concepts-craig",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Craig’s seven traditions: seven answers to “what is communication?”",
+      "body": "In 1999 Robert T. Craig proposed reconstructing the field as a “dialogue.” In his account communication theories are traditions distinguished by how they define communication and problems of communication; each tradition appeals to some commonplace beliefs about communication and challenges others. Craig calls his scheme “tentative.” [[cite:craig-1999]] The seven traditions and the “communication theorized as …” phrases (in our wording):\n\n- **Rhetorical:** as the practical art of discourse.\n- **Semiotic:** as intersubjective mediation by signs.\n- **Phenomenological:** as the experience of otherness, dialogue.\n- **Cybernetic:** as information processing.\n- **Sociopsychological:** as expression, interaction and influence.\n- **Sociocultural:** as the (re)production of social order.\n- **Critical:** as discursive reflection, reflective critique. [[cite:libretexts-craig-table]]\n\nThe reader edited by Craig and Muller organises its texts around these seven traditions. [[cite:craig-muller-2007]] Craig himself later notes that the article is often cited as a gesture toward “the famous seven traditions.” [[cite:craig-2009]]\n\nDon’t mix them up: the sociopsychological tradition looks at the communication of the individual and the relationship through the trio of expression, interaction and influence; the sociocultural tradition sees communication as producing social order. The first foregrounds “why was that person persuaded?”, the second “which shared meanings is this community reproducing?”",
+      "question": {
+        "id": "concepts-craig-q",
+        "type": "mcq",
+        "prompt": "A study models how noise distorts a message and how feedback corrects the system. Which of Craig’s traditions is it closest to?",
+        "options": [
+          "Rhetorical",
+          "Phenomenological",
+          "Cybernetic",
+          "Critical"
+        ],
+        "answer": 2,
+        "explain": "A study that treats communication as information processing and deals with noise and feedback sits in the cybernetic tradition. The rhetorical tradition centres on the art of discourse, the phenomenological on the experience of the other, and the critical on discursive reflection and questioning power relations."
+      }
+    },
+    {
+      "id": "deep-craig-detail",
+      "section": "concepts",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep: Craig’s “metamodel” and the debate over an eighth tradition",
+      "body": "Craig’s 1999 article does not just list seven headings; it rests on two principles: treating communication as a “constitutive” metamodel, and treating theory as a “metadiscursive practice.” According to the article, all communication theories are mutually relevant when addressed to a practical lifeworld in which “communication” is already a richly meaningful term. Each tradition appeals to some shared beliefs about communication and challenges others; the complementarities and tensions among the traditions generate a theoretical metadiscourse. The article also proposes topoi for argument across traditions. [[cite:craig-1999]]\n\nThe scheme is not closed: in 2007 Craig assessed the implications of adding the pragmatism proposed by Russill as a distinct tradition, and argued that the problems of pluralistic community in the field are not unconnected to similar problems in society. [[cite:craig-2007]] In 2009 he noted that the article is often cited as a general gesture and that its influence on primary theoretical work has remained diffuse. [[cite:craig-2009]]\n\nFor exams: memorise the number seven, but also know that the scheme is “tentative” and open to debate."
+    },
+    {
+      "id": "assumptions-myth",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "myth",
+      "title": "“A good theory is a neutral mirror”?",
+      "body": "**What people assume.** A scientific theory is a neutral mirror that reflects communication as it is; values and pictures of society are not its business.\n\n**What the evidence says.** In McQuail’s account the “dominant paradigm” in fact carries an essentially normative view of society: it presumes a “good society” that is democratic, liberal, pluralist, orderly and well informed. It does not treat social inequality as a basic problem as long as tensions can be resolved by institutional means. [[cite:mcquail-2010]] The opposing “alternative paradigm” openly rejects value neutrality and reads society critically. [[cite:mcquail-2010]]\n\nMcQuail goes one step further: the study of mass communication is not a field from which we can expect “theoretically neutral, scientifically verified” knowledge about effects or meaning; it is bound up with values and social conflict. [[cite:mcquail-2010]] Lazarsfeld’s 1941 wording, as Shepperd reports it, points the same way: administrative research is a “tool” that people or agencies use for given purposes. [[cite:shepperd-2022]]\n\nOur interpretation: the problem is not carrying values but hiding that you carry them. Asking “which society does this theory treat as normal?” gets in the way of any claim to neutrality.",
+      "question": {
+        "id": "assumptions-myth-q",
+        "type": "tf",
+        "prompt": "True or false: according to McQuail, the “dominant paradigm” is a completely neutral approach that contains no value assumptions about society.",
+        "answer": false,
+        "explain": "False. McQuail says a picture of a liberal, pluralist, orderly and well-informed “good society” lies beneath the dominant paradigm, that is, it is essentially normative. A claim of neutrality does not remove the assumption; it only makes it invisible."
+      }
+    },
+    {
+      "id": "assumptions-lenses",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "text",
+      "title": "Three pairs of glasses: social scientific, interpretive, critical",
+      "body": "Potter, Cooper and Dupagne (1993) divided mass communication research into three paradigms; McQuail summarises the division: [[cite:mcquail-2010]]\n\n- **Social scientific:** empirical questions about media are tested with quantitative methods. Assumption: social phenomena can be observed and measured, and regularities can be tested.\n- **Interpretive:** qualitative methods, the meaning-giving power of media. Assumption: communication is the production of meaning and depends on context; the aim is understanding.\n- **Critical:** based on critical social theory, especially leftist or political-economy views. Assumption: communication sits inside power relations; the aim is to make them visible.\n\nThere is also a two-block version of the same division. The **dominant paradigm** rests on the ideal of a liberal pluralist society, on functionalism, the linear transmission model, the idea of “powerful media, but softened by groups,” and quantitative analysis of variables. The **alternative (critical) paradigm** criticises society, rejects the transmission model, is non-deterministic about technology and messages, and turns to qualitative methods and cultural or political-economy theories. [[cite:mcquail-2010]]\n\nThe oldest division is Lazarsfeld’s (1941): as McQuail reports it, the critical orientation relates the problems beneath media to social issues, while the administrative (applied) orientation uses communication to solve practical problems. [[cite:lazarsfeld-1941]] These are not sharp walls, but directions.",
+      "question": {
+        "id": "assumptions-lenses-q",
+        "type": "mcq",
+        "prompt": "A study interviews 40 viewers in depth to understand what a TV series means to them. Which of Potter, Cooper and Dupagne’s paradigms is it closest to?",
+        "options": [
+          "Social scientific",
+          "Interpretive",
+          "Critical",
+          "None; this is not a paradigm"
+        ],
+        "answer": 1,
+        "explain": "A study that uses qualitative methods to understand how meaning is made is in the interpretive paradigm. The social scientific paradigm centres on quantitative testing, the critical one on power and inequality. The last option is wrong too: these three labels exist precisely to classify studies like this."
+      }
+    },
+    {
+      "id": "assumptions-centric",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "text",
+      "title": "Two axes: media or society, culture or material forces?",
+      "body": "McQuail places theories on two axes. [[cite:mcquail-2010]]\n\n**First axis: [[concept:media-centric|media-centric]] or [[concept:society-centric|society-centric]].** Media-centric theory grants communication much more autonomy and influence; it sees the media as a primary mover of social change, driven especially by developments in communication technology, and attends to the content and consequences of different kinds of media. Society-centric theory mostly sees the media as a reflection of political and economic forces; media theory becomes a special application of broader social theory.\n\n**Second axis: culturalist or materialist.** Culturalists focus on the realm of culture and ideas, materialists on material forces and facts. The divide corresponds roughly to humanistic vs. scientific, qualitative vs. quantitative, subjective vs. objective. The two axes are independent of each other; together they yield four perspectives:\n\n1. **Media-culturalist:** the subjective meaning of the audience’s experience with a particular kind of media.\n2. **Media-materialist:** how the medium’s technology, the relations of production and reception, and organisational contexts shape content.\n3. **Social-culturalist:** subordinates media and their experience to deeper forces affecting society and individuals; social and cultural issues come before political and economic ones.\n4. **Social-materialist:** a critical view of media ownership and control; the claim that these shape the dominant ideology.\n\nMcQuail adds that media theory itself tends to respond to major shifts in technology and structure. [[cite:mcquail-2010]]",
+      "question": {
+        "id": "assumptions-centric-q",
+        "type": "mcq",
+        "prompt": "A researcher studies how media ownership and control shape the dominant ideology in news. Which of McQuail’s four perspectives is it closest to?",
+        "options": [
+          "Media-culturalist",
+          "Media-materialist",
+          "Social-culturalist",
+          "Social-materialist"
+        ],
+        "answer": 3,
+        "explain": "The trio of ownership, control and dominant ideology is the signature of the social-materialist view, which treats media as a product of political-economic forces. The media-materialist view focuses on the medium’s technology and organisational dynamics; the culturalist views on subjective meaning and cultural forces. The ownership–ideology link separates them."
+      }
+    },
+    {
+      "id": "deep-kuhn",
+      "section": "assumptions",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep: Kuhn’s paradigm and the field of communication",
+      "body": "According to the Stanford Encyclopedia of Philosophy, Kuhn uses “paradigm” in two senses: consensus on exemplary research achievements, and a broader “disciplinary matrix,” that is, shared theoretical beliefs, values, instruments and techniques. [[cite:sep-kuhn]] Mature science is “normal science,” in which the paradigm supplies puzzles and tools for solving them; when anomalies pile up, crisis and revolution come. An immature science is in a “pre-paradigm” period; there is no consensus. [[cite:sep-kuhn]] The first edition of the book came out in 1962; a second edition with a postscript followed in 1970. [[cite:kuhn-1962]]\n\nThe social sciences took Kuhn up with enthusiasm; Kuhn himself doubted that the social sciences could sustain a long stretch of normal science, because “hermeneutic reinterpretation” is the essence of much social scientific work. [[cite:sep-kuhn]]\n\nThe upshot for communication: when you use the word “paradigm” loosely, as McQuail does, you move away from Kuhn. The “dominant paradigm” points to a majority practice, not to a consensus. Potter and colleagues’ own count says the same: being the majority is not being dominant. [[cite:potter-cooper-dupagne-1993]]"
+    },
+    {
+      "id": "how-machine",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "How does a theory work? From a “sea of air” to Pascal",
+      "body": "[[person:merton|Merton]]’s own example shows the mechanism of a theory well. In his account the seminal idea of a middle-range theory is usually simple: Boyle conceives the atmosphere as a “sea of air.” The image yields inferences: if pressure increases as you go deeper into a sea, then, as Pascal inferred, air pressure on a mountain top should be lower than at its base. [[cite:merton-1949]]\n\n1. **Image:** “the atmosphere is a sea of air.”\n2. **Inference:** so pressure on a mountain top should be lower.\n3. **Testable hypothesis:** measure pressure at the top and at the base.\n4. **Test:** is the inference confirmed?\n5. **Fruitfulness:** does the idea generate new questions and hypotheses about atmospheric pressure? By Merton’s account, this is how the idea is judged. [[cite:merton-1949]]\n\nA social example works with the same skeleton. Common sense says that the greater the loss in a disaster, the greater the felt deprivation. The theory of relative deprivation assumes that people compare themselves with others they see as similar, and so predicts that under some conditions those who suffered a bigger loss may see others even worse off and feel less deprived. By Merton’s account, empirical evidence supported the theory, not common sense. [[cite:merton-1949]] It is the same lesson as the first card’s “obvious” game: a good theory sometimes says in advance the opposite of common sense.",
+      "question": {
+        "id": "how-machine-q",
+        "type": "order",
+        "prompt": "Put the steps of Merton’s air-pressure example in the correct order.",
+        "items": [
+          "Image: the atmosphere is a “sea of air”",
+          "Inference: pressure on a mountain top should be lower",
+          "Test: pressure at the top and the base is compared",
+          "Assessment: does the idea generate new questions?"
+        ],
+        "explain": "The order runs from image to inference, from inference to test, from test to the fruitfulness assessment. Putting measurement before inference is a common mistake: the inference tells you what to measure. Fruitfulness comes last because you can only see whether an idea generates new hypotheses after the tests."
+      }
+    },
+    {
+      "id": "how-popper",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "story",
+      "title": "Popper’s puzzle: the theory that says “yes” to every answer",
+      "body": "The question Karl Popper set out from was: which theories are scientific, and which are not? His answer: falsifiability. A theory is scientific if it could be incompatible with some possible observation. [[cite:sep-popper]]\n\nHe compared two kinds of theory. Einstein’s was “risky”: tests such as Eddington’s 1919 observations could have refuted it. The psychoanalytic accounts of Freud and Adler, on the other hand, fitted every human behaviour; they left no observation that could refute them. [[cite:sep-popper]] [[cite:iep-popper]] A theory that says “yes” to every result is a theory that no result confirms.\n\nPopper went one step further: theories are not “proven”; by surviving tests they are “corroborated,” but never verified. [[cite:sep-popper]] *Logik der Forschung* came out in 1935, its English translation in 1959. [[cite:popper-1959]]\n\nImagine a “media effects” theory that says: “News viewers are affected. If you see they aren’t, that is a resistance effect, so there is still an effect.” Find the problem: which observation could refute this theory? None. The theory risks nothing. By Popper’s criterion it is not strong but untestable. McQuail too concedes that media theories are often hard to formulate in testable form. [[cite:mcquail-2010]]",
+      "question": {
+        "id": "how-popper-q",
+        "type": "mcq",
+        "prompt": "Imagine a theory that says: if the audience is influenced by the news, “there is an effect”; if not, “there is hidden resistance, which is also an effect.” By Popper’s criterion, what can be said of it?",
+        "options": [
+          "It is the strongest theory, because it explains every result.",
+          "No observation can refute it, so it is not falsifiable; its scientific testability is weak.",
+          "It is a verified theory.",
+          "It holds only for news viewers."
+        ],
+        "answer": 1,
+        "explain": "For Popper, being able to explain every result is the theory’s weakness, not its strength: because it risks nothing, it cannot be tested. The first option catches exactly that fallacy. The third is wrong too: for Popper no theory is conclusively verified, at most it is corroborated by surviving tests."
+      }
+    },
+    {
+      "id": "how-criteria",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Judging a theory: four questions and three more",
+      "body": "A checklist helps you tell a good theory from a weak one:\n\n1. **Is it testable?** Which observation would falsify it? (Popper.) [[cite:sep-popper]]\n2. **What is its scope?** How many phenomena, how many situations does it cover?\n3. **Is it parsimonious?** Is there an explanation that does the same job with fewer assumptions?\n4. **Does it have heuristic value?** Does it generate new questions and new research?\n\nTextbooks summarise Littlejohn and Foss’s list like this: scope, parsimony, heuristic value, and in addition openness (does it recognise other perspectives?), appropriateness (do question and theory fit?) and validity (overall worth and practicality). [[cite:wikibooks-comm-theory]] [[cite:libretexts-evaluating-theories]] The appropriateness criterion matters: interpretive and critical theories do not face “is it testable?” with the same rigidity. McQuail says cultural theory resists the demand for testing by observation. [[cite:mcquail-2010]]\n\n**Mini lab (two imaginary theories).** Theory A: “Every change in society is the work of the media.” Theory B: “A topic that leads the evening bulletin three times a week rises in the public’s importance list the following week.” Apply the four questions to both. A’s scope is huge and it is simple; but which observation would refute it? B’s scope is narrow and it is testable; but does it generate new questions? You needn’t say which is better; just see in which criterion each is strong and in which weak.",
+      "question": {
+        "id": "how-criteria-q",
+        "type": "mcq",
+        "prompt": "A theory explains only the example it started from and generates no other questions or research. Which criterion is it weak on?",
+        "options": [
+          "Heuristic value",
+          "Parsimony",
+          "Scope",
+          "Falsifiability"
+        ],
+        "answer": 0,
+        "explain": "Not generating new questions and research is a weakness of heuristic value. Parsimony is about explaining with few assumptions, scope about how many phenomena are covered, falsifiability about being refutable. This theory may be both simple and testable yet still barren."
+      }
+    },
+    {
+      "id": "how-classify",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Placing a theory on the map: a five-question compass",
+      "body": "When you meet a theory in class or in an exam, ask these five questions; each gives you a bookmark:\n\n1. **What kind of theory?** Social scientific, cultural, normative, operational or everyday? (McQuail.) [[cite:mcquail-2010]]\n2. **Which glasses?** Social scientific, interpretive or critical paradigm? Dominant or alternative? (Potter and colleagues; McQuail.) [[cite:potter-cooper-dupagne-1993]]\n3. **For whom, for what purpose?** Administrative (applied) or critical? (Lazarsfeld, 1941.) [[cite:lazarsfeld-1941]]\n4. **Where is the action?** Media-centric or society-centric; culturalist or materialist? (McQuail’s four perspectives.) [[cite:mcquail-2010]]\n5. **What does it count as communication?** Rhetoric, semiotics, phenomenology, cybernetics, sociopsychology, sociocultural theory or critique? (Craig.) [[cite:craig-1999]]\n\nImagine a study that examines, with a critical eye, how a channel’s ownership structure shapes news content. On the compass: critically oriented; social-materialist; close to the critical tradition in Craig. Every placement is open to debate; the map is a starting point, not a verdict. The map on the summary card is the short form of these five questions.",
+      "question": {
+        "id": "how-classify-q",
+        "type": "match",
+        "prompt": "Match each compass question with the source that frames its answer.",
+        "pairs": [
+          [
+            "What kind of theory? (scientific, normative, operational, everyday…)",
+            "McQuail: kinds of theory"
+          ],
+          [
+            "Which paradigm? (social scientific, interpretive, critical)",
+            "Potter, Cooper and Dupagne (1993)"
+          ],
+          [
+            "For whom? (administrative or critical)",
+            "Lazarsfeld (1941)"
+          ],
+          [
+            "Where is the action? (media-centric or society-centric)",
+            "McQuail: four perspectives on two axes"
+          ],
+          [
+            "What is communication? (seven answers)",
+            "Craig (1999)"
+          ]
+        ],
+        "explain": "The first and fourth questions both come from McQuail but from different schemes: one gives the kinds of theory, the other the four perspectives on two axes. The pair that gets mixed up most often in exams is Lazarsfeld’s administrative–critical distinction and Craig’s seven traditions: the first looks at whom the research is for, the second at how communication is defined."
+      }
+    },
+    {
+      "id": "evidence-journals",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "text",
+      "title": "What does the field actually publish? The 1993 count",
+      "body": "Researchers who write about paradigms made speculations that differed from one another. Potter, Cooper and Dupagne (1993) set the guessing aside and counted: they looked at six characteristics of mass communication articles in eight major communication journals. [[cite:potter-cooper-dupagne-1993]]\n\nFindings:\n\n- The social science paradigm made up **over 60%** of the studies.\n- The interpretive paradigm, **about 34%**.\n- The critical paradigm, **less than 6%**. [[cite:potter-cooper-dupagne-1993]]\n\nThe authors’ conclusion has two layers: the social science paradigm was the majority in mainstream journals but could not be called “dominant” in the field. In addition, most work in social-science *form* failed to meet scientific standards on theoretical orientation and on quantitative data collection with probability sampling. [[cite:potter-cooper-dupagne-1993]]\n\nTwo cautions. First: the count is from 1993 and limited to eight journals; it is not evidence about today’s picture. Second: the title says “mainstream journals”; critical work may have been published elsewhere (our interpretation). Even so, the count refutes, with concrete data, the idea that “the field advances with a single theory.”",
+      "question": {
+        "id": "evidence-journals-q",
+        "type": "mcq",
+        "prompt": "Which inference from Potter, Cooper and Dupagne’s 1993 count is correct?",
+        "options": [
+          "Critical research is scientifically invalid.",
+          "The social science paradigm was the majority in mainstream journals but could not be called “dominant” in the field as a whole.",
+          "Interpretive research was never published in mainstream journals.",
+          "All work in the social science line met scientific standards."
+        ],
+        "answer": 1,
+        "explain": "The authors call the social science paradigm the “majority” but not “dominant,” and add that even it did not fully meet the standards. The first option draws a value judgement from a count; the third ignores the roughly 34%; the fourth is the opposite of the authors’ finding."
+      }
+    },
+    {
+      "id": "deep-narratives",
+      "section": "evidence",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep: three narratives, three paradigms and a check",
+      "body": "McQuail reports that Meyrowitz sees three root narratives beneath research on media influence, named “power, pleasure and pattern.” The first concerns power and resistance to power; the second looks to cultural factors and personal choice; the third looks to the structure and type of media, thus in part to “medium theory.” [[cite:mcquail-2010]]\n\nIn the same section McQuail adds two more things. First: Potter and colleagues’ threefold division was found by Fink and Gantz (1996) to work well in a content analysis of published communication research. Second: it is arguable that both the “dominant” and the “alternative” approach each bring together two distinct elements (a critical one and an interpretive one). [[cite:mcquail-2010]]\n\nMeyrowitz’s own article is a first step towards understanding why different camps see the same phenomenon differently: it says that not only science but all ways of knowing about human communication may be shaped by what the researcher already “knows.” [[cite:meyrowitz-2008]] This card is the next rung after that step: once you know which camp asks which question, you can also see what each one misses."
+    },
+    {
+      "id": "critique-popper",
+      "section": "critique",
+      "layer": "core",
+      "kind": "myth",
+      "title": "“A single refutation ends a theory”?",
+      "body": "**What people assume.** For Popper, a single failed prediction sends a theory to the bin.\n\n**What the evidence says.** The Stanford Encyclopedia of Philosophy lists objections to this simplification: when a prediction fails, we cannot tell whether it is the theory or the auxiliary assumptions linking it to observation that are false (Putnam, Lakatos). Lakatos argues that theories are surrounded by a protective belt of auxiliary hypotheses; Kuhn and Lakatos hold that big theories live on despite anomalies. [[cite:sep-popper]] The IEP also gives room to the criticisms of Kuhn and Putnam. [[cite:iep-popper]]\n\nPopper knew this detail: changing an auxiliary hypothesis is respectable scientific practice if it yields new testable predictions. He counted Marxism as unscientific because its changes were made only to accommodate observations. [[cite:sep-popper]] So the real criterion is not “never change” but “does the change take a new risk?”\n\nFor communication the upshot is: falsifiability is a very useful question for causal claims (“this exposure produces that outcome”). But it cannot be applied with the same strictness to interpretive and critical work; McQuail notes that cultural theory resists testing and yet can work alongside scientific approaches. [[cite:mcquail-2010]] Question the criterion, but don’t stop asking the question.",
+      "question": {
+        "id": "critique-popper-q",
+        "type": "mcq",
+        "prompt": "Which of the following correctly summarises a criticism of Popper’s falsifiability criterion?",
+        "options": [
+          "Scientists never make predictions.",
+          "When a prediction fails, it can be hard to determine whether the theory or the auxiliary assumptions are wrong.",
+          "Testable theories are not scientific.",
+          "Popper argued that no theory can ever be supported."
+        ],
+        "answer": 1,
+        "explain": "The auxiliary-hypotheses problem shows precisely that one failed prediction does not immediately refute a theory. The first option contradicts the facts; the third turns the criterion upside down; the fourth is wrong too: Popper said theories can be “corroborated” by surviving tests, only that they are never conclusively verified."
+      }
+    },
+    {
+      "id": "critique-maps",
+      "section": "critique",
+      "layer": "core",
+      "kind": "text",
+      "title": "Maps are theories too: the limits of classifications",
+      "body": "The classifications you learn in this lesson help you understand theories; but they are interpretations themselves, and they have four limits:\n\n1. **Divisions overlap.** McQuail says the schools are converging, yet important differences of philosophy and method remain. [[cite:mcquail-2010]]\n2. **Schemes are provisional.** Craig called his own scheme “tentative.” [[cite:craig-1999]] Later he discussed the consequences of adding pragmatism, proposed by another researcher, as a separate tradition. [[cite:craig-2007]]\n3. **Binary oppositions can harden into caricature.** Pooley and Jeřábek write that Lazarsfeld was for years drawn as an “apolitical positivist,” when in fact he always used qualitative and quantitative methods together. [[cite:pooley-jerabek-2022]] Yavuz likewise notes that since the 1940s there has been a search for a midway between the mainstream/pluralist and critical/radical poles, and that neither tradition is a fixed structure. [[cite:yavuz-2015]]\n4. **Where you stand.** McQuail writes openly that his account carries an inevitable “western” bias: most of the theory comes from Europe and North America and from work in English. [[cite:mcquail-2010]]\n\nSo use the map not as a mould with rules but as a first orientation tool: instead of “this theory belongs in X,” say “this theory asks question X and does not see Y.”",
+      "question": {
+        "id": "critique-maps-q",
+        "type": "mcq",
+        "prompt": "What is the most sensible attitude towards classification schemes (Craig, McQuail and others)?",
+        "options": [
+          "Every theory must be placed in exactly one box.",
+          "Schemes are provisional and debatable; use them as a first orientation tool to see what question a theory asks.",
+          "Schemes are invalid; theories cannot be classified.",
+          "All schemes say the same thing, so one is enough."
+        ],
+        "answer": 1,
+        "explain": "Craig calls even his own scheme “tentative”; McQuail says the divisions overlap. So schemes are neither rigid moulds nor worthless. The second option strikes the balance: useful but not exact. The last option is wrong too: each scheme looks along a different axis."
+      }
+    },
+    {
+      "id": "today-tests",
+      "section": "today",
+      "layer": "core",
+      "kind": "text",
+      "title": "Old theories are being retested in new environments",
+      "body": "McQuail says mass communication theory tends to respond to every major shift in technology and structure. In his account, the new media forced a re-evaluation of earlier thinking about effects, because the model of one-directional mass communication can no longer be sustained. [[cite:mcquail-2010]] The mark of a good theory shows here: it can be retested under new conditions.\n\nTwo documented examples:\n\n- **Cultivation and social media:** a 2023 meta-analysis pooled 460 effect sizes from 66 independent samples; the overall effect came out at .123. [[cite:hermann-morgan-shanahan-2023]]\n- **The spiral of silence and social media:** in Pew’s 2013 Snowden survey, 86% of respondents were willing to discuss the topic face to face; only 42% of Facebook and Twitter users were willing to share it on those platforms. [[cite:hampton-et-al-2014]]\n\nThese findings do not “prove” the theories; they have limits such as one topic, one moment, a stated willingness. But they show that the theories keep being tested. Our interpretation: saying “the old theory is obsolete” and saying “it is still true in the new environment” are equally hasty verdicts; the sound approach is to check whether the theory’s main assumption, such as a shared message system or fear of being in the minority, still holds in the new environment.",
+      "question": {
+        "id": "today-tests-q",
+        "type": "mcq",
+        "prompt": "A student says, “Cultivation was the theory of the television age; it is finished.” According to what you have learned in this lesson, which is the best reply?",
+        "options": [
+          "He is right: theories become invalid when technology changes.",
+          "That is a testable claim; a 2023 meta-analysis found a relationship in social media studies too, but the shared-message-system assumption must be tested separately in the new environment.",
+          "He is wrong: cultivation is automatically valid in every environment.",
+          "Theories cannot be tested, so arguing is pointless."
+        ],
+        "answer": 1,
+        "explain": "The meta-analysis shows the theory being tested in the new environment and a relationship being found, but it is too early to say that this relationship proves the theory’s main assumptions. The first and third options give a verdict too quickly at opposite ends; the fourth rejects the foundation of this lesson: theories are valuable precisely because they can be tested."
+      }
+    },
+    {
+      "id": "today-lab",
+      "section": "today",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Mini lab: one event, seven questions",
+      "body": "This is not a scientific study, just an exercise in using the map.\n\n**Imagine:** a wave of false information spreads fast on a youth platform. Craig’s seven traditions would ask seven questions about the same event. [[cite:craig-1999]] (We wrote the questions; they are not Craig’s own.)\n\n- **Rhetorical:** Whom is this content trying to persuade, and how?\n- **Semiotic:** With which signs do image and text build meaning?\n- **Phenomenological:** How does a user experience this, can they enter a dialogue with others?\n- **Cybernetic:** How does information flow, which feedbacks speed up the spread?\n- **Sociopsychological:** Who believes and shares it, and why?\n- **Sociocultural:** Which shared meanings and rituals is this community reproducing?\n- **Critical:** In whose interest, and inside which power relations, is this content circulating?\n\n**To do:** choose two of the seven questions. What observational data would each require? (survey, interview, network analysis, text analysis…) Then ask yourself: what can your chosen lens **not** see?\n\nWhen you finish, you will have felt with your hands that a theory can be read not only by “is it true?” but by “what does it ask?”",
+      "question": {
+        "id": "today-lab-q",
+        "type": "mcq",
+        "prompt": "A student asks, “Whose algorithm and whose interests does this content serve?” Which of Craig’s traditions is this closest to?",
+        "options": [
+          "Rhetorical",
+          "Cybernetic",
+          "Phenomenological",
+          "Critical"
+        ],
+        "answer": 3,
+        "explain": "Asking in whose interest and inside which power relations is the mark of the critical tradition, which sees communication as discursive reflection and critique. The rhetorical tradition centres on the art of persuasion, the cybernetic on information flow, the phenomenological on lived experience."
+      }
+    },
+    {
+      "id": "turkey-terms",
+      "section": "turkey",
+      "layer": "core",
+      "kind": "text",
+      "title": "The same map in Turkish scholarship: names and debates",
+      "body": "The map of this lesson is not a scheme imported into Turkey; Turkish academic writing also discusses the same divisions, only under different names:\n\n- **Administrative research and the positivist empirical tradition.** A 2005 article by Erdoğan, Keloğlu-İşler and Durmuş treats Lazarsfeld’s “yönetimsel araştırmalar” (administrative studies) as the founding of the positivist empirical tradition in mass communication. [[cite:erdogan-keloglu-durmus-2005]]\n- **Mainstream/pluralist and critical/radical.** Yavuz (2015) writes that since the 1940s a midway has been sought between these two poles, and that debates on “yöndeşme” (convergence) are part of this; her keywords include mainstream and critical studies, cultural studies and audience research. [[cite:yavuz-2015]]\n- **Dominant and critical approaches.** The subtitle of Yaylagül’s book names this pairing. [[cite:yaylagul-2006]]\n\nThe English “dominant/alternative paradigm” (McQuail) can turn up in Turkish under these names. Knowing that several words (“egemen” = dominant, “anadamar” = mainstream, “çoğulcu” = pluralist, “yönetimsel” = administrative) are used for the same distinction spares you confusion when reading sources. Whatever name an exam question uses, remember that the same question lies beneath it: for whom, on what assumption, chasing which question is the research done?",
+      "question": {
+        "id": "turkey-terms-q",
+        "type": "mcq",
+        "prompt": "What does the term “yöndeşme” in Yavuz’s (2015) article mean?",
+        "options": [
+          "The search for a midway and the convergence between the mainstream/pluralist and critical/radical lines",
+          "That a theory is specific to one country",
+          "The triumph of the social science paradigm",
+          "The disappearance of critical studies"
+        ],
+        "answer": 0,
+        "explain": "“Yöndeşme” corresponds to “convergence” in English and describes the search for a midway between two poles. The author says neither tradition is a fixed, unchanging structure and that their common features can be developed; so the triumph, disappearance or country-specificity suggested by the other options is not there."
+      }
+    },
+    {
+      "id": "exam-patterns",
+      "section": "exam",
+      "layer": "core",
+      "kind": "text",
+      "title": "This is how exams ask it",
+      "body": "**Common patterns**\n\n- “Who developed the concept of middle-range theory?” → Robert K. Merton (1949, *Social Theory and Social Structure*).\n- “Who proposed the falsifiability criterion?” → Karl Popper. “Paradigm?” → Thomas Kuhn (1962).\n- “Kinds of theory” → McQuail: scientific, cultural, normative, operational, everyday.\n- “Seven traditions” → Craig (1999).\n- “The administrative and critical research distinction” → Lazarsfeld (1941).\n\n**Tempting wrong answers**\n\n- Mixing up Popper and Kuhn: one is about testing, the other about the historical workings of science.\n- “Middle-range theory = a theory showing a medium-sized effect” → no. The scale is the theory’s scope, not the size of a media effect.\n- Mixing up the sociopsychological and sociocultural traditions (Craig).\n- Writing media-centric and society-centric the wrong way round: the media-centric view is the one that grants media autonomy and influence.\n- Counting McQuail’s kinds of theory as “four” or “five”: the 2000 edition lists four, the 2010 edition five.\n\n**Alternative names**\n\n- Middle-range theory: in Turkish sources “orta boy kuram” also appears.\n- Dominant paradigm: “anadamar/çoğulcu.” Alternative paradigm: “eleştirel/radikal” (see Yavuz, 2015). Lazarsfeld’s administrative research: “yönetimsel araştırma.” [[cite:yavuz-2015]] [[cite:erdogan-keloglu-durmus-2005]]\n\nThis is written for general exam-question patterns; whichever source you read, run the question through the filter “for whom, on what assumption?”",
+      "question": {
+        "id": "exam-patterns-q",
+        "type": "mcq",
+        "prompt": "An exam question asks: “Which concept holds that theories in the social sciences should stand between the small working hypotheses of day-to-day research and grand theories that aim to explain everything?” What is the right answer?",
+        "options": [
+          "Falsifiability (Popper)",
+          "Paradigm (Kuhn)",
+          "Middle-range theory (Merton)",
+          "Seven traditions (Craig)"
+        ],
+        "answer": 2,
+        "explain": "The position between small hypotheses and grand unifying theories is Merton’s definition of middle-range theory. Popper centres on testability, Kuhn on the examples a scientific community shares, and Craig on seven theoretical traditions of communication."
+      }
+    },
+    {
+      "id": "summary",
+      "section": "summary",
+      "layer": "core",
+      "kind": "summary",
+      "title": "Summary card: a map you can reuse",
+      "body": "- **What a theory is:** a systematic set of ideas that makes sense of, explains, predicts and guides; for Merton, connected propositions from which observed regularities are derived.\n- **Its relatives:** common sense (untested), hypothesis (one relationship), generalisation, model (schema), paradigm (Kuhn: shared exemplars).\n- **Middle-range theory (Merton):** between small hypotheses and big unifying theories; delimited domain, testable.\n- **Testing (Popper):** falsifiability means the theory takes a risk. Criticism: the auxiliary-hypotheses problem.\n- **Checklist:** testability, scope, parsimony, heuristic value (+ openness, appropriateness, validity).\n- **Five-question compass:** kind of theory (McQuail: 5 kinds; 4 in the 2000 edition) → paradigm (social scientific/interpretive/critical; dominant/alternative) → for whom (administrative/critical; Lazarsfeld 1941) → where the action is (media-/society-centric; culturalist/materialist) → what communication is (Craig’s 7 traditions).\n- **Why so many theories:** no single definition of communication, and the field is multidisciplinary; each pair of glasses sees something different (Meyrowitz).\n- **Context:** theories are born from an era’s question, money and method (Princeton, 1968).\n- **Exam traps:** Popper–Kuhn, sociopsychological–sociocultural, media-centric–society-centric.",
+      "question": {
+        "id": "summary-q",
+        "type": "tf",
+        "prompt": "True or false: Merton’s concept of middle-range theory says that media effects are of medium size.",
+        "answer": false,
+        "explain": "False. “Middle-range” concerns the scale and scope of a theory: theories that treat a delimited domain and can be turned into testable propositions. It has nothing to do with whether an effect is small, medium or large."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Which sentence best shows the difference between theory and everyday common sense, as in Lazarsfeld’s 1949 “obvious” list?",
+      "options": [
+        "Common sense is always wrong, theory is always right.",
+        "Common sense can find a reason for any result after the fact; a theory has to say beforehand which result to expect under which conditions.",
+        "Common sense speaks in numbers, theory in words.",
+        "There is no difference; theory is dressed-up common sense."
+      ],
+      "answer": 1,
+      "explain": "Lazarsfeld’s game shows how easy it is to say “obvious” when the result was not known beforehand. A theory speaks beforehand, so it can be tested. The first option overreaches with “always”; the third draws the line in the wrong place; the fourth says the opposite of the lesson."
+    },
+    {
+      "id": "q2",
+      "type": "tf",
+      "prompt": "True or false: according to Popper, a theory can be conclusively proven by a large number of confirming examples.",
+      "answer": false,
+      "explain": "False. For Popper, theories are “corroborated” by surviving tests but never conclusively verified. Falsifiability means the theory is open to observations that could refute it; many compatible examples prove nothing if the theory fits every result."
+    },
+    {
+      "id": "q3",
+      "type": "match",
+      "prompt": "Match the names with their concepts.",
+      "pairs": [
+        [
+          "Robert K. Merton",
+          "Middle-range theory"
+        ],
+        [
+          "Karl Popper",
+          "Falsifiability"
+        ],
+        [
+          "Thomas Kuhn",
+          "Paradigm"
+        ],
+        [
+          "Robert T. Craig",
+          "Seven traditions in communication theory"
+        ],
+        [
+          "Paul Lazarsfeld",
+          "The administrative–critical research distinction"
+        ]
+      ],
+      "explain": "The place these pairings get mixed up is usually Popper and Kuhn: Popper is about the testability of theories, Kuhn about the examples a scientific community shares (the paradigm). Merton frames the scale of theory, Craig the definitions of communication, and Lazarsfeld whom research is done for."
+    },
+    {
+      "id": "q4",
+      "type": "order",
+      "prompt": "Put the works in chronological order (earliest to latest).",
+      "items": [
+        "Popper: Logik der Forschung (1935)",
+        "Lazarsfeld: the administrative and critical research essay (1941)",
+        "Merton: Social Theory and Social Structure (1949)",
+        "Kuhn: The Structure of Scientific Revolutions (1962)",
+        "Craig: Communication Theory as a Field (1999)",
+        "McQuail: Mass Communication Theory, 6th edition (2010)"
+      ],
+      "explain": "The order is 1935, 1941, 1949, 1962, 1999, 2010. Because Popper’s English translation appeared in 1959, that year is often assumed for his first work; the German original is dated 1935. It is also important not to mix up Kuhn’s 1962 with Merton’s 1949."
+    },
+    {
+      "id": "q5",
+      "type": "cloze",
+      "prompt": "Fill in the blanks.",
+      "text": "According to Merton, middle-range theories stand between the small {{1}} produced in abundance in day-to-day research and the {{2}} that aim to explain everything under one roof.",
+      "blanks": [
+        {
+          "options": [
+            "working hypotheses",
+            "laws",
+            "paradigms"
+          ],
+          "answer": 0
+        },
+        {
+          "options": [
+            "grand unifying theories",
+            "everyday theories",
+            "operational theories"
+          ],
+          "answer": 0
+        }
+      ],
+      "explain": "Middle-range theory lies between small working hypotheses and grand unifying theories. “Paradigm” is Kuhn’s term, not Merton’s; “operational” and “everyday” are McQuail’s kinds of theory. Those options carry the concepts of another lesson."
+    },
+    {
+      "id": "q6",
+      "type": "case",
+      "scenario": "Imagine: a student thinks, “A question mark in a news headline increases the number of clicks.” Over one week the student collects the headlines and click counts of a news site.",
+      "parts": [
+        {
+          "id": "q6a",
+          "prompt": "What does this sentence, taken alone, most resemble?",
+          "options": [
+            "A paradigm",
+            "A hypothesis",
+            "A normative theory"
+          ],
+          "answer": 1,
+          "explain": "A sentence that states a single relationship in testable form is a hypothesis. A paradigm is a framework shared by a whole scientific community; a normative theory says “what ought to be.”"
+        },
+        {
+          "id": "q6b",
+          "prompt": "Which result would refute this claim?",
+          "options": [
+            "Headlines with question marks not getting higher average clicks than the others",
+            "The headlines being numerous",
+            "The student not liking the claim"
+          ],
+          "answer": 0,
+          "explain": "The refuting observation is not seeing the difference the claim predicts. The other options are unrelated to the truth of the claim."
+        },
+        {
+          "id": "q6c",
+          "prompt": "What is needed to make this claim part of a theory?",
+          "options": [
+            "Collecting more headlines",
+            "Connected propositions that explain why this is so and can extend to other situations",
+            "Repeating the claim more often"
+          ],
+          "answer": 1,
+          "explain": "A theory contains not a single relationship but the set of connected propositions that explains why the relationship holds and from which other observations can be derived. Merely adding data or repeating strengthens a generalisation; it does not build a theory."
+        }
+      ],
+      "takeaway": "A hypothesis is a single testable relationship; a theory is the set of connected propositions that explains that relationship and can generate other observations."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "Which of the following is NOT one of Craig’s seven traditions?",
+      "options": [
+        "Cybernetic",
+        "Sociocultural",
+        "Rhetorical",
+        "Functionalist"
+      ],
+      "answer": 3,
+      "explain": "Craig’s seven traditions are rhetorical, semiotic, phenomenological, cybernetic, sociopsychological, sociocultural and critical. “Functionalism” is the subject of another lesson (and is not on Craig’s list). In exams the sociopsychological and sociocultural traditions are often confused."
+    },
+    {
+      "id": "q8",
+      "type": "tf",
+      "prompt": "True or false: according to McQuail, media-centric theory mostly sees the media as a reflection of political and economic forces.",
+      "answer": false,
+      "explain": "False. That description belongs to society-centric theory. Media-centric theory grants the media more autonomy and influence; it sees them as a primary mover of social change, driven especially by developments in communication technology."
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "In Potter, Cooper and Dupagne’s (1993) journal count, roughly what share of the articles belonged to the critical paradigm?",
+      "options": [
+        "More than 60%",
+        "About 34%",
+        "Less than 6%",
+        "50%"
+      ],
+      "answer": 2,
+      "explain": "The social science paradigm was above 60%, the interpretive about 34%, the critical less than 6%. The first two options are the shares of the other paradigms; “50%” belongs to no paradigm in the data."
+    },
+    {
+      "id": "q10",
+      "type": "case",
+      "scenario": "Imagine: the editor of a local newspaper has for years applied an unwritten rule: “Monday morning, the municipality story doesn’t get read; a sports headline sells.” An academic wants to test this rule in the newspaper’s archive.",
+      "parts": [
+        {
+          "id": "q10a",
+          "prompt": "Which of McQuail’s kinds of theory does the editor’s unwritten rule fall under?",
+          "options": [
+            "Normative theory",
+            "Operational theory",
+            "Cultural theory"
+          ],
+          "answer": 1,
+          "explain": "The practical knowledge media practitioners accumulate in practice and that guides behaviour is operational theory. Normative theory looks at “how it ought to be,” cultural theory at evaluating or questioning cultural products."
+        },
+        {
+          "id": "q10b",
+          "prompt": "If the academic will use the results to improve the newspaper’s sales policy, which of Lazarsfeld’s categories is the study closest to?",
+          "options": [
+            "Administrative (applied) research",
+            "Critical research",
+            "Cultural theory"
+          ],
+          "answer": 0,
+          "explain": "Research that serves the practical aims of a particular institution is close to Lazarsfeld’s administrative (applied) category. Critical research questions the media’s general role in society and their structure of control; “cultural theory” is not part of Lazarsfeld’s distinction."
+        },
+        {
+          "id": "q10c",
+          "prompt": "If the academic’s question were “Which interests and power relations does this rule serve?”, which direction would the study move in?",
+          "options": [
+            "Critical direction",
+            "Administrative direction",
+            "Operational direction"
+          ],
+          "answer": 0,
+          "explain": "Questioning interests and power relations is the mark of the critical orientation. The administrative orientation serves the institution’s aims; an “operational direction” is not an academic orientation but the name for practitioners’ practical knowledge."
+        }
+      ],
+      "takeaway": "The same phenomenon can be an operational rule, an administrative study or a critical inquiry, depending on for whom and with which question it is examined."
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "What is the core of the “auxiliary hypotheses” criticism of Popper?",
+      "options": [
+        "Scientists never make predictions.",
+        "When a prediction fails, it can remain unclear whether the theory or the auxiliary hypotheses are at fault.",
+        "Falsifiable theories are false theories.",
+        "Popper held that testing was unnecessary."
+      ],
+      "answer": 1,
+      "explain": "According to the criticism, auxiliary assumptions stand between theory and observation; when a result is unexpected, it is not easy to tell which one was refuted. The other options distort Popper or the criticism: Popper regarded testing as indispensable."
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": "A research team studies a family watching a television news bulletin and treats communication as the “(re)production of social order.” Which of Craig’s traditions is it closest to?",
+      "options": [
+        "Sociopsychological",
+        "Sociocultural",
+        "Cybernetic",
+        "Rhetorical"
+      ],
+      "answer": 1,
+      "explain": "The tradition that sees communication as the (re)production of social order is the sociocultural tradition. The sociopsychological tradition sees communication as expression, interaction and influence; the cybernetic as information processing; the rhetorical as the practical art of discourse. The pair most often confused is sociopsychological and sociocultural."
+    }
+  ]
+}

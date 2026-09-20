@@ -1,0 +1,21 @@
+{
+  "id": "merton",
+  "lang": "tr",
+  "name": "Robert K. Merton",
+  "nativeName": "",
+  "slug": "robert-k-merton",
+  "short": "ABD’li toplumbilimci (1910–2003); “orta düzey kuram” kavramının, kendi yerleşik terimlerinin (kendini doğrulayan kehanet, odak grup) ve Columbia’daki araştırma geleneğinin adı.",
+  "born": "Philadelphia",
+  "roles": [
+    "toplumbilimci",
+    "bilim sosyolojisi araştırmacısı"
+  ],
+  "bio": "Robert K. Merton 1910’da Philadelphia’da doğdu, Şubat 2003’te öldü. Lisansını Temple Üniversitesi’nde yaptı, Harvard’da Talcott Parsons ve George Sarton’ın yanında öğrendi. 1941’de Columbia Üniversitesi’nin kadrosuna katıldı; Paul Lazarsfeld’le birlikte Uygulamalı Toplumsal Araştırmalar Bürosu’nun kurucusu olarak anılır.\n\nBürokrasi, sapkın davranış, kitle iletişimi, toplumsal tabakalaşma ve bilim sosyolojisi üzerine çalıştı. Kendini doğrulayan kehanet ve odak grup gibi, günlük dile de geçen birçok terimi ortaya attı. Cole’un anmasına göre, kuramı ampirik sınamaya sıkıca bağlayan “orta düzey kuram” anlayışı onun Amerikan sosyolojisine bıraktığı bir tarzdır.\n\n*Social Theory and Social Structure*’ın ilk baskısı 1949’da çıktı. Bu kitapta kuram, gözlenen düzenliliklerin türetilebildiği, birbirine bağlı önermeler kümesi olarak tanımlanır; “orta düzey kuram” ise küçük çalışma hipotezleri ile büyük birleştirici kuram çabaları arasında konumlanır. 1994’te Ulusal Bilim Madalyası’nı alan ilk sosyolog oldu.",
+  "works": [
+    {
+      "bib": "merton-1949",
+      "note": "Orta düzey kuram fikrinin ve kuramın tanımının kaynağı."
+    }
+  ],
+  "inCourse": "Bu ders, orta düzey kuram kavramını ([[lesson:what-is-theory]]) ondan alır; kursun “Orta Düzey Etkiler” ünitesindeki kuramlar bu tarife yakın okunabilir (bizim yorumumuz)."
+}

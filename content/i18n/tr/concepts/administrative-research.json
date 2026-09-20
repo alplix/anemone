@@ -1,0 +1,12 @@
+{
+  "id": "administrative-research",
+  "lang": "tr",
+  "term": "idari (yönetimsel) araştırma",
+  "altTerms": [
+    "yönetimsel araştırma"
+  ],
+  "slug": "idari-arastirma",
+  "short": "Lazarsfeld’in 1941 ayrımında, belirli bir kurumun pratik amaçlarına hizmet eden, ampirik yöntemli iletişim araştırması.",
+  "body": "İdari araştırma, Lazarsfeld’in 1941 tarihli makalesindeki ayrımın bir ucudur: kamusal ya da özel bir kurumun verilen amaçlarına hizmet eden, çoğunlukla ampirik yöntemlerle yürütülen iletişim araştırması. Shepperd’in aktardığı ifadeyle, insanların ya da kurumların verilen amaçlar için kullandığı bir “alet”. McQuail, uygulamalı kuramı iletişimi pratik sorunları çözmekte daha etkili kullanmayı hedefleyen kuram olarak tarif eder.\n\nEtiketin kendisi Adorno’nun radyo araştırma işi için kullandığı, pek de iltifat olmayan bir kısaltmaydı (Pooley ve Jeřábek). Türkçe yazında “yönetimsel araştırma” olarak geçer.",
+  "example": "Bir gazetenin satış politikasını iyileştirmek için başlık–tıklanma ilişkisini ölçen araştırma."
+}

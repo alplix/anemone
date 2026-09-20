@@ -1,0 +1,842 @@
+{
+  "id": "what-is-theory",
+  "lang": "tr",
+  "translation": {
+    "status": "source",
+    "date": "2026-09-20"
+  },
+  "title": "Kuram Nedir? Paradigmalar ve Sınıflamalar",
+  "slug": "kuram-nedir",
+  "description": "Kuram, hipotez, model ve paradigma nasıl ayrılır? Merton, Popper, Kuhn, McQuail ve Craig ile kuramları sınıflamanın ve yargılamanın yeniden kullanılabilir haritası.",
+  "claim": "Kuram, bir olguyu anlamlandırmaya, açıklamaya, öngörmeye ve eyleme yön vermeye yarayan sistematik bir fikirler kümesidir; iletişimde tek bir “doğru” kuram yoktur, farklı sorular soran çok sayıda gelenek vardır; bu yüzden bir kuramı “doğru mu?” diye değil, “ne soruyor, neyi görüyor, neyi göremiyor?” diye okumak gerekir.",
+  "keywords": [
+    "kuram nedir",
+    "hipotez",
+    "model",
+    "paradigma",
+    "orta düzey kuram",
+    "Merton",
+    "Popper",
+    "yanlışlanabilirlik",
+    "Kuhn",
+    "McQuail",
+    "Craig",
+    "yedi gelenek",
+    "egemen paradigma",
+    "idari araştırma",
+    "eleştirel araştırma"
+  ],
+  "updated": "2026-09-20",
+  "timeline": {
+    "popper-logik": "Popper, Logik der Forschung: yanlışlanabilirlik ölçütü (İngilizcesi 1959)",
+    "lazarsfeld-remarks": "Lazarsfeld, idari ve eleştirel iletişim araştırması ayrımı",
+    "american-soldier-review": "Lazarsfeld’in The American Soldier yazısı: “besbelli” listesi",
+    "merton-middle-range": "Merton, Social Theory and Social Structure: orta düzey kuramlar",
+    "kuhn-structure": "Kuhn, The Structure of Scientific Revolutions: paradigma",
+    "three-paradigms-count": "Potter, Cooper ve Dupagne: dergilerde üç paradigmanın sayımı",
+    "craig-seven-traditions": "Craig, Communication Theory as a Field: yedi gelenek",
+    "meyrowitz-narratives": "Meyrowitz: güç, haz ve örüntü anlatıları",
+    "mcquail-sixth-edition": "McQuail, Mass Communication Theory, 6. baskı (ilk baskı 1983)"
+  },
+  "cards": [
+    {
+      "id": "ctx-obvious",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "Üç “besbelli” cümle, üçü de ters çıktı",
+      "body": "Sonbahar 1949. Sosyolog [[person:lazarsfeld|Paul Lazarsfeld]], ABD ordusunun savaş yıllarında askerler üzerinde yaptığı devasa araştırmaların özetini, *The American Soldier*’ın ilk iki cildini tanıtan bir yazı yazıyor. Ordunun araştırma birimi yaklaşık 300 çalışma yapmış, 600 binden fazla görüşme birikmişti. [[cite:lazarsfeld-1949]]\n\nYazıya bir oyunla başlıyor: okura birkaç “bulgu” sayıyor, her birinin yanına da insanı “tabii ya” dedirtecek bir gerekçe koyuyor. Sen de dene:\n\n- Eğitimli askerler, eğitimsizlere göre daha çok ruhsal bozukluk belirtisi gösterdi. (Aydının hassaslığı bilinir.)\n- Kırsal kökenli askerlerin morali, kentlilerinkinden iyiydi. (Zorluğa alışkındırlar.)\n- Güneyli askerler, Pasifik’in sıcak adalarındaki iklime Kuzeylilerden daha iyi dayandı. (Sıcağa alışkındırlar.)\n\nİnandın mı? Lazarsfeld şunu açıklıyor: listedeki her cümle, gerçekte bulunanın tam tersiydi. Eğitimsiz askerler daha çok belirti gösteriyordu; Güneyliler tropik iklime Kuzeylilerden daha iyi uyum sağlamamıştı. [[cite:lazarsfeld-1949]]\n\nEsas nokta şu: gerçek sonuçları önce söyleseydi, okur onlara da “besbelli” derdi. İnsan her tepkiyi verebilir; önemli olan hangi tepkinin hangi koşullarda sık görüldüğünü bilmektir. [[cite:lazarsfeld-1949]] Gündelik akıl her sonuca sonradan bir gerekçe bulur. Kuram ise önceden konuşmak zorundadır.",
+      "question": {
+        "id": "ctx-obvious-q",
+        "type": "mcq",
+        "prompt": "Lazarsfeld’in “besbelli” listesinden çıkan asıl ders hangisidir?",
+        "options": [
+          "Askerler hakkındaki bütün genel kanılar yanlıştır.",
+          "Bir sonuç öğrenildikten sonra “besbelli” gelmesi, sonucun önceden bilindiğini göstermez; gündelik akıl her sonuca gerekçe bulabilir.",
+          "Anketler yalnızca herkesin zaten bildiğini doğrular.",
+          "Eğitim düzeyi yükseldikçe ruh sağlığı bozulur."
+        ],
+        "answer": 1,
+        "explain": "Lazarsfeld, “anketler zaten besbelli olanı söylüyor” itirazını tam tersine çevirir: sonuç önce bilinmediği sürece “besbelli” demek kolaydır. İlk seçenek aşırı genelleme: yazar “gündelik akıl hep yanlış” demiyor, sadece bu örneklerde ters çıktığını gösteriyor. Üçüncü seçenek onun yanıtladığı itirazın kendisi; dördüncüsü ise bulgunun tersini söylüyor (eğitimsiz askerler daha çok belirti gösterdi)."
+      }
+    },
+    {
+      "id": "ctx-lenses",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "Aynı oturma odası, üç ayrı gözlük",
+      "body": "Joshua Meyrowitz 2008’de yayımladığı bir makaleye bir şakayla başlıyor. Farklı ülkelerden bilim insanları aynı fareleri inceliyor. Her grup, farelerde kendi ülkesinin klişesine uyan özellikleri “keşfediyor”: biri düzenli hiyerarşiler görüyor, öteki anın dürtüsüyle davranan hayvanlar, bir başkası yaratıcı uzun vadeli uyumlar. Herkes zaten “bildiğini” görüyor. [[cite:meyrowitz-2008]] Meyrowitz bunun bir gözlemci yanlılığı şakası olduğunu söylüyor; ama insan iletişimini bilme biçimlerinin hepsinin altında benzer bir süreç yatıyor olabileceğini ekliyor. [[cite:meyrowitz-2008]]\n\nSonra bir sahne kuruyor: bir aile televizyonda haber izliyor. Bir araştırmacı kampı, ailenin baskın bir ideolojik metne maruz kaldığını görüyor. Bir başkası, ailenin medyayı işine yarar ve hoşuna giden amaçlarla kullandığını: dünyayı gözetlemek, çocukların toplumsallaşması, sohbet konusu bulmak. Üçüncüsü ise ne içeriğe ne niyetlere, ortamın kurduğu etkileşim yapısına bakıyor: televizyon, gazeteden farklı olarak, farklı yaş ve cinsiyetten aile üyelerini aynı deneyimin içine koyuyor. [[cite:meyrowitz-2008]] McQuail bu üç anlatıyı Meyrowitz’in “güç, haz ve örüntü” adlandırmasıyla aktarır. [[cite:mcquail-2010]]\n\nNeden bu kadar çok bakış var? McQuail bir nedeni açıkça söyler: “iletişim” için hiç kimsenin üzerinde uzlaştığı tek bir tanım yok. Kimi bunu bilgi iletmek, kimi anlam alıp vermek, kimi paylaşmak, kimi etki uygulamak sayıyor. Üstüne alan, birçok disiplinin kesişiminden doğmuş. [[cite:mcquail-2010]] Bu ders, bu kalabalıkta yolunu bulman için.",
+      "question": {
+        "id": "ctx-lenses-q",
+        "type": "mcq",
+        "prompt": "Bir araştırmacı, ailenin akşam haberini komşularla konuşacak malzeme bulmak ve dünyada olanları gözetlemek için izlediğini savunuyor. Meyrowitz’in üç anlatısından hangisine yakın duruyor?",
+        "options": [
+          "Güç: aile, baskın bir ideolojik metnin altında eziliyor.",
+          "Haz: aile, medyayı işine yarar ve hoşuna giden amaçlarla kullanıyor.",
+          "Örüntü: asıl önemli olan ortamın kurduğu yapı.",
+          "Üçü de aynı şeyi söylüyor, fark yok."
+        ],
+        "answer": 1,
+        "explain": "İzleyicinin medyayı kendi amaçları için etkin biçimde kullandığını gören bakış, “haz” anlatısına yakındır. “Güç” anlatısı baskın ideolojik metni ve buna karşı direnişi öne çıkarır; “örüntü” içerikten çok ortamın yapısına bakar. Son seçenek tam da bu dersin çıkış noktasına ters: aynı sahne, farklı gözlüklerle farklı görülür."
+      }
+    },
+    {
+      "id": "deep-visibility",
+      "section": "context",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Lazarsfeld’in “görünmez toplum” savı",
+      "body": "“Besbelli” oyununun etrafındaki paragraflar, Lazarsfeld’in neden anketlerin “sıradan” bulgular üretmesinden rahatsız olmadığını anlatır. Ona göre düzenlilikleri bulmak her bilimin başlangıcıdır; kuram kurmak için insanların çeşitli koşullarda genellikle ne yaptığını bilmek gerekir, deney tasarlamadan önce de hangi sorunların değerli olduğunu. [[cite:lazarsfeld-1949]]\n\nSosyal bilimlerin doğa bilimlerinden farkı, toplumsal olayların doğadaki olaylardan çok daha az “görünür” olmasıdır: cisimlerin yere düştüğü ortadadır; ama doğru ve yanlış kavramlarının kültürden kültüre değiştiği ya da adetlerin insanların sandığından farklı bir işlev görebildiği hiç de ortada değildir. Bir çalışma hâkim bir düzenliliği bildirdiğinde okurun “tabii, öyle olur” demesi bu yüzden kolaydır. [[cite:lazarsfeld-1949]]\n\nDersin ana fikriyle bağı: gündelik akıl, “görünmez” toplumsal düzenlilikleri sonradan besbelli sayarak tahmin gücünü abartır. Kuram bu abartıya karşı sigortadır, çünkü sonuçtan önce konuşmak zorundadır."
+    },
+    {
+      "id": "people-cast",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "text",
+      "title": "Bu derste karşılaşacağın isimler ve yıllar",
+      "body": "Sınavda yıl ezberlemekten çok, kimin hangi soruya cevap verdiğini bilmek işe yarar. Yine de bu dersin iskeleti şu:\n\n- **1935 – [[person:popper|Karl Popper]]:** *Logik der Forschung*, sonradan *The Logic of Scientific Discovery* (İngilizcesi 1959). Bilimsel kuramın yanlışlanabilir olması gerektiği fikri. [[cite:popper-1959]]\n- **1941 – [[person:lazarsfeld|Paul Lazarsfeld]]:** “idari” ve “eleştirel” iletişim araştırması ayrımı. [[cite:lazarsfeld-1941]]\n- **1949 – [[person:merton|Robert K. Merton]]:** *Social Theory and Social Structure* ve “orta düzey kuramlar”. [[cite:merton-1949]] Aynı yıl Lazarsfeld’in *The American Soldier* yazısı da çıktı. [[cite:lazarsfeld-1949]]\n- **1962 – [[person:kuhn|Thomas Kuhn]]:** *The Structure of Scientific Revolutions* ve paradigma. [[cite:kuhn-1962]]\n- **1983 – [[person:mcquail|Denis McQuail]]:** *Mass Communication Theory*’nin ilk baskısı; altıncı baskı 2010. [[cite:mcquail-2010]]\n- **1993 – Potter, Cooper ve Dupagne:** alanın “üç paradigma”sını dergi makalelerinde saydılar. [[cite:potter-cooper-dupagne-1993]]\n- **1999 – [[person:craig|Robert T. Craig]]:** iletişim kuramında “yedi gelenek”. [[cite:craig-1999]]\n\nSıra, mantığı da anlatır: önce bilimin nasıl işlediği tartışıldı (Popper, Kuhn), sonra sosyal bilimlerde kuramın ölçeği (Merton), sonra iletişim araştırmasının kendi iç bölünmeleri (Lazarsfeld, Potter ve arkadaşları, Craig).",
+      "question": {
+        "id": "people-cast-q",
+        "type": "mcq",
+        "prompt": "Aşağıdaki eşleşmelerden hangisi doğrudur?",
+        "options": [
+          "Kuhn, 1962: paradigma",
+          "Popper, 1962: paradigma",
+          "Merton, 1935: yanlışlanabilirlik",
+          "Craig, 1949: yedi gelenek"
+        ],
+        "answer": 0,
+        "explain": "Kuhn’un *The Structure of Scientific Revolutions* kitabı 1962’de çıktı ve paradigma kavramıyla anılır. Popper yanlışlanabilirlikle, Merton orta düzey kuramla, Craig yedi gelenekle anılır; yıllar ise sırasıyla 1935, 1949 ve 1999’dur. Sınavda en sık karışan çift Popper–Kuhn’dur: biri kuramı sınamayı, öteki bilimin toplumsal-tarihsel işleyişini anlatır."
+      }
+    },
+    {
+      "id": "people-contexts",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "story",
+      "title": "Kuramlar boşlukta doğmaz: üç sahne",
+      "body": "**Sahne 1: Princeton, 1930’ların sonu.** Bir radyo dinleyici araştırma projesi, Rockefeller Vakfı parasıyla yürüyor. Shepperd’in arşiv yazışmalarına dayanan okumasına göre proje, 1934 tarihli İletişim Yasası’nın “kamu yararı” şartı ve eğitim yayıncılığı tartışması çevresinde şekilleniyor. [[cite:shepperd-2022]] Viyana’dan gelen anket ustası Lazarsfeld’in yanına Frankfurt’tan sürgündeki Theodor Adorno katılıyor. İkisi çok farklı düşünüyor. Sonradan “idari araştırma” denecek etiket, Pooley ve Jeřábek’e göre Adorno’nun bu radyo araştırma işi için kullandığı, pek de iltifat olmayan bir kısaltmaydı. [[cite:pooley-jerabek-2022]]\n\n**Sahne 2: savaş sonrası ABD.** McQuail’e göre “egemen paradigma”, özellikle İkinci Dünya Savaşı’ndan sonraki on yılda şekillendi. O dönemde hem sosyal bilimlerde hem medyada Kuzey Amerika’nın ezici bir üstünlüğü vardı. Sosyolojiden işlevselcilik, bilgi kuramından iletim modeli, anket ve istatistikten ölçüm araçları alındı. Karşıt çizgi ise 1930’larda ABD’ye giden Frankfurt Okulu sürgünlerinden başladı, 1960–70’lerde “1968 fikirleri”nin etkisiyle biçimlendi. [[cite:mcquail-2010]]\n\n**Sahne 3: 1968.** Aynı yıl bir şiddet komisyonu televizyondaki şiddetin içerik çözümlemesini finanse ediyor ve bu iş [[concept:cultivation|kültivasyon]] çizgisinin doğuşuna gidiyor. [[cite:shanahan-morgan-1999]] Aynı sonbaharda Chapel Hill’de kararsız seçmenlerin önemli saydığı konular ile medya içeriği karşılaştırılıyor. [[cite:mccombs-shaw-1972]] Sonuç: [[concept:agenda-setting|gündem belirleme]].\n\nBizim yorumumuz: kuram, bir dönemin sorusuna, parasına, teknolojisine ve yöntemine verilmiş cevaptır. “Kim, ne zaman, kimin parasıyla, hangi sorunun peşinde?” sorusu bir kuramı okumanın ilk adımıdır.",
+      "question": {
+        "id": "people-contexts-q",
+        "type": "tf",
+        "prompt": "Doğru mu yanlış mı: “İdari araştırma” etiketi, Lazarsfeld’in kendi icat ettiği ve övgü amacıyla seçtiği bir addı.",
+        "answer": false,
+        "explain": "Yanlış. Pooley ve Jeřábek’e göre bu ad, Adorno’nun Lazarsfeld’in radyo araştırma işi için kullandığı, pek de iltifat sayılmayan bir kısaltmaydı; Lazarsfeld sonradan etiketi benimsedi ve 1941 makalesinde idari araştırmayı savundu. Etiketin onu bugüne kadar takip etmesi de buradan geliyor."
+      }
+    },
+    {
+      "id": "deep-lazarsfeld-caricature",
+      "section": "people-time",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: “Pozitivist Lazarsfeld” karikatürü",
+      "body": "Alanın hafızasında Lazarsfeld çoğu zaman “apolitik pozitivist”tir. Pooley ve Jeřábek’e göre bu imgeyi ilk ve kalıcı biçimde C. Wright Mills (1959) çizdi; Todd Gitlin (1978) benzer bir suçlama getirdi; Stuart Hall (1982) da Britanya’daki kültürel çalışmaların “davranışçı ana akım hegemonyası”na karşı tanımlandığını yazdı. Sonuç: pozitivist, davranışçı, ana akım, egemen, işlevselci gibi sıfatlar. [[cite:pooley-jerabek-2022]]\n\nYazarlar bu sıfatları Lazarsfeld için “tembel” buluyor. Onlara göre “idari araştırma” Adorno’nun kısaltmasıydı; 1941 makalesi ise Frankfurt Enstitüsü’nün kendi dergisinde çıkan, nüanslı, ünlü ama az okunan bir savunmaydı. Lazarsfeld, ilk günlerinden son Columbia yıllarına kadar nitel ve nicel yöntemleri birlikte kullanmayı istedi; fonlu araştırmacıyı bir “ip cambazı” olarak tarif etti (1948). Noelle-Neumann’la 1960’tan sonra derin bir dostluk kurdu. [[cite:pooley-jerabek-2022]]\n\nDikkat: bu, bir yeniden yorumlama tartışmasıdır; Shepperd ise Adorno–Lazarsfeld gerginliğini 1934 İletişim Yasası’nın kamu yararı şartı çerçevesinde başka bir arşiv okumasıyla anlatır. [[cite:shepperd-2022]] Harita kadar haritayı çizen tarih de tartışmalıdır."
+    },
+    {
+      "id": "claim-core",
+      "section": "claim",
+      "layer": "core",
+      "kind": "text",
+      "title": "Temel iddia: kuram bir mercektir",
+      "body": "Ders şu iddiayı savunuyor: **kuram, bir olguyu anlamlandırmaya, açıklamaya, öngörmeye ve eyleme yön vermeye yarayan sistematik bir fikirler kümesidir; iletişimde tek bir “doğru” kuram yoktur, farklı sorular soran çok sayıda gelenek vardır; bu yüzden bir kuramı “doğru mu?” diye değil, “ne soruyor, neyi görüyor, neyi göremiyor?” diye okumak gerekir.**\n\nGeniş tanım McQuail’den: kuram, yalnızca yasa benzeri önermeler sistemi değil; bir olguyu anlamlandırmaya, eylemi yönlendirmeye ya da bir sonucu öngörmeye yarayan her sistematik fikir kümesi olabilir. [[cite:mcquail-2010]] Bu tanım “kuram” kelimesini laboratuvarın dışına taşır: bir gazetecinin haber seçerken kullandığı kalıplaşmış pratik bilgi de, bir izleyicinin kendi medya kullanım tecrübesi de bu şemsiyenin altına girer. Merton’un daha sıkı tanımına birazdan döneceğiz.\n\nMerceği neden iyi bir benzetme buluyoruz? Çünkü mercek bir şeyi büyütürken başka bir şeyi bulanıklaştırır. McQuail’in aktardığı ayrıma göre eleştirel kuram medya pratiğinin altında yatan sorunları toplumsal meselelerle ilişkilendirmeye çalışır; uygulamalı kuram ise iletişimi pratik sorunları çözmekte daha etkili kullanmayı hedefler. [[cite:mcquail-2010]] İkisi de gerçek bir şey görüyor; ikisi de öbürünün baktığı yeri az görüyor. (Mercek benzetmesi bizim; bilimsel bir terim değil.)",
+      "question": {
+        "id": "claim-core-q",
+        "type": "mcq",
+        "prompt": "McQuail’in geniş tanımına göre aşağıdakilerden hangisi “kuram” sayılabilir?",
+        "options": [
+          "Yalnızca laboratuvar deneyiyle sınanmış yasa benzeri önermeler",
+          "Bir haber editörünün, deneyimden edindiği ve kalıplaşmış pratik bilgi birikimi",
+          "Yalnızca üniversitelerde üretilen ve hakemli dergilerde yayımlanan açıklamalar",
+          "Yalnızca sayılarla ifade edilen ilişkiler"
+        ],
+        "answer": 1,
+        "explain": "McQuail, sistematik ve kalıcı olduğu sürece medya çalışanlarının pratik bilgisini de “operasyonel kuram” diye anar. Diğer üç seçenek kuramı daraltıyor: yasa benzeri önermeler, akademik üretim ya da sayısal ilişkiler ancak kuramın bir türüdür, hepsi değil."
+      }
+    },
+    {
+      "id": "claim-functions",
+      "section": "claim",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Kuramın dört işi (ve bir ek mesaisi)",
+      "body": "Bir kuram kağıt üzerinde bir cümle kümesidir; asıl değeri yaptığı işlerde görünür. McQuail’in tanımındaki fiillerden ve iletişim bilimi tanımlarından çıkan dört iş şöyle: [[cite:mcquail-2010]]\n\n1. **Anlamlandırmak (betimlemek):** dağınık gözlemleri gruplayıp adlandırmak. “Bu iki olay aslında aynı türün örnekleri” demek.\n2. **Açıklamak:** neden böyle? Berger ve Chaffee’nin iletişim bilimi tanımı, sınanabilir kuramlarla olguları açıklamaktan söz eder. [[cite:mcquail-2010]]\n3. **Öngörmek:** “şu koşul varsa şu sonuç beklenir”. Öngörü, kuramı kendi aleyhine çalışabilecek hâle getirir.\n4. **Yön vermek:** pratikte neyi, nasıl yapacağını seçmene yardım etmek. Medya çalışanları da bunu yapar: haber seçmek, izleyiciyi memnun etmek, sınırları aşmamak için pratik kuramlar kullanırlar. [[cite:mcquail-2010]]\n5. **Ek mesai, eleştirel kuramlarda:** ortaya çıkarmak. Eleştirel kuram, medya pratiğinin altındaki sorunları ve kusurları görünür kılmayı amaçlar. [[cite:mcquail-2010]]\n\nHayal et: bir yerel haber sitesinde editör, “akşam saatlerinde kısa başlıklar daha çok okunur” diye düşünüp başlıkları kısaltıyor. Bu bir *yön verme* kuramıdır; sınanmamış olabilir ama davranışı yönlendiriyor. Bir akademisyen bunu bir hafta boyunca ölçerse *öngörü* aşamasına geçmiş olur.",
+      "question": {
+        "id": "claim-functions-q",
+        "type": "mcq",
+        "prompt": "Bir araştırmacı, “Bir konu sosyal medyada bir hafta boyunca yoğun paylaşılırsa, ertesi hafta ana haber bültenlerinde o konunun yeri artar” diyor ve bunu sınamaya hazırlanıyor. Kuramın hangi işini yapıyor?",
+        "options": [
+          "Yalnızca betimliyor",
+          "Öngörüyor",
+          "Kuramın normatif işini yapıyor",
+          "Eleştirel kuramın ek mesaisini yapıyor"
+        ],
+        "answer": 1,
+        "explain": "“Şu koşul varsa şu sonuç beklenir” kalıbı öngörüdür ve sınanabilir bir çıkarım üretir. Betimleme yalnızca “ne olduğunu” söylerdi; normatif iş ise “nasıl olması gerektiğini” söyler; eleştirel mesai ise gizli sorunları açığa çıkarmayı hedefler. Buradaki cümle bunların hiçbirini yapmıyor."
+      }
+    },
+    {
+      "id": "deep-lewin",
+      "section": "claim",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: “İyi kuram kadar pratik bir şey yoktur” kimin sözü?",
+      "body": "Kuramın yön verme işini anlatan ünlü bir söz var: “iyi bir kuram kadar pratik bir şey yoktur.” Genellikle Kurt Lewin’e atfedilir. McCain, 1945–2013 arasında bu sözün varyantlarını kullanan 693 İngilizce dergi makalesini derledi; bunların yaklaşık yüzde 70’i psikoloji, yönetim ve eğitim alanındaydı. [[cite:mccain-2015]]\n\nBedeian (2016) ise sözün Lewin’den çıkmadığını gösterdi. İzini önce 1920’lerde General Electric’in kullanımına, oradan da Friedrich W. Dörpfeld’in 1873 tarihli, eğitim programı kuramına dair kitabına kadar sürdü. [[cite:bedeian-2016]] Yani söz, tam da bu derste konuştuğumuz şeyin bir örneği: yanlış atıf bile bir kez basılınca dolaşıma girer.\n\nDers çıkarımı: “bunu kim söyledi?” sorusu da kuramın çıkış bağlamını sorgulamanın bir parçasıdır."
+    },
+    {
+      "id": "concepts-relatives",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Altı akraba: gündelik akıl, hipotez, genelleme, kuram, model, paradigma",
+      "body": "Merton, “kuram” sözcüğünün anlamsızlaşma tehlikesi taşıdığından yakınıyordu: küçük çalışma hipotezlerinden dağınık spekülasyonlara, oradan aksiyomatik sistemlere kadar her şeye bu ad veriliyor. [[cite:merton-1949]] Sınav için akrabaları ayır:\n\n- **Gündelik (sağduyu) kuram:** hepimizin kendi deneyiminden edindiği bilgi. Medya kullanımını gerçekten yönlendirir. [[cite:mcquail-2010]] Ama sınanmamıştır; Lazarsfeld’in listesi bunun riskini gösterdi.\n- **Hipotez:** sınanabilir, tek bir ilişki iddiası. Merton’un deyimiyle günlük araştırmada bolca üretilen küçük ama gerekli çalışma hipotezleri. [[cite:merton-1949]]\n- **Ampirik genelleme:** gözlenen düzenliliği özetleyen yalıtılmış önerme. Merton’a göre kuram bundan fazlasıdır: genellemelerin kendisinin türetildiği varsayımlar kümesidir. [[cite:merton-1949]]\n- **Kuram:** birbirine mantıksal olarak bağlı önermeler kümesi; gözlenen düzenlilikler ondan türetilebilir. [[cite:merton-1949]]\n- **Model:** bir sürecin parçalarını ve ilişkilerini sadeleştirip gösteren şema. Shannon ve Weaver’ın modeli iletişimi kaynak, mesaj, sinyal, kanal, alıcı ve hedef diye sıralanan bir süreç olarak çizer. [[cite:mcquail-2010]] Model çoğu zaman “nasıl işliyor”u gösterir, “neden”i açıklamaz.\n- **Paradigma:** Kuhn’da bir bilim topluluğunun paylaştığı örnek başarılar ve buna bağlı inançlar, araçlar, değerler bütünü. [[cite:sep-kuhn]] İletişim yazınında çoğu zaman gevşekçe “baskın bakış açısı” anlamında kullanılır (McQuail’in “egemen paradigma”sı gibi). [[cite:mcquail-2010]]\n\n“Yasa” sözcüğü iletişimde nadir geçer; Berger ve Chaffee’nin aktarılan tanımı “yasa benzeri genellemelerden” söz eder. [[cite:mcquail-2010]]",
+      "question": {
+        "id": "concepts-relatives-q",
+        "type": "mcq",
+        "prompt": "Bir araştırmacı, “gece haberlerinde şiddet oranı arttıkça izleyicilerin korku puanı yükselir” cümlesini bu hafta topladığı anket verisiyle sınayacak. Bu cümle en çok neye benziyor?",
+        "options": [
+          "Bir paradigma",
+          "Bir hipotez",
+          "Bir model",
+          "Bir yasa"
+        ],
+        "answer": 1,
+        "explain": "Tek bir ilişkiyi sınanabilir biçimde ifade eden cümle hipotezdir. Paradigma bütün bir topluluğun paylaştığı bakış ve örneklerdir; model süreci şematik gösterir; yasa ise (iletişimde nadir) her koşulda geçerli düzenlilik iddiasıdır. Bu cümle o kadar büyük bir iddiada bulunmuyor."
+      }
+    },
+    {
+      "id": "concepts-midrange",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Orta düzey kuram: ne dev ne minik",
+      "body": "Bu kursun büyük bölümü “orta düzey” kuramlarla ilgili. Terim [[person:merton|Merton]]’dan: orta düzey kuramlar, günlük araştırmada bolca üretilen küçük çalışma hipotezleri ile toplumsal davranışın, örgütlenmenin ve değişimin tamamını tek çatı altında açıklamaya çalışan büyük birleştirici çabalar arasında durur. [[cite:merton-1949]]\n\nMerton’un tarifine göre bu kuramlar soyuttur ama gözleme yeterince yakındır, yani sınanabilir önermelere dönüşebilir. Alanları sınırlıdır: referans grupları, toplumsal hareketlilik, rol çatışması, normların oluşumu gibi. Kendi karşılaştırması da şöyle: bir fiyat kuramı, mikrop kuramı ya da gazların kinetik kuramı gibi. [[cite:merton-1949]] Bu kuramlar tek bir “her şeyin kuramı”ndan türetilmiş değildir; sonradan onunla uyumlu çıkabilirler. [[cite:merton-1949]] Cole’un ifadesiyle bu, Merton’un kurduğu, kuramı ampirik sınamaya sıkı sıkıya bağlayan Amerikan sosyoloji tarzıdır. [[cite:cole-2004-merton]]\n\nBu kursta gündem belirleme, kültivasyon ve suskunluk sarmalı gibi kuramlar bu tarife yakın durur: her biri belli bir olgu alanını (haber gündemi, televizyonun dünya algısı, azınlıkta kalma korkusu) sınanabilir önermelerle ele alır. Bu bizim okumamızdır; Merton medya etkilerini bu çerçevede sınıflandırmadı. Sınavda Merton adını orta düzey kuramla, “büyük boy” ve “küçük boy” arasındaki konumla bağdaştır.",
+      "question": {
+        "id": "concepts-midrange-q",
+        "type": "mcq",
+        "prompt": "Aşağıdakilerden hangisi Merton’un orta düzey kuram tarifine uyar?",
+        "options": [
+          "Toplumdaki bütün düzenlilikleri tek bir sistemden türeten evrensel bir kuram",
+          "Belirli bir alanı (örneğin referans gruplarını) ele alan, sınanabilir hipotezler türetilebilecek kadar somut bir önermeler kümesi",
+          "Bir araştırmada topladığın verinin özet tablosu",
+          "Yalnızca laboratuvar deneyiyle kurulabilen psikolojik yasalar"
+        ],
+        "answer": 1,
+        "explain": "Orta düzey kuram sınırlı bir alanı ele alan ve sınanabilir önermelere dönüşebilen kuramdır. İlk seçenek Merton’un “büyük birleştirici çaba” dediği şeydir; üçüncüsü kuram bile değil, düz betimlemedir; dördüncüsü ise Merton’un tarifinde olmayan bir kısıt getirir."
+      }
+    },
+    {
+      "id": "concepts-mcquail",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "McQuail’in kuram türleri: bilimsel, kültürel, normatif, operasyonel, gündelik",
+      "body": "McQuail (6. baskı, 2010), kuramı yalnızca yasa benzeri önermeler olarak değil, bir olguyu anlamlandırmaya, eylemi yönlendirmeye ya da sonucu öngörmeye yarayan her sistematik fikir kümesi olarak anlarsak en az beş tür ayırt edebileceğimizi söyler. [[cite:mcquail-2010]]\n\n- **Sosyal bilimsel kuram:** medyanın doğası, işleyişi ve etkileri hakkında, sistematik ve nesnel gözleme dayanan, sınanıp doğrulanabilen ya da reddedilebilen genel önermeler.\n- **Kültürel kuram:** çok çeşitli. Kimi kültür ürünlerini kalite ölçütleriyle değerlendirir, kimi hiyerarşiyi sorgular. Çekirdeği çoğu zaman imgesel ve fikirseldir, gözlemle sınanma talebine direnir.\n- **Normatif kuram:** medyanın toplumsal değerlere uygun olarak nasıl çalışması gerektiğini söyler. Yasalarda, düzenlemelerde, etik kodlarda bulunur.\n- **Operasyonel kuram:** medya çalışanlarının uygulamada biriktirdiği pratik bilgi. Haber seçmek, izleyiciyi memnun etmek, reklam tasarlamak gibi işlerde.\n- **Gündelik (sağduyu) kuram:** hepimizin medyayla kendi deneyimimizden edindiği bilgi. Neyin “gerçek”, neyin “kurgu” olduğunu ayırt etmemizi de sağlar.\n\nDikkat: aynı kitabın 2000 tarihli dördüncü baskısında yalnızca dört tür sayılır (bilimsel, normatif, operasyonel, gündelik). Kültürel kuram sonradan eklendi. [[cite:mcquail-2000]] Sınavda “dört mü, beş mi?” sorusu çıkarsa hangi baskıyı okuduğuna bak.",
+      "question": {
+        "id": "concepts-mcquail-q",
+        "type": "mcq",
+        "prompt": "Bir gazetenin haber müdürü, sabah toplantısında yazılı olmayan ama yıllardır uygulanan kurallarla hangi haberin manşete çıkacağını belirliyor. McQuail’in kuram türlerinden hangisi bu bilgiyi anlatır?",
+        "options": [
+          "Normatif kuram",
+          "Operasyonel kuram",
+          "Kültürel kuram",
+          "Sosyal bilimsel kuram"
+        ],
+        "answer": 1,
+        "explain": "Medya çalışanlarının uygulamada topladığı, kalıplaşmış ama çoğu zaman yazıya dökülmemiş bilgi operasyonel kuramdır. Normatif kuram “ne olmalı”yı söyler; kültürel kuram kültür ürünlerini değerlendirir ya da sorgular; sosyal bilimsel kuram ise sistematik gözleme dayanır. Editörün pratik bilgisi bunların hiçbiri değil."
+      }
+    },
+    {
+      "id": "concepts-craig",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Craig’in yedi geleneği: “iletişim nedir?” sorusuna yedi cevap",
+      "body": "Robert T. Craig 1999’da alanı bir “diyalog” olarak yeniden kurmayı önerdi. Ona göre iletişim kuramları, iletişimi ve iletişim sorunlarını tanımlama biçimleriyle ayrılan geleneklerdir; her gelenek iletişim hakkındaki bazı yaygın inançlara seslenir, bazılarına itiraz eder. Craig şemasına “geçici” diyor. [[cite:craig-1999]] Yedi gelenek ve “iletişim şöyle kuramlaştırılır” cümleleri (bizim çevirimizle):\n\n- **Retorik:** söylemin pratik sanatı olarak.\n- **Göstergebilimsel:** işaretlerle öznelerarası aracılık olarak.\n- **Fenomenolojik:** başkalığın deneyimi, diyalog olarak.\n- **Sibernetik:** bilgi işleme olarak.\n- **Sosyo-psikolojik:** ifade, etkileşim ve etki olarak.\n- **Sosyo-kültürel:** toplumsal düzenin (yeniden) üretimi olarak.\n- **Eleştirel:** söylemsel yansıtma, düşünümsel eleştiri olarak. [[cite:libretexts-craig-table]]\n\nCraig ve Muller’in derleme kitabı okumaları bu yedi gelenek etrafında düzenler. [[cite:craig-muller-2007]] Craig’in kendisi de sonradan makalenin çoğu zaman “ünlü yedi gelenek”e bir selam olarak anıldığını belirtir. [[cite:craig-2009]]\n\nKarışmasın: sosyo-psikolojik gelenek ifade-etkileşim-etki üçlüsüyle bireyin ve ilişkinin iletişimine bakar; sosyo-kültürel gelenek ise iletişimi toplumsal düzenin üretimi olarak görür. İlkinde “o kişi neden ikna oldu?” sorusu, ikincisinde “bu topluluk hangi ortak anlamları yeniden üretiyor?” sorusu öne çıkar.",
+      "question": {
+        "id": "concepts-craig-q",
+        "type": "mcq",
+        "prompt": "Bir çalışma, gürültünün mesajı nasıl bozduğunu ve geri bildirimin sistemi nasıl düzelttiğini modelliyor. Craig’in hangi geleneğine en yakın?",
+        "options": [
+          "Retorik",
+          "Fenomenolojik",
+          "Sibernetik",
+          "Eleştirel"
+        ],
+        "answer": 2,
+        "explain": "İletişimi bilgi işleme olarak gören, gürültü ve geri bildirimle uğraşan çalışma sibernetik gelenektedir. Retorik söylemin sanatına, fenomenolojik başkasının deneyimine, eleştirel ise söylemsel yansıtmaya ve güç ilişkilerini sorgulamaya odaklanır."
+      }
+    },
+    {
+      "id": "deep-craig-detail",
+      "section": "concepts",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Craig’in “metamodel”i ve sekizinci gelenek tartışması",
+      "body": "Craig’in 1999 makalesi yalnızca yedi başlık sıralamaz; iki ilkeye dayanır: iletişimin “kurucu” bir üst model olarak ele alınması ve kuramın “üstsöylemsel bir pratik” sayılması. Makaleye göre iletişim kuramlarının hepsi, “iletişim”in zaten zengin anlamlar taşıdığı bir pratik yaşam dünyasına hitap ettiğinde birbiriyle ilgilidir. Her gelenek iletişim hakkındaki bazı ortak inançlara seslenir, bazılarına itiraz eder; geleneklerin birbirini tamamlaması ve gerilimleri de kuramsal bir üstsöylem doğurur. Makale, geleneklerarası tartışma için “topos”lar da önerir. [[cite:craig-1999]]\n\nŞema kapalı değil: Craig 2007’de, Russill’in önerdiği pragmatizmi ayrı bir gelenek olarak eklemenin sonuçlarını değerlendirdi ve alandaki çoğulcu topluluk sorunlarının toplumdaki benzer sorunlardan bağımsız olmadığını savundu. [[cite:craig-2007]] 2009’da ise makalenin çoğu zaman genel bir selam olarak anıldığını, asıl kuramsal çalışmalarda etkisinin dağınık kaldığını belirtti. [[cite:craig-2009]]\n\nSınav için: yedi rakamını ezberle, ama şemanın “geçici” ve tartışmaya açık olduğunu da bil."
+    },
+    {
+      "id": "assumptions-myth",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "myth",
+      "title": "“İyi kuram tarafsız bir aynadır” mı?",
+      "body": "**İnsanlar ne sanır.** Bilimsel kuram, iletişimi olduğu gibi yansıtan tarafsız bir aynadır; değer ve toplum tasavvuru kuramın işi değildir.\n\n**Kanıtlar ne diyor.** McQuail’in anlatısında “egemen paradigma”, aslında özünde normatif bir toplum görüşü taşır: demokratik, liberal, çoğulcu, düzenli ve iyi bilgilenmiş bir “iyi toplum”u varsayar. Toplumsal eşitsizliği, gerilimler kurumsal yollarla çözülebildiği sürece temel bir sorun saymaz. [[cite:mcquail-2010]] Karşı çizgi olan “alternatif paradigma” ise değer tarafsızlığını açıkça reddeder ve toplumu eleştirel bir gözle okur. [[cite:mcquail-2010]]\n\nMcQuail bir adım daha atar: kitle iletişimi çalışması, etkilerin ya da anlamının “kuramsal olarak tarafsız, bilimsel olarak doğrulanmış” bilgisini vermeyi bekleyemeyeceğimiz, değerler ve toplumsal çatışmayla iç içe bir alandır. [[cite:mcquail-2010]] Shepperd’in aktardığı 1941 tarihli Lazarsfeld ifadesi de aynı yere çıkar: idari araştırma, verilen amaçlar için insanların ya da kurumların kullandığı bir “alet”tir. [[cite:shepperd-2022]]\n\nBizim yorumumuz: sorun değer taşımak değil, taşıdığını saklamaktır. Bir kuramı okurken “bu kuram hangi toplumu normal sayıyor?” diye sormak, tarafsızlık iddiasının önüne geçer.",
+      "question": {
+        "id": "assumptions-myth-q",
+        "type": "tf",
+        "prompt": "Doğru mu yanlış mı: McQuail’e göre “egemen paradigma”, toplum hakkında hiçbir değer varsayımı içermeyen, tamamen tarafsız bir yaklaşımdır.",
+        "answer": false,
+        "explain": "Yanlış. McQuail, egemen paradigmanın altında liberal, çoğulcu, düzenli ve iyi bilgilenmiş bir “iyi toplum” tasavvuru olduğunu, yani özünde normatif olduğunu söyler. Tarafsızlık iddiası, varsayımı ortadan kaldırmaz; sadece görünmez kılar."
+      }
+    },
+    {
+      "id": "assumptions-lenses",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "text",
+      "title": "Üç gözlük: sosyal bilimsel, yorumlayıcı, eleştirel",
+      "body": "Potter, Cooper ve Dupagne (1993) kitle iletişim araştırmasını üç paradigmaya ayırdı; McQuail bu bölünmeyi özetler: [[cite:mcquail-2010]]\n\n- **Sosyal bilimsel:** medya hakkındaki ampirik sorular nicel yöntemlerle sınanır. Varsayımı: toplumsal olgular gözlenip ölçülebilir, düzenlilikler sınanabilir.\n- **Yorumlayıcı:** nitel yöntemler, medyanın anlam verme gücü. Varsayımı: iletişim anlam üretimidir ve bağlama bağlıdır; amaç anlamaktır.\n- **Eleştirel:** eleştirel toplum kuramına, özellikle sol ya da politik ekonomi bakışına dayanır. Varsayımı: iletişim güç ilişkilerinin içindedir; amaç bunları görünür kılmaktır.\n\nAynı bölünmenin iki bloklu hâli de var. **Egemen paradigma:** liberal çoğulcu toplum idealine, işlevselciliğe, doğrusal iletim modeline, “güçlü medya, ama gruplarla yumuşatılmış” fikrine ve nicel değişken çözümlemesine dayanır. **Alternatif (eleştirel) paradigma:** toplumu eleştirir, iletim modelini reddeder, teknoloji ve mesaj konusunda belirlenimci değildir, nitel yöntemlere ve kültürel ya da politik ekonomik kuramlara yönelir. [[cite:mcquail-2010]]\n\nEn eski bölünme Lazarsfeld’den (1941): McQuail’in aktarımıyla eleştirel yönelim, medyanın altındaki sorunları toplumsal meselelerle ilişkilendirir; idari (uygulamalı) yönelim ise iletişimi pratik sorunları çözmek için kullanır. [[cite:lazarsfeld-1941]] Bunlar keskin duvarlar değil, yön tarifleridir.",
+      "question": {
+        "id": "assumptions-lenses-q",
+        "type": "mcq",
+        "prompt": "Bir çalışma, 40 izleyiciyle derinlemesine görüşerek bir dizinin onlar için ne anlama geldiğini anlamaya çalışıyor. Potter, Cooper ve Dupagne’nin hangi paradigmasına en yakın?",
+        "options": [
+          "Sosyal bilimsel",
+          "Yorumlayıcı",
+          "Eleştirel",
+          "Hiçbiri; bu bir paradigma değil"
+        ],
+        "answer": 1,
+        "explain": "Nitel yöntemle anlam verme sürecini anlamaya odaklanan çalışma yorumlayıcı paradigmadadır. Sosyal bilimsel paradigma nicel sınamaya, eleştirel paradigma ise güç ve eşitsizlik sorularına odaklanır. Son seçenek de yanlış: bu üç etiket tam da böyle çalışmaları sınıflamak için."
+      }
+    },
+    {
+      "id": "assumptions-centric",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "text",
+      "title": "İki eksen: medya mı toplum mu, kültür mü maddi güçler mi?",
+      "body": "McQuail kuramları iki eksene yerleştirir. [[cite:mcquail-2010]]\n\n**Birinci eksen: [[concept:media-centric|medya-merkezli]] ya da [[concept:society-centric|toplum-merkezli]].** Medya-merkezli kuram, iletişime çok daha fazla özerklik ve etki tanır; medyayı toplumsal değişimin öncü itici gücü, özellikle iletişim teknolojisindeki gelişmelerle ilerleyen bir güç olarak görür ve farklı medya türlerinin içeriğine ve sonuçlarına dikkat eder. Toplum-merkezli kuram ise medyayı çoğu zaman siyasi ve ekonomik güçlerin yansıması sayar; medya kuramı, daha geniş toplum kuramının özel bir uygulamasına dönüşür.\n\n**İkinci eksen: kültürcü ya da maddeci.** Kültürcüler kültürün ve fikirlerin alanına, maddeciler maddi güçlere ve olgulara odaklanır. Bu ayrım kabaca beşeri–bilimsel, nitel–nicel, öznel–nesnel karşıtlıklarına denk düşer. İki eksen birbirinden bağımsızdır; birlikte dört bakış üretir:\n\n1. **Medya-kültürcü:** izleyicinin belli bir medya türüyle yaşadığı deneyimin öznel anlamı.\n2. **Medya-maddeci:** ortamın teknolojisinin ve üretim-alım ilişkilerinin, örgütsel bağlamların içeriği biçimlendirmesi.\n3. **Toplum-kültürcü:** medyayı ve deneyimini toplumu ve bireyleri etkileyen daha derin güçlere bağlı görür; toplumsal-kültürel konular siyasi-ekonomik olanların önünde durur.\n4. **Toplum-maddeci:** medya sahipliğine ve denetimine eleştirel bakış; egemen ideolojiyi bunların biçimlendirdiği savı.\n\nMcQuail, medya kuramının kendisinin de büyük teknoloji ve yapı değişimlerine cevap verme eğilimi taşıdığını ekler. [[cite:mcquail-2010]]",
+      "question": {
+        "id": "assumptions-centric-q",
+        "type": "mcq",
+        "prompt": "Bir araştırmacı, medya sahipliğinin ve denetiminin haberlerdeki egemen ideolojiyi nasıl biçimlendirdiğini inceliyor. McQuail’in dört bakışından hangisine en yakın?",
+        "options": [
+          "Medya-kültürcü",
+          "Medya-maddeci",
+          "Toplum-kültürcü",
+          "Toplum-maddeci"
+        ],
+        "answer": 3,
+        "explain": "Sahiplik, denetim ve egemen ideoloji üçlüsü, medyayı siyasi-ekonomik güçlerin ürünü sayan toplum-maddeci bakışın imzasıdır. Medya-maddeci bakış ortamın teknolojisine ve örgütsel dinamiklere odaklanır; kültürcü bakışlar ise öznel anlama ve kültürel güçlere. Sahiplik–ideoloji bağlantısı onları ayırır."
+      }
+    },
+    {
+      "id": "deep-kuhn",
+      "section": "assumptions",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Kuhn’un paradigması ve iletişim alanı",
+      "body": "Stanford Felsefe Ansiklopedisi’ne göre Kuhn “paradigma”yı iki anlamda kullanır: örnek niteliğindeki araştırma başarıları üzerinde uzlaşma ve daha geniş bir “disipliner matris”, yani paylaşılan kuramsal inançlar, değerler, araçlar ve teknikler. [[cite:sep-kuhn]] Olgun bilim, paradigmanın bulmacalar ve çözüm araçları sunduğu “normal bilim”dir; anomaliler birikince güven krizi ve devrim gelir. Olgunlaşmamış bilim ise “paradigma öncesi” dönemdedir, uzlaşma yoktur. [[cite:sep-kuhn]] Kitabın 1962’de çıkan ilk baskısının ardından 1970’te bir ek yazılı ikinci baskı yayımlandı. [[cite:kuhn-1962]]\n\nSosyal bilimler Kuhn’u coşkuyla benimsedi; Kuhn’un kendisi ise sosyal bilimlerin uzun bir normal bilim dönemi sürdürebileceğinden kuşkuluydu, çünkü “yorumsamacı yeniden yorumlama” birçok sosyal bilimsel işin özüdür. [[cite:sep-kuhn]]\n\nİletişim için sonuç: “paradigma” kelimesini McQuail gibi gevşek kullandığında Kuhn’dan uzaklaşırsın. “Egemen paradigma” bir uzlaşmaya değil, bir çoğunluk pratiğine işaret eder. Potter ve arkadaşlarının kendi sayımı da bunu söyler: çoğunluk olmak egemen olmak değildir. [[cite:potter-cooper-dupagne-1993]]"
+    },
+    {
+      "id": "how-machine",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Bir kuram nasıl çalışır? Bir “hava denizi”nden Pascal’a",
+      "body": "[[person:merton|Merton]]’un kendi örneği, kuramın mekanizmasını iyi gösteriyor. Ona göre orta düzey kuramların çıkış fikri genellikle basittir: Boyle atmosferi bir “hava denizi” olarak tasavvur eder. İmge çıkarımlar üretir: deniz derinleştikçe basınç artıyorsa, Pascal’ın çıkardığı gibi dağın tepesinde hava basıncı dibinden az olmalı. [[cite:merton-1949]]\n\n1. **İmge:** “atmosfer bir hava denizidir.”\n2. **Çıkarım:** öyleyse dağ tepesinde basınç daha düşük olmalı.\n3. **Sınanabilir hipotez:** tepede ve dipte basıncı ölç.\n4. **Sınama:** çıkarım doğrulanıyor mu?\n5. **Verimlilik:** fikir, atmosfer basıncıyla ilgili yeni sorular ve hipotezler üretiyor mu? Merton’a göre fikir bununla değerlendirilir. [[cite:merton-1949]]\n\nToplumsal örnek de aynı iskeletle çalışır. Gündelik akıl, bir afette kayıp ne kadar büyükse hissedilen yoksunluğun o kadar büyük olacağını söyler. Göreli yoksunluk kuramı ise insanların kendilerini benzer gördükleri başkalarıyla kıyasladığını varsayar ve bu yüzden bazı koşullarda daha büyük kaybı yaşayanların, kendinden de kötü durumdakileri görüp daha az yoksun hissedebileceğini öngörür. Merton’un aktardığına göre ampirik veri sağduyuyu değil kuramı destekledi. [[cite:merton-1949]] İlk kartın “besbelli” oyunu ile aynı ders: iyi kuram, bazen sağduyunun tersini önceden söyler.",
+      "question": {
+        "id": "how-machine-q",
+        "type": "order",
+        "prompt": "Merton’un hava basıncı örneğindeki adımları doğru sıraya diz.",
+        "items": [
+          "İmge: atmosfer bir “hava denizi”dir",
+          "Çıkarım: dağ tepesinde basınç daha düşük olmalı",
+          "Sınama: tepede ve dipte basınç kıyaslanır",
+          "Değerlendirme: fikir yeni sorular üretiyor mu?"
+        ],
+        "explain": "Sıra imgeden çıkarıma, çıkarımdan sınamaya, sınamadan verimlilik değerlendirmesine gider. Ölçümü çıkarımdan önce koymak yaygın hata: neyi ölçeceğini çıkarım söyler. Verimlilik ise en sona kalır, çünkü fikrin yeni hipotezler doğurup doğurmadığı sınamalardan sonra görülür."
+      }
+    },
+    {
+      "id": "how-popper",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "story",
+      "title": "Popper’ın bilmecesi: her cevaba “evet” diyen kuram",
+      "body": "Karl Popper’ın işe koyulduğu soru şuydu: hangi kuram bilimsel, hangisi değil? Yanıtı: yanlışlanabilirlik. Kuram, olası bir gözlemle bağdaşmayabiliyorsa bilimseldir. [[cite:sep-popper]]\n\nİki kuramı karşılaştırdı. Einstein’ın kuramı “riskliydi”: Eddington’ın 1919’daki gözlemleri gibi testler onu çürütebilirdi. Freud ve Adler’in psikanalitik açıklamaları ise her insan davranışına uyuyordu; çürütülebilecek bir gözlem bırakmıyordu. [[cite:sep-popper]] [[cite:iep-popper]] Bir kuram her sonuca “evet” diyorsa, hiçbir sonucun onu doğrulamadığı anlamına gelir.\n\nPopper bir adım daha attı: kuramlar “kanıtlanmaz”; ancak sınavdan geçerek “desteklenir”, ama asla doğrulanmış olmaz. [[cite:sep-popper]] *Logik der Forschung* 1935’te, İngilizce çevirisi 1959’da çıktı. [[cite:popper-1959]]\n\nHayal et: bir “medya etkisi” kuramı şöyle diyor: “Haber izleyenler etkilenir. Etkilenmediklerini görürsen, o da bir direniş etkisidir; yani yine etki var.” Sorunu bul: hangi gözlem bu kuramı çürütebilir? Hiçbiri. Kuram hiçbir riske girmiyor. Popper’ın ölçütüne göre bu, güçlü değil, sınanamaz bir kuramdır. McQuail de medya kuramlarının çoğu zaman sınanabilir biçimde ifade edilmesinin güç olduğunu kabul eder. [[cite:mcquail-2010]]",
+      "question": {
+        "id": "how-popper-q",
+        "type": "mcq",
+        "prompt": "Hayal et: Bir kuram, izleyici haberden etkilenirse “etki var”, etkilenmezse “gizli direnç var, o da etkidir” diyor. Popper’ın ölçütüne göre bu kuram hakkında ne söylenebilir?",
+        "options": [
+          "En güçlü kuramdır, çünkü her sonucu açıklıyor.",
+          "Hiçbir gözlem onu çürütemediği için yanlışlanabilir değil; bilimsel sınanabilirliği zayıf.",
+          "Doğrulanmış bir kuramdır.",
+          "Yalnızca haber izleyicileri için geçerlidir."
+        ],
+        "answer": 1,
+        "explain": "Her sonucu açıklayabilmek Popper’a göre kuramın gücü değil zayıflığıdır: risk almadığı için sınanamaz. İlk seçenek tam da bu yanılgıyı yakalıyor. Üçüncü seçenek de yanlış: Popper’a göre hiçbir kuram kesin doğrulanmaz, en fazla sınavlardan geçerek desteklenir."
+      }
+    },
+    {
+      "id": "how-criteria",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Kuramı yargılarken sor: dört soru ve üç ek soru",
+      "body": "İyi bir kuramı ayırt etmek için bir kontrol listesi işini görür:\n\n1. **Sınanabilir mi?** Hangi gözlem onu yanlışlar? (Popper.) [[cite:sep-popper]]\n2. **Kapsamı nedir?** Kaç olguyu, kaç durumu ele alıyor?\n3. **Yalın mı?** Aynı işi daha az varsayımla yapan bir açıklama var mı?\n4. **Buluşsal değeri var mı?** Yeni sorular, yeni araştırmalar doğuruyor mu?\n\nDers kitapları, Littlejohn ve Foss’un listesini şöyle özetler: kapsam, yalınlık, buluşsal değer ve buna açıklık (başka bakışları tanıyor mu?), uygunluk (soruyla kuram birbirine uyuyor mu?) ve geçerlik (genel değeri ve pratikliği). [[cite:wikibooks-comm-theory]] [[cite:libretexts-evaluating-theories]] Uygunluk ölçütü önemli: yorumlayıcı ve eleştirel kuramlar, “sınanabilir mi?” sorusunu aynı sertlikle kaldırmaz. McQuail kültürel kuramın gözlemle sınanma talebine direndiğini söyler. [[cite:mcquail-2010]]\n\n**Mini laboratuvar (hayalî iki kuram).** Kuram A: “Toplumdaki her değişim medyanın eseridir.” Kuram B: “Akşam bülteninde haftada üç kez öne çıkan konu, ertesi hafta halkın önem listesinde daha yukarı çıkar.” Dört soruyu ikisine de uygula. A’nın kapsamı dev ve yalın; ama hangi gözlem onu çürütür? B’nin kapsamı dar ve sınanabilir; peki yeni soru doğuruyor mu? Kimin daha iyi olduğunu söylemek zorunda değilsin; hangi ölçütte güçlü, hangisinde zayıf olduğunu gör.",
+      "question": {
+        "id": "how-criteria-q",
+        "type": "mcq",
+        "prompt": "Bir kuram yalnızca ilk çıktığı örneği açıklıyor, başka hiçbir soruyu ya da araştırmayı doğurmuyor. Hangi ölçütte zayıf?",
+        "options": [
+          "Buluşsal değer",
+          "Yalınlık",
+          "Kapsam",
+          "Yanlışlanabilirlik"
+        ],
+        "answer": 0,
+        "explain": "Yeni sorular ve araştırmalar doğurmaması buluşsal değerin zayıflığıdır. Yalınlık az varsayımla açıklamak, kapsam kaç olgunun ele alındığı, yanlışlanabilirlik ise çürütülebilir olması ile ilgilidir. Bu kuram hem yalın hem sınanabilir olabilir; ama kısır kalabilir."
+      }
+    },
+    {
+      "id": "how-classify",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Kuramı haritaya yerleştir: beş soruluk pusula",
+      "body": "Sınavda ve derste bir kuramla karşılaşınca şu beş soruyu sor; her biri bir “yer imi” verir:\n\n1. **Ne tür kuram?** Sosyal bilimsel mi, kültürel mi, normatif mi, operasyonel mi, gündelik mi? (McQuail.) [[cite:mcquail-2010]]\n2. **Hangi gözlük?** Sosyal bilimsel, yorumlayıcı ya da eleştirel paradigma mı? Egemen mi, alternatif mi? (Potter ve arkadaşları; McQuail.) [[cite:potter-cooper-dupagne-1993]]\n3. **Kim için, ne amaçla?** İdari (uygulamalı) mı, eleştirel mi? (Lazarsfeld, 1941.) [[cite:lazarsfeld-1941]]\n4. **Etki nerede?** Medya-merkezli mi, toplum-merkezli mi; kültürcü mü, maddeci mi? (McQuail’in dört bakışı.) [[cite:mcquail-2010]]\n5. **İletişimi ne sayıyor?** Retorik, göstergebilim, fenomenoloji, sibernetik, sosyo-psikoloji, sosyo-kültür ya da eleştiri mi? (Craig.) [[cite:craig-1999]]\n\nHayal et: bir çalışma, bir kanalın sahiplik yapısının haber içeriğini nasıl biçimlendirdiğini eleştirel bir gözle inceliyor. Pusulaya göre: sosyal bilimsel/eleştirel yönelimli; toplum-maddeci; Craig’de eleştirel geleneğe yakın. Her yerleştirme tartışmaya açıktır; harita bir başlangıç noktasıdır, hüküm değil. Özet kartındaki harita bu beş sorunun kısa hâlidir.",
+      "question": {
+        "id": "how-classify-q",
+        "type": "match",
+        "prompt": "Her pusula sorusunu, cevabını çerçeveleyen kaynakla eşleştir.",
+        "pairs": [
+          [
+            "Ne tür kuram? (bilimsel, normatif, operasyonel, gündelik…)",
+            "McQuail: kuram türleri"
+          ],
+          [
+            "Hangi paradigma? (sosyal bilimsel, yorumlayıcı, eleştirel)",
+            "Potter, Cooper ve Dupagne (1993)"
+          ],
+          [
+            "Kim için? (idari mi, eleştirel mi)",
+            "Lazarsfeld (1941)"
+          ],
+          [
+            "Etki nerede? (medya-merkezli mi, toplum-merkezli mi)",
+            "McQuail: iki eksenli dört bakış"
+          ],
+          [
+            "İletişim nedir? (yedi cevap)",
+            "Craig (1999)"
+          ]
+        ],
+        "explain": "İlk ve dördüncü soru ikisi de McQuail’dendir ama farklı şemalardır: biri kuram türlerini, öteki iki eksenli dörtlü bakışı verir. Sınavda en sık karışan çift Lazarsfeld’in idari–eleştirel ayrımı ile Craig’in yedi geleneğidir; birincisi araştırmanın kimin için yapıldığına, ikincisi iletişimin nasıl tanımlandığına bakar."
+      }
+    },
+    {
+      "id": "evidence-journals",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "text",
+      "title": "Alan gerçekte neyi yayımlıyor? 1993 sayımı",
+      "body": "Paradigmalar hakkında yazan araştırmacılar birbirinden farklı tahminler yürütüyordu. Potter, Cooper ve Dupagne (1993) tahmini bırakıp saymaya karar verdi: sekiz büyük iletişim dergisindeki kitle iletişim makalelerinde altı özelliğe baktılar. [[cite:potter-cooper-dupagne-1993]]\n\nBulgular:\n\n- Sosyal bilimsel paradigma çalışmaların **yüzde 60’ından fazlasını** oluşturuyordu.\n- Yorumlayıcı paradigma **yaklaşık yüzde 34**.\n- Eleştirel paradigma **yüzde 6’dan az**. [[cite:potter-cooper-dupagne-1993]]\n\nYazarların sonucu iki katmanlı: sosyal bilimsel paradigma ana akım dergilerde çoğunluktu ama alanda “egemen” sayılamazdı. Ayrıca sosyal bilimsel *biçim*deki çalışmaların çoğu, kuramsal yönelim ve olasılıklı örneklemle nicel veri toplama konusundaki bilimsel standartları karşılamıyordu. [[cite:potter-cooper-dupagne-1993]]\n\nİki dikkat notu. Birincisi: sayım 1993’te, sekiz dergiyle sınırlı; bugünün tablosu için kanıt değil. İkincisi: başlıkta “ana akım dergiler” diyor; eleştirel çalışmalar başka mecralarda yayımlanmış olabilir (bu bizim yorumumuz). Yine de sayım, “alan tek bir kuramla ilerliyor” fikrini somut veriyle çürütüyor.",
+      "question": {
+        "id": "evidence-journals-q",
+        "type": "mcq",
+        "prompt": "Potter, Cooper ve Dupagne’nin 1993 sayımından hangi çıkarım doğrudur?",
+        "options": [
+          "Eleştirel araştırma bilimsel olarak geçersizdir.",
+          "Sosyal bilimsel paradigma ana akım dergilerde çoğunluktu ama alanın tümünde “egemen” sayılamadı.",
+          "Yorumlayıcı araştırma ana akım dergilerde hiç yayımlanmıyordu.",
+          "Sosyal bilimsel çizgideki bütün çalışmalar bilimsel standartları karşılıyordu."
+        ],
+        "answer": 1,
+        "explain": "Yazarlar sosyal bilimsel paradigmayı “çoğunluk” sayar ama “egemen” demezler; üstelik onun bile standartları tam karşılamadığını söylerler. İlk seçenek sayıdan değer yargısı çıkarıyor; üçüncüsü yüzde 34’ü görmezden geliyor; dördüncüsü de yazarların bulgusunun tersi."
+      }
+    },
+    {
+      "id": "deep-narratives",
+      "section": "evidence",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Üç anlatı, üç paradigma ve bir kontrol",
+      "body": "McQuail, Meyrowitz’in medya etkisi araştırmalarının altında “güç, haz ve örüntü” adında üç kök anlatı gördüğünü aktarır. Birinci anlatı güç ve güce direnişle ilgilidir; ikincisi kültürel etkenlere ve kişisel seçime, üçüncüsü ise medyanın yapısına ve türüne, yani kısmen “ortam kuramı”na bakar. [[cite:mcquail-2010]]\n\nAynı bölümde McQuail iki şeyi daha ekler. Birincisi: Potter ve arkadaşlarının üçlü ayrımı, Fink ve Gantz’in (1996) yayımlanmış iletişim araştırmalarının içerik çözümlemesinde iyi işleyen bir şema olarak bulunmuştur. İkincisi: hem “egemen” hem “alternatif” yaklaşımın kendi içinde iki ayrı öğeyi (eleştirel ve yorumlayıcı) barındırdığı savunulabilir. [[cite:mcquail-2010]]\n\nMeyrowitz’in kendi makalesi, farklı kampların aynı olguyu neden farklı gördüğünü anlamak için yazılmış bir ilk adımdır: yalnızca bilimin değil, insan iletişimine dair bütün bilme biçimlerinin, araştırmacının önceden “bildiği”ne göre şekillenebileceğini söyler. [[cite:meyrowitz-2008]] Bu kart, o adımın bir sonraki basamağı: hangi kampın hangi soruyu sorduğunu bilirsen, hangisinin neyi kaçırdığını da görürsün."
+    },
+    {
+      "id": "critique-popper",
+      "section": "critique",
+      "layer": "core",
+      "kind": "myth",
+      "title": "“Tek bir çürütme kuramı bitirir” mi?",
+      "body": "**İnsanlar ne sanır.** Popper’a göre bilimde tek bir başarısız öngörü kuramı çöpe atar.\n\n**Kanıtlar ne diyor.** Stanford Felsefe Ansiklopedisi bu sadeleştirmeye yöneltilen itirazları sıralar: Bir öngörü tutmadığında, yanlış olanın kuram mı yoksa onu gözleme bağlayan yardımcı varsayımlar mı olduğunu bilemeyiz (Putnam, Lakatos). Lakatos, kuramların yardımcı varsayımlardan oluşan koruyucu bir kuşakla çevrildiğini; Kuhn ve Lakatos, büyük kuramların anomalilere rağmen yaşadığını savunur. [[cite:sep-popper]] IEP de Kuhn ve Putnam’ın eleştirilerine yer verir. [[cite:iep-popper]]\n\nPopper de bu ayrıntıyı biliyordu: yardımcı varsayımı değiştirmek, yeni sınanabilir öngörüler doğuruyorsa saygın bilimsel uygulamadır. Marksizmi bilim dışı sayması, değişikliklerin yalnızca gözlemlere uyum sağlamak için yapılmasındandı. [[cite:sep-popper]] Yani asıl ölçüt “hiç değişmemek” değil, değişikliğin yeni risk almasıdır.\n\nİletişim için sonuç: yanlışlanabilirlik, nedensel iddialar için (“şu maruz kalma şu sonucu doğurur”) çok işe yarayan bir sorudur. Ama yorumlayıcı ve eleştirel çalışmalara aynı sertlikle uygulanamaz; McQuail kültürel kuramın sınama talebine direndiğini, buna rağmen bilimsel yaklaşımlarla birlikte çalışabileceğini belirtir. [[cite:mcquail-2010]] Ölçütü sorgula ama sorgulamayı bırakma.",
+      "question": {
+        "id": "critique-popper-q",
+        "type": "mcq",
+        "prompt": "Aşağıdakilerden hangisi Popper’ın yanlışlanabilirlik ölçütüne yöneltilen eleştiriyi doğru özetler?",
+        "options": [
+          "Bilim insanları hiçbir zaman öngörü yapmaz.",
+          "Bir öngörü tutmadığında, kuramın mı yoksa yardımcı varsayımların mı yanlış olduğunu belirlemek zor olabilir.",
+          "Sınanabilir kuramlar bilimsel değildir.",
+          "Popper hiçbir kuramın desteklenemeyeceğini savundu."
+        ],
+        "answer": 1,
+        "explain": "Yardımcı varsayımlar sorunu, tam da tek bir başarısız öngörünün kuramı hemen çürütmediğini gösterir. İlk seçenek olguya aykırı; üçüncüsü ölçütü baş aşağı çeviriyor; dördüncüsü de yanlış: Popper kuramların sınavlardan geçerek “desteklenebileceğini” söylüyordu, yalnızca hiçbir zaman kesin doğrulanmadıklarını."
+      }
+    },
+    {
+      "id": "critique-maps",
+      "section": "critique",
+      "layer": "core",
+      "kind": "text",
+      "title": "Haritalar da bir kuramdır: sınıflamaların sınırları",
+      "body": "Bu derste öğrendiğin sınıflamalar, kuramları anlamana yarar; ama kendileri de yorumdur ve dört sınırları var:\n\n1. **Bölünmeler iç içe geçer.** McQuail, ekollerin yakınsadığını ama felsefe ve yöntemde önemli farkların sürdüğünü söyler. [[cite:mcquail-2010]]\n2. **Şemalar geçicidir.** Craig kendi şemasını “geçici” diye adlandırdı. [[cite:craig-1999]] Sonradan başka bir araştırmacının önerdiği pragmatizmi ayrı bir gelenek olarak eklemenin sonuçlarını tartıştı. [[cite:craig-2007]]\n3. **İkili karşıtlıklar karikatüre dönebilir.** Pooley ve Jeřábek, Lazarsfeld’in yıllarca “apolitik pozitivist” olarak çizildiğini, oysa onun nitel ve nicel yöntemi hep birlikte kullandığını yazar. [[cite:pooley-jerabek-2022]] Yavuz da 1940’lardan beri ana akım/çoğulcu ile eleştirel/radikal kutuplar arasında bir orta yol arayışı olduğunu, iki geleneğin de sabit yapılar olmadığını belirtir. [[cite:yavuz-2015]]\n4. **Bakış açısı kayması.** McQuail, kendi anlatısının kaçınılmaz bir “batılı” yanlılık taşıdığını, kuramın büyük bölümünün Avrupa ve Kuzey Amerika’dan, İngilizce üretimden geldiğini açıkça yazar. [[cite:mcquail-2010]]\n\nBu yüzden haritayı kuralı olan bir kalıp değil, ilk yönelim aracı olarak kullan: “Bu kuram X’e girer” demek yerine “bu kuram X sorusunu soruyor, Y’yi görmüyor” de.",
+      "question": {
+        "id": "critique-maps-q",
+        "type": "mcq",
+        "prompt": "Sınıflama şemalarına (Craig, McQuail vb.) en yerinde tavır hangisidir?",
+        "options": [
+          "Her kuramı tam olarak tek bir kutuya yerleştirmek zorunludur.",
+          "Şemalar geçici ve tartışmalıdır; kuramların hangi soruyu sorduğunu görmek için ilk yönelim aracı olarak kullanılır.",
+          "Şemalar geçersizdir; kuramlar sınıflandırılamaz.",
+          "Şemaların hepsi aynı şeyi söyler, biri yeter."
+        ],
+        "answer": 1,
+        "explain": "Craig kendi şemasına bile “geçici” der; McQuail bölünmelerin iç içe geçtiğini söyler. Bu yüzden şemalar ne katı kalıp ne de tamamen değersiz. İkinci ve üçüncü seçenek arasındaki denge doğru yol: yararlıdırlar ama kesin değillerdir. Son seçenek de yanlış: her şema farklı bir eksene bakar."
+      }
+    },
+    {
+      "id": "today-tests",
+      "section": "today",
+      "layer": "core",
+      "kind": "text",
+      "title": "Eski kuramlar yeni ortamlarda yeniden sınanıyor",
+      "body": "McQuail, kitle iletişim kuramının her büyük teknoloji ve yapı değişimine cevap verme eğiliminde olduğunu söyler. Ona göre yeni medya, tek yönlü kitle iletişimi modeli artık savunulamadığı için, etkiler hakkındaki eski düşünceyi yeniden değerlendirmeye zorladı. [[cite:mcquail-2010]] İyi bir kuramın belirtisi de burada görünür: yeni koşulda yeniden sınanabilir olması.\n\nBelgelenmiş iki örnek:\n\n- **Kültivasyon ve sosyal medya:** 2023 meta-analizi, 66 bağımsız örneklemden 460 etki büyüklüğünü birleştirdi; genel etki .123 çıktı. [[cite:hermann-morgan-shanahan-2023]]\n- **Suskunluk sarmalı ve sosyal medya:** Pew’in 2013’teki Snowden anketinde katılımcıların yüzde 86’sı konuyu yüz yüze konuşmaya istekliydi; Facebook ve Twitter kullananların ise yalnızca yüzde 42’si aynı konuyu bu platformlarda paylaşmaya. [[cite:hampton-et-al-2014]]\n\nBu bulgular kuramları “kanıtlamaz”; tek bir konu, tek bir an, beyan edilen bir istek gibi sınırları vardır. Ama kuramların sınanmaya devam ettiğini gösterirler. Bizim yorumumuz: “eski kuram artık geçersiz” demek de, “yeni ortamda da hâlâ doğru” demek de aynı kadar çabuk verilmiş hükümlerdir; doğrusu, ortak mesaj sistemi ya da azınlıkta kalma korkusu gibi ana varsayımın yeni ortamda hâlâ tutup tutmadığına bakmaktır.",
+      "question": {
+        "id": "today-tests-q",
+        "type": "mcq",
+        "prompt": "Bir öğrenci, “kültivasyon televizyon çağının kuramıydı, artık bitti” diyor. Bu derste öğrendiklerine göre en yerinde yanıt hangisi?",
+        "options": [
+          "Haklı: kuramlar teknoloji değişince geçersiz kalır.",
+          "Bu sınanabilir bir iddia; 2023 meta-analizi sosyal medya çalışmalarında da bir ilişki buldu, ama ortak mesaj sistemi varsayımı yeni ortamda ayrıca sınanmalı.",
+          "Haksız: kültivasyon her ortamda otomatik olarak geçerlidir.",
+          "Kuramlar sınanamaz, o yüzden tartışmak anlamsız."
+        ],
+        "answer": 1,
+        "explain": "Meta-analiz, kuramın yeni ortamda da sınandığını ve bir ilişki bulunduğunu gösteriyor, ama bu ilişkinin kuramın ana varsayımlarını kanıtladığını söylemek için erken. İlk ve üçüncü seçenek, iki uçta da çok çabuk hüküm veriyor; dördüncüsü de bu dersin temelini reddediyor: kuramlar tam da sınanabildikleri için değerlidir."
+      }
+    },
+    {
+      "id": "today-lab",
+      "section": "today",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Mini laboratuvar: aynı olay, yedi soru",
+      "body": "Bu bir bilimsel çalışma değil, haritayı kullanmayı denemek için bir egzersiz.\n\n**Hayal et:** bir gençlik platformunda yanlış bir bilgi dalgası hızla yayılıyor. Craig’in yedi geleneği aynı olaya yedi soru sorardı. [[cite:craig-1999]] (Soruları biz kurduk; Craig’in kendi sorusu değil.)\n\n- **Retorik:** Bu içerik kimi, nasıl ikna etmeye çalışıyor?\n- **Göstergebilimsel:** Görüntü ve yazı, hangi işaretlerle anlam kuruyor?\n- **Fenomenolojik:** Bir kullanıcı bunu nasıl yaşıyor, başkasıyla diyalog kurabiliyor mu?\n- **Sibernetik:** Bilgi nasıl akıyor, hangi geri bildirimler yayılmayı hızlandırıyor?\n- **Sosyo-psikolojik:** Kimler neden inanıyor ve paylaşıyor?\n- **Sosyo-kültürel:** Bu topluluk hangi ortak anlamları, ritüelleri yeniden üretiyor?\n- **Eleştirel:** Bu içerik kimin çıkarına, hangi güç ilişkileri içinde dolaşıyor?\n\n**Yapılacak:** yedi sorudan ikisini seç. Her biri hangi gözlem verisini isterdi? (anket, görüşme, ağ analizi, metin çözümlemesi…) Sonra kendine sor: seçtiğin merceğin **göremediği** ne var?\n\nBu alıştırmayı bitirdiğinde, bir kuramın yalnızca “doğru mu?” diye değil, “neyi soruyor?” diye de okunabileceğini elle tutacaksın.",
+      "question": {
+        "id": "today-lab-q",
+        "type": "mcq",
+        "prompt": "Bir öğrenci, “Bu içerik hangi şirketin algoritmasına, kimin çıkarına hizmet ediyor?” sorusunu soruyor. Craig’in hangi geleneğine en yakın?",
+        "options": [
+          "Retorik",
+          "Sibernetik",
+          "Fenomenolojik",
+          "Eleştirel"
+        ],
+        "answer": 3,
+        "explain": "Kimin çıkarına ve hangi güç ilişkileri içinde sorusu, iletişimi söylemsel yansıtma ve eleştiri olarak gören eleştirel geleneğin işaretidir. Retorik ikna sanatına, sibernetik bilgi akışına, fenomenolojik ise yaşantıya odaklanır."
+      }
+    },
+    {
+      "id": "turkey-terms",
+      "section": "turkey",
+      "layer": "core",
+      "kind": "text",
+      "title": "Türkçe yazında aynı harita: adlar ve tartışmalar",
+      "body": "Bu dersin haritası Türkiye’ye ithal bir şema değil; Türkçe akademik yazın da aynı bölünmeleri tartışıyor, yalnızca adları farklı:\n\n- **Yönetimsel araştırma ve pozitivist ampirik gelenek.** Erdoğan, Keloğlu-İşler ve Durmuş’un 2005 tarihli makalesi, Lazarsfeld’in “yönetimsel araştırmaları”nı kitle iletişiminde pozitivist ampirik geleneğin kuruluşu olarak ele alır. [[cite:erdogan-keloglu-durmus-2005]]\n- **Anadamar/çoğulcu ve eleştirel/radikal.** Yavuz (2015), 1940’lardan beri bu iki kutup arasında bir orta yol arandığını, “yöndeşme” (yakınsama) tartışmalarının bunun bir parçası olduğunu yazar; anahtar sözcükleri arasında anadamar ve eleştirel çalışmalar, kültürel çalışmalar ve izleyici araştırmaları vardır. [[cite:yavuz-2015]]\n- **Egemen ve eleştirel yaklaşımlar.** Yaylagül’ün kitabının alt başlığı bu ikiliği adlandırır. [[cite:yaylagul-2006]]\n\nİngilizcedeki “dominant/alternative paradigm” (McQuail) Türkçede bu adlarla karşımıza çıkabilir. Aynı ayrım için “egemen”, “anadamar”, “çoğulcu”, “yönetimsel” gibi birden fazla sözcük kullanıldığını bilmek, kaynak okurken kafa karışıklığını önler. Sınavda soru hangi ismi kullanırsa kullansın, altındaki sorunun aynı olduğunu hatırla: araştırma kim için, hangi varsayımla, hangi sorunun peşinde yapılıyor?",
+      "question": {
+        "id": "turkey-terms-q",
+        "type": "mcq",
+        "prompt": "Yavuz (2015) makalesindeki “yöndeşme” terimi neyi anlatır?",
+        "options": [
+          "Anadamar/çoğulcu ve eleştirel/radikal çizgiler arasında orta yol arayışını ve yakınsamayı",
+          "Bir kuramın yalnızca bir ülkeye özgü olmasını",
+          "Sosyal bilimsel paradigmanın zaferini",
+          "Eleştirel çalışmaların ortadan kalkmasını"
+        ],
+        "answer": 0,
+        "explain": "“Yöndeşme”, İngilizce “convergence” karşılığıdır ve iki kutup arasında orta yol arayışını anlatır. Yazar, iki geleneğin de değişmez, sabit yapılar olmadığını ve ortak niteliklerinin geliştirilebileceğini söyler; yani diğer seçeneklerin ima ettiği zafer, kayboluş ya da ülkeye özgülük yoktur."
+      }
+    },
+    {
+      "id": "exam-patterns",
+      "section": "exam",
+      "layer": "core",
+      "kind": "text",
+      "title": "Sınavda böyle sorulur",
+      "body": "**Sık çıkan kalıplar**\n\n- “Orta düzey kuram kavramını kim geliştirdi?” → Robert K. Merton (1949, *Social Theory and Social Structure*).\n- “Yanlışlanabilirlik ölçütü kime aittir?” → Karl Popper. “Paradigma?” → Thomas Kuhn (1962).\n- “Kuram türleri” → McQuail: bilimsel, kültürel, normatif, operasyonel, gündelik.\n- “Yedi gelenek” → Craig (1999).\n- “İdari ve eleştirel araştırma ayrımı” → Lazarsfeld (1941).\n\n**Cazip yanlışlar**\n\n- Popper ile Kuhn’u karıştırmak: biri sınamaya, öteki bilimin tarihsel işleyişine bakar.\n- “Orta düzey kuram = orta derecede etki gösteren kuram” → hayır. Ölçek kuramın kapsamıdır, medya etkisinin büyüklüğü değil.\n- Sosyo-psikolojik ile sosyo-kültürel geleneği karıştırmak (Craig).\n- Medya-merkezli ile toplum-merkezli yaklaşımı ters yazmak: medya-merkezli olan, medyaya özerklik ve etki tanıyandır.\n- McQuail’in kuram türlerini “dört” ya da “beş” saymak: 2000 tarihli baskı dört, 2010 tarihli baskı beş tür sayar.\n\n**Alternatif adlar**\n\n- Orta düzey kuram: kaynaklarda “orta boy kuram” da geçer.\n- Egemen paradigma: “anadamar/çoğulcu”. Alternatif paradigma: “eleştirel/radikal” (bkz. Yavuz, 2015). Lazarsfeld’in idari araştırması: “yönetimsel araştırma”. [[cite:yavuz-2015]] [[cite:erdogan-keloglu-durmus-2005]]\n\nSınav tipi genel örüntülere göre yazıldı; hangi kaynağı okursan oku, soruyu “kim için, hangi varsayımla?” filtresinden geçir.",
+      "question": {
+        "id": "exam-patterns-q",
+        "type": "mcq",
+        "prompt": "Bir sınav sorusu soruyor: “Sosyal bilim kuramlarının, günlük araştırmadaki küçük çalışma hipotezleri ile her şeyi açıklamayı hedefleyen büyük kuramlar arasında durması gerektiğini savunan kavram hangisidir?” Doğru cevap?",
+        "options": [
+          "Yanlışlanabilirlik (Popper)",
+          "Paradigma (Kuhn)",
+          "Orta düzey kuram (Merton)",
+          "Yedi gelenek (Craig)"
+        ],
+        "answer": 2,
+        "explain": "Küçük hipotezler ile büyük birleştirici kuramlar arasındaki konum, Merton’un orta düzey kuramının tanımıdır. Popper kuramın sınanabilirliğine, Kuhn bilim topluluğunun paylaştığı örneklere, Craig ise iletişimin yedi kuramsal geleneğine odaklanır."
+      }
+    },
+    {
+      "id": "summary",
+      "section": "summary",
+      "layer": "core",
+      "kind": "summary",
+      "title": "Özet kartı: yeniden kullanabileceğin harita",
+      "body": "- **Kuram nedir:** bir olguyu anlamlandıran, açıklayan, öngören ve eyleme yön veren sistematik fikirler kümesi; Merton’a göre birbirine bağlı önermeler, gözlenen düzenlilikleri türetir.\n- **Akrabaları:** gündelik akıl (sınanmamış), hipotez (tek ilişki), genelleme, model (şema), paradigma (Kuhn: paylaşılan örnekler).\n- **Orta düzey kuram (Merton):** küçük hipotezler ile büyük birleştirici kuramlar arasında; sınırlı alan, sınanabilir.\n- **Sınama (Popper):** yanlışlanabilirlik, kuramın risk almasıdır. Eleştiri: yardımcı varsayımlar sorunu.\n- **Yargı listesi:** sınanabilirlik, kapsam, yalınlık, buluşsal değer (+ açıklık, uygunluk, geçerlik).\n- **Beş soruluk pusula:** kuram türü (McQuail: 5 tür; 4 tür 2000 baskısında) → paradigma (sosyal bilimsel/yorumlayıcı/eleştirel; egemen/alternatif) → kim için (idari/eleştirel; Lazarsfeld 1941) → etki nerede (medya-/toplum-merkezli; kültürcü/maddeci) → iletişim nedir (Craig’in 7 geleneği).\n- **Neden çok kuram:** iletişim için tek tanım yok, alan çok disiplinli; her gözlük başka şey görür (Meyrowitz).\n- **Bağlam:** kuramlar dönemin sorusundan, parasından, yönteminden doğar (Princeton, 1968).\n- **Sınav tuzağı:** Popper–Kuhn, sosyo-psikolojik–sosyo-kültürel, medya-merkezli–toplum-merkezli.",
+      "question": {
+        "id": "summary-q",
+        "type": "tf",
+        "prompt": "Doğru mu yanlış mı: Merton’un orta düzey kuram kavramı, medya etkilerinin orta büyüklükte olduğunu söyler.",
+        "answer": false,
+        "explain": "Yanlış. Orta düzey, kuramın ölçeği ve kapsamıyla ilgilidir: sınırlı bir alanı ele alan, sınanabilir önermelere dönüşebilen kuramlar. Etkinin küçük, orta ya da büyük olmasıyla bir ilgisi yok."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Lazarsfeld’in 1949’daki “besbelli” listesi, kuram ile gündelik akıl arasındaki farkı en iyi hangi cümleyle gösterir?",
+      "options": [
+        "Gündelik akıl her zaman yanlıştır, kuram her zaman doğrudur.",
+        "Gündelik akıl sonuçtan sonra her sonuca gerekçe bulabilir; kuram ise hangi koşulda hangi sonucun beklendiğini önceden söylemek zorundadır.",
+        "Gündelik akıl sayılarla, kuram ise sözle konuşur.",
+        "İkisi arasında fark yoktur; kuram sağduyunun süslenmiş hâlidir."
+      ],
+      "answer": 1,
+      "explain": "Lazarsfeld’in oyunu, sonuç önceden bilinmediğinde “besbelli” demenin ne kadar kolay olduğunu gösterir. Kuram önceden konuştuğu için sınanabilir. İlk seçenek “her zaman” diyerek aşırıya kaçıyor; üçüncüsü ölçütü yanlış yerden çekiyor; dördüncüsü de dersin tersini söylüyor."
+    },
+    {
+      "id": "q2",
+      "type": "tf",
+      "prompt": "Doğru mu yanlış mı: Popper’a göre bir kuram, çok sayıda doğrulayıcı örnekle kesin olarak kanıtlanabilir.",
+      "answer": false,
+      "explain": "Yanlış. Popper’a göre kuramlar sınavlardan geçerek “desteklenir” ama asla kesin doğrulanmaz. Yanlışlanabilirlik, kuramın çürütülebilecek gözlemlere açık olmasıdır; çok sayıda uyumlu örnek, kuram her sonuca uyuyorsa hiçbir şey kanıtlamaz."
+    },
+    {
+      "id": "q3",
+      "type": "match",
+      "prompt": "İsimleri, kavramlarıyla eşleştir.",
+      "pairs": [
+        [
+          "Robert K. Merton",
+          "Orta düzey kuram"
+        ],
+        [
+          "Karl Popper",
+          "Yanlışlanabilirlik"
+        ],
+        [
+          "Thomas Kuhn",
+          "Paradigma"
+        ],
+        [
+          "Robert T. Craig",
+          "İletişim kuramında yedi gelenek"
+        ],
+        [
+          "Paul Lazarsfeld",
+          "İdari ve eleştirel araştırma ayrımı"
+        ]
+      ],
+      "explain": "Bu eşleşmelerin karıştığı yer genellikle Popper ile Kuhn’dur: Popper kuramın sınanabilirliğini, Kuhn bilim topluluğunun paylaştığı örnekleri (paradigmayı) anlatır. Merton kuramın ölçeğini, Craig iletişimin tanımlarını, Lazarsfeld ise araştırmanın kimin için yapıldığını çerçeveler."
+    },
+    {
+      "id": "q4",
+      "type": "order",
+      "prompt": "Eserleri kronolojik sıraya diz (eskiden yeniye).",
+      "items": [
+        "Popper: Logik der Forschung (1935)",
+        "Lazarsfeld: idari ve eleştirel araştırma makalesi (1941)",
+        "Merton: Social Theory and Social Structure (1949)",
+        "Kuhn: The Structure of Scientific Revolutions (1962)",
+        "Craig: Communication Theory as a Field (1999)",
+        "McQuail: Mass Communication Theory, 6. baskı (2010)"
+      ],
+      "explain": "Sıra 1935, 1941, 1949, 1962, 1999, 2010. Popper’ın İngilizce çevirisi 1959’da çıktığı için ilk yıl genellikle 1959 sanılır; oysa Almanca özgün baskı 1935 tarihlidir. Kuhn’un 1962 tarihi ile Merton’un 1949 tarihini karıştırmamak da önemli."
+    },
+    {
+      "id": "q5",
+      "type": "cloze",
+      "prompt": "Boşlukları doldur.",
+      "text": "Merton’a göre orta düzey kuramlar, günlük araştırmada bolca üretilen küçük {{1}} ile her şeyi tek çatı altında açıklamayı hedefleyen {{2}} arasında durur.",
+      "blanks": [
+        {
+          "options": [
+            "çalışma hipotezleri",
+            "yasalar",
+            "paradigmalar"
+          ],
+          "answer": 0
+        },
+        {
+          "options": [
+            "büyük birleştirici kuramlar",
+            "gündelik kuramlar",
+            "operasyonel kuramlar"
+          ],
+          "answer": 0
+        }
+      ],
+      "explain": "Orta düzey kuram, küçük çalışma hipotezleri ile büyük birleştirici kuramlar arasındadır. “Paradigma” Kuhn’un terimidir, Merton’un değil; “operasyonel” ve “gündelik” ise McQuail’in kuram türleridir. Bu şıklar başka bir dersin kavramlarını taşıyor."
+    },
+    {
+      "id": "q6",
+      "type": "case",
+      "scenario": "Hayal et: Bir öğrenci, “Haber başlığında soru işareti bulunması tıklanma sayısını artırır” diye düşünüyor. Bir hafta boyunca bir haber sitesinin başlıklarını ve tıklanma sayılarını topluyor.",
+      "parts": [
+        {
+          "id": "q6a",
+          "prompt": "Bu cümle tek başına en çok neye benzer?",
+          "options": [
+            "Bir paradigma",
+            "Bir hipotez",
+            "Bir normatif kuram"
+          ],
+          "answer": 1,
+          "explain": "Tek bir ilişkiyi sınanabilir biçimde ifade eden cümle hipotezdir. Paradigma bütün bir bilim topluluğunun paylaştığı çerçevedir; normatif kuram ise “ne olmalı”yı söyler."
+        },
+        {
+          "id": "q6b",
+          "prompt": "Hangi sonuç bu iddiayı çürütür?",
+          "options": [
+            "Soru işaretli başlıkların ortalama tıklanmasının diğerlerinden yüksek çıkmaması",
+            "Başlıkların çok sayıda olması",
+            "Öğrencinin bu iddiayı sevmemesi"
+          ],
+          "answer": 0,
+          "explain": "Çürütücü gözlem, iddianın öngördüğü farkın görülmemesidir. Diğer seçenekler iddianın doğruluğuyla ilgisiz."
+        },
+        {
+          "id": "q6c",
+          "prompt": "Bu iddiayı bir kuramın parçası yapmak için ne gerekir?",
+          "options": [
+            "Daha çok başlık toplamak",
+            "Neden böyle olduğunu açıklayan ve başka durumlara da uzanabilen birbirine bağlı önermeler",
+            "İddiayı daha sık tekrarlamak"
+          ],
+          "answer": 1,
+          "explain": "Kuram, tek bir ilişkiyi değil, o ilişkinin neden geçerli olduğunu açıklayan ve başka gözlemlerin de türetilebildiği bağlantılı önermeler kümesini içerir. Yalnızca veri artırmak ya da tekrarlamak genellemeyi güçlendirir, kuram kurmaz."
+        }
+      ],
+      "takeaway": "Bir hipotez sınanabilir tek bir ilişkidir; kuram ise o ilişkiyi açıklayan ve başka gözlemler üretebilen bağlantılı önermelerdir."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "Aşağıdakilerden hangisi Craig’in yedi geleneğinden biri değildir?",
+      "options": [
+        "Sibernetik",
+        "Sosyo-kültürel",
+        "Retorik",
+        "İşlevselci"
+      ],
+      "answer": 3,
+      "explain": "Craig’in yedi geleneği retorik, göstergebilimsel, fenomenolojik, sibernetik, sosyo-psikolojik, sosyo-kültürel ve eleştiridir. “İşlevselcilik” başka bir dersin konusudur (ve Craig’in listesinde yer almaz). Sınavda sosyo-psikolojik ile sosyo-kültürel gelenek sık karışır."
+    },
+    {
+      "id": "q8",
+      "type": "tf",
+      "prompt": "Doğru mu yanlış mı: McQuail’e göre medya-merkezli kuram, medyayı çoğunlukla siyasi ve ekonomik güçlerin yansıması olarak görür.",
+      "answer": false,
+      "explain": "Yanlış. Bu tanım toplum-merkezli kurama aittir. Medya-merkezli kuram medyaya daha fazla özerklik ve etki tanır; medyayı toplumsal değişimin öncü itici gücü, özellikle iletişim teknolojisindeki gelişmelerle ilerleyen bir güç olarak görür."
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "Potter, Cooper ve Dupagne’nin (1993) dergi sayımına göre eleştirel paradigma makalelerin kabaca ne kadarını oluşturuyordu?",
+      "options": [
+        "Yüzde 60’ından fazlasını",
+        "Yaklaşık yüzde 34’ünü",
+        "Yüzde 6’sından azını",
+        "Yüzde 50’sini"
+      ],
+      "answer": 2,
+      "explain": "Sosyal bilimsel paradigma yüzde 60’ın üzerinde, yorumlayıcı yaklaşık yüzde 34, eleştirel yüzde 6’dan azdı. İlk iki seçenek başka paradigmaların oranı; “yüzde 50” ise verilerde hiçbir paradigmaya ait değil."
+    },
+    {
+      "id": "q10",
+      "type": "case",
+      "scenario": "Hayal et: Bir yerel gazetenin editörü, “pazartesi sabahı belediye haberi okunmaz, spor manşeti sattırır” diye yıllardır uyguladığı bir kural koymuş. Bir akademisyen bu kuralı gazetenin arşivinde sınamak istiyor.",
+      "parts": [
+        {
+          "id": "q10a",
+          "prompt": "Editörün yazılı olmayan kuralı McQuail’in hangi kuram türüne girer?",
+          "options": [
+            "Normatif kuram",
+            "Operasyonel kuram",
+            "Kültürel kuram"
+          ],
+          "answer": 1,
+          "explain": "Medya çalışanlarının uygulamada biriktirdiği ve davranışı yönlendiren pratik bilgi operasyonel kuramdır. Normatif kuram “nasıl olması gerektiği”ne, kültürel kuram kültür ürünlerinin değerlendirilmesine ya da sorgulanmasına bakar."
+        },
+        {
+          "id": "q10b",
+          "prompt": "Akademisyen sonuçları gazetenin satış politikasını iyileştirmek için kullanacaksa, çalışma Lazarsfeld’in hangi kategorisine yakındır?",
+          "options": [
+            "İdari (uygulamalı) araştırma",
+            "Eleştirel araştırma",
+            "Kültürel kuram"
+          ],
+          "answer": 0,
+          "explain": "Belirli bir kurumun pratik amacına hizmet eden araştırma, Lazarsfeld’in idari (uygulamalı) araştırma kategorisine yakındır. Eleştirel araştırma medyanın toplumdaki genel rolünü ve kontrol yapısını sorgular; “kültürel kuram” ise Lazarsfeld’in ayrımının parçası değildir."
+        },
+        {
+          "id": "q10c",
+          "prompt": "Akademisyenin sorusu “Bu kural hangi çıkarlara ve güç ilişkilerine hizmet ediyor?” olsaydı, hangi yöne kayardı?",
+          "options": [
+            "Eleştirel yön",
+            "İdari yön",
+            "Operasyonel yön"
+          ],
+          "answer": 0,
+          "explain": "Çıkar ve güç ilişkilerini sorgulamak eleştirel yöneliminin işaretidir. İdari yönelim kurumun amacına hizmet eder; “operasyonel yön” ise akademik bir yönelim değil, medya çalışanlarının pratik bilgisinin adıdır."
+        }
+      ],
+      "takeaway": "Aynı olgu, kim için ve hangi soruyla incelendiğine göre operasyonel bir kural, idari bir araştırma ya da eleştirel bir soruşturma olabilir."
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "Popper’a yöneltilen “yardımcı varsayımlar” eleştirisinin özü nedir?",
+      "options": [
+        "Bilim insanları hiç öngörü yapmaz.",
+        "Öngörü tutmadığında hatanın kuramda mı yoksa yardımcı varsayımlarda mı olduğu belirsiz kalabilir.",
+        "Yanlışlanabilir kuramlar yanlış kuramlardır.",
+        "Popper sınamayı gereksiz saydı."
+      ],
+      "answer": 1,
+      "explain": "Eleştiriye göre kuram ile gözlem arasında yardımcı varsayımlar durur; sonuç beklenmedik çıkınca hangisinin çürütüldüğü kolay anlaşılmaz. Diğer seçenekler Popper’ı ya da eleştiriyi çarpıtıyor: Popper sınamayı vazgeçilmez sayardı."
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": "Bir araştırma ekibi, aynı televizyon haberini izleyen bir ailede iletişimi “toplumsal düzenin (yeniden) üretimi” olarak inceliyor. Craig’in hangi geleneğine en yakın?",
+      "options": [
+        "Sosyo-psikolojik",
+        "Sosyo-kültürel",
+        "Sibernetik",
+        "Retorik"
+      ],
+      "answer": 1,
+      "explain": "İletişimi toplumsal düzenin (yeniden) üretimi olarak gören gelenek sosyo-kültürel gelenektir. Sosyo-psikolojik gelenek iletişimi ifade, etkileşim ve etki olarak görür; sibernetik bilgi işleme olarak; retorik söylemin pratik sanatı olarak. En sık karışan çift sosyo-psikolojik ile sosyo-kültürel."
+    }
+  ]
+}

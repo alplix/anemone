@@ -1,0 +1,27 @@
+{
+  "id": "craig",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "name": "Robert T. Craig",
+  "nativeName": "",
+  "slug": "robert-t-craig",
+  "short": "American communication theorist; mapped communication theory as “seven traditions” in a 1999 article.",
+  "roles": [
+    "communication theorist",
+    "professor emeritus at the University of Colorado Boulder"
+  ],
+  "bio": "Robert T. Craig is a professor emeritus of communication at the University of Colorado Boulder. He works on communication theory and philosophy, discourse analysis and argumentation. He joined the faculty in 1990, chaired the department from 2001 to 2005, and retired from full-time teaching in 2014.\n\nHe is a fellow and past president of the International Communication Association (ICA), a Distinguished Scholar of the National Communication Association (NCA), and the founding editor of the ICA journal *Communication Theory*. He is also named as a co-editor of the *International Encyclopedia of Communication Theory and Philosophy*.\n\nIn “Communication Theory as a Field” (1999, *Communication Theory*), he proposed reconstructing communication theory as a dialogue among seven traditions that define communication in different ways. The reader he co-edited with Heidi L. Muller, *Theorizing Communication* (2007), is organised around those seven traditions.",
+  "works": [
+    {
+      "bib": "craig-1999",
+      "note": "The source of the seven-traditions scheme and of the idea of metadiscourse."
+    },
+    {
+      "bib": "craig-muller-2007",
+      "note": "Primary-source readings organised by the scheme."
+    }
+  ],
+  "inCourse": "Provides the lesson’s ([[lesson:what-is-theory]]) map of seven answers to “what is communication?”."
+}

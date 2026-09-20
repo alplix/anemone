@@ -1,0 +1,14 @@
+{
+  "id": "theory",
+  "family": "method",
+  "introducedBy": [],
+  "related": [
+    "middle-range-theory",
+    "paradigm",
+    "falsifiability"
+  ],
+  "sources": [
+    "merton-1949",
+    "mcquail-2010"
+  ]
+}

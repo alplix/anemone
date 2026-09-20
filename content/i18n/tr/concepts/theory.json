@@ -1,0 +1,12 @@
+{
+  "id": "theory",
+  "lang": "tr",
+  "term": "kuram",
+  "altTerms": [
+    "teori"
+  ],
+  "slug": "kuram",
+  "short": "Bir olguyu anlamlandırmaya, açıklamaya, öngörmeye ve eyleme yön vermeye yarayan sistematik fikirler kümesi; sıkı anlamıyla, gözlenen düzenliliklerin türetilebildiği bağlantılı önermeler.",
+  "body": "Kuram, en geniş anlamıyla, bir olguyu anlamlandırmaya, eylemi yönlendirmeye ya da sonucu öngörmeye yarayan sistematik bir fikirler kümesidir (McQuail). Sıkı anlamı Merton’dadır: birbirine mantıksal olarak bağlı önermeler kümesi; gözlenen düzenlilikler bundan türetilebilir. Kuram, tek bir hipotezden ya da yalıtılmış bir ampirik genellemeden fazlasıdır: genellemelerin kendisinin türetildiği varsayımlar kümesini içerir.\n\nBu yüzden kuramı hipotezden, modelden, paradigmadan ve gündelik akıldan ayırmak önemlidir. Ayrıntısı [[lesson:what-is-theory]] dersinde.",
+  "example": "“Göreli yoksunluk kuramı”: insanlar kendilerini benzer gördükleri başkalarıyla kıyaslar; bu yüzden bazı koşullarda daha büyük kayıp yaşayan, daha az yoksun hissedebilir (Merton 1949)."
+}

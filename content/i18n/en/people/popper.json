@@ -1,0 +1,23 @@
+{
+  "id": "popper",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "name": "Karl Popper",
+  "nativeName": "",
+  "slug": "karl-popper",
+  "short": "Vienna-born philosopher of science (1902–1994), known for the criterion that a scientific theory must be falsifiable.",
+  "born": "Vienna",
+  "roles": [
+    "philosopher of science"
+  ],
+  "bio": "Karl Popper was born in Vienna on 28 July 1902 and died in 1994. He is one of the most discussed names in the philosophy of science. His answer to the question of how to separate science from non-science is falsifiability: a theory is scientific if it could be incompatible with some possible observation.\n\nHe illustrated this by comparing Einstein’s risky predictions with psychoanalytic accounts that fit any human behaviour. In his view theories are never conclusively verified; they are only corroborated by surviving tests. He also accepted that changing auxiliary hypotheses is respectable scientific practice as long as it yields new testable predictions.\n\nHis main work, *Logik der Forschung*, appeared in Vienna in 1935; the English translation, *The Logic of Scientific Discovery*, followed in 1959. Thinkers such as Kuhn, Lakatos and Putnam criticised his ideas, and those criticisms became one of the central debates of the philosophy of science.",
+  "works": [
+    {
+      "bib": "popper-1959",
+      "note": "The source of the falsifiability criterion; original title Logik der Forschung (1935)."
+    }
+  ],
+  "inCourse": "Testability, the first question in judging a theory, is treated in this lesson ([[lesson:what-is-theory]]) with his criterion."
+}

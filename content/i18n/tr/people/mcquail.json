@@ -1,0 +1,21 @@
+{
+  "id": "mcquail",
+  "lang": "tr",
+  "name": "Denis McQuail",
+  "nativeName": "",
+  "slug": "denis-mcquail",
+  "short": "İngiliz iletişim kuramcısı (1935–2017); “Mass Communication Theory” ders kitabının yazarı.",
+  "born": "Londra",
+  "roles": [
+    "iletişim kuramcısı",
+    "Amsterdam Üniversitesi profesörü"
+  ],
+  "bio": "Denis McQuail 12 Nisan 1935’te Londra’da doğdu, 25 Haziran 2017’de öldü. Oxford’da tarih okudu (1958), Leeds’te doktorasını tamamladı (1967). Leeds’te sosyoloji öğretim görevlisiydi; 1977’den itibaren Amsterdam Üniversitesi’nde iletişim kürsüsünde çalıştı ve 1997’de emekli oldu.\n\n*Mass Communication Theory*, ilk kez 1983’te 245 sayfalık kısa bir giriş olarak çıktı; altıncı baskısına gelindiğinde 621 sayfayı buldu, 22 dile çevrildi ve 120 binin üzerinde sattı. Kitap, kuramları yalnızca sıralamak yerine türlere, paradigmalara ve eksenlere yerleştirmesiyle tanınır. Kullanımlar ve doyumlar yaklaşımını inceltti, Jay Blumler’le siyasi iletişim çalışmaları yaptı, *European Journal of Communication*’ı kuranlar arasında yer aldı.\n\nHaritalama işinin bir kısmını bu derste göreceksin: kuram türleri, medya-merkezli ve toplum-merkezli bakış, egemen ve alternatif paradigma.",
+  "works": [
+    {
+      "bib": "mcquail-2010",
+      "note": "Kuram türleri ve dört bakış şemasının okunduğu 6. baskı."
+    }
+  ],
+  "inCourse": "Bu dersin ([[lesson:what-is-theory]]) sınıflama şemalarının ana kaynağı."
+}

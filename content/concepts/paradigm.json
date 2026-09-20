@@ -1,0 +1,16 @@
+{
+  "id": "paradigm",
+  "family": "method",
+  "introducedBy": [
+    "kuhn"
+  ],
+  "related": [
+    "theory",
+    "administrative-research",
+    "critical-research"
+  ],
+  "sources": [
+    "kuhn-1962",
+    "sep-kuhn"
+  ]
+}

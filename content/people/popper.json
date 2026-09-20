@@ -1,0 +1,16 @@
+{
+  "id": "popper",
+  "born": {
+    "year": 1902
+  },
+  "died": {
+    "year": 1994
+  },
+  "sources": [
+    "sep-popper",
+    "iep-popper"
+  ],
+  "works": [
+    "popper-1959"
+  ]
+}

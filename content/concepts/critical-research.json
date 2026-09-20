@@ -1,0 +1,16 @@
+{
+  "id": "critical-research",
+  "family": "critical",
+  "introducedBy": [
+    "lazarsfeld"
+  ],
+  "related": [
+    "administrative-research",
+    "paradigm"
+  ],
+  "sources": [
+    "lazarsfeld-1941",
+    "mcquail-2010",
+    "pooley-jerabek-2022"
+  ]
+}
