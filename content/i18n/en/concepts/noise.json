@@ -1,0 +1,11 @@
+{
+  "id": "noise",
+  "lang": "en",
+  "translation": { "status": "machine" },
+  "term": "noise",
+  "altTerms": ["noise source", "engineering noise", "semantic noise"],
+  "slug": "noise",
+  "short": "In Shannon’s diagram, everything added to the signal during transmission that the source did not intend (static, distortion, errors). Weaver also proposed “semantic noise”, which distorts meaning.",
+  "body": "Noise, in the Shannon–Weaver diagram, is everything added to the signal during transmission that the source did not want: distorted sound on a telephone, static on the radio, a distorted picture on television, wrong signals in telegraphy. For the theory, noise is not about the meaning of the message but about how different the received signal can turn out from the one that was sent.\n\nShannon’s important result is this: noise does not make perfect transmission impossible. As long as the channel’s capacity is higher than or equal to the information rate the source produces, suitable coding can make the error as small as one likes; if capacity is exceeded, it cannot be made smaller. Redundancy deliberately left in the code protects against noise.\n\nIn 1949 Weaver proposed that a box called “semantic noise” could be added to the diagram between the source and the transmitter: distortions of meaning that the source did not intend but that still affect the receiver’s interpretation. He called the old “noise” box “engineering noise”. In Turkish books noise sometimes appears as a dysfunctional element of the communication process (Yaylagül 2006). Do not confuse it with “noise = chaos” in everyday language: noise in the theory is only what distorts the signal. Details: [[lesson:lasswell-shannon-weaver]].",
+  "example": "The line crackles on the phone and you miss words: this is engineering noise. If you hear every word perfectly and still understand something different, you are facing the semantic noise Weaver proposed."
+}

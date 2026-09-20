@@ -1,0 +1,18 @@
+{
+  "id": "lasswell",
+  "lang": "en",
+  "translation": { "status": "machine" },
+  "name": "Harold D. Lasswell",
+  "nativeName": "",
+  "slug": "harold-lasswell",
+  "short": "American political scientist (1902–1978). His book on war propaganda appeared in 1927; in 1948 he described communication with five questions and three social functions.",
+  "born": "Donnellson, Illinois",
+  "died": "New York",
+  "roles": ["political scientist", "communication theorist", "propaganda researcher"],
+  "bio": "Harold Dwight Lasswell was born in 1902 in Donnellson, a small town in Illinois, and died in New York in 1978. He was a researcher who worked where political science meets psychology, sociology and law, and who paid little attention to disciplinary boundaries. He worked in Chicago for many years; from 1946 to 1970 he also taught law and political science at a university on the US east coast.\n\nHis first major work in communication was *Propaganda Technique in the World War* (1927), a study of First World War propaganda. In it he defines propaganda as the steering of opinion through significant symbols, and he treats the organisation of propaganda, the themes it worked with and its results in separate chapters. He calls propaganda one of the most powerful instruments of the modern world, but he also writes plainly that the precise measure of its effect is often a matter of surmise.\n\nHis best-known contribution is the 1948 chapter “The Structure and Function of Communication in Society”, in a book edited by Lyman Bryson. There he proposes describing an act of communication through five questions (who says what, in which channel, to whom, with what effect) and speaks of three functions at the level of society: surveillance of the environment, correlating the parts of society in their response to the environment, and transmitting the social heritage from generation to generation. Later generations shortened the chapter to “the Lasswell model” or “the Lasswell formula”; in textbooks it has often become a scheme drawn with boxes and arrows. This page contains only professional information that can be verified; personal details have deliberately been left out.",
+  "works": [
+    { "bib": "lasswell-1927", "note": "A book on the organisation, themes and results of First World War propaganda; the source text against which the “hypodermic needle” reading can be tested." },
+    { "bib": "lasswell-1948", "note": "Five questions and three functions; the best-known sequence of words that organised communication research." }
+  ],
+  "inCourse": "See [[lesson:lasswell-shannon-weaver]]; for propaganda studies [[lesson:propaganda-public-opinion]], for the hypodermic needle reading [[lesson:magic-bullet]]."
+}

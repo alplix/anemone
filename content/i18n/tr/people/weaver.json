@@ -1,0 +1,23 @@
+{
+  "id": "weaver",
+  "lang": "tr",
+  "name": "Warren Weaver",
+  "nativeName": "",
+  "slug": "warren-weaver",
+  "short": "ABD’li matematikçi ve bilim yöneticisi (1894–1978). Rockefeller Vakfı’nda doğa bilimleri programını yönetti; Shannon’ın kuramını genel okura açan yazıyı ve üç düzey ayrımını yazdı.",
+  "born": "Reedsburg, Wisconsin",
+  "died": "Connecticut",
+  "roles": [
+    "matematikçi",
+    "bilim yöneticisi",
+    "makine çevirisinin öncülerinden"
+  ],
+  "bio": "Warren Weaver 1894’te Wisconsin’in Reedsburg kasabasında doğdu, 1978’de Connecticut’ta öldü. Matematik ve mühendislik okudu, 1921’de matematiksel fizikte doktorasını tamamladı ve bir süre matematik hocalığı yaptı. Ama adını asıl bilim yöneticisi olarak duyurdu: 1932’den 1955’e kadar Rockefeller Vakfı’nın doğa bilimleri bölümünün başındaydı ve bu görevle dünyada biyolojinin gelişmesinde etkili oldu. İkinci Dünya Savaşı sırasında ulusal savunma araştırma komitesinin uygulamalı matematik panelini yönetti; bilgisayarla dil çevirisi fikrini ortaya atanlardan biri olarak da anılır.\n\nİletişim çalışmalarında yeri, Shannon’la kurduğu ortaklıktır; ama bu bir iş arkadaşlığı değil, bir yorumcu-yazar ilişkisidir. Weaver Bell Laboratuvarları’nın çalışanı değildi; 1949’da Shannon’ın makalesiyle yan yana basılan yazısında kuramı matematik bilmeyen okura anlattı. Aynı yazıda iletişim sorunlarını üç düzeyde sıraladı (semboller ne kadar doğru iletilir, aktarılan anlam ne kadar yerine ulaşır, alınan anlam davranışı istenen yönde ne kadar etkiler) ve Shannon’ın şemasına “anlamsal alıcı” ile “anlamsal gürültü” kutuları eklenebileceğini önerdi.\n\nAynı yıl *Scientific American*’da kuramın kısa ve popüler bir anlatımını da yayımladı. Bu yüzden “Shannon–Weaver modeli” adı, bir çizimden çok bir işbölümünü anlatır: şemayı ve matematiği Shannon kurdu, geniş çerçeveyi ve kuramın başka alanlara umutlu bir okumasını Weaver ekledi. Bu sayfa yalnızca doğrulanabilen mesleki bilgileri içerir; kişisel ayrıntılar bilerek yazılmamıştır.",
+  "works": [
+    {
+      "bib": "shannon-weaver-1949",
+      "note": "Weaver’ın yorum yazısı (üç düzey, anlamsal alıcı ve gürültü önerisi) Shannon’ın makalesiyle aynı ciltte."
+    }
+  ],
+  "inCourse": "Bkz. [[lesson:lasswell-shannon-weaver]]; devamında [[lesson:process-models]]."
+}

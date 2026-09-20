@@ -1,0 +1,18 @@
+{
+  "id": "lasswell",
+  "born": {
+    "year": 1902
+  },
+  "died": {
+    "year": 1978
+  },
+  "sources": [
+    "encyclopedia-lasswell",
+    "uchicago-lasswell",
+    "wikipedia-lasswell"
+  ],
+  "works": [
+    "lasswell-1927",
+    "lasswell-1948"
+  ]
+}

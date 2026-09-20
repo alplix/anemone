@@ -1,0 +1,17 @@
+{
+  "id": "lasswell",
+  "lang": "tr",
+  "name": "Harold D. Lasswell",
+  "nativeName": "",
+  "slug": "harold-lasswell",
+  "short": "ABD’li siyaset bilimci (1902–1978). Savaş propagandası üzerine kitabı 1927’de çıktı; 1948’de iletişimi beş soru ve üç toplumsal işlevle tarif etti.",
+  "born": "Donnellson, Illinois",
+  "died": "New York",
+  "roles": ["siyaset bilimci", "iletişim kuramcısı", "propaganda araştırmacısı"],
+  "bio": "Harold Dwight Lasswell 1902’de Illinois’in küçük bir kasabası olan Donnellson’da doğdu, 1978’de New York’ta öldü. Siyaset biliminin psikoloji, sosyoloji ve hukukla kesiştiği yerde çalışan, disiplin sınırlarını pek umursamayan bir araştırmacıydı. Uzun yıllar Chicago’da çalıştı; 1946’dan 1970’e kadar da ABD’nin doğusundaki bir üniversitede hukuk ve siyaset bilimi dersleri verdi.\n\nİletişim alanındaki ilk büyük işi, Birinci Dünya Savaşı propagandasını incelediği *Propaganda Technique in the World War* (1927) oldu. Kitapta propagandayı, anlamlı simgelerle görüşün yönlendirilmesi diye tanımlar; propaganda örgütlenmesini, işlenen temaları ve sonuçlarını ayrı bölümlerde ele alır. Propagandayı modern dünyanın en güçlü araçlarından biri sayar, ama etkisinin kesin ölçüsünün çoğu zaman bir tahmin işi olduğunu da açıkça yazar.\n\nEn çok anılan katkısı, 1948’de Lyman Bryson’un derlediği bir kitapta yer alan “The Structure and Function of Communication in Society” yazısıdır. Orada iletişim eylemini beş soruyla tarif etmeyi önerir (kim, ne söylüyor, hangi kanaldan, kime, ne etkiyle) ve toplum düzeyinde üç işlevden söz eder: çevreyi gözetleme, toplumun parçalarını çevreye verilen yanıtta ilişkilendirme, toplumsal mirası kuşaktan kuşağa aktarma. Sonraki kuşaklar bu yazıyı kısaca “Lasswell modeli” ya da “Lasswell formülü” diye anar; ders kitaplarında çoğu kez kutu ve oklarla çizilmiş bir şemaya dönüşmüştür. Bu sayfa yalnızca doğrulanabilen mesleki bilgileri içerir; kişisel ayrıntılar bilerek yazılmamıştır.",
+  "works": [
+    { "bib": "lasswell-1927", "note": "Birinci Dünya Savaşı propagandasının örgütlenmesi, temaları ve sonuçları üzerine kitap; “şırınga” okumasının sınandığı asıl metin." },
+    { "bib": "lasswell-1948", "note": "Beş soru ve üç işlev; iletişim araştırmasını düzenleyen en bilinen sözcük dizisi." }
+  ],
+  "inCourse": "Bkz. [[lesson:lasswell-shannon-weaver]]; propaganda çalışmaları için [[lesson:propaganda-public-opinion]], şırınga okuması için [[lesson:magic-bullet]]."
+}

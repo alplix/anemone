@@ -1,0 +1,20 @@
+{
+  "id": "shannon",
+  "born": {
+    "year": 1916
+  },
+  "died": {
+    "year": 2001
+  },
+  "sources": [
+    "mactutor-shannon",
+    "mit-news-shannon-2001",
+    "horgan-2016-shannon"
+  ],
+  "works": [
+    "shannon-1948",
+    "shannon-weaver-1949",
+    "shannon-1951",
+    "shannon-1956"
+  ]
+}

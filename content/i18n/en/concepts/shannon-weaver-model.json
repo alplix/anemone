@@ -1,0 +1,11 @@
+{
+  "id": "shannon-weaver-model",
+  "lang": "en",
+  "translation": { "status": "machine" },
+  "term": "Shannon–Weaver model",
+  "altTerms": ["Mathematical Theory of Communication", "information theory", "Shannon and Weaver’s mathematical model of communication"],
+  "slug": "shannon-weaver-model",
+  "short": "An engineering theory that draws a communication system as source, transmitter, channel, receiver and destination (plus a noise source) and focuses on measuring how accurately a message is carried.",
+  "body": "The Shannon–Weaver model is the name given to the diagram in Claude Shannon’s 1948 paper together with Warren Weaver’s 1949 essay that opened the theory to the general reader. The diagram shows a system with five parts: the information source that chooses the message, the transmitter that turns the message into a signal, the channel that carries the signal, the receiver that turns the signal back into a message, and the destination to which the message is sent. A noise source is added to the channel.\n\nThe model’s real question is not “what does this message mean?” but “how accurately is this message carried?” Shannon treats the semantic aspect as irrelevant to the engineering problem; his “information” is not the content of a message but a measure of the freedom of choice among possible messages (bit, entropy). It is shown that even on a noisy channel, as long as one stays below capacity, codes exist that make the error as small as one likes.\n\nIn Turkish textbooks the model is presented, under names such as “Information Theory” or “Mathematical Communication Theory/Model”, as a one-way, linear model (Yaylagül 2006; İplikçi 2015). The diagram was drawn by Shannon; Weaver’s text interprets it and places it in a broad framework. Details: [[lesson:lasswell-shannon-weaver]].",
+  "example": "Telegraph: source (the person writing the message) → transmitter (converting letters to dots and dashes) → channel (the wire) → receiver (converting dots back to letters) → destination (the reader). Static on the line is noise."
+}

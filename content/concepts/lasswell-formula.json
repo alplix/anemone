@@ -1,0 +1,18 @@
+{
+  "id": "lasswell-formula",
+  "family": "models",
+  "introducedBy": [
+    "lasswell"
+  ],
+  "related": [
+    "communication-functions",
+    "shannon-weaver-model",
+    "linear-transmission-model"
+  ],
+  "sources": [
+    "lasswell-1948",
+    "sapienza-iyer-veenstra-2015",
+    "yaylagul-2006",
+    "wikipedia-lasswell-model"
+  ]
+}

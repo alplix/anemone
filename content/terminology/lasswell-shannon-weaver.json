@@ -1,0 +1,198 @@
+{
+  "_comment": "Turkish terms chosen for the lesson lasswell-shannon-weaver. status: sourced = attested in at least two Turkish sources I opened; chosen = my own choice among attested variants or my own rendering; check = weakly attested, needs a Turkish-language reviewer. Turkish sources actually opened: Yaylagul 2006 (yaylagul-2006, chapter on the mainstream approach: Shanon ve Weaver'in Enformasyon Kurami; Laswel'in Genel Iletisim Modeli), Iplikci 2015 (iplikci-2015: Shannon ve Weaver Modeli; Laswell Modeli (1948)), Turkish Wikipedia 'Iletisim modelleri'. No term below comes from any institution's course text.",
+  "lasswell-formula": {
+    "en": "Lasswell's formula",
+    "tr": "Lasswell formülü",
+    "status": "chosen",
+    "alt": [
+      "Lasswell modeli",
+      "Lasswell'in genel iletişim modeli",
+      "Laswell modeli"
+    ],
+    "note": "Yaylagül 2006 writes 'Laswel'in Genel İletişim Modeli' and calls it a 'formülasyon'; İplikçi 2015 writes 'Laswell Modeli (1948)'. Both drop one 's'; the lesson uses the correct spelling Lasswell and lists the variants in the exam card. 'formül' chosen because the English literature discusses 'formula / construct / model' (Wikipedia, Sapienza et al. 2015)."
+  },
+  "control-analysis": {
+    "en": "control analysis",
+    "tr": "kontrol analizi",
+    "status": "check",
+    "alt": [
+      "kaynak analizi",
+      "iletişimci analizi"
+    ],
+    "note": "Turkish Wikipedia and Turkish web summaries give 'kontrol analizi'; Yaylagül 2006 lists the analyses (içerik, medya/kanal, izleyici, etki) and describes the 'kim' question as the communicator that holds the initiative and steers the process; the word before 'analizi' in his list is garbled in the scanned text I read. Needs a Turkish reviewer."
+  },
+  "content-analysis": {
+    "en": "content analysis",
+    "tr": "içerik analizi",
+    "status": "sourced",
+    "note": "Yaylagül 2006; İplikçi 2015 context; Turkish Wikipedia."
+  },
+  "media-analysis": {
+    "en": "media analysis",
+    "tr": "medya analizi",
+    "status": "sourced",
+    "alt": [
+      "kanal analizi",
+      "ortam analizi"
+    ],
+    "note": "Yaylagül 2006: 'medya ya da kanal analizi'."
+  },
+  "audience-analysis": {
+    "en": "audience analysis",
+    "tr": "izleyici analizi",
+    "status": "sourced",
+    "alt": [
+      "izleyici araştırması"
+    ],
+    "note": "Yaylagül 2006: 'izleyici analizi', 'izleyici araştırması'."
+  },
+  "effect-analysis": {
+    "en": "effect analysis",
+    "tr": "etki analizi",
+    "status": "sourced",
+    "note": "Yaylagül 2006."
+  },
+  "surveillance": {
+    "en": "surveillance of the environment",
+    "tr": "çevreyi gözetleme",
+    "status": "chosen",
+    "alt": [
+      "çevrenin gözetim altında tutulması",
+      "gözetim"
+    ],
+    "note": "Yaylagül 2006: 'Çevrenin gözetim (surveillance) altında tutulması'. Short form 'gözetim' used in lists. Not to be confused with 'gözetim toplumu' / surveillance capitalism in later lessons."
+  },
+  "correlation": {
+    "en": "correlation (of the parts of society)",
+    "tr": "ilişkilendirme",
+    "status": "check",
+    "alt": [
+      "korelasyon",
+      "toplumun bölümleri ile çevreye verilen tepki arasındaki karşılıklı ilişki"
+    ],
+    "note": "Yaylagül 2006 describes the function only as 'toplumun bölümleri ile çevreye verilen tepki arasındaki karşılıklı ilişki'; I use the short noun 'ilişkilendirme' (my choice) and record 'korelasyon' as the loanword. Needs a Turkish reviewer; a shorter attested Turkish term may exist."
+  },
+  "transmission-of-heritage": {
+    "en": "transmission of the social heritage",
+    "tr": "toplumsal mirasın aktarımı",
+    "status": "sourced",
+    "alt": [
+      "kültürel aktarım"
+    ],
+    "note": "Yaylagül 2006: 'Toplumsal mirasın (heritage) bir kuşaktan diğerine aktarılması'."
+  },
+  "shannon-weaver-model": {
+    "en": "Shannon–Weaver model / Mathematical Theory of Communication",
+    "tr": "Shannon–Weaver modeli",
+    "status": "sourced",
+    "alt": [
+      "Matematiksel İletişim Kuramı",
+      "Matematiksel İletişim Modeli",
+      "Enformasyon Kuramı",
+      "Bilgi Kuramı"
+    ],
+    "note": "Yaylagül 2006: 'Shanon ve Weaver'in Enformasyon Kuramı', 'Matematiksel iletişim modeli' (spelling 'Shanon'); İplikçi 2015: 'Shannon ve Weaver Modeli', 'bilgi kuramı'; Turkish Wikipedia: 'Shannon-Weaver modeli'."
+  },
+  "information-source": {
+    "en": "information source",
+    "tr": "bilgi kaynağı",
+    "status": "sourced",
+    "alt": [
+      "enformasyon kaynağı",
+      "kaynak"
+    ],
+    "note": "Yaylagül 2006: 'bilgi kaynağı'; İplikçi 2015 and Turkish Wikipedia: 'kaynak'."
+  },
+  "transmitter": {
+    "en": "transmitter",
+    "tr": "verici",
+    "status": "sourced",
+    "note": "Yaylagül 2006; Turkish Wikipedia."
+  },
+  "channel": {
+    "en": "channel",
+    "tr": "kanal",
+    "status": "sourced",
+    "note": "Yaylagül 2006; İplikçi 2015; Turkish Wikipedia."
+  },
+  "receiver": {
+    "en": "receiver",
+    "tr": "alıcı",
+    "status": "sourced",
+    "note": "Yaylagül 2006; Turkish Wikipedia."
+  },
+  "destination": {
+    "en": "destination",
+    "tr": "hedef",
+    "status": "sourced",
+    "alt": [
+      "varış noktası",
+      "hedef kitle"
+    ],
+    "note": "Turkish Wikipedia lists the five parts as 'kaynak, verici, kanal, alıcı ve hedef'; İplikçi 2015 writes 'hedef kitle'. Yaylagül 2006 says the message reaches 'alıcı'."
+  },
+  "noise": {
+    "en": "noise",
+    "tr": "gürültü",
+    "status": "sourced",
+    "alt": [
+      "gürültü kaynağı",
+      "anlamsal gürültü"
+    ],
+    "note": "Yaylagül 2006: 'gürültü kaynağı'. 'anlamsal gürültü' is my rendering of Weaver's 'semantic noise' (check)."
+  },
+  "entropy": {
+    "en": "entropy",
+    "tr": "entropi",
+    "status": "chosen",
+    "alt": [
+      "enformasyonda eksiklik",
+      "belirsizlik ölçüsü"
+    ],
+    "note": "Yaylagül 2006 glosses entropy as 'enformasyonda eksiklik (entropy)'; I use the loanword 'entropi' as the main term (also used in Turkish science) and list the gloss as alternative. Needs a reviewer."
+  },
+  "redundancy": {
+    "en": "redundancy",
+    "tr": "fazlalık",
+    "status": "sourced",
+    "note": "Yaylagül 2006: 'fazlalık (redundancy)'."
+  },
+  "bit": {
+    "en": "bit",
+    "tr": "bit",
+    "status": "chosen",
+    "note": "International loanword; the lesson explains it as 'ikili basamak' (binary digit), Tukey's coinage as reported by Shannon 1948."
+  },
+  "channel-capacity": {
+    "en": "channel capacity",
+    "tr": "kanal kapasitesi",
+    "status": "check",
+    "note": "My rendering; not seen in the Turkish sources I opened. Needs a reviewer."
+  },
+  "weaver-levels": {
+    "en": "three levels of communication problems (technical, semantic, effectiveness)",
+    "tr": "üç düzey (teknik, anlamsal, etkililik sorunları)",
+    "status": "check",
+    "alt": [
+      "A, B ve C düzeyleri"
+    ],
+    "note": "My rendering of Weaver's 'technical / semantic / effectiveness problem'; not seen in the Turkish sources I opened. Needs a reviewer."
+  },
+  "semantic-receiver": {
+    "en": "semantic receiver",
+    "tr": "anlamsal alıcı",
+    "status": "check",
+    "note": "My rendering of Weaver's 'Semantic Receiver' box."
+  },
+  "linear-transmission-model": {
+    "en": "linear transmission model",
+    "tr": "doğrusal aktarım modeli",
+    "status": "check",
+    "alt": [
+      "doğrusal iletim modeli",
+      "tek yönlü model",
+      "aktarım görüşü"
+    ],
+    "note": "İplikçi 2015 and Turkish Wikipedia use 'doğrusal' and 'tek yönlü'; 'aktarım' for 'transmission' is my choice ('iletim' also possible). Carey's 'transmission view' → 'aktarım görüşü' (ritual view → 'ritüel görüşü', to be settled in the ritual-view lesson)."
+  }
+}

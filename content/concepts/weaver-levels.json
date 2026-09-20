@@ -1,0 +1,16 @@
+{
+  "id": "weaver-levels",
+  "family": "models",
+  "introducedBy": [
+    "weaver"
+  ],
+  "related": [
+    "shannon-weaver-model",
+    "noise"
+  ],
+  "sources": [
+    "shannon-weaver-1949",
+    "bar-hillel-carnap-1953",
+    "sequoiah-grayson-floridi-2022"
+  ]
+}

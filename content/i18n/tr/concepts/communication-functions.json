@@ -1,0 +1,14 @@
+{
+  "id": "communication-functions",
+  "lang": "tr",
+  "term": "iletişimin üç toplumsal işlevi",
+  "altTerms": [
+    "çevrenin gözetimi, ilişkilendirme, aktarım",
+    "gözetim–ilişkilendirme–aktarım",
+    "iletişimin işlevleri"
+  ],
+  "slug": "iletisimin-uc-islevi",
+  "short": "Lasswell’e göre iletişimin toplum için yaptığı üç iş: çevreyi gözetleme, toplumun parçalarını çevreye yanıtta ilişkilendirme ve toplumsal mirası kuşaktan kuşağa aktarma.",
+  "body": "Lasswell 1948’de iletişimi yalnızca bir mesaj taşıma işi olarak değil, toplumun kendini ayakta tutma biçimi olarak da ele aldı. Ona göre iletişim toplumda üç işlev görür: (1) çevreyi gözetleme: topluluğun ve parçalarının değerlerini etkileyebilecek tehditleri ve fırsatları haber vermek; (2) ilişkilendirme: toplumun parçalarının çevreye tek bir yanıt vermesini eşgüdümlemek; (3) aktarım: toplumsal mirası bir kuşaktan ötekine geçirmek.\n\nTürkçe kaynaklarda işlevler “çevrenin gözetim altında tutulması, toplumun bölümleri ile çevreye verilen tepki arasındaki karşılıklı ilişki, toplumsal mirasın aktarılması” biçiminde geçer (Yaylagül 2006); “ilişkilendirme” için “korelasyon” da kullanılır.\n\nBu işlevler kişisel değil toplumsal düzeydedir; kişilerin medyayı neden kullandığı sorusu ise sonraki bir yaklaşımın, kullanımlar ve doyumların konusudur.\n\nYaygın bir yanlış, listeye dördüncü madde olarak “eğlence”yi Lasswell’e mal etmektir. Lasswell’in listesi üç maddedir; eğlenceyi dördüncü işlev olarak eklemek, işlevsel çözümlemeyi kitle iletişimine taşıyan Wright’a (1960) atfedilir. İşlevlerin ayrıntısı ve sonraki tartışmalar [[lesson:functions-of-media]] dersinde.",
+  "example": "Varsayımsal örnek: kıyıya yaklaşan bir fırtına için uyarı yayımlanması (gözetim); belediye, balıkçılar ve okulun ortak önlem alması (ilişkilendirme); “geçen sefer ne olmuştu” hikâyesinin çocuklara anlatılması (aktarım)."
+}

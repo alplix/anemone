@@ -1,0 +1,14 @@
+{
+  "id": "linear-transmission-model",
+  "lang": "tr",
+  "term": "doğrusal aktarım modeli",
+  "altTerms": [
+    "aktarım görüşü",
+    "tek yönlü model",
+    "doğrusal iletim modeli"
+  ],
+  "slug": "dogrusal-aktarim-modeli",
+  "short": "İletişimi göndericiden alıcıya tek yönlü mesaj aktarımı olarak gören yaklaşım. Lasswell ve Shannon–Weaver bu ailenin ilk örnekleri sayılır; en sık “geri bildirim, bağlam ve anlam yok” diye eleştirilir.",
+  "body": "“Doğrusal” etiketi, iki modelin ortak özelliğini vurgulayan sonradan bir sınıflamadır. Doğrusal aktarım modelleri iletişimi, bir kaynaktan alıcıya tek yönde akan bir mesaj olarak çizer. Lasswell’in soruları ve Shannon–Weaver’in kutulu şeması bu ailenin ilk ve en etkili örnekleri olarak anılır; Türkçe yazında bu ikisi genellikle “doğrusal” ve “tek yönlü” diye nitelenir (örneğin İplikçi 2015).\n\nEn sık yöneltilen itirazlar şunlardır: geri bildirim yoktur; alıcı pasif görünür; bağlam ve anlam dışarıda kalır. James Carey bu yaklaşımı “aktarım görüşü” diye adlandırıp, iletişimi paylaşma ve ortak bir dünyayı sürdürme olarak gören “ritüel görüşü”yle karşılaştırdı (Carey 1989); ayrıntı [[lesson:ritual-view]] dersinde.\n\nSavunanlara göre bu itirazların çoğu, formüllerin sonradan kutu ve okla çizilmiş sunumlarına yöneliktir. Weaver’ın kendisi de şemaya anlamsal alıcı ve anlamsal gürültü kutularını eklemeyi önermişti. Doğrusal modellerin yerini sonradan etkileşimli ve süreç modelleri aldı ([[lesson:process-models]]).",
+  "example": "Bayram sabahı herkesin aynı tebriği alması: bilgi taşıyan bir aktarım gibi görünmez, ortak bir dünyayı yeniden kurma törenine benzer. Aktarım görüşü bu tür olayları anlatmakta zorlanır. (Varsayımsal örnek.)"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "linear-transmission-model",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "linear transmission model",
+  "altTerms": [
+    "transmission view",
+    "one-way model",
+    "linear model"
+  ],
+  "slug": "linear-transmission-model",
+  "short": "An approach that sees communication as a one-way transfer of a message from sender to receiver. Lasswell and Shannon–Weaver count as its first examples; it is most often criticised as having “no feedback, no context, no meaning”.",
+  "body": "The label “linear” is a later classification that stresses what the two models have in common. Linear transmission models draw communication as a message flowing in one direction from a source to a receiver. Lasswell’s questions and Shannon–Weaver’s boxed diagram are cited as the first and most influential examples of this family; in Turkish literature the two are generally described as “linear” and “one-way” (for example İplikçi 2015).\n\nThe objections raised most often are these: there is no feedback; the receiver appears passive; context and meaning are left outside. James Carey called this approach the “transmission view” and contrasted it with a “ritual view” that sees communication as sharing and sustaining a common world (Carey 1989); details in [[lesson:ritual-view]].\n\nAccording to defenders, most of these objections are aimed at the later presentations of the formulas drawn with boxes and arrows. Weaver himself had proposed adding semantic receiver and semantic noise boxes to the diagram. Linear models were later replaced by interactive and process models ([[lesson:process-models]]).",
+  "example": "Everyone receiving the same greeting on a holiday morning: it does not look like a transfer that carries information but like a ceremony that rebuilds a shared world. The transmission view has difficulty describing such events. (Hypothetical example.)"
+}

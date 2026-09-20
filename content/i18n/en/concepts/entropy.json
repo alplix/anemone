@@ -1,0 +1,11 @@
+{
+  "id": "entropy",
+  "lang": "en",
+  "translation": { "status": "machine" },
+  "term": "entropy",
+  "altTerms": ["information entropy", "measure of uncertainty", "enformasyonda eksiklik"],
+  "slug": "entropy",
+  "short": "Shannon’s measure of information: the number, in bits, that shows how much freedom of choice a source has among possible messages.",
+  "body": "In Shannon’s theory, entropy measures “how much information a source produces”; but the information here is not the meaning of the message, it is freedom of choice. A choice between two equally likely options is 1 bit; 16 equally likely options are 4 bits (2 to the power 4 is 16). As one of the options becomes dominant, uncertainty, and with it entropy, falls; if a message is known for certain, entropy is zero.\n\nThe measure rests on the logarithm of probabilities; the idea of a logarithmic measure goes back to Hartley’s 1928 work. The ratio of a source’s actual entropy to the highest entropy it could reach with the same symbols is “relative entropy”; one minus it is “redundancy”. Shannon writes that the redundancy of English is roughly 50 per cent: half of the letters we write come from the structure of the language, and half we choose freely. Redundancy looks like waste but is insurance against noise: you can recover a corrupted letter from context.\n\nIn Turkish sources, alongside “entropi”, the terms “enformasyonda eksiklik” and “fazlalık” (redundancy) also occur (Yaylagül 2006). It has a mathematical resemblance to entropy in physics, but here it is a statistical measure. Details: [[lesson:lasswell-shannon-weaver]].",
+  "example": "A number between 1 and 16 has been chosen and every number is equally likely: 4 yes/no questions (4 bits) are enough to find the right number."
+}
