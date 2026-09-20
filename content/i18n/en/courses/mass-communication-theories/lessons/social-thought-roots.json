@@ -1,0 +1,968 @@
+{
+  "id": "social-thought-roots",
+  "lang": "en",
+  "translation": {
+    "status": "machine",
+    "date": "2026-09-20"
+  },
+  "title": "Roots of Social Thought",
+  "slug": "roots-of-social-thought",
+  "description": "Comte, Durkheim, Weber, Simmel and Tönnies: the questions of order, the individual and the metropolis that media research inherited, with lab and exam cards.",
+  "claim": "Classical social thought asked what holds society together while old bonds dissolve, where the individual stands in relation to social structure, and how a person changes in the crowd of a large city; media research took these questions over together with their concepts.",
+  "keywords": [
+    "roots of social thought",
+    "classical sociology",
+    "Comte",
+    "Spencer",
+    "Durkheim",
+    "social facts",
+    "mechanical solidarity",
+    "organic solidarity",
+    "anomie",
+    "Weber",
+    "Verstehen",
+    "ideal type",
+    "rationalization",
+    "Simmel",
+    "the stranger",
+    "the metropolis and mental life",
+    "Tönnies",
+    "Gemeinschaft and Gesellschaft",
+    "Marx",
+    "media and society"
+  ],
+  "updated": "2026-09-20",
+  "timeline": {
+    "comte-sociologie": "Comte, Cours de philosophie positive, fourth volume: the word “sociologie” in a footnote",
+    "tonnies-gemeinschaft": "Tönnies, Gemeinschaft und Gesellschaft",
+    "durkheim-division": "Durkheim, The Division of Labour: mechanical and organic solidarity",
+    "durkheim-rules": "Durkheim, The Rules of Sociological Method: treat facts as things",
+    "durkheim-suicide": "Durkheim, Suicide: anomie and the newspaper–imitation test",
+    "simmel-metropolis": "Simmel, The Metropolis and Mental Life",
+    "weber-protestant-ethic": "Weber, The Protestant Ethic (1904–05): the steel-hard shell",
+    "simmel-soziologie": "Simmel, Soziologie: the stranger",
+    "weber-press-survey": "Weber’s proposal of a press survey at the German Sociological Society",
+    "tonnies-public-opinion": "Tönnies, Critique of Public Opinion",
+    "shils-young-coronation": "Shils and Young: a Durkheimian reading of the coronation",
+    "phillips-suicide-news": "Phillips: suicide stories and subsequent suicides"
+  },
+  "cards": [
+    {
+      "id": "ctx-name",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "A science got its name in a footnote, apologetically",
+      "body": "1839, Paris. The publisher Bachelier prints the fourth volume of Auguste Comte’s *Cours de philosophie positive*, the volume devoted to the science of society. [[cite:comte-1839-cours-tome4]] On one page there is a footnote in which [[person:comte|Comte]] all but asks the reader’s permission: he ventures to try this “new term” because he needs a single name for the positive study of social phenomena. The term is exactly equivalent to the expression “social physics” (*physique sociale*) that he had used before, and it is *sociologie*. He then confesses at once that he feels a “deep repugnance” (*profonde répugnance*) for the habit of systematic word-coining. [[cite:comte-1839-cours-tome4]]\n\nSo [[concept:sociology|sociology]] got its name in a shy footnote. One of the aims of the work was precisely this: to lay the foundations of the field then called “social physics”. [[cite:bourdeau-2026-sep-comte]]\n\nA frequently told story links the abandonment of the name “social physics” to the Belgian Adolphe Quetelet, whose 1835 book does indeed carry *essai de physique sociale* in its title. [[cite:quetelet-1835-physique-sociale]] But Comte’s footnote does not mention Quetelet. The story lives in later accounts, not in this document, and we carry it not as established fact but as a “frequently told” explanation.",
+      "question": {
+        "id": "ctx-name-q",
+        "type": "mcq",
+        "prompt": "A friend says: “Comte invented ‘sociology’ in anger because Quetelet had grabbed the name ‘social physics’.” What does Comte’s 1839 footnote allow you to say about this claim?",
+        "options": [
+          "It confirms the claim; the footnote openly reproaches Quetelet.",
+          "It neither confirms nor refutes the claim; the footnote states that the new word is needed and equivalent to the old name, and never mentions Quetelet.",
+          "It refutes the claim, because the footnote presents ‘sociology’ as an old Latin term.",
+          "The footnote is only about the word ‘altruism’."
+        ],
+        "answer": 1,
+        "explain": "The document we have (the footnote) says the term is ‘new’, ‘necessary’ and equivalent to ‘social physics’; it does not reproach a rival. So the claim cannot be confirmed from the document, but it is not ‘refuted’ either, because the story circulates in other accounts. The third option says the opposite of the footnote (the term is presented as new); the fourth confuses another word, ‘altruism’, which Comte coined later."
+      }
+    },
+    {
+      "id": "ctx-centuries",
+      "section": "context",
+      "layer": "core",
+      "kind": "text",
+      "title": "Simmel’s summary of two centuries: freed from bonds, then dependent on one another",
+      "body": "Among the pieces prepared for a city exhibition in Dresden in 1903 there is a short historical summary by [[person:simmel|Georg Simmel]]. [[cite:simmel-1903-grossstaedte]] In his account the eighteenth century called for liberation from bonds that had grown up historically in state and religion, morality and economy. The nineteenth century demanded not just freedom but a unique specialisation shaped by the division of labour, which made the individual at once incomparable and more dependent on the complementary work of others. Nietzsche’s ruthless individual struggle and socialism’s plan to suppress competition spring, he says, from the same basic motive: the individual’s resistance to being levelled and used up in a social-technical mechanism. [[cite:simmel-1903-grossstaedte]]\n\nThe IEP’s Durkheim entry paints a similar picture: in the eighteenth and nineteenth centuries population growth and technical innovations such as the railway and the steamship enlarged cities; the guilds collapsed and regional interdependence gave way to international interdependence. [[cite:carls-iep-durkheim]]\n\nImagine an apprentice in a guild, and his great-great-grandchild a century later in a large industrial city. The first knows everyone and everyone knows him; the second sees hundreds of faces a day and knows none. This lesson is the story of a group of thinkers who asked, roughly, the same question: when old bonds dissolve, what holds society together, and where does the individual stand meanwhile? (That question is our summary of the lesson; the details follow in the cards below, with sources.)",
+      "question": {
+        "id": "ctx-centuries-q",
+        "type": "mcq",
+        "prompt": "According to Simmel, what is the shared basic motive of the eighteenth century’s call to ‘be freed from bonds’ and the nineteenth century’s demand to ‘specialise and be unique’?",
+        "options": [
+          "The wish for the state to withdraw from every field.",
+          "The individual’s resistance to being levelled and used up in a social-technical mechanism.",
+          "The wish to put religion back at the centre of society.",
+          "The wish to reverse industry and return to village life."
+        ],
+        "answer": 1,
+        "explain": "Simmel sums up the two centuries as the individual’s resistance to being ‘levelled’ and consumed. The first option reads the eighteenth century’s call for freedom as too political; the third and fourth options are not in Simmel’s summary, which on the contrary takes the division of labour and the metropolis as an unavoidable ground."
+      }
+    },
+    {
+      "id": "ctx-deep-comte",
+      "section": "context",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: the law of three stages and a condensed Comte in English",
+      "body": "Comte’s best-known idea is the law stating that humanity passes through three stages: the theological, the metaphysical and the positive. In the first, the mind explains events by the intervention of supernatural beings; in the second these beings are replaced by abstract entities; in the third it stops seeking causes and contents itself with the laws that govern events. [[cite:bourdeau-2026-sep-comte]]\n\nThe *Cours* runs to six volumes (1830–1842): the first three treat the established sciences from mathematics to biology, the last three the social sciences. [[cite:bourdeau-2026-sep-comte]] For Comte sociology is the last of the sciences and the one that coordinates them all; according to the SEP author this is a conception very different from sociology today. [[cite:bourdeau-2026-sep-comte]] Our source also notes that the idea of a “law of history” is problematic, and that even Durkheim felt obliged to leave social dynamics out of sociology. [[cite:bourdeau-2026-sep-comte]]\n\nIn 1853 Harriet Martineau published a condensed English translation of the work. [[cite:bourdeau-2026-sep-comte]] This means that the Comte who reached English-speaking readers was a longer work summarised and condensed by someone else; the decisions behind the condensing are a matter of interpretation (this last inference is ours, not a sentence of the source)."
+    },
+    {
+      "id": "people-cast",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "text",
+      "title": "Seven names, seven birth years: who and when",
+      "body": "You can divide the period roughly into two waves. The first: [[person:comte|Auguste Comte]] (1798–1857) wanted to found sociology with the six-volume *Cours de philosophie positive* (1830–1842) [[cite:bourdeau-2026-sep-comte]]; [[person:marx|Karl Marx]] (1818–1883) and [[person:spencer|Herbert Spencer]] (1820–1903) followed soon after; Spencer’s *Principles of Sociology* appeared between 1876 and 1896. [[cite:weinstein-2024-sep-spencer]] [[cite:wolff-2025-sep-marx]]\n\nThe second wave carries the main weight of this lesson: [[person:tonnies|Ferdinand Tönnies]] (1855–1936) published *Gemeinschaft und Gesellschaft* in 1887 [[cite:heberle-1968-tonnies-iess]]; [[person:durkheim|Émile Durkheim]] (1858–1917) brought out three books in 1893, 1895 and 1897 [[cite:carls-iep-durkheim]]; [[person:simmel|Georg Simmel]] (1858–1918) wrote his metropolis essay in 1903 and his *Soziologie* in 1908 [[cite:simmel-1903-grossstaedte]] [[cite:simmel-1908-soziologie]]; [[person:weber|Max Weber]] (1864–1920) published *The Protestant Ethic* in 1904–05, while *Economy and Society* appeared after his death. [[cite:kim-2022-sep-weber]]\n\nA hint: Durkheim and Simmel were born in the same year (1858); Tönnies was three years older than both, and Weber six years younger. These people also knew one another: Tönnies, Simmel and Weber, with Sombart, were among the founders of the German Sociological Society, and Durkheim published an essay of Simmel’s in *L’année sociologique*. [[cite:heberle-1968-tonnies-iess]] [[cite:mayntz-1968-simmel-iess]]\n\n(Sources can differ even on birth and death days, so we give only the years.)",
+      "question": {
+        "id": "people-cast-q",
+        "type": "tf",
+        "prompt": "True or false: Durkheim and Simmel were born in the same year, and both were older than Tönnies.",
+        "answer": false,
+        "explain": "The first half is true: both were born in 1858. But Tönnies was born in 1855, three years before them, so he is the older. Reversing the birth-year order is a classic exam trap: the word ‘founder’ can push you towards ‘oldest’, yet in this group the oldest is Tönnies (Comte and Spencer belong to an earlier generation)."
+      }
+    },
+    {
+      "id": "people-press",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "story",
+      "title": "The sociological society’s first big project was a newspaper survey",
+      "body": "October 1910, Frankfurt. The German Sociological Society holds its first congress, and [[person:weber|Max Weber]] reads the business report. [[cite:weber-1910-geschaeftsbericht]] He proposes a “sociology of the press” as the society’s first scientific topic and calls it “an enormous subject” (*ungeheures Thema*). [[cite:weber-1910-geschaeftsbericht]]\n\nThe first step is surprisingly concrete: Weber proposes to begin by measuring “with scissors and compass” (*mit der Schere und mit dem Zirkel*) how the content of newspapers has shifted over the last generation: the distribution among the advertising section, the arts-and-literature pages, the leading article and the news. Then comes the qualitative question: style, the place of emotion in the paper. The ultimate questions are big: what does the press contribute to shaping modern man, and how does it shift shared beliefs, hopes and the feeling of life? [[cite:weber-1910-geschaeftsbericht]]\n\nToday the plan reads like a 1910 draft of content analysis and media-effects research (our interpretation). But the project did not succeed. In 1912, at the society’s second congress, Weber spoke of a “very special ill fortune” that had befallen the enterprise. According to Lepsius, Weber abandoned the project in 1911; around that time he had ended up in court with a newspaper and with a press scholar. [[cite:lepsius-dgs-weber-gruendung]]",
+      "question": {
+        "id": "people-press-q",
+        "type": "mcq",
+        "prompt": "In Weber’s 1910 proposal, ‘measuring with scissors and compass’ most resembles which of today’s research operations?",
+        "options": [
+          "Running a questionnaire survey of readers.",
+          "Counting how newspaper content is distributed across sections and tracking it over time; that is, the quantitative step of content analysis.",
+          "Conducting in-depth interviews with journalists.",
+          "Having newspaper circulation figures verified in court."
+        ],
+        "answer": 1,
+        "explain": "Weber proposes first to measure quantitatively how the content of newspapers (advertising, arts pages, leading article, news) has shifted across generations, and then to move to qualitative analysis; this resembles what we now call content analysis. Surveys and interviews may appear in other parts of the plan (journalists’ origins, reading habits), but they are not what the ‘scissors and compass’ phrase refers to; the court belongs to the end of the project, not its method."
+      }
+    },
+    {
+      "id": "people-deep-press",
+      "section": "people-time",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: what was in Weber’s press-research plan?",
+      "body": "Weber’s 1910 report was much more than a wish list. The text contains these headings: (1) The newspaper is a capitalist enterprise and has two kinds of “customers”, readers and advertisers; the relation between the two shapes the character of a newspaper. (2) As capital requirements grow, will monopoly or trust formation follow, and does that mean power to shape public opinion? (3) The anonymity of articles in the German press: why here, and otherwise in France and England? (4) News agencies: who is the ultimate source of the news? (5) The journalist’s origin, education, career. (6) Effects: the morning paper feeds a person, before work, a “ragout” drawn from every field of cultural life; what does that do to reading habits? [[cite:weber-1910-geschaeftsbericht]]\n\nWeber also gave an assurance that the survey would not pass moral judgement: if the society lost the trust of newspaper owners and journalists, it could not get the material. [[cite:weber-1910-geschaeftsbericht]]\n\nAccording to Lepsius, Weber aimed to raise 25,000 marks; 5,000 marks had been pledged by August 1909 and 9,000 by May 1910, and the Heidelberg Academy of Sciences had promised 10,000. Representatives of press organisations were ready to cooperate. [[cite:lepsius-dgs-weber-gruendung]] So the plan was no daydream but a programme with funding and partners in place; the reasons it failed were personal and legal conflicts, not scientific ones (in Lepsius’s account)."
+    },
+    {
+      "id": "claim-core",
+      "section": "claim",
+      "layer": "core",
+      "kind": "text",
+      "title": "The shared question: what holds society together once old bonds dissolve?",
+      "body": "If we had to fit all the cards of this lesson into one sentence, we would say (this is our summary): classical social thought asked how social order is possible while old bonds dissolve, where the individual stands in relation to social structure, and how a person changes in the crowd of a large city.\n\nThe answers diverged. [[person:durkheim|Durkheim]] sought the answer in shared moral commitment and the division of labour; [[person:weber|Weber]] in the meaning attached to actions and in the world’s growing calculability; [[person:simmel|Simmel]] in the forms of interaction between people and in the psychological effects of the city; [[person:tonnies|Tönnies]] in two kinds of association arising from two kinds of will; [[person:marx|Marx]] in relations of production and class conflict.\n\nMedia research took three questions from this inheritance: (1) *Integration:* does media hold society together? (2) *Individual and structure:* how autonomous is the individual in front of media? (3) *Anonymity and crowds:* how do the anonymity of the city and of the mass affect people?\n\nA warning: most of these figures did not set out to theorise the media. The link was often built later; but there are a few documented exceptions (Durkheim’s 1897 discussion of newspapers and imitation, Weber’s 1910 press plan, Tönnies’s 1922 book on public opinion). We will look at them in their turn.",
+      "question": {
+        "id": "claim-core-q",
+        "type": "mcq",
+        "prompt": "A researcher asks: “Are there shared values or commitments that bind social-media users to one another?” Which strand of the classical inheritance is this question closest to?",
+        "options": [
+          "The integration question (what holds society together)",
+          "The question of the individual’s autonomy in front of structure",
+          "The question of anonymity in the city crowd",
+          "None of them; it is simply a new question"
+        ],
+        "answer": 0,
+        "explain": "‘Shared values and commitments’ is a direct extension of Durkheim’s integration question. The autonomy question would ask ‘how freely does the user choose?’; the anonymity question would ask ‘what happens in a crowd of strangers?’. The fourth option is tempting but wrong: the question is an old one in a new medium."
+      }
+    },
+    {
+      "id": "claim-legacy",
+      "section": "claim",
+      "layer": "core",
+      "kind": "text",
+      "title": "A ‘where will I meet this again?’ map",
+      "body": "The names in this lesson come back in later lessons under other labels:\n\n- [[person:durkheim|Durkheim]]: social integration and the ritual reading; the 1953 study that looked at media events through this lens is in this lesson’s laboratory card. Structural functionalism is a continuation of this line: [[lesson:functionalism-interactionism]].\n- [[person:simmel|Simmel]]: the road to the Chicago tradition. Robert Park studied with Simmel in Berlin [[cite:encyclopedia-com-park]]; Park and Burgess’s 1921 textbook contains translations of Simmel. [[cite:mayntz-1968-simmel-iess]] See [[lesson:chicago-school]].\n- [[person:tonnies|Tönnies]]: the concept of “mass society”, with its emphasis on alienation, owes much to Tönnies (Heberle’s assessment). [[cite:heberle-1968-tonnies-iess]] See [[lesson:mass-society]].\n- [[person:marx|Marx]]: ideology and critical approaches; here only a pointer: [[lesson:marxist-foundations]].\n- [[person:weber|Weber]]: the questions of 1910 (who owns the paper, who is the journalist, who supplies the news?) resemble the questions of later news sociology (our interpretation): [[lesson:news-sociology]].\n\nThis map is not a full picture of who influenced whom; it is an index showing where to find each concept.",
+      "question": {
+        "id": "claim-legacy-q",
+        "type": "match",
+        "prompt": "Match each name with its counterpart in later lessons.",
+        "pairs": [
+          [
+            "Durkheim",
+            "Social integration and the ritual reading of media events"
+          ],
+          [
+            "Simmel",
+            "Metropolis and stranger concepts reaching the Chicago tradition"
+          ],
+          [
+            "Tönnies",
+            "One root of the concept of mass society"
+          ],
+          [
+            "Marx",
+            "Ideology and critical approaches"
+          ]
+        ],
+        "explain": "The pairs most often mixed up are Durkheim and Tönnies: both speak of ‘bonds’, but the one associated with the concept of mass society is Tönnies, and the one associated with integration and the ritual reading is Durkheim. Park’s study with Simmel is the documented link that carried Simmel’s urban concepts (stranger, metropolis) to Chicago."
+      }
+    },
+    {
+      "id": "con-social-fact",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "story",
+      "title": "You did not choose your mother tongue: the social fact",
+      "body": "You woke up this morning; you did not decide which language to think in today. Nor which currency to shop with, nor which outfit would stand out on public transport. [[person:durkheim|Émile Durkheim]] called things of this kind “social facts” (*fait social*): things that exist outside the individual and impose ways of acting, thinking and feeling on him by exerting pressure. [[cite:carls-iep-durkheim]]\n\nHis examples include a society’s legal code, religious beliefs, concept of beauty, monetary system, way of dressing, language. But the list does not stop there: currents of opinion and rates of marriage, birth and suicide are also social facts; statistics add up individual cases and make a shared state of mind visible. [[cite:carls-iep-durkheim]] So one person’s sleepless night is an individual event, whereas a country’s annual suicide rate is a social fact. [[cite:durkheim-1897-suicide]]\n\nOne more subtlety: Durkheim also says that social facts cannot exist outside individuals. “Externality” means external to the other individuals; a social fact lives inside the individual too. [[cite:carls-iep-durkheim]]\n\nFor media research the question that follows is this: do mass measurements, such as audience ratings, opinion polls and news consumption, show something more than the sum of individuals, a shared pattern? Those who answer “yes” stand in Durkheim’s line (our interpretation).",
+      "question": {
+        "id": "con-social-fact-q",
+        "type": "mcq",
+        "prompt": "Which of the following comes closest to a social fact in Durkheim’s sense?",
+        "options": [
+          "Selin falling asleep last night while watching a series",
+          "The suicide rate recorded in a given country in a given year",
+          "A newspaper’s morning editor’s mood that day",
+          "A single sentence in a novel"
+        ],
+        "answer": 1,
+        "explain": "Durkheim treats rates such as marriage, birth and suicide as social facts because they are patterns that show the shared condition of a society rather than a sum of single cases. Falling asleep or an editor’s mood are individual events; a single sentence, although language is a social fact, is not by itself a social pattern."
+      }
+    },
+    {
+      "id": "con-solidarity",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Bound by being alike, or by needing one another?",
+      "body": "Imagine two places. In one, everyone does more or less the same work, celebrates the same holidays, believes the same things. In the other, behind a single slice of bread there stands the miller, the haulier, the baker, the accountant; nobody knows the whole chain, but the chain works.\n\nIn [[person:durkheim|Durkheim]]’s *Division of Labour* (1893) these two places are two kinds of solidarity. [[cite:carls-iep-durkheim]] In the first, *mechanical solidarity*, individuals resemble one another and the collective conscience almost takes the place of individual conscience. In the second, *organic solidarity*, the bond comes not from likeness but from the functional interdependence of specialised parts, like the mutual need of the organs of a body. [[cite:carls-iep-durkheim]]\n\nThe cause of the transition? For Durkheim, as the frequency of contact between people (“moral” or “dynamic density”) rises, competition rises too, and specialisation is the way to soften competition. Of the two factors that raise density, one is population and the other technology, especially communication and transport technology. [[cite:carls-iep-durkheim]] So Durkheim, in his very first book, counts communication technology among the factors that change social structure. [[cite:carls-iep-durkheim]]\n\nTwo cautions. (1) “Mechanical” does not mean “cold or bad”; it says only that the bond comes from likeness. (2) Durkheim later dropped both terms; in his later years he thought of solidarity more in symbolic and religious terms, through ritual and “collective effervescence”. [[cite:carls-iep-durkheim]]",
+      "question": {
+        "id": "con-solidarity-q",
+        "type": "mcq",
+        "prompt": "In a city, those who write, print, distribute and sell advertising for a newspaper, and those who read it, do not know one another at all, yet all depend on one another. How is this picture best labelled in Durkheim’s 1893 framework?",
+        "options": [
+          "Mechanical solidarity, because the relations are impersonal.",
+          "Organic solidarity, because the bond comes from the interdependence of specialised parts.",
+          "Anomie, because nobody knows anybody.",
+          "Collective effervescence, because everyone reads the same paper."
+        ],
+        "answer": 1,
+        "explain": "The criterion of organic solidarity is not ‘acquaintance’ but ‘functional interdependence’; who knows whom does not matter. Mechanical solidarity rests on likeness (everyone does the same work, holds the same belief), not on whether relations are personal. Anomie is the loss of the authority of rules; anonymity by itself is not anomie. ‘Collective effervescence’ belongs to Durkheim’s later, ritual-centred period."
+      }
+    },
+    {
+      "id": "con-anomie",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "story",
+      "title": "The fourth of the four types of suicide hides in a footnote",
+      "body": "You can call Durkheim’s typology of suicide “four types”; but the main text of *Suicide* (1897) treats only three. The fourth, *fatalistic suicide*, appears in one of the book’s footnotes. [[cite:durkheim-1897-suicide]]\n\nThe three main types: (1) *Egoistic suicide:* when the individual is cut off from social bonds, life loses its meaning; what is weak here is integration. (2) *Altruistic suicide:* the individual is too deeply immersed in the group; Durkheim looks for it in less differentiated societies and in armies. (3) *Anomic suicide:* what is weak here is regulation. When the old authority of rules dissolves, desires become unlimited and the individual remains perpetually unhappy; Durkheim calls this the “malady of infinity” (*mal d’infini*). [[cite:carls-iep-durkheim]] *Anomie* means exactly this lack of rules, this breakdown of regulation. Durkheim argues that anomie has become chronic in the economic world. [[cite:durkheim-1897-suicide]]\n\nThe fourth type, fatalistic suicide, arises from excessive regulation: the situation of people whose future is pitilessly walled in and whose passions are crushed by an oppressive discipline. Durkheim finds it of little importance today and does not count it as a separate type. [[cite:durkheim-1897-suicide]]\n\n(This card describes an academic typology of suicide; if the subject is heavy for you, feel free to skip it.)",
+      "question": {
+        "id": "con-anomie-q",
+        "type": "mcq",
+        "prompt": "Imagine a community whose bonds are sound, but whose old rules have lost their authority and whose members’ desires are subject to no shared limit. Which concept in Durkheim’s main text describes this best?",
+        "options": [
+          "Egoistic suicide, because bonds are weak.",
+          "Anomie, because what is weak is not integration but regulation.",
+          "Altruistic suicide, because the individual is immersed in the group.",
+          "Mechanical solidarity, because the rules rest on the past."
+        ],
+        "answer": 1,
+        "explain": "In the scenario bonds are sound, so integration is in place; what is missing are shared rules limiting desires. That is the definition of anomie. Egoistic suicide arises from weak integration and altruistic suicide from excessive immersion; mechanical solidarity is a kind of bond based on likeness and has nothing to do with suicide."
+      }
+    },
+    {
+      "id": "con-verstehen",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "The same movement, two different actions: Weber’s Verstehen",
+      "body": "Imagine two people at an auction who both raise a hand. One is bidding, the other is swatting a fly. A camera outside would record both as “hand raising”. For [[person:weber|Weber]] what interests sociology is not the movement itself but the meaning of the action: an action rests on the meaning the person attributes to it, whereas behaviour can be counted without looking at inner motives. [[cite:kim-2022-sep-weber]] The social scientist’s effort is to *understand* (*Verstehen*) this subjective dimension of human conduct in its relation to others. [[cite:kim-2022-sep-weber]]\n\nBut “understanding” here does not mean empathy or intuition. According to the SEP author, in Weber understanding gains objective validity when meanings and values can be explained causally, that is, as a means to an end. [[cite:kim-2022-sep-weber]] So “I put myself in his place and felt it” is not enough; the action has to be placed in a means-ends nexus and explained.\n\nEven the subtitle of *Economy and Society* says so: “outline of interpretive sociology”. [[cite:bendix-1968-weber-iess]]\n\nFor media research the counterpart is this: you cannot infer from viewing figures alone why an audience member watched a news item; you must also ask what the act meant to them. When you meet approaches that focus on the audience’s production of meaning ([[lesson:encoding-decoding]]) in later lessons, you will recall this idea (our connection).",
+      "question": {
+        "id": "con-verstehen-q",
+        "type": "mcq",
+        "prompt": "A researcher wants to ‘understand’, in Weber’s sense, why a group of young people spend five hours a day on social media. Which of the following comes closest to that aim?",
+        "options": [
+          "Simply counting the young people’s screen time and tabulating it.",
+          "Interpreting the meaning the young people attach to this action and trying to explain it causally within means-ends relations.",
+          "Putting oneself in the young people’s place, saying ‘I would feel this way’, and stopping there.",
+          "Measuring the young people’s reaction times in a laboratory."
+        ],
+        "answer": 1,
+        "explain": "In Weber, understanding combines interpreting subjective meaning with causal explanation. A number alone gives the behaviour but not the meaning of the action; ‘I put myself in their place’ alone is empathy or intuition and does not meet Weber’s criterion of objective validity. A laboratory measurement looks at behaviour, not at the meaning of the action."
+      }
+    },
+    {
+      "id": "con-ideal-type",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "An ideal type is not a perfect example but a deliberately exaggerated tool",
+      "body": "When you see the word “ideal” in a textbook, do you tend to read it as “best”? The [[concept:ideal-type|ideal type]] (*Idealtypus*) breaks that habit. In Weber’s definition an ideal type is formed by the one-sided accentuation of one or more points of view; it gathers concrete individual phenomena into a unified analytical construct (*Gedankenbild*). This construct is a methodological utopia that “cannot be found empirically anywhere in reality”. [[cite:kim-2022-sep-weber]]\n\nSo the validity of an ideal type is tested not by being a copy of reality but by its *adequacy*. [[cite:kim-2022-sep-weber]] In our own analogy, an ideal type is a measuring rod: you set the real case beside it and see where it deviates.\n\nTönnies’s distinction between community and society is like this too. According to our source, Tönnies thought of these concepts not as classification boxes but as ideal types; no concrete family or firm is pure “community” or pure “society”, all are mixtures in certain proportions. [[cite:heberle-1968-tonnies-iess]]\n\n*An exercise (imaginary; try it yourself):* Sketch the ideal type of a “bureaucratic newsroom” with three features: written rules, a rigid division of labour, processes stripped of personal relations. Then look at a news organisation you know. Which feature is missing or excessive? The ideal type will not give you a “right answer”; it helps you see the deviation.",
+      "question": {
+        "id": "con-ideal-type-q",
+        "type": "mcq",
+        "prompt": "A student writes: “Weber’s ideal type is the best and truest example of a concept.” According to Weber’s definition, why is this reading wrong?",
+        "options": [
+          "Because an ideal type is actually an average example.",
+          "Because an ideal type is a deliberately one-sided analytical construct; it is not found in reality as such, and its value is tested by adequacy, not by being a copy of reality.",
+          "Because an ideal type is used only in economics.",
+          "Because Weber said that the ideal type was wrong and should be abandoned."
+        ],
+        "answer": 1,
+        "explain": "‘Ideal’ here means ‘constructed in thought’, not ‘best’: the type is one-sidedly accentuated, is not found in reality as such, and is judged by adequacy. An average is the opposite, since an ideal type exaggerates on purpose. The third and fourth options look at Weber’s methodological discussion upside down."
+      }
+    },
+    {
+      "id": "con-authority",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Why do we obey? Three types of legitimate domination",
+      "body": "Imagine three scenes. A traffic officer raises a hand and everyone stops without questioning her ID. The oldest man in the village says “this is how it has always been done”, and the table is laid accordingly. On a podium, a speaker with no official authority brings a hall to its feet. Nobody uses force in any of the three; but the reason for obedience differs in each.\n\n[[person:weber|Weber]]’s concern is exactly this: the mere fact that an order is obeyed is not enough for domination; the command has to be accepted as a valid norm. [[cite:kim-2022-sep-weber]] According to the ground of that acceptance he distinguishes three ideal types: *legal-rational* (the ground is impersonal rules and offices set up under them), *traditional* (the ground is long-standing custom and habit) and *charismatic* (the ground is personal devotion to the leader’s exceptional qualities). [[cite:kim-2022-sep-weber]]\n\nThe first two are inclined to preserve order in ordinary times; the charismatic represents extraordinary, disruptive and transformative forces. [[cite:kim-2022-sep-weber]] In Weber’s view, if rulers cannot supply one of these three grounds, the belief in those standards weakens among officials and the public. [[cite:bendix-1968-weber-iess]]\n\nThese are ideal types too; real governments carry mixed grounds. How the German *Herrschaft* should be translated is a separate debate (in the deep card).\n\nFor media research the question is: why is the word of a source or a platform accepted as “true”, because one trusts rules, habit or a person? You will meet this question again in later lessons (our connection).",
+      "question": {
+        "id": "con-authority-q",
+        "type": "mcq",
+        "prompt": "Imagine a community leader whose word is heeded, although he has no legal authority, because his followers believe he is an extraordinary person. Which of Weber’s three types is it closest to?",
+        "options": [
+          "Legal-rational domination",
+          "Traditional domination",
+          "Charismatic domination",
+          "Anomic domination"
+        ],
+        "answer": 2,
+        "explain": "The ground is devotion to the leader’s qualities that are held to be extraordinary, so it is charismatic. Had it been legal-rational, the ground would be impersonal rules and offices; had it been traditional, custom and habit. ‘Anomic domination’ is an invented option built on Durkheim’s concept of anomie; it is not in Weber’s triad."
+      }
+    },
+    {
+      "id": "con-rationalization",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "story",
+      "title": "If all the clocks in Berlin were an hour off",
+      "body": "In 1903 Simmel runs a thought experiment: if all the clocks in Berlin suddenly went wrong in different directions, even by only an hour, the whole economic and other traffic of the city would be disrupted for a long time. [[cite:simmel-1903-grossstaedte]] A large city requires everyone to fit a rigid time schema; punctuality, calculability and exactness are its necessary conditions. [[cite:simmel-1903-grossstaedte]]\n\nWeber takes up the same tendency on a much larger scale and calls it [[concept:rationalization|rationalization]]: the idea that in principle we can master all things by calculation, together with the stripping of the world of religious and metaphysical explanations (“disenchantment”). [[cite:kim-2022-sep-weber]]\n\nBut Weber does not think it is unequivocally a good development. On the one hand rationalization brings predictability and enhances the individual’s freedom; on the other, the same force can reduce a person to a cog in the bureaucratic machine. Weber expresses this second face at the end of *The Protestant Ethic* (1904–05) with the image of a “shell as hard as steel” (*stahlhartes Gehäuse*), in English translation the “iron cage”; there also occurs a warning about “specialists without spirit, sensualists without heart” (our translation from the SEP’s English). [[cite:kim-2022-sep-weber]]\n\nIf you think about today’s feeds, algorithms and automatic rankings, the image may sound familiar; but Weber did not write about them, and that reading is ours (see the today card).",
+      "question": {
+        "id": "con-rationalization-q",
+        "type": "mcq",
+        "prompt": "Which summary fits Weber’s rationalization thesis best?",
+        "options": [
+          "Rationalization is pure progress; it only increases freedom.",
+          "Rationalization has two faces: it brings predictability and freedom, but can also lock a person in a bureaucratic cage.",
+          "Rationalization brings a revival of religions.",
+          "Rationalization affects only the economy, not culture."
+        ],
+        "answer": 1,
+        "explain": "According to the SEP author Weber is ambivalent even about the ethical consequences of rationalization: calculability increases freedom, but the same force can turn people into ‘cogs’ and beings inside a ‘cage’. The first option erases this ambivalence; the third says the opposite of disenchantment; the fourth contradicts the fact that Weber looks for rationalization in all areas of life."
+      }
+    },
+    {
+      "id": "con-simmel-stranger",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "story",
+      "title": "The person who comes today and stays tomorrow: Simmel’s stranger",
+      "body": "In 1908, in an excursus to his book *Soziologie* (“Excursus on the Stranger”), Simmel gave sociology a figure: the stranger. But the stranger he means is not the wanderer who comes today and goes tomorrow; it is “the one who comes today and stays tomorrow” (*der, der heute kommt und morgen bleibt*). [[cite:simmel-1908-soziologie]] That is, the stranger has joined the group but did not belong to it from the start, and brings qualities from outside.\n\nFor Simmel the stranger is the union of nearness and distance in a single figure: the near one is far, whereas strangeness means that the far one is near. The stranger is an element of the group itself, not outside it; but his position also includes “being outside”. [[cite:simmel-1908-soziologie]] That the stranger in economic history is so often the trader (or the trader is regarded as a stranger) is an example. [[cite:simmel-1908-soziologie]]\n\nAnother feature of the stranger is “objectivity”: because he is not rooted in the group, he can look at it without taking sides. Simmel says this is not “non-participation” but a special form of participation. And one more thing: confessions that are carefully withheld from those close to us may be made even to the stranger, especially the one passing through. [[cite:simmel-1908-soziologie]]\n\nThis is a small example of Simmel’s sociology of “forms of sociation” (*Vergesellschaftung*): it looks at the form of interaction rather than its content. [[cite:mayntz-1968-simmel-iess]]\n\nHave you ever told a stranger on an anonymous forum something nobody knows? Simmel wrote this starting from the figures of the wanderer and the trader; extending it to the online setting is our interpretation, not his finding.",
+      "question": {
+        "id": "con-simmel-stranger-q",
+        "type": "mcq",
+        "prompt": "What does Simmel’s concept of the ‘stranger’ describe?",
+        "options": [
+          "A tourist who visits a country briefly and leaves.",
+          "A person who has joined a group but, not belonging to it from the start, is both near and far.",
+          "An outsider who is the group’s enemy and wants to destroy it.",
+          "A citizen of another nationality."
+        ],
+        "answer": 1,
+        "explain": "Simmel explicitly sets the wanderer aside: the stranger is ‘the one who comes today and stays tomorrow’, that is, an element of the group who is at the same time positioned ‘from outside’. The tourist does not fit this definition; the enemy would be an ‘inner enemy’ type element, not one outside. Nationality is a legal concept, not Simmel’s sociological form of relation."
+      }
+    },
+    {
+      "id": "con-metropolis",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Loneliness in the crowd: The Metropolis and Mental Life",
+      "body": "One of the most memorable observations in Simmel’s 1903 essay is that nowhere can a person feel so lonely and forsaken as in the crowd of the metropolis. [[cite:simmel-1903-grossstaedte]] The mechanism works like this.\n\nThe city “intensifies nervous life” through a rapid and uninterrupted change of impressions. Man, he says, is a “creature of difference”: his consciousness is stirred by the difference between one impression and the next. The city makes these differences constant and sudden. The city dweller answers with the intellect rather than with feeling; the intellect is a shield that protects him from being uprooted. [[cite:simmel-1903-grossstaedte]]\n\nOne result is the *blasé* attitude: a dulling to the differences between things. This does not mean things are not perceived; it means their meaning and value are felt to be “insignificant, grey”. Simmel also ties this to the money economy: money reduces everything to a single measure. Nor does it have anything to do with stupidity; in his view stupid people are generally not blasé. [[cite:simmel-1903-grossstaedte]]\n\nThe second result is the *reserved* attitude (*Reserviertheit*): if you tried to respond inwardly to hundreds of people you would split apart psychologically. This reserve produces personal freedom, but its price may be loneliness. Simmel says this distance (and the slight antipathy beneath it) also protects the city dweller from “the blur of indiscriminate mutual suggestion”. [[cite:simmel-1903-grossstaedte]]",
+      "question": {
+        "id": "con-metropolis-q",
+        "type": "mcq",
+        "prompt": "According to Simmel, why does the metropolitan dweller develop a ‘blasé’ (dulled) attitude?",
+        "options": [
+          "Because the city dweller is less intelligent.",
+          "Because stimuli change so rapidly and contradictorily that the nerves stop reacting; and because the money economy blurs the differences between things.",
+          "Because morals have collapsed in the city.",
+          "Because the city dweller has never known rural life."
+        ],
+        "answer": 1,
+        "explain": "Simmel names two sources: the rapid and contradictory flow of stimuli (a physiological source) and the money economy that reduces differences to one measure. The stupidity explanation is wrong because Simmel says the opposite; moral collapse and ignorance of the countryside are not explanatory elements in Simmel’s essay."
+      }
+    },
+    {
+      "id": "con-tonnies",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Community and society: two wills, two forms of association",
+      "body": "*Gemeinschaft* and *Gesellschaft* are translated into English as “community” and “society”, and into Turkish as “cemaat ve cemiyet” (or “topluluk ve toplum”). But [[person:tonnies|Tönnies]] built them not as a distinction of place but on *two kinds of will*. [[cite:heberle-1968-tonnies-iess]] [[cite:bulut-cemaat-cemiyet-tubitak]]\n\nThe first is *Wesenwille* (natural will): an action is willed out of a person’s nature, out of an inclination, a habit, or for its own value. The second is *Kürwille* (elective will): an action is willed to reach an end, choosing among means. Gemeinschaft is the association that arises from natural will: kinship, neighbourhood, town, spiritual community. Gesellschaft arises from elective will: contracts, groups based on common interest, special-purpose associations. [[cite:heberle-1968-tonnies-iess]]\n\nTönnies does not present these as pure categories; they are ideal types. Pure Gemeinschaft and pure Gesellschaft do not exist in reality; every concrete association contains something of each in certain proportions. Tönnies compares them to chemical elements combined in varying proportions. [[cite:heberle-1968-tonnies-iess]]\n\nA note: the 1887 book was hardly known outside a small circle of scholars for about thirty years; interest came after the First World War, with a generation disillusioned with the existing social order. [[cite:heberle-1968-tonnies-iess]]",
+      "question": {
+        "id": "con-tonnies-q",
+        "type": "mcq",
+        "prompt": "Which of the following relations comes closest to Tönnies’s ideal type of Gesellschaft (society)?",
+        "options": [
+          "The emotional bonds within a family.",
+          "A business relationship in which two parties are bound by contract for a specific purpose.",
+          "The closeness of neighbours who grew up in the same district.",
+          "The shared bond of belief in a religious community."
+        ],
+        "answer": 1,
+        "explain": "Gesellschaft is the product of elective will (Kürwille): means chosen for an end, the contract. Family, neighbourhood and spiritual community are Tönnies’s examples of Gemeinschaft. But a caution: these are ideal types, that is, not ‘pure’; a family can contain functional elements too. That is why the question says ‘closest to’."
+      }
+    },
+    {
+      "id": "con-deep-things",
+      "section": "concepts",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Translation note: what does it mean to treat social facts as ‘things’?",
+      "body": "The famous fundamental rule in Durkheim’s *Rules of Sociological Method* (1895) reads in French: to treat social facts as *choses* (things), *traiter les faits sociaux comme des choses*. [[cite:durkheim-1895-regles]] In translation it is easy to read it as “reification”; yet the text explains its own wording: a “thing” is whatever is given to observation and imposes itself on observation, and to treat facts as things is to treat them as *data*, the starting point of science. [[cite:durkheim-1895-regles]]\n\nThe text also has a concrete example: what is given to us is not people’s idea of value (that is inaccessible) but the values that are actually exchanged; not this or that conception of the moral ideal but the whole of the rules that effectively determine conduct. [[cite:durkheim-1895-regles]]\n\nSo “thing” here does not mean turning people into objects; it means turning to what can be observed instead of personal opinion. In the preface of the book Durkheim writes that every scientific discovery more or less disconcerts received opinions. [[cite:durkheim-1895-regles]] (This is a warning similar to Lazarsfeld’s “obvious” list; our connection.)\n\nThere is an interesting trace in Turkish reception as well: Ziya Gökalp wrote that studies must be not “nefsî (subjective)” but “şey’î (objective)”. [[cite:tdv-gokalp-ziya]]"
+    },
+    {
+      "id": "con-deep-authority",
+      "section": "concepts",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Translation note: Herrschaft, ‘domination’ or ‘authority’?",
+      "body": "Weber’s classification of three legitimate types circulates in English under two different names: “three types of legitimate authority” and “three types of legitimate domination”. The difference comes from the translation of the German word *Herrschaft*. [[cite:kim-2022-sep-weber]]\n\nIn the 1947 translation by A. M. Henderson and Talcott Parsons a footnote says that *Herrschaft* has no satisfactory English equivalent; “imperative control” is borrowed for general use, but since Weber is mostly concerned with legitimate *Herrschaft*, “authority” is judged both accurate and far less awkward in those cases. [[cite:weber-1947-theory-social-economic-organization]] The SEP entry on Weber gives the word as “domination” and, more literally, “lordship”. [[cite:kim-2022-sep-weber]]\n\nThe choice has consequences: saying “authority” calls to mind the legitimacy side of the relation, saying “domination” its side of mastery (this is our interpretation). Which word you use to look at the same types changes which side you are helped to see.\n\nTurkish has a similar trap: “egemenlik” is generally known in the sense of *sovereignty*. In the Turkish version of this lesson we write “egemenlik (otorite)” side by side; that is our decision, and we do not claim that it is an established Turkish equivalent."
+    },
+    {
+      "id": "con-deep-cage",
+      "section": "concepts",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Translation note: iron cage or steel shell?",
+      "body": "The image at the end of Weber’s *Protestant Ethic* is in German *stahlhartes Gehäuse*: literally “a shell as hard as steel”. [[cite:kim-2022-sep-weber]] Talcott Parsons rendered it in his English translation as “iron cage”; this translation is now regarded as canonical. [[cite:baehr-2001-iron-cage]]\n\nPeter Baehr’s study shows that Parsons’s choice changed the image. A cage confines a person but leaves his powers otherwise intact; a “shell”, by contrast, suggests that modern capitalism has created a new kind of being. Steel, unlike iron, is a product of human fabrication; it is both hard and potentially flexible. Baehr also examines the possible source of the imagery, Bunyan’s *Pilgrim’s Progress*. [[cite:baehr-2001-iron-cage]]\n\nBaehr’s conclusion: whatever the problems of Parsons’s “iron cage” as a rendition of Weber’s own metaphor, it has become a fertile coinage in its own right, a “traveling idea”. [[cite:baehr-2001-iron-cage]]\n\nAlthough “demir kafes” (iron cage) seems established in Turkish, we did not separately verify the status of this word in Turkish sources; in the Turkish version of this lesson we give the “steel shell” image and the “iron cage” side by side."
+    },
+    {
+      "id": "con-deep-gemeinschaft",
+      "section": "concepts",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Translation note: community–society, community–civil society or cemaat–cemiyet?",
+      "body": "Tönnies’s 1887 book first entered English in Charles P. Loomis’s translation, *Community and Society* (1957). [[cite:tonnies-1957-community-society]] Years later Cambridge University Press published a new version under the title *Community and Civil Society* (2001); that is, *Gesellschaft* this time is rendered by the title as “civil society”, not “society”. [[cite:tonnies-2001-community-civil-society]] As Heberle put it, “community” and “society” had come to be accepted in the English literature as interchangeable with the German terms. [[cite:heberle-1968-tonnies-iess]]\n\nIn Turkish the equivalents circulate in two pairs: *cemaat–cemiyet* and *topluluk–toplum*. [[cite:bulut-cemaat-cemiyet-tubitak]] The Turkish translation of the book, *Cemaat ve Cemiyet*, by Emre Güler, was published in 2019; the publisher’s description marks it as coming 132 years after the first German edition. [[cite:tonnies-2019-cemaat-cemiyet-tr]]\n\nOne more caution: in everyday Turkish “cemaat” also evokes a religious congregation, which can be confused with Tönnies’s type (this association is our own observation). Our source also says that the concept of cemaat is often used, in times of instability, to construct the idea of a “nostalgic and imagined” traditional society. [[cite:bulut-cemaat-cemiyet-tubitak]] So the choice of translation also affects how the concept is heard."
+    },
+    {
+      "id": "assump-organism",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "text",
+      "title": "Is society an organism? Three answers from Spencer to Simmel",
+      "body": "Does society work like a body? [[person:spencer|Herbert Spencer]] gave an answer close to “yes”: he saw society as an “organic” whole; for him social life was an extension of the life of a natural body, and social “organisms” obeyed the same evolutionary principles as biological ones. But in Spencer the parts were mutually dependent rather than subordinate to the whole; the individual had an identity and value of his own. [[cite:sweet-iep-spencer]] (A note: the phrase “survival of the fittest” was coined by Spencer, not Darwin; yet according to the SEP author it is wrong to call Spencer a “coarse social Darwinist”. [[cite:weinstein-2024-sep-spencer]])\n\nAccording to the IEP, [[person:durkheim|Durkheim]]’s use of the organic analogy and his analysis of how the parts of society form a functioning whole were largely inspired by Spencer’s functionalist analysis. But Durkheim opposed the utilitarian view, Spencer included, that society begins when individuals come together: *Division of Labour* is regarded as a refutation of that view; for him collective life gives rise to the individual, not the other way round. [[cite:carls-iep-durkheim]] Society is a reality of its own kind (*sui generis*), irreducible to the sum of individuals. [[cite:carls-iep-durkheim]]\n\n[[person:simmel|Simmel]] opened a third road: society is not a substance, an organism or an irreducible entity; it is the sum of the reciprocal interactions (*Wechselwirkung*) between individuals. [[cite:mayntz-1968-simmel-iess]]\n\nAn exam hint: “organism” is Spencer, “reality of its own kind” is Durkheim, “sum of interactions” is Simmel.",
+      "question": {
+        "id": "assump-organism-q",
+        "type": "mcq",
+        "prompt": "Which of the following sentences is closest to Simmel’s definition of society?",
+        "options": [
+          "Society is an organism that determines the life of its parts.",
+          "Society is a reality of its own kind (sui generis), irreducible to individuals.",
+          "Society is the sum of the reciprocal interactions and interdependences between individuals.",
+          "Society begins where the division of labour disappears."
+        ],
+        "answer": 2,
+        "explain": "Simmel defines society not as a substance or organism but as a sum of interactions (Wechselwirkung). ‘Organism’ belongs to Spencer and ‘sui generis reality’ to Durkheim; the fourth option is the view of none of these three names."
+      }
+    },
+    {
+      "id": "assump-conflict",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "text",
+      "title": "Does order arise from consensus or from conflict? A short meeting of Durkheim and Marx",
+      "body": "Imagine a large national ceremony being broadcast on television. Ask a researcher what is visible in that ceremony and you may get two different answers.\n\nThe first is the [[person:durkheim|Durkheim]] line: order arises from shared moral commitments; legitimate authority rests on a moral foundation too. Preserving social order requires that these values be reaffirmed often. [[cite:carls-iep-durkheim]] [[cite:mcguigan-2016-tsr-monarchy]]\n\nThe second is the [[person:marx|Marx]] line. In Marx and Engels’s *The German Ideology* (1845–46) occurs the sentence: in every epoch the ideas of the ruling class are the ruling ideas. [[cite:marx-engels-1845-german-ideology]] The class that has the means of material production at its disposal has control at the same time over the means of mental production. [[cite:marx-engels-1845-german-ideology]] The SEP author regards this as the core of the theory of ideology. [[cite:wolff-2025-sep-marx]] In this lesson Marx is only a pointer: the detail is in the lesson [[lesson:marxist-foundations]].\n\nDurkheim did not find Marx scientific; according to the IEP author he considered him dogmatic and Marxism needlessly conflictual. [[cite:carls-iep-durkheim]] The echo of these two views in media research is documented: to the 1953 coronation reading Norman Birnbaum wrote a reply in 1955; in his view divergence and tension, not shared values, are normal in modern urban-industrial societies. [[cite:birnbaum-1955-monarchs-sociologists]] [[cite:mcguigan-2016-tsr-monarchy]]\n\nThese two questions remain the two questions of media research today: “what shared value does this broadcast reaffirm?” and “whose interest does this broadcast serve, and which idea does it make dominant?”",
+      "question": {
+        "id": "assump-conflict-q",
+        "type": "mcq",
+        "prompt": "Which of the following questions is closer to the Marx line (ideology and interest)?",
+        "options": [
+          "What shared value does this broadcast reaffirm, and how does it unite the community?",
+          "Which class’s idea does this broadcast make dominant, and who holds the means of mental production?",
+          "Which meanings does this broadcast lead individuals to interpret?",
+          "Through which kind of ‘will’ do the viewers of this broadcast come together?"
+        ],
+        "answer": 1,
+        "explain": "‘The ruling ideas are the ideas of the ruling class’ and ‘the means of mental production’ are Marx and Engels’s ideology line. The first option is Durkheim’s integration question, the third Weber’s question of meaning, the fourth Tönnies’s question of will."
+      }
+    },
+    {
+      "id": "assump-deep-durkheim",
+      "section": "assumptions",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: was Durkheim someone who ‘ignored the individual’?",
+      "body": "Durkheim is often presented as someone “who saw society as a crushing force over the individual”. According to the IEP author, critics see him as deterministic and say that social constraint wipes out individual autonomy. [[cite:carls-iep-durkheim]] The same author regards this objection as a misreading. In his account social facts exist only “as individuals incorporate them”; Durkheim stresses repeatedly that individuals incorporate and appropriate elements of society such as language, morality and religious beliefs, and live them in their own way. [[cite:carls-iep-durkheim]]\n\nMoreover, according to the theory of the division of labour, as societies develop, differences between individuals also develop; this gives the individual more freedom to develop a personality. The new “religion” that Durkheim foresaw for modern society is the “cult of the individual”. [[cite:carls-iep-durkheim]] The IEP’s summary: in Durkheim there is no antagonism between individual and society; everything that makes a human being human (language, reason, morality) is a product of social life. [[cite:carls-iep-durkheim]]\n\nSo short summaries such as “Durkheim defended structure, Weber the individual” are handy for exams but incomplete (this assessment is ours). A good starting point for anyone who wants to read Durkheim is the methodological discussion in the prefaces of his books; the preface of the *Rules*, for example, argues that in sociology common sense should not be granted an authority it lost long ago in the other sciences. [[cite:durkheim-1895-regles]]"
+    },
+    {
+      "id": "how-suicide",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "The method of Suicide: an inquiry that advances by elimination",
+      "body": "Durkheim’s 1897 book is not a storybook but a book of elimination. You can read the logic of its march from the table of contents: [[cite:durkheim-1897-suicide]]\n\n1. **An objective definition.** First, suicide is defined objectively, in a way that avoids arbitrary exclusions.\n2. **From case to rate.** What is studied is not single suicides but a society’s *social rate of suicide*; Durkheim argues that this rate differs between societies and is stable within a society, and is therefore a phenomenon of its own kind.\n3. **Eliminate extra-social explanations.** In Book I he tries in turn psychopathic states and alcoholism, race and heredity, climate and season, and finally imitation, and finds each insufficient to explain the rate.\n4. **Compare social milieus.** In Book II social milieus such as religious communities and the army are compared.\n5. **Types.** The cause of the rate is explained as the degree to which groups integrate and regulate the individual; the anomic and the other types emerge from this step.\n\nThe data he uses are official statistics; some he took from tables compiled by others (Morselli’s charts, for example), some from Ministry of Justice records. [[cite:durkheim-1897-suicide]]",
+      "question": {
+        "id": "how-suicide-q",
+        "type": "order",
+        "prompt": "Put the logical order of Durkheim’s *Suicide* inquiry in sequence.",
+        "items": [
+          "Define suicide objectively",
+          "Move from single cases to the social rate",
+          "Test the extra-social explanations one by one and eliminate them",
+          "Compare social milieus and derive the types"
+        ],
+        "explain": "First the definition, then the move to the rate, then the elimination of extra-social explanations, and finally the comparison of social milieus and the derivation of the types. Putting the types first is the typical mistake: Durkheim derives the types from the result, after elimination and comparison."
+      }
+    },
+    {
+      "id": "how-coronation-lab",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Exercise: a television ceremony in 1953 and Durkheim’s spectacles",
+      "body": "A documented event: in June 1953 the coronation of Queen Elizabeth II was broadcast live on television; Richard Dimbleby’s hushed narration accompanied it on television and wireless. People without sets crowded into the homes of those who had them; in the following year rentals and sales of sets shot up. [[cite:mcguigan-2016-tsr-monarchy]]\n\nIn the same year Edward Shils and Michael Young read the event through Durkheim’s spectacles in *The Sociological Review*: to them the ceremony was “an act of national communion”; from Durkheim they took the idea that the shared feeling of believers cannot be “purely illusory”. [[cite:shils-young-1953-coronation]] [[cite:mcguigan-2016-tsr-monarchy]]\n\n*The exercise (your job; there is no ready answer):*\n\n1. **In Durkheim’s terms,** write: what shared value is being reaffirmed in the ceremony? How does television spread it?\n2. **Look for the counter-reading:** in 1955 Birnbaum said that divergence is normal in modern societies and that dissent persisted on the margins. [[cite:mcguigan-2016-tsr-monarchy]] In 1975 Lukes criticised such “neo-Durkheimian” readings for using too simple a notion of social integration, for looking at too narrow a selection of ceremonies, and for missing that ceremonies can be read as elements in the “mobilization of bias”. [[cite:lukes-1975-political-ritual]]\n3. **Choose your own event:** a live broadcast, a national match or a mourning ceremony you know from recent years. Ask the same three questions: What is affirmed? Who is inside and who outside? What would I call “integration” and what “mobilization of bias”?\n\nThis is an exercise; the result depends on your observation, and there is no ready correct answer.",
+      "question": {
+        "id": "how-coronation-lab-q",
+        "type": "mcq",
+        "prompt": "What is Lukes’s objection in his 1975 article to ‘neo-Durkheimian’ analyses of the Shils–Young kind?",
+        "options": [
+          "They exaggerate the effect of television.",
+          "They use too simple a notion of social integration and do not see the cognitive and power dimensions of ceremonies.",
+          "He claims that they collected their data wrongly.",
+          "He says that they mistranslated Durkheim."
+        ],
+        "answer": 1,
+        "explain": "The abstract of Lukes’s article says these analyses use too simple a notion of integration and close off the cognitive dimension, the dimension of power; it suggests reading ceremonies as elements in the ‘mobilization of bias’ rather than in value integration. The other options are not the article’s main criticism."
+      }
+    },
+    {
+      "id": "evid-religion",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "text",
+      "title": "Evidence 1: race or religion? Advancing by elimination",
+      "body": "The most instructive part of Durkheim’s *Suicide* is the explanations he eliminates. He takes up, for example, the view that ties the higher German rate of suicide to race. [[cite:durkheim-1897-suicide]] In Austria, Germans and Slavs living in the same social milieu show a similar tendency; in Switzerland, when he compares German and French cantons of the same religion, he finds no marked difference between the two groups among Catholics. His conclusion: the difference comes not from “blood” but from the civilisation and milieu one lives in. [[cite:durkheim-1897-suicide]]\n\nThen he turns to religions. In his account the rate is generally high among Protestants and low among Catholics and especially Jews. [[cite:durkheim-1897-suicide]] To the question “is it because Catholics are a minority?” he says no: the immunity is explained by the Catholic church’s allowing the individual less religious individualism, that is, by its tighter integration of the group; he applies the same logic to the Jewish community. [[cite:durkheim-1897-suicide]]\n\nThe general conclusion of this part: the suicide rate is directly related not to religion itself but to how tightly a social group envelops the individual, that is, to integration. [[cite:durkheim-1897-suicide]]\n\nA caution: these are statistics from the end of the nineteenth century and Durkheim’s own interpretations; instead of redrawing the tables today, learning the logic of the method will serve you better: rather than confirming one explanation, eliminate its rivals one by one.",
+      "question": {
+        "id": "evid-religion-q",
+        "type": "mcq",
+        "prompt": "With what, rather than with ‘being a minority’, does Durkheim explain the lower suicide rate of Catholics?",
+        "options": [
+          "The Catholic church’s allowing the individual less religious individualism and integrating the group more tightly.",
+          "Catholics being richer.",
+          "Catholics keeping fewer statistics.",
+          "Catholics being less urban."
+        ],
+        "answer": 0,
+        "explain": "Durkheim’s explanation is integration: less religious individualism, tighter commitment. The other options do not replace it in the text; wealth and urbanity are other variables, and how statistics are kept is not Durkheim’s reasoning."
+      }
+    },
+    {
+      "id": "evid-media",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "story",
+      "title": "Evidence 2: in 1897 Durkheim put newspapers to the test",
+      "body": "“Does a newspaper report spread suicide?” was a question on the table before Durkheim, and he takes it seriously in Book I of *Suicide*. In his account suicide can spread from individual to individual; the real issue is whether this changes the social rate. [[cite:durkheim-1897-suicide]]\n\nThe first test is geographical: if imitation mattered, high rates should spill over borders to neighbours. Yet while Germany is surrounded by Protestant regions with high suicide rates, three Catholic regions (the Rhineland provinces with Westphalia, Bavaria and Posen) stand on the map like islands with values below 100 per million; the Catholic south of Switzerland is likewise sharply set off from its Protestant north. Durkheim says that no country ever imposes its inclination on its neighbours by the mere prestige of example. [[cite:durkheim-1897-suicide]]\n\nThe second test concerns newspapers: if imitation mattered, rates should vary with the place newspapers hold in public attention. But it is the number of *readers*, not of newspapers, that counts: in a decentralised country there may be many newspapers, each little read, whereas a single paper like the *Times* or the *Petit Journal* reaches a large public. Durkheim admits he cannot offer regular proof; but he says France and England are hardly inferior to Denmark and Saxony in press, though less suicide is seen there. [[cite:durkheim-1897-suicide]]\n\nHis conclusion: suicide can spread from individual to individual, but imitation does not determine the social rate. In his view what matters is not the fact of speaking about it but the manner in which one speaks: “ce n’est pas le fait d’en parler, c’est la manière dont on en parle” (we keep the original French). [[cite:durkheim-1897-suicide]]\n\nA century later David Phillips reported in 1974 that in Britain and the United States suicides rose right after suicide stories published in newspapers. [[cite:phillips-1974-suicide-suggestion]] The same question, two scales, two answers. (If the subject is heavy for you, you can skip this card.)",
+      "question": {
+        "id": "evid-media-q",
+        "type": "mcq",
+        "prompt": "Why does Durkheim say, in his newspaper–imitation test, that one should look at the number of readers rather than the number of newspapers?",
+        "options": [
+          "Because newspapers were no longer being read.",
+          "Because a newspaper’s power to spread depends on its readership; many little-read papers can be less influential than a single large one.",
+          "Because reader numbers were easy to measure.",
+          "Because newspapers reported only suicides."
+        ],
+        "answer": 1,
+        "explain": "Durkheim says that in a decentralised country there may be many newspapers but each is little read, so its power to spread stays low; a single large paper, by contrast, reaches a broad public. The third option says the opposite: Durkheim himself admits that reader numbers are hard to measure."
+      }
+    },
+    {
+      "id": "evid-deep-phillips",
+      "section": "evidence",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: what did Phillips (1974) do, and why does it not simply clash with Durkheim?",
+      "body": "According to the article’s abstract, Phillips reports that in Britain and the United States between 1947 and 1968 suicides increased immediately after suicide stories published in newspapers; the more space the story was given, the larger the rise; and the rise was largely confined to the area where the story was publicised. Alternative explanations were also examined and the evidence pointed to “the influence of suggestion”; the paper says this influence had not previously been demonstrated at the national level. [[cite:phillips-1974-suicide-suggestion]] (We have read only the abstract.)\n\nDurkheim’s design was different: he compared rates between countries and regions and did not study the short-term course after a story. In his text he also writes that he is sure suicide spreads from individual to individual; his objection is that imitation is not strong enough to determine a society’s characteristic *rate*. [[cite:durkheim-1897-suicide]] In his view imitation can only be the occasion for a strong predisposition to break out. [[cite:durkheim-1897-suicide]]\n\nSo the two do not fully contradict: Phillips shows a short-term rise at the national level; Durkheim speaks of a long-term rate that characterises a society. Whether Phillips’s finding alone refutes Durkheim’s ‘social rate’ claim is a question to be argued separately (this interpretation is ours; we have not backed it with a second source)."
+    },
+    {
+      "id": "crit-media",
+      "section": "critique",
+      "layer": "core",
+      "kind": "myth",
+      "title": "Myth: ‘the classical theorists theorised the media’",
+      "body": "**What people assume.** Mass-communication theories were born directly from Comte, Durkheim and Weber; these names were media theorists.\n\n**What the sources say.** The main projects of these figures lay elsewhere: the founding of a science of society, the division of labour, religion, money, the city, domination. There are exceptions that touch the media directly, and all of them are interesting: Durkheim in 1897 held his discussion of newspapers and imitation; Weber in 1910 presented his press-research plan; Marx and Engels in 1845 used the notion of the “means of mental production” [[cite:marx-engels-1845-german-ideology]]; Tönnies in 1922 wrote his critique of public opinion [[cite:tonnies-1922-kritik-oeffentliche-meinung]].\n\nTönnies’s book is especially striking. According to Heberle, Tönnies saw an element of will in public opinion; he described the public opinion of a whole society as a view claiming to be the only true one, and wrote that anyone who does not share it may be regarded as disloyal. [[cite:heberle-1968-tonnies-iess]] This may be an idea similar to the spiral of silence you will meet in later lessons (our interpretation; we do not claim a relation of influence).\n\nBut these were scattered touches, not a continuous media theory. The real inheritance is indirect: concepts, questions and criteria that media researchers took over later, such as Park’s study with Simmel or Shils and Young’s use of Durkheim. [[cite:encyclopedia-com-park]] [[cite:shils-young-1953-coronation]]",
+      "question": {
+        "id": "crit-media-q",
+        "type": "mcq",
+        "prompt": "Which of the following is NOT one of the documented direct links between the classical theorists and the media?",
+        "options": [
+          "Durkheim’s 1897 proposal of a test on newspaper readers and imitation",
+          "Weber’s 1910 proposal of a sociology-of-the-press survey",
+          "Tönnies’s 1922 writing of a critique of public opinion",
+          "Simmel’s 1903 measurement of the blasé attitude of television viewers"
+        ],
+        "answer": 3,
+        "explain": "There was no television in 1903; Simmel’s blasé attitude rests on metropolitan impressions and is an essay, not a measurement study. The other three options are direct touches on the media documented in the sources."
+      }
+    },
+    {
+      "id": "crit-tonnies",
+      "section": "critique",
+      "layer": "core",
+      "kind": "myth",
+      "title": "Myth: ‘Gemeinschaft is the village, Gesellschaft is the city’",
+      "body": "**What people assume.** Community is warm and rural, society cold and urban; so online settings must be either a “cold society” or a “warm community”.\n\n**What the sources say.** First: according to Heberle, Tönnies designed these concepts not as classification boxes but as ideal types; neither pure Gemeinschaft nor pure Gesellschaft exists, and every concrete association carries some of each. [[cite:heberle-1968-tonnies-iess]] Rural sociologists at first equated rural life with Gemeinschaft uncritically; later they had to refine that application. [[cite:heberle-1968-tonnies-iess]]\n\nSecond: the criterion is not place or formality but will. Gemeinschaft-like associations can be formed by conscious acts of joining, such as betrothals or religious orders; a small group meeting to play chess may be Gesellschaft-like and yet less formally organised than a Gemeinschaft-like corporate group such as a village community. [[cite:heberle-1968-tonnies-iess]]\n\nThird: a warning in Turkish sources is that the concept of cemaat is often used, in times of instability, to build the idea of a “nostalgic and imagined” traditional society. [[cite:bulut-cemaat-cemiyet-tubitak]] So “cemaat” is not always a lived reality; it is often a longed-for image.\n\nDo people in an online setting come together by choosing for a purpose, or out of habit and value? That is where Tönnies’s question works; the “digital village” analogy is not enough for this lesson (our interpretation).",
+      "question": {
+        "id": "crit-tonnies-q",
+        "type": "mcq",
+        "prompt": "Imagine a student writes: “A rural village is pure Gemeinschaft, a metropolis pure Gesellschaft.” Why is this problematic on Tönnies’s approach?",
+        "options": [
+          "Because Tönnies never studied villages.",
+          "Because Tönnies’s concepts are ideal types; there is no pure case, and the distinction rests on the kind of will, not on place.",
+          "Because metropolises are always Gemeinschaft.",
+          "Because the concept of Gesellschaft does not belong to the nineteenth century."
+        ],
+        "answer": 1,
+        "explain": "Tönnies’s distinction is built on two kinds of will (Wesenwille, Kürwille); the concepts are ideal types and no concrete place is ‘pure’. Equating ‘village = Gemeinschaft’ is a reading that, as our source notes, rural sociologists fell into at first and then refined. The other options are not supported in the sources."
+      }
+    },
+    {
+      "id": "crit-consensus",
+      "section": "critique",
+      "layer": "core",
+      "kind": "text",
+      "title": "Critique: did the Durkheim line see too much consensus?",
+      "body": "Criticisms of Durkheim and his successors come from two directions, and there is a reply in both.\n\n**The consensus assumption.** In 1955 Birnbaum objected to Shils and Young’s coronation reading: in a modern urban-industrial society divergence and tension are more widespread than universally shared morals. [[cite:mcguigan-2016-tsr-monarchy]] In 1975 Lukes criticised such “neo-Durkheimian” analyses for conceiving integration too simply and for not seeing ceremonies as elements in the “mobilization of bias”. [[cite:lukes-1975-political-ritual]] But as McGuigan notes, Birnbaum’s “conflict” reading also stayed within the functionalist framework; the two sides shared more assumptions than it seemed. [[cite:mcguigan-2016-tsr-monarchy]]\n\n**Determinism.** Durkheim is charged with seeing society as crushing over the individual. His defenders say that social facts exist to the extent that individuals adopt them, and that in Durkheim there is no antagonism between individual and society. [[cite:carls-iep-durkheim]]\n\n**The objection to Weber.** The IEP author reports the common criticism that Weber’s theory of authority is too “operational” and fails to account for the normative dimension; in Durkheim legitimacy is tied to a moral foundation. [[cite:carls-iep-durkheim]]\n\nTowards the end of the lesson these objections give you a habit: read every concept by asking “what does it see, and what can it not see?”",
+      "question": {
+        "id": "crit-consensus-q",
+        "type": "mcq",
+        "prompt": "What is the main objection of Lukes’s 1975 article to ‘neo-Durkheimian’ analyses such as Shils and Young’s?",
+        "options": [
+          "That they gave no place at all to ceremonies.",
+          "That they conceive social integration too simply and do not see the power-related dimension of ceremonies.",
+          "That they had not read Durkheim.",
+          "That they never mentioned television."
+        ],
+        "answer": 1,
+        "explain": "The abstract of Lukes’s article finds the notion of integration ‘too simple’ and stresses the cognitive, power dimension of ceremonies. The first and third options are unfounded (these studies do treat ceremonies and openly cite Durkheim); the fourth is not the article’s subject."
+      }
+    },
+    {
+      "id": "crit-deep-canon",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: the label ‘classical’ was given later",
+      "body": "The seven names in this lesson are not “founders” by nature; they are the product of a selection. According to the abstract of R. W. Connell’s 1997 article, the familiar canon embodies an untenable foundation story of “great men theorising European modernity”. In Connell’s account sociology emerged from a broad cultural dynamic in which the tensions of liberalism and empire were central; global expansion and colonisation gave sociology its main conceptual framework and much of its data, its key problems and its methods. [[cite:connell-1997-classical-theory]]\n\nAfter the early-twentieth-century crisis, American sociology was reconstructed and centred on difference and disorder within the metropole. The retrospective creation of a “classical” canon solved certain cultural dilemmas for this enterprise and generated a discipline-defining pedagogy, at the price of narrowing sociology’s intellectual scope and concealing much of its history. [[cite:connell-1997-classical-theory]]\n\nWhat this means for this lesson: the seven names (Comte to Weber) are not a sacred list but a practical map of one channel that flows into media research. We shall return to topics that find too little room in this list (colonialism, for instance) in later lessons, for example in postcolonial approaches. We have read only the abstract of the article; the argument and examples in the full text go beyond it."
+    },
+    {
+      "id": "today-feed-lab",
+      "section": "today",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Exercise: the 1910 ‘morning ragout’ and the 1903 ‘nervous life’ in your feed",
+      "body": "Two documented sentences side by side:\n\nWeber, in 1910, says that modern man has grown used to swallowing, before he goes to work, a “ragout” from every field of cultural life in the newspaper: he is forced to glide from politics to theatre and everything in between, and that this is not a matter of indifference is obvious. [[cite:weber-1910-geschaeftsbericht]] Simmel, in 1903, writes that in the city the “rapid and uninterrupted change of impressions” intensifies nervous life and leads to the blasé attitude. [[cite:simmel-1903-grossstaedte]]\n\n*An exercise (try it on your own phone; there is no ready answer):*\n\n1. Scroll a morning feed for five minutes. How many different topics went by? Count the transitions between topics.\n2. Ask Weber’s question: how does this feed shape “modern man” in you? Ask Simmel’s question: do these differences stir anything in you, or do they all feel “grey”?\n3. Be honest with yourself: do not present this as evidence. It is self-observation; neither Weber nor Simmel wrote about feed applications. Extending their sentences to today is our interpretation.\n4. Try the opposite reading too: might the same feed also have awakened curiosity, new connections or closeness in you? Simmel’s reading of the city is not wholly negative either: he counts freedom and a cosmopolitan outlook among what the city brings. [[cite:simmel-1903-grossstaedte]]\n\nThis laboratory also reminds you of a distinction in media research: “measurement, essay or self-observation?” The 1910 plan offers measurement, the 1903 essay interpretation, and your own feed only a starting point.",
+      "question": {
+        "id": "today-feed-lab-q",
+        "type": "mcq",
+        "prompt": "In this exercise you concluded ‘my feed felt grey throughout’. What is the most accurate way to describe it?",
+        "options": [
+          "Proof of Simmel’s finding.",
+          "Your own observation; a reading that extends an idea Simmel wrote as an urban essay to today; but not a finding.",
+          "A conclusion Weber tried to prove in 1910.",
+          "A definitive scientific law."
+        ],
+        "answer": 1,
+        "explain": "The exercise is self-observation: Simmel’s text is an essay and Weber’s text is a research plan; neither gives a finding about your feed. Calling it ‘proof’, ‘a conclusion Weber tried to prove’ or a ‘law’ would erase that distinction."
+      }
+    },
+    {
+      "id": "turkey-gokalp",
+      "section": "turkey",
+      "layer": "core",
+      "kind": "story",
+      "title": "Durkheim’s most famous reader in Istanbul: Ziya Gökalp",
+      "body": "The early 1910s, Salonica (a city of the Ottoman Empire then). A man is telling the young people of the Committee of Union and Progress about French sociologists whose names they are hearing for the first time: Durkheim, Fouillée, Tarde, Le Bon. His name is Ziya Gökalp (1876–1924). [[cite:tdv-gokalp-ziya]] [[cite:tma-gokalp]]\n\nIn Salonica, Gökalp had a sociology (*içtimaiyat*) course included in the curriculum of this school. In 1913 he was appointed professor of sociology at the Istanbul Darülfünun (the Ottoman university), and in 1915 he led the founding of the first sociology institute. [[cite:tma-gokalp]]\n\nWhat he took from Durkheim was not just a name. According to the TDV Encyclopedia of Islam, in holding that studies must be not “nefsî (subjective)” but “şey’î (objective)” Gökalp was following Durkheim, and he saw society as a reality distinct from and independent of the individuals who compose it. [[cite:tdv-gokalp-ziya]] He also adopted the idea of the transition from mechanical to organic society through population density and the division of labour; but out of fear that culture (*hars*) would be erased by civilisation (*medeniyet*), he distinguished the two. [[cite:tdv-gokalp-ziya]]\n\nThe same entry stresses that it would not be right to say Gökalp adopted Durkheim “blindly”. [[cite:tdv-gokalp-ziya]] (That the word “şey’î” evokes Durkheim’s *chose* is our interpretation.)\n\nThis card rests only on two encyclopedia entries; exactly what Gökalp took from Durkheim, and what he did not, is a subject for separate research.",
+      "question": {
+        "id": "turkey-gokalp-q",
+        "type": "mcq",
+        "prompt": "According to the TDV Encyclopedia of Islam, which statement about Ziya Gökalp’s relation to Durkheim is the most accurate?",
+        "options": [
+          "Gökalp adopted Durkheim blindly.",
+          "Gökalp was influenced by Durkheim and followed his method; but it would not be right to say he adopted him blindly.",
+          "Gökalp was opposed to Durkheim.",
+          "Gökalp followed only Weber."
+        ],
+        "answer": 1,
+        "explain": "The entry says both that Durkheim’s influence on Gökalp’s sociology was substantial and that this influence was not blind adoption. The first option ignores the second half, the third the first half; the fourth is not in the sources."
+      }
+    },
+    {
+      "id": "exam-patterns",
+      "section": "exam",
+      "layer": "core",
+      "kind": "text",
+      "title": "This is how exams ask it",
+      "body": "**Frequent patterns**\n\n- “Who coined the term sociology?” → Comte (*Cours*, fourth volume, 1839).\n- “Social facts must be treated as things” → Durkheim, *The Rules of Sociological Method* (1895).\n- “Mechanical and organic solidarity” → Durkheim, *The Division of Labour* (1893). “Anomie, types of suicide” → Durkheim, *Suicide* (1897).\n- “Ideal type, Verstehen, three types of legitimate domination, rationalization” → Weber.\n- “The stranger, the metropolis and mental life, blasé, forms of sociation” → Simmel (1903 and 1908).\n- “Gemeinschaft–Gesellschaft” → Tönnies (1887). “Wesenwille–Kürwille” is his too.\n- “Survival of the fittest” → Spencer (not Darwin).\n\n**Tempting wrong answers**\n\n- “Durkheim coined the term sociology” → no, Comte.\n- Mixing up the birth years of Durkheim and Simmel: both 1858; Tönnies 1855, Weber 1864.\n- “Durkheim’s four types of suicide take equal room in the main text” → the fourth (fatalistic) appears only in a footnote.\n- Ideal type = best example → no, a deliberately one-sided construct.\n- Gemeinschaft = village, Gesellschaft = city → no, ideal types; the distinction is the kind of will.\n\n**Alternative names used in Turkish**\n\n- *Gemeinschaft–Gesellschaft*: cemaat–cemiyet or topluluk–toplum (community–society). [[cite:bulut-cemaat-cemiyet-tubitak]]\n- *Sociology*: in older usage “içtimaiyat” or “ilm-i içtimâ”. [[cite:tma-gokalp]] [[cite:tdv-gokalp-ziya]]\n- *Ideal type*: ideal tip. [[cite:bulut-cemaat-cemiyet-tubitak]]\n\nTypical exam question patterns were written from general patterns; whichever source you read, memorise the term and the year side by side.",
+      "question": {
+        "id": "exam-patterns-q",
+        "type": "mcq",
+        "prompt": "An exam asks: “Which thinker argued that social facts should be treated as ‘things’, and in which year did he first publish this as a methodological rule?” The correct answer?",
+        "options": [
+          "Comte, 1839",
+          "Durkheim, 1895",
+          "Weber, 1904",
+          "Simmel, 1908"
+        ],
+        "answer": 1,
+        "explain": "Treating social facts as things is the fundamental rule of Durkheim’s *Rules of Sociological Method* (1895). Comte is the coiner of the term sociology (1839), Weber is associated with the ideal type and Verstehen, and Simmel with forms of sociation and the stranger."
+      }
+    },
+    {
+      "id": "summary",
+      "section": "summary",
+      "layer": "core",
+      "kind": "summary",
+      "title": "Summary card: a map you can reuse",
+      "body": "- **The shared question:** while old bonds dissolve, what holds society together, where does the individual stand, and how does the city crowd change a person? (our summary)\n- **Comte (1798–1857):** presented the term “sociology” hesitantly in a footnote in 1839; the law of three stages.\n- **Spencer (1820–1903):** the “organic” view of society; the phrase “survival of the fittest” is his.\n- **Durkheim (1858–1917):** the social fact (treat it as a thing), mechanical and organic solidarity, anomie and the types of suicide (the fatalistic one in a footnote); the newspaper–imitation test in 1897.\n- **Weber (1864–1920):** Verstehen, the ideal type, three types of legitimate domination, rationalization; the 1910 press-research plan.\n- **Simmel (1858–1918):** forms of sociation, the stranger, the metropolis and mental life (blasé, reserve, loneliness).\n- **Tönnies (1855–1936):** Gemeinschaft–Gesellschaft (two wills, ideal types); in 1922 the critique of public opinion.\n- **Marx (1818–1883):** only a pointer in this lesson; “the ruling ideas are the ideas of the ruling class”.\n- **Next lessons:** functionalism and interactionism, Chicago, mass society, critical approaches.\n- **Warnings:** concepts change shape in translation (thing, authority/domination, iron cage); the “classical” canon was built later; the classics did not theorise the media continuously, they left scattered touches.",
+      "question": {
+        "id": "summary-q",
+        "type": "tf",
+        "prompt": "True or false: Weber’s ideal type is the best and truest example of a phenomenon.",
+        "answer": false,
+        "explain": "False. An ideal type is a deliberately one-sided analytical construct; it is not found in reality as such, and its value is tested by adequacy. ‘Ideal’ means ‘constructed in thought’, not ‘best’."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Which thinker coined the word “sociology”, and in which work and year does it appear?",
+      "options": [
+        "Durkheim, *The Rules of Sociological Method*, 1895",
+        "Spencer, *Principles of Sociology*, 1876",
+        "Comte, *Cours de philosophie positive*, fourth volume, 1839",
+        "Weber, *Economy and Society*, 1921"
+      ],
+      "answer": 2,
+      "explain": "The word is presented as a new term in a footnote in the 1839 fourth volume of Comte’s *Cours*. Durkheim and Weber belong to the generation after Comte and did not coin the word; Spencer is not its creator either, but the creator of the phrase ‘survival of the fittest’."
+    },
+    {
+      "id": "q2",
+      "type": "tf",
+      "prompt": "True or false: In *Suicide* Durkheim argued that suicide never spreads from individual to individual.",
+      "answer": false,
+      "explain": "False. Durkheim writes that he is sure suicide is contagious from individual to individual; in his view imitation is not strong enough to determine the social suicide rate. Separating the two claims is the key both in exams and in the newspaper–suicide debate."
+    },
+    {
+      "id": "q3",
+      "type": "match",
+      "prompt": "Match each thinker with the concept he is most associated with.",
+      "pairs": [
+        [
+          "Comte",
+          "The law of three stages"
+        ],
+        [
+          "Durkheim",
+          "Social facts and anomie"
+        ],
+        [
+          "Weber",
+          "The ideal type and Verstehen"
+        ],
+        [
+          "Simmel",
+          "The stranger and the blasé attitude"
+        ],
+        [
+          "Tönnies",
+          "Wesenwille and Kürwille"
+        ]
+      ],
+      "explain": "The pair most often confused is Durkheim–Weber: both wrote about ‘authority/legitimacy’ and ‘social order’, but anomie and the social fact are Durkheim’s concepts, the ideal type and Verstehen Weber’s. Wesenwille–Kürwille are Tönnies’s two kinds of will; Simmel’s stranger and blasé attitude come from his metropolis writings."
+    },
+    {
+      "id": "q4",
+      "type": "order",
+      "prompt": "Put the following events in chronological order (earliest to latest).",
+      "items": [
+        "Comte: the fourth volume containing the word “sociologie” (1839)",
+        "Tönnies: *Gemeinschaft und Gesellschaft* (1887)",
+        "Durkheim: *Suicide* (1897)",
+        "Simmel: “The Metropolis and Mental Life” (1903)",
+        "Weber: the proposal of a press survey at the German Sociological Society (1910)",
+        "Shils and Young: the meaning of the coronation (1953)"
+      ],
+      "explain": "The order is 1839, 1887, 1897, 1903, 1910, 1953. It helps to remember that Tönnies came before Durkheim and Simmel (1887): he is the oldest of this generation. Weber’s press proposal is seven years after Simmel’s metropolis essay."
+    },
+    {
+      "id": "q5",
+      "type": "cloze",
+      "prompt": "Fill in the blanks.",
+      "text": "For Durkheim, weak integration gives rise to {{1}} suicide and weak regulation to {{2}} suicide; the fourth type, {{3}} suicide, does not appear in the main text and is mentioned only in a footnote.",
+      "blanks": [
+        {
+          "options": [
+            "altruistic",
+            "egoistic",
+            "anomic"
+          ],
+          "answer": 1
+        },
+        {
+          "options": [
+            "egoistic",
+            "altruistic",
+            "anomic"
+          ],
+          "answer": 2
+        },
+        {
+          "options": [
+            "altruistic",
+            "fatalistic",
+            "egoistic"
+          ],
+          "answer": 1
+        }
+      ],
+      "explain": "Egoistic suicide arises from weak integration and anomic suicide from weak regulation; fatalistic suicide arises from excessive regulation and appears in *Suicide* only in a footnote. Altruistic suicide is one of the three main types but is related not to weak integration but to excessive immersion."
+    },
+    {
+      "id": "q6",
+      "type": "case",
+      "scenario": "Imagine a public broadcaster airs live all day on a national day of mourning; the streets are empty, people watch together at home. Two researchers interpret the broadcast separately.",
+      "parts": [
+        {
+          "id": "q6a",
+          "prompt": "The first researcher says “The broadcast reaffirms a shared value and integrates society.” Which classical strand is this reading closest to?",
+          "options": [
+            "Durkheim’s ritual and integration reading",
+            "Weber’s Verstehen",
+            "Simmel’s figure of the stranger"
+          ],
+          "answer": 0,
+          "explain": "The reaffirmation of shared values and social integration is the central idea of the Durkheim line (and of Shils and Young’s 1953 reading). Weber’s Verstehen deals with the meaning of individual action, Simmel’s stranger with the figure of nearness and distance; integration is not their main question."
+        },
+        {
+          "id": "q6b",
+          "prompt": "The second researcher says “Integration is too simple a notion; we should look at whom the broadcast leaves out and which interest it brings forward.” Whom does this objection resemble most?",
+          "options": [
+            "Comte’s law of three stages",
+            "Criticisms of the Birnbaum (1955) and Lukes (1975) kind",
+            "Tönnies’s Wesenwille"
+          ],
+          "answer": 1,
+          "explain": "Birnbaum argued that divergence and tension are normal; Lukes argued that neo-Durkheimian readings use integration too simply. Comte’s law of three stages and Tönnies’s Wesenwille are not part of this debate."
+        },
+        {
+          "id": "q6c",
+          "prompt": "What is the most sensible first step in testing both claims?",
+          "options": [
+            "Looking only at the audience figures",
+            "Looking at which of the two researchers is more famous",
+            "Recording together what events the broadcast covers and how, and what meaning the audience attaches to it"
+          ],
+          "answer": 2,
+          "explain": "Weber’s 1910 plan proposed first a quantitative measurement of content and then qualitative analysis; ‘Verstehen’ requires taking into account the meaning attached by the audience as well. Audience figures alone show neither integration nor bias; fame is not evidence."
+        }
+      ],
+      "takeaway": "The same broadcast is open to both an integration and an interest/power reading; both have to be tested together with content and audience data."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "What does the footnote in the 1947 Henderson–Parsons translation say about Weber’s word *Herrschaft*?",
+      "options": [
+        "That it should always be translated as ‘sovereignty’.",
+        "That it has no satisfactory English equivalent; ‘imperative control’ serves for general use and ‘authority’ where it is legitimate.",
+        "That it means only ‘power’.",
+        "That it cannot be translated and must never be rendered into English."
+      ],
+      "answer": 1,
+      "explain": "The footnote says that the word has no satisfactory English equivalent, that they borrowed the term ‘imperative control’ for general use, and that for legitimate *Herrschaft* ‘authority’ is both accurate and less awkward. ‘Power’ is kept for *Macht*, not for *Herrschaft*."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Which of the following is NOT one of Weber’s three types of legitimate domination (authority)?",
+      "options": [
+        "Traditional",
+        "Charismatic",
+        "Legal-rational",
+        "Mechanical"
+      ],
+      "answer": 3,
+      "explain": "Weber’s triad is traditional, charismatic and legal-rational. ‘Mechanical’ comes from Durkheim’s concept of mechanical solidarity; in exams two names and two triads are often confused."
+    },
+    {
+      "id": "q9",
+      "type": "case",
+      "scenario": "Imagine Arda has just moved to a large city. In the mornings he sees hundreds of faces but speaks to no one. One night, on an anonymous forum, he writes to strangers something he has told nobody.",
+      "parts": [
+        {
+          "id": "q9a",
+          "prompt": "According to Simmel’s 1903 essay, which concept best describes the city dweller’s attitude towards the crowd?",
+          "options": [
+            "Mechanical solidarity",
+            "Charismatic domination",
+            "The reserved attitude (Reserviertheit)"
+          ],
+          "answer": 2,
+          "explain": "Simmel writes that if the city dweller tried to respond inwardly to countless people he would split apart psychologically, so he develops a reserved attitude. Mechanical solidarity and charismatic domination are concepts of other thinkers."
+        },
+        {
+          "id": "q9b",
+          "prompt": "How can Arda’s anonymous confession be related to Simmel’s 1908 figure of the ‘stranger’?",
+          "options": [
+            "Simmel measured an increase in confession on online forums.",
+            "Simmel said that confession is never made to a stranger.",
+            "Simmel writes that confessions withheld from those close to us are sometimes made to the stranger, especially the one passing through; this reading extended to the online setting is an interpretation."
+          ],
+          "answer": 2,
+          "explain": "Simmel’s text records that to the stranger (especially the one passing through) openness is shown that is withheld from those close; the online setting did not exist in Simmel’s time, so the link is an interpretation."
+        },
+        {
+          "id": "q9c",
+          "prompt": "What is the status of this link?",
+          "options": [
+            "A documented finding of Simmel’s",
+            "An interpretation; not Simmel’s finding",
+            "A law of Tönnies’s"
+          ],
+          "answer": 1,
+          "explain": "Simmel wrote about neither the online setting nor forums; this reading is our interpretation. A ‘law’ appears nowhere in this lesson; Tönnies’s ideal types are not laws either."
+        }
+      ],
+      "takeaway": "Extending a classical concept to a present-day situation can be useful, but one should say that it is an interpretation."
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "Which of the following is true according to the abstract of Phillips’s (1974) article?",
+      "options": [
+        "The stories had no effect on suicides.",
+        "The rise was seen evenly across the country, unrelated to where the story was published.",
+        "In Britain and the United States between 1947 and 1968, suicides rose immediately after suicide stories published in newspapers; the more space given to the story, the larger the rise.",
+        "The study recalculated Durkheim’s 1897 data."
+      ],
+      "answer": 2,
+      "explain": "The abstract reports a rise immediately after the story, a larger rise after stories given more space, and a rise largely confined to the area where the story was published. The first and second options say the opposite; the fourth confuses Phillips’s data with Durkheim’s."
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "Which is the correct interpretation of Durkheim’s rule “treat social facts as things”?",
+      "options": [
+        "Using people like objects.",
+        "Treating social facts as data given to observation, independently of personal opinions.",
+        "Holding that social facts are physical objects.",
+        "Ignoring the individual’s inner world."
+      ],
+      "answer": 1,
+      "explain": "Durkheim’s text defines a ‘thing’ as whatever is given to observation and imposes itself on it, and equates treating facts as things with treating them as the starting data of science. The first and third options read a concept whose name is ‘thing’ literally; the fourth rests on the cliché that Durkheim ignored the individual."
+    },
+    {
+      "id": "q12",
+      "type": "tf",
+      "prompt": "True or false: The press survey Weber proposed in 1910 was completed and became the German Sociological Society’s first big publication.",
+      "answer": false,
+      "explain": "False. In 1912 Weber said that the enterprise had suffered a “very special ill fortune”; according to Lepsius he abandoned the project in 1911. The plan therefore went down in history as a research programme that was never carried out."
+    }
+  ]
+}

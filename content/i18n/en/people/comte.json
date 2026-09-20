@@ -1,0 +1,24 @@
+{
+  "id": "comte",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "name": "Auguste Comte",
+  "nativeName": "",
+  "slug": "auguste-comte",
+  "short": "French philosopher (1798–1857); founder of positivism, coiner of the word “sociology” and author of the law of three stages.",
+  "born": "Montpellier",
+  "roles": [
+    "philosopher",
+    "founder of positivism"
+  ],
+  "bio": "Auguste Comte was born in Montpellier in 1798 and died in 1857. According to the Stanford Encyclopedia of Philosophy he is the founder of positivism, a philosophical and political movement that was widely influential in the second half of the nineteenth century and fell into near oblivion in the twentieth, when it was eclipsed by neopositivism.\n\nHis major work is the *Cours de philosophie positive*, six volumes published between 1830 and 1842: the first three treat the established sciences from mathematics to biology, the last three the social sciences. In it the science of society was still called “social physics”; in the fourth volume, published in 1839, Comte presents the word “sociologie” as a new term in a footnote.\n\nFor Comte humanity passes through three stages, the theological, the metaphysical and the positive, and sociology is the last of the sciences and the one that coordinates them all, a conception very different from sociology today. In his later years he turned to founding a “Religion of Humanity” in the four-volume *System* (1851–1854); the word “altruism” is also his. In 1853 Harriet Martineau published a condensed English translation of the *Cours*.",
+  "works": [
+    {
+      "bib": "comte-1839-cours-tome4",
+      "note": "The volume in which “sociologie” is presented as a new term in a footnote."
+    }
+  ],
+  "inCourse": "Appears in [[lesson:social-thought-roots]] for the birth of the word “sociology” and the law of three stages."
+}

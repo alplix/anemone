@@ -1,0 +1,13 @@
+{
+  "id": "ideal-type",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "ideal type",
+  "altTerms": [],
+  "slug": "ideal-type",
+  "short": "In Weber, an analytical construct built by deliberately one-sided accentuation of one or more aspects of reality; a yardstick, not a perfect example.",
+  "body": "For Weber an ideal type (*Idealtypus*) is formed by the one-sided accentuation of one or more points of view; it gathers concrete individual phenomena into a unified analytical construct. The construct is a methodological utopia that cannot be found empirically anywhere in reality. As the SEP author notes, its validity is tested by its adequacy rather than by being a copy of reality.\n\n“Ideal” does not mean “best”; it means “constructed in thought”. An ideal type lets you place real cases beside it and see where they deviate. Weber built the three types of legitimate domination, and bureaucracy, as ideal types; Tönnies’s community and society are ideal types too.",
+  "example": "“The bureaucratic newsroom”: written rules, rigid division of labour, impersonal procedures; comparing a real newsroom with this construct (an exercise)."
+}

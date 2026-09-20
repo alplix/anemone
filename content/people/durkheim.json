@@ -1,0 +1,19 @@
+{
+  "id": "durkheim",
+  "born": {
+    "year": 1858
+  },
+  "died": {
+    "year": 1917
+  },
+  "sources": [
+    "carls-iep-durkheim",
+    "parsons-1968-durkheim-iess",
+    "ol-author-durkheim"
+  ],
+  "works": [
+    "durkheim-1893-division",
+    "durkheim-1895-regles",
+    "durkheim-1897-suicide"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "comte",
+  "lang": "tr",
+  "name": "Auguste Comte",
+  "nativeName": "",
+  "slug": "auguste-comte",
+  "short": "Fransız filozof (1798–1857); pozitivizmin kurucusu, “sosyoloji” sözcüğünü ortaya atan ve üç hâl yasasıyla anılan düşünür.",
+  "born": "Montpellier",
+  "roles": [
+    "filozof",
+    "pozitivizmin kurucusu"
+  ],
+  "bio": "Auguste Comte 1798’de Montpellier’de doğdu ve 1857’de öldü. Stanford Felsefe Ansiklopedisi’ne göre pozitivizmin kurucusudur; 19. yüzyılın ikinci yarısında geniş yankı bulan bu felsefi ve siyasal akım, yirminci yüzyılda yeni-pozitivizmin gölgesinde kaldı.\n\nEn önemli eseri, altı cildi 1830–1842 arasında çıkan *Cours de philosophie positive*’dir: ilk üç cilt matematikten biyolojiye kurulu bilimleri, son üçü toplum bilimlerini işler. Toplum bilimi bu eserde henüz “toplumsal fizik” diye anılıyordu; 1839’da yayımlanan dördüncü ciltte Comte, bir dipnotta “sosyoloji” sözcüğünü yeni bir terim olarak sunar.\n\nComte’a göre insanlık teolojik, metafizik ve pozitif olmak üzere üç aşamadan geçer; sosyoloji ise bilimlerin sonuncusu ve hepsini derleyen basamağıdır; bu, bugünkü sosyolojiden çok farklı bir tasarıdır. Sonraki yıllarda dört ciltlik *Sistem*’inde (1851–1854) “İnsanlık Dini”ni kurmaya yöneldi; “altruism” (özgecilik) sözcüğü de ona aittir. 1853’te Harriet Martineau *Cours*’un kısaltılmış bir İngilizce çevirisini yayımladı.",
+  "works": [
+    {
+      "bib": "comte-1839-cours-tome4",
+      "note": "“Sociologie” sözcüğünün bir dipnotta yeni terim olarak sunulduğu cilt."
+    }
+  ],
+  "inCourse": "[[lesson:social-thought-roots]] dersinde sosyolojinin adının doğuşu ve üç hâl yasası vesilesiyle geçer."
+}

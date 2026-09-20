@@ -1,0 +1,31 @@
+{
+  "id": "durkheim",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "name": "Émile Durkheim",
+  "nativeName": "",
+  "slug": "emile-durkheim",
+  "short": "French sociologist (1858–1917); known for social facts, mechanical and organic solidarity, anomie and his study of suicide; one of the founders of sociology.",
+  "born": "Épinal",
+  "roles": [
+    "sociologist"
+  ],
+  "bio": "Émile Durkheim was born in 1858 in Épinal, in the Lorraine region, into a family of rabbis: his father, grandfather and great-grandfather were all rabbis. He entered the École normale supérieure in 1879 and studied philosophy. In 1887 he began teaching the first official sociology courses in France at the University of Bordeaux. In 1902 he moved to the Sorbonne, to the chair of the Science of Education, which was renamed “Science of Education and Sociology” in 1913.\n\nDuring his Bordeaux years he published three books: *The Division of Labour in Society* (1893), *The Rules of Sociological Method* (1895) and *Suicide* (1897); in 1896 he founded *L’année sociologique*. His last major work, *The Elementary Forms of Religious Life*, appeared in 1912. He argued that the subject matter of sociology is “social facts”, that is, ways of acting, thinking and feeling that exist outside the individual and exert pressure on him.\n\nThe First World War took many of his most promising students; in 1915 his son André died in combat. Durkheim died of a stroke in November 1917. He defended Dreyfus during the Dreyfus affair and was a founding member of the Human Rights League.",
+  "works": [
+    {
+      "bib": "durkheim-1893-division",
+      "note": "Mechanical and organic solidarity; the social function of the division of labour."
+    },
+    {
+      "bib": "durkheim-1895-regles",
+      "note": "The rule to treat social facts as things."
+    },
+    {
+      "bib": "durkheim-1897-suicide",
+      "note": "Suicide rates, anomie and the test of newspapers and imitation."
+    }
+  ],
+  "inCourse": "One of the central figures of [[lesson:social-thought-roots]]; functionalism and ritual readings of media return in later lessons as continuations of this line."
+}

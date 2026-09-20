@@ -1,0 +1,16 @@
+{
+  "id": "marx",
+  "born": {
+    "year": 1818
+  },
+  "died": {
+    "year": 1883
+  },
+  "sources": [
+    "wolff-2025-sep-marx",
+    "ol-author-marx"
+  ],
+  "works": [
+    "marx-engels-1845-german-ideology"
+  ]
+}

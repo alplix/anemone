@@ -1,0 +1,13 @@
+{
+  "id": "gemeinschaft-gesellschaft",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "Gemeinschaft and Gesellschaft",
+  "altTerms": [],
+  "slug": "gemeinschaft-and-gesellschaft",
+  "short": "Tönnies’s two ideal types of association, based on two kinds of will (natural will and rational will): community and society.",
+  "body": "In Tönnies’s *Gemeinschaft und Gesellschaft* (1887) two forms of association are distinguished. *Gemeinschaft* (community) arises from natural will (*Wesenwille*): action is willed from nature, habit or for its own value; kinship, neighbourhood, town and spiritual community are examples. *Gesellschaft* (society, association) arises from rational or elective will (*Kürwille*): action is willed in order to reach an end, by choosing among means; contracts and special-purpose associations are examples.\n\nBoth are ideal types: their pure cases do not exist and every concrete association contains something of each in varying proportions. The distinction is not one between village and city but between kinds of will.\n\nThe English literature has two translations with different titles, “Community and Society” and “Community and Civil Society”; in Turkish the equivalents circulate in two pairs, “cemaat–cemiyet” and “topluluk–toplum”.",
+  "example": "A business relationship in which two parties are bound by contract for a specific purpose is closer to Gesellschaft, a kinship tie closer to Gemeinschaft."
+}

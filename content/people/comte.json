@@ -1,0 +1,16 @@
+{
+  "id": "comte",
+  "born": {
+    "year": 1798
+  },
+  "died": {
+    "year": 1857
+  },
+  "sources": [
+    "bourdeau-2026-sep-comte",
+    "ol-author-comte"
+  ],
+  "works": [
+    "comte-1839-cours-tome4"
+  ]
+}
