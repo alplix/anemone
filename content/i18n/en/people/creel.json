@@ -1,0 +1,26 @@
+{
+  "id": "creel",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "name": "George Creel",
+  "nativeName": "",
+  "slug": "george-creel",
+  "short": "American journalist (1876–1953). In 1917 he became chairman of the Committee on Public Information and told the story of its work in a book published in 1920.",
+  "born": "Lafayette County, Missouri",
+  "died": "San Francisco",
+  "roles": [
+    "journalist",
+    "government official",
+    "author"
+  ],
+  "bio": "George Edward Creel was born on 1 December 1876 in Lafayette County, Missouri, and died on 2 October 1953 in San Francisco. He was a journalist by trade, was involved in politics, and was known as an author.\n\nAbout a week after the United States entered the First World War, President Woodrow Wilson made him the civilian chairman of the Committee on Public Information. The committee was created by Executive Order 2594 of 13 April 1917; its other members were the Secretaries of State, War and the Navy. In effect Creel was responsible, like a cabinet member, for “telling the war” both at home and abroad. The committee gave news to the press, produced pamphlets, films and posters, built a network of volunteer speakers and worked in more than thirty countries overseas. Congress closed it in 1919.\n\nWhat makes Creel interesting for this course is his own account. In *How We Advertised America* (1920) he describes the committee’s work as “the world’s greatest adventure in advertising” and adds that they did not call it propaganda, because in German hands the word had come to be associated with deceit and corruption. It is one of the clearest documents showing that the negative charge of the word had settled into everyday and official language right after the war.\n\nA caution: most of the figures about the committee’s size and success are Creel’s own reckoning and cannot be treated as independently confirmed. This page contains only professional facts that can be verified; personal details are left out on purpose.",
+  "works": [
+    {
+      "bib": "creel-1920-how-we-advertised-america",
+      "note": "The committee’s own story; the source of the sentence “we did not call it propaganda” and of the volunteer-speaker figures."
+    }
+  ],
+  "inCourse": "See [[lesson:propaganda-history]]: the American propaganda agency in the First World War and how the word acquired its negative charge."
+}

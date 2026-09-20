@@ -1,0 +1,782 @@
+{
+  "id": "propaganda-history",
+  "lang": "en",
+  "translation": {
+    "status": "machine",
+    "date": "2026-09-20"
+  },
+  "title": "A History of Propaganda",
+  "slug": "history-of-propaganda",
+  "description": "Propaganda was a church body’s name in 1622. From Wellington House to Creel, the corpse factory to Bernays and Ellul: the history of the word and the thing.",
+  "claim": "Propaganda is a historical phenomenon before it is a theory: the word was the name of a church body in 1622; organised state propaganda settled in during the First World War; after the war the exposure of invented atrocity stories loaded the word with the smell of deceit; then the word was either hidden, renamed or studied.",
+  "keywords": [
+    "propaganda",
+    "Propaganda Fide",
+    "Wellington House",
+    "Creel Committee",
+    "Bryce report",
+    "corpse factory",
+    "Bernays",
+    "public relations",
+    "agitprop",
+    "Ellul",
+    "white grey black propaganda"
+  ],
+  "updated": "2026-09-20",
+  "timeline": {
+    "propaganda-fide": "The Congregatio de Propaganda Fide is founded (bull of 22 June)",
+    "wellington-house": "The British cabinet approves an organisation for propaganda abroad (5 September); Wellington House",
+    "bryce-report": "The report of the Bryce Committee is published",
+    "cpi": "The Committee on Public Information is created in the United States (13 April)",
+    "corpse-factory-story": "The “corpse factory” story appears in British newspapers (17 April)",
+    "agitprop-department": "The Department of Agitation and Propaganda is set up in the Soviet Communist Party",
+    "kadaver-denial": "The House of Commons hears the German denial of the corpse story and accepts it (2 December)",
+    "lasswell-1927": "Lasswell: Propaganda Technique in the World War",
+    "bernays-propaganda": "Bernays: Propaganda",
+    "propaganda-ministry": "The Reich Ministry for Public Enlightenment and Propaganda is created in Germany (13 March)",
+    "ipa": "The Institute for Propaganda Analysis is founded (October)",
+    "ellul-propagandes": "Ellul: Propagandes"
+  },
+  "cards": [
+    {
+      "id": "ctx-word",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "A sign on a door, a word: Rome, 1622",
+      "body": "6 January 1622, Rome. Pope Gregory XV gathers thirteen cardinals and two prelates and tells them he wants to set up a permanent, well-organised body for the spread of Catholicism [[cite:newadvent-catholic-encyclopedia-propaganda]]. On 22 June of the same year the bull *Inscrutabili Divinae* appears, and the *Congregatio de Propaganda Fide*, the “congregation for propagating the faith”, is officially born [[cite:newadvent-catholic-encyclopedia-propaganda]] [[cite:vatican-cevang-profile]].\n\nStop for a moment and look: the word that today often works as an insult is here the sign on an institution’s door. It comes from the Latin verb *propagare* (to spread, to set forward) [[cite:etymonline-propaganda]]. Its recorded sense from 1718 is “the committee of cardinals in charge of foreign missions”; around 1790 it widens to any movement or organisation that tries to spread a doctrine or practice. The sense of information meant to promote a political view settles in during the First World War, and at first it is neither contemptuous nor does it imply deceit [[cite:etymonline-propaganda]].\n\nSo the “manipulation” ring did not arrive with the word; it was added later. This lesson is the story of that adding: who, when, and through which events?",
+      "question": {
+        "id": "ctx-word-q",
+        "type": "mcq",
+        "prompt": "A friend says, “The word propaganda has meant lies and manipulation from day one.” According to the documents in this card, what is the best reply?",
+        "options": [
+          "You are right; if the word was the name of a church body, it already meant deceit.",
+          "Wrong; in 1622 the word was the name of a church body charged with spreading the faith, and the negative charge was added later, especially around the First World War.",
+          "Wrong; the word was first coined in the twentieth century, during the First World War.",
+          "You are right; but only in German, in other languages it was neutral."
+        ],
+        "answer": 1,
+        "explain": "The documents show that the congregation was founded in 1622, that the word comes from a verb meaning “to spread”, and that its political sense settled during the First World War and was at first not judgemental. The first option is tempting because it carries today’s association back into the past; but the charge of a word changes with the period. The third option shortens the word’s history wrongly: the 1622 record is there. The fourth option invents a language distinction that no document supports."
+      }
+    },
+    {
+      "id": "ctx-before",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "A fake newspaper, a fake captain: Paris, 1782",
+      "body": "In those years the word still lived mostly in church language (its political sense would settle only in the First World War); but we would recognise a trick from 1782 at once. In the spring, while peace talks were going on in Paris, Benjamin Franklin had a counterfeit supplement to the *Boston Independent Chronicle* printed: dated “Boston, March 12”, numbered “Numb. 705”, a single sheet that looked in every respect like the real thing [[cite:harrington-2014-franklin-fake-newspaper]]. It carried a supposed letter from “Captain Samuel Gerrish”, a militia officer who never existed; the letter accused the British side of terrible cruelties [[cite:harrington-2014-franklin-fake-newspaper]].\n\nFranklin sent copies of the supplement to John Adams, John Jay and others; the letter was printed in London’s *General Advertiser* on 29 June 1782. An American newspaper first called it a Franklin hoax in 1854 [[cite:harrington-2014-franklin-fake-newspaper]].\n\nLook at the list: a false source, an invented witness, a distant public, reprinting from paper to paper. It had no name, but it had a job. What separates modern propaganda from this, in our reading, is not the tricks themselves but the scale, the organisation and the knowledge of psychology added to them. For the role of print, go back to [[lesson:mass-media-history]]; for a much older state inscription, jump to the Turkey section.",
+      "question": {
+        "id": "ctx-before-q",
+        "type": "mcq",
+        "prompt": "A student says, “There was no propaganda in 1782, because the word was not yet used in that sense.” What do you say, looking at the Franklin case?",
+        "options": [
+          "Correct; a thing can only exist if it has a name.",
+          "Correct; because there was no printing press at that time.",
+          "Wrong; there was no name, but the same tricks (a false source, an invented witness, targeting a foreign public) are documented. To understand a phenomenon you look at its function, not at its name.",
+          "Wrong; because Franklin had a propaganda ministry."
+        ],
+        "answer": 2,
+        "explain": "The documents show a counterfeit newspaper supplement, an invented letter and a distribution aimed at readers abroad; the naming comes later. The first option confuses the name with the thing. The second option rests on a false fact: it was precisely a printing press that produced Franklin’s supplement. The ministry in the fourth option does not exist; ministry-style organisation is the next subject of this lesson."
+      }
+    },
+    {
+      "id": "deep-word-1627",
+      "section": "context",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: 1622 or 1627? The trap of a chain of quotations",
+      "body": "Bernays’s 1928 book quotes a Scientific American piece that asks for the good name of the word propaganda to be restored. The piece calls it a “fine old word” and, relying on a dictionary, says the body of cardinals in Rome was “instituted in 1627” [[cite:bernays-1928-propaganda]].\n\nBut the congregation was founded in 1622 [[cite:vatican-cevang-profile]]. 1627 is the date when Pope Urban VIII founded the seminary attached to the congregation, the *Collegium Urbanum*, by the bull *Immortalis Dei* (1 August 1627) [[cite:newadvent-catholic-encyclopedia-propaganda]]. So the two dates belong to two different institutions.\n\nWe do not know how the mistake arose: a confusion, a slip in the dictionary, or a shortening of the quotation? We only document this: the date in the quotation does not match the record on the institution’s own page and in an independent encyclopedia.\n\nThe lesson: even an early book like the 1928 one may carry a date it took from another text. In this course every date was checked against at least two independent sources, because being written in one book does not make a date right. When you meet a date, ask whether the source is first-hand or a quotation of someone else."
+    },
+    {
+      "id": "people-cast",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "text",
+      "title": "Who is who, and which year?",
+      "body": "The story comes in three waves. The years are the backbone of this lesson.\n\n**From word to institution (1622–1914)**\n\n- Pope Gregory XV: 1622, the *Propaganda Fide* congregation [[cite:vatican-cevang-profile]].\n\n**War machines (1914–1919)**\n\n- Britain: Wellington House (1914), headed by Charles Masterman [[cite:historynet-ernsberger-2019-wellington-house]] [[cite:wikipedia-wellington-house]].\n- James Bryce: chair of the committee whose report appeared in 1915 [[cite:bryce-1915-report]].\n- [[person:creel|George Creel]]: the American Committee on Public Information, 1917 [[cite:nara-cpi-guide]].\n\n**After the war (1920–1962)**\n\n- The Department of Agitation and Propaganda in the Soviet Communist Party, 1920 [[cite:tate-agit-prop]].\n- [[person:lippmann|Walter Lippmann]]: *Public Opinion*, 1922 [[cite:lippmann-1922]].\n- [[person:lasswell|Harold Lasswell]]: *Propaganda Technique in the World War*, 1927 [[cite:lasswell-1927-propaganda]].\n- Arthur Ponsonby: *Falsehood in War-Time*, 1928 [[cite:ponsonby-1928-falsehood-in-war-time]].\n- [[person:bernays|Edward Bernays]]: *Propaganda*, 1928 [[cite:bernays-1928-propaganda]].\n- The propaganda ministry in Germany, 13 March 1933 [[cite:verfassungen-erlass-rmvp-1933]].\n- [[person:ellul|Jacques Ellul]]: *Propagandes*, 1962 [[cite:ellul-1965-propaganda]].\n\nA memory hook: *sign 1622, war machines 1914–17, “confession and study” the 1920s, a regime’s ministry 1933, the sociological analysis 1962.*",
+      "question": {
+        "id": "people-cast-q",
+        "type": "match",
+        "prompt": "Match each event or work with its year.",
+        "pairs": [
+          [
+            "The founding of the Congregatio de Propaganda Fide",
+            "1622"
+          ],
+          [
+            "The Committee on Public Information in the United States",
+            "1917"
+          ],
+          [
+            "Bernays’s book Propaganda",
+            "1928"
+          ],
+          [
+            "The Reich propaganda ministry in Germany",
+            "1933"
+          ],
+          [
+            "Ellul’s book Propagandes",
+            "1962"
+          ]
+        ],
+        "explain": "The order is 1622, 1917, 1928, 1933, 1962. The pair most often mixed up is Lasswell (1927) and Bernays (1928): one studies war propaganda, the other defends the profession, and they appear a year apart. 1622 and 1627 (the congregation and the college) also get confused, as do Creel’s 1917 committee and Bryce’s 1915 report; keep the committee as the United States’ work and the report as Britain’s."
+      }
+    },
+    {
+      "id": "claim-core",
+      "section": "claim",
+      "layer": "core",
+      "kind": "text",
+      "title": "The core claim: the thing came first, the theory later",
+      "body": "The argument of this lesson comes in four steps.\n\n1. The effort to influence the masses is very old; “propaganda” was the name of a church body.\n2. In the First World War states organised this work: in Britain a bureau for the world abroad (cabinet approval 5 September 1914), in the United States a committee (13 April 1917) [[cite:sanders-1975-wellington-house]] [[cite:presidency-eo2594]].\n3. After the war the methods used, including invented atrocity stories, came out, and the word acquired an association with deceit [[cite:osgood-2002-propaganda]].\n4. Then two reactions followed: hiding or renaming the word (Creel, Goebbels, public relations) and studying it (Lasswell, the Institute for Propaganda Analysis, Ellul).\n\nIn short, what we call “propaganda theory” is an analysis written after a phenomenon: the thing first, the theory later.\n\nWartime intelligence games such as the Zimmermann telegram were covered in [[lesson:lasswell-shannon-weaver]]; we do not repeat them here. For the intellectual ground of crowds and mass society, see [[lesson:mass-society]].",
+      "question": {
+        "id": "claim-core-q",
+        "type": "mcq",
+        "prompt": "According to this lesson, which of the following orders is closest to the actual course of events?",
+        "options": [
+          "A theory is written, states apply the theory, the word turns negative.",
+          "Scholars study propaganda, then states set up propaganda organisations.",
+          "The word turns negative, the Nazi regime uses it, then the First World War breaks out.",
+          "State propaganda organisations are set up, invented stories are exposed and the word turns negative, then the word is hidden or studied."
+        ],
+        "answer": 3,
+        "explain": "The documents show that the organisations (1914, 1917) came before the theoretical analyses (Lasswell 1927, Ellul 1962) and that the negative charge settled after the war. The first option reverses the order and the third one breaks the dates: the Nazi ministry is from 1933, while the war began in 1914. The “study first” order of the second option does not fit the history of Lasswell and the Institute for Propaganda Analysis: they wrote after the organisations."
+      }
+    },
+    {
+      "id": "concepts-terms",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Glossary of concepts",
+      "body": "- **Propaganda** [[concept:propaganda]]: according to Lasswell (1927), the management of views and attitudes by meaningful symbols such as stories, rumours, reports and pictures, rather than by changing physical conditions such as the cigarette supply or the composition of food. In his account propaganda is one of three chief instruments against an enemy: military pressure, economic pressure and propaganda [[cite:lasswell-1927-propaganda]].\n- **Agitation and propaganda** [[concept:agitprop]]: according to Plekhanov and Lenin, the propagandist presents many ideas to a few people, the agitator presents one or a few ideas to the masses [[cite:lenin-1902-what-is-to-be-done]].\n- **White, grey, black propaganda** [[concept:propaganda-white-grey-black]]: the source is shown correctly, hidden, or falsely shown [[cite:osgood-2002-propaganda]].\n- **Atrocity propaganda** [[concept:atrocity-propaganda]]: arousing anger through stories of the enemy’s cruelty, some true and some unverifiable.\n- **Public relations** [[concept:public-relations]]: the profession of managing an organisation’s relations with the public; in Bernays’s 1928 book, the “public relations counsel” [[cite:bernays-1928-propaganda]].\n- **Committee on Public Information** [[concept:committee-on-public-information]]: the United States’ 1917 war propaganda and information agency; the Creel Committee.\n- **Public opinion** [[concept:public-opinion]]: the field propaganda aims at; treated in detail in [[lesson:propaganda-public-opinion]].",
+      "question": {
+        "id": "concepts-terms-q",
+        "type": "mcq",
+        "prompt": "A radio station presents itself as the “secret” station of the other side but is in fact run by the opposing belligerent. What is it, in this lesson’s classification?",
+        "options": [
+          "White propaganda; because the operator is in fact known.",
+          "Grey propaganda; because no source is stated at all.",
+          "Black propaganda; because the message is shown as coming from someone else.",
+          "Public relations; because an organisation is managing its relations with the public."
+        ],
+        "answer": 2,
+        "explain": "In black propaganda the message is shown as coming from someone else, often from a source that looks hostile. In grey propaganda the source is merely not stated or is hidden; here there is a false source identity. The white option confuses this with the real operator being known: what matters is the source shown in the message. Public relations is the name of a profession, not a colour class."
+      }
+    },
+    {
+      "id": "deep-turkish-terms",
+      "section": "concepts",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: “propaganda”, “telkin”, “yaygara” in Turkish",
+      "body": "In the dictionary of the Turkish Language Association *propaganda* is marked as of “Italian” origin and has a single sense: work carried out through speech, writing and the like to make a doctrine, idea or belief known, accepted and spread; the given equivalent is *yaymaca*. In the same dictionary *beyaz propaganda* (steering with true information whose source is known and visible) and *gri propaganda* (steering with information whose source is not visible) are entries of their own [[cite:tdk-guncel-turkce-sozluk]]. I found no entry for *kara propaganda* or *siyah propaganda*; that does not mean the term is not used in Turkish writing, only that I could not confirm a dictionary record.\n\nA notable difference: the dictionary’s “white” builds truthfulness into the definition, whereas in the classification reported by Osgood the criterion is only whether the source is shown correctly [[cite:osgood-2002-propaganda]].\n\n*Telkin* is of Arabic origin: “instilling a feeling, a thought”; its second sense describes the realisation of a thought through an unconscious process [[cite:tdk-guncel-turkce-sozluk]]. In this course it is used as the Turkish counterpart of “suggestion” in early effects literature ([[concept:suggestibility]]). *İkna* in the dictionary includes “deceiving” alongside “convincing”.\n\n*Yaygara* in the dictionary is “shouting and yelling loudly without need” and “whining and complaining”; I cannot say that I saw it used as a source for propaganda. *Ajitasyon* includes “stirring up” and “exploiting emotions”."
+    },
+    {
+      "id": "assump-myth",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "myth",
+      "title": "Myth: “Propaganda is lies”",
+      "body": "**What people assume.** Propaganda consists of lies; a true news item cannot be propaganda.\n\n**What the documents say.** The introduction to the English translation of Ellul names this very belief as one reason why people fall easy prey to propaganda: they think propaganda consists only of lies and tall stories. Modern propaganda works with many kinds of truth: half-truth, limited truth, truth out of context [[cite:ellul-1965-propaganda]].\n\nThe First World War material shows it in both directions. In 1927 Lasswell finds “impracticable” the maxim of a British official who said that only truthful statements should be used in propaganda; he writes that in the war a good deal of material was invented out of whole cloth. But on the same pages he also explains why invented material could stay plausible: in war plenty of horrors occur, and a “mustard seed of truth” can blossom [[cite:lasswell-1927-propaganda]]. In Belgium there were both real massacres and unverified stories; the details are in the Evidence section.\n\nConclusion: what marks propaganda is not that it is a lie, but that it is an organised, targeted effort at influence, often with a steered source. A true piece of information can enter its service; so can an invention.",
+      "question": {
+        "id": "assump-myth-q",
+        "type": "tf",
+        "prompt": "True or false: If a news item is entirely true, then according to this lesson it cannot count as propaganda.",
+        "answer": false,
+        "explain": "False. According to the introduction to Ellul’s translation, modern propaganda also works with half, limited or out-of-context truths; white propaganda is information whose source is shown openly, and it can be true. “Propaganda = lie” is tempting because the bad examples stick in memory; but the criterion is not truthfulness but the organised, targeted nature of the effort. On the other hand, this does not mean every true news item is propaganda: what matters is who presents it, for what purpose, and with what source."
+      }
+    },
+    {
+      "id": "how-wellington",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "How it worked: the five steps of Wellington House",
+      "body": "Let us follow the method of Britain’s bureau for propaganda abroad, step by step, as far as it is documented.\n\n1. **The decision.** At the end of August the cabinet discusses an organisation that would inform and influence opinion abroad and counter Germany’s false news; on 5 September 1914 it approves the creation of an organisation to last for the whole war. There was no peacetime precedent [[cite:sanders-1975-wellington-house]].\n2. **The cover.** The bureau worked at Wellington House, the building of the National Insurance Commission, with Charles Masterman at its head [[cite:historynet-ernsberger-2019-wellington-house]] [[cite:wikipedia-wellington-house]]. According to Lasswell, most of the material was put out as though it came not from an official body but from a private source [[cite:lasswell-1927-propaganda]].\n3. **The target.** Opinion abroad; the priority was American opinion [[cite:historynet-ernsberger-2019-wellington-house]].\n4. **The evidence package.** Wellington House started a report on German cruelty: the 1915 Bryce Report. Lasswell writes that this was done with the device of setting up a commission of men with international reputations for truthfulness, and calls it a “stroke of genius” [[cite:lasswell-1927-propaganda]].\n5. **The result.** The report is judged to have been very influential in turning international opinion against Germany, especially in the United States [[cite:history-ireland-bryce]]; after the war it became a disputed legacy. The details are in the Evidence section.\n\nHiding the source and borrowing the standing of a respected source are two faces of the same plan.",
+      "question": {
+        "id": "how-wellington-q",
+        "type": "mcq",
+        "prompt": "A government, instead of publishing atrocity allegations in its own name, has them collected by a commission of world-renowned figures. According to the Wellington House example, what does this move aim at?",
+        "options": [
+          "Making the message look neutral and respected, and so raising its credibility.",
+          "Producing the allegations more cheaply.",
+          "Skipping opinion abroad and speaking only to its own people.",
+          "Shifting responsibility after the war onto the German government."
+        ],
+        "answer": 0,
+        "explain": "Lasswell treats setting up a commission as a device for delivering findings in the voice of people with international standing and a reputation for truthfulness; the aim is credibility. The second option brings in cost and the fourth the post-war period; neither is in the document. The third option is the reverse: the target was precisely opinion abroad. One more caution: Wellington House started the commission; looking independent does not mean being independent."
+      }
+    },
+    {
+      "id": "how-creel",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "story",
+      "title": "13 April 1917: “We did not call it propaganda”",
+      "body": "Soon after America enters the war, on 13 April 1917, President Wilson signs Executive Order 2594: alongside the Secretaries of State, War and the Navy, a civilian chairman, the journalist George Creel [[cite:presidency-eo2594]] [[cite:nara-cpi-guide]]. Lasswell compares this to appointing a separate cabinet member for propaganda [[cite:lasswell-1927-propaganda]].\n\nYears later Creel describes the work as “the world’s greatest adventure in advertising” and adds that they did not call it propaganda, because in German hands the word had come to be associated with deceit and corruption [[cite:creel-1920-how-we-advertised-america]]. The tools included print, speech, film, the telegraph, wireless, the poster and the signboard; the best known was a network of volunteer speakers, the “Four Minute Men”. By Creel’s own count, 75,000 speakers in about 5,200 communities gave more than seven and a half million speeches [[cite:creel-1920-how-we-advertised-america]]. Abroad the committee worked in more than thirty countries; it fed foreign newspapers with news and official statements, opened reading rooms, brought foreign journalists to America and prepared special appeals for teachers and labour groups [[cite:osgood-2002-propaganda]]. Congress closed the committee in 1919 [[cite:nara-cpi-guide]]; Osgood ties that decision to a natural American distrust of propaganda and to the fear that the president might use the committee for domestic political ends [[cite:osgood-2002-propaganda]].\n\nTreat these numbers with caution: they come from the committee’s own records and from its chairman’s own book.",
+      "question": {
+        "id": "how-creel-q",
+        "type": "mcq",
+        "prompt": "Which of the following is not something confirmed by an independent source, but rests on Creel’s own account?",
+        "options": [
+          "The committee’s creation by an executive order on 13 April 1917.",
+          "The appointment of the journalist George Creel as chairman.",
+          "The closing of the committee in 1919.",
+          "The volunteer speakers having given more than seven and a half million speeches."
+        ],
+        "answer": 3,
+        "explain": "The first three facts are in official records (the executive order, the National Archives guide). The number of speeches is Creel’s own tally in his own book and was not confirmed separately. The tempting wrong option is to assume that a figure that looks as solid as the dates is equally reliable; but a number being a number does not show that its source is independent."
+      }
+    },
+    {
+      "id": "how-colours",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Painting a message: three questions",
+      "body": "To classify a propaganda example by colour, ask three questions in turn.\n\n1. **Is the source openly shown and correct?** Then it is white. The American government’s broadcasting service, Voice of America, is the standard example [[cite:osgood-2002-propaganda]].\n2. **Is the source unstated or hidden?** Then it is grey. Newspaper pieces of unknown authorship that nevertheless serve a government are the typical case [[cite:osgood-2002-propaganda]].\n3. **Is the source that is shown false?** Then it is black: the message is presented as coming from someone else, often from a source that looks like the enemy, to embarrass it [[cite:osgood-2002-propaganda]] [[cite:nabb-colors-of-propaganda]].\n\nExamples from history: in the Second World War Britain’s Political Warfare Executive ran supposed German “secret” radio stations [[cite:wikipedia-black-propaganda]]; the American OSS was authorised to conduct black and grey propaganda [[cite:osgood-2002-propaganda]]. Franklin’s 1782 fake newspaper supplement is, in our reading, an early “black” example: the identity of a real newspaper is imitated [[cite:harrington-2014-franklin-fake-newspaper]].\n\nTwo warnings. The colours concern how the source is shown, not whether the content is true. And we could not confirm who first made the naming; the Turkish Language Association’s dictionary has entries for “beyaz” and “gri” but not for “kara” [[cite:tdk-guncel-turkce-sozluk]].",
+      "question": {
+        "id": "how-colours-q",
+        "type": "mcq",
+        "prompt": "A government, without showing its own name, spreads a view through a news site that looks independent; the site does not present itself as an institution of another country. According to the three questions, what is this?",
+        "options": [
+          "White; because the content may be true.",
+          "Black; because the real source is hidden.",
+          "Grey; because the real source is hidden but is not shown as someone else.",
+          "None of them; because a news site is a media outlet."
+        ],
+        "answer": 2,
+        "explain": "According to the second question, if the real source is hidden it is grey, and if a false other source is shown it is black; here there is no false identity, only concealment. The white option makes truthfulness the criterion, whereas the colour depends on how the source is shown. The black option confuses concealment with showing a false source. The last option forgets that the classification asks a question about the source, not about the medium. (Dictionaries may define the colours by different criteria; this lesson uses the criterion reported by Osgood.)"
+      }
+    },
+    {
+      "id": "ev-belgium",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "story",
+      "title": "Belgium, 1914: the real and the unverifiable side by side",
+      "body": "The hardest thing about war propaganda is this: part of what it says may be true.\n\nIn 1914, as the German army invaded Belgium and northern France, civilians were killed. The historians John Horne and Alan Kramer document, from archival work, the deaths of about 6,500 Belgian and French civilians; they trace the German soldiers’ belief in “civilian resistance” to a collective delusion [[cite:horne-kramer-2001-german-atrocities]].\n\nOn 15 December 1914 Britain appointed a committee under Bryce; the report of 1915 rests on more than 1,200 depositions [[cite:bryce-1915-report]]. The report is judged to have been very influential in turning international opinion against Germany, especially in the United States [[cite:history-ireland-bryce]]. After the war it was argued that the atrocity claims had been exaggerated, and the report was often spoken of as war propaganda; some historians, however, judge it “substantially accurate”, and the argument has still not fully closed [[cite:wfa-bryce-report]] [[cite:history-ireland-bryce]].\n\nSome other accounts of the same period did not pass the test. Lasswell reports that the journalist Will Irwin looked into various versions of the story that Belgian babies had their hands cut off and found them all unproved and wildly improbable [[cite:lasswell-1927-propaganda]]. Ponsonby’s 1928 book also gives that story a chapter of its own [[cite:ponsonby-1928-falsehood-in-war-time]].\n\nSo the picture holds real suffering and unverified stories, and the two circulated inside the same propaganda.",
+      "question": {
+        "id": "ev-belgium-q",
+        "type": "mcq",
+        "prompt": "A historian says, “The Bryce Report was an entirely invented propaganda product.” According to the documents in this card, what do you say about that sentence?",
+        "options": [
+          "True; because the report came out of a propaganda organisation’s initiative.",
+          "False; because the report is the result of a flawless judicial process.",
+          "True; because none of the claims was ever confirmed.",
+          "An overgeneralisation; Horne and Kramer document some 6,500 civilian deaths and some historians judge the report largely accurate, but it rested on unsworn, anonymous depositions and some stories could not be proved."
+        ],
+        "answer": 3,
+        "explain": "Horne and Kramer document some 6,500 civilian deaths; some historians judge the report largely accurate. Even so, the report rested on unsworn, anonymous depositions and some stories could not be established. The first option equates the source being propaganda with the content being invented. The last option goes to the opposite extreme: the method was not flawless. The right way is to ask about each claim separately."
+      }
+    },
+    {
+      "id": "ev-corpse",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "steps",
+      "title": "How a story enters circulation: the “corpse factory”",
+      "body": "Read this case as a timeline. The same steps will be familiar from other stories.\n\n1. **10 April 1917.** According to what the Secretary for War reported in 1925, the claim that the Germans had set up an establishment to process their dead first appeared in Berlin’s *Lokalanzeiger* and in two Belgian newspapers [[cite:hansard-1925-11-24-kadaver]].\n2. **17 April 1917.** *The Times* and the *Daily Mail* set a supposed eyewitness account, translated from a French-language Belgian newspaper, beside a text translated from the Berlin paper; side by side, the two look like independent sources [[cite:neander-marlin-2010-corpse-factory]].\n3. **The argument.** Does “Kadaver” mean only an animal carcass, or a human body as well? The War Office, relying on dictionaries and on a captured German army order, had found the story supported [[cite:hansard-1925-11-24-kadaver]].\n4. **24 November 1925.** The Secretary for War tells the House of Commons what they had relied on in 1917 and admits that no corroboration has come since [[cite:hansard-1925-11-24-kadaver]].\n5. **2 December 1925.** The Foreign Secretary, Austen Chamberlain, reports that the German Chancellor has authorised him to say, on the authority of the German Government, that there was never any foundation for the story, and accepts that denial on behalf of the British Government [[cite:hansard-1925-12-02-kadaver]].\n\nIn 1927 Lasswell calls it “a plain lie” but adds why it stayed plausible: war produces plenty of horrors [[cite:lasswell-1927-propaganda]]. In 1928 Ponsonby gave the story a chapter [[cite:ponsonby-1928-falsehood-in-war-time]].",
+      "question": {
+        "id": "ev-corpse-q",
+        "type": "mcq",
+        "prompt": "In 1917, which publishing device made the newspapers’ “corpse factory” story look believable?",
+        "options": [
+          "Setting two texts from two countries side by side so that they seemed to confirm one another.",
+          "Giving the story from a single source, in a single text.",
+          "Publishing the story only after the war.",
+          "An official confirmation of the story by the German government."
+        ],
+        "answer": 0,
+        "explain": "Neander and Marlin treat the printing, on the same day and side by side, of the account translated from a Belgian newspaper and the text translated from the Berlin paper as the story’s main anchor; being side by side gave an apparently independent confirmation. The second option is the reverse: the device’s power was that it did not look like a single source. The third option gets the date wrong: the story appeared in 1917. The last is wrong too: in 1925 the German government said there was no foundation."
+      }
+    },
+    {
+      "id": "ev-creel-word",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "story",
+      "title": "Two men, one hesitation",
+      "body": "Scene one: the United States, 1920. In the book that tells the story of his committee, Creel writes: we did not call it propaganda [[cite:creel-1920-how-we-advertised-america]].\n\nScene two: Germany, 1933. The name of the new ministry is “Public Enlightenment and Propaganda”, and the words “enlightenment and propaganda” appear in the text of the decree too [[cite:verfassungen-erlass-rmvp-1933]]. But according to the Holocaust Encyclopedia, Goebbels was at first against the word “propaganda”, because in popular usage, in Germany and abroad, it was associated with lies. After the ministry had existed for a year he proposed changing its name to “Ministry of Culture and Public Enlightenment”; Hitler vetoed it [[cite:ushmm-propaganda-ministry]].\n\nTwo opposed political orders shy away from the same word for the same reason. This suggests that the word’s burden did not belong to one regime; it was a shared legacy of the post-war period. A later card in this lesson will open this up with Osgood’s analysis.\n\nA note: a regime hiding a word and what that regime does are separate questions. Shying away from a word does not show that the work done was innocent; it only shows what the word suggested in those days.",
+      "question": {
+        "id": "ev-creel-word-q",
+        "type": "mcq",
+        "prompt": "What do the attitudes of Creel (1920) and Goebbels (1933–34) towards the word “propaganda” show in this card?",
+        "options": [
+          "That both wanted to ban the word by law.",
+          "That after the war the word carried an association with deceit, and that this was noticed in two different political orders.",
+          "That the word carried a bad association only in Germany.",
+          "That propaganda was entirely given up in those years."
+        ],
+        "answer": 1,
+        "explain": "Creel writes that the word had come to be associated with deceit in German hands; Goebbels notices that it is associated with lies in Germany and abroad. Both sensed the word’s burden. The first option invents a ban that is not there. The third option forgets that Creel was writing from the United States. The fourth option is the most dangerous: shying away from the word did not mean giving up the work; the committee and the ministry went on."
+      }
+    },
+    {
+      "id": "ev-bernays",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "text",
+      "title": "1928: a defence of Propaganda and a new profession",
+      "body": "In 1928 Bernays gave his book the title *Propaganda*. It opens by saying that the conscious and intelligent manipulation of the organised habits and opinions of the masses is an important element in democratic society; those who work this unseen mechanism he calls an “invisible government” [[cite:bernays-1928-propaganda]].\n\nHe also thinks about the word’s standing: he quotes a defence from a magazine which says that the word is a “fine old word” and that its meaning turned sinister during the war [[cite:bernays-1928-propaganda]]. His own definition is this: modern propaganda is a consistent, enduring effort to create or shape events so as to influence the public’s relations to an enterprise, idea or group [[cite:bernays-1928-propaganda]]. And a new professional name appears: the “public relations counsel”.\n\nBiographical sources say that Bernays noticed the negative association of the word propaganda and used the name “public relations” [[cite:ebsco-bernays]]. The book itself carries the two names side by side. So saying “he defended the word and introduced the profession under a new name” is more faithful to the text than “he changed the word”. [[person:bernays|Bernays]] had worked with the Committee on Public Information during the war [[cite:newworld-bernays]]; the book can be read as that experience carried into civilian life. That last sentence is our reading.",
+      "question": {
+        "id": "ev-bernays-q",
+        "type": "mcq",
+        "prompt": "Which of the following is most faithful to the text of Bernays’s 1928 book?",
+        "options": [
+          "The book defends the word propaganda and at the same time introduces the profession of “public relations counsel”.",
+          "The word propaganda does not appear in the book at all; only “public relations” is used.",
+          "The book was written to defend the founding of the Nazi ministry.",
+          "The book explains that the word propaganda was negative before the First World War."
+        ],
+        "answer": 0,
+        "explain": "The book’s title is Propaganda; inside it a quotation defending the word and the professional name “public relations counsel” stand side by side. The second option falls apart at the title alone. The third option is historically impossible: the ministry was founded in 1933, the book came out in 1928. The fourth option is the opposite of what the quotation says: the quotation says the meaning turned sinister during the war."
+      }
+    },
+    {
+      "id": "ev-agitprop",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "lab",
+      "title": "A small exercise: agitator or propagandist?",
+      "body": "Lenin in 1902 reports and illustrates Plekhanov’s distinction: the propagandist presents many ideas to one or a few persons; the agitator presents one or a few ideas to a mass of people. Lenin’s own example is unemployment: the propagandist explains the capitalist cause and the inevitability of crises; the agitator takes a glaring event everyone knows, such as an unemployed worker’s family dying of starvation, and presents a single idea to “the masses” [[cite:lenin-1902-what-is-to-be-done]].\n\nNow try it yourself (two hypothetical speeches):\n\n- **Speech A:** A speaker who, for two hours, explains the causes of inflation in five dimensions to a reading group of forty people.\n- **Speech B:** A speaker in a square who tells of a child in the neighbourhood left without school and says in a single sentence, “this order must change”.\n\nAnswer: A is a propagandist, B an agitator. Know the organisational history too: in 1920 the Central Committee of the Soviet Communist Party set up the Department of Agitation and Propaganda; agitprop is its contraction [[cite:tate-agit-prop]] [[cite:encyclopedia-com-agitprop]]. In the civil-war years agitation trains carried acting troupes, pamphlets and musicians to a largely illiterate peasantry [[cite:encyclopedia-com-agitprop]].\n\nA small trap: Ellul uses the word “agitation” in another sense (see the deep-dive card).",
+      "question": {
+        "id": "ev-agitprop-q",
+        "type": "mcq",
+        "prompt": "A speaker presents to a crowd only a single idea, through a glaring event everyone knows (for example a factory accident). According to the distinction Lenin reports, what is this person?",
+        "options": [
+          "A propagandist; because he is telling about an event.",
+          "A grey propagandist; because his name is not stated.",
+          "A public relations counsel; because he is defending an organisation.",
+          "An agitator; because he presents a single idea to the crowd through an event everyone knows."
+        ],
+        "answer": 3,
+        "explain": "In Lenin’s description the agitator presents one or a few ideas to the masses through an event everyone knows, while the propagandist explains many ideas in full to a few. The first option gives event-telling to the propagandist; but the criterion is the number of ideas and the size of the audience. The second and third options mix in other classifications (profession, colour of source); the question gives no information about a source or an organisation."
+      }
+    },
+    {
+      "id": "ev-nazi",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "text",
+      "title": "1933: a propaganda ministry in peacetime",
+      "body": "On 13 March 1933 a decree signed by Reich President Hindenburg and Chancellor Hitler created a Reich ministry for “enlightenment and propaganda” among the population about the government’s policy; Joseph Goebbels was put at its head [[cite:verfassungen-erlass-rmvp-1933]] [[cite:ushmm-nazi-propaganda]].\n\nThe Holocaust Encyclopedia writes that this was a novel idea for a country at peace: until then, governments’ propaganda bodies had been temporary committees needed by war, or information ministries in disguise [[cite:ushmm-propaganda-ministry]]. The ministry’s aim was to communicate the Nazi message through art, music, theatre, film, books, radio, educational material and the press [[cite:ushmm-nazi-propaganda]]. One face of this for the press was that the Editors Law of 4 October 1933 excluded Jews and those married to Jews from journalism [[cite:ushmm-propaganda-ministry]].\n\nThe museum’s assessment is clear: Nazi propaganda played an integral role in the persecution and destruction of Europe’s Jews; it incited hatred and fostered indifference to their fate [[cite:ushmm-nazi-propaganda]]. We do not go into detail here; our point is historical: propaganda turned from a war committee into a permanent state ministry.",
+      "question": {
+        "id": "ev-nazi-q",
+        "type": "mcq",
+        "prompt": "According to the Holocaust Encyclopedia, what set the propaganda ministry created in 1933 apart from earlier state propaganda bodies?",
+        "options": [
+          "That it worked only in wartime.",
+          "That it was a novel idea for peacetime: earlier bodies had been temporary war committees or information ministries in disguise.",
+          "That it worked only towards foreign countries.",
+          "That it left the newspapers entirely independent."
+        ],
+        "answer": 1,
+        "explain": "The encyclopedia calls the ministry a novel idea for peacetime; earlier bodies were temporary war committees or disguised information ministries. The first option says the opposite. The third option is wrong: the ministry’s target was society inside Germany as well. The fourth option is untrue: the ministry controlled the press, and the Editors Law of 1933 regulated entry into the profession."
+      }
+    },
+    {
+      "id": "deep-bryce-source",
+      "section": "evidence",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: the Bryce Report in its own words",
+      "body": "The committee was set up by a warrant of appointment signed by Asquith on 15 December 1914; the report has seven signatories: Bryce, Pollock, Clarke, Digby, Hopkinson, Fisher and Cox [[cite:bryce-1915-report]]. The introduction describes the method: before the committee sat, the Home Office had for three or four months been collecting evidence; more than 1,200 depositions were submitted to the committee. The depositions were taken down in Britain by persons with legal training who nevertheless had “no authority to administer an oath”. Witnesses’ names were left out because an absolute promise had been given that they would not be disclosed, for reasons of safety. Hearsay was rejected unless confirmed by another direct witness. Witnesses who did not impress the lawyers favourably were dropped; some depositions that were “probably true” but rested on a single witness were judged not safe to rely on and were omitted [[cite:bryce-1915-report]].\n\nThe conclusions section holds a series of findings to be “proved”, including that in many parts of Belgium there were “deliberate and systematically organised massacres” of the civil population [[cite:bryce-1915-report]].\n\nReading this, two things are true at once: (1) the report says it applied a careful filter for its time; (2) it rests on unsworn and anonymous depositions and was spread through the initiative of a propaganda body, Wellington House [[cite:lasswell-1927-propaganda]]. Historians weigh these two facts differently: some judge the report “substantially accurate” [[cite:wfa-bryce-report]], and the argument has still not fully closed [[cite:history-ireland-bryce]]."
+    },
+    {
+      "id": "deep-charteris",
+      "section": "evidence",
+      "layer": "deep",
+      "kind": "myth",
+      "title": "Deep dive: the debunker’s story gets debunked too",
+      "body": "**What is often told.** A British intelligence general, John Charteris, is said to have invented the corpse-factory story by swapping the captions of two photographs: one showed German soldiers being carried away for burial, the other dead horses on their way to a carcass-processing plant; he is said to have swapped the captions and sent them to China. Lasswell tells this in 1927, calls it “a plain lie” and gives the *New York Times* of 20 October 1925 as his source [[cite:lasswell-1927-propaganda]].\n\n**What the documents say.** This version rests on the newspaper report of a speech Charteris gave in New York in 1925. Neander and Marlin note: when Charteris met with criticism in Britain, he said his speech had been misreported; then he claimed to have merely repeated published “suggestions and speculations”, which had been turned into definite statements attributed to him. The authors write that neither account is fully candid and that he distorted the truth in one of them or in both. They also could not find the letter he mentioned in *The Field*, and they argue that the main role in spreading the story belonged to the Northcliffe press [[cite:neander-marlin-2010-corpse-factory]].\n\nThe lesson: “So-and-so invented that story” is also a claim, and it too needs a source. What remains solid is this: the 1917 publications and the 1925 denial."
+    },
+    {
+      "id": "crit-ellul",
+      "section": "critique",
+      "layer": "core",
+      "kind": "text",
+      "title": "Ellul: propaganda as a form of society, not a regime’s weapon",
+      "body": "Ellul’s 1962 book ties propaganda less to who produces it than to how society works. According to the introduction to the book’s translation, Ellul treats propaganda not as something made by certain people for certain purposes but as a social phenomenon; in his view propaganda is the Siamese twin of technological society. Its aim is often not to change opinions but to sharpen existing trends and to lead people to action [[cite:ellul-1965-propaganda]].\n\nThe best-known distinction in the book is a pair. **Agitation propaganda** is short-lived and explosive; it sets energy in motion, often rests on hatred of an enemy, and can be done with simple means such as the pamphlet, the speech, the poster and the rumour. **Integration propaganda** is slow; it shapes a person in depth and needs mass media; in Ellul’s view it is the truly important kind of our age [[cite:ellul-1965-propaganda]].\n\nA point that is often misreported: Ellul does not accept that education protects against propaganda. Integration propaganda works better in comfortable, cultivated and informed milieus; intellectuals are more sensitive to it than peasants, because they share a society’s stereotypes even when they oppose it. Agitation propaganda, by contrast, is easier with the less educated and informed [[cite:ellul-1965-propaganda]].\n\nA fair limit: these claims rest on observation and theoretical reasoning; this lesson presents no study that tests them. Read Ellul not as a “proven law” but as a strong hypothesis.",
+      "question": {
+        "id": "crit-ellul-q",
+        "type": "mcq",
+        "prompt": "According to Ellul, to which kind of propaganda is a highly educated and informed readership more vulnerable?",
+        "options": [
+          "Agitation propaganda; because it is emotional.",
+          "To none; because education is a sure protection against propaganda.",
+          "Integration propaganda; because they share society’s stereotypes and myths.",
+          "Only to black propaganda."
+        ],
+        "answer": 2,
+        "explain": "Ellul writes that integration propaganda works better in comfortable and informed milieus and that intellectuals are more sensitive to it because they share a society’s stereotypes. The first option is tempting because agitation looks emotional; but Ellul finds agitation easier with the less educated. The second option is exactly the “education protects” belief that Ellul opposes. The last option confuses the colour classification with Ellul’s distinction."
+      }
+    },
+    {
+      "id": "crit-whose",
+      "section": "critique",
+      "layer": "core",
+      "kind": "myth",
+      "title": "Myth: “Dictatorships gave propaganda its bad name”",
+      "body": "**What people assume.** The word propaganda was soiled by the propaganda of the Nazi and Soviet regimes; democracies “inform”.\n\n**What the documents say.** According to Kenneth Osgood, the word acquired its negative charge right after the First World War, from a democracy’s propaganda: investigations in the 1920s exposed Britain’s campaign in America and the invented German atrocity stories, and many Americans came to think their country had been dragged into the war by British propaganda [[cite:osgood-2002-propaganda]]. This order agrees with other documents too: Creel shies away from the word in 1920 [[cite:creel-1920-how-we-advertised-america]]; the piece Bernays quotes in 1928 says the meaning turned sinister “during the war” [[cite:bernays-1928-propaganda]]; the etymology dictionary ties the negative charge to the period of the First World War [[cite:etymonline-propaganda]].\n\nTwo additions. According to Osgood, observers came out of the war with a legendary belief in the power of propaganda; for how this was treated in textbook form, see [[lesson:magic-bullet]]. And Osgood, and Neander and Marlin, argue that the exposure of the atrocity stories invented in 1917 played a part in the disbelief that met the first reports of the Holocaust twenty years later [[cite:osgood-2002-propaganda]] [[cite:neander-marlin-2010-corpse-factory]]. This is an argument of historians; how large the part was is hard to measure.\n\nConclusion: the word’s burden is not “one regime’s sin” but the result of even democracies being caught in their own propaganda.",
+      "question": {
+        "id": "crit-whose-q",
+        "type": "tf",
+        "prompt": "True or false: According to Osgood, the negative charge of the word “propaganda” arose mainly from the propaganda of the dictatorships of the 1930s.",
+        "answer": false,
+        "explain": "False. Osgood argues that the negative charge arose after the First World War, from the exposure of the invented atrocity stories of a democracy (Britain); Creel’s hesitation in 1920 and the quotation Bernays reports in 1928 fit that order. The statement is tempting because we associate the word most with Nazi propaganda; but that reverses the order of events: when the Nazi ministry was founded in 1933, the word’s bad name was already established (Goebbels’s hesitation is a sign of it)."
+      }
+    },
+    {
+      "id": "deep-ellul-lenin",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: why are Ellul’s and Lenin’s vocabularies reversed?",
+      "body": "Ellul writes that his distinction resembles Lenin’s “in part”, but adds that here the meaning of the terms is reversed [[cite:ellul-1965-propaganda]]. Let us compare.\n\n**Lenin (1902, reporting Plekhanov).** The propagandist presents many ideas to a few people, the agitator presents one or a few ideas to the masses. The propagandist explains the causes in full; the agitator picks a single idea out of a glaring event everyone knows [[cite:lenin-1902-what-is-to-be-done]].\n\n**Ellul (1962).** Agitation propaganda is short-lived and explosive, rests on hatred and simple feelings, and tears a person out of everyday life and pushes them into enthusiasm. Integration propaganda is slow and deep; it aims at shaping a person as a whole and needs mass media [[cite:ellul-1965-propaganda]].\n\nOur reading: the two authors cut the same conceptual field along different axes. Lenin’s axis is “how many ideas, to how many people”; Ellul’s axis is “how long does the effect last, how deep does it go”. Lenin’s “propaganda” (many ideas, few people, explanation) does not occupy the same place as Ellul’s “integration”, because the first is a matter of teaching and the second a shaping of habits.\n\nPractical consequence: when you write “agitation” in an exam, say whose vocabulary you are speaking in."
+    },
+    {
+      "id": "deep-historiography",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: how the history of war propaganda was written, in three waves",
+      "body": "**1. Right after the war: admiration and study.** In 1927 Lasswell counts the Bryce Report, which came out through Wellington House’s initiative, among the “triumphs” of the propaganda front and calls the move of setting up the commission a “stroke of genius” [[cite:lasswell-1927-propaganda]].\n\n**2. The 1920s: exposure.** According to Osgood, investigations in the 1920s brought out Britain’s invented atrocity stories [[cite:osgood-2002-propaganda]]. The corpse story was withdrawn in 1925 [[cite:hansard-1925-12-02-kadaver]]; in 1928 Ponsonby published a “collection of lies” [[cite:ponsonby-1928-falsehood-in-war-time]].\n\n**3. The 2000s: reweighing.** Horne and Kramer (2001) documented the killing of some 6,500 civilians in Belgium and northern France and showed that the German soldiers’ belief in “civilian resistance” rested on a delusion [[cite:horne-kramer-2001-german-atrocities]]; some historians judge the report “substantially accurate” [[cite:wfa-bryce-report]]; the argument has still not fully closed [[cite:history-ireland-bryce]]. Neander and Marlin (2010) told how the corpse story was built, through the Northcliffe press [[cite:neander-marlin-2010-corpse-factory]].\n\nThe pendulum: admiration, then “it was all lies”, then “a mixed picture”. In everyday talk the second version lives longest; yet the third is closer to the documents. According to Osgood, a legendary belief in the power of propaganda also remained from the war [[cite:osgood-2002-propaganda]]; the textbook version of that belief is in the lesson [[lesson:magic-bullet]]."
+    },
+    {
+      "id": "today-computational",
+      "section": "today",
+      "layer": "core",
+      "kind": "text",
+      "title": "Today: inventories of “computational propaganda”",
+      "body": "A research team at the Oxford Internet Institute tried to count, country by country, organised social media manipulation for political ends. Its 2019 inventory found 70 countries using tactics such as bots, data harvesting and trolls [[cite:bradshaw-howard-2019-global-disinformation-order]]. The 2020 inventory says it found evidence of 81 countries using social media to spread computational propaganda and disinformation about politics, up from 70 in the previous report [[cite:bradshaw-bailey-howard-2021-industrialized-disinformation]].\n\nThree questions from this lesson can be carried to today. They are our own reasoning, not a documented research finding:\n\n1. Who is speaking, and is this openly shown? (white, grey, black)\n2. Where did this story first appear, and is there an independent second source? (the corpse story)\n3. What does this content want me to do? (Ellul: action)\n\nA warning about scale: the figure “81 countries” depends on how the phenomenon is defined and how it is detected. “In 81 countries an organised effort of this kind was found” and “there is propaganda in 81 countries” are not the same sentence. Also, what was counted is the existence of the effort; measuring its effect is a separate question and needs separate evidence.",
+      "question": {
+        "id": "today-computational-q",
+        "type": "mcq",
+        "prompt": "A news site shares an “eyewitness” story circulating from an account you have never heard of. From this lesson’s corpse-factory case, what should be your first check?",
+        "options": [
+          "How emotional is the story, and how widely has it been shared?",
+          "Does the person telling it present himself as trustworthy enough?",
+          "How many people follow the site sharing it?",
+          "Where did the story first appear, and is there an independent second source?"
+        ],
+        "answer": 3,
+        "explain": "In the corpse case the story gained the look of independent sourcing through two texts set side by side; the question to ask was the first place of appearance and a truly independent second source. The first option measures emotional force and circulation, but convincing stories by nature have both. The second and third options measure how the source looks, not whether it is right."
+      }
+    },
+    {
+      "id": "today-lab",
+      "section": "today",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Lab: classify two real posters (1915 and 1917)",
+      "body": "Try it yourself first. I describe two real posters in words; which of the seven devices (Institute for Propaganda Analysis) fits, what is the colour, and which emotion is targeted?\n\n**Poster 1: “Destroy this mad brute — Enlist” (Harry R. Hopps, U.S. Army, 1917).** A huge ape-like creature coming ashore; on its pointed German helmet is written “militarism”, on the club in its hand “Kultur”; in its other arm a fainting woman’s figure; ruins behind it [[cite:weschler-mad-brute]] [[cite:awm-hopps-poster]].\n\n**Poster 2: “Daddy, what did YOU do in the Great War?” (Savile Lumley, Parliamentary Recruiting Committee, 1915).** A father seated in an armchair; a small boy on the floor playing with toy soldiers; a small girl on his knee holding an open book [[cite:va-lumley-poster]].\n\nNow compare. According to the Institute for Propaganda Analysis’s definition, **Name Calling** is giving an idea a bad label so that we reject it without examining the evidence [[cite:lee-lee-1939-fine-art-of-propaganda]]. Poster 1 fits: the enemy is a “brute”, and the club and helmet are labels. But the poster’s real force is the image that arouses fear and disgust; the list of seven devices has no name for that. Poster 2 has no enemy; the nearest device is **Band Wagon**, but the real weapon is shame: the V&A record calls it a tone of “emotional blackmail” and adds that conscription began only in 1916 [[cite:va-lumley-poster]].\n\nColour: both show the publisher, so white. The lesson: checklists help but do not catch everything.",
+      "question": {
+        "id": "today-lab-q",
+        "type": "mcq",
+        "prompt": "The words “Kultur” on the club and “militarism” on the helmet in Poster 1 fit which of the seven devices best?",
+        "options": [
+          "Testimonial; because a respected person gives approval.",
+          "Plain Folks; because the speaker talks like an ordinary person.",
+          "Name Calling; because a bad label is attached to the enemy.",
+          "Card Stacking; because only one side of the information is given."
+        ],
+        "answer": 2,
+        "explain": "Name Calling is attaching a bad label to an idea or object so that it is rejected without examining the evidence; the “brute” image and the labelled club and helmet fit that. Testimonial and Plain Folks leave no trace in the poster: no endorser and no ordinary person speaks. Card Stacking is the selection of information; the poster gives an image, not information, so the nearest option is Name Calling. (Fear is an extra element that has no name in the list.)"
+      }
+    },
+    {
+      "id": "today-lab2",
+      "section": "today",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Lab: persuasion or propaganda?",
+      "body": "Imagine you meet three texts on the same day (hypothetical examples).\n\n- **A.** The municipal library puts up, in its own name, a poster: “This month’s reading campaign: free membership”.\n- **B.** An account with no stated name circulates unverified “witness” stories about a rival neighbourhood association.\n- **C.** A ministry defends a policy, without putting its own name forward, through volunteers who speak like “ordinary citizens”.\n\nAsk five questions. This is our own framework; scholars draw the line between persuasion and propaganda differently, and this is not an absolute law:\n\n1. Is the source visible?\n2. Can the receiver hear another voice and check?\n3. Can the claims be tested?\n4. Who benefits, and does the sender say so?\n5. Does emotion or information weigh more?\n\nA: the source is visible and the claim can be checked; white, and an example of persuasion. B: the source is hidden and the claim cannot be tested; at least grey, and black if it is invented; the propaganda side. C: stays in the middle: because the identity is not fully shown, it slides towards grey.\n\nA note on Turkish: the Turkish Language Association’s dictionary defines *ikna* as “convincing” and also as “deceiving” [[cite:tdk-guncel-turkce-sozluk]]. So the dictionary itself leaves the border between the two words blurred; that is why it is safer to write the criteria out.",
+      "question": {
+        "id": "today-lab2-q",
+        "type": "mcq",
+        "prompt": "In Example C (ministry volunteers who do not put their identity forward), which of the five questions decides the case most?",
+        "options": [
+          "Whether the source is visible (question 1).",
+          "How many words the text has.",
+          "Whether the text is emotional (question 5) on its own.",
+          "The number of recipients."
+        ],
+        "answer": 0,
+        "explain": "What separates C from B is that the volunteers’ identity is not fully shown: this makes the source question decisive and slides the example towards grey. Length and the number of recipients are irrelevant to this classification. Emotionality cannot decide alone, because an honest campaign like A can also be emotional; the criterion is a set of criteria, not the answer to a single question."
+      }
+    },
+    {
+      "id": "turkey-ancyra",
+      "section": "turkey",
+      "layer": "core",
+      "kind": "story",
+      "title": "A two-thousand-year-old wall in Ankara",
+      "body": "In Ankara, in the city the Romans called Ancyra, the walls of a temple built for Augustus carry a text: the emperor’s own summary of his deeds, the *Res Gestae Divi Augusti*. The text was to be engraved on bronze tablets and set up before Augustus’s mausoleum in Rome; the tablets have not survived [[cite:loeb-1924-res-gestae]]. But the text had been copied on the walls of many temples of Augustus across the empire; the copy at Ancyra is the most complete [[cite:loeb-1924-res-gestae]] [[cite:turkisharchaeonews-temple-augustus-roma]].\n\nIn Ankara the Latin original was written on the inner walls of the temple’s vestibule and the Greek translation on the outer wall; Turkish houses built against the temple made the Greek part hard to read for a long time [[cite:loeb-1924-res-gestae]]. The first to make the inscription known to the West was Busbecq, sent in 1555 as Ferdinand’s ambassador to Sultan Süleyman at Amasya; he read and identified the inscription and published a copy of part of it [[cite:loeb-1924-res-gestae]].\n\nWhy here? Because it shows that state communication, long before the word “propaganda”, was worked onto a lasting surface, with a plan for copying. That the text was written not only in Latin but also in Greek is, in our reading, a sign of reckoning with different readerships; the sources do not say why there are two languages. Whether this text counts as “propaganda”, and how accurate its content is, are separate questions; here we document only the place and the method.",
+      "question": {
+        "id": "turkey-ancyra-q",
+        "type": "mcq",
+        "prompt": "Which of the following is a documented detail supporting a reading of the Res Gestae as state communication?",
+        "options": [
+          "That the same text was copied on the walls of many temples across the empire.",
+          "That Turkish houses were built against the temple in Ankara.",
+          "That the first to announce the inscription to the West was an ambassador.",
+          "That the temple still stands today."
+        ],
+        "answer": 0,
+        "explain": "The copying of the text on many temples suggests a centrally planned effort at spreading it, and this is a documented detail. The Turkish houses, the ambassador’s identity and the temple’s present state tell the text’s later life, not the inscription’s original purpose. That is why these options are tempting (they are all interesting details) but they do not answer the question, which is about how the inscription was used."
+      }
+    },
+    {
+      "id": "exam-patterns",
+      "section": "exam",
+      "layer": "core",
+      "kind": "text",
+      "title": "This is how exams ask it",
+      "body": "**Typical question patterns**\n\n- “The origin of the word propaganda?” → *Congregatio de Propaganda Fide*, 1622, Pope Gregory XV; Latin *propagare* [[cite:newadvent-catholic-encyclopedia-propaganda]].\n- “Wellington House / the Creel Committee?” → Britain (1914) and the United States (1917); “Creel Committee” is the name used after the chairman of the Committee on Public Information (CPI).\n- “The corpse factory / the Bryce Report?” → examples of atrocity propaganda: one invented (withdrawn in 1925), the other with the real and the unverifiable together.\n- “White, grey, black propaganda?” → classification by how the source is shown.\n- “Agitation and propaganda” → Plekhanov and Lenin; “agitation and integration” → Ellul.\n\n**Tempting distractors**\n\n- Mixing up 1622 and 1627; mixing up Lasswell (1927) and Bernays (1928); mixing up Creel and Bryce.\n- “Propaganda is always a lie.” The introduction to Ellul’s translation and Lasswell argue against it.\n- “The negative charge began with the Nazis.” According to Osgood it began after the war.\n\n**Alternative names used in Turkish sources:** propaganda (in the Turkish Language Association’s dictionary with the equivalent *yaymaca*) [[cite:tdk-guncel-turkce-sozluk]]; ajitasyon; halkla ilişkiler; vahşet (zulüm) propagandası; the Creel Committee. “Kamuyu Bilgilendirme Komitesi” and “Halkı Aydınlatma ve Propaganda Bakanlığı” are this lesson’s renderings; sources may use other equivalents.",
+      "question": {
+        "id": "exam-patterns-q",
+        "type": "mcq",
+        "prompt": "A multiple-choice question: “How did the corpse-factory story end in 1925?” Which is the right option?",
+        "options": [
+          "The British government officially confirmed the story.",
+          "The story was tried in a court in Germany.",
+          "The British government accepted, in the House of Commons, the German government’s denial that there was ever any foundation for the story.",
+          "The story was published for the first time in 1925."
+        ],
+        "answer": 2,
+        "explain": "On 2 December 1925 Foreign Secretary Chamberlain reported that the German Chancellor had authorised him to say, on the authority of the German Government, that there was never any foundation for the story, and he accepted the denial on behalf of the British Government. The first option says the opposite. The second option is invented. The fourth option shifts the date: the story was published in 1917. In an exam watch for the year slip: 1917 (publication), 1925 (withdrawal)."
+      }
+    },
+    {
+      "id": "exam-answer",
+      "section": "exam",
+      "layer": "core",
+      "kind": "steps",
+      "title": "An open-ended answer: a five-step skeleton",
+      "body": "For a question like “Explain the historical development of propaganda”, use this skeleton.\n\n1. **Give the word.** 1622, *Propaganda Fide*, “to spread”; not negative at first.\n2. **Name the turning point.** The First World War: Wellington House (1914), the Committee on Public Information (1917).\n3. **Give two examples.** The Bryce Report (the real and the unverifiable side by side) and the corpse factory (invented; withdrawn in 1925).\n4. **Explain the burden.** The post-war exposure; Creel’s hesitation in 1920, Bernays’s defence in 1928 and Goebbels’s hesitation.\n5. **Tie it to theories.** Lasswell 1927, the Institute for Propaganda Analysis 1937, Ellul 1962; the white, grey, black distinction.\n\nA one-sentence opening as an example: “Propaganda was the name of a church body in 1622; in the First World War it turned into the organised effort of states to inform and influence, and after the war, through the exposure of invented atrocity stories, it acquired the association with deceit.”",
+      "question": {
+        "id": "exam-answer-q",
+        "type": "mcq",
+        "prompt": "A student begins an answer with “Propaganda is a technique of lying used by the Nazis.” Which correction should they add first?",
+        "options": [
+          "Goebbels’s year of birth.",
+          "The population of Berlin.",
+          "How many books Bernays wrote.",
+          "That the word was the name of a church body in 1622, that its political sense settled in the First World War, and that its negative charge was acquired after the war."
+        ],
+        "answer": 3,
+        "explain": "The sentence has two basic errors: it confines the word to a Nazi-and-later history, and it equates it with lying. The fourth option corrects both. The other options are details unrelated to the subject. When you improve an answer, correct the claim itself first and the decorative information after."
+      }
+    },
+    {
+      "id": "summary",
+      "section": "summary",
+      "layer": "core",
+      "kind": "summary",
+      "title": "Summary card",
+      "body": "- **The word:** *Congregatio de Propaganda Fide* (1622), Latin “to spread”; its political sense settled in the First World War, and at first it was not judgemental.\n- **The thing first, the theory later:** tricks like Franklin’s 1782 fake newspaper supplement come before the word’s political sense; scale and organisation come from 1914 (Wellington House) and 1917 (the Creel Committee).\n- **Atrocity propaganda:** real massacres in Belgium (about 6,500 civilians) stand beside unverifiable stories; the corpse factory was invented and was withdrawn in 1925.\n- **The burden:** Creel (1920) and Goebbels shied away from the word; according to Osgood the negative association arose after the war, from the exposure of a democracy’s propaganda.\n- **Bernays (1928):** defended the word and introduced the profession of “public relations counsel”.\n- **Regimes:** Soviet agitprop (1920) and the propaganda ministry in Germany (13 March 1933).\n- **Ellul (1962):** propaganda is a social phenomenon; agitation and integration; integration works better in cultivated milieus.\n- **Colours:** white, grey, black concern how the source is shown; do not confuse them with truth.\n- **Exam:** do not mix up 1622 and 1627, or Lasswell 1927 and Bernays 1928; keep apart the “agitation” vocabularies of Ellul and Lenin.",
+      "question": {
+        "id": "summary-q",
+        "type": "tf",
+        "prompt": "True or false: According to this lesson, the Creel Committee openly called its work “propaganda”.",
+        "answer": false,
+        "explain": "False. In 1920 Creel writes that they did not call the committee’s work propaganda, because in German hands the word had come to be associated with deceit and corruption. The trap: what the committee did is studied today under the heading of propaganda; but its own naming was different."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A textbook says, “The word propaganda comes from a body of cardinals founded in Rome in 1627.” What is the best way to check this date?",
+      "options": [
+        "If it is written in the book, that is enough.",
+        "Knowing that the word is Latin is enough.",
+        "Look at the institution’s own page and at an independent encyclopedia: the congregation was founded in 1622, and 1627 is the date of the college attached to it.",
+        "The date does not matter."
+      ],
+      "answer": 2,
+      "explain": "The Vatican page says the congregation was founded in 1622 by a bull of 22 June; 1627 is the date when Pope Urban VIII founded the school attached to the congregation (the Collegium Urbanum). The first option means trusting a single source; even a 1928 book can carry this mistake through quotation. The fourth option ignores what a date is for in this lesson."
+    },
+    {
+      "id": "q2",
+      "type": "tf",
+      "prompt": "True or false: In his book Creel openly called the work of the Committee on Public Information “propaganda”.",
+      "answer": false,
+      "explain": "False. In 1920 Creel writes that they did not call it propaganda, because in German hands the word had come to be associated with deceit and corruption. The tempting thought is to carry over to the committee’s own naming the fact that its work is called propaganda today."
+    },
+    {
+      "id": "q3",
+      "type": "match",
+      "prompt": "Match each concept with its definition.",
+      "pairs": [
+        [
+          "White propaganda",
+          "The source is shown correctly"
+        ],
+        [
+          "Grey propaganda",
+          "The source is not stated or is hidden"
+        ],
+        [
+          "Black propaganda",
+          "The message is shown as coming from someone else"
+        ],
+        [
+          "Ellul’s agitation propaganda",
+          "Short-lived and explosive; sets energy in motion"
+        ],
+        [
+          "Ellul’s integration propaganda",
+          "Slow; a deep shaping that fits a person to society’s patterns"
+        ]
+      ],
+      "explain": "The colours measure how the source is shown; Ellul’s pair measures the duration and depth of the effect. The pair most often confused is grey and black: grey hides, black shows a false source. The second common confusion is between Ellul’s and Lenin’s use of “agitation”: in Lenin the criterion is the number of ideas and the size of the audience."
+    },
+    {
+      "id": "q4",
+      "type": "order",
+      "prompt": "Put these events in order from earliest to latest.",
+      "items": [
+        "The Congregatio de Propaganda Fide is founded (1622)",
+        "The British cabinet approves an organisation for propaganda abroad (5 September 1914)",
+        "The Committee on Public Information is created in the United States (13 April 1917)",
+        "The House of Commons accepts the denial of the corpse story (2 December 1925)",
+        "Bernays’s book Propaganda (1928)",
+        "The Reich propaganda ministry is created in Germany (13 March 1933)",
+        "Ellul’s book Propagandes (1962)"
+      ],
+      "explain": "The order is 1622, 1914, 1917, 1925, 1928, 1933, 1962. The commonest mistake is to confuse the withdrawal of the corpse story (1925) with its publication (1917). The logic: the word first, war organisations next, withdrawal and defence in the 1920s, the regime ministry in 1933, the sociological analysis last."
+    },
+    {
+      "id": "q5",
+      "type": "cloze",
+      "prompt": "Fill in the blanks.",
+      "text": "The lawyers who took down the {{1}} depositions submitted to the Bryce Committee had {{2}} authority to administer an oath; Horne and Kramer documented that about {{3}} Belgian and French civilians were killed in the 1914 invasion.",
+      "blanks": [
+        {
+          "options": [
+            "about 120",
+            "more than 1,200",
+            "more than 12,000"
+          ],
+          "answer": 1
+        },
+        {
+          "options": [
+            "no",
+            "the",
+            "disputed"
+          ],
+          "answer": 0
+        },
+        {
+          "options": [
+            "6,500",
+            "650",
+            "65,000"
+          ],
+          "answer": 0
+        }
+      ],
+      "explain": "The Bryce Report has more than 1,200 depositions; the lawyers had no authority to administer an oath, and witnesses’ names were left out. Horne and Kramer document some 6,500 Belgian and French civilian deaths; the options 650 and 65,000 get the order of magnitude wrong. The figure also shows that the picture was mixed: real violence occurred, but unverifiable stories circulated too."
+    },
+    {
+      "id": "q6",
+      "type": "case",
+      "scenario": "In one country there is a site called “Citizen News” that gives the impression of being run by independent volunteers. It later becomes clear that the site is funded by a ministry and that its editors are ministry employees. The site has published a story, resting on a single eyewitness, that a neighbouring country “threatens babies”; the story appears in no other source. (Hypothetical scenario.)",
+      "parts": [
+        {
+          "id": "q6a",
+          "prompt": "By this lesson’s criterion (as reported by Osgood), what colour is the site?",
+          "options": [
+            "White",
+            "Grey",
+            "Black"
+          ],
+          "answer": 1,
+          "explain": "The real source (the ministry) is hidden, but the site is not presented as belonging to someone else, for example the enemy: that is grey. For white the source would have to be shown correctly. Black requires the message to be presented as coming from someone else; it would be black if the site behaved like an institution of the neighbouring country."
+        },
+        {
+          "id": "q6b",
+          "prompt": "From the corpse-factory case, what should the first check be?",
+          "options": [
+            "How emotional is the story?",
+            "How widely is the site shared?",
+            "Where did the story first appear, and is there an independent second source?"
+          ],
+          "answer": 2,
+          "explain": "The corpse story gained the look of independent confirmation through two texts set side by side; here the story already rests on a single eyewitness. Emotionality and share counts are already high in convincing stories; what tells them apart is the structure of the sources."
+        },
+        {
+          "id": "q6c",
+          "prompt": "If the story turned out to be invented, what could be said about other reports on the same site?",
+          "options": [
+            "Nothing can be said; each claim has to be tested separately.",
+            "All of them are invented too.",
+            "All of them are true, because a single mistake does not affect the whole."
+          ],
+          "answer": 0,
+          "explain": "In Belgium there were both real massacres and unverifiable stories; after the war, the ones found to be invented discredited the whole account. This shows that both shortcuts, “all lies” and “all true”, are wrong."
+        }
+      ],
+      "takeaway": "Ask separately about the source’s colour (who, and whether the one shown is real) and about the claim’s chain of appearance (first place, independent second source); then test every claim one by one."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "Which of the following is most accurate about Bernays’s 1928 book?",
+      "options": [
+        "The book defends the word propaganda and at the same time introduces the profession of “public relations counsel”.",
+        "The book uses only the phrase “public relations” instead of propaganda.",
+        "The book was written to defend the founding of the Nazi ministry.",
+        "The book examines the Bryce Report."
+      ],
+      "answer": 0,
+      "explain": "The book is titled Propaganda; inside it a quotation defending the word and the professional name “public relations counsel” stand side by side. The third option is historically impossible: the ministry was founded in 1933. The fourth option has nothing to do with the book’s subject."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "According to Ellul, in which milieu does integration propaganda work better?",
+      "options": [
+        "Among those with little education and information, because they are easily fooled.",
+        "Only on the radio.",
+        "Only in wartime.",
+        "In comfortable, cultivated and informed milieus, because they share society’s stereotypes."
+      ],
+      "answer": 3,
+      "explain": "Ellul writes that integration propaganda works better in cultivated and informed milieus and that intellectuals are more sensitive to it than peasants; the less educated are more open to agitation. The first option mixes the two up. The second and third options are limits that are not Ellul’s criterion."
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "What happened in the House of Commons in 1925 about the “corpse factory” story?",
+      "options": [
+        "The story was officially confirmed.",
+        "Foreign Secretary Chamberlain accepted on behalf of the British Government the German Government’s denial that there was ever any foundation for the story.",
+        "The story was taken to court in Germany.",
+        "The story was published for the first time that day."
+      ],
+      "answer": 1,
+      "explain": "On 2 December 1925 Chamberlain reported that the German Chancellor had authorised him to say, on the authority of the German Government, that there was never any foundation for the story, and he accepted the denial on behalf of the British Government. The first and fourth options are wrong in date and content; the story had been published in 1917."
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "Who was the priority audience of the bureau for propaganda abroad that Britain set up in 1914 (Wellington House)?",
+      "options": [
+        "The German people.",
+        "The British people.",
+        "Opinion abroad, above all American opinion.",
+        "The people of the Ottoman State."
+      ],
+      "answer": 2,
+      "explain": "Sources say Wellington House gave priority to American opinion; the cabinet decision, too, concerned informing and influencing opinion abroad. The first option names the enemy’s people; but the bureau’s documented focus was opinion abroad. The second option confuses it with the home front; the bureau faced outward. The fourth option is supported by no document."
+    }
+  ]
+}

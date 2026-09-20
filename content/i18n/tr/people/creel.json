@@ -1,0 +1,23 @@
+{
+  "id": "creel",
+  "lang": "tr",
+  "name": "George Creel",
+  "nativeName": "",
+  "slug": "george-creel",
+  "short": "ABD’li gazeteci (1876–1953). 1917’de Kamuyu Bilgilendirme Komitesi’nin başkanı oldu; komitenin işini 1920 tarihli kitabında anlattı.",
+  "born": "Lafayette County, Missouri",
+  "died": "San Francisco",
+  "roles": [
+    "gazeteci",
+    "devlet görevlisi",
+    "yazar"
+  ],
+  "bio": "George Edward Creel 1 Aralık 1876’da Missouri’nin Lafayette ilçesinde doğdu; 2 Ekim 1953’te San Francisco’da öldü. Mesleği gazetecilikti; siyasete de karıştı ve yazar olarak da tanındı.\n\nABD’nin Birinci Dünya Savaşı’na girmesinden bir hafta kadar sonra Başkan Woodrow Wilson onu Kamuyu Bilgilendirme Komitesi’nin sivil başkanı yaptı. Komite, 13 Nisan 1917 tarihli 2594 sayılı yürütme kararnamesiyle kuruldu; öteki üyeleri Dışişleri, Savaş ve Donanma bakanlarıydı. Yani Creel, bir bakan gibi hem iç cephede hem yurtdışında “savaşın anlatılmasından” sorumluydu. Komite basına haber verdi, broşür, film ve afiş üretti, gönüllü konuşmacılar ağı kurdu ve yurtdışında otuzdan fazla ülkede faaliyet yürüttü. Kongre komiteyi 1919’da kapattı.\n\nCreel’i ders açısından ilginç kılan, kendi anlatısıdır. *How We Advertised America* (1920) adlı kitabında komitenin işini “dünyanın en büyük reklam macerası” diye tarif eder ve şunu ekler: onlar buna propaganda dememiştir, çünkü sözcük Alman elinde aldatma ve yozlaşmayla anılır olmuştur. Bu, sözcüğün olumsuz yükünün savaşın hemen ardından gündelik dile ve resmî dile yerleştiğini gösteren en açık belgelerden biridir.\n\nDikkat: Komitenin büyüklüğüne ve başarısına dair rakamların çoğu Creel’in kendi hesabıdır; bağımsız biçimde doğrulanmış sayılmaz. Bu sayfa yalnızca doğrulanabilen mesleki bilgileri içerir; kişisel ayrıntılar bilerek yazılmamıştır.",
+  "works": [
+    {
+      "bib": "creel-1920-how-we-advertised-america",
+      "note": "Komitenin kendi anlatısı; “biz buna propaganda demedik” cümlesinin ve gönüllü konuşmacı sayılarının kaynağı."
+    }
+  ],
+  "inCourse": "Bkz. [[lesson:propaganda-history]]: Birinci Dünya Savaşı’nda ABD’nin propaganda kurumu ve sözcüğün olumsuz yük kazanması."
+}

@@ -1,0 +1,7 @@
+{
+  "id": "bernays",
+  "born": { "year": 1891 },
+  "died": { "year": 1995 },
+  "sources": ["ebsco-bernays", "newworld-bernays"],
+  "works": ["bernays-1928-propaganda"]
+}

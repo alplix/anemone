@@ -1,0 +1,26 @@
+{
+  "id": "ellul",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "name": "Jacques Ellul",
+  "nativeName": "",
+  "slug": "jacques-ellul",
+  "short": "French legal historian and sociologist (1912–1994). In *Propagandes* (1962) he analysed propaganda as a social phenomenon of technological society.",
+  "born": "Bordeaux",
+  "died": "Pessac (near Bordeaux)",
+  "roles": [
+    "sociologist",
+    "legal historian",
+    "author"
+  ],
+  "bio": "Jacques Ellul was born in Bordeaux on 6 January 1912 and died on 19 May 1994 at home in Pessac, near Bordeaux. He spent almost his whole academic life in Bordeaux, as a professor of the history and sociology of institutions in the law faculty and the institute of political studies. He wrote more than fifty books; some of them are sociological analyses of mass communication, technology, law and politics.\n\nHis best-known work for communication studies is *Propagandes*, published in Paris by Armand Colin in 1962; the English translation appeared in 1965 as *Propaganda: The Formation of Men’s Attitudes*. For Ellul, propaganda is not only the political weapon of a regime; it is a social phenomenon of technological society, working through the means that reach the masses and through the knowledge of psychology and sociology. Its aim is often not to change a view but to secure action and conformity.\n\nThe best-known distinction in the book is between agitation propaganda and integration propaganda. Agitation is short-lived and explosive; it sets energy in motion and often rests on hatred of an enemy. Integration is slow, a shaping that makes a person fit the patterns of society, and, according to Ellul, it is the more widespread and more important kind. Ellul also notes that this distinction partly resembles Lenin’s distinction between agitation and propaganda, but that the meaning of the words is reversed.\n\nThis page contains only professional facts that can be verified; personal details are left out on purpose.",
+  "works": [
+    {
+      "bib": "ellul-1965-propaganda",
+      "note": "The English edition of *Propagandes* (1962); the source of the distinction between agitation and integration propaganda."
+    }
+  ],
+  "inCourse": "See [[lesson:propaganda-history]]: the sociological analysis of propaganda and the claim that intellectuals are more open to integration propaganda."
+}

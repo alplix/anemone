@@ -1,0 +1,69 @@
+{
+  "_comment": "Terms for the lesson propaganda-history. status: ok = attested in a Turkish source I opened (here: the Turkish Language Association dictionary queried on 2026-09-20 through sozluk.gov.tr/gts?ara=...); chosen = my own rendering, no Turkish source checked; check = plausible but needs a Turkish-language reviewer. Existing glossary terms (magic-bullet, suggestibility, public-opinion, mass-society, propaganda-analysis) are used as defined in content/terminology/*.json.",
+  "propaganda": {
+    "en": "propaganda", "tr": "propaganda", "status": "ok", "alt": ["yaymaca"],
+    "note": "TDK: 'propaganda', from Italian; one sense (work carried out through speech, writing etc. to make a doctrine, idea or belief known, accepted and spread; yaymaca). 'yaymaca' is the TDK's own equivalent; the lesson uses 'propaganda' throughout because 'yaymaca' is not established in the course books I know. I found no Turkish source that uses 'yaygara' as an equivalent: TDK gives 'yaygara' only as noisy shouting and whining (deep card deep-turkish-terms says so)."
+  },
+  "propaganda-white": {
+    "en": "white propaganda", "tr": "beyaz propaganda", "status": "ok",
+    "note": "TDK has a separate entry: steering the target audience with true information whose source is known and visible. The English scholarly definition reported by Osgood (2002) uses only the attribution of the source (correctly attributed). The lesson uses the second criterion and points out the difference in the deep card."
+  },
+  "propaganda-grey": {
+    "en": "grey (gray) propaganda", "tr": "gri propaganda", "status": "ok",
+    "note": "TDK has a separate entry: steering with information whose source is not visible, creating contradiction in the target's mind. The lesson uses the source-based criterion (source unstated or hidden) reported by Osgood (2002). Spelling in English: 'grey' in the lesson, 'gray' in American sources."
+  },
+  "propaganda-black": {
+    "en": "black propaganda", "tr": "kara propaganda", "status": "check",
+    "alt": ["siyah propaganda"],
+    "note": "No TDK entry for 'kara propaganda' or 'siyah propaganda' (both queried, no result). 'Kara propaganda' is the natural rendering of 'black propaganda' and is also used in everyday Turkish, but I did not open a Turkish scholarly source that uses it. Needs a Turkish-language reviewer."
+  },
+  "atrocity-propaganda": {
+    "en": "atrocity propaganda", "tr": "vahşet propagandası", "status": "chosen",
+    "alt": ["zulüm propagandası", "atrocity stories"],
+    "note": "My own rendering ('vahşet' = brutality, atrocity; 'zulüm' = cruelty). No Turkish source using either compound was opened. Exam card lists both."
+  },
+  "corpse-factory": {
+    "en": "corpse factory (Kadaver story)", "tr": "kadavra fabrikası", "status": "chosen",
+    "note": "The German word was 'Kadaververwertungsanstalt' (carcass/corpse utilisation plant); the debate in 1917 and 1925 was whether 'Kadaver' meant only animal carcasses. Turkish 'kadavra' is used in the lesson for the story's common English name 'corpse factory'; it also denotes a corpse in general. No Turkish source for the story was opened."
+  },
+  "public-relations": {
+    "en": "public relations", "tr": "halkla ilişkiler", "status": "check",
+    "alt": ["PR", "halkla ilişkiler danışmanlığı"],
+    "note": "Established Turkish usage, but 'halkla ilişkiler' returned no result in the TDK dictionary and I opened no Turkish course book for it. Bernays's 'public relations counsel' is rendered 'halkla ilişkiler danışmanı' (chosen)."
+  },
+  "committee-on-public-information": {
+    "en": "Committee on Public Information (Creel Committee)", "tr": "Kamuyu Bilgilendirme Komitesi (Creel Komitesi)", "status": "chosen",
+    "alt": ["Creel Komitesi", "CPI"],
+    "note": "My own rendering; 'Creel Komitesi' is a literal rendering of the common English name 'Creel Committee'. No Turkish source was opened; Turkish course books may use another equivalent (the exam card says so)."
+  },
+  "propaganda-ministry": {
+    "en": "Reich Ministry for Public Enlightenment and Propaganda", "tr": "Reich Halkı Aydınlatma ve Propaganda Bakanlığı", "status": "chosen",
+    "note": "German: Reichsministerium für Volksaufklärung und Propaganda (decree of 13 March 1933). USHMM writes 'Ministry of Public Enlightenment and Propaganda'. The Turkish rendering is mine; established Turkish renderings were not checked. The lesson mostly says 'propaganda bakanlığı'."
+  },
+  "agitprop": {
+    "en": "agitprop (Department of Agitation and Propaganda)", "tr": "ajitprop", "status": "chosen",
+    "alt": ["agitprop", "ajitasyon ve propaganda"],
+    "note": "The lesson keeps the Russian-derived spelling 'ajitprop' (Turkish phonetic spelling of 'agitprop'); 'ajitasyon' is a TDK entry (French agitation; körükleme; duygu sömürüsü yapma)."
+  },
+  "agitation-propaganda": {
+    "en": "agitation propaganda (Ellul)", "tr": "ajitasyon propagandası", "status": "chosen",
+    "note": "Ellul's 'propagande d'agitation' (English translation 'propaganda of agitation'); short-lived, explosive, subversive. Not the same as Lenin's 'agitation' (see deep card deep-ellul-lenin)."
+  },
+  "integration-propaganda": {
+    "en": "integration propaganda (Ellul)", "tr": "entegrasyon propagandası", "status": "chosen",
+    "alt": ["bütünleştirme propagandası"],
+    "note": "Ellul's 'propagande d'intégration'. 'Entegrasyon' chosen because it is the ordinary Turkish loanword; 'bütünleştirme' is a possible native rendering not checked in a source."
+  },
+  "name-calling": {
+    "en": "name calling (one of the seven propaganda devices)", "tr": "Name Calling (kötü etiket takma)", "status": "chosen",
+    "note": "The seven devices of the Institute for Propaganda Analysis (name calling, glittering generality, transfer, testimonial, plain folks, card stacking, band wagon) are kept in English in the lesson; no Turkish renderings were checked. Only 'Name Calling' and 'Band Wagon' are used in the lab card, with a short Turkish gloss."
+  },
+  "suggestion-telkin": {
+    "en": "suggestion (telkin)", "tr": "telkin", "status": "ok",
+    "note": "TDK: 'telkin', Arabic; instilling a feeling or a thought; second sense: realising a thought through an unconscious process. The course already uses 'telkin edilebilirlik' for suggestibility (content/terminology/magic-bullet.json)."
+  },
+  "persuasion-ikna": {
+    "en": "persuasion", "tr": "ikna", "status": "ok",
+    "note": "TDK: 'ikna', Arabic; making someone believe, convincing, deceiving (inandırma, kandırma). The deceit sense is noted in the lab card."
+  }
+}
