@@ -1,0 +1,12 @@
+{
+  "id": "spiral-of-silence",
+  "lang": "tr",
+  "term": "suskunluk sarmalı",
+  "altTerms": [
+    "suskunluk sarmalı kuramı"
+  ],
+  "slug": "suskunluk-sarmali",
+  "short": "İnsanlar çevrelerinde hangi görüşün güç kazandığını sezer; görüşü azınlıkta kalanlar dışlanma korkusuyla susar, bu da o görüşü olduğundan zayıf gösterir ve süreç sarmal gibi hızlanır. Elisabeth Noelle-Neumann’ın kuramı.",
+  "body": "Suskunluk sarmalı, [[person:noelle-neumann|Elisabeth Noelle-Neumann]]’ın kamuoyunun nasıl oluştuğunu açıkladığı kuramdır. Temel fikir şudur: insanlar çevrelerinde hangi görüşlerin güç kazandığını, hangilerinin gerilediğini sürekli izler. Görüşünün destek bulduğunu düşünenler bunu açıkça söyler; azınlıkta kaldığını düşünenler [[concept:fear-of-isolation|dışlanma korkusuyla]] geri çekilir ve susar. Bir tarafın sesi yüksek, öbürünün sesi kısık çıktığı için birinci taraf gerçek sayısından güçlü, ikinci taraf zayıf görünür. Bu görünüm bir sonraki turda aynı yönde yeni bir itiş yaratır: sarmal budur. [[cite:griffin-2009]]\n\nKuram, sarmalı yürüten şeyin görüşlerin gerçek dağılımı değil *algılanan* dağılım olduğunu vurgular ve genellikle tartışmalı, duygusal ya da ahlaki yüklü konular için geçerli sayılır. Susmak kamuya açık davranışla ilgilidir; fikir değiştirmek anlamına gelmek zorunda değildir. Medya, [[concept:climate-of-opinion|fikir iklimi]] hakkındaki bilgimizin ana kaynaklarından biri olduğu için sarmalın yönünü etkileyebilir. [[concept:hard-core|Sert çekirdek]] ve avangard, sarmala kapılmayan azınlıklardır. [[cite:polat-2016]]\n\nKuram 1974’te yayımlandı [[cite:noelle-neumann-1974]]; sonraki çalışmalarda küçük ama tutarlı bir destek buldu, buna karşılık dışlanma korkusunun rolü ve ölçüm biçimi konusunda ciddi eleştirilere de hedef oldu. [[cite:scheufele-moy-2000]]",
+  "example": "1965 Batı Almanya seçiminde partilerin oy niyeti aylarca birbirine yakın kaldı, ama insanlar giderek CDU/CSU’nun kazanacağını düşünmeye başladı ve seçime yakın oylar da o yöne kaydı; Noelle-Neumann bunu, kazanacağı sanılan tarafın daha çok konuşup öbür tarafın susmasıyla açıkladı."
+}

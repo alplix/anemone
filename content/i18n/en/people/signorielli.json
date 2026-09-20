@@ -1,0 +1,18 @@
+{
+  "id": "signorielli",
+  "lang": "en",
+  "translation": { "status": "machine" },
+  "name": "Nancy Signorielli",
+  "nativeName": "",
+  "slug": "nancy-signorielli",
+  "short": "American communication researcher; professor at the University of Delaware. Original member of the Cultural Indicators team; worked on television characters and cultivation analysis.",
+  "roles": ["communication researcher", "member of the Cultural Indicators team"],
+  "bio": "Nancy Signorielli is a communication researcher who works on television content and cultivation analysis. She completed her doctorate in communication at the University of Pennsylvania in 1975. She worked at the University of Delaware as professor of communication and director of the master’s programme. She is one of the original members of the Cultural Indicators Research Team.\n\nHer doctoral work was a detailed methodological study of television characters. The article “Patterns in Prime Time”, published in the Journal of Communication in 1974, is among the early and frequently cited studies of character portrayals on television. Her research examines how television and media images are constructed on subjects such as ageing, gender roles, occupations, minorities and violence, and how these images relate to people’s conception of social reality (that is, cultivation analysis); children and media are also among her interests.\n\nShe has seven books, single-authored, co-authored or edited, more than 90 journal articles and book chapters, and more than 150 conference presentations; her books include *Violence in the Media: A Reference Handbook* (2005). In May 1993 she testified before the US House of Representatives’ Committee on Energy and Commerce on the effect of television violence on children. With Gerbner, Gross and Morgan she wrote the 1980 article “The ‘Mainstreaming’ of America”; she is a co-author, with Morgan and Shanahan, of the 2015 article discussing the validity of cultivation in the new media environment. In 2010 the Broadcast Education Association gave her its Distinguished Scholar Award. She is also the author of the Britannica entry on George Gerbner. This page contains only publicly available professional information.",
+  "works": [
+    { "bib": "gerbner-et-al-1980", "note": "Co-author of the mainstreaming article." },
+    { "bib": "morgan-shanahan-signorielli-2015", "note": "Cultivation in the new media era." },
+    { "bib": "morgan-shanahan-signorielli-2016", "note": "Entry on cultivation theory in the encyclopedia of political communication." },
+    { "bib": "tsay-vogel-shanahan-signorielli-2018", "note": "A five-year cultivation study on Facebook and perceptions of privacy." }
+  ],
+  "inCourse": "Original member of Gerbner’s team; author of both classic and recent studies of the theory. See [[lesson:cultivation]]."
+}

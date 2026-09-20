@@ -1,0 +1,13 @@
+{
+  "id": "cohen-bernard", "lang": "en",
+  "translation": { "status": "machine" },
+  "name": "Bernard Cohen", "nativeName": "", "slug": "bernard-cohen",
+  "short": "American political scientist; the sentence about “what to think about” in The Press and Foreign Policy (1963) became the slogan of agenda-setting theory.",
+  "born": "Northampton, Massachusetts", "died": "Madison, Wisconsin",
+  "roles": ["political scientist", "university administrator"],
+  "bio": "Bernard Cohen is a political scientist who studied the relation between the media and foreign policy. He was born in 1926 in Northampton, Massachusetts; at Yale University he earned his bachelor’s and master’s degrees and a doctorate in international relations. He worked at Princeton University from 1951 to 1959 and moved to the University of Wisconsin–Madison in 1959. There he served as chair of the political science department (1966–1969), associate dean of the graduate school (1971–1975) and vice chancellor for academic affairs (1984–1986); in 1987 he took on the role of acting chancellor. He wrote four books and edited a fifth.\n\nHis book that matters for this course is *The Press and Foreign Policy* (1963). Based on interviews conducted in 1953–54 and in 1960 with Washington’s foreign correspondents and foreign-policy officials, Cohen studied the place of the press in the agenda of foreign policy; the book is today regarded as a classic of the field. According to the University of Wisconsin’s obituary notice, Cohen argued that a small group of journalists who understood foreign policy determined what would be news, and thus what the main foreign-policy issues of the day would be for both decision makers and the public.\n\nOne sentence in the book later became the most often quoted slogan of agenda-setting theory: the press may often not succeed in telling people what to think, but it is stunningly successful in telling them what to think about. McCombs and Shaw, in their 1972 article, cited this sentence as the most concise expression of the theory’s hypothesis. Cohen himself did not develop the sentence into a theory; it was an observation waiting to be measured. He died in Madison in 2024, at the age of ninety-seven.",
+  "works": [
+    { "bib": "cohen-1963", "note": "The classic work containing the “what to think about” sentence; based on interviews with Washington correspondents and foreign-policy officials." }
+  ],
+  "inCourse": "In the [[lesson:agenda-setting]] lesson he is the second source of the agenda-setting idea: Lippmann gave the idea, Cohen gave the slogan."
+}

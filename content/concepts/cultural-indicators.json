@@ -1,0 +1,7 @@
+{
+  "id": "cultural-indicators",
+  "family": "method",
+  "introducedBy": ["gerbner"],
+  "related": ["cultivation", "message-system-analysis", "heavy-viewers"],
+  "sources": ["shanahan-morgan-1999", "gerbner-1969", "britannica-gerbner", "yaylagul-2006"]
+}

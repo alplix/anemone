@@ -1,0 +1,38 @@
+{
+  "id": "your-lesson-id",
+  "lang": "tr",
+  "translation": { "status": "source", "date": "2026-01-01" },
+  "title": "Lesson title exactly as in course.json",
+  "slug": "slug-exactly-as-in-course-json",
+  "description": "One unique sentence (<= 160 characters) for search results.",
+  "claim": "The core claim of the theory in one sentence.",
+  "keywords": ["keyword one", "keyword two"],
+  "updated": "2026-01-01",
+  "cards": [
+    { "id": "hook", "section": "context", "layer": "core", "kind": "story", "title": "Open with a scene or a puzzle",
+      "body": "Body in Markdown-lite. Address the reader directly, one idea, 150-280 words. Cite specific claims like this.[[cite:some-source-id]] Link people and concepts: [[person:some-person]], [[concept:some-concept]], other lessons: [[lesson:framing]].",
+      "question": { "id": "hook-q", "type": "mcq", "prompt": "A question that makes the reader think.", "options": ["Wrong but tempting", "Right", "Wrong", "Wrong"], "answer": 1, "explain": "Why the right answer is right AND why the tempting one is wrong." } },
+    { "id": "who-when", "section": "people-time", "layer": "core", "kind": "text", "title": "Who and when", "body": "...", "question": { "id": "who-when-q", "type": "tf", "prompt": "A statement.", "answer": true, "explain": "..." } },
+    { "id": "claim", "section": "claim", "layer": "core", "kind": "text", "title": "The core claim", "body": "..." },
+    { "id": "concepts", "section": "concepts", "layer": "core", "kind": "text", "title": "Key concepts", "body": "- **Term**: short definition, [[concept:some-concept]]\n- **Term**: ..." },
+    { "id": "assumptions", "section": "assumptions", "layer": "core", "kind": "text", "title": "Assumptions", "body": "..." },
+    { "id": "steps", "section": "how-it-works", "layer": "core", "kind": "steps", "title": "How it works", "body": "1. First step\n2. Second step\n3. Third step" },
+    { "id": "evidence", "section": "evidence", "layer": "core", "kind": "text", "title": "Evidence", "body": "..." },
+    { "id": "evidence-deep", "section": "evidence", "layer": "deep", "kind": "text", "title": "Deep dive: the study's design", "body": "Methods, samples and measures, only verified numbers." },
+    { "id": "critique", "section": "critique", "layer": "core", "kind": "myth", "title": "Myth check", "body": "**What people assume.** ...\n\n**What the evidence says.** ..." },
+    { "id": "today", "section": "today", "layer": "core", "kind": "text", "title": "Today", "body": "..." },
+    { "id": "turkey", "section": "turkey", "layer": "core", "kind": "text", "title": "An example from Turkey (only with two solid sources)", "body": "..." },
+    { "id": "exam", "section": "exam", "layer": "core", "kind": "text", "title": "This is how exams ask it", "body": "Typical question patterns, tempting distractors, name/date pairs that get mixed up, alternative names used by course books." },
+    { "id": "summary", "section": "summary", "layer": "core", "kind": "summary", "title": "Summary card", "body": "- Point one\n- Point two\n- Point three" }
+  ],
+  "quiz": [
+    { "id": "q-mcq", "type": "mcq", "prompt": "...", "options": ["A", "B", "C", "D"], "answer": 0, "explain": "..." },
+    { "id": "q-tf", "type": "tf", "prompt": "...", "answer": false, "explain": "..." },
+    { "id": "q-match", "type": "match", "prompt": "Match each theory with its author.", "pairs": [["Theory 1", "Author 1"], ["Theory 2", "Author 2"], ["Theory 3", "Author 3"]], "explain": "..." },
+    { "id": "q-order", "type": "order", "prompt": "Put these in chronological order.", "items": ["Earliest", "Middle", "Latest"], "explain": "..." },
+    { "id": "q-cloze", "type": "cloze", "prompt": "Fill in the blanks.", "text": "The theory was proposed by {{1}} in {{2}}.", "blanks": [{ "options": ["X", "Y", "Z"], "answer": 0 }, { "options": ["1968", "1972", "1980"], "answer": 1 }], "explain": "..." },
+    { "id": "q-case", "type": "case", "scenario": "A short realistic scenario.", "parts": [{ "prompt": "Which theory explains it?", "options": ["A", "B", "C"], "answer": 1, "explain": "..." }, { "prompt": "What would the theory predict next?", "options": ["A", "B", "C"], "answer": 2, "explain": "..." }], "takeaway": "The one-sentence lesson of the case." },
+    { "id": "q-8", "type": "mcq", "prompt": "...", "options": ["A", "B", "C", "D"], "answer": 3, "explain": "..." },
+    { "id": "q-9", "type": "mcq", "prompt": "...", "options": ["A", "B", "C", "D"], "answer": 2, "explain": "..." }
+  ]
+}

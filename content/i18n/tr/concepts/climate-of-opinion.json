@@ -1,0 +1,14 @@
+{
+  "id": "climate-of-opinion",
+  "lang": "tr",
+  "term": "fikir iklimi",
+  "altTerms": [
+    "kanaat iklimi",
+    "düşünce iklimi",
+    "görüş iklimi"
+  ],
+  "slug": "fikir-iklimi",
+  "short": "Bir konuda çevrede hangi görüşün yaygın, yükselen ya da rağbet gören olduğuna dair algı. Suskunluk sarmalında gerçek dağılımdan çok bu algı davranışı belirler.",
+  "body": "Fikir iklimi (İngilizce *climate of opinion*; Türkçe kaynaklarda kanaat iklimi, düşünce iklimi ve görüş iklimi de geçer), bir konuda çevrede hangi görüşlerin yaygın, hangilerinin yükselen ya da alçalan olduğuna dair algıdır. [[cite:polat-2016]][[cite:kutlu-2019]] Suskunluk sarmalında belirleyici olan gerçek görüş dağılımı değil, insanların algıladığı dağılımdır; iklim yanlış algılanabilir, ama davranışı yine de o algı yönlendirir.\n\nPolat’ın aktardığına göre iklimi öğrenmenin iki yolu vardır: kişinin kendi yaşam alanında doğrudan gözlemi ve medyanın gözüyle dolaylı gözlem. Kişisel çevreyle ilgisi olmayan konularda fikir iklimine dair izlenim büyük ölçüde medya aracılığıyla edinilir. [[cite:polat-2016]] Bu yüzden medya, kuramda iklimin yönünü ve hızını etkileyen kilit bir aktördür.\n\nİklim iki soruyla ölçülür: şimdiki iklim (“çoğu insan ne düşünüyor?”) ve gelecek tahmini (“bir yıl sonra ne olacak?”). [[cite:griffin-2009]] Noelle-Neumann’a göre şimdiki iklimle gelecek tahmini birbirini tutmadığında konuşma isteği daha çok gidişata, yani gelecek tahminine bağlıdır. [[cite:griffin-2009]]",
+  "example": "Bir konuda, yıllardır sürekli aynı görüşü vurgulayan haberlerle karşılaşan bir kişi, o görüşün “herkesin” görüşü olduğu izlenimini edinebilir; bu izlenim, kendi farklı görüşünü açıkça söyleyip söylemeyeceğini etkileyen iklim algısıdır. (Varsayımsal örnek.)"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "potter",
+  "lang": "en",
+  "translation": { "status": "machine" },
+  "name": "W. James Potter",
+  "nativeName": "",
+  "slug": "w-james-potter",
+  "short": "American communication researcher; emeritus professor at UC Santa Barbara. Expert in media effects and media literacy; criticized cultivation theory conceptually in 1993 and 2014.",
+  "roles": ["communication researcher", "emeritus professor"],
+  "bio": "W. James Potter is a communication researcher who works on media effects and media literacy. He has two doctorates: one in communication, the other in instructional technology. He worked as a professor in the Department of Communication at the University of California, Santa Barbara (UCSB) and became emeritus. He edited the Journal of Broadcasting & Electronic Media.\n\nIn the early years of his career he carried out empirical studies; he then turned to synthesizing findings in order to build large-scale knowledge structures on media effects and media literacy, and after that to analysing research literatures critically.\n\nIn the cultivation literature he appears as a critic and a conceptual organizer. In 1991 he examined the relationship between first- and second-order cultivation measures. In his 1993 article “Cultivation Theory and Research: A Conceptual Critique” he took up the theory’s assumptions such as uniform messages, non-selective viewing, linearity, causality, mainstreaming and resonance. In his 2014 article “A Critical Analysis of Cultivation Theory” he argued that the term “cultivation” is used in three different senses and that this literature can be evaluated by the criteria of heuristic value, empirical support and precision. His publications include the multi-edition textbook *Media Literacy*, *The 11 Myths of Media Violence* (2003) and *Major Theories of Media Effects* (2019); he has published numerous articles and dozens of books. This page contains only publicly available professional information.",
+  "works": [
+    { "bib": "potter-1991", "note": "The relationship between first- and second-order cultivation measures." },
+    { "bib": "potter-1993", "note": "Conceptual critique of the theory." },
+    { "bib": "potter-2014", "note": "Three different meanings of “cultivation” and an evaluation of the literature." }
+  ],
+  "inCourse": "The most systematic conceptual critic of cultivation. See [[lesson:cultivation]] and [[lesson:mainstreaming-critique]]."
+}

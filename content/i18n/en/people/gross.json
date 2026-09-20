@@ -1,0 +1,17 @@
+{
+  "id": "gross",
+  "lang": "en",
+  "translation": { "status": "machine" },
+  "name": "Larry Gross",
+  "nativeName": "",
+  "slug": "larry-gross",
+  "short": "American communication researcher. Directed Cultural Indicators with Gerbner at the University of Pennsylvania; co-author of the 1976 Violence Profile article. Later a school director at USC.",
+  "roles": ["communication researcher", "co-director of Cultural Indicators"],
+  "bio": "Larry Gross is a communication scholar who works on visual communication, art and culture, and on the representation of minorities in the media. He holds degrees from Brandeis University and Columbia University. He joined the University of Pennsylvania as a faculty member in 1968 and worked there until 2003, about 35 years; he became the Sol Worth Professor and associate dean of the Annenberg School for Communication, and supervised more than 180 master’s and doctoral theses.\n\nHis place in the history of cultivation theory is that in the 1970s and 1980s he directed the Cultural Indicators project together with George Gerbner. The best-known product of this partnership is the 1976 article “Living with Television: The Violence Profile”, which gave the first results of cultivation analysis; he is also among the authors of the 1980 article “The ‘Mainstreaming’ of America”.\n\nIn 2003 he moved to the University of Southern California (USC) and until 2014 was director of the School of Communication within USC Annenberg. He was president of the International Communication Association (ICA) in 2011–2012 and is a member of the association; he is the founder and editor of the International Journal of Communication. His books include *Up from Invisibility* (Columbia University Press, 2001), on the representation of lesbian and gay people in American media, and, as co-editor, *The Columbia Reader on Lesbians and Gay Men in Media, Society and Politics* (1999) and *Image Ethics in the Digital Age* (University of Minnesota Press, 2003). Penn’s announcement describes the book as a pioneering work in LGBTQ studies. This page contains only publicly available professional information.",
+  "works": [
+    { "bib": "gerbner-gross-1976", "note": "The Violence Profile; the first results of cultivation analysis." },
+    { "bib": "gerbner-et-al-1980", "note": "One of the four authors of the mainstreaming article." },
+    { "bib": "gerbner-et-al-1981", "note": "One of the four authors of the reply to Hirsch." }
+  ],
+  "inCourse": "Gerbner’s close colleague; co-author of the Violence Profile. See [[lesson:cultivation]]."
+}

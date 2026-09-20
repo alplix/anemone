@@ -1,0 +1,16 @@
+{
+  "id": "hard-core",
+  "family": "effects",
+  "introducedBy": [
+    "noelle-neumann"
+  ],
+  "related": [
+    "spiral-of-silence",
+    "fear-of-isolation"
+  ],
+  "sources": [
+    "griffin-2009",
+    "polat-2016",
+    "aktas-2024"
+  ]
+}

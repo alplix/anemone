@@ -1,0 +1,16 @@
+{
+  "id": "mccombs", "lang": "en",
+  "translation": { "status": "machine" },
+  "name": "Maxwell McCombs", "nativeName": "", "slug": "maxwell-mccombs",
+  "short": "One of the two founders of agenda-setting research; did the 1968 Chapel Hill study with Donald Shaw and developed need for orientation and second-level agenda-setting.",
+  "roles": ["professor of journalism and communication", "one of the founders of agenda-setting theory"],
+  "bio": "Maxwell McCombs is one of the two founders of agenda-setting research. He was born in 1938; he did his undergraduate degree at Tulane University, and his master’s degree and his doctorate, completed in 1966, at Stanford University. Before moving into academia he had worked as a reporter at the *Times-Picayune* in New Orleans.\n\nHis career took him in turn to the University of California, Los Angeles (UCLA), the University of North Carolina at Chapel Hill (from 1967), Syracuse University and, from 1985, the University of Texas at Austin. The study he did in Chapel Hill with his colleague [[person:shaw|Donald Shaw]] on the 1968 US presidential election became the starting point of agenda-setting theory through the article “The Agenda-Setting Function of Mass Media”, published in *Public Opinion Quarterly* in 1972.\n\nDuring his years at Syracuse he also directed the news research center of the American Newspaper Publishers Association; that is, he pursued his research side by side with the journalism industry.\n\nIn later years McCombs turned the theory from a single finding into a research programme. With his doctoral student David Weaver he developed the concept of “need for orientation”; in the 1990s, with his team, he tested second-level agenda-setting, the idea that not only issues but also attributes are transferred; and he contributed to work taking up new directions such as network agenda-setting and agendamelding. His book *Setting the Agenda* went through several editions; he wrote the third edition with Sebastian Valenzuela. In 2014, as the theory approached fifty years, he published, with Shaw and Weaver, an essay summarising seven distinct aspects of the theory.\n\nAt the University of Texas he held the Jesse H. Jones Centennial Chair, and he was a visiting professor at universities in countries such as Chile, Austria and Spain. He died in 2024 at the age of eighty-five.",
+  "works": [
+    { "bib": "mccombs-shaw-1972", "note": "The Chapel Hill study: the article that started agenda-setting theory." },
+    { "bib": "mccombs-1976", "note": "A review of the early research written by McCombs himself (Charlotte, time lag, three models)." },
+    { "bib": "roberts-mccombs-1994", "note": "Intermedia agenda-setting and the role of political ads." },
+    { "bib": "mccombs-et-al-1997", "note": "Second-level agenda-setting in the Spanish elections." },
+    { "bib": "mccombs-shaw-weaver-2014", "note": "An essay gathering the seven aspects of the theory and the concepts of need for orientation, network agenda-setting and agendamelding." }
+  ],
+  "inCourse": "The main hero of the [[lesson:agenda-setting]] lesson: the Chapel Hill study and need for orientation. He appears again, with second-level agenda-setting, in the [[lesson:priming-second-level]] lesson."
+}

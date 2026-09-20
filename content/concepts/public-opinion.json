@@ -1,0 +1,17 @@
+{
+  "id": "public-opinion",
+  "family": "society",
+  "introducedBy": [],
+  "related": [
+    "spiral-of-silence",
+    "climate-of-opinion",
+    "fear-of-isolation"
+  ],
+  "sources": [
+    "wilke-2010",
+    "polat-2016",
+    "griffin-2009",
+    "noelle-neumann-1998-tr",
+    "ozer-yildiran-onk-2021"
+  ]
+}

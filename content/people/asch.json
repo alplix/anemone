@@ -1,0 +1,7 @@
+{
+  "id": "asch",
+  "born": { "year": 1907 },
+  "died": { "year": 1996 },
+  "sources": ["almanac-asch-1996", "ebsco-asch", "dp-asch-1996"],
+  "works": ["asch-1952", "asch-1956"]
+}

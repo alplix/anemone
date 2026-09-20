@@ -1,0 +1,770 @@
+{
+  "noelle-neumann-1974": {
+    "type": "article",
+    "authors": [
+      "Noelle-Neumann, Elisabeth"
+    ],
+    "year": 1974,
+    "title": "The spiral of silence: A theory of public opinion",
+    "container": "Journal of Communication",
+    "volume": "24",
+    "issue": "2",
+    "pages": "43-51",
+    "doi": "10.1111/j.1460-2466.1974.tb00367.x",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "publisher-page"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record matched; Oxford Academic landing page shows the same citation. The full text is paywalled and was NOT read; the lesson uses this entry only for the fact and date of publication."
+    }
+  },
+  "noelle-neumann-1974-festschrift": {
+    "type": "chapter",
+    "authors": [
+      "Noelle-Neumann, Elisabeth"
+    ],
+    "year": 1974,
+    "title": "Die Schweigespirale: Über die Entstehung der öffentlichen Meinung",
+    "editors": [
+      "Forsthoff, Ernst",
+      "Hörstel, Reinhard"
+    ],
+    "bookTitle": "Standorte im Zeitstrom: Festschrift für Arnold Gehlen",
+    "publisher": "Athenäum",
+    "place": "Frankfurt am Main",
+    "pages": "299-330",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "national-library-catalogue",
+        "open-library",
+        "author-site"
+      ],
+      "date": "2026-09-20",
+      "note": "The Festschrift volume is confirmed in the Deutsche Nationalbibliothek catalogue (Athenäum, Frankfurt, 1974, eds. Forsthoff and Hörstel, for Arnold Gehlen's 70th birthday) and in Open Library. The chapter title and page range (299-330) come from the footnote on noelle-neumann.de (a site run by colleagues) and could not be checked in a library record of the chapter itself."
+    }
+  },
+  "noelle-neumann-1980": {
+    "type": "book",
+    "authors": [
+      "Noelle-Neumann, Elisabeth"
+    ],
+    "year": 1980,
+    "title": "Die Schweigespirale: Öffentliche Meinung – unsere soziale Haut",
+    "publisher": "Piper",
+    "place": "München; Zürich",
+    "edition": "1. Auflage",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "national-library-catalogue",
+        "author-site"
+      ],
+      "date": "2026-09-20",
+      "note": "Deutsche Nationalbibliothek record (Piper, München/Zürich, 1980, ISBN 3-492-02536-6); the same title and year are given on noelle-neumann.de."
+    }
+  },
+  "noelle-neumann-1984": {
+    "type": "book",
+    "authors": [
+      "Noelle-Neumann, Elisabeth"
+    ],
+    "year": 1984,
+    "title": "The spiral of silence: Public opinion – our social skin",
+    "publisher": "University of Chicago Press",
+    "place": "Chicago",
+    "edition": "1st English edition (2nd edition 1993)",
+    "originalYear": 1980,
+    "originalTitle": "Die Schweigespirale: Öffentliche Meinung – unsere soziale Haut",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "national-library-catalogue",
+        "open-library",
+        "publisher-page"
+      ],
+      "date": "2026-09-20",
+      "note": "Deutsche Nationalbibliothek lists the 1984 Chicago edition (ISBN 0-226-58932-3) and the 1993 edition; Open Library lists first publication 1984; the University of Chicago Press author page lists the 1993 edition. English 1984 = translation of the 1980 German book (originalYear/originalTitle)."
+    }
+  },
+  "noelle-neumann-1989": {
+    "type": "book",
+    "authors": [
+      "Noelle-Neumann, Elisabeth"
+    ],
+    "year": 1989,
+    "title": "Öffentliche Meinung: Die Entdeckung der Schweigespirale",
+    "publisher": "Ullstein",
+    "place": "Frankfurt am Main; Berlin",
+    "edition": "1989 (later editions 1991, 1996)",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "national-library-catalogue"
+      ],
+      "date": "2026-09-20",
+      "note": "Deutsche Nationalbibliothek records for the 1989 and 1991 Ullstein editions (ISBN 3-550-06427-6, 3-550-06511-6). A separate, later German book, not a reprint of the 1980 Piper book (different title)."
+    }
+  },
+  "noelle-neumann-1998-tr": {
+    "type": "book",
+    "authors": [
+      "Noelle-Neumann, Elisabeth"
+    ],
+    "year": 1998,
+    "title": "Kamuoyu: Suskunluk Sarmalının Keşfi",
+    "publisher": "Dost Kitabevi",
+    "place": "Ankara",
+    "edition": "Turkish translation by Murat Özkök",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "bookseller-catalogue",
+        "citing-articles"
+      ],
+      "date": "2026-09-20",
+      "note": "Two bookseller listings (Pandora, ISBN 9789757501237; Nadir Kitap) and citations in Kutlu (2019: 'Noelle-Neumann, E. (1998). Kamuoyu: Suskunluk sarmalının keşfi (M. Özkök, çev.). Ankara: Dost') and in Akar (2023, Iletisim Ansiklopedisi) agree on title, translator, publisher and year. The national library catalogue was not reachable, hence bookseller + citation evidence only. That the Turkish title mirrors the German 'Öffentliche Meinung: Die Entdeckung der Schweigespirale' is an inference from identical titles. The German original is deliberately NOT recorded in originalTitle/originalYear because no source states it."
+    }
+  },
+  "glynn-hayes-shanahan-1997": {
+    "type": "article",
+    "authors": [
+      "Glynn, Carroll J.",
+      "Hayes, Andrew F.",
+      "Shanahan, James"
+    ],
+    "year": 1997,
+    "title": "Perceived support for one's opinions and willingness to speak out: A meta-analysis of survey studies on the “spiral of silence”",
+    "container": "Public Opinion Quarterly",
+    "volume": "61",
+    "issue": "3",
+    "pages": "452-463",
+    "doi": "10.1086/297808",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "publisher-page"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref + Oxford Academic page (pages 452-463; Crossref lists only the first page). Full text is paywalled; details in the lesson (17 studies, very small but significant relationship, r about .05) come from Griffin's textbook chapter and from Thurre et al. (2019), which independently states that Glynn et al. meta-analysed 17 studies and found small significant effects."
+    }
+  },
+  "scheufele-moy-2000": {
+    "type": "article",
+    "authors": [
+      "Scheufele, Dietram A.",
+      "Moy, Patricia"
+    ],
+    "year": 2000,
+    "title": "Twenty-five years of the spiral of silence: A conceptual review and empirical outlook",
+    "container": "International Journal of Public Opinion Research",
+    "volume": "12",
+    "issue": "1",
+    "pages": "3-28",
+    "doi": "10.1093/ijpor/12.1.3",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "publisher-page"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref and the Oxford Academic page (abstract read; the index misspells the first author as 'Scheufle'). Full text paywalled; the lesson relies on the abstract and on Griffin's textbook summary."
+    }
+  },
+  "scheufele-shanahan-lee-2001": {
+    "type": "article",
+    "authors": [
+      "Scheufele, Dietram A.",
+      "Shanahan, James",
+      "Lee, Eunjung"
+    ],
+    "year": 2001,
+    "title": "Real talk: Manipulating the dependent variable in spiral of silence research",
+    "container": "Communication Research",
+    "volume": "28",
+    "issue": "3",
+    "pages": "304-324",
+    "doi": "10.1177/009365001028003003",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref lists the short title 'Real Talk'; the full title is given in Griffin's reference list. Article not read; description of its design comes from Griffin's chapter."
+    }
+  },
+  "matthes-knoll-vonsikorski-2018": {
+    "type": "article",
+    "authors": [
+      "Matthes, Jörg",
+      "Knoll, Johannes",
+      "von Sikorski, Christian"
+    ],
+    "year": 2018,
+    "title": "The “spiral of silence” revisited: A meta-analysis on the relationship between perceptions of opinion support and political opinion expression",
+    "container": "Communication Research",
+    "volume": "45",
+    "issue": "1",
+    "pages": "3-33",
+    "doi": "10.1177/0093650217745429",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "publisher-page"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref matched (online 2017-12-12, issue 45(1)). Numbers used (66 studies, more than 27,000 participants, r = .10, not weaker online) come from the abstract as shown in search results and from Thurre et al. (2019), which also reports r = .10."
+    }
+  },
+  "asch-1956": {
+    "type": "article",
+    "authors": [
+      "Asch, Solomon E."
+    ],
+    "year": 1956,
+    "title": "Studies of independence and conformity: I. A minority of one against a unanimous majority",
+    "container": "Psychological Monographs: General and Applied",
+    "volume": "70",
+    "issue": "9",
+    "pages": "1-70",
+    "doi": "10.1037/h0093718",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "full-text-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref matched; the full monograph (a scanned copy hosted by a university e-class) was read for the numbers used in the lesson (123 subjects, 18 trials of which 12 critical, roughly one third of critical estimates in the majority's direction, 94 of 123 yielded at least once, 29 never)."
+    }
+  },
+  "asch-1952": {
+    "type": "book",
+    "authors": [
+      "Asch, Solomon E."
+    ],
+    "year": 1952,
+    "title": "Social psychology",
+    "publisher": "Prentice-Hall",
+    "place": "New York",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "book-review"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref (APA PsycBooks, DOI 10.1037/10025-000) and a 1953 review in Social Forces (Simpkins, 32(2), 204-205: Prentice-Hall, New York, 1952, 646 pp.)."
+    }
+  },
+  "simpson-1996": {
+    "type": "article",
+    "authors": [
+      "Simpson, Christopher"
+    ],
+    "year": 1996,
+    "title": "Elisabeth Noelle-Neumann's “Spiral of Silence” and the historical context of communication theory",
+    "container": "Journal of Communication",
+    "volume": "46",
+    "issue": "3",
+    "pages": "149-173",
+    "doi": "10.1111/j.1460-2466.1996.tb01494.x",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref matched. Article NOT read; it is cited only as one of the international contributions to the debate about Noelle-Neumann's Nazi-era past, as listed by Wendelin (2013) and in Griffin's reference list. Its argument is not summarised."
+    }
+  },
+  "stoycheff-2016": {
+    "type": "article",
+    "authors": [
+      "Stoycheff, Elizabeth"
+    ],
+    "year": 2016,
+    "title": "Under surveillance: Examining Facebook's spiral of silence effects in the wake of NSA internet monitoring",
+    "container": "Journalism & Mass Communication Quarterly",
+    "volume": "93",
+    "issue": "2",
+    "pages": "296-311",
+    "doi": "10.1177/1077699016630255",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "publisher-page"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref matched (Crossref stores the short title 'Under Surveillance'). Only the abstract-level description was available (priming manipulation embedded in an internet survey; perceived surveillance strengthened the negative relation between perceived opinion incongruity and willingness to speak, especially when surveillance was seen as justified). Full text not read."
+    }
+  },
+  "thurre-gale-staerkle-2019": {
+    "type": "article",
+    "authors": [
+      "Thurre, Frédéric Olivier",
+      "Gale, Jessica",
+      "Staerklé, Christian"
+    ],
+    "year": 2019,
+    "title": "Speaking up or silencing out in the face of rising right-wing populism: A dynamic test of the spiral of silence across 15 European countries",
+    "container": "International Journal of Public Opinion Research",
+    "volume": "32",
+    "issue": "3",
+    "pages": "547-568",
+    "doi": "10.1093/ijpor/edz034",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "full-text-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref matched (published online 2019, issue 32(3)); the author-deposited version (University of Lausanne repository) was read."
+    }
+  },
+  "kutlu-2019": {
+    "type": "article",
+    "authors": [
+      "Kutlu, Asuman"
+    ],
+    "year": 2019,
+    "title": "Suskunluk sarmalı 2.0: Türkiye'de Facebook kullanımı üzerine bir araştırma",
+    "container": "TESAM Akademi Dergisi",
+    "volume": "6",
+    "issue": "1",
+    "pages": "43-75",
+    "doi": "10.30626/tesamakademi.528027",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "publisher-page",
+        "full-text-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref and DergiPark page matched; full text read (404 Facebook users, snowball sampling, Istanbul-based population)."
+    }
+  },
+  "ozer-yildiran-onk-2021": {
+    "type": "article",
+    "authors": [
+      "Özer, Asuman",
+      "Yıldıran Önk, Ürün"
+    ],
+    "year": 2021,
+    "title": "Suskunluk sarmalı kuramı çerçevesinde Türk basını: Cem Karaca'nın vatandaşlıktan çıkarılışı ve dönüş haberleri",
+    "container": "Türkiye İletişim Araştırmaları Dergisi",
+    "issue": "38",
+    "pages": "416-438",
+    "doi": "10.17829/turcom.933856",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "publisher-page",
+        "full-text-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref and DergiPark page matched; full text read (Cumhuriyet newspaper, critical discourse analysis, 1983 and 1987 items)."
+    }
+  },
+  "aktas-2024": {
+    "type": "article",
+    "authors": [
+      "Aktaş, Adil"
+    ],
+    "year": 2024,
+    "title": "Aytmatov'un suskunluk sarmalı: Cemile",
+    "container": "Ege Üniversitesi Türk Dünyası İncelemeleri Dergisi",
+    "volume": "24",
+    "issue": "1",
+    "pages": "1-27",
+    "doi": "10.32449/egetdid.1440346",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "full-text-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref matched; volume/issue/pages taken from the PDF header. Used only as a source for the Turkish term 'sert çekirdek'."
+    }
+  },
+  "kehya-2018": {
+    "type": "article",
+    "authors": [
+      "Kehya, R. Özgün"
+    ],
+    "year": 2018,
+    "title": "Çevrimiçi medya ve suskunluk sarmalı",
+    "container": "SDÜ İFADE",
+    "volume": "1",
+    "issue": "1",
+    "pages": "42-61",
+    "url": "https://dergipark.org.tr/tr/pub/sduifade/issue/45410/569777",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "publisher-page",
+        "full-text-read"
+      ],
+      "date": "2026-09-20",
+      "note": "DergiPark page (journal SDÜ İFADE, vol. 1, no. 1, 2018, pp. 42-61) and full text read. No Crossref DOI. Used for Turkish terminology ('yarı istatistiksel algı', 'görüş iklimi') and for the three conditions (moral content, time, media)."
+    }
+  },
+  "polat-2016": {
+    "type": "book",
+    "authors": [
+      "Polat, Veli"
+    ],
+    "year": 2016,
+    "title": "Kitle iletişim kuramları (Ortak Ders)",
+    "publisher": "İstanbul Üniversitesi Açık ve Uzaktan Eğitim Fakültesi (AUZEF)",
+    "place": "İstanbul",
+    "edition": "Ders notu (course text)",
+    "url": "http://auzefkitap.istanbul.edu.tr/kitap/kok/kitle_iletisim_kuramlari_u103.pdf",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself",
+        "institutional-page"
+      ],
+      "date": "2026-09-20",
+      "note": "The AUZEF e-book PDF itself was read (title page: Doç. Dr. Veli Polat, Istanbul University AUZEF; preface signed Istanbul, 2016); the Istanbul University EBS course page lists Doç. Dr. Veli Polat as instructor of 'Kitle İletişim Kuramları'. Table of contents: unit 10 'Sihirli Mermi ve Sessizlik Sarmalı', 10.2 'Suskunluk Sarmalı Kuramı', 10.2.1 'Örnek Olay: Almanya'da 1965 Meclis Seçimleri', 10.2.2 'Kuramın Dayandığı Temel Varsayımlar'. The author himself calls it a compilation; used here for facts and exam alignment only, never copied."
+    }
+  },
+  "yaylagul-2006": {
+    "type": "book",
+    "authors": [
+      "Yaylagül, Levent"
+    ],
+    "year": 2006,
+    "title": "Kitle iletişim kuramları: Egemen ve eleştirel yaklaşımlar",
+    "publisher": "Dipnot",
+    "place": "Ankara",
+    "edition": "1. baskı",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "book-review",
+        "university-repository",
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Confirmed by Çam's review in Kültür ve İletişim (2007, 10(1), 115-118, DergiPark), which names author, title, publisher, place and year and lists 'Suskunluk Sarmalı' among the covered theories; the AVESİS (Akdeniz University) publication record; and a course-material PDF of the book that was read for the section 'Suskunluk Sarmalı'. ISBN 975-9051-21-4 is taken from the project notes and was not re-checked."
+    }
+  },
+  "griffin-2009": {
+    "type": "web",
+    "authors": [
+      "Griffin, Em"
+    ],
+    "year": 2009,
+    "title": "Spiral of Silence of Elisabeth Noelle-Neumann (chapter 29 of A First Look at Communication Theory, 7th ed.; archived chapter and end notes)",
+    "url": "http://www.afirstlook.com/docs/spiral.pdf",
+    "publisher": "McGraw-Hill (text); posted on afirstlook.com",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself",
+        "open-library",
+        "library-catalogue"
+      ],
+      "date": "2026-09-20",
+      "note": "The archived chapter was read in full. The parent textbook (7th edition, McGraw-Hill, Boston; Library of Congress control number 2008002862, classification P90 .G725 2009; Open Library lists publish date 2008) is confirmed in Open Library. Year given as 2009 (LC classification); the Open Library publish date is 2008."
+    }
+  },
+  "wilke-2010": {
+    "type": "web",
+    "authors": [
+      "Wilke, Jürgen"
+    ],
+    "year": 2010,
+    "title": "Gedenkrede auf Elisabeth Noelle-Neumann (Mainz, 20 October 2010)",
+    "url": "https://noelle-neumann.de/wp-content/uploads/2015/01/2010.10.20-Wilke-Gedenkrede-Noelle-R.pdf",
+    "publisher": "Johannes Gutenberg-Universität Mainz (memorial speech, hosted on noelle-neumann.de)",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Full text read (PDF; the host site's TLS certificate had expired, so it was fetched ignoring certificate errors; content is a plain PDF). Author is her successor on the Mainz chair, i.e. a sympathetic but well-informed insider; its life data agree with Wendelin (2013) and the epd obituary."
+    }
+  },
+  "wendelin-2013": {
+    "type": "web",
+    "authors": [
+      "Wendelin, Manuel"
+    ],
+    "year": 2013,
+    "title": "Elisabeth Noelle-Neumann. In: Biografisches Lexikon der Kommunikationswissenschaft",
+    "url": "https://blexkom.halemverlag.de/elisabeth-noelle-neumann/",
+    "publisher": "Herbert von Halem Verlag (online encyclopedia, ed. Michael Meyen et al.)",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Entry read in full. Independent of Wilke (different author, publisher, and it takes a more critical view of the Nazi-era question). It gives 1980 as the year of 'Öffentliche Meinung. Die Entdeckung der Schweigespirale' (Ullstein), which the DNB catalogue shows to be 1989; the lesson does not follow that date."
+    }
+  },
+  "epd-2010": {
+    "type": "web",
+    "authors": [
+      "epd (Evangelischer Pressedienst)"
+    ],
+    "year": 2010,
+    "title": "Ober-Demografin Noelle-Neumann ist tot",
+    "url": "https://www.evangelisch.de/inhalte/99114/25-03-2010",
+    "publisher": "evangelisch.de",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "News obituary of 25 March 2010 (born 1916 in Berlin, died 2010 in Allensbach, aged 93; co-founder of Germany's first opinion research institute in 1947). Title as shown in the search index (the word 'Demografin' is presumably a slip for 'Demoskopin'; cited as printed)."
+    }
+  },
+  "mrweb-2010": {
+    "type": "web",
+    "authors": [
+      "Daily Research News Online (DRNO)"
+    ],
+    "year": 2010,
+    "title": "German pollster Elisabeth Noelle-Neumann dies (news no. 11509)",
+    "url": "https://www.mrweb.com/drno/news11509.htm",
+    "publisher": "MRWeb (Daily Research News Online)",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Trade-press obituary; used only to confirm that the Allensbach institute (1947, with Erich Peter Neumann) is described as Germany's first opinion research firm. Its stated date of death is inconsistent with other sources and is not used."
+    }
+  },
+  "noelle-neumann-de-site": {
+    "type": "web",
+    "authors": [
+      "Elisabeth Noelle-Neumann – Her life and scientific work (site run by former colleagues)"
+    ],
+    "year": 2015,
+    "title": "Spiral of Silence (page on the site “Elisabeth Noelle-Neumann: Her life and scientific work”)",
+    "url": "https://noelle-neumann.de/scientific-work/spiral-of-silence/",
+    "publisher": "noelle-neumann.de",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself",
+        "cross-check-catalogue"
+      ],
+      "date": "2026-09-20",
+      "note": "Read in full. Operated by colleagues of the subject (per Wendelin 2013), so not independent of her; used only for the list of core hypotheses, the publication history (checked against DNB and Open Library) and the statement that fear of isolation works largely unconsciously. Copyright year of the page not shown; 2015 is the upload year visible in file paths on the same site."
+    }
+  },
+  "petersen-2019": {
+    "type": "web",
+    "authors": [
+      "Petersen, Thomas"
+    ],
+    "year": 2019,
+    "title": "Die Schweigespirale heute",
+    "url": "https://www.kas.de/en/web/die-politische-meinung/artikel/detail/-/content/die-schweigespirale-heute",
+    "publisher": "Die Politische Meinung (Konrad-Adenauer-Stiftung), 20 September 2019",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Author is a researcher at the Allensbach Institute (i.e. an interested but expert source). The page was read through a summarising fetch tool (direct download was blocked); the 1965 and 1972 patterns were confirmed in two separate fetches and by a second web-search excerpt of the same text. Used for the 1965/1972 election patterns and the 1972 buttons/stickers observation."
+    }
+  },
+  "bundeswahlleiterin-1965": {
+    "type": "web",
+    "authors": [
+      "Die Bundeswahlleiterin"
+    ],
+    "year": 2025,
+    "title": "Bundestagswahl 1965 – results",
+    "url": "https://www.bundeswahlleiterin.de/en/bundestagswahlen/1965.html",
+    "publisher": "Die Bundeswahlleiterin (Federal Returning Officer)",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "official-page"
+      ],
+      "date": "2026-09-20",
+      "note": "Official page: election on 19 September 1965; CDU 38.0 % + CSU 9.6 % = 47.6 % for the Union, SPD 39.3 %, FDP 9.5 %. The 47.6/39.3/9.5 figures agree with Wikipedia's 1965 election article. Year of the page itself not shown."
+    }
+  },
+  "fuchs-gerhards-neidhardt-1991": {
+    "type": "report",
+    "authors": [
+      "Fuchs, Dieter",
+      "Gerhards, Jürgen",
+      "Neidhardt, Friedhelm"
+    ],
+    "year": 1991,
+    "title": "„Schweigespirale“ im Test: Wer ist zur öffentlichen Kommunikation bereit?",
+    "container": "WZB-Mitteilungen",
+    "issue": "54 (December 1991)",
+    "pages": "16-18",
+    "publisher": "Wissenschaftszentrum Berlin für Sozialforschung (WZB)",
+    "url": "https://www.polsoz.fu-berlin.de/soziologie/arbeitsbereiche/seniorprofessur/mitarbeiter/lehrstuhlinhaber/dateien/1991-Fuchs-et-al-Schweigespirale-im-Test.pdf",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Full text of the 3-page summary read. It reports the full paper 'Öffentliche Kommunikationsbereitschaft – Ein Test zentraler Bestandteile der Theorie der Schweigespirale' (WZB FS III 91-105, 24 pp.), which was not opened. A research-institute newsletter/report, not a peer-reviewed article."
+    }
+  },
+  "hampton-et-al-2014": {
+    "type": "report",
+    "authors": [
+      "Hampton, Keith N.",
+      "Rainie, Lee",
+      "Lu, Weixu",
+      "Dwyer, Maria",
+      "Shin, Inyoung",
+      "Purcell, Kristen"
+    ],
+    "year": 2014,
+    "title": "Social media and the “spiral of silence”",
+    "publisher": "Pew Research Center",
+    "place": "Washington, DC",
+    "url": "https://www.pewresearch.org/internet/2014/08/26/social-media-and-the-spiral-of-silence/",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "publisher-page",
+        "citing-articles"
+      ],
+      "date": "2026-09-20",
+      "note": "Report of 26 August 2014 read on the Pew site (survey of 1,801 US adults, 7 August-16 September 2013). Also cited in Kutlu (2019)."
+    }
+  },
+  "osu-glynn": {
+    "type": "web",
+    "authors": [
+      "The Ohio State University, School of Communication"
+    ],
+    "year": 2026,
+    "title": "Carroll Glynn – faculty profile",
+    "url": "https://comm.osu.edu/people/glynn.14",
+    "publisher": "The Ohio State University School of Communication",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "institutional-page"
+      ],
+      "date": "2026-09-20",
+      "note": "Profile lists Carroll Glynn as professor emeritus, research on public opinion and social norms, PhD University of Wisconsin. Year of the page is the access year."
+    }
+  },
+  "glynn-et-al-2016": {
+    "type": "book",
+    "authors": [
+      "Glynn, Carroll J.",
+      "Herbst, Susan",
+      "Lindeman, Mark",
+      "O'Keefe, Garrett J.",
+      "Shapiro, Robert Y."
+    ],
+    "year": 2016,
+    "title": "Public opinion",
+    "publisher": "Routledge / Westview Press",
+    "place": "New York",
+    "edition": "3rd edition",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "publisher-page",
+        "book-catalogue"
+      ],
+      "date": "2026-09-20",
+      "note": "Routledge product page lists the 3rd edition (2016); Google Books lists a 3rd edition dated 2015 (Avalon/Westview) with the publisher blurb 'Carroll J. Glynn is professor and director of the School of Communication at The Ohio State University'. Year differs by imprint (2015 vs 2016); 2016 follows Routledge."
+    }
+  },
+  "almanac-asch-1996": {
+    "type": "web",
+    "authors": [
+      "University of Pennsylvania Almanac"
+    ],
+    "year": 1996,
+    "title": "Death of Solomon Asch (Almanac, vol. 42, no. 23)",
+    "url": "https://almanac.upenn.edu/archive/v42/n23/asch.html",
+    "publisher": "University of Pennsylvania, Almanac",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "institutional-page"
+      ],
+      "date": "2026-09-20",
+      "note": "University obituary: born Warsaw 1907; B.S. City College of New York 1928; M.A. 1930 and Ph.D. 1932 Columbia; Brooklyn College, New School, Swarthmore; Rutgers 1966-72; Penn 1972-79; died 1996 aged 88. It gives 21 February 1996 as the date of death, other sources 20 February, so the lesson gives only the year."
+    }
+  },
+  "ebsco-asch": {
+    "type": "web",
+    "authors": [
+      "EBSCO Research Starters"
+    ],
+    "year": 2024,
+    "title": "Solomon Asch (psychologist)",
+    "url": "https://www.ebsco.com/research-starters/psychology/solomon-asch-psychologist",
+    "publisher": "EBSCO Information Services",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "reference-work"
+      ],
+      "date": "2026-09-20",
+      "note": "Reference article: born Warsaw 1907, CCNY 1928, Columbia MA 1930 / PhD 1932, Swarthmore, Brooklyn College, Penn, Rutgers Institute for Cognitive Studies; Social Psychology (1952); conformity experiments from the early 1950s; died 1996 in Haverford, Pennsylvania. Year of the page is approximate."
+    }
+  },
+  "dp-asch-1996": {
+    "type": "web",
+    "authors": [
+      "The Daily Pennsylvanian staff",
+      "Wong, Maisie"
+    ],
+    "year": 1996,
+    "title": "Renowned psych prof emeritus dies",
+    "url": "https://www.thedp.com/article/1996/02/renowned_psych_prof_emeritus_dies",
+    "publisher": "The Daily Pennsylvanian",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "newspaper-archive"
+      ],
+      "date": "2026-09-20",
+      "note": "Student-newspaper obituary of 27 February 1996: died in Haverford, Pennsylvania; Brooklyn College, New School, Rutgers, Swarthmore, Penn (1972-1979); Social Psychology (1952). States age 87, which conflicts with other sources (88); the lesson gives only years."
+    }
+  }
+}

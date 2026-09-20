@@ -1,0 +1,17 @@
+{
+  "id": "signorielli",
+  "lang": "tr",
+  "name": "Nancy Signorielli",
+  "nativeName": "",
+  "slug": "nancy-signorielli",
+  "short": "ABD’li iletişim araştırmacısı; Delaware Üniversitesi’nde profesör. Kültürel Göstergeler ekibinin özgün üyesi; televizyon karakterleri ve kültivasyon analizi üzerine çalıştı.",
+  "roles": ["iletişim araştırmacısı", "Kültürel Göstergeler ekibi üyesi"],
+  "bio": "Nancy Signorielli, televizyon içeriği ve kültivasyon analizi üzerine çalışan bir iletişim araştırmacısıdır. Doktorasını 1975’te Pennsylvania Üniversitesi’nde iletişim alanında tamamladı. Delaware Üniversitesi’nde iletişim profesörü ve yüksek lisans programının yöneticisi olarak çalıştı. Kültürel Göstergeler Araştırma Ekibi’nin özgün üyelerindendir.\n\nDoktora çalışması, televizyon karakterlerinin ayrıntılı bir yöntemsel incelemesiydi. 1974’te Journal of Communication’da yayımlanan “Patterns in Prime Time” makalesi, televizyondaki karakter tasvirleri üzerine erken ve sık anılan çalışmalardandır. Araştırmaları, televizyon ve medya imgelerinin yaşlanma, cinsiyet rolleri, meslekler, azınlıklar ve şiddet gibi konularda nasıl kurulduğunu ve bu imgelerin insanların toplumsal gerçeklik anlayışıyla nasıl ilişkili olduğunu (yani kültivasyon analizini) inceler; çocuklar ve medya da ilgi alanlarındandır.\n\nYedi tek ya da ortak yazarlı ve editörlü kitabı, 90’dan fazla dergi makalesi ve kitap bölümü, 150’den fazla konferans sunumu vardır; kitapları arasında *Violence in the Media: A Reference Handbook* (2005) yer alır. Mayıs 1993’te ABD Temsilciler Meclisi’nin Enerji ve Ticaret Komitesi önünde televizyon şiddetinin çocuklar üzerindeki etkisi konusunda ifade verdi. Gerbner, Gross ve Morgan’la birlikte 1980’de “Amerika’nın ana akımlaşması” makalesini yazdı; Morgan ve Shanahan’la birlikte kültivasyonun yeni medya ortamındaki geçerliliğini tartışan 2015 tarihli makalenin ortak yazarıdır. Broadcast Education Association, 2010’da ona Seçkin Bilim İnsanı Ödülü’nü verdi. Britannica’daki George Gerbner maddesinin de yazarıdır. Bu sayfada yalnızca kamuya açık mesleki bilgiler yer alır.",
+  "works": [
+    { "bib": "gerbner-et-al-1980", "note": "Ana akımlaşma makalesinin ortak yazarı." },
+    { "bib": "morgan-shanahan-signorielli-2015", "note": "Kültivasyonun yeni medya çağındaki durumu." },
+    { "bib": "morgan-shanahan-signorielli-2016", "note": "Siyasal iletişim ansiklopedisinde kültivasyon kuramı maddesi." },
+    { "bib": "tsay-vogel-shanahan-signorielli-2018", "note": "Facebook ve gizlilik algıları üzerine beş yıllık kültivasyon çalışması." }
+  ],
+  "inCourse": "Gerbner’in ekibinin özgün üyesi; kuramın hem klasik hem güncel çalışmalarında yazar. Bkz. [[lesson:cultivation]]."
+}

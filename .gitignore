@@ -1,0 +1,11 @@
+node_modules/
+.preview/
+.tmp/
+*.log
+.wrangler/
+worker/.dev.vars
+.DS_Store
+Thumbs.db
+.claude/
+.tmp-*
+.secrets/

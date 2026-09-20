@@ -1,0 +1,12 @@
+{
+  "id": "shaw", "lang": "tr",
+  "name": "Donald Shaw", "nativeName": "", "slug": "donald-shaw",
+  "short": "Maxwell McCombs ile gündem belirleme araştırmasının kurucusu; Chapel Hill’de gazetecilik profesörü ve basın tarihçisi (öl. 2021).",
+  "roles": ["gazetecilik profesörü", "basın tarihçisi", "gündem belirleme kuramının kurucularından"],
+  "bio": "Donald Shaw, Maxwell McCombs ile birlikte gündem belirleme araştırmasının kurucusu sayılan iletişim bilimcisidir. Kuzey Karolina Üniversitesi Chapel Hill’de gazetecilik okudu (lisans 1959, yüksek lisans 1960) ve 1966’da aynı üniversitenin gazetecilik okulunda öğretmenliğe başladı; [[person:mccombs|McCombs]] bir yıl sonra fakülteye katıldı. 2012’ye kadar orada öğretim üyesi olarak çalıştı; Kenan Profesörü Emeritus unvanıyla anılır.\n\n1968 seçiminde iki meslektaş Chapel Hill’de yüz kararsız seçmenle görüştü ve medya içeriğini ölçtü; sonuç, 1972 tarihli “The Agenda-Setting Function of Mass Media” makalesi oldu. Yakın çalışma arkadaşı David Weaver’a göre McCombs düzenli ve odaklıydı, Shaw ise yaratıcı ve ilgi alanı geniş.\n\nShaw yalnızca gündem belirleme araştırmacısı değildi. 19. ve 20. yüzyıl Amerikan ve Güney basın tarihi üzerine çalıştı; 1960’larda telgraf ve haber yanlılığı üzerine araştırmalar yaptı. 1992’de Shannon Martin ile gündem belirlemenin toplumlar için işlevini ele aldı ve kuramı farklı siyasal sistemlerle ilişkilendirdi. Son dönemde “agendamelding” (gündem harmanlama) kavramı üzerinde çalıştı: İnsanların farklı gündemleri kendi grup kimliklerine göre nasıl benimseyip karıştırdığını inceleyen bu yaklaşım, medya etkileri geleneğini kullanımlar ve doyumlar bakışıyla tamamlar.\n\n2021’de öldü. Amerikan gazetecilik ve kitle iletişimi eğitimcileri derneğinin (AEJMC) Tarih Bölümü’nün yaşam boyu başarı ödülü, “Shaw Senior Scholar Award”, onun adını taşır.",
+  "works": [
+    { "bib": "mccombs-shaw-1972", "note": "Chapel Hill çalışması: gündem belirleme kuramının başlangıç makalesi." },
+    { "bib": "mccombs-shaw-weaver-2014", "note": "Kuramın yedi yönü; agendamelding de burada ele alınır." }
+  ],
+  "inCourse": "[[lesson:agenda-setting]] dersinde McCombs’un çalışma arkadaşı ve Chapel Hill çalışmasının ortak yazarı olarak geçer."
+}

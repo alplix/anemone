@@ -1,0 +1,12 @@
+{
+  "flash.title": "Concept flashcards",
+  "flash.intro": "Fifteen concepts from the glossary. See the term, try to recall the definition, then check yourself.",
+  "flash.start": "Start flashcards",
+  "flash.empty": "There are no concepts to practise yet.",
+  "flash.card-of": "Flashcard {n} of {total}",
+  "flash.reveal": "Show the definition",
+  "flash.knew": "I knew it",
+  "flash.again": "Not yet",
+  "flash.done": "Flashcards finished",
+  "flash.done-line": "You knew {known} of {total} concepts."
+}

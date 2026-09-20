@@ -1,0 +1,12 @@
+{
+  "id": "lippmann", "lang": "tr",
+  "name": "Walter Lippmann", "nativeName": "", "slug": "walter-lippmann",
+  "short": "Amerikalı gazeteci ve yorumcu; Public Opinion (1922) kitabındaki “kafamızdaki resimler” ve “sözde çevre” fikriyle gündem belirleme kuramının fikri zeminini kurdu.",
+  "born": "New York",
+  "roles": ["gazeteci", "köşe yazarı", "siyasal yorumcu"],
+  "bio": "Walter Lippmann, 20. yüzyıl Amerikan gazeteciliğinin en etkili yorumcularından biridir. 1889’da New York’ta doğdu ve Harvard’da okudu. 1914’te *The New Republic* dergisinin kurucu editörlerinden biri oldu; Birinci Dünya Savaşı sırasında Başkan Wilson’ın çevresinde barış hazırlıklarında yer aldı ve Wilson’ın On Dört Maddesi’nin hazırlanmasıyla bağlantılı olarak anılır. Sonrasında *New York World* gazetesinin yazı işlerinde çalıştı; 1931’den itibaren yıllarca süren, çok sayıda gazetede yayımlanan bir köşe yazısı yazdı. İki Pulitzer Ödülü ve Başkanlık Özgürlük Madalyası aldı.\n\nEn çok, 1922’de yayımlanan *Public Opinion* kitabıyla tanınır. Kitabın ilk bölümü, Birinci Dünya Savaşı’nın çıktığını altı hafta boyunca öğrenemeyen adalıların hikâyesiyle başlar. Kitapta insanların dünyayı doğrudan değil, kafalarındaki basitleştirilmiş resimler, yani “sözde çevre” aracılığıyla tanıdığını; bu resimlerin de büyük ölçüde basından geldiğini savundu. Ona göre gerçek çevre doğrudan tanınamayacak kadar büyük, karmaşık ve geçiciydi; insanlar davranışlarını bu basitleştirilmiş haritalara göre kuruyordu. Kendi cümlesiyle: “To traverse the world men must have maps of the world.” Bu fikirler demokrasinin “bilgili yurttaş” varsayımını da sorguluyordu.\n\nLippmann kendisi gündem belirleme araştırması yapmadı; ama yıllar sonra bu alanın araştırmacıları ona dayandı. McCombs ve Shaw 1972 makalesinde medyanın yansıttığı “sözde çevre”nin gerçeğin kusurlu bir temsili olduğunu yazdı; Iyengar, Peters ve Kinder 1982’de deneylerinin Lippmann’ın yarım yüzyıl önceki şüphesini doğruladığını belirtti. 1974’te öldü.",
+  "works": [
+    { "bib": "lippmann-1922", "note": "“Dışarıdaki dünya ve kafamızdaki resimler”: gündem belirleme fikrinin felsefi kökü." }
+  ],
+  "inCourse": "[[lesson:agenda-setting]] dersini onun ada anlatısı açar; “kafamızdaki resimler” fikri kuramın fikri zemini. Propaganda ve kamuoyu bağlamında [[lesson:propaganda-public-opinion]] dersinde de geçer."
+}

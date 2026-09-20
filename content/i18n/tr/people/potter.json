@@ -1,0 +1,16 @@
+{
+  "id": "potter",
+  "lang": "tr",
+  "name": "W. James Potter",
+  "nativeName": "",
+  "slug": "w-james-potter",
+  "short": "ABD’li iletişim araştırmacısı; UC Santa Barbara emeritus profesörü. Medya etkileri ve medya okuryazarlığı uzmanı; kültivasyon kuramını 1993 ve 2014’te kavramsal olarak eleştirdi.",
+  "roles": ["iletişim araştırmacısı", "emeritus profesör"],
+  "bio": "W. James Potter, medya etkileri ve medya okuryazarlığı üzerine çalışan bir iletişim araştırmacısıdır. İki doktorası vardır: biri iletişim, diğeri eğitim teknolojisi alanında. Santa Barbara’daki Kaliforniya Üniversitesi’nin (UCSB) İletişim Bölümü’nde profesör olarak çalıştı ve emeritus oldu. Journal of Broadcasting & Electronic Media dergisinin editörlüğünü yaptı.\n\nKariyerinin ilk yıllarında ampirik çalışmalar yürüttü; sonra bulguları sentezleyerek medya etkileri ve medya okuryazarlığı üzerine büyük ölçekli bilgi yapıları kurmaya, ardından araştırma literatürlerini eleştirel biçimde çözümlemeye yöneldi.\n\nKültivasyon literatüründe eleştirmen ve kavramsal düzenleyici olarak yer alır. 1991’de birinci ve ikinci düzey kültivasyon ölçümleri arasındaki ilişkiyi inceledi. 1993’te “Cultivation Theory and Research: A Conceptual Critique” makalesinde kuramın tek tip mesaj, seçici olmayan izleme, doğrusallık, nedensellik, ana akımlaşma ve rezonans gibi varsayımlarını ele aldı. 2014’te “A Critical Analysis of Cultivation Theory” makalesinde “kültivasyon” teriminin üç farklı anlamda kullanıldığını ve bu literatürün buluşsal değer, ampirik destek ve kesinlik ölçütleriyle değerlendirilebileceğini ileri sürdü. Yayınları arasında çok baskılı *Media Literacy* ders kitabı, *The 11 Myths of Media Violence* (2003) ve *Major Theories of Media Effects* (2019) bulunur; kendisi çok sayıda makale ve onlarca kitap yayımlamıştır. Bu sayfada yalnızca kamuya açık mesleki bilgiler yer alır.",
+  "works": [
+    { "bib": "potter-1991", "note": "Birinci ve ikinci düzey kültivasyon ölçümleri arasındaki ilişki." },
+    { "bib": "potter-1993", "note": "Kuramın kavramsal eleştirisi." },
+    { "bib": "potter-2014", "note": "Üç farklı “kültivasyon” anlamı ve literatürün değerlendirmesi." }
+  ],
+  "inCourse": "Kültivasyonun en sistematik kavramsal eleştirmeni. Bkz. [[lesson:cultivation]] ve [[lesson:mainstreaming-critique]]."
+}

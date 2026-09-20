@@ -1,0 +1,11 @@
+{
+  "id": "cultivation",
+  "lang": "en",
+  "translation": { "status": "machine" },
+  "term": "cultivation theory",
+  "altTerms": ["cultivation", "ekme kuramı", "yetiştirme kuramı", "kültürel göstergeler ve ekme kuramı"],
+  "slug": "cultivation-theory",
+  "short": "Gerbner’s theory that heavy television viewers’ perception of social reality is closer to the recurring messages of the on-screen world than that of similar light viewers; it sees the effect as accumulation spread over years.",
+  "body": "Cultivation theory sees the effect of television not as a chain of “one message, one reaction” but as the cumulative result of a story system spread over years. The theory is the third prong (cultivation analysis) of the Cultural Indicators project run by [[person:gerbner|George Gerbner]] and his team at the Annenberg School for Communication. The central hypothesis is this: heavy television viewers, compared with demographically similar but lighter viewers, perceive the real world in line with the most common and recurring messages of the on-screen world.\n\nIts name comes from agriculture: a single seed does not yield a crop in a day; repetition and time are needed. That is why the theory does not measure the instant effect of a single programme or whether viewers become aggressive; it studies long-term, total exposure. As a method, television content is counted first ([[concept:message-system-analysis]]), and then, in national surveys, viewers’ beliefs about the real world are compared by amount of television viewing ([[concept:heavy-viewers]]).\n\nIn Turkish the theory is called “ekme” (“sowing”), “yetiştirme” (“raising”) or “kültivasyon” (“cultivation”). Concepts such as [[concept:mean-world-syndrome]], [[concept:mainstreaming]] and [[concept:resonance]] belong to the same family of theory. Over the years the theory has received serious criticism from researchers such as Hirsch, Hughes, Doob and Macdonald, and Potter; meta-analyses, meanwhile, show that the effect is small but stable. For details see [[lesson:cultivation]].",
+  "example": "In a survey, heavy television viewers answering “yes” more often than demographically similar light viewers to the question “Would you be afraid to walk in your neighbourhood at night?”"
+}

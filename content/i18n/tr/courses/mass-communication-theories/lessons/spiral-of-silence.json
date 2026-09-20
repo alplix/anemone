@@ -1,0 +1,915 @@
+{
+  "id": "spiral-of-silence",
+  "lang": "tr",
+  "translation": {
+    "status": "source",
+    "date": "2026-09-20"
+  },
+  "title": "Suskunluk Sarmalı",
+  "slug": "suskunluk-sarmali",
+  "description": "1965 seçim bilmecesinden dışlanma korkusuna, tren testinden çevrimiçi sarmala: suskunluk sarmalı kuramı, eleştirileri ve sınav ipuçları.",
+  "claim": "İnsanlar çevrelerinde hangi görüşün güç kazandığını algılar; görüşünün azınlıkta olduğunu düşünenler dışlanma korkusuyla susar, bu da o görüşü olduğundan zayıf gösterir ve süreç bir sarmal gibi hızlanır.",
+  "keywords": [
+    "suskunluk sarmalı",
+    "Noelle-Neumann",
+    "dışlanma korkusu",
+    "fikir iklimi",
+    "kamuoyu",
+    "tren testi",
+    "Asch",
+    "1965 Almanya seçimi",
+    "sert çekirdek",
+    "yarı istatistiksel algı"
+  ],
+  "updated": "2026-09-20",
+  "cards": [
+    {
+      "id": "hook",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "Eşit anketler, eşit olmayan sonuç",
+      "body": "Batı Almanya, 1965. Seçime aylar var ve anketler aylardır aynı şeyi söylüyor: iktidardaki CDU/CSU ile muhalefetteki SPD kafa kafaya.\n\nAllensbach Enstitüsü’nün anketçileri iki soru soruyor. Birincisi: “Hangi partiye oy vereceksin?” Cevaplar dokuz ay boyunca neredeyse hiç kıpırdamıyor. [[cite:polat-2016]] İkincisi: “Sence seçimi kim kazanacak?” İşte bu cevaplar kıpırdıyor: ay geçtikçe daha çok insan CDU/CSU’nun kazanacağını düşünüyor. Sonra seçimden hemen önce “son dakika hamlesi” (*last minute swing*) denen şey oluyor ve fark açılıyor. [[cite:polat-2016]][[cite:ozer-yildiran-onk-2021]]\n\n19 Eylül 1965’te CDU/CSU yüzde 47,6, SPD yüzde 39,3 aldı. [[cite:bundeswahlleiterin-1965]] Yani aylarca “kafa kafaya” görünen yarış, sandıkta gözle görülür bir farkla bitti.\n\nBilmece şu: insanların *neye oy vereceği* değişmezken, *kimin kazanacağına dair inançları* değişti ve oylar sonunda bu inancı izledi. [[person:noelle-neumann|Elisabeth Noelle-Neumann]] bu bilmecenin peşine düştü. Onun cevabı, bu dersin konusu olan [[concept:spiral-of-silence|suskunluk sarmalı]] kuramı oldu: nereden çıktı, ne diyor, nasıl sınandı, nerede tökezledi ve bugünün sosyal medyasında neye benziyor, hepsini göreceksin.\n\nŞimdi dur ve tahmin yürüt: insanlar neden hâlâ “aynı partiye oy vereceğim” demeye devam ederken, “kazanan şu olacak” demeye başlıyor? Dersin geri kalanı bu sorunun cevabıdır.",
+      "question": {
+        "id": "hook-q",
+        "type": "mcq",
+        "prompt": "1965 seçiminin “bilmecesi” tam olarak neydi?",
+        "options": [
+          "Anketler SPD’nin önde olduğunu gösterdi, ama seçimi CDU/CSU kazandı.",
+          "Oy niyetleri aylarca neredeyse hiç kıpırdamadı; buna karşılık “kim kazanır?” beklentisi tek yöne kaydı ve sonunda oylar da o yöne kaydı.",
+          "Seçmenlerin çoğu ankete cevap vermedi, bu yüzden sonuç önceden kestirilemedi.",
+          "İki parti de neredeyse tam olarak yüzde 50 aldı."
+        ],
+        "answer": 1,
+        "explain": "Bilmece bir “anket hatası” değil, iki ölçünün ayrışmasıydı: oy niyeti sabit, kazanan beklentisi hareketli. İlk seçenek bu yüzden cazip görünür ama yanlıştır; anketler oy niyetinde başa baş yarış gösteriyordu, SPD’nin önde olduğunu değil. Sonuç da (yüzde 47,6’ya karşı 39,3) “yarım yarıma” bir sonuç değildi."
+      }
+    },
+    {
+      "id": "context-ideas",
+      "section": "context",
+      "layer": "core",
+      "kind": "text",
+      "title": "İki kamuoyu anlayışı ve cesur bir çıkış",
+      "body": "Noelle-Neumann bu bilmeceye anketçi olarak yaklaşıyor ama sorusu aslında felsefi: kamuoyu dediğimiz şey tam olarak nedir?\n\nBir anlayışa göre kamuoyu, bilgili yurttaşların akılcı tartışmasından çıkan ortak akıldır. Wilke’ye göre Almanya’da bu anlayışın en tanınmış savunucusu Jürgen Habermas’tı. Öbür anlayışa göre kamuoyu, bireyi topluluğa bağlayan görünmez bir toplumsal denetimdir. Noelle-Neumann, 9 Aralık 1965’te Mainz Üniversitesi’ndeki başlangıç dersini ikinci anlayışa adadı: “Kamuoyu Toplumsal Denetim Olarak”. [[cite:wilke-2010]] Polat da onun kamuoyuna yaklaşımları “ussallık” ve “toplumsal denetim” diye ikiye ayırdığını aktarır. [[cite:polat-2016]] (Habermas’ın tarafı için [[lesson:public-sphere]] dersine bak.)\n\nİkinci arka plan, medya etkileri tartışmasıdır. 1940’lardan beri “medya çoğu zaman mevcut tutumları pekiştirir” fikri yerleşikti ([[lesson:voting-studies]], [[lesson:selective-processes]]). [[cite:griffin-2009]] Noelle-Neumann buna itiraz etti: 1972’de Tokyo’daki uluslararası psikoloji kongresinde “güçlü kitle medyası kavramına dönüş” başlıklı bir konuşma yaptı ve gerekçe olarak birikimi, medyalar arası uyumu ve kamuoyu iklimi etkisini gösterdi. [[cite:wilke-2010]] Aynı yıllarda [[person:gerbner|Gerbner]]’in [[lesson:cultivation|kültivasyon]] çizgisi de güçlü etkilere dönüşün öteki büyük adı sayılır. [[cite:kehya-2018]]\n\nSuskunluk sarmalı bu iki fikrin kesiştiği yerde doğdu: kamuoyu bir baskıdır ve medya bu baskının nasıl algılanacağını şekillendirir.",
+      "question": {
+        "id": "context-q",
+        "type": "mcq",
+        "prompt": "Arkadaşın “kamuoyu, akıllı yurttaşların sakin tartışmasından çıkan ortak akıldır” diyor. Noelle-Neumann bu görüşe nasıl yaklaşırdı?",
+        "options": [
+          "Aynen katılırdı; kamuoyu akılcı tartışmanın ürünüdür.",
+          "Kamuoyunu her şeyden önce bireyi topluluğa bağlayan bir toplumsal denetim aracı olarak görür, bu anlayışa karşı çıkardı.",
+          "Kamuoyu diye bir şeyin var olmadığını söylerdi.",
+          "Kamuoyunu yalnızca anketlerde ölçülen sayısal bir toplam sayardı."
+        ],
+        "answer": 1,
+        "explain": "Noelle-Neumann’ın Mainz’daki başlangıç dersi tam da kamuoyunu toplumsal denetim olarak tanımlar. Anket sayılarıyla ölçmek onun aracıdır, ama kamuoyu tanımı sayısal toplam değildir; o yüzden son seçenek cazip görünse de yanlıştır. İlk seçenek ise karşı olduğu anlayıştır."
+      }
+    },
+    {
+      "id": "noelle-neumann-life",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "text",
+      "title": "Elisabeth Noelle-Neumann kimdir?",
+      "body": "Elisabeth Noelle-Neumann 1916’da Berlin’de doğdu ve 2010’da öldü. [[cite:wilke-2010]][[cite:epd-2010]] Gazeteci olmak istiyordu; 1937’de bir DAAD bursuyla ABD’de Missouri Üniversitesi Gazetecilik Okulu’na gitti. Orada George Gallup’un yeni kitlesel anketleriyle tanıştı ve doktora tezini Amerikan kamuoyu anketleri üzerine yazdı. [[cite:wilke-2010]][[cite:wendelin-2013]] Wilke’nin aktardığına göre, orada Amerikan toplumundaki uyum baskısını pek hoş bulmamıştı. [[cite:wilke-2010]]\n\n1947’de eşi Erich Peter Neumann ile Allensbach Demoskopi Enstitüsü’nü kurdu; kurum Almanya’nın ilk kamuoyu araştırma enstitüsü olarak anılır. [[cite:epd-2010]][[cite:mrweb-2010]] 1960’ların ortasında Mainz Üniversitesi’nde gazetecilik ve yayıncılık bilimi (*Publizistik*) profesörü oldu ama Allensbach’ın başında kalmayı sürdürdü; bu çift kimlik, kuramını hem sahadan hem üniversiteden besledi. [[cite:wilke-2010]][[cite:wendelin-2013]] Bilimsel modeli olarak [[person:lazarsfeld|Lazarsfeld]]’ı gösterirdi. [[cite:wilke-2010]] Mainz’da öğrencilerine anket, içerik çözümlemesi ve deney gibi ampirik yöntemleri öğretti; bu yönüyle Almanya’da gazetecilik biliminin sosyal bilimlere yönelmesinde öncü sayılır. [[cite:wilke-2010]][[cite:wendelin-2013]]\n\nBiyografisinin tartışmalı bir bölümü de var: 1940–1945 arasında Nazi döneminde gazetecilik ve editörlük yaptı; çalıştığı yayınlar arasında *Das Reich* ve *Frankfurter Zeitung* da vardı. Bu dönemdeki rolü sonradan uzun süre tartışıldı; kendisi suçlamaları reddetti. [[cite:wendelin-2013]][[cite:wilke-2010]] Bu konuyu, işin bilimsel değerlendirmesinden ayırarak “Eleştiriler ve sınırlar” bölümünde ele alacağız.",
+      "question": {
+        "id": "noelle-neumann-life-q",
+        "type": "mcq",
+        "prompt": "Bu karta göre, Noelle-Neumann’ın hem bir anket enstitüsünü yönetmesi hem de üniversitede çalışması kuramına nasıl yaradı?",
+        "options": [
+          "Kuramı üniversiteden alıp Allensbach’a uyguladı; sahadaki veri kuramın parçası olmadı.",
+          "Sahadaki anket verileri (Allensbach) ile kuramsal soruları (üniversite) aynı kişide birleşti; kuram bu iki kaynaktan beslendi.",
+          "Kuram tamamen Missouri’de, ABD’de yazıldı ve Almanya’ya sonradan getirildi.",
+          "Kuram, Lazarsfeld’in bir öğrencisi tarafından onun adına yayımlandı."
+        ],
+        "answer": 1,
+        "explain": "Kart, Allensbach’ın başında kalmasının kuramı hem sahadan hem üniversiteden beslediğini söyler. Missouri’de karşılaştığı şey Gallup anketleri ve uyum baskısıydı; kuram ise 1960’lı ve 1970’li yıllarda Almanya’daki seçim gözlemlerinden doğdu. Lazarsfeld yalnızca bilimsel modeliydi."
+      }
+    },
+    {
+      "id": "timeline",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Kuramın zaman çizelgesi",
+      "body": "Kuramın hikâyesini yıllar üzerinden takip etmek, sınavda karışan tarihleri ayırmana yarar:\n\n1. **1937:** Noelle-Neumann Missouri’ye gider, Gallup anketleriyle tanışır. [[cite:wilke-2010]]\n2. **1947:** Allensbach Enstitüsü kurulur. [[cite:epd-2010]]\n3. **1965:** Almanya seçiminde oy niyeti sabitken beklenti kayar (“son dakika hamlesi”); Aralık ayında Mainz başlangıç dersi. [[cite:polat-2016]][[cite:wilke-2010]]\n4. **1972:** Tokyo konuşması: “güçlü kitle medyası”na dönüş çağrısı. [[cite:wilke-2010]]\n5. **1974:** Kuramın ilk yayınları: *Journal of Communication*’daki İngilizce makale ve Almanca bir armağan kitabı bölümü. [[cite:noelle-neumann-1974]][[cite:noelle-neumann-1974-festschrift]]\n6. **1980:** Almanca kitap: *Die Schweigespirale*. [[cite:noelle-neumann-1980]]\n7. **1984:** İngilizce baskı: *The Spiral of Silence: Public Opinion – Our Social Skin*. [[cite:noelle-neumann-1984]]\n8. **1998:** Türkçe çeviri: *Kamuoyu: Suskunluk Sarmalının Keşfi* (Dost Kitabevi). [[cite:noelle-neumann-1998-tr]]\n\nKısa hafıza kuralı: **seçim (1965) → makale (1974) → Almanca kitap (1980) → İngilizce kitap (1984)**. İngilizce kitap Almancadan *sonra* gelir; çünkü kitap Almancaydı, İngilizce baskı onun çevirisidir.\n\nBir ipucu daha: 1965 ile 1980 arasındaki on beş yıl kuramın olgunlaşma süresidir. 1974 makalesi bu sürecin İngilizceye açılan ilk kapısı, 1980 kitabı ise tam hâlidir. Sınavda ‘ilk’ ve ‘tam’ sözcüklerine dikkat et.",
+      "question": {
+        "id": "timeline-q",
+        "type": "order",
+        "prompt": "Olayları doğru sıraya diz (en eskiden en yeniye).",
+        "items": [
+          "Almanya’da oy niyeti sabitken beklentilerin kaydığı seçim (1965)",
+          "Journal of Communication’da suskunluk sarmalı makalesi (1974)",
+          "Almanca kitap Die Schweigespirale (1980)",
+          "İngilizce baskı The Spiral of Silence (1984)"
+        ],
+        "explain": "Önce gözlem (1965), sonra ilk yayınlar (1974), ardından Almanca kitap (1980) ve onun İngilizce baskısı (1984). En sık yapılan hata, İngilizce baskıyı “ilk kitap” sanıp 1980 ile 1984’ü ters yazmaktır."
+      }
+    },
+    {
+      "id": "deep-titles",
+      "section": "people-time",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Aynı kuram, birkaç ad: kitaplar nasıl karışır?",
+      "body": "Kuramın kitap adları hem kaynakçalarda hem sınavda karışır. Dört ayrı yayın var:\n\n- **Almanca ilk yayın (1974):** “Die Schweigespirale: Über die Entstehung der öffentlichen Meinung”, Arnold Gehlen armağan kitabında bir bölüm. [[cite:noelle-neumann-1974-festschrift]]\n- **Almanca ilk kitap (1980):** *Die Schweigespirale: Öffentliche Meinung – unsere soziale Haut* (Piper, München/Zürich). [[cite:noelle-neumann-1980]]\n- **İngilizce baskı (1984; ikinci baskı 1993):** *The Spiral of Silence: Public Opinion – Our Social Skin* (University of Chicago Press). Almanca 1980 kitabının İngilizce karşılığıdır. [[cite:noelle-neumann-1984]]\n- **Ayrı bir Almanca kitap (1989):** *Öffentliche Meinung: Die Entdeckung der Schweigespirale* (Ullstein). Adı 1980 kitabından farklıdır; bu ayrı bir yayındır. [[cite:noelle-neumann-1989]]\n\nTürkçe çeviri *Kamuoyu: Suskunluk Sarmalının Keşfi* (çev. Murat Özkök, Dost Kitabevi, 1998) [[cite:noelle-neumann-1998-tr]] başlık olarak bu sonuncu kitabın adıyla örtüşür; bu yüzden Türkçe okuyucu için “ana kitap” çoğu zaman odur. (Bu eşleşme başlıklardan yapılan bir çıkarımdır.)\n\nBir uyarı: Türkçe kaynaklarda Noelle-Neumann’a yapılan atıfların yılları birbirini tutmayabilir; örneğin biri 1997, öbürü 1998 yazar. Aynı kitap için farklı basım ya da çeviri yıllarını görürsen şaşırma. Kaynakçalarda yıla değil başlığa güven."
+    },
+    {
+      "id": "claim",
+      "section": "claim",
+      "layer": "core",
+      "kind": "text",
+      "title": "Tek cümlede kuram",
+      "body": "Kuramın omurgası şu: insanlar çevrelerinde hangi görüşün güç kazandığını sürekli izler. Görüşünün güç kazandığını düşünenler açıkça konuşur, gerilediğini düşünenler kendini geri çeker. Konuşanlar olduğundan güçlü, susanlar olduğundan zayıf görünür; bu görünüm bir sonraki turda aynı yönde yeni bir itiş yaratır ve süreç bir sarmal gibi kendini büyütür. [[cite:griffin-2009]][[cite:noelle-neumann-de-site]]\n\nDikkat edilecek üç ayrıntı var:\n\n- Sarmalı yürüten şey görüşlerin *gerçek* dağılımı değil, *algılanan* dağılımdır.\n- Sarmal insanların *kamuya açık* davranışını değiştirir: kim ne söyler, ne takar, neyi paylaşır. İç dünyada görüşün değiştiği anlamına gelmek zorunda değildir.\n- Motor [[concept:fear-of-isolation|dışlanma korkusu]]dur: azınlıkta olduğunu sananlar dışlanmaktan çekindiği için susar.\n\nAdı da bunu anlatır: “sarmal”, çünkü süreç kendi kendini hızlandıran bir döngüdür; “suskunluk”, çünkü kaybeden taraf çoğu zaman yenilerek değil, sessizleşerek kaybeder.\n\n(Varsayımsal örnek.) Mola odasında iki kişi tartışmalı bir konuda yüksek sesle aynı görüşü savunuyor, odadaki öbürleri bakışlarını kaçırıp susuyor. Susanların belki yarısı aslında farklı düşünüyor; ama odaya sonradan giren biri “demek ki herkes böyle düşünüyor” sanabilir.",
+      "question": {
+        "id": "claim-q",
+        "type": "mcq",
+        "prompt": "Kurama göre sarmalı asıl yürüten şey hangisidir?",
+        "options": [
+          "Bir görüşün gerçekten çoğunlukta olması.",
+          "İnsanların bir görüşün çoğunlukta ya da yükselişte olduğunu algılaması.",
+          "Hükümetin bir görüşü yasaklaması.",
+          "Bir görüşü savunanların sayısının artması."
+        ],
+        "answer": 1,
+        "explain": "Kuram algılanan dağılımı öne çıkarır: 1965’te de partilerin gerçek gücü değişmemişken beklentiler kaydı. Gerçek çoğunluk (ilk seçenek) cazip bir cevaptır, ama kuramın ilginç iddiası tam da gerçek dağılımla algılanan dağılımın ayrışabilmesidir. Yasak ise toplumsal değil hukuki bir baskıdır."
+      }
+    },
+    {
+      "id": "myth-silence",
+      "section": "claim",
+      "layer": "core",
+      "kind": "myth",
+      "title": "Sık yapılan dört yanlış okuma",
+      "body": "**İnsanlar ne sanır:** “Azınlıkta kalan hemen fikrini değiştirir.”\n**Kuram ne der:** Kuram *sessizliği* öngörür, fikir değişimini değil. Griffin’in özetiyle insanlar rüzgârgülü değildir; ama karşı rüzgârda başlarını eğip susabilirler. Polat da görüşünü açıklamamanın, görüşünü değiştirmek anlamına gelmediğini yazar. [[cite:griffin-2009]][[cite:polat-2016]]\n\n**İnsanlar ne sanır:** “Her konuda işler.”\n**Kuram ne der:** Kuram tartışmalı ve duygusal ya da ahlaki yüklü konular içindir; toplumun hemfikir olduğu konularda sarmal beklenmez. [[cite:noelle-neumann-de-site]]\n\n**İnsanlar ne sanır:** “Susturan gerçek çoğunluktur.”\n**Kuram ne der:** Gerçek çoğunluk şart değildir. Yüksek sesle ve kararlı savunulan bir azınlık görüşü *çoğunluk gibi görünebilir.* [[cite:noelle-neumann-de-site]][[cite:polat-2016]]\n\n**İnsanlar ne sanır:** “Bu, devletin sansürünün başka adıdır.”\n**Kuram ne der:** Kuram *toplumsal* baskıyı anlatır: kaşları çatmak, sırt dönmek, alay etmek. [[cite:noelle-neumann-de-site]] Yasal yasaklar ve sansür başka bir mekanizmadır; ikisi birlikte de çalışabilir, ama karıştırılmamalıdır.\n\nDört yanlış okumanın ortak kaynağı, kuramı bir ‘ikna’ ya da ‘baskı’ kuramı sanmaktır. Oysa suskunluk sarmalı bir *görünürlük* kuramıdır: kimin kamusal alanda duyulduğunu ve bunun başkalarının algısını nasıl değiştirdiğini anlatır.",
+      "question": {
+        "id": "myth-silence-q",
+        "type": "tf",
+        "prompt": "Kurama göre görüşünün azınlıkta olduğunu düşünen kişi, kamu önünde susmakla birlikte mutlaka fikrini de değiştirir.",
+        "answer": false,
+        "explain": "Yanlış. Kuram kamuya açık davranışı, yani susmayı öngörür; fikrin içeride aynı kalması mümkündür ve kuram bunu dışlamaz. Bu ayrım kaybolunca ‘sarmal’, ‘ikna’ ile karışır."
+      }
+    },
+    {
+      "id": "concept-isolation",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Dışlanma korkusu, kamuoyu ve “sosyal deri”",
+      "body": "[[concept:fear-of-isolation|Dışlanma korkusu]] kuramın motorudur (Türkçe kaynaklarda “izolasyon korkusu” da geçer). Noelle-Neumann’a göre insan sosyal bir varlık olarak topluluğun gözünden düşmekten çekinir; topluluk da sapkın görülen kişiyi kaşlarını çatarak, sırt çevirerek dışlamakla tehdit eder. Bu tehdit ve korku çoğunlukla bilinçli düşünülmeden işler. [[cite:noelle-neumann-de-site]][[cite:polat-2016]]\n\nBuradan [[concept:public-opinion|kamuoyu]]’na özgün bir tanım çıkar. Tartışmalı konularda kamuoyu, kişinin kendini dışlanma riskine sokmadan açıkça söyleyebildiği görüşlerdir; yerleşmiş gelenek ve normlarda ise dışlanmak istemiyorsan açıkça benimsemek zorunda olduğun görüş ve davranışlardır. [[cite:polat-2016]][[cite:wilke-2010]] Yani kamuoyu bir oylama sonucu değil, bir toplumsal denetim aracıdır.\n\n1980 kitabının alt başlığı, kamuoyuna “sosyal derimiz” diyor: toplumla aramızdaki temas yüzeyi (İngilizce *social skin*; Almanca *soziale Haut*). [[cite:noelle-neumann-1980]][[cite:noelle-neumann-1984]] (Bu deyimin Türkçede yerleşik bir karşılığı yok; burada kendi çevirim.)\n\nFikir yeni değil: Noelle-Neumann, John Locke’un “kanaat yasası”nı ve Tocqueville’in, Fransız Devrimi öncesinde eski inanca tutunanların yalnız kalma korkusuyla çoğunluğa katıldığını anlatan sözlerini kuramın atası sayar. [[cite:griffin-2009]]\n\nSınavda “motor”, “itici güç” ya da “sarmalı harekete geçiren” gibi ifadeler görürsen cevap dışlanma korkusudur.",
+      "question": {
+        "id": "concept-isolation-q",
+        "type": "mcq",
+        "prompt": "Noelle-Neumann’ın tanımına en yakın “kamuoyu” tarifi hangisidir?",
+        "options": [
+          "Seçimde en çok oyu alan görüş.",
+          "Uzmanların akılcı tartışmasının vardığı sonuç.",
+          "Tartışmalı konularda kişinin dışlanmadan açıkça söyleyebildiği görüşler.",
+          "Gazetelerin manşetlere taşıdığı görüş."
+        ],
+        "answer": 2,
+        "explain": "Tanım, açıkça söylenebilenle dışlanmama arasındaki bağı kurar. Oy sonucu ve uzman tartışması kamuoyunun başka anlayışlarıdır (özellikle ikincisi, Noelle-Neumann’ın karşı çıktığı ‘akılcı tartışma’ anlayışıdır). Manşetler medyanın işidir; kuramda medya iklimi etkiler ama kamuoyunun tanımı değildir."
+      }
+    },
+    {
+      "id": "concept-climate",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Yarı istatistiksel algı ve fikir iklimi",
+      "body": "İnsan çoğunluğun ne düşündüğünü nereden bilir? Noelle-Neumann’ın cevabı cesur: bir tür *altıncı duyu*. Ona göre insanlar çevrelerindeki görüş dağılımını, anket yapmadan, neredeyse istatistikçi gibi sezer: [[concept:quasi-statistical-sense|yarı istatistiksel algı]] (İngilizce *quasi-statistical sense*; kitapta “organ” da der). [[cite:griffin-2009]] Bu algı özellikle *gidişatı* iyi yakalar: hangi görüş büyüyor, hangisi küçülüyor. Noelle-Neumann’a göre insanlar şimdiki durumu yanlış okusalar bile eğilimi genellikle doğru sezer. [[cite:griffin-2009]][[cite:polat-2016]]\n\nSezilen şeye [[concept:climate-of-opinion|fikir iklimi]] denir (kaynaklarda kanaat iklimi, düşünce iklimi, görüş iklimi de geçer). [[cite:polat-2016]][[cite:kutlu-2019]] Onu ölçmek için iki soru önerilir: [[cite:griffin-2009]]\n\n1. *Şimdiki iklim:* “Kendi görüşün ne olursa olsun, sence çoğu insan ne düşünüyor?”\n2. *Gelecek tahmini:* “Bir yıl sonra bu görüşü paylaşanlar artacak mı, azalacak mı?”\n\nİnsanlar çoğunlukla “bilmem ki” demez, cevap verir. 1965 bilmecesi de burada saklıydı: “kim kazanır?” sorusunun cevabı, oy niyetinden önce kıpırdadı. Polat’a göre iklimi öğrenmenin iki yolu var: çevrede doğrudan gözlem ve medyanın gözüyle dolaylı gözlem. [[cite:polat-2016]] İkinci yol, kuramın medya ayağını kurar.\n\nBu yüzden ‘iklim’ metaforu yerinde: hava durumu gibi kişisel bir tutum değil, herkesin aynı anda soluduğu ortak bir ortamdır ve bir günde değil, zamanla değişir.",
+      "question": {
+        "id": "concept-climate-q",
+        "type": "mcq",
+        "prompt": "“Kendi görüşün ne olursa olsun, sence çoğu insan bu konuda ne düşünüyor?” sorusu neyi ölçer?",
+        "options": [
+          "Kişinin kendi tutumunu.",
+          "Kişinin algıladığı fikir iklimini (şimdiki durum).",
+          "Kişinin konuşma isteğini.",
+          "Kişinin medya izleme süresini."
+        ],
+        "answer": 1,
+        "explain": "Soru bilerek kişinin kendi görüşünü değil, çevresine dair algısını sorar. Konuşma isteği ayrı bir ölçümdür (tren testi); tutum ise ayrı bir soruyla ölçülür. Kuram bu üç ölçünün birbirinden ayrı olduğunu, sarmalın da tam bu ayrımdan çıktığını söyler."
+      }
+    },
+    {
+      "id": "concept-speak-hardcore",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Konuşma isteği, sert çekirdek ve avangard",
+      "body": "Kuramın bağımlı değişkeni *konuşma isteği*: insan kamuya açık bir ortamda görüşünü söyler mi, söylemez mi? [[cite:scheufele-moy-2000]] Bunu nasıl ölçtüklerini (tren testi) “Kanıtlar” bölümünde göreceksin.\n\nAma herkes sarmala kapılmaz. Noelle-Neumann iki grubu istisna sayar. [[cite:griffin-2009]]\n\n- **[[concept:hard-core|Sert çekirdek]]** (*hard core*): kamuda zaten savunma pozisyonuna itilmiş, görüşü yüzünden dışlanmış, kaybedecek şeyi kalmamış kişiler. Susmazlar. Noelle-Neumann bu figüre Don Kişot’u örnek verir. Polat da sarmalda karşı tarafın “belli bir sert çekirdek dışında” suskunluğa düştüğünü yazar. [[cite:griffin-2009]][[cite:polat-2016]]\n- **Avangard:** kendilerini zamanlarının ilerisinde gören entelektüeller, sanatçılar, reformcular. Dışlanmayı göze alırlar, çünkü kamuoyunun onlara yetişeceğine inanırlar. [[cite:griffin-2009]]\n\nNoelle-Neumann’a göre kamuoyunu değiştirme şansı, dışlanmaktan korkmayan bu azınlıklarındır. Griffin, bu iki grubu kuramın öngörmediği, ama kuramın *ne zaman işlemediğini* gösteren sınır koşulları olarak yorumlar. [[cite:griffin-2009]]\n\nBir ayrım daha: kazanana katılma isteği (*bandwagon* etkisi) ile sarmal aynı şey değildir. Noelle-Neumann insanların kazanan tarafla özdeşleşme isteğini de ele alır ama sarmalın motorunu bunda değil, yalnız kalma korkusunda görür. [[cite:griffin-2009]] Bandwagon çoğunluğa *katılmayı*, sarmal ise azınlığın *susmasını* açıklar.",
+      "question": {
+        "id": "concept-speak-hardcore-q",
+        "type": "mcq",
+        "prompt": "Sert çekirdek kimdir?",
+        "options": [
+          "Çoğunluğun görüşünü en yüksek sesle savunanlar.",
+          "Fikrini gizleyip çoğunluğa uyum sağlayanlar.",
+          "Dışlanmayı göze alarak (ya da zaten dışlanmış olduğu için) görüşünü savunmaya devam eden azınlık.",
+          "Medyada yer alan uzmanlar."
+        ],
+        "answer": 2,
+        "explain": "Sert çekirdek, sarmalın istisnasıdır: susmayan azınlık. Çoğunluğu yüksek sesle savunanlar sarmalın *sonucu* olan görünür tarafı oluşturur; fikrini gizleyenler ise sarmala kapılanlardır. Uzman olmak ile sert çekirdek olmak arasında bir bağ yoktur."
+      }
+    },
+    {
+      "id": "five-assumptions",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Kuramın beş varsayımı",
+      "body": "Türkçe ders kitapları kuramı beş varsayım üzerinden anlatır ve sınavda çoğu zaman bunlar sorulur. Hem Polat hem Yaylagül aynı beşliği verir; Özer ve Yıldıran Önk de aynısını Noelle-Neumann’ın Türkçeye çevrilen kitabına atıfla aktarır. [[cite:polat-2016]][[cite:yaylagul-2006]][[cite:ozer-yildiran-onk-2021]] Kendi cümlelerimle:\n\n1. **Tehdit:** Toplum, sapkın (çoğunluktan ayrılan) bireyi dışlamakla tehdit eder.\n2. **Korku:** Bireyler bu dışlanma korkusunu sürekli duyar.\n3. **Yoklama:** Bu korku yüzünden birey her an fikir iklimini değerlendirmeye çalışır.\n4. **Davranış:** Bu değerlendirmenin sonucu kamu önündeki davranışı, özellikle görüşünü açıkça söylemesini ya da saklamasını etkiler.\n5. **Birleşim:** Dört varsayım birlikte kamuoyunun oluşumunu, sürdürülmesini ve değişmesini açıklar.\n\nBu listede iki ipucu var. Birincisi: kuramın bir *zihinsel* zinciri (korku → yoklama → karar) ve bir *toplumsal* sonucu (kamuoyu) var. İkincisi: medya beşliğin içinde yer almaz; medya, fikir iklimini öğrenme kaynağı olarak (doğrudan gözlemin yanında ikinci kaynak) ayrıca devreye girer. [[cite:polat-2016]]\n\nSayfa numaraları ve yıllar kitaplara göre değişse de beşli aynıdır; sınavda bunlardan birini değiştirip “hangisi varsayım değildir?” diye sorabilirler.",
+      "question": {
+        "id": "five-assumptions-q",
+        "type": "mcq",
+        "prompt": "Aşağıdakilerden hangisi kuramın temel varsayımlarından biri DEĞİLDİR?",
+        "options": [
+          "Toplum, sapkın bireyi dışlamakla tehdit eder.",
+          "Bireyler dışlanma korkusunu sürekli duyar.",
+          "Medya çoğunluğun görüşünü her zaman doğru yansıtır.",
+          "Birey, fikir iklimini değerlendirmeye çalışır."
+        ],
+        "answer": 2,
+        "explain": "Üçüncü seçenek beşlikte yoktur; üstelik kuramın ruhuna da aykırıdır, çünkü kuram medyanın fikir iklimini çarpıtabildiğini ve bu yüzden azınlığı çoğunluk gibi gösterebildiğini varsayar. Diğer üçü beş varsayımın sırasıyla 1., 2. ve 3.’sü."
+      }
+    },
+    {
+      "id": "asch-thread",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "story",
+      "title": "Arka planda Asch: çizgiler ve uyum baskısı",
+      "body": "Korkunun gerçekten insanı sarstığını göstermek için Noelle-Neumann psikolojiye baktı ve sık sık [[person:asch|Solomon Asch]]’in çizgi deneylerine başvurdu. [[cite:griffin-2009]]\n\nAsch’in yaptığı: bir denek, sanki sıradan bir görsel karşılaştırma deneyine katılıyor. Odadaki herkes (aslında deneyi bilen yardımcılar) sırayla ve sesli olarak, bir çizginin hangi çizgiyle aynı uzunlukta olduğunu söylüyor, ama kritik denemelerde hepsi birden açıkça yanlış cevapta birleşiyor. Deneğin sırası geliyor. [[cite:asch-1956]] Cevapların yaklaşık üçte biri çoğunluğun yanlışına kaydı. [[cite:asch-1956]]\n\nNoelle-Neumann bunu şöyle okur: insanlar gözleriyle gördükleri açık bir olguya karşı bile grubun karşısında yalnız kalmakta zorlanır; demek ki dışlanma korkusu gerçek ve güçlü bir şeydir. Griffin, onun Milgram’ın Fransa–Norveç karşılaştırmasını da bu eğilimin tek bir kültüre özgü olmadığını göstermek için kullandığını aktarır. [[cite:griffin-2009]]\n\nBağlantı yararlı ama sınırlı. Griffin’in eleştirisi: Asch’in deneyinde denek yanında tek bir gerçek destekçi bulunca direnebiliyordu. [[cite:griffin-2009]] Asch’in kendisi de uyumun yanında bağımsızlığı vurgulamıştı: kritik denemelerdeki cevapların çoğu bağımsız kaldı. [[cite:asch-1956]] Yani Asch “insanlar sürüdür” demedi; Noelle-Neumann da her konuda çoğunluğa uyum öngörmez. Sayısal ayrıntılar aşağıdaki derin kartta.",
+      "question": {
+        "id": "asch-thread-q",
+        "type": "mcq",
+        "prompt": "Noelle-Neumann, Asch’in çizgi deneylerini kuramında en çok ne için kullandı?",
+        "options": [
+          "Medyanın izleyiciyi doğrudan etkilediğini kanıtlamak için.",
+          "İnsanların grup karşısında yalnız kalmaktan rahatsız olduğunu, yani dışlanma korkusunun gerçekliğini desteklemek için.",
+          "Konuşma isteğini ölçen tren testini geliştirmek için.",
+          "Hard core (sert çekirdek) grubunun ne kadar büyük olduğunu göstermek için."
+        ],
+        "answer": 1,
+        "explain": "Griffin’in aktardığı gibi Asch, dışlanma korkusunun psikolojik dayanaklarından biri olarak kullanılır. Deney medya etkisiyle ya da tren testiyle doğrudan ilgili değildir; ayrıca Asch’te de cevapların çoğu bağımsız kaldığı için sert çekirdeğin büyüklüğünü ölçmenin aracı da değildir."
+      }
+    },
+    {
+      "id": "deep-asch",
+      "section": "assumptions",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Asch’in 1956 monografisinde neler var?",
+      "body": "Asch’in “Studies of independence and conformity” monografisini açtığında popüler anlatımlardan biraz farklı bir tablo çıkar. [[cite:asch-1956]] Kartta kullanılan sayılar:\n\n- **Örneklem:** Toplam 123 denek (erkek üniversite öğrencileri), üç farklı kurumdan. Ana deneyde 7–9 kişilik, oybirliğiyle hareket eden yardımcı çoğunluk ve bir “saf” denek.\n- **Görev:** Bir standart çizgiyi üç karşılaştırma çizgisinden biriyle eşleştirmek. Toplam 18 deneme, bunların 12’sinde çoğunluk kasıtlı olarak yanlış cevap verdi (kritik denemeler). Cevaplar sırayla, sesli verildi.\n- **Sonuç:** Kritik denemelerdeki tahminlerin yaklaşık üçte biri çoğunluğun yönüne kaydı (deneysel grupların ortalaması yüzde 36,8). Kontrol grubunda, yani çoğunluk baskısı olmayan durumda, hata yüzde 1’in altındaydı.\n- **Bireysel fark:** 123 denekten 94’ü en az bir kez çoğunluğa uydu, 29’u hiç uymadı.\n\nAsch’in yorumu da önemlidir. Ona göre etkinin büyüklüğüne rağmen tahminlerin çoğunluğu bağımsız kalmıştı; ayrıca uyanlar da farklı gerekçelerle uyuyordu (kendi algısına güvensizlik, farklı görünme kaygısı vb.). Birçok mülakatta denekler “grubun dışında kaldığımı hissettim” türü şeyler söyledi. Bu yüzden Asch’i “insanlar sürü gibidir” diye özetlemek, onu yanlış okumaktır.\n\nNoelle-Neumann açısından bu deneyin kıymeti sayı değil, *tanık*tır: laboratuvarda bile birkaç yabancının oybirliği insanı kendi gözüne şüpheyle bakmaya itebiliyor."
+    },
+    {
+      "id": "conditions",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "text",
+      "title": "Sarmal her konuda dönmez",
+      "body": "Kuram bir “her şey kuramı” değil. Sarmalın çalışması için koşullar var:\n\n- **Tartışmalı ve duygusal ya da ahlaki yüklü konu.** Herkesin hemfikir olduğu bir konuda azınlık görüşü yoktur; sarmal başlamaz. [[cite:noelle-neumann-de-site]]\n- **Zaman.** Sarmal bir *süreçtir*: “şu an” kadar “gidişat” da önemlidir. Bir Türkçe derleme, Noelle-Neumann’ın sarmalın oluşumunda üç şeyi öne çıkardığını aktarır: konunun ahlaki içeriği, zaman ve medyanın rolü. [[cite:kehya-2018]]\n- **Medyanın tutumu.** Griffin’in aktardığına göre Noelle-Neumann, medyanın çizgisine ters giden bir sarmal hiç görmediğini söyler: medya destek vermeyen görüşü konuşmak zordur. [[cite:griffin-2009]]\n- **Kültür ve topluluk.** Scheufele ve Moy, farklı kültürlerde yapılan çalışmaların kültüre özgü değişkenleri hesaba katmadığını belirtir. [[cite:scheufele-moy-2000]] Eleştirmenler ayrıca ülkenin genel ikliminden çok yakın çevrenin (aile, arkadaş) iklimini vurgular; bunu “Eleştiriler” bölümünde göreceksin.\n\nBir de zihin işi: kuram, korku ve tehdidin çoğunlukla *bilinçsiz* işlediğini söyler. İnsanlar “ben çoğunluğa göre davranıyorum” diye düşünmez. [[cite:noelle-neumann-de-site]] Bu, kuramı ölçmeyi zorlaştıran nedenlerden biridir.\n\nÖzetle kuram hem ‘neden’ hem ‘ne zaman’ sorusunu sorar. Koşulları bilmeyen biri kuramı her yere yapıştırır; bu da sınavda ve makalede sık yapılan bir hatadır.",
+      "question": {
+        "id": "conditions-q",
+        "type": "tf",
+        "prompt": "Toplumun bir konuda tam olarak hemfikir olduğu durumda suskunluk sarmalının güçlü biçimde işlemesi beklenir.",
+        "answer": false,
+        "explain": "Yanlış. Sarmal, tartışmalı konularda ve karşıt görüşler olduğunda başlar; tam mutabakatta susturulacak bir azınlık görüşü ortada yoktur. Doğru cevap ‘kuram her konuda geçerli sayılmaz’ ilkesinden çıkar."
+      }
+    },
+    {
+      "id": "spiral-steps",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Sarmal adım adım",
+      "body": "Yukarıdaki parçaları tek bir akışta birleştirelim:\n\n1. Bir konu kamuoyunda tartışmalı hâle gelir; duygusal ya da ahlaki bir yük taşır.\n2. Herkes yarı istatistiksel algısıyla ve medyaya bakarak iklimi yoklar: hangi görüş yükseliyor, hangisi alçalıyor?\n3. Görüşünün yükseldiğini düşünenler cesaret bulur; alçaldığını düşünenler çekinir.\n4. Bir taraf açıkça konuşur (rozet takar, tartışır, paylaşır), öbür taraf susar. Aradaki *görünürlük farkı* doğar.\n5. Bu fark yeni bir iklim sinyalidir: konuşan kamp gerçek gücünden büyük, susan kamp küçük görünür. Polat’ın anlatımıyla susan kamp daha da geriye düşer, konuşan kamp yeni taraftarlar kazanır. [[cite:polat-2016]]\n6. Yeni sinyal 2. adıma döner. Her tur bir öncekinden daha güçlü ve daha hızlıdır: sarmal.\n7. Sonuç: bir görüş “yerleşik” hâle gelir, öbürü kamusal alandan silinmeye yaklaşır. Ta ki sert çekirdek, avangard ya da değişen bir medya ortamı akışı bozana dek. [[cite:griffin-2009]]\n\nAnahtar nokta: sarmal *sayıları* değil, *görünürlüğü* döndürür. Bir görüşün gerçek taraftar sayısı hiç azalmadan bile kamusal alandaki görünürlüğü çökebilir.",
+      "question": {
+        "id": "spiral-steps-q",
+        "type": "tf",
+        "prompt": "Sarmalın ilerlemesi için, susan tarafın gerçek taraftar sayısının da azalmış olması gerekir.",
+        "answer": false,
+        "explain": "Yanlış. Sarmalı döndüren şey görünürlük farkıdır: susan taraf sayıca aynı kalsa da kamusal alanda küçük görünür ve bu görünüm yeni susmalar doğurur. Sayının azalması sarmalın bir sonucu olabilir, ön koşulu değil."
+      }
+    },
+    {
+      "id": "media",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "text",
+      "title": "Medya: iklimin ikinci gözü",
+      "body": "Noelle-Neumann’ı bir *medya kuramcısı* yapan soru şu: iklimi nereden öğreniyoruz? İki kaynak var: kendi çevrende doğrudan gözlem ve medyanın gözüyle dolaylı gözlem. [[cite:polat-2016]] Çoğu kamusal konuda ikinci kaynak baskındır, çünkü kişisel çevren ülkeyi temsil etmez.\n\nWilke’nin verdiği ölçütlerle medyanın gücü üç şeyden gelir: *birikim* (*cumulation*, aynı mesajın sürekli tekrarı), *uyum* (*consonance*, farklı medyaların benzer çerçevede haber vermesi) ve kamuoyu iklimi etkisi. [[cite:wilke-2010]] Bu, seçici algıyı zorlaştırır: [[lesson:selective-processes]] dersinde gördüğün “insan yalnızca kendine uygun mesajı seçer” fikrini zayıflatır. Bazı anlatımlarda üçüncü öğe *ubiquity* (her yerdelik) diye geçer. [[cite:griffin-2009]]\n\nGriffin’in aktardığına göre Noelle-Neumann medyanın çizgisine ters giden bir sarmal görmediğini söyler. Yaylagül ise şöyle özetler: çoğunluk görüşü güçlü medyanın desteğini alırsa daha güçlüdür; medya azınlığın yanında yer alırsa çoğunluk kampı sessiz çoğunluğa dönüşür. [[cite:griffin-2009]][[cite:yaylagul-2006]]\n\n[[lesson:agenda-setting|Gündem belirleme]] ile farkı ([[person:mccombs|McCombs]] ve [[person:shaw|Shaw]] çizgisi) şöyle özetleyebilirsin: gündem belirleme, medyanın *neyi düşüneceğimizi*, yani hangi konunun önemli olduğunu etkilediğini söyler. Suskunluk sarmalı ise medyanın *hangi görüşün konuşulabilir göründüğünü* etkilediğini söyler. Polat bu yüzden sarmalı gündem belirlemenin “negatif ayna görüntüsü” diye tanıtır. [[cite:polat-2016]]",
+      "question": {
+        "id": "media-q",
+        "type": "mcq",
+        "prompt": "Bir haber kanalı yıllardır bir tartışmada hep aynı görüşü vurguluyor. Kurama göre bu en çok neyi değiştirir?",
+        "options": [
+          "İzleyicilerin kişisel tutumlarını tek tek, zorla değiştirir.",
+          "Hangi görüşün yaygın ve yerleşik olarak algılandığını, yani fikir iklimini; dolayısıyla açıkça konuşma isteğini etkiler.",
+          "Yalnızca hangi konunun önemli olduğunu belirler.",
+          "Hiçbir şeyi değiştirmez, çünkü herkes seçici davranır."
+        ],
+        "answer": 1,
+        "explain": "Kuramın medya iddiası iklim algısı üzerinedir. “Yalnızca önem sırası” cevabı [[lesson:agenda-setting|gündem belirleme]]’yi anlatır, ama sarmal bir adım öteye gidip *hangi görüşün konuşulabilir* göründüğünü iddia eder. Son seçenek ise Noelle-Neumann’ın tam olarak itiraz ettiği ‘seçici algı her şeyi nötrler’ görüşüdür."
+      }
+    },
+    {
+      "id": "lab-group-chat",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Hayal et: sınıf grubunda görünürlük oyunu",
+      "body": "**Bu bir düşünce deneyidir; gerçek bir araştırma ya da gerçek bir grup değil.**\n\nSınıfın 10 kişilik mesajlaşma grubunda tartışmalı bir kampüs konusu açılıyor. Gerçekte grup tam ikiye bölünmüş: 5 kişi A görüşünde, 5 kişi B görüşünde. Kimse başkalarının görüşünü bilmiyor.\n\n**1. tur.** A tarafından 4 kişi yazıyor, B tarafından yalnızca 1 kişi. Ekranda 5 mesaj var, 4’ü A’dan. Sessiz kalan 4 B’li şunu düşünüyor: “Herkes A’cı, ben azınlıktayım.”\n\n**2. tur.** Bu kez B tarafından kimse yazmıyor, A tarafından 3 kişi yazıyor. Şimdi A’dakiler “B diye biri yok” diye düşünüyor. B’dekiler ise “Bu konuda yalnızım” diye.\n\n**3. tur.** Konu birkaç gün sonra tekrar açıldığında B’den biri yazmayı düşünüyor ama grubun tonu bir öncekinden bile yüksek. Yazmıyor.\n\nSonunda grup A’nın “herkesin fikri” olduğuna inanıyor. Oysa **kimse fikrini değiştirmedi**. Gerçek dağılım hâlâ 5’e 5. Değişen tek şey *görünürlük* ve buna bağlı *algı*.\n\nSen olsan hangi adımda bu döngüyü kırardın? Sert çekirdek gibi davranan bir B’li mi, yoksa zaman içinde iklimi değiştirebilecek başka bir şey mi?",
+      "question": {
+        "id": "lab-group-chat-q",
+        "type": "mcq",
+        "prompt": "Bu düşünce deneyinde aşağıdakilerden hangisi GERÇEKLEŞMEMİŞTİR?",
+        "options": [
+          "A tarafının kamusal alanda daha görünür olması.",
+          "B tarafındakilerin çoğunun susması.",
+          "B tarafındakilerin gerçekten fikir değiştirmesi.",
+          "Grubun B’nin gerçek boyutunu yanlış algılaması."
+        ],
+        "answer": 2,
+        "explain": "Deneyin püf noktası tam olarak budur: görünürlük ve algı değişti, fikirler değişmedi. Diğer üç şey sarmalın işleyişinin ta kendisidir. Kuramdaki “susmak” ile “fikir değiştirmek” ayrımı bu yüzden önemlidir."
+      }
+    },
+    {
+      "id": "evidence-1972",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "story",
+      "title": "1972: aynı bilmece, ters yönde",
+      "body": "Film yedi yıl sonra tersten oynadı. 1972 seçimine giderken SPD ile CDU/CSU yine kafa kafayaydı, ama bu kez insanlar giderek SPD’nin kazanacağını düşünüyordu; üstelik bu beklentinin altında partilerin gerçek gücünde bir değişiklik yoktu. [[cite:petersen-2019]]\n\nSonra Allensbach’ın ek soruları geldi. Petersen’in anlattığına göre bu sorular, CDU/CSU’lu seçmenlerin sayıca SPD’lilerle eşit olmalarına rağmen kamuoyunda neredeyse görünmez olduğunu gösterdi: SPD’liler rozet takıyor, arabalarına çıkartma yapıştırıyor, tartışmalarda görüşlerini açıkça savunuyordu; CDU/CSU’lular ise sessizdi. [[cite:petersen-2019]]\n\n1965 ile 1972’yi yan yana koyunca çarpıcı bir simetri çıkar: iki seçimde de *kim kazanacak* beklentisi *kim hangi partiyi tutuyor* ölçüsünün önüne geçti. Wilke, Noelle-Neumann’ın ve öğrencilerinin güçlü medya etkisine dair kanıtlarını özellikle 1965 ve 1969’da, ama daha çok 1972 ve 1976 televizyon seçim kampanyalarında bulduğunu yazar. [[cite:wilke-2010]] 1976 için ise Noelle-Neumann’ın o dönemki tezinin, medyanın etkilediği kamuoyu iklimi nedeniyle bir kısım seçmenin SPD–FDP koalisyonuna uyum sağladığı yönünde olduğu ve büyük siyasi tartışma çıkardığı aktarılır. [[cite:fuchs-gerhards-neidhardt-1991]]\n\nBir uyarı: bu anlatımlar Allensbach’tan ya da onun yakın çevresinden geliyor. Bağımsız araştırmacıların sınamalarını “Eleştiriler” bölümünde göreceksin.",
+      "question": {
+        "id": "evidence-1972-q",
+        "type": "mcq",
+        "prompt": "Petersen’in anlatımına göre 1972’de kuramın öngördüğü “görünürlük farkı” nasıl gözlendi?",
+        "options": [
+          "CDU/CSU’lular daha çok rozet takıp çıkartma yapıştırdı.",
+          "SPD’liler rozet, çıkartma ve tartışmalarda görünürdü; sayıca eşit olan CDU/CSU’lular kamuoyunda neredeyse görünmezdi.",
+          "Her iki taraf da eşit derecede görünürdü.",
+          "SPD’liler sessizdi, CDU/CSU’lular yüksek sesliydi."
+        ],
+        "answer": 1,
+        "explain": "1972’de beklenti SPD yönündeydi ve görünürlük de SPD’den yanaydı. İlk seçenek 1965’in havasına (CDU/CSU’nun kazanacağı beklentisine) daha yakındır; 1972 onun ‘tersi’dir. Kuramın gücü, iki seçimde de aynı mekanizmanın ters yönlerde çalışabildiğini göstermesidir."
+      }
+    },
+    {
+      "id": "deep-1965-versions",
+      "section": "evidence",
+      "layer": "deep",
+      "kind": "text",
+      "title": "1965 hikâyesi kaynaktan kaynağa değişir",
+      "body": "Kuramın “doğum hikâyesi” ders kitaplarında çeşitli biçimlerde anlatılır; sınavda ve makale yazarken bunların farkında olmak iyi gelir.\n\n- **Polat (AUZEF):** Aralık 1964’ten Ağustos 1965’e, dokuz ay boyunca oy niyetleri hiç kıpırdamadı; CDU/CSU’nun kazanacağı beklentisi sonraki aylarda hızla arttı; sonra bir “son dakika hamlesi” oldu. Metin, televizyonun destek dalgası olasılığından da söz eder. [[cite:polat-2016]]\n- **Özer ve Yıldıran Önk:** Altı aylık aralıklarla iki partinin oy desteğinin izlendiğini, başlarda başa baş giden yarışın son iki haftada büyük farkla bittiğini aktarır. [[cite:ozer-yildiran-onk-2021]]\n- **Petersen (Allensbach):** CDU/CSU ile SPD’nin aylarca eşit olduğunu ve halkın CDU/CSU’nun kazanacağına giderek inandığını anlatır; ardından 1972’de tersini ekler. [[cite:petersen-2019]]\n- **Griffin (İngilizce ders kitabı):** Bölümü 1965 yerine 1980 ABD seçimiyle (Carter–Reagan) açar. [[cite:griffin-2009]]\n\nBir tarihsel ayrıntı: Noelle-Neumann’ın kuramı yalnızca 1965’ten çıkmadı. Wilke, güçlü medya etkisine dair gözlemlerin 1965 ve 1969’da, ama daha çok 1972 ve 1976’da bulunduğunu yazar; ve 1972’deki Tokyo konuşmasında henüz “suskunluk hipotezi” (*Schweigehypothese*) adının kullanıldığını yazar. [[cite:wilke-2010]] Yani “kuram 1965 seçiminde doğdu” tek cümlelik bir kestirmedir: gözlem 1965’te başladı, kuram sonraki on yıl içinde biçimlendi.\n\nSonuç: sınavda 1965 Almanya seçimini yaz; ama kuramın uzun bir olgunlaşma sürecinden geçtiğini bil."
+    },
+    {
+      "id": "evidence-train",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Tren testi: yabancıyla uzun bir yolculuk",
+      "body": "Konuşma isteğini nasıl ölçersin? Noelle-Neumann bir senaryo geliştirdi: *tren testi* (Almanca *Eisenbahntest*).\n\nGriffin’in aktardığı sürümde senaryo şöyle: önünde beş saatlik bir tren ya da uçak yolculuğu var ve yanındaki kişi kürtaj gibi tartışmalı bir konu hakkında konuşmaya başlıyor. Onunla konuşmak ister misin, yoksa konuşmasan mı tercih edersin? [[cite:griffin-2009]] Almanya’da Wissenschaftszentrum Berlin’in (WZB) 1989’da uyguladığı sürüm biraz farklı: kompartımanda dört yolcu daha var, siyaset konuşuluyor ve biri belirli bir görüşü savunuyor; “kendi görüşünü söyleme ihtimalin nedir?” [[cite:fuchs-gerhards-neidhardt-1991]]\n\nMantık aynı: önce kişinin kendi görüşü ve “çoğunluk ne düşünüyor” algısı ölçülür, sonra hayali durumda konuşma isteği sorulur. Kuram doğruysa çoğunlukta olduğunu sananlar daha isteklidir. Griffin’in özetinde başka örüntüler de var: geleceğe dair tahmin şimdiki iklimi geçebilir, insanlar kendileriyle aynı düşünenle konuşmayı tercih eder, özgüveni düşük olanlar susar. [[cite:griffin-2009]]\n\nGüçlü yanı: ucuz, hızlı, geniş örneklemlere uygulanabilir. Zayıf yanı: durum hayalidir; kişinin gerçekte ne yapacağını değil, ne yapacağını *söylediğini* ölçer. Ve dışlanma korkusunu doğrudan ölçmez; onu varsayar. Bunları eleştiriler bölümünde tartışacağız.",
+      "question": {
+        "id": "evidence-train-q",
+        "type": "mcq",
+        "prompt": "Tren testi tam olarak neyi ölçer?",
+        "options": [
+          "Kişinin gerçek bir tren yolculuğunda gerçekten ne yaptığını.",
+          "Kişinin hayali bir durumda görüşünü söylemeye ne kadar istekli olduğunu beyan etmesini.",
+          "Kişinin dışlanma korkusunun şiddetini doğrudan.",
+          "Kişinin medyaya ne kadar maruz kaldığını."
+        ],
+        "answer": 1,
+        "explain": "Tren testi hayali bir senaryoya verilen beyanı ölçer: gerçek davranış değil, konuşma isteği. Dışlanma korkusu bu testle doğrudan ölçülmez, kuramdan çıkarılır; kuramın eleştirilen noktalarından biri de tam budur."
+      }
+    },
+    {
+      "id": "deep-wzb",
+      "section": "evidence",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Almanya’da tren testi: 1989 WZB sınaması",
+      "body": "Kuramı Almanya’da bağımsız araştırmacılar da sınadı. Fuchs, Gerhards ve Neidhardt, Berlin’deki WZB’de, 1989’da temsilî bir nüfus anketine bir dizi tren testi sorusu koydu. [[cite:fuchs-gerhards-neidhardt-1991]]\n\n- **Konu:** Federal hükümetin gelişmekte olan ülkelerden gelen tüm sığınmacıları derhâl ülkelerine geri göndermesi.\n- **Görüşler:** Katılımcıların yüzde 34,2’si geri gönderme yanlısı, yüzde 43,2’si karşıydı, yüzde 22,6’sı kararsızdı.\n- **Konuşma isteği:** Yüzde 42,8 kompartımandaki sohbete kendi görüşüyle katılacağını söyledi; yüzde 41,4 susacağını söyledi; kalanlar kararsızdı.\n- **Sınanan hipotez:** Kendini çoğunlukta sananlar, kendini azınlıkta sananlardan daha konuşkan olmalı.\n\n**Bulgu:** Bu tasarımda hipotez desteklenmedi: kendini azınlıkta hissedenler, çoğunlukta hissedenler kadar konuşmaya isteklidir. Yazarlar bunu Noelle-Neumann’ın kuramının o hâliyle tutmadığı biçiminde yorumladı.\n\nAma yazarlar sonucu tek başına kesin saymadı; tren kompartımanı ‘atipik derecede küçük’ ve ‘sosyal olarak zararsız’ bir kamusallık; insanlar bir süre sonra ayrılıp bir daha karşılaşmayacak. Dışlanma korkusu bu tür bağlayıcılığı olmayan ortamlarda belki zayıftır. Yani sonuç kuramın yanlışlığına da, testin kamusallığı iyi temsil etmemesine de bağlanabilir. Bu bir dergi makalesi değil, bir araştırma kurumunun kısa raporudur; sonuçlarını buna göre tart."
+    },
+    {
+      "id": "critique-measurement",
+      "section": "critique",
+      "layer": "core",
+      "kind": "text",
+      "title": "Üç sağlam eleştiri",
+      "body": "Kuram ünlü olduğu kadar çok sınandı. Griffin eleştirileri özetler; Scheufele ve Moy ise çeyrek yüzyıllık literatürü geniş bir kavramsal değerlendirmeyle gözden geçirir. [[cite:griffin-2009]][[cite:scheufele-moy-2000]] Üç ana başlık:\n\n1. **Korku ölçülmedi, varsayıldı.** Çalışmalar sessiz kalanların gerçekten daha çok dışlanma korkusu taşıyıp taşımadığına çoğunlukla bakmadı; susmak çekingenlik, ilgisizlik ya da karşısındakini kırmama isteğinden de doğabilir. Asch üzerinden kurulan bağ da sınırlıdır: Asch’te tek bir destekçi direnmeyi kolaylaştırıyordu. [[cite:griffin-2009]]\n2. **Tren testi hayalî.** Gerçek konuşmayı değil, beyan edilen istekliliği ölçer. Glynn, Hayes ve Shanahan’ın 17 çalışmayı derleyen meta-analizi algılanan destek ile konuşma isteği arasında çok küçük ama anlamlı bir ilişki buldu ve ileride hayali değil gerçek konuşma isteğine odaklanılmasını önerdi. [[cite:glynn-hayes-shanahan-1997]][[cite:griffin-2009]]\n3. **Ulusal iklim mi, yakın çevre mi?** Noelle-Neumann’ın kamuoyu, anonim genel kamuoyudur. Eleştirmenler ise aile ve arkadaş gibi referans gruplarının etkisinin daha güçlü olabileceğini savunur. [[cite:griffin-2009]]\n\nScheufele ve Moy ayrıca kavramların çalışmadan çalışmaya farklı tanımlandığını, ölçümlerin tutarsız olduğunu ve farklı kültürlerde yapılan çalışmaların kültüre özgü değişkenleri dışarıda bıraktığını söyler. “Konuşma”nın gerçekten *konuşma* olarak ölçülmesini ve daha makroskopik bir bakışa dönülmesini önerirler. [[cite:scheufele-moy-2000]]\n\nSavunanların cevabı: kuramın kendisi bir *süreç* kuramıdır; tek zamanlı, bireysel anketlerle onu tam sınamak zaten zordur. Ve nitekim daha iyi tasarımlar denendi (bir sonraki kart).",
+      "question": {
+        "id": "critique-measurement-q",
+        "type": "mcq",
+        "prompt": "Tren testine yönelik en temel eleştiri hangisidir?",
+        "options": [
+          "Çok pahalı olduğu.",
+          "Gerçek davranışı değil, hayali bir durumda beyan edilen istekliliği ölçtüğü.",
+          "Yalnızca gençlere uygulanabildiği.",
+          "Medya etkisini hiç hesaba katmadığı."
+        ],
+        "answer": 1,
+        "explain": "Eleştiri, beyan ile davranış arasındaki farka yöneliktir; bu yüzden Glynn ve arkadaşları gelecekte gerçek konuşma isteğinin gözlenmesini öneriyor. Maliyet ve yaş sınırı gibi seçenekler ne Griffin’de ne de Scheufele–Moy’da eleştiri olarak yer alır."
+      }
+    },
+    {
+      "id": "critique-verdict",
+      "section": "critique",
+      "layer": "core",
+      "kind": "myth",
+      "title": "“Kanıtlandı” mı, “çürütüldü” mü?",
+      "body": "**İnsanlar ne sanır:** “Kuram kanıtlanmış bir yasadır.” Ya da tam tersi: “Kuram çürütüldü.”\n\n**Kanıtlar ne diyor:** İkisi de değil.\n\n- **17 çalışmalı meta-analiz (1997):** Algılanan destek ile konuşma isteği arasındaki ilişki çok küçük (Griffin’in aktardığı ortalama yaklaşık .05), ama sıfır değil. [[cite:glynn-hayes-shanahan-1997]][[cite:griffin-2009]][[cite:thurre-gale-staerkle-2019]]\n- **Sonraki meta-analiz (Matthes ve arkadaşları, 2018):** 66 çalışma, 27 binden fazla katılımcı; ilişki yaklaşık r = .10; çevrimiçi ortamda çevrimdışından daha zayıf değil. [[cite:matthes-knoll-vonsikorski-2018]][[cite:thurre-gale-staerkle-2019]]\n- **Daha iyi tasarımlar:** Scheufele, Shanahan ve Lee (2001) hayali soru yerine katılımcıları gerçek bir odak grup tartışmasına davet etti (biyoteknoloji konusunda). Griffin’in aktardığına göre algılanan kamuoyu konuşma isteğini, öncekilere göre daha iyi öngördü. [[cite:scheufele-shanahan-lee-2001]][[cite:griffin-2009]]\n\nBir çerçeve daha: bu derlemelerdeki çalışmaların hepsi bireysel (mikro) düzeydeydi. Sarmalın *zaman içindeki toplumsal döngüsünü* izleyen çalışmalar çok azdı. [[cite:thurre-gale-staerkle-2019]]\n\n**Dürüst özet (benim yorumum):** Kuram, “çoğunluk algısı konuşmayı etkiler” eğilimi için küçük ama tutarlı destek buldu; buna karşılık kuramın özgün mekanizması (dışlanma korkusu ve zaman içindeki sarmal) hâlâ sınırlı sınandı. Bu yüzden akademik dilde “kısmen desteklenen, koşullu bir kuram” demek doğru olur.",
+      "question": {
+        "id": "critique-verdict-q",
+        "type": "mcq",
+        "prompt": "Meta-analizlerin genel tablosunu en iyi özetleyen ifade hangisidir?",
+        "options": [
+          "Kuram kesin biçimde çürütüldü; algılanan destek ile konuşma isteği arasında hiçbir ilişki yok.",
+          "Kuram tam olarak kanıtlandı; ilişki çok güçlü.",
+          "İlişki küçük ama sıfır değil ve birçok çalışmada tutarlı; mekanizma (özellikle korku ve zaman içindeki döngü) ise hâlâ yeterince sınanmadı.",
+          "Meta-analizler yalnızca çevrimiçi ortamda ilişki buldu."
+        ],
+        "answer": 2,
+        "explain": "Hem 1997 hem 2018 meta-analizinde ilişki küçük ama anlamlı çıkıyor; çevrimiçi ortamda da daha zayıf değil. ‘Çürütüldü’ ve ‘kanıtlandı’ cevapları bu ortayı gözden kaçırır. Son seçenek ise Matthes ve arkadaşlarının bulgusuyla çelişir."
+      }
+    },
+    {
+      "id": "deep-meta",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Meta-analizler ve daha iyi ölçüm: ayrıntılar",
+      "body": "**Glynn, Hayes ve Shanahan (1997).** *Public Opinion Quarterly*’de yayımlanan meta-analiz, suskunluk sarmalı anket çalışmalarını derledi. Griffin’in özetine göre 17 çalışma, ortalama korelasyon yaklaşık .05; Thurre ve arkadaşları da aynı analizin 17 çalışmayı kapsadığını ve “küçük ama anlamlı” etkiler bulduğunu aktarır. [[cite:glynn-hayes-shanahan-1997]][[cite:griffin-2009]][[cite:thurre-gale-staerkle-2019]] Makalenin özeti, ilişkinin çok küçük ama istatistiksel olarak anlamlı olduğunu, denenen bazı düzenleyici değişkenlerin (hayali ya da gerçek konuşma isteği, referans grubu, konu türü) ilişkiyi anlamlı biçimde açıklamadığını ve araştırmacıların henüz keşfedilmemiş bir düzenleyici değişken bulunabileceğini belirtir.\n\n**Matthes, Knoll ve von Sikorski (2018).** Daha geniş bir derleme: 66 çalışma, 27 binden fazla katılımcı; ilişki yaklaşık r = .10. Çevrimiçi ortamda ilişki çevrimdışından zayıf değil; hedef kişi sayısı, hedefin görüşü ve tasarım özellikleri ilişkiyi belirgin biçimde değiştirmiyor. [[cite:matthes-knoll-vonsikorski-2018]] Thurre ve arkadaşları da aynı bulguyu (r = .10) ve derlenen çalışmaların hepsinin mikro düzeyde olduğunu vurgular. [[cite:thurre-gale-staerkle-2019]]\n\n**Scheufele, Shanahan ve Lee (2001), “Real Talk”.** Hayali tren testi yerine gerçek bir davranış isteği: katılımcılara biyoteknoloji üzerine bir odak grup tartışmasına katılmaları önerildi. Aynı araştırma ekibi dışlanma korkusunu varsayılan değil ölçülen bir değişken olarak ele aldı ve katılımcıların yakın çevresiyle daha önce yaptığı konuşmaları da sordu. Griffin’in aktardığına göre bu üç düzeltmeyle algılanan kamuoyu konuşma isteğini, 17 çalışmalık derlemedeki çalışmalara kıyasla daha iyi öngördü. [[cite:scheufele-shanahan-lee-2001]][[cite:griffin-2009]]\n\nKüçük bir hatırlatma: r = .10 gibi bir değer, ilişkinin ‘zayıf’ olduğunu söyler ama ‘önemsiz’ olduğunu söylemez; kitlesel ölçekte küçük etkiler yine de toplumsal sonuç doğurabilir. Bununla birlikte kuramın ‘açıklama gücü’ konusunda dikkatli olmak gerekir."
+    },
+    {
+      "id": "critique-person",
+      "section": "critique",
+      "layer": "core",
+      "kind": "text",
+      "title": "Kuramı kuramcıdan ayırmak",
+      "body": "Noelle-Neumann’ın kuramı değerlendirilirken ikinci bir tartışma çoğu zaman araya girer: kendi geçmişi. 1940–1945 arasında Nazi döneminde gazetecilik yaptı; *Das Reich* ve *Frankfurter Zeitung* dahil birkaç yayında çalıştı. [[cite:wendelin-2013]][[cite:wilke-2010]] Bu bölümü kaynaklar farklı vurgularla anlatır:\n\n- Mainz’daki halefi Jürgen Wilke, 2010’daki anma konuşmasında Nazi propaganda aygıtını rahatsız eden yazılarının belgelendiğini, örgütlü direnişin parçası olmadığını, ama savaştan sonra tekrar tekrar sisteme uyum sağlamakla suçlandığını söyler. [[cite:wilke-2010]]\n- *Biografisches Lexikon der Kommunikationswissenschaft* maddesi (Manuel Wendelin), yakın tarihli tarih araştırmalarının (Jörg Becker’in 2013 biyografisi dahil) onun rejimle bağlarının salt “peşinden gitmekten” öte gittiğini gösterdiğini aktarır; kendisinin suçlamaları hep reddettiğini, Becker’in kitabı çevresinde hukuki bir anlaşmazlık da yaşandığını ekler. [[cite:wendelin-2013]]\n\nTartışma uluslararası literatüre de girdi (örneğin Simpson’ın 1996 tarihli *Journal of Communication* makalesi). [[cite:simpson-1996]]\n\nAkademik açıdan iki soru ayrı tutulmalı: *Kuramın ampirik iddiaları verilerle tutuyor mu?* (önceki kartlar) ve *Kuramcının biyografisi ne diyor?* (tarih araştırması). Biri ötekini otomatik olarak çürütmez ya da temize çıkarmaz. Ama biyografi, kuramın hangi dünya görüşü ve deneyimle yazıldığı sorusuna ışık tutabilir: Wendelin’in maddesi de kuramı bilgi sosyolojisi açısından yerleştirirken bu unsurları hesaba katar. [[cite:wendelin-2013]] Bu ders yalnızca kaynakların söylediklerini aktarır; yargıyı tarihçilere bırakır.",
+      "question": {
+        "id": "critique-person-q",
+        "type": "mcq",
+        "prompt": "Kuramın değerlendirilmesi ile Noelle-Neumann’ın Nazi dönemi geçmişine dair tartışma arasındaki ilişki için hangisi doğrudur?",
+        "options": [
+          "Biyografik tartışma kuramı otomatik olarak çürütür.",
+          "Kuramın verilerle tutup tutmadığı, biyografik tartışmadan ayrı bir sorudur; ikisi ayrı ayrı değerlendirilmelidir.",
+          "Biyografik tartışma tamamen ilgisizdir ve hiç anılmamalıdır.",
+          "Kuram ancak biyografik tartışma çözülünce değerlendirilebilir."
+        ],
+        "answer": 1,
+        "explain": "İki soru farklı yöntemlerle cevaplanır: ampirik testler ve tarih araştırması. Biri diğerini otomatik çürütmez; bu yüzden ilk ve dördüncü seçenekler yanlış. Ama biyografi tamamen ilgisiz de değildir: Wendelin, kuramın bilgi sosyolojisi açısından yerleştirilmesinde bu unsurları kullanır."
+      }
+    },
+    {
+      "id": "today-pew",
+      "section": "today",
+      "layer": "core",
+      "kind": "story",
+      "title": "Snowden, Facebook ve sessiz odalar",
+      "body": "2013’te Edward Snowden ABD’nin gözetim programlarını açıkladı. Pew Araştırma Merkezi bir soru sordu: Bu konuyu konuşur musun? 1.801 Amerikalı yetişkinle (7 Ağustos–16 Eylül 2013) yapılan ankette yüzde 86’sı konuyu yüz yüze konuşmaya istekli olduğunu söyledi. Ama Facebook ve Twitter kullananların yalnızca yüzde 42’si aynı konuyu bu platformlarda paylaşmaya istekliydi. [[cite:hampton-et-al-2014]]\n\nSarmal açısından daha ilginç olan: çevrelerinin kendilerine katılmadığını düşünenler daha az konuşmaya istekliydi; Facebook ağının kendisiyle aynı fikirde olduğunu sananlar ise aksini sananlardan yaklaşık iki kat daha istekliydi. Facebook’u her gün kullananlar, yüz yüze ortamlarda bile fikir söylemeye daha az meyilliydi. [[cite:hampton-et-al-2014]]\n\nDikkat: bu anket sarmalı *kanıtlamaz*. Tek bir konu, tek bir an, beyan edilen bir istek. Ama sosyal medyanın, “çoğunluk beni izliyor” hissini ve dolayısıyla iklim algısını değiştirebildiğini gösteren bir ipucudur. Yani kuramın iki halkası (iklim algısı ve konuşma isteği) çevrimiçi ortamda da birlikte hareket ediyor gibi görünüyor.\n\nBu derste ayrıntıya girmiyoruz; çevrimiçi sarmalın daha derin tartışması [[lesson:spiral-research]] dersinde, yankı odaları ve filtre balonlarıyla ilişkisi ise [[lesson:filter-bubbles]] dersinde.",
+      "question": {
+        "id": "today-pew-q",
+        "type": "mcq",
+        "prompt": "Pew bulgusu suskunluk sarmalı kuramıyla nasıl ilişkilendirilebilir?",
+        "options": [
+          "Kuramı kesin olarak kanıtlar, çünkü Facebook kullanıcıları daha az konuşmuştur.",
+          "Kuramı çürütür, çünkü yüzde 86 konuşmaya istekliydi.",
+          "İklim algısı (çevrem katılıyor mu?) ile konuşma isteği arasındaki ilişkiyi çevrimiçi bağlamda destekleyen bir ipucudur; ama tek bir konu ve beyan edilen istekle sınırlıdır.",
+          "Kuramla hiçbir ilgisi yoktur; Snowden gözetim konusu sarmal kapsamı dışındadır."
+        ],
+        "answer": 2,
+        "explain": "Pew, algılanan uyum ile konuşma isteği arasında bir bağ buldu ve çevrimiçi/çevrimdışı farklılık gördü. Ama tek konu, tek an, beyan edilen istek olduğu için ne ‘kanıtlar’ ne ‘çürütür’. Kurama göre tartışmalı ve duygusal yüklü konular kapsamdadır; gözetim tartışması da böyle bir konudur."
+      }
+    },
+    {
+      "id": "today-online",
+      "section": "today",
+      "layer": "core",
+      "kind": "myth",
+      "title": "“İnternet susturmayı bitirdi” mi?",
+      "body": "**İnsanlar ne sanır:** “Herkes çevrimiçi konuşabiliyor; o hâlde suskunluk sarmalı sona erdi.”\n\n**Kanıtlar karışık:**\n\n- Matthes ve arkadaşlarının derlemesinde ilişki çevrimiçi ortamda çevrimdışından daha zayıf değil. [[cite:matthes-knoll-vonsikorski-2018]]\n- Stoycheff’in deneyinde (ABD), kullanıcılara gözetim hatırlatıldığında, görüşünün çoğunluktan farklı olduğunu düşünenlerde çevrimiçi konuşma isteği daha düşük çıktı; bu etki özellikle gözetimi haklı bulanlarda güçlüydü. [[cite:stoycheff-2016]]\n- Türkiye’de, İstanbul’daki 404 Facebook kullanıcısıyla yapılan bir ankette (Kutlu, 2019) siyasi görüşünün azınlıkta olduğunu düşünenlerde, gizlilik ayarlarını sık değiştirme, yorum yapmaktan çekinme ve siyasi düşüncelerini gerçek hayattan daha rahat ifade edebildiğini düşünme arasında olumlu ilişkiler bulundu. Yani hem çekinme hem rahat ifade birlikte var. [[cite:kutlu-2019]]\n\nKısaca: internet sarmalı ortadan kaldırmadı; sahneyi, izleyiciyi ve görünürlüğü değiştirdi. Kimin kimi gördüğü (algoritmalar, yankı odaları, gözetim korkusu) iklim algısını yeniden şekillendiriyor. Bu ilişkiyi [[lesson:network-society]] dersindeki ağ mantığıyla birlikte düşünmek yararlı olur.\n\nBunu kendi hayatına da taşıyabilirsin: hangi konularda bir şey yazmadan önce “bunu yazarsam ne olur?” diye durdun? Bu duraksama kuramın anlattığı şeye ne kadar benziyor, ne kadar farklı?",
+      "question": {
+        "id": "today-online-q",
+        "type": "tf",
+        "prompt": "Bu karta göre, çevrimiçi ortamlarda herkesin konuşabilmesi suskunluk sarmalını ortadan kaldırmıştır.",
+        "answer": false,
+        "explain": "Yanlış. Kartta anılan çalışmalar ilişkinin çevrimiçi ortamda da sürdüğünü (Matthes ve arkadaşları), gözetim algısının konuşma isteğini düşürebildiğini (Stoycheff) ve kimi kullanıcıların hem çekinip hem çevrimiçi ortamda daha rahat hissedebildiğini (Kutlu) gösteriyor. Sahne değişti, mekanizma ortadan kalkmadı."
+      }
+    },
+    {
+      "id": "deep-macro",
+      "section": "today",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Avrupa’da makro ve dinamik bir sınama (2019)",
+      "body": "Çoğu araştırma bireysel anketlerle “şu an” bakar. Kuramın vurguladığı *zaman içindeki toplumsal döngüyü* izlemek çok daha zor. Thurre, Gale ve Staerklé (2019) tam bunu denedi: Avrupa Sosyal Araştırması’nın 2002–2016 verileriyle, 15 ülkede, toplam 195.194 katılımcı üzerinde makroskopik ve dinamik bir test. [[cite:thurre-gale-staerkle-2019]]\n\nSoru şuydu: yükselen sağ popülist konumlar (özellikle göç konusunda) daha uluslarüstü ve kapsayıcı görüşleri susturdu mu, yoksa tam tersine yerleşik demokratik normlar tarafından mı susturuldular? [[cite:thurre-gale-staerkle-2019]]\n\nSonuçlar, hangi yöntemle baktığına göre değişti. Tek bir zaman noktasına bakan (statik) testte, göçmenlik konusunda göçmen yanlısı görüştekiler 15 ülkenin hepsinde daha açık sözlü çıktı. Zaman içindeki değişime bakan (dinamik) testte ise tablo ülkeden ülkeye farklıydı: Fransa, İrlanda ve İsviçre’de göçmen yanlısı görüştekiler, görüşleri hâlâ çoğunluk görüşü olduğu hâlde, zamanla daha az açık sözlü hâle geldi; Almanya, Macaristan, Polonya ve Birleşik Krallık’ta ise daha açık sözlü hâle geldi. [[cite:thurre-gale-staerkle-2019]]\n\nYazarların çıkardığı iki ders: birincisi, yükselen popülist hareketler ana akım tutumları yıldırabiliyor, ama etkileri görünürlüklerinden beklenenden güçlü değil; ikincisi, yalnızca tek bir andan bakarak sarmal teşhisi konmamalı, en az iki zaman noktası karşılaştırılmalı. [[cite:thurre-gale-staerkle-2019]]\n\nBu türden çalışmalar, [[lesson:spiral-research]] dersinde daha ayrıntılı ele alınan “sarmal nasıl sınanır?” sorusunun bir örneğidir."
+    },
+    {
+      "id": "turkey-studies",
+      "section": "turkey",
+      "layer": "core",
+      "kind": "text",
+      "title": "Türkiye’de suskunluk sarmalı: kitap ve araştırmalar",
+      "body": "Kuram Türkiye’ye iki yolla geldi: çeviri ve ders kitapları. Noelle-Neumann’ın *Kamuoyu: Suskunluk Sarmalının Keşfi* kitabı Murat Özkök çevirisiyle Dost Kitabevi’nden 1998’de çıktı. [[cite:noelle-neumann-1998-tr]] Ders kitaplarında ise Yaylagül ve AUZEF metninde Polat kuramı anlatır. [[cite:yaylagul-2006]][[cite:polat-2016]]\n\nAraştırma tarafında iki örnek:\n\n- **Kutlu (2019):** İstanbul’da yaşayan 404 Facebook kullanıcısıyla (kartopu örneklemesi) anket. Siyasi görüşünün azınlıkta olduğunu düşünme ile gizlilik ayarlarını sık değiştirme, yorum yapmaktan çekinme ve siyasi düşünceleri gerçek hayattan daha rahat ifade edebildiğini düşünme arasında olumlu ilişkiler bulundu. Yazar, sonuçtan Facebook’ta suskunluk sarmalının oluştuğunu çıkarır. [[cite:kutlu-2019]] Kartopu örneklemesi temsilî olmadığı için sonuç “Türkiye böyle” demek değildir.\n- **Özer ve Yıldıran Önk (2021):** Cem Karaca’nın vatandaşlıktan çıkarılışı ve dönüşüne ilişkin *Cumhuriyet* haberlerinin eleştirel söylem çözümlemesi. Bir sonraki kartta.\n\nÖzer ve Yıldıran Önk, Türkiye iletişim yazınında bu kurama ilişkin akademik çalışmaların az olduğunu da not eder. [[cite:ozer-yildiran-onk-2021]] Yani bu alan senin için hâlâ açık bir çalışma sahası. Bir karşılaştırma yapmak da öğretici olur: Kutlu bireylerin beyanını, Özer ve Yıldıran Önk ise gazete metinlerini inceliyor; aynı kuram çok farklı verilerle sınanıyor.",
+      "question": {
+        "id": "turkey-studies-q",
+        "type": "mcq",
+        "prompt": "Kutlu’nun (2019) Facebook çalışması hakkında hangisi doğrudur?",
+        "options": [
+          "Türkiye’deki tüm Facebook kullanıcılarını temsil eden rastgele bir örneklemle yapıldı.",
+          "İstanbul’daki 404 kullanıcıyla, kartopu örneklemesiyle yapıldı; bu yüzden sonuçlar Türkiye geneline genellenemez.",
+          "Yalnızca deney (laboratuvar) yöntemiyle yapıldı.",
+          "Noelle-Neumann’ın 1965 verilerini yeniden analiz etti."
+        ],
+        "answer": 1,
+        "explain": "Kartopu örneklemesi katılımcıları birbirinin tanıdıkları üzerinden bulur; temsilî değildir. Bu yüzden bulgular (olumlu ilişkiler) bir ipucudur, Türkiye geneline genelleme değildir. Çalışma bir anket araştırmasıdır; deney ya da 1965 verilerinin yeniden analizi değildir."
+      }
+    },
+    {
+      "id": "turkey-karaca",
+      "section": "turkey",
+      "layer": "core",
+      "kind": "story",
+      "title": "Bir gazete, iki dönem: Cem Karaca haberleri",
+      "body": "Anadolu rock’ın önemli isimlerinden Cem Karaca, sol siyasi duruşuyla da tanınıyordu. Şarkılarında komünizm propagandası yaptığı iddiasıyla hakkında yargılama başlatılmıştı; 12 Eylül 1980 darbesi olduğunda yurt dışındaydı. Yargılamanın tamamlanması için geri çağrıldı, bunu reddetti ve 1983’te Türk vatandaşlığından çıkarıldı. 1987’de, ANAP döneminde yumuşayan siyasi havada Türkiye’ye dönebildi. [[cite:ozer-yildiran-onk-2021]]\n\nÖzer ve Yıldıran Önk, muhalif olduğunu ileri süren *Cumhuriyet* gazetesinin her iki olaya ait haberlerini inceledi. Bulgularına göre iki dönemde haberlerin tonu farklı olsa da ikisi de resmî söylemle uyumluydu; yazarlara göre bu, baskın görüşle örtüşmenin ve dolayısıyla suskunluk sarmalının varlığını gösteriyor. [[cite:ozer-yildiran-onk-2021]]\n\nŞimdi eleştirel düşünme zamanı. Sarmal, *toplumsal* dışlanma korkusuna dayanır. Darbe döneminin yasal yasakları ve sansürü de benzer bir sonuç doğurabilir. Bir gazetenin baskın görüşle uyumlu yazması tek başına bu iki açıklamayı ayırt etmez. Yazarlar kendileri de 1980’lerdeki baskı rejimi ile kuramın örtüştüğünü söyler. [[cite:ozer-yildiran-onk-2021]] (Bu paragraf çalışmanın bir eleştirisi değil, kuramı gerçek olaylara uygularken sorulması gereken genel bir sorudur: benzer sonuç, aynı mekanizma demek değildir.)\n\nSen ne dersin: bu çalışma sarmalı *gösterir* mi, yoksa yalnızca sarmalla *uyumlu* bir tablo mu çizer?",
+      "question": {
+        "id": "turkey-karaca-q",
+        "type": "mcq",
+        "prompt": "Bir gazetenin haberlerinin baskın görüşle uyumlu olması, tek başına neden suskunluk sarmalının kanıtı sayılmayabilir?",
+        "options": [
+          "Çünkü gazeteler kuramla hiç ilgilenmez.",
+          "Çünkü aynı uyum, toplumsal dışlanma korkusundan değil, yasal yasak ve sansür gibi başka mekanizmalardan da kaynaklanabilir.",
+          "Çünkü kuram yalnızca sosyal medyada geçerlidir.",
+          "Çünkü Cumhuriyet gazetesi 1980’lerde yayımlanmıyordu."
+        ],
+        "answer": 1,
+        "explain": "Kuramın mekanizması toplumsal dışlanma korkusudur; darbe dönemindeki hukuki baskı da benzer bir sessizlik üretebilir. Bu yüzden ‘benzer sonuç = aynı mekanizma’ demek yanlış çıkarımdır. Kuramın sosyal medyayla sınırlı olduğu yönündeki seçenek ise yanlıştır: kuram 1960’larda kitle medyası bağlamında geliştirildi."
+      }
+    },
+    {
+      "id": "exam-patterns",
+      "section": "exam",
+      "layer": "core",
+      "kind": "text",
+      "title": "Sınavda böyle sorulur",
+      "body": "AUZEF tarzı sorularda kalıplar şunlar. Cevabı bilmen yetmez; **tuzak seçenekleri** de tanımalısın:\n\n- **Kuramı kim geliştirdi?** Elisabeth Noelle-Neumann (Alman). Tuzaklar: Asch (deney, arka plan), Gerbner (kültivasyon), McCombs–Shaw (gündem belirleme), Lazarsfeld (Noelle-Neumann’ın bilimsel modeli, ama kuramın sahibi değil).\n- **Motor nedir?** Dışlanma (izolasyon) korkusu. Tuzaklar: medyanın gücü, bilişsel uyumsuzluk, seçici algı.\n- **Örnek olay?** 1965 Almanya seçimi ve “son dakika hamlesi”. AUZEF metni bunu örnek olay olarak verir (bölüm 10.2.1). Bazı yabancı ders kitapları ise bölümü 1980 ABD seçimiyle açar; bu tuzaktır. [[cite:polat-2016]][[cite:griffin-2009]]\n- **Beş varsayım:** tehdit, sürekli korku, iklimi yoklama, davranışı etkileme, birleşim. [[cite:polat-2016]][[cite:yaylagul-2006]]\n- **Terimler:** fikir iklimi, sert çekirdek, avangard, yarı istatistiksel algı, son dakika hamlesi. [[cite:polat-2016]]\n- **Tarihler:** 1965 (seçim), 1974 (makale), 1980 (Almanca kitap), 1984 (İngilizce), 1998 (Türkçe çeviri).\n\n**Kitaplarda farklı adlar:** Polat’ın kitabında ünite başlığı “Sihirli Mermi ve Sessizlik Sarmalı”dır ve metinde “sessizlik sarmalı”, anahtar kavramlarda “Sessizlik Kuramı” geçer; bölüm başlığı ise “Suskunluk Sarmalı Kuramı”dır. Yaylagül ise “Suskunluk Sarmalı” der. Hepsi aynı kuramdır; sınavda hangi adla sorulursa sorulsun Noelle-Neumann’ı hatırla. [[cite:polat-2016]][[cite:yaylagul-2006]] Bu derste tutarlılık için “suskunluk sarmalı” kullanıyoruz.\n\n**İki sık hata:** *Bandwagon* (kazanana katılma) ile sarmalı karıştırmak; gündem belirleme ile sarmalı karıştırmak (gündem belirleme *neyi düşüneceğimizi*, sarmal *hangi görüşün konuşulabilir göründüğünü* etkiler).",
+      "question": {
+        "id": "exam-patterns-q",
+        "type": "mcq",
+        "prompt": "AUZEF ders notunda suskunluk sarmalı kuramının “örnek olay” bölümü hangi olayı anlatır?",
+        "options": [
+          "1965 Almanya seçimleri",
+          "1980 ABD başkanlık seçimi (Carter–Reagan)",
+          "1940 Erie County seçmen çalışması",
+          "1968 Chapel Hill gündem belirleme çalışması"
+        ],
+        "answer": 0,
+        "explain": "Polat’ın metninde 10.2.1 “Örnek Olay: Almanya’da 1965 Meclis Seçimleri”dir. 1980 ABD seçimi bazı İngilizce ders kitaplarının açılış örneğidir (tuzak); Erie County seçmen çalışması sınırlı etkiler ve seçici maruz kalma tartışmasının, Chapel Hill ise gündem belirlemenin klasiğidir."
+      }
+    },
+    {
+      "id": "exam-pairs",
+      "section": "exam",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Karışan çiftler: kim, ne, ne zaman?",
+      "body": "Bu dersteki isim ve tarih çiftlerini karıştırmak sık yapılan bir hatadır. Kendine sor:\n\n- **Noelle-Neumann** ↔ 1974 *Journal of Communication* makalesi, 1980 Almanca kitap, 1984 İngilizce baskı. [[cite:noelle-neumann-1974]][[cite:noelle-neumann-1980]][[cite:noelle-neumann-1984]]\n- **Asch** ↔ 1950’lerin çizgi (uyum) deneyleri; kuramın parçası değil, arka planı. [[cite:asch-1956]]\n- **Glynn, Hayes ve Shanahan** ↔ 1997 meta-analizi. [[cite:glynn-hayes-shanahan-1997]]\n- **Scheufele ve Moy** ↔ 2000 kavramsal değerlendirme (“Twenty-five years of the spiral of silence”). [[cite:scheufele-moy-2000]]\n- **Allensbach** ↔ Noelle-Neumann’ın 1947’de eşiyle kurduğu enstitü. [[cite:epd-2010]]\n\nİki hafıza tekniği: (1) **Rol sırası:** Asch deney yaptı, Noelle-Neumann kuramı kurdu, Glynn ve arkadaşları kuramı derledi, Scheufele ve Moy bütünü değerlendirdi. (2) **Yıl sırası:** 74–80–84 (makale, Almanca kitap, İngilizce kitap) ve 97–2000 (meta-analiz, kavramsal değerlendirme).\n\nSınavda bu kartın doğal soru biçimi şudur: “Aşağıdakilerden hangisi Noelle-Neumann’ın kuramının parçası değildir?” Cevap çoğu zaman Asch’e ait bir ayrıntı ya da başka bir kuramdan gelen bir kavramdır.\n\nKendini sına: sağdaki açıklamayı sola eşleştir. Aşağıdaki soruyu bir kez daha çözmeden geçme; özellikle Asch ile Noelle-Neumann’ı ve Glynn ile Scheufele’yi birbirinden ayırt et.",
+      "question": {
+        "id": "exam-pairs-q",
+        "type": "match",
+        "prompt": "Soldaki isim ya da kurumu, doğru açıklamayla eşleştir.",
+        "pairs": [
+          [
+            "Noelle-Neumann",
+            "Journal of Communication’da 1974’te yayımlanan suskunluk sarmalı makalesinin yazarı"
+          ],
+          [
+            "Asch",
+            "Çizgi uzunluğu uyum deneylerinin (1950’ler) yürütücüsü"
+          ],
+          [
+            "Glynn, Hayes ve Shanahan",
+            "Algılanan destek ile konuşma isteği ilişkisini derleyen 1997 meta-analizi"
+          ],
+          [
+            "Scheufele ve Moy",
+            "Kuramın ilk çeyrek yüzyılını gözden geçiren 2000 tarihli kavramsal değerlendirme"
+          ],
+          [
+            "Allensbach",
+            "Noelle-Neumann’ın 1947’de kurduğu anket enstitüsü"
+          ]
+        ],
+        "explain": "Karışıklık genellikle Asch ile Noelle-Neumann arasındadır: Asch deneyi yaptı, Noelle-Neumann kuramı geliştirdi ve Asch’i arka plan olarak kullandı. Meta-analiz (Glynn ve arkadaşları) ile kavramsal değerlendirme (Scheufele ve Moy) da farklı türlerdir: biri sayısal derleme, öteki kavram ve ölçüm incelemesi."
+      }
+    },
+    {
+      "id": "summary",
+      "section": "summary",
+      "layer": "core",
+      "kind": "summary",
+      "title": "Özet kartı",
+      "body": "- **Bilmece:** 1965 Almanya seçiminde oy niyeti aylarca sabitken “kim kazanır?” beklentisi kaydı ve oylar sonunda o yöne kaydı. [[cite:polat-2016]][[cite:bundeswahlleiterin-1965]]\n- **Kuram:** İnsanlar hangi görüşün güç kazandığını sezer; azınlıkta olduklarını sananlar dışlanma korkusuyla susar; bu görünürlük farkı sarmal gibi hızlanır. [[cite:griffin-2009]]\n- **Kavramlar:** dışlanma korkusu, yarı istatistiksel algı, fikir iklimi, konuşma isteği, sert çekirdek, avangard.\n- **Varsayımlar:** tehdit, sürekli korku, iklimi yoklama, davranışı etkileme, birleşim. [[cite:polat-2016]]\n- **Kanıt:** 1965 ve 1972 seçim gözlemleri; tren testi; Asch arka planda. [[cite:petersen-2019]][[cite:asch-1956]]\n- **Eleştiri:** korku ölçülmedi, hayali test, yakın çevre; meta-analizlerde küçük ama tutarlı etki. [[cite:glynn-hayes-shanahan-1997]][[cite:matthes-knoll-vonsikorski-2018]]\n- **Bugün:** çevrimiçi ortamda da ilişki sürüyor; gözetim algısı ve yankı odaları iklim algısını şekillendiriyor. [[cite:hampton-et-al-2014]][[cite:stoycheff-2016]]\n- **Sınav:** 1965 Almanya seçimi, 1974 makale, 1980 Almanca ve 1984 İngilizce kitap, beş varsayım.\n\n**Tek cümle:** Suskunluk sarmalı, insanların görüşlerini çevrenin ikliminden yola çıkarak söylemesi ya da saklaması yüzünden, bir görüşün kamusal alandaki görünümünün gerçek gücünden sapabileceğini ve bunun kendini büyüten bir döngüye dönüşebileceğini söyler.\n\nDevam: [[lesson:spiral-research]] ve [[lesson:filter-bubbles]].",
+      "question": {
+        "id": "summary-q",
+        "type": "cloze",
+        "prompt": "Boşlukları doldur.",
+        "text": "Suskunluk sarmalı kuramında motor {{1}} korkusudur. Sarmalı yürüten şey görüşlerin gerçek dağılımı değil, {{2}} dağılımdır. Almanca kitap {{3}} yılında, İngilizce baskı {{4}} yılında çıktı.",
+        "blanks": [
+          {
+            "options": [
+              "yalnızlık",
+              "dışlanma",
+              "cezalandırılma",
+              "utanç"
+            ],
+            "answer": 1
+          },
+          {
+            "options": [
+              "algılanan",
+              "gerçek",
+              "yasal",
+              "ölçülen"
+            ],
+            "answer": 0
+          },
+          {
+            "options": [
+              "1974",
+              "1980",
+              "1984",
+              "1965"
+            ],
+            "answer": 1
+          },
+          {
+            "options": [
+              "1980",
+              "1984",
+              "1974",
+              "1993"
+            ],
+            "answer": 1
+          }
+        ],
+        "explain": "Kuramın motoru dışlanma korkusudur; sarmal, algılanan dağılım üzerinden işler. Almanca kitap 1980’de, İngilizce baskı 1984’te çıktı (1974 makale, 1993 ise İngilizce ikinci baskı tarihidir)."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "quiz-first-paper",
+      "type": "mcq",
+      "prompt": "Suskunluk sarmalı kuramının İngilizce ilk bilimsel makalesi hangisidir?",
+      "options": [
+        "Noelle-Neumann, “The spiral of silence: A theory of public opinion”, Journal of Communication, 1974",
+        "Noelle-Neumann, “The Spiral of Silence: Public Opinion – Our Social Skin”, 1984",
+        "Asch, “Studies of independence and conformity”, 1956",
+        "Glynn, Hayes ve Shanahan, “Perceived support for one’s opinions and willingness to speak out”, 1997"
+      ],
+      "answer": 0,
+      "explain": "Kuram İngilizce ilk kez 1974 tarihli Journal of Communication makalesiyle yayımlandı. 1984 tarihli eser makale değil, Almanca kitabın İngilizce baskısıdır; Asch’in monografisi kuramın arka planındaki bir uyum çalışmasıdır; Glynn ve arkadaşları ise kuramı sınayan bir meta-analizdir."
+    },
+    {
+      "id": "quiz-engine",
+      "type": "mcq",
+      "prompt": "Bir öğrenci, duygusal olarak yüklü bir tartışmada sınıfın çoğunun kendisine karşı olduğunu düşündüğü için fikrini açıkça söylemiyor. Kuramda bu davranışı asıl açıklayan şey hangisidir?",
+      "options": [
+        "Dışlanma korkusu",
+        "Bilişsel uyumsuzluk",
+        "Öğrencinin fikrini gerçekten değiştirmiş olması",
+        "Devletin uyguladığı sansür"
+      ],
+      "answer": 0,
+      "explain": "Kuramın motoru, azınlıkta olduğunu düşünen kişinin dışlanma korkusudur. Fikrini değiştirmiş olması (üçüncü seçenek) cazip görünse de kuram susmayı öngörür, fikir değişimini değil. Sansür ise toplumsal değil hukuki bir baskıdır."
+    },
+    {
+      "id": "quiz-tf-books",
+      "type": "tf",
+      "prompt": "Noelle-Neumann’ın Almanca kitabı Die Schweigespirale 1984’te, İngilizce baskısı ise 1980’de yayımlandı.",
+      "answer": false,
+      "explain": "Tersi doğrudur: Almanca kitap 1980’de (Piper), İngilizce baskı 1984’te (University of Chicago Press) çıktı. İngilizce baskı Almancanın çevirisi olduğu için sonra gelir."
+    },
+    {
+      "id": "quiz-tf-visibility",
+      "type": "tf",
+      "prompt": "Kurama göre bir görüşün gerçek taraftar sayısı hiç değişmese bile o görüş kamusal alanda güçlü ya da zayıf görünebilir.",
+      "answer": true,
+      "explain": "Doğru. Sarmalı yürüten şey, görüşlerin gerçek dağılımı değil algılanan dağılımdır: yüksek sesle savunulan bir görüş olduğundan güçlü, susan taraf olduğundan zayıf görünür. 1965 ve 1972 gözlemleri bu iddianın çıkış noktasıdır."
+    },
+    {
+      "id": "quiz-match-terms",
+      "type": "match",
+      "prompt": "Terimleri doğru açıklamalarla eşleştir.",
+      "pairs": [
+        [
+          "Fikir iklimi",
+          "Çevrede hangi görüşün yaygın ya da yükselen olduğuna dair algı"
+        ],
+        [
+          "Yarı istatistiksel algı",
+          "Anket yapmadan çevredeki görüş dağılımını ve gidişatı sezme yeteneği"
+        ],
+        [
+          "Sert çekirdek",
+          "Dışlanmayı göze alarak görüşünü söylemeye devam eden azınlık"
+        ],
+        [
+          "Tren testi",
+          "Hayali bir yolculuk senaryosuyla konuşma isteğini ölçme yöntemi"
+        ],
+        [
+          "Dışlanma korkusu",
+          "Sarmalı harekete geçiren, çevrenin gözünden düşme kaygısı"
+        ]
+      ],
+      "explain": "Fikir iklimi algılanan dağılımdır, yarı istatistiksel algı bu dağılımı sezen duyudur; ikisini karıştırmak sık yapılan bir hatadır. Tren testi ise sarmalın sonucunu (konuşma isteği) ölçer, korkuyu değil. Sert çekirdek sarmalın istisnasıdır."
+    },
+    {
+      "id": "quiz-order-spiral",
+      "type": "order",
+      "prompt": "Sarmalın işleyişini doğru sıraya diz.",
+      "items": [
+        "Bir konu tartışmalı hâle gelir ve insanlar fikir iklimini yoklar",
+        "Görüşünün güç kazandığını düşünenler konuşur, azınlıkta olduğunu düşünenler susar",
+        "Konuşan taraf gerçek gücünden büyük, susan taraf daha küçük görünür",
+        "Bu görünüm yeni bir iklim sinyali olur ve süreç bir tur daha hızlanır"
+      ],
+      "explain": "Önce iklim yoklanır, sonra konuşma ya da susma kararı gelir, ardından görünürlük farkı ortaya çıkar ve bu fark bir sonraki turun girdisi olur. Sarmal budur: çıktı, tekrar girdiye döner."
+    },
+    {
+      "id": "quiz-cloze",
+      "type": "cloze",
+      "prompt": "Boşlukları doldur.",
+      "text": "1965 Almanya seçiminde {{1}} aylarca sabit kaldı, ama {{2}} beklentisi CDU/CSU yönünde kaydı. Noelle-Neumann bunu {{3}} korkusuna dayanan bir kuramla açıkladı.",
+      "blanks": [
+        {
+          "options": [
+            "oy niyeti",
+            "katılım oranı",
+            "anket sayısı",
+            "medya bütçesi"
+          ],
+          "answer": 0
+        },
+        {
+          "options": [
+            "kimin kazanacağına dair",
+            "seçimin ne zaman yapılacağına dair",
+            "katılım oranına dair",
+            "medya bütçesine dair"
+          ],
+          "answer": 0
+        },
+        {
+          "options": [
+            "dışlanma",
+            "ceza",
+            "yoksulluk",
+            "sansür"
+          ],
+          "answer": 0
+        }
+      ],
+      "explain": "Bilmece oy niyeti ile kazanan beklentisinin ayrışmasıydı; Noelle-Neumann’ın cevabı dışlanma korkusuydu. Ceza ve sansür hukuki mekanizmalardır, kuram ise toplumsal baskıyı anlatır."
+    },
+    {
+      "id": "quiz-case-campus",
+      "type": "case",
+      "scenario": "(Varsayımsal örnek.) Bir üniversite kampüsünde, duygusal olarak yüklü ve tartışmalı bir konuda sosyal medyada bir görüş sürekli ve yüksek sesle savunuluyor. Bu görüşe katılmayan çok sayıda öğrenci var ama çoğu yorum yazmıyor. Bir öğrenci, “Herkes böyle düşünüyor” diye düşünerek kendi farklı görüşünü paylaşmaktan vazgeçiyor.",
+      "parts": [
+        {
+          "id": "quiz-case-campus-1",
+          "type": "mcq",
+          "prompt": "Öğrencinin “herkes böyle düşünüyor” inancı kuramın hangi kavramına karşılık gelir?",
+          "options": [
+            "Algılanan fikir iklimi",
+            "Sert çekirdek",
+            "Meta-analiz",
+            "Kültivasyon"
+          ],
+          "answer": 0,
+          "explain": "Öğrencinin çevresindeki görüş dağılımına dair algısı, yani fikir iklimi algısı burada devrede. Sert çekirdek susmayan azınlıktır; öğrenci ise susuyor. Meta-analiz bir yöntem, kültivasyon başka bir kuramdır."
+        },
+        {
+          "id": "quiz-case-campus-2",
+          "type": "mcq",
+          "prompt": "Görüşe katılmayan öğrenci sayısı gerçekte fazla olsa bile görüş neden yaygın görünüyor?",
+          "options": [
+            "Görünürlük farkı: konuşan taraf gerçek gücünden büyük, susan taraf küçük görünüyor.",
+            "Çoğunluk diğerlerini zorla susturuyor.",
+            "Öğrenciler fikirlerini gerçekten değiştirdi.",
+            "Yasal bir yasak var."
+          ],
+          "answer": 0,
+          "explain": "Kuram susmayı toplumsal görünürlük farkına bağlar: sessizlik sayıyı değil, görünümü değiştirir. Zorla susturma ve yasak farklı mekanizmalardır; fikir değişimi ise kuramın öngördüğü şey değildir."
+        },
+        {
+          "id": "quiz-case-campus-3",
+          "type": "mcq",
+          "prompt": "Bu senaryoyu değerlendirirken eleştirmenlerin hangi itirazı özellikle önemlidir?",
+          "options": [
+            "Genel sosyal medya ikliminden çok, yakın çevredeki (arkadaş, aile, sınıf) iklim konuşma isteğini daha çok belirleyebilir.",
+            "Kuram yalnızca televizyon için geçerlidir.",
+            "Asch deneyi hiç yapılmamıştır.",
+            "Sosyal medyada konuşma isteği ölçülemez."
+          ],
+          "answer": 0,
+          "explain": "Eleştirmenlere göre ülke ya da platform ikliminden çok yakın çevrenin iklimi belirleyici olabilir. Kuramın yalnızca televizyona özgü olduğu iddiası doğru değildir; Asch’in deneyi yapılmıştır; konuşma isteği de sosyal medyada ölçülmüş, ama beyan ve davranış ayrımı hâlâ önemlidir."
+        }
+      ],
+      "takeaway": "İklim algısı, görünürlük farkı ve referans grubu birlikte düşünülmeli: sarmalı sayıdan çok görünüm yürütür ve hangi iklimi dikkate alacağı kişiden kişiye değişebilir."
+    },
+    {
+      "id": "quiz-critique",
+      "type": "mcq",
+      "prompt": "Bir araştırmacı tren testiyle konuşma isteğini ölçüyor ve “dışlanma korkusunun kuramdaki rolü kanıtlandı” diyor. Bu çıkarıma en doğrudan hangi eleştiri yöneltilir?",
+      "options": [
+        "Dışlanma korkusu bu testte ölçülmedi, varsayıldı; ayrıca test hayalî bir durumu ölçüyor.",
+        "Test çok pahalıdır.",
+        "Kuram Almanya dışında hiç sınanamaz.",
+        "Asch’in deneyi yanlıştır."
+      ],
+      "answer": 0,
+      "explain": "Korkunun varsayılıp ölçülmemesi ve testin hayalî olması, kuramın iki temel ölçüm eleştirisidir. Maliyet ya da coğrafi sınır eleştirisi literatürde yer almaz; Asch’in deneyi ise kuramın arka planıdır ve burada tartışılmaz."
+    },
+    {
+      "id": "quiz-alt-names",
+      "type": "mcq",
+      "prompt": "Bazı Türkçe ders kitaplarında kuramın adı ‘suskunluk’ yerine ‘sessizlik’ sözcüğüyle de yazılır (örneğin Polat’ın ünite başlığında); Yaylagül ise ‘suskunluk’ der. Bu durum ne anlama gelir?",
+      "options": [
+        "Hepsi Noelle-Neumann’ın aynı kuramını anlatır; adlar kitaptan kitaba değişir.",
+        "‘Sessizlik’ sözcüğüyle adlandırılan kuram ile ‘suskunluk’ sözcüğüyle adlandırılan kuram iki farklı kuramdır.",
+        "‘Sessizlik’ adlı kuram Asch’e, ‘suskunluk’ adlı kuram Noelle-Neumann’a aittir.",
+        "Yalnızca Yaylagül’ün anlattığı kuram Noelle-Neumann’a aittir."
+      ],
+      "answer": 0,
+      "explain": "Adlar kitaba göre değişir ama kuram aynıdır. Bu ders tutarlılık için “suskunluk sarmalı” adını kullanır. İkinci ve üçüncü seçenekler tuzaktır: adı farklı yazılmış olmak farklı kuram olduğu anlamına gelmez."
+    },
+    {
+      "id": "quiz-case-turkey",
+      "type": "case",
+      "scenario": "Bir araştırmacı, darbe sonrası bir dönemde bir gazetenin haberlerini inceliyor. Gazete, kendini muhalif olarak tanımlamasına rağmen resmî söylemle uyumlu haberler yazmış. Araştırmacı bunu “suskunluk sarmalının varlığı” diye sunuyor.",
+      "parts": [
+        {
+          "id": "quiz-case-turkey-1",
+          "type": "mcq",
+          "prompt": "Bu çıkarımın en zayıf yanı hangisidir?",
+          "options": [
+            "Uyumun nedeni toplumsal dışlanma korkusu mu, yoksa yasal baskı ve sansür mü olduğu ayırt edilmemiştir.",
+            "Gazetenin muhalif olması kuramla ilgisizdir.",
+            "Haber çözümlemesi hiçbir zaman bilimsel değildir.",
+            "Darbe dönemlerinde suskunluk sarmalı olamaz."
+          ],
+          "answer": 0,
+          "explain": "Kuramın mekanizması toplumsal dışlanma korkusudur; hukuki baskı benzer bir sessizlik doğurabilir. Bu yüzden ‘benzer sonuç = aynı mekanizma’ demek çıkarımı zayıflatır. Diğer seçenekler ya gerçeğe aykırı ya da aşırı genellemedir."
+        },
+        {
+          "id": "quiz-case-turkey-2",
+          "type": "mcq",
+          "prompt": "Çıkarımı güçlendirmek için hangisi yapılabilir?",
+          "options": [
+            "Yasal kısıtlamaların etkisini ayrıştırmaya çalışmak ve gazetecilerin ya da okurların dışlanma korkusunu ve konuşma isteğini doğrudan ölçmek.",
+            "Aynı yöntemle biraz daha fazla haber saymak.",
+            "Yalnızca tek bir habere odaklanmak.",
+            "Sonuçları kuramla uyumlu hâle getirecek biçimde yorumlamak."
+          ],
+          "answer": 0,
+          "explain": "İki açıklamayı ayırmanın yolu, hukuki baskının etkisini kontrol etmek ve korkuyu doğrudan ölçmektir. Daha fazla haber saymak aynı belirsizliği büyütür; tek habere odaklanmak ve sonucu kuramla uyumlu kılmak ise yanlı çıkarım yollarıdır."
+        }
+      ],
+      "takeaway": "Benzer sonuç aynı mekanizma demek değildir: kuramı gerçek olaylara uygularken alternatif açıklamaları ayrıştırmak gerekir."
+    },
+    {
+      "id": "quiz-meta",
+      "type": "mcq",
+      "prompt": "Matthes ve arkadaşlarının 2018 tarihli meta-analizi (66 çalışma, 27 binden fazla katılımcı) hakkında hangisi doğrudur?",
+      "options": [
+        "İlişki küçük (yaklaşık r = .10) ama sıfırdan farklıdır; çevrimiçi ortamda çevrimdışından daha zayıf değildir.",
+        "İlişki çok güçlüdür (r yaklaşık .80).",
+        "Yalnızca çevrimdışı çalışmaları kapsar.",
+        "Kuramı kesin olarak çürütür."
+      ],
+      "answer": 0,
+      "explain": "Meta-analiz küçük ama tutarlı bir ilişki bulur ve çevrimiçi ortamda zayıflama görmez. r = .80 ya da ‘kesin çürütme’ gibi uç okumalar bulguyla örtüşmez; ayrıca çalışmalar hem çevrimiçi hem çevrimdışı ortamları içerir."
+    },
+    {
+      "id": "quiz-asch",
+      "type": "mcq",
+      "prompt": "Asch’in 1956 monografisi hakkında hangisi doğrudur?",
+      "options": [
+        "123 denekle yapıldı; kritik denemelerdeki tahminlerin yaklaşık üçte biri çoğunluğun yanlış cevabına kaydı, ama tahminlerin çoğu bağımsız kaldı ve bazı denekler hiç uymadı.",
+        "Deneklerin çoğu her denemede çoğunluğa uydu.",
+        "Kontrol grubunda da tahminlerin yaklaşık üçte biri yanlıştı.",
+        "Deney yalnızca tek bir yardımcıyla yapıldı."
+      ],
+      "answer": 0,
+      "explain": "Asch’in verileri hem uyumu hem bağımsızlığı gösterir: 123 denekten 94’ü en az bir kez uydu, 29’u hiç uymadı. Kontrol grubunda hata yüzde 1’in altındaydı ve ana deneyde çoğunluk 7–9 kişiydi."
+    }
+  ]
+}

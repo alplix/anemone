@@ -1,0 +1,558 @@
+{
+  "id": "cultivation",
+  "lang": "tr",
+  "translation": { "status": "source", "date": "2026-09-20" },
+  "title": "Kültivasyon (Ekme) Kuramı",
+  "slug": "kultivasyon",
+  "description": "Gerbner’ın kültivasyon (ekme) kuramı: Kültürel Göstergeler, ağır izleyiciler, kötü dünya sendromu, eleştiriler ve sosyal medya çağı; sınav ipuçlarıyla.",
+  "claim": "Televizyonu çok izleyenlerin toplumsal gerçeklik anlayışı, demografik olarak benzer az izleyenlere göre ekrandaki dünyanın en yaygın ve yinelenen mesajlarına daha çok benzer; etki tek bir programdan değil, yılların birikiminden gelir.",
+  "keywords": ["kültivasyon", "ekme kuramı", "yetiştirme kuramı", "Gerbner", "Kültürel Göstergeler", "kötü dünya sendromu", "ana akımlaşma", "rezonans", "ağır izleyici", "televizyon"],
+  "updated": "2026-09-20",
+  "cards": [
+    {
+      "id": "ctx-1968", "section": "context", "layer": "core", "kind": "story",
+      "title": "1968: Bir komisyon, bir sezonluk televizyon",
+      "body": "Yıl 1968. Amerika’da ülke çapında çalkantı, şiddet ve huzursuzluk var ve herkes “bu şiddet nereden geliyor?” diye soruyor. Şüphelilerden biri de televizyon.\n\nO yıl **Şiddetin Nedenleri ve Önlenmesi Ulusal Komisyonu** kuruluyor. Komisyon, televizyondaki şiddet üzerine eldeki araştırmaları taramakla kalmıyor; kendi adına tek bir yeni çalışma da finanse ediyor: 1967–68 sezonunun ana yayın kuşağındaki (prime time) programlarında ne kadar ve nasıl bir şiddet olduğunun içerik çözümlemesi. İşi Pennsylvania Üniversitesi Annenberg İletişim Okulu’nda [[person:gerbner|George Gerbner]] yürütüyor [[cite:shanahan-morgan-1999]].\n\nBir yıl sonra, 1969’da Kongre 1 milyon dolar ayırıp Surgeon General’ın (ABD’nin baş sağlık yetkilisinin) Televizyon ve Toplumsal Davranış Bilimsel Danışma Komitesi’ni kuruyor. Toplam 23 proje destekleniyor; Gerbner’in çalışması da bunlardan biri [[cite:shanahan-morgan-1999]].\n\nİşin ilginç yanı şu: tek seferlik görünen bu şiddet sayımı bırakılmıyor. Her yıl tekrarlanıyor ve **Kültürel Göstergeler** adlı uzun soluklu bir izleme programına dönüşüyor. Soru da yavaş yavaş kayıyor: “Şiddet izleyen taklit ediyor mu?” sorusundan “Yıllarca aynı hikâyeleri izleyen biri dünyayı nasıl görüyor?” sorusuna.",
+      "question": {
+        "id": "ctx-1968-q", "type": "mcq",
+        "prompt": "Şiddetin Nedenleri ve Önlenmesi Ulusal Komisyonu’nun kendi adına finanse ettiği tek yeni çalışma hangisiydi?",
+        "options": [
+          "Çocukların şiddet filmi sonrası davranışlarını ölçen bir laboratuvar deneyi",
+          "1967–68 sezonu ana yayın kuşağı programlarında şiddetin içerik çözümlemesi",
+          "Amerikalı yetişkinler arasında yapılan ulusal bir korku anketi",
+          "Televizyon şirketlerinin sahiplik yapısının kurumsal incelemesi"
+        ],
+        "answer": 1,
+        "explain": "Komisyon eldeki araştırmaları taradı ve tek bir yeni çalışma finanse etti: Gerbner’in yürüttüğü 1967–68 sezonu şiddet içerik çözümlemesi. Laboratuvar deneyi şıkkı cazip görünür, çünkü “şiddet = deney” alışkanlığımız var; oysa Kültürel Göstergeler’in çıkış noktası içeriğin kendisini saymaktı. Ulusal izleyici anketi ise daha sonra, 1970’lerin başında geldi."
+      }
+    },
+    {
+      "id": "ctx-bullet", "section": "context", "layer": "core", "kind": "myth",
+      "title": "“Mesaj vurur, etki çıkar” mı?",
+      "body": "**Sanılan:** Medya etkisi, bir mesajın ardından hemen görülen bir değişimdir. Şiddet sahnesi izleyen ya taklit eder ya etkilenmez; laboratuvarda ölçersin, iş biter.\n\n**Gerbner’in ve kuramcıların söylediği:** Bu çerçeve “etkiyi” yalnızca *değişim* diye tanımlıyor. Oysa medyanın bir “öncesi” yok; içinde doğduğumuz bir ortam var. Belgeselde [[person:morgan|Michael Morgan]], Gerbner’in bakışını böyle aktarır [[cite:mef-mean-world-2010]]. Öncesi olmayan bir şeyin “önce–sonra” ölçümü de pek işe yaramaz.\n\nKültivasyon benzetmesi tam da bunu anlatır: tek tohum bir günde ürün vermez; tekrar, su ve zaman gerekir. Kuramcılara göre etki tek bir mesaj sağanağından değil, yıllara yayılan durağan, yinelenen ve yaygın kalıplardan gelir [[cite:shanahan-morgan-1999]].\n\nBir tarihçe notu: Shanahan ve Morgan’a göre “şırınga” fikri gerçek araştırmacılarca hiçbir zaman ciddi bir kuram olarak savunulmadı; sınırlı etkiler okulunun karşı çıktığı bir karikatürdü. Kültivasyon, “medya hiçbir şey yapmaz” ile “medya mermi gibi vurur” arasında üçüncü bir yol arar [[cite:shanahan-morgan-1999]]. (Bu, kuramın savunucularının tarih okumasıdır; şırınga modelinin kendisi için [[lesson:magic-bullet]].)",
+      "question": {
+        "id": "ctx-bullet-q", "type": "tf",
+        "prompt": "Doğru mu yanlış mı: Kültivasyon çalışmaları, tek bir şiddet programını izleyen kişinin hemen ardından saldırganlaştığını test etmek için tasarlanmıştır.",
+        "answer": false,
+        "explain": "Yanlış. Kültivasyon tek programın anlık etkisini değil, yıllar boyu tekrar eden mesaj kalıplarının birikimli etkisini inceler; kısa vadeli taklit sorusu başka bir araştırma geleneğine (deney ve toplumsal öğrenme) aittir. “Doğru” cevabı cazip kılan şey, televizyon şiddeti dendiğinde ilk aklımıza taklidin gelmesi."
+      }
+    },
+    {
+      "id": "people-team", "section": "people-time", "layer": "core", "kind": "text",
+      "title": "Kim kim? Bir ekip işi",
+      "body": "Kültivasyon tek bir insanın icadı gibi anlatılır ama aslında Annenberg Okulu’nda büyüyen bir ekibin işidir.\n\n- [[person:gerbner|George Gerbner]]: projenin başındaki isim; 1964–1989 arasında okulun dekanı.\n- [[person:gross|Larry Gross]]: Gerbner’le birlikte Kültürel Göstergeler’i yürüttü; 1976 Şiddet Profili makalesinin ortak yazarı.\n- [[person:morgan|Michael Morgan]] ve [[person:signorielli|Nancy Signorielli]]: 1980’deki “ana akımlaşma” makalesinin ortak yazarları; sonraki on yıllarda kuramı hem savundular hem güncellediler. Signorielli, projenin ilk ekibinin üyesiydi ve 1974’te televizyon karakterleri üzerine erken ve sık anılan bir çalışma yayımladı.\n- Eleştirmenler: [[person:hirsch|Paul Hirsch]] ve Michael Hughes (1980–81), [[person:potter|W. James Potter]] (1993, 2014).\n\nKısa zaman çizgisi:\n\n- 1967–68: ilk şiddet içerik çözümlemesi\n- 1969: Surgeon General komitesi\n- 1970’lerin başı: ilk ulusal örneklem anketi [[cite:shanahan-morgan-1999]]\n- 1976: Şiddet Profili [[cite:gerbner-gross-1976]]\n- 1980: “Amerika’nın ana akımlaşması” [[cite:gerbner-et-al-1980]]\n- 1997, 2010, 2021: meta-analizler ve durum raporları\n\nKarışmasın: Gerbner televizyonun kültürel etkisine bakar; hangi konuların önemli sayıldığını inceleyen gündem belirleme ([[lesson:agenda-setting]]) ayrı bir araştırma çizgisidir.",
+      "question": {
+        "id": "people-team-q", "type": "mcq",
+        "prompt": "“Living with Television: The Violence Profile” (1976) makalesinin yazarları kimlerdir?",
+        "options": [
+          "George Gerbner ve Larry Gross",
+          "Maxwell McCombs ve Donald Shaw",
+          "Paul Hirsch ve Michael Hughes",
+          "Michael Morgan ve W. James Potter"
+        ],
+        "answer": 0,
+        "explain": "1976 tarihli Şiddet Profili makalesini Gerbner ve Gross yazdı. McCombs–Shaw gündem belirlemenin çiftidir; Hirsch ve Hughes 1980’de kültivasyon bulgularını yeniden analiz eden eleştirmenlerdir; Potter ise 1990’larda kuramı kavramsal olarak eleştirdi. İsim çiftlerini ait oldukları kuramla birlikte ezberlemek sınavda en çok işe yarayan stratejidir."
+      }
+    },
+    {
+      "id": "claim-core", "section": "claim", "layer": "core", "kind": "lab",
+      "title": "Tek cümlelik iddia ve bir düşünce deneyi",
+      "body": "**Kuramın tek cümlesi:** Televizyonu çok izleyenler, demografik olarak benzer ama az izleyenlere kıyasla, gerçek dünyayı ekrandaki dünyanın en yaygın ve yinelenen mesajlarına uygun biçimde algılama eğilimindedir [[cite:shanahan-morgan-1999]].\n\nBu cümlede üç şey saklı: (1) “çok ve uzun süre” izleme; (2) programlar değil *gerçek dünya* hakkındaki inançlar; (3) “benzer ama az izleyenlere kıyasla”, yani karşılaştırma ve kontrol.\n\n**Düşünce deneyi (varsayımsal).** Yaş, eğitim, gelir ve yaşadığı yer bakımından birbirine çok benzeyen iki akraban olduğunu hayal et. Biri haftada birkaç saat ekran başında, diğeri günde saatlerce. İkisine de soruyorsun: “Sence çoğu insan güvenilir mi?” Kuramın öngördüğü şey, çok izleyenin cevabının ekrandaki dünyanın kurallarına biraz daha yakın çıkması. Ama tek bir soru “neden” sorusunu çözmez; araştırmacılar bunu yüzlerce kişilik örneklemlerde, başka etkenleri sabit tutarak sınamaya çalışır.\n\n**Ne demiyor?** İzleyen herkesin aynı şeyi düşüneceğini ya da tek bir programın kimseyi dönüştüreceğini söylemiyor.\n\n**Neden tartışmalı?** Shanahan ve Morgan’ın da yazdığı gibi hipotez ilk bakışta o kadar makul görünür ki “bunun için kitap mı yazılır?” diye sorabilirsin. Ama yirmi yılı aşkın test ve eleştiriden sonra ne bu kadar basit ne bu kadar apaçık çıktı; iletişim araştırmalarının en tartışmalı yaklaşımlarından biri oldu [[cite:shanahan-morgan-1999]].",
+      "question": {
+        "id": "claim-core-q", "type": "mcq",
+        "prompt": "Aşağıdakilerden hangisi kültivasyon kuramının merkezî hipotezini en iyi özetler?",
+        "options": [
+          "İzleyiciler, ihtiyaçlarını karşılayan programları seçerek izler.",
+          "Bir program izlendikten hemen sonra tutumlar değişir.",
+          "Televizyonu çok izleyenler, gerçek dünyayı televizyon dünyasının yinelenen mesajlarına daha yakın algılar.",
+          "Medya, halkın hangi konuları önemli sayacağını belirler."
+        ],
+        "answer": 2,
+        "explain": "Merkezî hipotez, çok izleme ile televizyon dünyasına uygun gerçeklik algısı arasındaki ilişkidir. İlk şık kullanımlar ve doyumlar yaklaşımının, ikinci şık şırınga modelinin, dördüncü şık ise gündem belirlemenin cümlesidir; sınavda kuramları böyle birbirine karıştıran şıklar sık çıkar."
+      }
+    },
+    {
+      "id": "claim-storyteller", "section": "claim", "layer": "core", "kind": "text",
+      "title": "Neden “kültivasyon”? Neden televizyon bir “hikâye anlatıcı”?",
+      "body": "“Kültivasyon” tarım demek: ekmek, sulamak, yetiştirmek. Gerbner’in seçtiği bu benzetme, etkinin tek atışta değil tekrarla ve zamanla oluştuğunu anlatır. Shanahan ve Morgan’a göre kavram, “etki” demeden “etkilemeyi” konuşmanın bir yoludur. Gerbner’in sık aktarılan bir cümlesi de şu: “Cultivation is what a culture does” [[cite:shanahan-morgan-1999]].\n\nGerbner’e göre insan, hikâyelerle yaşar. Bildiğimiz şeylerin çoğunu kendimiz yaşamadık; hikâyelerden biliriz. Eskiden hikâyeleri aile, öğretmen, din adamı anlatırdı. Kuramcılar, bugün televizyonun çoğu hikâyeyi çoğu insana çoğu zaman anlattığını ileri sürer [[cite:shanahan-morgan-1999]].\n\nGerbner televizyonun üç tür hikâye anlattığını söyler:\n\n1. **Nasıl işlediğini anlatanlar:** kurgu (dizi, film).\n2. **Nasıl olduğunu anlatanlar:** haberler.\n3. **Ne yapılacağını, neyin değerli olduğunu anlatanlar:** reklamlar.\n\nÜçü birlikte, içinde yaşadığımız medyalı kültürü kurar [[cite:shanahan-morgan-1999]]. Bu yüzden kuram “tek bir program ne yapar?” değil, “bu hikâye sistemi bütün olarak ne öğretir?” diye sorar. Kuramcıların kendileri de bunun eleştirel bir yanı olduğunu söyler: hikâye anlatma gücü, küçülen bir grup ticari kurumun elindedir [[cite:shanahan-morgan-1999]].",
+      "question": {
+        "id": "claim-storyteller-q", "type": "mcq",
+        "prompt": "Gerbner’in üç hikâye türüne göre reklamlar hangi gruba girer?",
+        "options": [
+          "Nasıl işlediğini anlatanlar (kurgu)",
+          "Nasıl olduğunu anlatanlar (haber)",
+          "Ne yapılacağını ve neyin değerli olduğunu anlatanlar",
+          "Reklamlar hikâye sayılmaz; yalnızca bilgi verir"
+        ],
+        "answer": 2,
+        "explain": "Gerbner’e göre reklamlar “değer ve seçim” hikâyeleridir: neyin istenir olduğunu, ne yapılacağını gösterirler. Kurgu ilk gruptadır (nasıl işlediğini gösterir), haber ikincisinde. Dördüncü şık kuramın temel fikriyle çelişir: kültivasyon her medya içeriğini bir hikâye sisteminin parçası sayar."
+      }
+    },
+    {
+      "id": "deep-religion", "section": "claim", "layer": "deep", "kind": "text",
+      "title": "Derin: “Yeni devlet dini” ve balad hikâyesi",
+      "body": "Kültivasyon araştırmacıları televizyonu sanayi öncesi dinin işlevine benzeyen güçlü bir kültürel bağ olarak görür; benzetmeyi Shanahan ve Morgan da kullanır [[cite:shanahan-morgan-1999]]. Yaylagül de aynı yaklaşımı, televizyonun sanayi devrimi öncesindeki dinin yaptığı gibi güçlü bir kültürel bağlanma aracı sayılması olarak aktarır [[cite:yaylagul-2006]]. Morgan, Shanahan ve Signorielli (2015) yeni medya çağındaki kültivasyonu incelerken çerçeve olarak Gerbner’in televizyonu “yeni devlet dini” olarak görmesini kullanır [[cite:morgan-shanahan-signorielli-2015]].\n\nGerbner’in sık andığı bir söz de vardır: İskoç yurtsever Andrew Fletcher’a göre, bir kişi bir ulusun bütün baladlarını yazabilseydi, yasaları kimin yazdığı umurunda olmazdı. Shanahan ve Morgan bu romantik fikri test etmenin kolay olmadığını, ama bunun onu daha az ilgi çekici yapmadığını yazar [[cite:shanahan-morgan-1999]]."
+    },
+    {
+      "id": "concepts-prongs", "section": "concepts", "layer": "core", "kind": "steps",
+      "title": "Üç ayaklı tasarım: kim üretir, ne gösterir, ne bırakır?",
+      "body": "Kültürel Göstergeler projesi üç soruya dayanır. Gerbner bu çerçeveyi 1973’te formüle etti [[cite:britannica-gerbner]]; her soru ayrı bir yöntem gerektirir [[cite:shanahan-morgan-1999]].\n\n1. **Kurumsal süreç çözümlemesi:** Medya mesajları hangi baskılar, kısıtlar ve süreçlerle seçilip üretilir ve dağıtılır?\n2. **Mesaj sistemi çözümlemesi:** İçerikte yinelenen kalıpları say: kimler görünüyor (demografi), ne yapıyor, kimin kime ne yaptığı, hangi ilişkiler ve imgeler tekrar ediyor. [[concept:message-system-analysis]]\n3. **Kültivasyon çözümlemesi:** Bu mesaj sistemine dikkat etmek, izleyicilerin toplumsal gerçeklik anlayışıyla ilişkili mi? [[concept:cultivation]]\n\nTasarımın zekice yanı: üç sorunun her biri diğer ikisi için sonuç taşır. Gerbner’e göre medyanın “etkisi” kısa vadeli tutum değişiminde değil, mesajları üreten kurumlar, mesaj sistemleri ve kültürün imge yapıları arasındaki karşılıklı ilişkide aranmalıdır [[cite:shanahan-morgan-1999]].\n\n“Gösterge” neden? Ekonomistler enflasyon ve işsizlik gibi göstergelerle ekonominin nabzını tutar; Gerbner bunun kültürdeki karşılığını, kültürel meselelerin bir barometresini istedi. Ayrıca projeyi, siyasi ve ticari çıkar çatışmalarının dışında görece bağımsız bir “üçüncü ses” olarak düşündü [[cite:shanahan-morgan-1999]].\n\nTürkçe çalışmalarda bu üç bileşen “kurumsal süreç çözümlemesi, mesaj sistem çözümlemesi ve yetiştirme çözümlemesi” adlarıyla geçer [[cite:ercan-demir-2015]].",
+      "question": {
+        "id": "concepts-prongs-q", "type": "mcq",
+        "prompt": "Bir araştırmacı akşam kuşağı dizilerindeki karakterlerin cinsiyet ve meslek dağılımını sayıyor. Hangi ayakta çalışıyor?",
+        "options": [
+          "Kurumsal süreç çözümlemesi",
+          "Mesaj sistemi çözümlemesi",
+          "Kültivasyon çözümlemesi",
+          "Seçici maruz kalma çözümlemesi"
+        ],
+        "answer": 1,
+        "explain": "İçerikte kimlerin, ne kadar ve hangi rollerde göründüğünü saymak mesaj sistemi çözümlemesidir. Kurumsal süreç çözümlemesi içeriği kimin, hangi baskılarla ürettiğine bakar; kültivasyon çözümlemesi ise izleyicilerin inançlarını ölçer. Üçüncü şık cazip, çünkü “kültivasyon” kuramın adı; ama içerik sayımı onun yalnızca bir öncülüdür."
+      }
+    },
+    {
+      "id": "concepts-viewers", "section": "concepts", "layer": "core", "kind": "text",
+      "title": "Çok izleyen, az izleyen ve “televizyon yanıtı”",
+      "body": "Kültivasyon anketlerinin ilginç yanı, sorularının **televizyon hakkında olmaması**. Morgan’ın anlattığına göre sorular hayat hakkındadır: güvenlik, değerler, tutumlar. Örneğin “Mahallenizde geceleri sokakta yürümeye çekinir misiniz?” gibi [[cite:mef-mean-world-2010]].\n\nHer sorunun iki türlü cevabı vardır: televizyon dünyasındaki gerçekliğe uyan cevap (“televizyon yanıtı”) ve resmî istatistiklere uyan cevap [[cite:erdogan-1998]]. Sonra katılımcılar televizyon izleme miktarına göre gruplanır: az, orta, çok izleyenler. Kültivasyon farkı, iki uç grup arasındaki televizyon yanıtı yüzdesi farkıdır [[cite:erdogan-1998]]. Cinsiyet, yaş, eğitim, gelir gibi değişkenler kontrol edilir [[concept:heavy-viewers]].\n\nKaç saatin “çok” sayıldığı çalışmadan çalışmaya değişir. Örneğin Özer’in Ankara’daki lise çalışmasında izleme süresi 2 saat ve altı olanlar “az”, 2 saatin üstü olanlar “çok” izleyen sayılmıştır [[cite:ozer-2005]]. Kitaplarda “dört saat” gibi başka eşikler de geçebilir; rakamı ezberlemek yerine mantığa odaklan: **göreli karşılaştırma**.\n\nAmaç, çok izleyenlerin, benzer demografik özelliklere sahip ama az izleyenlerden daha fazla “televizyon yanıtı” verip vermediğini bulmaktır [[cite:erdogan-1998]]. “Televizyon yanıtı” yanlış cevap demek değil; ekrandaki dünyanın dersine uyan cevap demek.\n\nUnutma: bu, “televizyon izleyenler saldırgan” demek değil. Karşılaştırılan şey, dünya hakkındaki *inançlar*.",
+      "question": {
+        "id": "concepts-viewers-q", "type": "mcq",
+        "prompt": "Bir kültivasyon anketinde katılımcılara hangi tür sorular sorulur?",
+        "options": [
+          "Hangi programları ne kadar sevdikleri",
+          "Televizyon içeriğini nasıl yorumladıkları",
+          "Televizyonun kendisi değil, gerçek dünyadaki güvenlik, güven ve değerler hakkındaki inançları",
+          "Bir programdan sonra ne yaptıkları"
+        ],
+        "answer": 2,
+        "explain": "Sorular gerçek dünya hakkındadır; araştırmacı, cevapların “televizyon yanıtı” mı yoksa gerçek istatistiklere uygun yanıt mı olduğuna bakar. Program beğenisi ya da yorumu şıkları, alımlama ve kullanımlar–doyumlar çalışmalarına daha yakındır; “bir programdan sonra ne yaptıkları” ise davranış deneylerinin sorusudur."
+      }
+    },
+    {
+      "id": "concepts-mean", "section": "concepts", "layer": "core", "kind": "story",
+      "title": "Kötü dünya sendromu: gece sokağa çıkar mısın?",
+      "body": "Gerbner ve ekibi anket sonuçlarını izleme miktarına göre ayırdığında tekrar tekrar aynı örüntüyü gördü: çok izleyenler daha güvensiz, daha ürkek. Morgan bunu, hemen her durumda çok izleyenlerin daha büyük bir güvensizlik duygusu sergilediği biçiminde özetler. Gerbner buna **kötü dünya sendromu** (*mean world syndrome*) der; izleyiciler tehlike, güvensizlik ve acımasızlık duygusunu içselleştirir: “a sense of danger, of mistrust, of meanness in the world” [[cite:mef-mean-world-2010]]. Britannica’nın tanımıyla: dünyanın gerçekte olduğundan daha şiddetli ve acımasız olduğuna inanmak [[cite:britannica-gerbner]].\n\nGerbner’in bir başka terimi “happy violence” (mutlu şiddet): hızlı, gösterişli, esprili ve mutlu sonla biten, yani eğlenceli olması gereken şiddet [[cite:mef-mean-world-2010]]. Ekranda bu kadar “tatlandırılmış” şiddet, dünyanın tehlikesini normalleştirebilir.\n\nİronik bir ayrıntı: Gerbner, televizyon şiddetinin insanları gerçek şiddete itmesini asıl mesele saymaz; doğrudan katkının önemsiz olduğunu söyler [[cite:mef-mean-world-2010]]. Onu asıl ilgilendiren korkudur: 1981’de Kongre’de korkan insanların daha bağımlı olduğunu, daha kolay yönlendirilip denetlenebildiğini savundu [[cite:fair-gerbner-2006]].\n\nTürkçe çalışmalarda kavram “kötü dünya sendromu” diye geçer (ör. Özkan 2017) [[cite:ozkan-2017]]. Bir uyarı daha: bu bir ilişki bulgusu; nedenselliğine dair tartışma eleştiriler bölümünde.",
+      "question": {
+        "id": "concepts-mean-q", "type": "mcq",
+        "prompt": "Gerbner’e göre yoğun televizyon şiddetinin asıl toplumsal sonucu neydi?",
+        "options": [
+          "İzleyicileri doğrudan saldırgan davranışa yöneltmesi",
+          "İzleyicilerde dünyanın gerçekte olduğundan daha tehlikeli ve güvenilmez olduğu inancını yerleştirmesi",
+          "İnsanları televizyondan tamamen uzaklaştırması",
+          "Haber programlarına duyulan güveni artırması"
+        ],
+        "answer": 1,
+        "explain": "Kültivasyonun öncelikli iddiası korku ve güvensizlik: kötü dünya sendromu. Gerbner doğrudan şiddet katkısını önemsiz bulduğunu söylemiştir. İlk şık en yaygın yanlış anlamadır; kuram taklit değil, dünya algısı üzerine kuruludur."
+      }
+    },
+    {
+      "id": "deep-orders", "section": "concepts", "layer": "deep", "kind": "text",
+      "title": "Derin: birinci ve ikinci düzey ölçümler",
+      "body": "Kültivasyon literatüründe iki tür ölçüm vardır. **Birinci düzey ölçümler** katılımcılardan olayların ne sıklıkla olduğuna dair tahmin ister (“mahallende bir yılda kaç suç oluyor?”). **İkinci düzey ölçümler** ise tutumları ölçer (“geceleri yürümekten korkar mısın?”) [[cite:potter-1991]].\n\nPotter’ın 1991 çalışması, ikisinin genel düzeyde zayıf ilişkili olduğunu, ama alt gruplarda (özellikle yaş) daha güçlü örüntüler bulunduğunu gösterdi. Bazı konularda birinci düzey tahminler ikinci düzey inançların temeli gibi görünüyordu [[cite:potter-1991]].\n\nYaylagül de aynı ayrımı “ilk düzey etkiler” (genel inançlar, örneğin şiddetin yaygınlığı) ve “ikincil düzey etkiler” (kanun ve düzen, kişisel güvenlik gibi özel eğilimler) olarak aktarır [[cite:yaylagul-2006]]. Sınavda bu Türkçe adları görürsen aynı şeyi arıyorlar."
+    },
+    {
+      "id": "assumptions-myth", "section": "assumptions", "layer": "core", "kind": "myth",
+      "title": "Kuram neyi varsayar, neyi varsaymaz?",
+      "body": "**Sanılan:** “Kültivasyon, şiddet filmi izleyen çocuğun saldırganlaşacağını söyleyen kuramdır.”\n\n**Kuramcıların söylediği:** Shanahan ve Morgan açıkça yazar: kültivasyon, bir haber bülteninin ya da seçim reklamının oy tercihine etkisini, bir reklamın ürün satışını, şiddet programı sonrası saldırganlığı ya da kâbus görmeyi, bir dizinin modaya etkisini incelemez [[cite:shanahan-morgan-1999]]. Odak, uzun süreli ve toplam maruziyettir.\n\nKuram şunları varsayar:\n\n- Televizyon (özellikle kurgu) tutarlı, tekrarlayan, yaygın ve kaçınılmaz mesaj kalıpları sunar [[cite:shanahan-morgan-1999]].\n- Mesajların büyük ölçüde tek tip olduğu ve izlemenin seçici olmadığı varsayılır; eleştirmenler tam da bu iki varsayımı tartışır [[cite:potter-1993]].\n- Etkiler kısa vadeli değil, yavaş, dolaylı ve birikimlidir [[cite:shanahan-morgan-1999]].\n\nÖnemli bir incelik: kuramcılar da etkinin televizyondan izleyiciye tek yönlü bir akış olduğunu söylemez; mesaj ile bağlam arasında süren, dinamik bir etkileşim vardır [[cite:ozer-2005]] [[cite:ozkan-2017]].\n\nBir de “gizli” varsayım var: Shanahan ve Morgan kuramı eleştirel bir kuram sayar ve iletişim kurumlarının toplumsal, kültürel, özellikle ekonomik seçkinlerin elinde olduğunu, mesajların da bu seçkinlerin amaçlarına hizmet ettiğini varsaydıklarını yazar. Bu iki varsayımı doğrudan ampirik olarak sınamadıklarını da kendileri söyler [[cite:shanahan-morgan-1999]].",
+      "question": {
+        "id": "assumptions-myth-q", "type": "tf",
+        "prompt": "Doğru mu yanlış mı: Kültivasyon kuramı, televizyon etkisinin izleyiciye tek yönlü ve anında ulaştığını varsayar.",
+        "answer": false,
+        "explain": "Yanlış. Kuramcılar etkiyi yavaş, birikimli ve mesaj ile bağlam arasındaki etkileşimin bir parçası sayar; tek yönlü akış demezler. Yanlış cevabı çekici kılan şey, “etki” kelimesinin hâlâ şırınga modeliyle özdeşleştirilmesidir."
+      }
+    },
+    {
+      "id": "how-steps", "section": "how-it-works", "layer": "core", "kind": "steps",
+      "title": "Bir kültivasyon çalışması adım adım",
+      "body": "Kâğıt üzerinde nasıl yürüdüğünü görmek, kuramı anlamanın en kestirme yoludur:\n\n1. **Kayıt ve kodlama:** Her yıl bir haftalık ana yayın ve hafta sonu gündüz kurgu programları kaydedilir; içerik çözümlemesiyle kimlerin ne yaptığı sayılır [[cite:shanahan-morgan-1999]].\n2. **Televizyon dünyası:** Sonuçlardan ekrandaki dünyanın portresi çıkar.\n3. **Gerçekle kıyas:** Bu portre, mümkün olduğunda resmî istatistiklerle karşılaştırılır [[cite:erdogan-1998]].\n4. **Anket soruları:** Ulusal bir örnekleme, televizyon dünyasının “dersini” yansıtan sorular sorulur; her sorunun bir “televizyon yanıtı” vardır.\n5. **Gruplama:** Katılımcılar televizyon izleme miktarına göre az, orta, çok diye ayrılır.\n6. **Kontrol:** Cinsiyet, yaş, eğitim, gelir, yaşanılan yer gibi değişkenlerle karşılaştırma dengelenir [[cite:erdogan-1998]].\n7. **Kültivasyon farkı:** Çok ve az izleyenler arasındaki “televizyon yanıtı” yüzde farkı hesaplanır.\n\nİlk ulusal örneklem anketi 1970’lerin başında, Ulusal Ruh Sağlığı Enstitüsü’nün (NIMH) finansmanıyla yapıldı [[cite:shanahan-morgan-1999]]. Yani sıralama şu: önce içerik, sonra izleyici.\n\nKısacası akış: içerik → gerçek istatistik → anket → karşılaştırma. Bir adımı atlarsan (örneğin içerik çözümlemesi olmadan sadece anket yaparsan) elindeki şey artık tam bir kültivasyon çalışması olmaz.",
+      "question": {
+        "id": "how-steps-q", "type": "order",
+        "prompt": "Bir kültivasyon çalışmasının adımlarını doğru sıraya diz.",
+        "items": [
+          "Programlar kaydedilip içerik çözümlemesi yapılır",
+          "Televizyon dünyası gerçek istatistiklerle karşılaştırılır",
+          "Televizyon yanıtı olan sorularla ulusal anket yapılır",
+          "Katılımcılar televizyon izleme miktarına göre gruplanır",
+          "Demografik kontrollerle televizyon yanıtı farkı hesaplanır"
+        ],
+        "explain": "Kültivasyon önce içerikle başlar: televizyon dünyasının ne olduğunu bilmeden hangi cevabın “televizyon yanıtı” sayılacağı belli olmaz. Ardından anket, gruplama ve kontrollü karşılaştırma gelir. Anketle başlamak yaygın bir yanlıştır."
+      }
+    },
+    {
+      "id": "how-mainstream", "section": "how-it-works", "layer": "core", "kind": "lab",
+      "title": "İki ince ayar: ana akımlaşma ve rezonans",
+      "body": "Kuram ilk yıllarda “çok izleyen daha korkuyor” gibi tek yönlü göründü. Eleştiriler geldikçe iki kavram öne çıktı; ayrıntılarını [[lesson:mainstreaming-critique]] dersinde işleyeceğiz, burada özü var.\n\n**Ana akımlaşma (*mainstreaming*).** Çok izlemek, insanların başka etkenlerden kaynaklanan görüş farklarını aşındırır. Televizyon toplumun ortak hikâye anlatıcısı olduğundan, çok izleyenler ortak bir “televizyon ana akımı”na doğru yaklaşır [[cite:morgan-2008-mainstreaming]]. Örneğin siyasi görüş sorusunda çok izleyenler kendilerini daha sık “ılımlı” ilan eder; “liberal” ya da “muhafazakâr” demekten kaçınır [[cite:morgan-shanahan-signorielli-2016]].\n\n**Rezonans (*resonance*).** Gündelik deneyim televizyondaki mesajlara benziyorsa etki “çifte doz” alır. Özer’in aktardığına göre, izleme ile korku arasındaki ilişki suç oranı yüksek şehir merkezlerinde yaşayanlarda en güçlüdür [[cite:ozer-2005]].\n\nAna akımlaşmanın Özer’in aktardığı bir örneği: gelire göre bakıldığında orta ve üst gelir gruplarının çok izleyenleri birbirine yaklaşır; eğitim açısından ise az eğitimliler zaten yabancılaşma yaşadığından, televizyon izlemenin ek bir etkisi görülmez (“tavan etkisi”) [[cite:ozer-2005]].\n\n**Mini laboratuvar (varsayımsal):** Yüksek suç oranlı bir mahallede yaşayıp çok televizyon izleyen biriyle, güvenli bir semtte yaşayıp yine çok izleyen birini düşün. Rezonansa göre hangisinin korkusu televizyonla daha güçlü bağlantılı olurdu?",
+      "question": {
+        "id": "how-mainstream-q", "type": "mcq",
+        "prompt": "Yüksek suç oranlı bir mahallede yaşayan ve çok televizyon izleyen bir kişinin korkusu, aynı mahallede yaşayan az izleyenden belirgin biçimde yüksek çıkıyor. Bu durumu en iyi hangi kavram açıklar?",
+        "options": [
+          "Ana akımlaşma",
+          "Rezonans",
+          "Gündem belirleme",
+          "Seçici maruz kalma"
+        ],
+        "answer": 1,
+        "explain": "Gündelik deneyim (yüksek suç) ile televizyondaki mesajlar örtüştüğünde “çifte doz” oluşur; buna rezonans denir. Ana akımlaşma ise farklı gruplar arasındaki farkların çok izleyenlerde silikleşmesidir; senaryoda gruplar arası yakınlaşma değil, deneyim ile mesajın örtüşmesi var."
+      }
+    },
+    {
+      "id": "deep-design", "section": "how-it-works", "layer": "deep", "kind": "text",
+      "title": "Derin: Kültürel Göstergeler’in tasarım ayrıntıları",
+      "body": "**Örnekleme:** Mesaj sistemi çözümlemesi 1967’den beri her yıl sürer: Amerikan ağ televizyonlarının ana yayın ve hafta sonu gündüz kurgu programlarından birer haftalık örnekler kaydedilir. 1990’larda çözümleme Fox ağını, “gerçeklik” programlarını ve bazı kablolu kanalları da kapsayacak biçimde genişletildi [[cite:shanahan-morgan-1999]].\n\n**Ölçek:** Britannica, Kültürel Göstergeler veri tabanının 3000’den fazla programı ve 35.000 karakteri kapsadığını bildirir [[cite:britannica-gerbner]].\n\n**Finansman:** Proje yıllar içinde çok sayıda kurumdan destek aldı: Ulusal Ruh Sağlığı Enstitüsü, Beyaz Saray Telekomünikasyon Politikası Ofisi, Amerikan Tabipler Birliği, Ulusal Bilim Vakfı gibi kamu ve meslek kuruluşları; ayrıca bazı yayın ve kablo kuruluşları [[cite:shanahan-morgan-1999]].\n\n**“Üçüncü ses”:** Gerbner, projeyi siyaset ile ticari çıkarların çatışmasında görece bağımsız bir “üçüncü ses” olarak tasarladı; amaç, kültür politikası tartışmalarına daha tarafsız bir zemin sağlamaktı [[cite:shanahan-morgan-1999]]."
+    },
+    {
+      "id": "evidence-profile", "section": "evidence", "layer": "core", "kind": "story",
+      "title": "Şiddet Profili: ilk büyük rapor (1976)",
+      "body": "1976’da Gerbner ve Gross, Journal of Communication’da “Living with Television: The Violence Profile” makalesini yayımladı [[cite:gerbner-gross-1976]]. Shanahan ve Morgan’a göre bu, kültivasyon çözümlemesinin ilk sonuçlarını içeren yayındı [[cite:shanahan-morgan-1999]].\n\nBu profil neyi gösteriyordu? Britannica’ya göre Şiddet Profili, ana yayın kuşağındaki şiddeti sürekli izlemeyi ve kimin zarar gördüğünü, kimin zarar verdiğini incelemeyi amaçlıyordu. Gerbner Kongre’de bu profillere dayanarak, ana yayın kuşağındaki şiddet miktarının bir sezondan ötekine çok az değiştiğini gösterdi [[cite:britannica-gerbner]]. Televizyon dünyasının demografisi de dikkat çekiciydi: Gerbner ekranın genç beyaz erkekleri öne çıkardığını, kadınların, yaşlıların ve farklı ten renklerinden insanların ana karakter olarak nadir göründüğünü fark etmişti [[cite:fair-gerbner-2006]].\n\nİzleyici tarafında ise Morgan’ın özeti: çok izleyenler hemen her durumda daha güvensiz [[cite:mef-mean-world-2010]]. Avustralya’nın Perth şehrinde 1280 çocukla yapılan bir çalışma da bu ilişkiyi yalnızca ergenlerde yineledi (ayrıntı derin kartta) [[cite:hawkins-pingree-1980]].\n\nBilerek yüzde vermiyorum: kaynaklar arasında farklı rakamlar dolaşıyor ve ben bunları birincil metinden doğrulayamadım.",
+      "question": {
+        "id": "evidence-profile-q", "type": "mcq",
+        "prompt": "Gerbner, Şiddet Profili verileriyle Kongre’de neyi göstermeye çalıştı?",
+        "options": [
+          "Ana yayın kuşağındaki şiddet miktarının sezondan sezona çok az değiştiğini",
+          "Televizyon şiddetinin her yıl katlanarak arttığını",
+          "Çocukların şiddet programı izledikten sonra hemen saldırganlaştığını",
+          "Haber bültenlerinde şiddetin kurgudan fazla olduğunu"
+        ],
+        "answer": 0,
+        "explain": "Britannica’ya göre Gerbner, profillerle ana yayın kuşağındaki şiddetin sezondan sezona pek değişmediğini gösterdi. “Her yıl artıyor” şıkkı cazip, çünkü şiddet haberi bizde artış duygusu yaratır; oysa kuramın ilgilendiği şey değişim değil, sabit ve kalıcı bir mesaj sistemidir."
+      }
+    },
+    {
+      "id": "evidence-size", "section": "evidence", "layer": "core", "kind": "text",
+      "title": "Etki ne kadar büyük? Doğrulanmış rakamlar",
+      "body": "Kültivasyon konusunda yüzlerce çalışma var; bu yüzden en sağlam yol meta-analizlere bakmaktır. Meta-analiz, ayrı çalışmaların sonuçlarını ortak bir ölçüye çevirip birlikte özetler; bu ortak ölçüye “etki büyüklüğü” denir.\n\n- **1997:** Morgan ve Shanahan yirmi yıllık kültivasyon araştırmasını meta-analizle özetledi; ortalama kültivasyon etkisi .09 çıktı [[cite:morgan-shanahan-1997]].\n- **2010:** Aynı yazarlar, 2000’den beri 125’ten fazla yeni çalışmanın yayımlandığını bildirdi [[cite:morgan-shanahan-2010]].\n- **2021:** Hermann, Morgan ve Shanahan, 1970’lerden bugüne kültivasyon çalışmalarının meta-analizini yaptı: 406 bağımsız örneklemden 3842 etki büyüklüğü, genel etki .107. Etki on yıllar içinde çok dar bir aralıkta kaldı; yani televizyon çok değişse de ilişki kaybolmadı [[cite:hermann-morgan-shanahan-2021]].\n\nBu değerler istatistiksel olarak küçüktür (bu, bizim genel istatistik yorumumuzdur). Doğrulanan iki şey var: etki sıfır değildir ve yıllar içinde belirgin biçimde silinmemiştir. Eleştirmenler ise bu ilişkinin başka etkenlerle açıklanabileceğini savunur; bunu eleştiriler bölümünde göreceğiz.\n\nBir uyarı: bu meta-analizler farklı çalışma kümelerine dayanır; .09, .107 ve (sosyal medya için) .123’ü basit bir “artış hikâyesi” diye okuma. Her rakam kendi örnek kümesinin özetidir.",
+      "question": {
+        "id": "evidence-size-q", "type": "mcq",
+        "prompt": "Hermann, Morgan ve Shanahan’ın 2021 tarihli meta-analizinin temel bulgusu hangisidir?",
+        "options": [
+          "Kültivasyon etkisi kablolu televizyonla birlikte tamamen ortadan kalktı.",
+          "Genel etki yaklaşık .107 olup on yıllar boyunca dar bir aralıkta kaldı.",
+          "Etki, küçük örneklemlerde değil yalnızca çok büyük örneklemlerde görüldü.",
+          "Genel izleme, tür bazlı izlemeden daha zayıf bir etki gösterdi."
+        ],
+        "answer": 1,
+        "explain": "Meta-analiz genel etkiyi .107 buldu ve teknolojik değişime rağmen etkinin dar bir aralıkta kaldığını bildirdi. Dördüncü şık tersine döndürülmüş bir yanıttır: genel izlemenin etkisi tür bazlı izlemeden daha güçlü çıktı (ama zamanla zayıfladı). Üçüncü şık da tersidir: küçük örneklemlerde etkiler daha büyüktü."
+      }
+    },
+    {
+      "id": "deep-toronto", "section": "evidence", "layer": "deep", "kind": "text",
+      "title": "Derin: Toronto çalışmasının tasarımı",
+      "body": "Doob ve Macdonald (1979) kapı kapı anket uyguladı. Örneklem dört yerden seçildi: Toronto şehir merkezinde yüksek ve düşük suç oranlı bir bölge; banliyöde yüksek ve düşük suç oranlı bir bölge [[cite:doob-macdonald-1979]].\n\nKatılımcılar medya kullanımlarını ve şiddet mağduru olma olasılıklarına dair tahminlerini bildirdi. Dört bölge birleştirildiğinde önceki bulgu (çok izleyen daha korkulu) yinelendi. Fakat bölge içi ortalama korelasyon anlamsızdı; çoklu regresyon ve kanonik korelasyon analizleri de bunu doğruladı [[cite:doob-macdonald-1979]].\n\nBulgu iki biçimde okunabilir. Eleştirel okuma: izleme–korku ilişkisi “sahte” olabilir; gerçek suç oranı her ikisini de açıklar. Kültivasyon tarafının okuması: Özer’e göre Doob ve Macdonald, suç oranı yüksek yerlerde izleme ile korku arasında güçlü bir uyum buldu ve bu, Gerbner’in rezonans kavramını geliştirmesine zemin oldu [[cite:ozer-2005]]."
+    },
+    {
+      "id": "deep-perth", "section": "evidence", "layer": "deep", "kind": "text",
+      "title": "Derin: Perth’te 1280 çocuk",
+      "body": "Hawkins ve Pingree (1980), Batı Avustralya’nın Perth şehrinde ikinci, beşinci, sekizinci ve on birinci sınıflardan 1280 çocuğa şiddet ve “kötülük” (*meanness*) algılarını soran sorular yöneltti [[cite:hawkins-pingree-1980]].\n\nİzleme–inanç ilişkisi Avustralyalı okul çocuklarında yinelendi, ama **yalnızca ergenlerde**. Yazarlar bunu, ayrı televizyon olaylarının toplumsal gerçeklik inançlarına dönüşmesinin, küçük çocukların sahip olmadığı ya da kullanmadığı bilişsel becerileri gerektirdiğine bağladı.\n\nİçerik türleri ayrıldığında, şiddet inançları en çok suç–macera programları ve çizgi filmlerden kaynaklandı; “kötü dünya” algısı ise tüm televizyon izlemesiyle daha genel biçimde ilişkiliydi [[cite:hawkins-pingree-1980]]. (Çocuklar için [[lesson:children-and-tv]].)"
+    },
+    {
+      "id": "deep-moderators", "section": "evidence", "layer": "deep", "kind": "text",
+      "title": "Derin: Meta-analizler ve “aracı değişkenler”",
+      "body": "**1997 meta-analizi:** Morgan ve Shanahan, bulgulardaki değişimin büyük bölümünün örnekleme hatasına bağlanabileceğini, test ettikleri hipotetik aracı değişkenler arasında belirgin bir tanesinin bulunmadığını bildirdi; bir dizi kuramsal iddia meta-analitik bakışta arka plana düştü [[cite:morgan-shanahan-1997]].\n\n**2021 meta-analizi:** Genel etki .107; dar bir aralıkta değişiyor. Genel izleme, tür bazlı izlemeden daha güçlü etki verdi ama bu üstünlük zamanla zayıfladı. Ayrıca küçük örneklemlerde ve anketle toplanan verilerde etki daha büyüktü [[cite:hermann-morgan-shanahan-2021]].\n\nYazarlar bu tablonun “geleneksel” bakışı desteklediğini, ama “reformist” bakışı da kısmen desteklediğini yazar [[cite:hermann-morgan-shanahan-2021]]. Yani ne kuramın tam savunusu ne tam yıkımı: dengeli bir kanıt tablosu."
+    },
+    {
+      "id": "critique-hirsch", "section": "critique", "layer": "core", "kind": "story",
+      "title": "1980: Aynı veri, farklı sonuç",
+      "body": "1980’de iki araştırmacı, Gerbner ekibinin bulgularına ulusal anket verisinden yeniden baktı.\n\nMichael Hughes, Genel Sosyal Anket’in (GSS) 1975 ve 1977 verilerinde, yabancılaşma ve geceleri evin yakınında yürümekten korkma maddelerini yeniden analiz etti. Yaş, cinsiyet, ırk, gelir, eğitim, kilise devamı, dernek üyeliği gibi değişkenleri **eş zamanlı** kontrol edince, Gerbner ekibinin bulduğu etkilerin büyük ölçüde ortadan kalktığını bildirdi [[cite:hughes-1980]].\n\n[[person:hirsch|Paul Hirsch]] da madde, örneklem ve kodlama tutarsızlıklarına işaret etti; kontroller tek tek değil eş zamanlı uygulandığında izleme miktarıyla “televizyon yanıtı” arasında doğrusal ilişki kalmadığını gösterdiğini savundu ve kültivasyon hipotezinin ampirik dayanaktan yoksun olduğu sonucuna vardı [[cite:hirsch-1980]].\n\nGerbner ekibi susmadı: Communication Research’te “Paul Hirsch’in korkutucu dünyasına tuhaf bir yolculuk” başlıklı yanıtı yayımladı [[cite:gerbner-et-al-1981]]. Shanahan ve Morgan, ana akımlaşmanın bu ilk eleştirilere verilen başlıca yanıtlardan biri olduğunu yazar [[cite:shanahan-morgan-1999]].\n\nBizim okumamız: bu, çoğunlukla kontrol stratejisine dair yöntemsel bir tartışmaydı; iki taraf da aynı veriyi farklı biçimde kesiyordu.",
+      "question": {
+        "id": "critique-hirsch-q", "type": "mcq",
+        "prompt": "Hirsch’in (1980) kültivasyon eleştirisinin temel yöntemsel noktası aşağıdakilerden hangisidir?",
+        "options": [
+          "Anket sorularının televizyon hakkında sorulması gerektiği",
+          "Kontrollerin tek tek değil eş zamanlı uygulandığında doğrusal ilişkinin kaybolduğu",
+          "Televizyon izlemenin kesinlikle saldırganlık yarattığı",
+          "Kuramın yalnızca haber izleyicilerine uygulanabildiği"
+        ],
+        "answer": 1,
+        "explain": "Hirsch’in ana argümanı, kontrollerin eş zamanlı uygulanmasıyla izleme ile televizyon yanıtı arasında doğrusal ilişkinin ortadan kalktığıydı. Üçüncü şık hem tersidir hem de kuramın kendi iddiası değildir: Hirsch kuramı destekleyen değil eleştiren biriydi."
+      }
+    },
+    {
+      "id": "critique-causality", "section": "critique", "layer": "core", "kind": "text",
+      "title": "Nedensellik, tek tip mesaj ve ölçüm sorunu",
+      "body": "Eleştirinin en ünlü kolu **nedensellik**tir. Doob ve Macdonald (1979), Toronto’da yüksek ve düşük suç oranlı mahallelerde kapı kapı anket yaptı. Bütün mahalleleri birleştirince önceki bulguyu tekrarladılar; ama mahalle içi ilişkiler anlamsızdı. Yani gerçek suç oranı kontrol edilince, izleme ile korku arasında genel bir ilişki yoktu [[cite:doob-macdonald-1979]]. Üçüncü bir etken (mahallenin gerçek tehlikesi) hem izlemeyi hem korkuyu açıklıyor olabilirdi. Özer’e göre bu bulgu, Gerbner’in rezonans kavramını geliştirmesine temel oldu [[cite:ozer-2005]].\n\nKavramsal cephede [[person:potter|W. James Potter]] 1993’te kuramı tek tip mesaj, seçici olmayan izleme, doğrusallık, nedensellik, ana akımlaşma ve rezonans gibi varsayımlar üzerinden inceledi [[cite:potter-1993]]. 2014’te ise “kültivasyon”un aslında üç farklı şeye karşılık geldiğini savundu [[cite:potter-2014]].\n\nTürkçe literatürde de sesler var. İrfan Erdoğan, Gerbner’in ele aldığı şiddetin çok dar bir çerçevede kaldığını, çok daha önemli şiddet biçimleri bulunduğunu yazar [[cite:erdogan-1998]]. Yaylagül ise proje yönteminin geleneksel içerik analizi ve anket olduğunu, tarihsel-kurumsal bağlamdan yoksun bir yönetim araştırması sayılabileceğini belirtir [[cite:yaylagul-2006]].\n\nSavunucuların yanıtı: kültivasyon karşılıklı bir süreçtir ve bazı “nedensel” eleştiriler ana noktayı kaçırır [[cite:shanahan-morgan-1999]].",
+      "question": {
+        "id": "critique-causality-q", "type": "mcq",
+        "prompt": "Doob ve Macdonald’ın Toronto çalışmasında, mahallenin gerçek suç oranı hesaba katılınca ne oldu?",
+        "options": [
+          "Televizyon izleme ile korku arasındaki ilişki daha da güçlendi.",
+          "Mahalle içi ilişki anlamsızlaştı; genel bir izleme–korku ilişkisi görülmedi.",
+          "Sadece çocuklarda etki görüldü.",
+          "Kadın izleyicilerin etkisi ortadan kalktı."
+        ],
+        "answer": 1,
+        "explain": "Dört mahallede (yüksek ve düşük suç, şehir merkezi ve banliyö) bütün veriler birleştirildiğinde ilişki bulundu; ancak mahalle içi ortalama ilişki anlamsızdı. İlk şık eleştirinin tam tersidir: bulgu kuramı daha zayıf, daha koşullu gösterdi."
+      }
+    },
+    {
+      "id": "deep-exchange", "section": "critique", "layer": "deep", "kind": "text",
+      "title": "Derin: 1980–81 tartışmasının kronolojisi",
+      "body": "Tartışmanın ana halkaları Crossref kayıtlarıyla doğrulandı:\n\n- Hughes (1980), Public Opinion Quarterly 44(3): GSS verilerinin yeniden analizi [[cite:hughes-1980]].\n- Hirsch (1980), Communication Research 7(4): “Korkutucu dünya” makalesi, birinci bölüm [[cite:hirsch-1980]].\n- Hirsch (1981), Communication Research 8(1): ikinci bölüm [[cite:hirsch-1981]].\n- Gerbner, Gross, Morgan ve Signorielli (1981), aynı sayıda (8(1), s. 39–72): “Paul Hirsch’in korkutucu dünyasına tuhaf bir yolculuk” [[cite:gerbner-et-al-1981]].\n- Aynı dört yazarın “Hirsch’e son yanıt” yazısı, Communication Research 8(3) [[cite:gerbner-et-al-1981b]].\n\nBir başka halka: Hirsch, ana akımlaşma etkisinin “ortalamaya dönüş” adlı istatistiksel bir yapaylık olduğunu ileri sürdü. Van den Bulck (2003), Gerbner’in yönteminde rastlantısal etkilerin hem çok hem az izleyenler için aynı fırsata sahip olduğunu, dolayısıyla ana akımlaşmanın ortalamaya dönüşten kaynaklanamayacağını savundu [[cite:van-den-bulck-2003]]."
+    },
+    {
+      "id": "deep-potter", "section": "critique", "layer": "deep", "kind": "text",
+      "title": "Derin: Potter’ın “üç kültivasyon” ayrımı",
+      "body": "Potter (2014) bir edebiyat taraması yaptı ve “kültivasyon” teriminin üç farklı anlamda kullanıldığını savundu [[cite:potter-2014]]:\n\n1. Gerbner’in medya süreçleri ve etkilerine dair **makro sistem açıklaması**.\n2. Televizyon maruziyeti ile geniş bir kültivasyon göstergeleri yelpazesi arasında ilişki arayan **operasyonel uygulamalar** kümesi.\n3. Araştırmacıların Gerbner’in kavramsal sınırlarının dışına çıktığı, medya etkisini araştıran **genel bir tartışma platformu**.\n\nYazar bu literatürü “buluşsal değer, ampirik destek ve kesinlik” ölçütleriyle değerlendirdi [[cite:potter-2014]]. 1993’teki makalesi ise göstergelerin anlamı, tek tip mesaj ve seçici olmayan izleme, doğrusallık, nedensellik ve ana akımlaşma gibi varsayımları ele almıştı [[cite:potter-1993]].\n\nBu, savunucular için de faydalı bir uyarı: bir çalışma “kültivasyon” dediğinde, hangi anlamda söylediğini sor."
+    },
+    {
+      "id": "today-digital", "section": "today", "layer": "core", "kind": "text",
+      "title": "Akış çağında kültivasyon: belgelenen bulgular",
+      "body": "Gerbner’in dünyasında birkaç kanal vardı ve herkes yaklaşık aynı hikâyeleri izliyordu. Bugünün kişiselleştirilmiş akışlarında bu “ortak mesaj sistemi” varsayımı zorlaşıyor. Morgan, Shanahan ve Signorielli (2015) bu değişen koşulları tartışır [[cite:morgan-shanahan-signorielli-2015]]. Belgelenmiş bulgular:\n\n- **Televizyon hâlâ ilişkili:** 2021 meta-analizinde etki on yıllardır kararlı kaldı [[cite:hermann-morgan-shanahan-2021]].\n- **Sosyal medya:** 2023 meta-analizi, 66 bağımsız örneklemden 460 etki büyüklüğü, genel etki .123. Belirli içeriğe maruz kalma çalışmalarında etki genel kullanıma göre daha yüksekti; genç örneklemlerde ve Asya örneklemlerinde de yüksekti; aktif kullanım ölçüldüğünde ise düşüktü [[cite:hermann-morgan-shanahan-2023]].\n- **Oyun:** Bir aylık çevrimiçi oyun deneyinde katılımcıların gerçek dünyadaki tehlike algısı değişti, ama yalnızca oyun dünyasında görülen tehlikeler için [[cite:williams-2006]].\n- **Facebook:** 2010–2015 boyunca gizlilik tutumları gevşedi; yoğun kullanıcılarda risk algısı arttı, hafif kullanıcılarda sabit kaldı [[cite:tsay-vogel-shanahan-signorielli-2018]].\n\nBizim yorumumuz (belgelenmiş değil): kişiselleştirilmiş akışta “herkese aynı hikâye” varsayımı zayıflar; buna karşılık belirli içerik türünün daha güçlü etki vermesi (2023) tam da bu yönde bir ipucu olabilir. Netflix gibi akış hizmetleri için doğruladığım bir çalışma yok; o yüzden burada iddia kurmuyorum.",
+      "question": {
+        "id": "today-digital-q", "type": "mcq",
+        "prompt": "Hermann, Morgan ve Shanahan’ın 2023 tarihli sosyal medya meta-analizi hangi eğilimi buldu?",
+        "options": [
+          "Genel sosyal medya kullanımı, belirli içeriğe maruz kalmadan daha güçlü etki gösterdi.",
+          "Belirli içerik türüne maruz kalma, genel kullanımdan daha yüksek etki gösterdi.",
+          "Aktif kullanım, pasif kullanımdan daha yüksek etki gösterdi.",
+          "Etki yalnızca yaşlı örneklemlerde görüldü."
+        ],
+        "answer": 1,
+        "explain": "Meta-analiz, belirli içeriğe maruz kalma çalışmalarında etkinin genel kullanıma göre daha yüksek çıktığını bildirdi; gençlerde de daha yüksekti, aktif kullanımda ise daha düşük. Üçüncü ve dördüncü şıklar bulguların tersini söyler."
+      }
+    },
+    {
+      "id": "today-lab", "section": "today", "layer": "core", "kind": "lab",
+      "title": "Mini laboratuvar: kendi akışının mesaj sistemi",
+      "body": "Kültivasyonun ilk ayağını (mesaj sistemi) evde deneyebilirsin. Bu bir bilimsel çalışma değil, mantığı hissetmek için bir egzersiz.\n\n**Yapılacaklar (üç gün):**\n\n1. Her gün akışında (haber, video, sosyal medya, dizi) ilk 30 içeriği gözle. Yalnızca kendi akışını; başkalarının hesaplarını not etme.\n2. Her içerik için tek bir kategori seç: tehlike/felaket/suç, gündelik yaşam, eğlence, diğer.\n3. Üç günün toplamında kaç tanesinin tehlike/felaket/suç olduğunu say.\n\nSonra kendine sor: Bu, benim günlük hayatta gerçekten karşılaştığım tehlike sıklığından daha mı yüksek? Hangi hikâyeler daha sık tekrar ediyor?\n\n**Eksik olan:** Bilimsel bir mesaj sistemi çözümlemesi temsilî bir örneklem, tutarlı kodlama kuralları ve birden çok kodlayıcı ister. Senin egzersizinde bunların hiçbiri yok; o yüzden sonuçtan “akışlar kötü dünya üretir” diye sonuç çıkaramazsın. Yalnızca doğru soruyu sormayı öğreniyorsun.\n\n**Bonus düşünce:** Bir arkadaşınla yalnızca sayıları (ör. “30 içerikten kaçı tehlike?”) karşılaştır; içerik ya da hesap paylaşmana gerek yok. Sayılar neden farklı çıkıyor? Bu fark, kültivasyonun “herkes aynı hikâyeleri görür” varsayımını nasıl etkiler?",
+      "question": {
+        "id": "today-lab-q", "type": "mcq",
+        "prompt": "Bu mini egzersiz, kültivasyonun üç ayağından hangisinin basit bir taklididir?",
+        "options": [
+          "Kurumsal süreç çözümlemesi",
+          "Mesaj sistemi çözümlemesi",
+          "Kültivasyon çözümlemesi",
+          "Hiçbiri"
+        ],
+        "answer": 1,
+        "explain": "Bir akıştaki içerikleri kategorilere ayırıp saymak mesaj sistemi çözümlemesinin basit bir biçimidir. Kültivasyon çözümlemesi izleyicilerin inançlarını ölçen ankettir; bu egzersizde anket yok. Kurumsal süreç ise içeriği kimin, hangi baskıyla ürettiğine bakar."
+      }
+    },
+    {
+      "id": "turkey-studies", "section": "turkey", "layer": "core", "kind": "text",
+      "title": "Türkiye’de kültivasyon çalışmaları",
+      "body": "Kültivasyon Türkiye’de de sınandı. Türkçede kuram “ekme” (Yaylagül, Erdoğan), “yetiştirme” (Özer, Ercan ve Demir) ve “kültürel göstergeler” adlarıyla geçer.\n\n- **Ankara liseleri (2005):** Ömer Özer, iki lisenin öğrencileriyle yaptığı alan çalışmasında, tehlikeli dünya algısının şiddet yoğun yerlerde yaşamaya mı yoksa televizyona mı bağlı olduğunu sınadı ve rezonans fikrini ele aldı. Yazar, sonuçların Gerbner ve arkadaşlarının önermelerini doğruladığını bildirir [[cite:ozer-2005]].\n- **Anadolu Üniversitesi Fen Fakültesi:** Ercan ve Demir (2015), yetiştirme çözümlemesi bileşeninden yararlanan bir anket uyguladı [[cite:ercan-demir-2015]]. Özer (2019) aynı fakültenin öğrencileriyle yaptığı araştırmada, ağır izleyicilerin polisi bu dünya için gerekli gördüğünü ve bunu hegemonyanın gerçekleştiğine işaret olarak yorumladığını yazar [[cite:ozer-2019]].\n- **Bakü (2024):** Özer ve Jafarli önce Türk kanallarının (ATV, Kanal D, Star, Show TV) ana yayın kuşağında mesaj sistemi çözümlemesi yaptı: suç, şiddet, ölüm, güvenlik güçleri, erkek egemenliği gibi ögeler öne çıktı. Anket soruları bu bulgulara göre hazırlandı ve Bakü’deki 500 üniversite öğrencisine (300 kadın, 200 erkek) uygulandı. Yazarlar, televizyonun yetiştirme ve yaygın görüş hâline getirme rolü olduğu sonucuna vardı [[cite:ozer-jafarli-2024]].\n- **Eleştirel okuma:** Erdoğan (1998), Gerbner’in yaklaşımını kuram ve yöntem açısından değerlendirdi [[cite:erdogan-1998]].\n\nNot: bunlar küçük ve yerel örneklemler; sonuçları ulusal genellemeler olarak okuma. Verilen yorumlar yazarlarına aittir.",
+      "question": {
+        "id": "turkey-studies-q", "type": "mcq",
+        "prompt": "Özer ve Jafarli’nin Bakü çalışmasında anket soruları nasıl hazırlandı?",
+        "options": [
+          "Sorular, Amerikan çalışmalarından aynen çevrildi.",
+          "Önce Türk kanallarında mesaj sistemi çözümlemesi yapıldı; sorular bu bulgulara göre hazırlandı.",
+          "Anket yapıldı, içerik çözümlemesi hiç yapılmadı.",
+          "Yalnızca haber programları incelendi."
+        ],
+        "answer": 1,
+        "explain": "Çalışma, kuramın mantığına uyar: önce mesaj sistemi çözümlemesi (ATV, Kanal D, Star, Show TV), sonra bu bulgulara göre anket. Anketle başlamak (üçüncü şık) kültivasyon çalışmasının sırasını bozar."
+      }
+    },
+    {
+      "id": "exam-patterns", "section": "exam", "layer": "core", "kind": "text",
+      "title": "Sınavda böyle sorulur",
+      "body": "**Sık çıkan kalıplar**\n\n- “Kültürel Göstergeler projesi ve ekme kuramı kime aittir?” → George Gerbner (Annenberg, Pennsylvania).\n- Kavram eşleştirme: ana akımlaşma, rezonans, kötü dünya sendromu, ağır izleyici.\n- Kuram karşılaştırma: kültivasyon (uzun vadeli gerçeklik algısı) ile gündem belirleme (hangi konuların önemli sayıldığı) ve şırınga modeli (tek mesaj, anlık etki).\n\n**Cazip yanlışlar**\n\n- “Şiddet izleyen şiddet uygular” → kültivasyonun iddiası değil; onun iddiası korku ve dünya algısıdır.\n- “Hirsch kuramı destekledi” → hayır, 1980–81’de yeniden analizle eleştirdi.\n- “Potter Gerbner’in çalışma arkadaşıydı” → hayır, kavramsal eleştirmendi.\n- Yıllar: Şiddet Profili 1976; ana akımlaşma makalesi 1980.\n\n**Alternatif adlar (kitap ve makalelerde)**\n\n- Yaylagül (2006): “Kültürel Göstergeler ve Ekme Kuramı”; birinci ve ikinci düzey etkiler ayrımını da anar [[cite:yaylagul-2006]]. AUZEF ders kitabında (8. ünite) “Kültürel Göstergeler ve Ekme Modeli” başlığı geçer.\n- Özer ve başkaları: “yetiştirme kuramı”, “yetiştirme çözümlemesi” [[cite:ozer-2005]].\n- Özkan (2017): “kötü dünya sendromu” [[cite:ozkan-2017]].\n\nTürkçe kaynaklarda Kültürel Göstergeler’in “1960’ların ortası”nda başladığı yazılabilir [[cite:yaylagul-2006]] [[cite:erdogan-1998]]; ilk şiddet çözümlemesi ise 1967–68 sezonudur.",
+      "question": {
+        "id": "exam-patterns-q", "type": "mcq",
+        "prompt": "Bir sınav sorusu, “Hangi kuram, televizyonu çok izlemenin gerçek dünyayı ekrandaki dünyaya benzer algılamaya yol açtığını uzun vadede savunur?” diye soruyor. Doğru cevap hangisidir?",
+        "options": [
+          "Gündem belirleme",
+          "Suskunluk sarmalı",
+          "Kültivasyon (ekme/yetiştirme)",
+          "Şırınga (sihirli mermi) modeli"
+        ],
+        "answer": 2,
+        "explain": "Uzun vadeli, birikimli gerçeklik algısı kültivasyonun imzasıdır. Gündem belirleme hangi konuların önemli sayıldığına, suskunluk sarmalı azınlıkta kalma korkusuna, şırınga modeli tek mesajın anlık etkisine odaklanır."
+      }
+    },
+    {
+      "id": "summary", "section": "summary", "layer": "core", "kind": "summary",
+      "title": "Özet kartı",
+      "body": "- **1967–69:** Şiddet komisyonu ve Surgeon General komitesi bağlamında, Gerbner’in yıllık televizyon içerik çözümlemesi başlar; Kültürel Göstergeler doğar.\n- **Üç ayak:** kurumsal süreç, mesaj sistemi, kültivasyon çözümlemesi.\n- **Temel iddia:** çok izleyenler, gerçek dünyayı televizyon dünyasına uygun algılar; etki yıllara yayılır.\n- **Kavramlar:** ağır (çok) izleyici, televizyon yanıtı, kötü dünya sendromu, ana akımlaşma, rezonans.\n- **Kanıt:** meta-analizler; ortalama etki .09 (1997) ve .107 (2021), on yıllarca dar aralıkta.\n- **Eleştiri:** Hughes ve Hirsch (1980–81), Doob ve Macdonald (1979), Potter (1993, 2014); nedensellik ve ölçüm.\n- **Bugün:** sosyal medya (.123), oyun ve akışlar; belirli içerik türü belirleyici olabilir.\n- **Sınav:** “taklit” değil “dünya algısı”; yıllar: 1976 ve 1980.",
+      "question": {
+        "id": "summary-q", "type": "tf",
+        "prompt": "Doğru mu yanlış mı: Kültivasyona göre televizyonun ana etkisi, izleyicileri doğrudan şiddete yöneltmesidir.",
+        "answer": false,
+        "explain": "Yanlış. Kültivasyonun odağı dünya algısı ve korkudur (kötü dünya sendromu); Gerbner doğrudan şiddet katkısını önemsiz bulur."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1", "type": "mcq",
+      "prompt": "Bir araştırma ekibi, dizi ve haberlerin hangi ticari ve kurumsal baskılar altında üretildiğini inceliyor. Bu, Kültürel Göstergeler’in hangi ayağıdır?",
+      "options": [
+        "Mesaj sistemi çözümlemesi",
+        "Kültivasyon çözümlemesi",
+        "Kurumsal süreç çözümlemesi",
+        "Kullanımlar ve doyumlar çözümlemesi"
+      ],
+      "answer": 2,
+      "explain": "Mesajların hangi süreç ve baskılarla seçilip üretildiğini sorgulamak kurumsal süreç çözümlemesidir. Mesaj sistemi çözümlemesi içeriği sayar; kültivasyon çözümlemesi izleyicilerin inançlarını ölçer. Dördüncü şık başka bir kuramın adıdır."
+    },
+    {
+      "id": "q2", "type": "tf",
+      "prompt": "Doğru mu yanlış mı: Gerbner’e göre televizyon şiddetinin temel sonucu, izleyicilerin bu şiddeti taklit etmesidir.",
+      "answer": false,
+      "explain": "Yanlış. Gerbner doğrudan şiddet katkısını önemsiz bulduğunu söylemiş, asıl sonuç olarak korku ve güvensizlik duygusunu (kötü dünya sendromu) öne çıkarmıştır. Taklit iddiası kültivasyona değil, deney ve toplumsal öğrenme geleneğine aittir."
+    },
+    {
+      "id": "q3", "type": "match",
+      "prompt": "Araştırmacıları ve çalışmaları ait oldukları katkıyla eşleştir.",
+      "pairs": [
+        ["George Gerbner", "Kültürel Göstergeler projesinin kurucusu; üç ayaklı tasarım"],
+        ["Doob ve Macdonald (1979)", "Toronto’da yüksek ve düşük suç oranlı mahalle karşılaştırması"],
+        ["Potter (1993, 2014)", "Kuramın kavramsal eleştirisi; üç ayrı “kültivasyon” anlamı"],
+        ["Hawkins ve Pingree (1980)", "Perth’te 1280 çocukla yapılan çalışma"],
+        ["Morgan ve Shanahan (1997)", "Yirmi yıllık çalışmaların meta-analizi (ortalama .09)"]
+      ],
+      "explain": "Bu eşleşmeleri karıştırmak sınavda sık yapılır. Gerbner kurucudur; Doob–Macdonald gerçek suç oranını hesaba katan eleştirmenlerdir; Potter kavramsal eleştirmendir; Hawkins–Pingree Avustralya’da çocuklarla yineleme yaptı; Morgan–Shanahan meta-analizi kuramın kendi savunucularının kanıt taramasıdır."
+    },
+    {
+      "id": "q4", "type": "order",
+      "prompt": "Olayları kronolojik sıraya diz (eskiden yeniye).",
+      "items": [
+        "Komisyon, 1967–68 sezonu şiddet içerik çözümlemesini finanse eder (1968)",
+        "Surgeon General komitesi ve 23 proje (1969)",
+        "Gerbner ve Gross’un Şiddet Profili makalesi (1976)",
+        "“Amerika’nın ana akımlaşması” makalesi (1980)",
+        "Potter’ın kavramsal eleştirisi (1993)",
+        "Sosyal medya meta-analizi (2023)"
+      ],
+      "explain": "Sıra: 1968 komisyon, 1969 komite, 1976 Şiddet Profili, 1980 ana akımlaşma, 1993 Potter, 2023 sosyal medya meta-analizi. Şiddet Profili ile ana akımlaşma makalesini karıştırmak sık yapılan bir yanlıştır: birincisi ilk sonuçlardır, ikincisi ilk eleştirilere verilen bir yanıttır."
+    },
+    {
+      "id": "q5", "type": "cloze",
+      "prompt": "Boşlukları doldur.",
+      "text": "Çok izleyenlerin, farklı gruplar arasındaki görüş farklarını aşındırarak ortak bir görüşe yaklaşmasına {{1}} denir; gündelik deneyim ile televizyon mesajlarının örtüşerek etkiyi artırmasına ise {{2}} denir.",
+      "blanks": [
+        { "options": ["ana akımlaşma", "gündem belirleme", "seçici algı", "öncüleme"], "answer": 0 },
+        { "options": ["rezonans", "suskunluk sarmalı", "çerçeveleme", "kapı bekçiliği"], "answer": 0 }
+      ],
+      "explain": "Ana akımlaşma, farkları aşındıran yakınlaşmadır; rezonans, deneyim ile mesajın “çifte doz” oluşturmasıdır. Diğer şıklar başka kuramlara aittir: gündem belirleme, öncüleme, çerçeveleme ve suskunluk sarmalı ayrı derslerimizin konularıdır."
+    },
+    {
+      "id": "q6", "type": "case",
+      "scenario": "Bir öğrenci kendi kampüsünde 200 kişiye anket uyguluyor: “Gece kampüste yalnız yürümekten çekinir misin?” ve günlük televizyon izleme süresi. Çok izleyenler daha çok çekiniyor. Öğrenci, sonucu “televizyon insanları korkutuyor” diye sunmak istiyor. (Varsayımsal senaryo.)",
+      "parts": [
+        {
+          "id": "q6a", "type": "mcq",
+          "prompt": "Bu çalışma Kültürel Göstergeler’in hangi ayağına karşılık gelir, ve neresi eksik?",
+          "options": [
+            "Kültivasyon çözümlemesine; ama televizyon dünyasının içerik çözümlemesi yok",
+            "Mesaj sistemi çözümlemesine; ama anket yok",
+            "Kurumsal süreç çözümlemesine; ama örneklem küçük",
+            "Hiçbirine, çünkü kültivasyon anket kullanmaz"
+          ],
+          "answer": 0,
+          "explain": "Anket ve gruplama kültivasyon çözümlemesidir. Ancak “televizyon yanıtı”nı tanımlayacak içerik çözümlemesi (mesaj sistemi) yok. Dördüncü şık yanlış: kültivasyon çözümlemesi tam olarak anketle yapılır."
+        },
+        {
+          "id": "q6b", "type": "mcq",
+          "prompt": "Doob ve Macdonald tarzı bir itiraz nedir?",
+          "options": [
+            "Kampüsteki gerçek suç ya da tehlike düzeyi hem izlemeyi hem korkuyu etkiliyor olabilir.",
+            "Öğrenciler zaten televizyon izlemez.",
+            "Anket soruları televizyon hakkında sorulmalıdır.",
+            "Etki yalnızca çocuklarda görülür."
+          ],
+          "answer": 0,
+          "explain": "Toronto çalışması, mahallenin gerçek suç oranı kontrol edilince ilişkinin kaybolduğunu gösterdi. Öğrencinin çalışmasında da üçüncü bir etken (gerçek güvenlik düzeyi) ilişkiyi açıklayabilir."
+        },
+        {
+          "id": "q6c", "type": "mcq",
+          "prompt": "Bu itirazın kültivasyon tarafındaki yanıtı hangi kavramdır?",
+          "options": [
+            "Rezonans: deneyim ile mesajın örtüşmesi etkiyi artırır",
+            "Gündem belirleme",
+            "Öncüleme",
+            "Suskunluk sarmalı"
+          ],
+          "answer": 0,
+          "explain": "Gerbner ekibi, gündelik deneyimin ve televizyon mesajlarının birlikte “çifte doz” yarattığını ileri sürdü. Diğer şıklar başka kuramların kavramlarıdır."
+        }
+      ],
+      "takeaway": "Kültivasyon çalışması hem içerik hem anket ister; ve gerçek dünya koşulları (suç oranı, mahalle) her zaman üçüncü bir etken olarak kontrol edilmelidir."
+    },
+    {
+      "id": "q7", "type": "mcq",
+      "prompt": "Hermann, Morgan ve Shanahan’ın (2021) meta-analizi hangi sonuca ulaştı?",
+      "options": [
+        "Etki on yıllar içinde ortadan kalktı.",
+        "Genel etki yaklaşık .107 ve on yıllar boyunca dar bir aralıkta kaldı.",
+        "Etki yalnızca haber izleyicilerinde görüldü.",
+        "Etki büyük ve giderek artıyor."
+      ],
+      "answer": 1,
+      "explain": "Meta-analiz 3842 etki büyüklüğünden .107 genel etki buldu ve etkinin on yıllar içinde dar bir aralıkta kaldığını bildirdi. “Ortadan kalktı” ve “giderek artıyor” bulgunun iki zıt karikatürüdür."
+    },
+    {
+      "id": "q8", "type": "tf",
+      "prompt": "Doğru mu yanlış mı: Hirsch (1980), Gerbner ekibinin verilerini yeniden analiz ederek kültivasyon hipotezinin ampirik dayanaktan yoksun olduğunu savundu.",
+      "answer": true,
+      "explain": "Doğru. Hirsch, kontroller eş zamanlı uygulandığında izleme ile televizyon yanıtı arasında doğrusal ilişki kalmadığını ve hipotezin ampirik desteğinin bulunmadığını ileri sürdü. Gerbner ekibi ise yanıt verdi."
+    },
+    {
+      "id": "q9", "type": "mcq",
+      "prompt": "Williams’ın (2006) bir aylık çevrimiçi oyun deneyi neyi buldu?",
+      "options": [
+        "Oyuncuların tüm gerçek dünya suçlarına ilişkin korkusu arttı.",
+        "Oyuncuların tehlike algısı yalnızca oyun dünyasında görülen tehlikeler için değişti.",
+        "Oyunun hiçbir algı etkisi yoktu.",
+        "Yalnızca çocuk oyuncularda etki görüldü."
+      ],
+      "answer": 1,
+      "explain": "Algı değişimi, oyunda karşılaşılan olay ve durumlarla sınırlıydı; bu, bazı kültivasyon araştırmacılarının öngördüğü daha geniş yayılmayla uyuşmuyordu. Birinci şık tam da bu geniş yayılmanın iddiasıdır ve bulgu değildir."
+    },
+    {
+      "id": "q10", "type": "mcq",
+      "prompt": "“Televizyonu çok izleyenler dünyayı gerçekte olduğundan daha tehlikeli ve güvensiz görür.” İfade hangi kavramı özetler?",
+      "options": [
+        "Ana akımlaşma",
+        "Kötü dünya sendromu",
+        "Suskunluk sarmalı",
+        "Öncüleme"
+      ],
+      "answer": 1,
+      "explain": "Bu, Gerbner’in kötü dünya sendromu tanımıdır. Ana akımlaşma farklı gruplar arası yakınlaşmayı, suskunluk sarmalı azınlıkta kalma korkusuyla susmayı, öncüleme ise haber çerçevesinin değerlendirmeleri etkilemesini anlatır."
+    },
+    {
+      "id": "q11", "type": "case",
+      "scenario": "Bir gençlik araştırmacısı, 2023 tarihli sosyal medya meta-analizini okuyor ve gençlerin “ne kadar zaman geçirdiği” yerine “hangi tür içeriğe maruz kaldığı”nı ölçen bir çalışma tasarlamak istiyor. (Varsayımsal senaryo.)",
+      "parts": [
+        {
+          "id": "q11a", "type": "mcq",
+          "prompt": "Bu tercih hangi meta-analiz bulgusuyla uyumludur?",
+          "options": [
+            "Belirli içeriğe maruz kalma, genel kullanımdan daha yüksek etki gösterdi.",
+            "Genel kullanım, belirli içerikten daha yüksek etki gösterdi.",
+            "Aktif kullanım en yüksek etkiyi gösterdi.",
+            "Yalnızca Avrupa örneklemlerinde etki vardı."
+          ],
+          "answer": 0,
+          "explain": "2023 meta-analizinde belirli içeriğe maruz kalma çalışmalarında etki genel kullanıma göre daha yüksekti. İkinci ve üçüncü şıklar ters çevrilmiş bulgulardır; dördüncüsü yanlış bölgeyi söyler (yüksek etki Asya örneklemlerindeydi)."
+        },
+        {
+          "id": "q11b", "type": "mcq",
+          "prompt": "Araştırmacı gençlerin kişiselleştirilmiş akışlarını nasıl yorumlamalı?",
+          "options": [
+            "Herkes aynı akışı gördüğü için mesaj sistemi ortaktır.",
+            "Kişiselleştirilmiş akışlarda ortak mesaj sistemi varsayımı sorgulanır; bu bizim yorumumuzdur, belgelenmiş değildir.",
+            "Kültivasyon yalnızca televizyona uygulanabilir.",
+            "Akışlar kötü dünya yaratır; kanıt kesindir."
+          ],
+          "answer": 1,
+          "explain": "Kişiselleştirilmiş akışlar ortak mesaj sistemi varsayımını zorlar; ancak bu bir yorumdur ve kanıt gerektirir. “Kesindir” şıkkı kanıtın sınırlarını aşar; “yalnızca televizyona” şıkkı ise sosyal medya çalışmalarının varlığını yok sayar."
+        }
+      ],
+      "takeaway": "Dijital ortamda kültivasyonu sınamak için “ne kadar” değil “ne tür içerik” sorusu daha verimli olabilir; ama ortak mesaj sistemi varsayımının bu ortamda sınanması gerekir."
+    },
+    {
+      "id": "q12", "type": "mcq",
+      "prompt": "Aşağıdakilerden hangisi kültivasyon ile gündem belirleme arasındaki farkı doğru ifade eder?",
+      "options": [
+        "Kültivasyon hangi konuların önemli sayıldığını, gündem belirleme ise uzun vadeli gerçeklik algısını inceler.",
+        "Kültivasyon uzun vadeli toplumsal gerçeklik algısını, gündem belirleme ise hangi konuların önemli sayıldığını inceler.",
+        "İkisi de tek bir mesajın anlık etkisini inceler.",
+        "İkisi de yalnızca haber içeriğiyle ilgilenir."
+      ],
+      "answer": 1,
+      "explain": "Kültivasyon uzun vadeli gerçeklik algısına (özellikle televizyonun toplam hikâye sistemine) bakar; gündem belirleme ise medyanın hangi konuları öne çıkardığına ve bunun kamuoyunda önem algısını nasıl etkilediğine. İlk şık ikisini yer değiştirmiş olarak verir; sınavda en sık bu tür ters çevirme tuzağı çıkar."
+    }
+  ]
+}

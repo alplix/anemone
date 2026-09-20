@@ -1,0 +1,15 @@
+{
+  "id": "glynn",
+  "lang": "tr",
+  "name": "Carroll J. Glynn",
+  "nativeName": "",
+  "slug": "carroll-glynn",
+  "short": "Kamuoyu ve toplumsal normlar üzerine çalışan iletişim araştırmacısı. Andrew Hayes ve James Shanahan ile birlikte 1997’de suskunluk sarmalına dair meta-analizi yazdı.",
+  "roles": ["iletişim araştırmacısı", "kamuoyu araştırmacısı"],
+  "bio": "Carroll J. Glynn, kamuoyunun ve toplumsal normların sosyal-psikolojik yönleri üzerine çalışan bir iletişim araştırmacısıdır. Doktorasını Wisconsin Üniversitesi’nde yaptı; uzun süre Ohio State Üniversitesi İletişim Okulu’nda profesör olarak çalıştı, okulun yöneticiliğini yürüttü ve şimdi emeritus profesördür.\n\nKamuoyu üzerine, birkaç ortak yazarla hazırlanmış bir üniversite ders kitabı olan *Public Opinion*’ın yazarlarından biridir; kitap birden çok baskı yaptı.\n\nSuskunluk sarmalı literatüründe en çok, Andrew Hayes ve James Shanahan ile 1997’de *Public Opinion Quarterly*’de yayımladığı meta-analizle bilinir: çalışma, sarmalın sınanabilir bir öncülünü, yani algılanan destek ile konuşma isteği arasındaki ilişkiyi, önceki anket çalışmalarını bir araya getirerek değerlendirdi.",
+  "works": [
+    { "bib": "glynn-hayes-shanahan-1997", "note": "Suskunluk sarmalı anket çalışmalarının meta-analizi." },
+    { "bib": "glynn-et-al-2016", "note": "Ortak yazarlı kamuoyu ders kitabı (3. baskı)." }
+  ],
+  "inCourse": "[[lesson:spiral-of-silence]] dersinin “Eleştiriler” bölümünde, kuramın ampirik sınamasını değerlendiren meta-analizle yer alır."
+}

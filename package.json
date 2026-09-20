@@ -1,0 +1,19 @@
+{
+  "name": "anemone",
+  "version": "0.1.0",
+  "description": "Anemone: a gamified, multilingual, accessible and SEO-friendly static course system. First course: Mass Communication Theories.",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "author": "Alperen Yavuz",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "validate": "node scripts/validate.mjs",
+    "check": "node scripts/validate.mjs && node scripts/build.mjs && node scripts/check-site.mjs",
+    "serve": "node scripts/serve.mjs",
+    "preview": "node scripts/build.mjs --local && node scripts/serve.mjs .preview 8123"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

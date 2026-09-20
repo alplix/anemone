@@ -1,0 +1,7 @@
+{
+  "id": "lippmann",
+  "born": { "year": 1889 },
+  "died": { "year": 1974 },
+  "sources": ["ebsco-lippmann", "encyclopedia-lippmann"],
+  "works": ["lippmann-1922"]
+}

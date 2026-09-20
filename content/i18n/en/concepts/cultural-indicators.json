@@ -1,0 +1,11 @@
+{
+  "id": "cultural-indicators",
+  "lang": "en",
+  "translation": { "status": "machine" },
+  "term": "Cultural Indicators Project",
+  "altTerms": ["Cultural Indicators", "kültürel göstergeler"],
+  "slug": "cultural-indicators-project",
+  "short": "A long-running research programme that George Gerbner started in the late 1960s, monitoring television content over the years and combining it with viewer surveys; the framework of cultivation theory.",
+  "body": "Cultural Indicators is a long-running television research programme that [[person:gerbner|George Gerbner]] started at the University of Pennsylvania in the late 1960s. The idea of an “indicator” is the cultural counterpart of economic and social indicators: a barometer of cultural issues. Gerbner thought of the project as a relatively independent “Third Voice” in cultural-policy debates where political and commercial interests clash.\n\nThe project has three prongs: institutional process analysis, which examines the institutional pressures under which messages are produced; [[concept:message-system-analysis]], which counts the recurring patterns in content; and cultivation analysis, which examines how paying attention to this message system relates to viewers’ conception of reality ([[concept:cultivation]]). Its starting point was the 1967–68 season violence analysis funded by the National Commission on the Causes and Prevention of Violence, set up in 1968. Since 1967, weekly samples from the prime-time and weekend daytime fiction programmes of the American broadcast networks have been analysed every year; the first national viewer survey was carried out in the early 1970s. Britannica reports that the database covers more than 3,000 programmes and 35,000 characters.\n\nIn Turkish it appears as “kültürel göstergeler projesi” (“cultural indicators project”); the relevant heading in Yaylagül’s book is “Kültürel Göstergeler ve Ekme Kuramı” (“Cultural Indicators and Cultivation Theory”).",
+  "example": "Recording a week of prime-time series and counting the proportion of female and male characters and who harms whom; then asking viewers in a national survey about their beliefs on these subjects."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "noelle-neumann",
+  "lang": "tr",
+  "name": "Elisabeth Noelle-Neumann",
+  "nativeName": "",
+  "slug": "elisabeth-noelle-neumann",
+  "short": "Alman kamuoyu araştırmacısı ve iletişim bilimci (1916–2010). Allensbach Enstitüsü’nün kurucusu; suskunluk sarmalı kuramının geliştiricisi.",
+  "born": "Berlin",
+  "roles": ["kamuoyu araştırmacısı", "iletişim bilimci", "gazeteci"],
+  "bio": "Elisabeth Noelle-Neumann 1916’da Berlin’de doğdu ve 2010’da öldü. Küçük yaşta gazeteci olmaya karar vermişti; felsefe, tarih ve gazetecilik (*Zeitungswissenschaft*) okudu. 1937’de bir DAAD bursuyla ABD’deki Missouri Üniversitesi Gazetecilik Okulu’na gitti; orada George Gallup’un yeni kitlesel kamuoyu anketleriyle tanıştı ve doktora tezini Amerikan kamuoyu anketleri üzerine yazdı.\n\n1940–1945 arasında Nazi döneminde gazetecilik ve editörlük yaptı; çalıştığı yayınlar arasında *Das Reich* ve *Frankfurter Zeitung* da vardı. Bu dönemdeki rolünün nasıl değerlendirileceği sonradan uzun süre tartışıldı; kendisi suçlamaları reddetti. Ders, bu tartışmayı ayrıca ele alır.\n\n1947’de eşi Erich Peter Neumann ile birlikte Allensbach Demoskopi Enstitüsü’nü kurdu; kurum, Almanya’nın ilk kamuoyu araştırma enstitüsü olarak anılır. 1960’ların ortasında Mainz Üniversitesi’nde gazetecilik ve yayıncılık bilimi (*Publizistik*) profesörü oldu, Allensbach’ın başında kalmayı sürdürdü ve Mainz’ı Almanya’nın önde gelen iletişim bilimi merkezlerinden biri yapan bir okulun kurucu ismi sayıldı. Chicago Üniversitesi’nde de defalarca ders verdi.\n\nUluslararası ünü suskunluk sarmalı kuramına dayanır. Kuramı 1974’te yayımladı, 1980’de Almanca bir kitapla genişletti; kitabın İngilizce baskısı 1984’te çıktı ve birçok dile çevrildi. Kuram, kamuoyunu rasyonel bir tartışmanın ürünü olarak değil, bireyi topluluğa bağlayan toplumsal bir denetim olarak gören bakışıyla, kitle iletişiminde “sınırlı etkiler” kabulüne karşı çıkan 1970’lerin yaklaşımları arasında sayılır.",
+  "works": [
+    { "bib": "noelle-neumann-1974", "note": "Kuramın İngilizce ilk ve en çok atıf yapılan makalesi." },
+    { "bib": "noelle-neumann-1980", "note": "Almanca ilk kitap: Die Schweigespirale (Piper)." },
+    { "bib": "noelle-neumann-1984", "note": "Kitabın İngilizce baskısı: The Spiral of Silence: Public Opinion – Our Social Skin." },
+    { "bib": "noelle-neumann-1989", "note": "Ayrı bir Almanca kitap: Öffentliche Meinung. Die Entdeckung der Schweigespirale." },
+    { "bib": "noelle-neumann-1998-tr", "note": "Türkçe çeviri: Kamuoyu: Suskunluk Sarmalının Keşfi." }
+  ],
+  "inCourse": "[[lesson:spiral-of-silence]] dersinin ana kuramcısıdır; [[concept:spiral-of-silence]], [[concept:fear-of-isolation]], [[concept:quasi-statistical-sense]] ve [[concept:hard-core]] kavramlarıyla anılır. Devam dersleri [[lesson:spiral-research]] ve [[lesson:filter-bubbles]]."
+}

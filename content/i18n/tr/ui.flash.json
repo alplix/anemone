@@ -1,0 +1,12 @@
+{
+  "flash.title": "Kavram kartları",
+  "flash.intro": "Sözlükten on beş kavram. Terimi gör, tanımı hatırlamaya çalış, sonra kendini kontrol et.",
+  "flash.start": "Kartları başlat",
+  "flash.empty": "Henüz çalışılacak kavram yok.",
+  "flash.card-of": "Kart {n} / {total}",
+  "flash.reveal": "Tanımı göster",
+  "flash.knew": "Biliyordum",
+  "flash.again": "Henüz değil",
+  "flash.done": "Kartlar bitti",
+  "flash.done-line": "{total} kavramın {known} tanesini biliyordun."
+}

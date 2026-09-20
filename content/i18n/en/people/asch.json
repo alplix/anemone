@@ -1,0 +1,18 @@
+{
+  "id": "asch",
+  "lang": "en",
+  "translation": { "status": "machine" },
+  "name": "Solomon Asch",
+  "nativeName": "",
+  "slug": "solomon-asch",
+  "short": "Polish-born American social psychologist (1907–1996). Known for his 1950s line-length conformity experiments; in Noelle-Neumann’s theory, one of the psychological supports of fear of isolation.",
+  "born": "Warsaw",
+  "died": "Haverford, Pennsylvania (USA)",
+  "roles": ["social psychologist"],
+  "bio": "Solomon E. Asch was born in Warsaw in 1907 and died in Haverford, Pennsylvania, in the United States, in 1996. He graduated from the City College in New York in 1928; he took his master’s degree at Columbia University in 1930 and his doctorate in 1932.\n\nHe had a long academic life: he worked at Brooklyn College, at the New School for Social Research and mainly at Swarthmore College; from the mid-1960s he headed the Institute for Cognitive Studies at Rutgers University, and in the 1970s he became a professor at the University of Pennsylvania. His book *Social Psychology*, published in 1952, is counted among the classics of the field.\n\nHis contribution that concerns us in this lesson is the conformity experiments of the 1950s. Asch set up a disagreement over a simple and clear fact between one person and a group unanimous in a wrong answer: finding the line the same length as a standard line. The subject had to give their answer aloud in front of the group. In the monograph published in 1956 he reported the work he did with 123 subjects from three different institutions: about a third of the estimates in the critical trials moved to the majority’s wrong answer; but most of the answers remained independent and some subjects never yielded. Asch interpreted these findings not only as “people are like sheep” but with a view that tries to understand together people’s tendencies both to conform and to stay independent.\n\nWhen arguing that people shrink from standing alone and that this creates a social pressure, Noelle-Neumann often turned to Asch’s experiments; they are read as one of the psychological supports in the background of the spiral of silence.",
+  "works": [
+    { "bib": "asch-1952", "note": "A classic textbook of social psychology; written before the conformity experiments." },
+    { "bib": "asch-1956", "note": "The detailed report of the line experiment: 123 subjects, 12 of the 18 trials critical." }
+  ],
+  "inCourse": "In the lesson [[lesson:spiral-of-silence]] he appears with the experiments that give a background to Noelle-Neumann’s fear-of-isolation assumption; he is also related to the concept [[concept:fear-of-isolation]]."
+}

@@ -1,0 +1,1070 @@
+{
+  "mccombs-shaw-1972": {
+    "type": "article",
+    "authors": [
+      "McCombs, Maxwell E.",
+      "Shaw, Donald L."
+    ],
+    "year": 1972,
+    "title": "The agenda-setting function of mass media",
+    "container": "Public Opinion Quarterly",
+    "volume": "36",
+    "issue": "2",
+    "pages": "176-187",
+    "doi": "10.1086/267990",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record matched (start page 176; end page 187 read from the article PDF and confirmed by the reference list in Weaver 2025). Full text read (PDF at fbaum.unc.edu/teaching/articles/POQ-1972-McCOMBS-176-87.pdf); all design details and numbers in the lesson come from this text."
+    }
+  },
+  "lippmann-1922": {
+    "type": "book",
+    "authors": [
+      "Lippmann, Walter"
+    ],
+    "year": 1922,
+    "title": "Public Opinion",
+    "publisher": "Harcourt, Brace and Company",
+    "place": "New York",
+    "edition": "1st",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library editions list: Public opinion, New York, Harcourt, Brace and Company, 1922, 427 pp. Chapter I read in the Project Gutenberg text (ebook 6456); the island anecdote, the chapter title and the quoted phrase are checked against it. Note: some later reprints and the ERIC essay by McCombs (1976) list Macmillan as publisher; the first edition is Harcourt, Brace."
+    }
+  },
+  "cohen-1963": {
+    "type": "book",
+    "authors": [
+      "Cohen, Bernard C."
+    ],
+    "year": 1963,
+    "title": "The Press and Foreign Policy",
+    "publisher": "Princeton University Press",
+    "place": "Princeton, NJ",
+    "edition": "1st",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "publisher-page",
+        "open-library"
+      ],
+      "date": "2026-09-20",
+      "note": "Princeton University Press catalogue page (reissue ISBN 9780691651156) gives author, 1963, and describes the interviews with Washington correspondents and foreign-policy officials in 1953-1954 and 1960; Open Library lists the 1963 Princeton edition. The book itself was not read; the ‘what to think about’ sentence is quoted as reproduced (with page 13) in McCombs & Shaw 1972, footnote 8."
+    }
+  },
+  "funkhouser-1973": {
+    "type": "article",
+    "authors": [
+      "Funkhouser, G. Ray"
+    ],
+    "year": 1973,
+    "title": "The issues of the sixties: An exploratory study in the dynamics of public opinion",
+    "container": "Public Opinion Quarterly",
+    "volume": "37",
+    "issue": "1",
+    "pages": "62-75",
+    "doi": "10.1086/268060",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "abstract",
+        "second-source"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record matched (end page 75 from McCombs 1976, reference list). Abstract read via OpenAlex; findings are also described in McCombs 1976 (ERIC ED132575). Full text not read."
+    }
+  },
+  "funkhouser-1973b": {
+    "type": "article",
+    "authors": [
+      "Funkhouser, G. Ray"
+    ],
+    "year": 1973,
+    "title": "Trends in media coverage of the issues of the ’60s",
+    "container": "Journalism Quarterly",
+    "volume": "50",
+    "issue": "3",
+    "pages": "533-538",
+    "doi": "10.1177/107769907305000317",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched; reference also appears in McCombs 1976. Full text not read."
+    }
+  },
+  "mcleod-becker-byrnes-1974": {
+    "type": "article",
+    "authors": [
+      "McLeod, Jack M.",
+      "Becker, Lee B.",
+      "Byrnes, James E."
+    ],
+    "year": 1974,
+    "title": "Another look at the agenda-setting function of the press",
+    "container": "Communication Research",
+    "volume": "1",
+    "issue": "2",
+    "pages": "131-166",
+    "doi": "10.1177/009365027400100201",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched; also cited in McCombs 1976 for the intra-personal / inter-personal agenda distinction. Full text not read."
+    }
+  },
+  "zucker-1978": {
+    "type": "chapter",
+    "authors": [
+      "Zucker, Harold Gene"
+    ],
+    "year": 1978,
+    "title": "The variable nature of news media influence",
+    "editors": [
+      "Ruben, Brent D."
+    ],
+    "bookTitle": "Communication Yearbook 2",
+    "container": "Communication Yearbook 2",
+    "publisher": "Transaction Books",
+    "place": "New Brunswick, NJ",
+    "pages": "225-240",
+    "doi": "10.1080/23808985.1978.11923728",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "abstract",
+        "second-source"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref lists the chapter as Annals of the International Communication Association 2(1): 225-240 (Taylor & Francis DOI); the editor and publisher of the printed yearbook come from citation records (Ruben, Ed., Transaction Books). Abstract read via OpenAlex; the obtrusiveness hypothesis is also restated in the abstract of Demers et al. 1989. Full text not read."
+    }
+  },
+  "demers-et-al-1989": {
+    "type": "article",
+    "authors": [
+      "Demers, David Pearce",
+      "Craff, Dennis",
+      "Choi, Yang-Ho",
+      "Pessin, Beth M."
+    ],
+    "year": 1989,
+    "title": "Issue obtrusiveness and the agenda-setting effects of national network news",
+    "container": "Communication Research",
+    "volume": "16",
+    "issue": "6",
+    "pages": "793-812",
+    "doi": "10.1177/009365089016006004",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched. Full text not read; only the abstract’s statements are used."
+    }
+  },
+  "winter-eyal-1981": {
+    "type": "article",
+    "authors": [
+      "Winter, James P.",
+      "Eyal, Chaim H."
+    ],
+    "year": 1981,
+    "title": "Agenda setting for the civil rights issue",
+    "container": "Public Opinion Quarterly",
+    "volume": "45",
+    "issue": "3",
+    "pages": "376-383",
+    "doi": "10.1086/268671",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "abstract",
+        "second-source"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record matched (Crossref title: ‘Agenda Setting for the Civil Right Issue’; the journal title is ‘…Civil Rights Issue’). Page range 376-383 confirmed by a second citation record. Abstract read via OpenAlex. Full text not read."
+    }
+  },
+  "behr-iyengar-1985": {
+    "type": "article",
+    "authors": [
+      "Behr, Roy L.",
+      "Iyengar, Shanto"
+    ],
+    "year": 1985,
+    "title": "Television news, real-world cues, and changes in the public agenda",
+    "container": "Public Opinion Quarterly",
+    "volume": "49",
+    "issue": "1",
+    "pages": "38-57",
+    "doi": "10.1086/268900",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "abstract",
+        "second-source"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record matched; pages 38-57 confirmed by a second citation record (Google Scholar lookup string). Abstract read via OpenAlex. Full text not read."
+    }
+  },
+  "iyengar-peters-kinder-1982": {
+    "type": "article",
+    "authors": [
+      "Iyengar, Shanto",
+      "Peters, Mark D.",
+      "Kinder, Donald R."
+    ],
+    "year": 1982,
+    "title": "Experimental demonstrations of the “not-so-minimal” consequences of television news programs",
+    "container": "American Political Science Review",
+    "volume": "76",
+    "issue": "4",
+    "pages": "848-858",
+    "doi": "10.2307/1962976",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched (abstract mentions two experiments and Lippmann). Full text not read; only the abstract’s statements are used."
+    }
+  },
+  "krosnick-kinder-1990": {
+    "type": "article",
+    "authors": [
+      "Krosnick, Jon A.",
+      "Kinder, Donald R."
+    ],
+    "year": 1990,
+    "title": "Altering the foundations of support for the president through priming",
+    "container": "American Political Science Review",
+    "volume": "84",
+    "issue": "2",
+    "pages": "497-512",
+    "doi": "10.2307/1963531",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched. Full text not read; only the abstract’s statements are used."
+    }
+  },
+  "mccombs-et-al-1997": {
+    "type": "article",
+    "authors": [
+      "McCombs, Maxwell",
+      "Llamas, Juan Pablo",
+      "Lopez-Escobar, Esteban",
+      "Rey, Federico"
+    ],
+    "year": 1997,
+    "title": "Candidate images in Spanish elections: Second-level agenda-setting effects",
+    "container": "Journalism & Mass Communication Quarterly",
+    "volume": "74",
+    "issue": "4",
+    "pages": "703-717",
+    "doi": "10.1177/107769909707400404",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched. Full text not read; only the abstract’s statements are used."
+    }
+  },
+  "wanta-golan-lee-2004": {
+    "type": "article",
+    "authors": [
+      "Wanta, Wayne",
+      "Golan, Guy",
+      "Lee, Cheolhan"
+    ],
+    "year": 2004,
+    "title": "Agenda setting and international news: Media influence on public perceptions of foreign nations",
+    "container": "Journalism & Mass Communication Quarterly",
+    "volume": "81",
+    "issue": "2",
+    "pages": "364-377",
+    "doi": "10.1177/107769900408100209",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched. Full text not read; only the abstract’s statements are used."
+    }
+  },
+  "weaver-1980": {
+    "type": "article",
+    "authors": [
+      "Weaver, David H."
+    ],
+    "year": 1980,
+    "title": "Audience need for orientation and media effects",
+    "container": "Communication Research",
+    "volume": "7",
+    "issue": "3",
+    "pages": "361-373",
+    "doi": "10.1177/009365028000700305",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched (Syracuse, NY campaign data; need for orientation = political interest plus uncertainty). Full text not read."
+    }
+  },
+  "matthes-2008": {
+    "type": "article",
+    "authors": [
+      "Matthes, Jörg"
+    ],
+    "year": 2008,
+    "title": "Need for orientation as a predictor of agenda-setting effects: Causal evidence from a two-wave panel study",
+    "container": "International Journal of Public Opinion Research",
+    "volume": "20",
+    "issue": "4",
+    "pages": "440-453",
+    "doi": "10.1093/ijpor/edn042",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract (via OpenAlex) matched. Full text not read; only the abstract’s statements are used."
+    }
+  },
+  "roberts-mccombs-1994": {
+    "type": "article",
+    "authors": [
+      "Roberts, Marilyn",
+      "McCombs, Maxwell"
+    ],
+    "year": 1994,
+    "title": "Agenda setting and political advertising: Origins of the news agenda",
+    "container": "Political Communication",
+    "volume": "11",
+    "issue": "3",
+    "pages": "249-262",
+    "doi": "10.1080/10584609.1994.9963030",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract (via OpenAlex) matched. Full text not read; only the abstract’s statements and numbers are used."
+    }
+  },
+  "vargo-guo-2017": {
+    "type": "article",
+    "authors": [
+      "Vargo, Chris J.",
+      "Guo, Lei"
+    ],
+    "year": 2017,
+    "title": "Networks, big data, and intermedia agenda setting: An analysis of traditional, partisan, and emerging online U.S. news",
+    "container": "Journalism & Mass Communication Quarterly",
+    "volume": "94",
+    "issue": "4",
+    "pages": "1031-1055",
+    "doi": "10.1177/1077699016679976",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched (published online 2016; volume 94, issue 4 is dated 2017). Full text not read."
+    }
+  },
+  "guo-vargo-2020": {
+    "type": "article",
+    "authors": [
+      "Guo, Lei",
+      "Vargo, Chris"
+    ],
+    "year": 2020,
+    "title": "“Fake news” and emerging online media ecosystem: An integrated intermedia agenda-setting analysis of the 2016 U.S. presidential election",
+    "container": "Communication Research",
+    "volume": "47",
+    "issue": "2",
+    "pages": "178-200",
+    "doi": "10.1177/0093650218777177",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched (published online 2018; volume 47, issue 2 is dated 2020). Full text not read."
+    }
+  },
+  "neuman-et-al-2014": {
+    "type": "article",
+    "authors": [
+      "Neuman, W. Russell",
+      "Guggenheim, Lauren",
+      "Jang, S. Mo",
+      "Bae, Soo Young"
+    ],
+    "year": 2014,
+    "title": "The dynamics of public attention: Agenda-setting theory meets big data",
+    "container": "Journal of Communication",
+    "volume": "64",
+    "issue": "2",
+    "pages": "193-214",
+    "doi": "10.1111/jcom.12088",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract (via OpenAlex) matched. Full text not read."
+    }
+  },
+  "barbera-et-al-2019": {
+    "type": "article",
+    "authors": [
+      "Barberá, Pablo",
+      "Casas, Andreu",
+      "Nagler, Jonathan",
+      "Egan, Patrick J.",
+      "Bonneau, Richard",
+      "Jost, John T.",
+      "Tucker, Joshua A."
+    ],
+    "year": 2019,
+    "title": "Who leads? Who follows? Measuring issue attention and agenda setting by legislators and the mass public using social media data",
+    "container": "American Political Science Review",
+    "volume": "113",
+    "issue": "4",
+    "pages": "883-901",
+    "doi": "10.1017/S0003055419000352",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched. Full text not read; only the abstract’s statements are used."
+    }
+  },
+  "conway-et-al-2015": {
+    "type": "article",
+    "authors": [
+      "Conway, Bethany A.",
+      "Kenski, Kate",
+      "Wang, Di"
+    ],
+    "year": 2015,
+    "title": "The rise of Twitter in the political campaign: Searching for intermedia agenda-setting effects in the presidential primary",
+    "container": "Journal of Computer-Mediated Communication",
+    "volume": "20",
+    "issue": "4",
+    "pages": "363-380",
+    "doi": "10.1111/jcc4.12124",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract (via OpenAlex) matched. Full text not read."
+    }
+  },
+  "wallsten-2007": {
+    "type": "article",
+    "authors": [
+      "Wallsten, Kevin"
+    ],
+    "year": 2007,
+    "title": "Agenda setting and the blogosphere: An analysis of the relationship between mainstream media and political blogs",
+    "container": "Review of Policy Research",
+    "volume": "24",
+    "issue": "6",
+    "pages": "567-587",
+    "doi": "10.1111/j.1541-1338.2007.00300.x",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched. Full text not read."
+    }
+  },
+  "kwak-et-al-2010": {
+    "type": "article",
+    "authors": [
+      "Kwak, Haewoon",
+      "Lee, Changhyun",
+      "Park, Hosung",
+      "Moon, Sue"
+    ],
+    "year": 2010,
+    "title": "What is Twitter, a social network or a news media?",
+    "container": "Proceedings of the 19th International Conference on World Wide Web (WWW ’10)",
+    "pages": "591-600",
+    "doi": "10.1145/1772690.1772751",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref/ACM record matched (pages 591-600). Full text read (author-hosted PDF): abstract and section 5.4 give 4,262 trending topics, 41.7 million profiles, 106 million tweets and ‘over 85% headline news or persistent news’."
+    }
+  },
+  "mccombs-shaw-weaver-2014": {
+    "type": "article",
+    "authors": [
+      "McCombs, Maxwell E.",
+      "Shaw, Donald L.",
+      "Weaver, David H."
+    ],
+    "year": 2014,
+    "title": "New directions in agenda-setting theory and research",
+    "container": "Mass Communication and Society",
+    "volume": "17",
+    "issue": "6",
+    "pages": "781-802",
+    "doi": "10.1080/15205436.2014.964871",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract (via OpenAlex) matched: seven facets of agenda-setting; need for orientation, network agenda setting and agendamelding treated in detail. Full text not read."
+    }
+  },
+  "scheufele-tewksbury-2007": {
+    "type": "article",
+    "authors": [
+      "Scheufele, Dietram A.",
+      "Tewksbury, David"
+    ],
+    "year": 2007,
+    "title": "Framing, agenda setting, and priming: The evolution of three media effects models",
+    "container": "Journal of Communication",
+    "volume": "57",
+    "issue": "1",
+    "pages": "9-20",
+    "doi": "10.1111/j.0021-9916.2007.00326.x",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched (published online 2006; issue dated March 2007). Full text not read; only the abstract’s statements are used."
+    }
+  },
+  "rogers-dearing-1988": {
+    "type": "article",
+    "authors": [
+      "Rogers, Everett M.",
+      "Dearing, James W."
+    ],
+    "year": 1988,
+    "title": "Agenda-setting research: Where has it been, where is it going?",
+    "container": "Annals of the International Communication Association",
+    "volume": "11",
+    "issue": "1",
+    "pages": "555-594",
+    "doi": "10.1080/23808985.1988.11678708",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "abstract",
+        "second-source"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record matched (chapter in Communication Yearbook 11). Abstract read via OpenAlex: media, public and policy agendas defined as issues ranked in a hierarchy of importance at a point in time. The three-way distinction is also attributed to Dearing & Rogers 1996 in Weaver 2025."
+    }
+  },
+  "walgrave-van-aelst-2006": {
+    "type": "article",
+    "authors": [
+      "Walgrave, Stefaan",
+      "Van Aelst, Peter"
+    ],
+    "year": 2006,
+    "title": "The contingency of the mass media’s political agenda setting power: Toward a preliminary theory",
+    "container": "Journal of Communication",
+    "volume": "56",
+    "issue": "1",
+    "pages": "88-109",
+    "doi": "10.1111/j.1460-2466.2006.00005.x",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract (via OpenAlex) matched. Full text not read."
+    }
+  },
+  "white-1950": {
+    "type": "article",
+    "authors": [
+      "White, David Manning"
+    ],
+    "year": 1950,
+    "title": "The “gate keeper”: A case study in the selection of news",
+    "container": "Journalism Quarterly",
+    "volume": "27",
+    "issue": "4",
+    "pages": "383-390",
+    "doi": "10.1177/107769905002700403",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched. Full text not read."
+    }
+  },
+  "shoemaker-et-al-2001": {
+    "type": "article",
+    "authors": [
+      "Shoemaker, Pamela J.",
+      "Eichholz, Martin",
+      "Kim, Eunyi",
+      "Wrigley, Brenda"
+    ],
+    "year": 2001,
+    "title": "Individual and routine forces in gatekeeping",
+    "container": "Journalism & Mass Communication Quarterly",
+    "volume": "78",
+    "issue": "2",
+    "pages": "233-246",
+    "doi": "10.1177/107769900107800202",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched (fifty Congressional bills; routine-level versus individual-level forces; Lewin’s concept of force). Full text not read."
+    }
+  },
+  "weaver-2025": {
+    "type": "article",
+    "authors": [
+      "Weaver, David H."
+    ],
+    "year": 2025,
+    "title": "The evolution of agenda-setting research and theory from 1972 to 2025: From newspapers and TV to social media and artificial intelligence",
+    "container": "Communication and Change",
+    "volume": "1",
+    "issue": "1",
+    "pages": "article 17",
+    "doi": "10.1007/s44382-025-00016-x",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "full-text",
+        "publisher-page"
+      ],
+      "date": "2026-09-20",
+      "note": "Open-access editorial read in full on the publisher page (Springer Nature Link, published 10 Nov 2025). Insider history by a long-time collaborator of McCombs and Shaw: Charlotte panel, need for orientation, 1976 study, Dearing & Rogers 1996, agenda-building, second and third level, the special issue on AI."
+    }
+  },
+  "mccombs-1976": {
+    "type": "report",
+    "authors": [
+      "McCombs, Maxwell E."
+    ],
+    "year": 1976,
+    "title": "Agenda-setting research: A bibliographic essay",
+    "publisher": "Communication Research Center, S. I. Newhouse School of Public Communication, Syracuse University (ERIC document ED 132 575)",
+    "place": "Syracuse, NY",
+    "url": "https://files.eric.ed.gov/fulltext/ED132575.pdf",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "archived-page",
+        "full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "ERIC record ED132575 (24 pp., 1976) opened; full text read (OCR quality poor in places). It is a conference-style review by McCombs himself, so it is used for early history (Funkhouser, Charlotte 1972, time lags, awareness/salience/priorities models) alongside independent sources."
+    }
+  },
+  "hazar-sbouh-2020": {
+    "type": "article",
+    "authors": [
+      "Hazar, Çetin Murat",
+      "Sbouh, Suha"
+    ],
+    "year": 2020,
+    "title": "Kitle iletişimde gündem belirleme kuramı: Ankara Hacı Bayram Veli Üniversitesi ve An Najah National Üniversitesi",
+    "container": "Karadeniz Uluslararası Bilimsel Dergi",
+    "volume": "47",
+    "pages": "451-483",
+    "doi": "10.17498/kdeniz.773231",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record matched (issue 47, pp. 451-483). Full text read from the DergiPark PDF (text layer with lost Turkish characters; numbers and terms cross-checked against the English abstract): 740 students (386 + 354), perceived media agenda, list of Turkish names for agenda-setting, ‘yönelim gereksinimi’."
+    }
+  },
+  "algul-2016": {
+    "type": "article",
+    "authors": [
+      "Algül, And"
+    ],
+    "year": 2016,
+    "title": "Gündem belirleme teorisi bağlamında 7 Haziran 2015 genel seçimleri sonrası koalisyon görüşmelerinin Türk basınında sunumu",
+    "container": "Gümüşhane Üniversitesi İletişim Fakültesi Elektronik Dergisi",
+    "volume": "4",
+    "issue": "1",
+    "doi": "10.19145/guifd.74800",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "publisher-page",
+        "full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record matched; DergiPark issue page gives the author name as ‘And Algül’ (a Turkish given name), volume 4 issue 1, 2016 (page range not published there). Abstract read in Turkish and English."
+    }
+  },
+  "lazarsfeld-berelson-gaudet-1944": {
+    "type": "book",
+    "authors": [
+      "Lazarsfeld, Paul F.",
+      "Berelson, Bernard",
+      "Gaudet, Hazel"
+    ],
+    "year": 1944,
+    "title": "The People’s Choice: How the Voter Makes Up His Mind in a Presidential Campaign",
+    "publisher": "Duell, Sloan and Pearce",
+    "place": "New York",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "second-source"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library work record: first published 1944, New York, Duell, Sloan and Pearce (later Columbia University Press editions). Second source: Sills 1987 (NAS memoir) lists the study and the 1968 Columbia edition; McCombs & Shaw 1972 cite the 1948 Columbia edition."
+    }
+  },
+  "katz-lazarsfeld-1955": {
+    "type": "book",
+    "authors": [
+      "Katz, Elihu",
+      "Lazarsfeld, Paul F."
+    ],
+    "year": 1955,
+    "title": "Personal Influence: The Part Played by People in the Flow of Mass Communications",
+    "publisher": "Free Press",
+    "place": "Glencoe, IL",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "second-source"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library work record: 1955, Glencoe, Ill., Free Press. Second source: Sills 1987 (NAS memoir) lists the book and attributes the term ‘two-step flow’ to Katz & Lazarsfeld 1955."
+    }
+  },
+  "wapor-mccombs-2024": {
+    "type": "web",
+    "authors": [
+      "World Association for Public Opinion Research"
+    ],
+    "year": 2024,
+    "title": "In memoriam: Maxwell Elbert McCombs (1939 – 2024)",
+    "publisher": "WAPOR",
+    "url": "https://wapor.org/in-memoriam-maxwell-elbert-mccombs-1939-2024/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "archived-page"
+      ],
+      "date": "2026-09-20",
+      "note": "Page opened. Its headline says 1939 but its text says born 3 December 1938 in Birmingham, Alabama, died 8 September 2024 aged 85; degrees, jobs and books are used only where UT or the Church, Communication and Culture memoriam agree. Only the year 1938 is used (three other records give 1938)."
+    }
+  },
+  "ut-mccombs-2024": {
+    "type": "web",
+    "authors": [
+      "School of Journalism and Media, The University of Texas at Austin"
+    ],
+    "year": 2024,
+    "title": "In memoriam: Maxwell McCombs",
+    "publisher": "The University of Texas at Austin",
+    "url": "https://journalism.utexas.edu/news/memoriam-maxwell-mccombs",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "archived-page"
+      ],
+      "date": "2026-09-20",
+      "note": "Page opened: death in September 2024 aged 85 (the page gives 9 September; WAPOR and the memoriam in Church, Communication and Culture give 8 September, so only the year is used); Tulane, Stanford PhD 1966, Times-Picayune reporter, UCLA, UNC from 1967, Syracuse, UT Austin from 1985; agenda-setting with Shaw."
+    }
+  },
+  "tandf-mccombs-2024": {
+    "type": "article",
+    "authors": [],
+    "year": 2024,
+    "title": "In memoriam: Maxwell McCombs (1938–2024)",
+    "container": "Church, Communication and Culture",
+    "volume": "9",
+    "issue": "2",
+    "pages": "500",
+    "doi": "10.1080/23753234.2024.2408602",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record: title gives 1938–2024; abstract (via OpenAlex): passed away 8 September 2024 aged 85; long-time board member of the journal. Full text not read (publisher page blocked)."
+    },
+    "anonymous": true
+  },
+  "trigueros-lacasa-mas-2018": {
+    "type": "article",
+    "authors": [
+      "Trigueros, Joaquín",
+      "Lacasa-Mas, Ivan"
+    ],
+    "year": 2018,
+    "title": "Colloquy with Maxwell McCombs at the University of Texas at Austin: Agenda setting, a limitless theory in a connected world",
+    "container": "Church, Communication and Culture",
+    "volume": "3",
+    "issue": "1",
+    "pages": "53-74",
+    "doi": "10.1080/23753234.2018.1430513",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract (via OpenAlex) matched: interview of 22-23 May 2017 in Austin; B.A. Tulane, M.A. and Ph.D. Stanford; Jesse H. Jones Centennial Chair in Communication Emeritus. Full text not read (publisher page blocked)."
+    }
+  },
+  "hussman-shaw-2021": {
+    "type": "web",
+    "authors": [
+      "UNC Hussman School of Journalism and Media"
+    ],
+    "year": 2021,
+    "title": "Remembering Don Shaw: 1936 — 2021",
+    "publisher": "UNC Hussman School of Journalism and Media",
+    "url": "https://hussman.unc.edu/news/remembering-don-shaw-1936-2021",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "archived-page"
+      ],
+      "date": "2026-09-20",
+      "note": "Page opened: died 19 October 2021; UNC BA 1959 and MA 1960; taught at UNC 1966-2012; Kenan Professor Emeritus; pioneer of agenda-setting with McCombs; American and Southern press history."
+    }
+  },
+  "hamm-shaw-2021": {
+    "type": "web",
+    "authors": [
+      "Hamm, Bradley J."
+    ],
+    "year": 2021,
+    "title": "Remembrance of Donald Shaw",
+    "publisher": "AEJMC History Division",
+    "url": "https://mediahistorydivision.com/remembrance-of-donald-shaw-by-bradley-j-hamm/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "archived-page"
+      ],
+      "date": "2026-09-20",
+      "note": "Page opened: death 19 October 2021; co-author of the original agenda-setting studies and the landmark 1972 article; 1960s research on news bias and the telegraph; the History Division’s Shaw Senior Scholar Award."
+    }
+  },
+  "uw-news-cohen-2024": {
+    "type": "web",
+    "authors": [
+      "University of Wisconsin–Madison News"
+    ],
+    "year": 2024,
+    "title": "Political scientist and former UW–Madison chancellor Bernard Cohen dies at 97",
+    "publisher": "University of Wisconsin–Madison",
+    "url": "https://news.wisc.edu/political-scientist-and-former-uw-madison-chancellor-bernard-cohen-dies-at-97/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "archived-page"
+      ],
+      "date": "2026-09-20",
+      "note": "Page opened: born 22 February 1926, Northampton, Massachusetts; died 9 January 2024, Madison; Yale degrees in international relations; Princeton 1951-1959; UW–Madison from 1959; chair of political science 1966-1969; associate dean 1971-1975; vice chancellor 1984-1986; acting chancellor 1987; author of four books, editor of a fifth; The Press and Foreign Policy (1963)."
+    }
+  },
+  "cress-cohen-2024": {
+    "type": "web",
+    "authors": [
+      "Cress Funeral and Cremation Service"
+    ],
+    "year": 2024,
+    "title": "Bernard C. Cohen obituary",
+    "publisher": "Cress Funeral and Cremation Service, Madison, WI",
+    "url": "https://www.cressfuneralservice.com/obituaries/bernard-cohen",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "archived-page"
+      ],
+      "date": "2026-09-20",
+      "note": "Page opened. Agrees with the UW–Madison news item on birth (22 Feb 1926, Northampton, MA), death (9 Jan 2024, Madison), Yale, Princeton 1951-1959, UW–Madison chair 1966-1969, associate dean 1971-1975, vice chancellor 1984-1986, acting chancellor 1987, four books. An obituary of this kind may be family-written and drawn from the university notice, so it is treated as a second record, not as a fully independent one; family details are not used."
+    }
+  },
+  "ebsco-lippmann": {
+    "type": "web",
+    "authors": [
+      "EBSCO Research Starters"
+    ],
+    "year": 2024,
+    "title": "Walter Lippmann",
+    "publisher": "EBSCO",
+    "url": "https://www.ebsco.com/research-starters/history/walter-lippmann",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "archived-page"
+      ],
+      "date": "2026-09-20",
+      "note": "Page opened: born 1889, died 14 December 1974 in New York; Harvard; co-founding editor of The New Republic; New York World; column from 1931; Public Opinion 1922; the Inquiry and the Fourteen Points; two Pulitzer Prizes; Presidential Medal of Freedom."
+    }
+  },
+  "encyclopedia-lippmann": {
+    "type": "web",
+    "authors": [
+      "Encyclopedia.com"
+    ],
+    "year": 2024,
+    "title": "Lippmann, Walter (1889-1974)",
+    "publisher": "Encyclopedia.com",
+    "url": "https://www.encyclopedia.com/media/encyclopedias-almanacs-transcripts-and-maps/lippmann-walter-1889-1974",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "archived-page"
+      ],
+      "date": "2026-09-20",
+      "note": "Page opened: born in New York City 1889, died 1974; Harvard; founding editor of The New Republic; New York World editorial page; syndicated column from 1931; Public Opinion 1922; two Pulitzer Prizes; Medal of Freedom."
+    }
+  },
+  "sills-lazarsfeld-1987": {
+    "type": "article",
+    "authors": [
+      "Sills, David L."
+    ],
+    "year": 1987,
+    "title": "Paul F. Lazarsfeld, 1901-1976: A biographical memoir",
+    "container": "Biographical Memoirs of the National Academy of Sciences",
+    "volume": "56",
+    "pages": "251-282",
+    "url": "https://www.nasonline.org/wp-content/uploads/2024/06/lazarsfeld-paul-f.pdf",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "archived-page",
+        "full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "Memoir PDF read in full (pp. 251-282): born Vienna 13 Feb 1901, died New York 30 Aug 1976; Vienna PhD in applied mathematics 1925; Marienthal; emigration 1933 (Rockefeller fellow); Newark, Princeton radio project 1937, Columbia, Bureau renamed 1944; The People’s Choice; two-step flow."
+    }
+  },
+  "encyclopedia-lazarsfeld": {
+    "type": "web",
+    "authors": [
+      "Encyclopedia.com"
+    ],
+    "year": 2024,
+    "title": "Paul F Lazarsfeld",
+    "publisher": "Encyclopedia.com",
+    "url": "https://www.encyclopedia.com/people/social-sciences-and-law/sociology-biographies/paul-f-lazarsfeld",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "archived-page"
+      ],
+      "date": "2026-09-20",
+      "note": "Page opened: born Vienna 1901, died 30 August 1976; PhD in applied mathematics, Vienna, 1925 (dissertation on Mercury and Einstein’s theory); 1933 Rockefeller fellow; Newark, Princeton, Columbia; Bureau renamed 1944; Marienthal, The People’s Choice, Voting, Personal Influence; two-step flow and opinion leadership. Its Columbia appointment year (1939) differs from Sills (lecturer 1939, associate professor 1940) and other records (1941), so no appointment year is used."
+    }
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "id": "noelle-neumann",
+  "born": { "year": 1916 },
+  "died": { "year": 2010 },
+  "sources": ["wilke-2010", "wendelin-2013", "epd-2010"],
+  "works": ["noelle-neumann-1974", "noelle-neumann-1980", "noelle-neumann-1984", "noelle-neumann-1989", "noelle-neumann-1998-tr"]
+}

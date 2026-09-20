@@ -1,0 +1,81 @@
+{
+  "_comment": "Turkish terms chosen for the cultivation lesson batch. status: ok = established in Turkish literature and verified in a source I opened; chosen = my own choice among attested variants; check = only weakly attested, needs a Turkish-language reviewer. Sources are Turkish-language articles/books I actually opened (see content/research-notes/cultivation.md).",
+  "cultivation": {
+    "en": "cultivation theory", "tr": "kültivasyon (ekme) kuramı", "status": "ok",
+    "alt": ["ekme kuramı", "yetiştirme kuramı", "ekme-yetiştirme kuramı", "kültürel göstergeler ve ekme kuramı"],
+    "note": "Project owner fixed “kültivasyon” as main term. ‘ekme’: Yaylagül 2006 (chapter I.F.2 “Kültürel Göstergeler ve Ekme Kuramı”), Erdoğan 1998 (“Gerbner’in ekme tezi”). ‘yetiştirme’: Özer 2005, Ercan & Demir 2015, Özer & Jafarli 2024. ‘ekme-yetiştirme’: Özkan 2017. ‘kültürel göstergeler ve ekme modeli’: title of AUZEF (Polat) unit 8 as given in the project brief (not opened by me)."
+  },
+  "cultural-indicators": {
+    "en": "Cultural Indicators Project", "tr": "Kültürel Göstergeler Projesi", "status": "ok",
+    "note": "Yaylagül 2006, Özer 2005, Ercan & Demir 2015 (abstract: “Kültürel Göstergeler Projesi’nin Kurumsal Süreç Çözümlemesi, Mesaj Sistem Çözümlemesi ve Yetiştirme Çözümlemesi”)."
+  },
+  "institutional-process-analysis": {
+    "en": "institutional process analysis", "tr": "kurumsal süreç çözümlemesi", "status": "ok",
+    "note": "Ercan & Demir 2015 abstract."
+  },
+  "message-system-analysis": {
+    "en": "message system analysis", "tr": "mesaj sistemi çözümlemesi", "status": "chosen",
+    "alt": ["mesaj sistem çözümlemesi"],
+    "note": "Ercan & Demir 2015 and Özer & Jafarli 2024 write “mesaj sistem çözümlemesi”; I use the more natural “mesaj sistemi çözümlemesi” in prose and list the attested form as alternative."
+  },
+  "cultivation-analysis": {
+    "en": "cultivation analysis", "tr": "kültivasyon çözümlemesi", "status": "chosen",
+    "alt": ["yetiştirme çözümlemesi", "ekme analizi"],
+    "note": "‘yetiştirme çözümlemesi’: Özer 2005, Ercan & Demir 2015, Özer & Jafarli 2024. ‘ekme analizi’: Yaylagül 2006. I follow the owner’s ‘kültivasyon’ for the main term."
+  },
+  "heavy-viewers": {
+    "en": "heavy viewers", "tr": "ağır izleyiciler", "status": "check",
+    "alt": ["çok izleyenler", "ağır seyirciler"],
+    "note": "Academic Turkish articles I opened write ‘çok izleyenler / çok seyredenler’ (Özer 2005; Erdoğan 1998: “az, orta ve çok”). ‘ağır seyirciler’ appears in the İletişim Ansiklopedisi web entry (yenimedya.info/2020/04/24/cultivation/), not an academic source. ‘ağır izleyici’ chosen for brevity; please confirm with a Turkish reviewer or switch to ‘çok izleyenler’."
+  },
+  "light-viewers": {
+    "en": "light viewers", "tr": "hafif izleyiciler", "status": "check",
+    "alt": ["az izleyenler"],
+    "note": "Same situation as heavy viewers: Özer 2005 and Erdoğan 1998 write ‘az izleyenler’."
+  },
+  "tv-answer": {
+    "en": "“TV answer”", "tr": "televizyon yanıtı", "status": "ok",
+    "note": "Erdoğan 1998 (“televizyon yanıtı”, “ekme farklılığı”), Özer 2005."
+  },
+  "cultivation-differential": {
+    "en": "cultivation differential", "tr": "kültivasyon farkı", "status": "chosen",
+    "note": "Erdoğan 1998 writes ‘ekme farklılığı’ (percentage difference in TV answers between the two viewer groups). I say ‘kültivasyon farkı’ to stay consistent with the owner’s main term."
+  },
+  "mean-world-syndrome": {
+    "en": "mean world syndrome", "tr": "kötü dünya sendromu", "status": "check",
+    "alt": ["acımasız dünya sendromu"],
+    "note": "‘kötü dünya sendromu’: Özkan 2017 (Abant Kültürel Araştırmalar Dergisi). ‘Acımasız Dünya Sendromu’: İletişim Ansiklopedisi (yenimedya.info), non-academic. Özer 2005 describes the idea as ‘tehlikeli dünya algısı’ without using a fixed term."
+  },
+  "mainstreaming": {
+    "en": "mainstreaming", "tr": "ana akımlaşma", "status": "check",
+    "alt": ["yaygın görüş hâline getirme", "ana akım etkisi"],
+    "note": "No single fixed Turkish term found. Erdoğan 1998 defines the pattern as ‘ana akım’ (‘anayol, orta yol, ana damar’) and speaks of the ‘ana akım etkisi’; Yaylagül 2006 says media cultivate ‘orta yol değerleri’; Özer & Jafarli 2024 abstract says ‘yetiştirme ve yaygın görüş hâline getirme rolü’ (the last phrase = mainstreaming). ‘ana akımlaşma’ is my own noun for the process, derived from Erdoğan’s ‘ana akım’; the English term is given in parentheses at first mention. FLAGGED for review; core.json note said not to use until sourced — the sources above are now recorded."
+  },
+  "resonance": {
+    "en": "resonance", "tr": "rezonans", "status": "ok",
+    "alt": ["çifte doz"],
+    "note": "Özer 2005 uses the loan word ‘rezonans’ in the title and text and explains it as ‘çifte doz’ etki."
+  },
+  "first-order-beliefs": {
+    "en": "first-order measures/effects", "tr": "birinci düzey ölçümler / etkiler", "status": "chosen",
+    "alt": ["ilk düzey etkiler"],
+    "note": "Yaylagül 2006 writes ‘ilk düzey etkiler’ and ‘ikincil düzey etkiler’. Potter 1991 (English) speaks of first- and second-order measures."
+  },
+  "second-order-beliefs": {
+    "en": "second-order measures/effects", "tr": "ikinci düzey ölçümler / etkiler", "status": "chosen",
+    "alt": ["ikincil düzey etkiler"],
+    "note": "See first-order-beliefs."
+  },
+  "ceiling-effect": {
+    "en": "ceiling effect", "tr": "tavan etkisi", "status": "ok",
+    "note": "Özer 2005 (as reported for Gerbner et al. 1980)."
+  },
+  "happy-violence": {
+    "en": "happy violence", "tr": "mutlu şiddet", "status": "check",
+    "note": "Gerbner’s own term (MEF 2010 transcript). The Turkish rendering is mine; the lesson gives the English term in quotation marks next to it."
+  },
+  "third-voice": {
+    "en": "“Third Voice”", "tr": "üçüncü ses", "status": "chosen",
+    "note": "Shanahan & Morgan 1999 (Gerbner’s idea of an independent voice between political forces and commercial interests). Own translation."
+  }
+}

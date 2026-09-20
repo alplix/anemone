@@ -1,0 +1,915 @@
+{
+  "id": "spiral-of-silence",
+  "lang": "en",
+  "translation": {
+    "status": "machine",
+    "date": "2026-09-20"
+  },
+  "title": "The Spiral of Silence",
+  "slug": "spiral-of-silence",
+  "description": "From the 1965 election puzzle to fear of isolation, the train test and the online spiral: the spiral of silence theory, its critics and exam tips.",
+  "claim": "People sense which opinion is gaining strength around them; those who think their opinion is in the minority fall silent out of fear of isolation, which makes that opinion look weaker than it is, and the process accelerates like a spiral.",
+  "keywords": [
+    "spiral of silence",
+    "Noelle-Neumann",
+    "fear of isolation",
+    "climate of opinion",
+    "public opinion",
+    "train test",
+    "Asch",
+    "1965 German election",
+    "hard core",
+    "quasi-statistical sense"
+  ],
+  "updated": "2026-09-20",
+  "cards": [
+    {
+      "id": "hook",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "Equal polls, unequal result",
+      "body": "West Germany, 1965. The election is months away, and for months the polls have been saying the same thing: the governing CDU/CSU and the opposition SPD are neck and neck.\n\nThe pollsters of the Allensbach Institute ask two questions. The first: “Which party will you vote for?” The answers hardly budge for nine months. [[cite:polat-2016]] The second: “Who do you think will win the election?” These answers do move: as the months go by, more and more people expect the CDU/CSU to win. Then, just before the election, what is called a “last-minute swing” happens and the gap opens up. [[cite:polat-2016]][[cite:ozer-yildiran-onk-2021]]\n\nOn 19 September 1965 the CDU/CSU got 47.6 percent and the SPD 39.3 percent. [[cite:bundeswahlleiterin-1965]] So a race that had looked “neck and neck” for months ended with a clearly visible margin at the ballot box.\n\nHere is the puzzle: while *what people would vote for* stayed put, *what they believed about who would win* changed, and in the end the votes followed that belief. [[person:noelle-neumann|Elisabeth Noelle-Neumann]] set out to chase this puzzle. Her answer became the subject of this lesson, the [[concept:spiral-of-silence|spiral of silence]] theory: you will see where it came from, what it says, how it was tested, where it stumbled, and what it looks like on today’s social media.\n\nNow stop and guess: why do people keep saying “I’ll vote for the same party” while starting to say “that one will win”? The rest of the lesson is the answer to this question.",
+      "question": {
+        "id": "hook-q",
+        "type": "mcq",
+        "prompt": "What exactly was the “puzzle” of the 1965 election?",
+        "options": [
+          "The polls showed the SPD ahead, but the CDU/CSU won the election.",
+          "Voting intentions hardly moved for months; meanwhile the expectation of “who will win?” drifted in one direction, and in the end the votes drifted that way too.",
+          "Most voters did not answer the poll, so the result could not be predicted in advance.",
+          "Both parties got almost exactly 50 percent."
+        ],
+        "answer": 1,
+        "explain": "The puzzle was not a “polling error” but a split between two measures: voting intention was steady, expectation of the winner was moving. That is why the first option looks tempting but is wrong: the polls showed a neck-and-neck race in voting intention, not the SPD ahead. And the result (47.6 percent against 39.3) was not a “fifty-fifty” one either."
+      }
+    },
+    {
+      "id": "context-ideas",
+      "section": "context",
+      "layer": "core",
+      "kind": "text",
+      "title": "Two ideas of public opinion and a bold break",
+      "body": "Noelle-Neumann approaches this puzzle as a pollster, but her question is really a philosophical one: what exactly is this thing we call public opinion?\n\nAccording to one view, public opinion is the shared reason that comes out of rational debate among informed citizens. According to Wilke, its best-known defender in Germany was Jürgen Habermas. According to the other view, public opinion is an invisible form of social control that binds the individual to the community. On 9 December 1965, Noelle-Neumann devoted her inaugural lecture at the University of Mainz to the second view: “Public Opinion as Social Control”. [[cite:wilke-2010]] Polat likewise reports that she divides approaches to public opinion into two: “rationality” and “social control”. [[cite:polat-2016]] (For Habermas’s side, see the lesson [[lesson:public-sphere]].)\n\nThe second background is the media effects debate. Since the 1940s the idea that “the media mostly reinforce existing attitudes” had been well established ([[lesson:voting-studies]], [[lesson:selective-processes]]). [[cite:griffin-2009]] Noelle-Neumann objected: in 1972, at an international psychology congress in Tokyo, she gave a talk titled “Return to the concept of powerful mass media”, and pointed to cumulation, consonance across media outlets and the climate-of-opinion effect as her grounds. [[cite:wilke-2010]] In the same years, [[person:gerbner|Gerbner]]’s [[lesson:cultivation|cultivation]] line is also counted as the other big name in the return to powerful effects. [[cite:kehya-2018]]\n\nThe spiral of silence was born where these two ideas cross: public opinion is a pressure, and the media shape how that pressure is perceived.",
+      "question": {
+        "id": "context-q",
+        "type": "mcq",
+        "prompt": "Your friend says: “public opinion is the shared reason that comes out of a calm debate among smart citizens.” How would Noelle-Neumann respond to this view?",
+        "options": [
+          "She would agree entirely; public opinion is the product of rational debate.",
+          "She would see public opinion above all as a means of social control that binds the individual to the community, and she would reject this view.",
+          "She would say there is no such thing as public opinion.",
+          "She would treat public opinion merely as a numerical total measured in polls."
+        ],
+        "answer": 1,
+        "explain": "Noelle-Neumann’s Mainz inaugural lecture defines public opinion precisely as social control. Measuring with poll numbers is her tool, but her definition of public opinion is not a numerical total; so the last option looks tempting but is wrong. The first option is the view she opposed."
+      }
+    },
+    {
+      "id": "noelle-neumann-life",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "text",
+      "title": "Who is Elisabeth Noelle-Neumann?",
+      "body": "Elisabeth Noelle-Neumann was born in Berlin in 1916 and died in 2010. [[cite:wilke-2010]][[cite:epd-2010]] She wanted to be a journalist; in 1937, on a DAAD scholarship, she went to the University of Missouri School of Journalism in the United States. There she met George Gallup’s new mass polls and wrote her doctoral thesis on American public opinion polls. [[cite:wilke-2010]][[cite:wendelin-2013]] Wilke reports that she did not much like the pressure to conform in American society. [[cite:wilke-2010]]\n\nIn 1947, with her husband Erich Peter Neumann, she founded the Allensbach Institute for Demoscopy; the institute is described as Germany’s first public opinion research institute. [[cite:epd-2010]][[cite:mrweb-2010]] In the mid-1960s she became a professor of journalism and publishing science (*Publizistik*) at the University of Mainz but stayed at the head of Allensbach; this double identity fed her theory from both the field and the university. [[cite:wilke-2010]][[cite:wendelin-2013]] She named [[person:lazarsfeld|Lazarsfeld]] as her scientific model. [[cite:wilke-2010]] At Mainz she taught her students empirical methods such as surveys, content analysis and experiments; in this respect she is regarded as a pioneer of the turn of German journalism studies toward the social sciences. [[cite:wilke-2010]][[cite:wendelin-2013]]\n\nHer biography also has a contested part: from 1940 to 1945, in the Nazi period, she worked as a journalist and editor; the publications she worked for included *Das Reich* and *Frankfurter Zeitung*. Her role in this period was later debated for a long time; she rejected the accusations. [[cite:wendelin-2013]][[cite:wilke-2010]] We will deal with this in the “Criticism and limits” section, separately from the scientific evaluation of her work.",
+      "question": {
+        "id": "noelle-neumann-life-q",
+        "type": "mcq",
+        "prompt": "According to this card, how did Noelle-Neumann’s running a polling institute while also working at a university help her theory?",
+        "options": [
+          "She took the theory from the university and applied it at Allensbach; field data did not become part of the theory.",
+          "Field survey data (Allensbach) and theoretical questions (the university) came together in one person; the theory fed on both sources.",
+          "The theory was written entirely in Missouri, in the United States, and brought to Germany later.",
+          "The theory was published in her name by a student of Lazarsfeld."
+        ],
+        "answer": 1,
+        "explain": "The card says that staying at the head of Allensbach fed the theory from both the field and the university. What she met in Missouri was Gallup polls and the pressure to conform; the theory itself grew out of election observations in Germany in the 1960s and 1970s. Lazarsfeld was only her scientific model."
+      }
+    },
+    {
+      "id": "timeline",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "steps",
+      "title": "The theory’s timeline",
+      "body": "Following the theory’s story year by year helps you keep apart the dates that get mixed up in exams:\n\n1. **1937:** Noelle-Neumann goes to Missouri and meets Gallup’s polls. [[cite:wilke-2010]]\n2. **1947:** The Allensbach Institute is founded. [[cite:epd-2010]]\n3. **1965:** In the German election, expectation shifts while voting intention stays steady (the “last-minute swing”); in December, the Mainz inaugural lecture. [[cite:polat-2016]][[cite:wilke-2010]]\n4. **1972:** The Tokyo talk: a call to return to “powerful mass media”. [[cite:wilke-2010]]\n5. **1974:** The theory’s first publications: the English article in the *Journal of Communication* and a chapter in a German tribute volume (*Festschrift*). [[cite:noelle-neumann-1974]][[cite:noelle-neumann-1974-festschrift]]\n6. **1980:** The German book: *Die Schweigespirale*. [[cite:noelle-neumann-1980]]\n7. **1984:** The English edition: *The Spiral of Silence: Public Opinion – Our Social Skin*. [[cite:noelle-neumann-1984]]\n8. **1998:** The Turkish translation: *Kamuoyu: Suskunluk Sarmalının Keşfi* (“Public Opinion: The Discovery of the Spiral of Silence”; Dost Kitabevi). [[cite:noelle-neumann-1998-tr]]\n\nA short memory rule: **election (1965) → article (1974) → German book (1980) → English book (1984)**. The English book comes *after* the German one, because the book was German and the English edition is its translation.\n\nOne more hint: the fifteen years between 1965 and 1980 are the theory’s time of maturing. The 1974 article is its first door opening to English; the 1980 book is its full form. In the exam, watch the words ‘first’ and ‘full’.",
+      "question": {
+        "id": "timeline-q",
+        "type": "order",
+        "prompt": "Put the events in the right order (oldest to newest).",
+        "items": [
+          "The German election in which expectations shifted while voting intention stayed steady (1965)",
+          "The spiral of silence article in the Journal of Communication (1974)",
+          "The German book Die Schweigespirale (1980)",
+          "The English edition The Spiral of Silence (1984)"
+        ],
+        "explain": "First the observation (1965), then the first publications (1974), then the German book (1980) and its English edition (1984). The most common mistake is to take the English edition for the “first book” and swap 1980 and 1984."
+      }
+    },
+    {
+      "id": "deep-titles",
+      "section": "people-time",
+      "layer": "deep",
+      "kind": "text",
+      "title": "One theory, several titles: how the books get mixed up",
+      "body": "The theory’s book titles get mixed up both in bibliographies and in exams. There are four separate publications:\n\n- **First German publication (1974):** “Die Schweigespirale: Über die Entstehung der öffentlichen Meinung”, a chapter in the Festschrift for Arnold Gehlen. [[cite:noelle-neumann-1974-festschrift]]\n- **First German book (1980):** *Die Schweigespirale: Öffentliche Meinung – unsere soziale Haut* (Piper, Munich/Zurich). [[cite:noelle-neumann-1980]]\n- **English edition (1984; second edition 1993):** *The Spiral of Silence: Public Opinion – Our Social Skin* (University of Chicago Press). It is the English counterpart of the German 1980 book. [[cite:noelle-neumann-1984]]\n- **A separate German book (1989):** *Öffentliche Meinung: Die Entdeckung der Schweigespirale* (“Public Opinion: The Discovery of the Spiral of Silence”; Ullstein). Its title differs from the 1980 book; this is a separate publication. [[cite:noelle-neumann-1989]]\n\nThe Turkish translation *Kamuoyu: Suskunluk Sarmalının Keşfi* (translated by Murat Özkök, Dost Kitabevi, 1998) [[cite:noelle-neumann-1998-tr]] matches the title of this last book; so for Turkish readers it is often the “main book”. (This match is an inference from the titles.)\n\nA warning: the years in Turkish citations of Noelle-Neumann may not agree with each other; for instance one writes 1997, another 1998. Don’t be surprised if you see different printing or translation years for the same book. In bibliographies, trust the title rather than the year."
+    },
+    {
+      "id": "claim",
+      "section": "claim",
+      "layer": "core",
+      "kind": "text",
+      "title": "The theory in one sentence",
+      "body": "The backbone of the theory: people constantly monitor which opinion is gaining strength around them. Those who think their opinion is gaining ground speak up openly; those who think it is losing ground withdraw. The speakers seem stronger than they are, the silent seem weaker than they are; this appearance creates a fresh push in the same direction in the next round, and the process feeds itself like a spiral. [[cite:griffin-2009]][[cite:noelle-neumann-de-site]]\n\nThree details to watch:\n\n- What drives the spiral is not the *actual* distribution of opinions but the *perceived* distribution.\n- The spiral changes people’s *public* behaviour: who says what, who wears what, what they share. It does not have to mean that opinions have changed inside.\n- The engine is [[concept:fear-of-isolation|fear of isolation]]: those who think they are in the minority fall silent because they shrink from being excluded.\n\nThe name says it too: “spiral”, because the process is a self-accelerating loop; “silence”, because the losing side often loses not by being defeated but by going quiet.\n\n(Hypothetical example.) In a break room, two people loudly defend the same view on a contested issue; the others in the room look away and say nothing. Perhaps half of the silent ones actually think differently; but someone who walks in later may conclude “so everyone thinks like this.”",
+      "question": {
+        "id": "claim-q",
+        "type": "mcq",
+        "prompt": "According to the theory, what actually drives the spiral?",
+        "options": [
+          "A view really being in the majority.",
+          "People perceiving that a view is in the majority or on the rise.",
+          "The government banning a view.",
+          "The number of people defending a view increasing."
+        ],
+        "answer": 1,
+        "explain": "The theory foregrounds the perceived distribution: in 1965 too, expectations shifted while the parties’ real strength had not changed. The real majority (first option) is a tempting answer, but the theory’s interesting claim is precisely that the real and the perceived distribution can come apart. A ban is a legal, not a social, pressure."
+      }
+    },
+    {
+      "id": "myth-silence",
+      "section": "claim",
+      "layer": "core",
+      "kind": "myth",
+      "title": "Four common misreadings",
+      "body": "**What people assume:** “Someone who finds themselves in the minority changes their mind straight away.”\n**What the theory says:** The theory predicts *silence*, not a change of mind. In Griffin’s summary people are not weathervanes; but in a headwind they may bow their heads and say nothing. Polat likewise writes that not voicing an opinion does not mean changing it. [[cite:griffin-2009]][[cite:polat-2016]]\n\n**What people assume:** “It works on every topic.”\n**What the theory says:** The theory is for contested issues that carry emotional or moral weight; no spiral is expected on issues where society agrees. [[cite:noelle-neumann-de-site]]\n\n**What people assume:** “What silences people is the real majority.”\n**What the theory says:** A real majority is not required. A minority view defended loudly and resolutely *can look like the majority.* [[cite:noelle-neumann-de-site]][[cite:polat-2016]]\n\n**What people assume:** “It is another name for state censorship.”\n**What the theory says:** The theory describes *social* pressure: frowning, turning your back, mocking. [[cite:noelle-neumann-de-site]] Legal bans and censorship are a different mechanism; the two can work together, but they must not be confused.\n\nThe common root of the four misreadings is taking the theory for a theory of ‘persuasion’ or ‘pressure’. The spiral of silence is really a theory of *visibility*: who is heard in the public sphere, and how that changes other people’s perceptions.",
+      "question": {
+        "id": "myth-silence-q",
+        "type": "tf",
+        "prompt": "According to the theory, a person who thinks their opinion is in the minority will necessarily change their mind as well as staying silent in public.",
+        "answer": false,
+        "explain": "False. The theory predicts public behaviour, that is, silence; the opinion may well stay the same inside, and the theory does not rule this out. When this distinction is lost, the ‘spiral’ gets mixed up with ‘persuasion’."
+      }
+    },
+    {
+      "id": "concept-isolation",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Fear of isolation, public opinion and the “social skin”",
+      "body": "[[concept:fear-of-isolation|Fear of isolation]] is the theory’s engine (some Turkish sources call it “izolasyon korkusu” instead of the usual “dışlanma korkusu”). According to Noelle-Neumann, as a social being a person shrinks from falling out of the community’s favour; and the community threatens the person seen as deviant with exclusion, by frowning and turning its back. This threat and this fear mostly work without conscious thought. [[cite:noelle-neumann-de-site]][[cite:polat-2016]]\n\nFrom here comes an original definition of [[concept:public-opinion|public opinion]]. On contested issues, public opinion is the opinions a person can express openly without risking isolation; in established traditions and norms, it is the opinions and behaviours you must openly adopt if you do not want to be excluded. [[cite:polat-2016]][[cite:wilke-2010]] In other words, public opinion is not a voting result but a means of social control.\n\nThe subtitle of the 1980 book calls public opinion “our social skin”: the surface of contact between us and society (English *social skin*; German *soziale Haut*). [[cite:noelle-neumann-1980]][[cite:noelle-neumann-1984]] (In Turkish this phrase has no established equivalent; the Turkish version of this lesson uses its own rendering, “sosyal derimiz”.)\n\nThe idea is not new: Noelle-Neumann counts John Locke’s “law of opinion”, and Tocqueville’s remarks about those clinging to the old faith before the French Revolution joining the majority out of fear of being alone, as ancestors of the theory. [[cite:griffin-2009]]\n\nIf you see words like “engine”, “driving force” or “what sets the spiral in motion” in an exam, the answer is fear of isolation.",
+      "question": {
+        "id": "concept-isolation-q",
+        "type": "mcq",
+        "prompt": "Which description of “public opinion” is closest to Noelle-Neumann’s definition?",
+        "options": [
+          "The opinion that gets the most votes in an election.",
+          "The conclusion reached by rational debate among experts.",
+          "The opinions a person can express openly on contested issues without being excluded.",
+          "The opinion that newspapers put in their headlines."
+        ],
+        "answer": 2,
+        "explain": "The definition links what can be said openly with not being excluded. An election result and expert debate are other conceptions of public opinion (the second, in particular, is the ‘rational debate’ view Noelle-Neumann opposed). Headlines are the media’s business; in the theory the media influence the climate, but that is not the definition of public opinion."
+      }
+    },
+    {
+      "id": "concept-climate",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Quasi-statistical sense and the climate of opinion",
+      "body": "How does a person know what the majority thinks? Noelle-Neumann’s answer is bold: a kind of *sixth sense*. According to her, people sense the distribution of opinions around them, without running a poll, almost like statisticians: the [[concept:quasi-statistical-sense|quasi-statistical sense]] (in the book she also calls it a “quasi-statistical organ”). [[cite:griffin-2009]] This sense is especially good at catching the *direction of travel*: which opinion is growing and which is shrinking. According to Noelle-Neumann, even when people misread the present state, they generally sense the trend correctly. [[cite:griffin-2009]][[cite:polat-2016]]\n\nWhat is sensed is called the [[concept:climate-of-opinion|climate of opinion]] (Turkish sources also use “kanaat iklimi”, “düşünce iklimi” and “görüş iklimi” next to the main Turkish term “fikir iklimi”). [[cite:polat-2016]][[cite:kutlu-2019]] Two questions are proposed to measure it: [[cite:griffin-2009]]\n\n1. *Present climate:* “Whatever your own opinion, what do you think most people think?”\n2. *Future forecast:* “In a year’s time, will more or fewer people share this opinion?”\n\nPeople mostly do not say “I don’t know”; they answer. The 1965 puzzle was hiding here too: the answer to “who will win?” moved before voting intention did. According to Polat there are two ways of learning the climate: direct observation in one’s surroundings and indirect observation through the eyes of the media. [[cite:polat-2016]] The second route builds the media leg of the theory.\n\nThat is why the ‘climate’ metaphor fits: not something personal like the weather, but a shared atmosphere everyone breathes at the same time; it changes over time, not in a day.",
+      "question": {
+        "id": "concept-climate-q",
+        "type": "mcq",
+        "prompt": "What does the question “Whatever your own opinion, what do you think most people think about this issue?” measure?",
+        "options": [
+          "The person’s own attitude.",
+          "The climate of opinion the person perceives (the present state).",
+          "The person’s willingness to speak out.",
+          "How long the person spends using media."
+        ],
+        "answer": 1,
+        "explain": "The question deliberately asks not for the person’s own opinion but for their perception of their surroundings. Willingness to speak out is a separate measurement (the train test); attitude is measured by a separate question. The theory says these three measures are distinct from one another, and that the spiral comes out of precisely this distinction."
+      }
+    },
+    {
+      "id": "concept-speak-hardcore",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Willingness to speak out, the hard core and the avant-garde",
+      "body": "The theory’s dependent variable is *willingness to speak out*: will a person voice their opinion in a public setting, or not? [[cite:scheufele-moy-2000]] How they measured it (the train test) you will see in the “Evidence and studies” section.\n\nBut not everyone is caught in the spiral. Noelle-Neumann treats two groups as exceptions. [[cite:griffin-2009]]\n\n- **The [[concept:hard-core|hard core]]** (*hard core*): people who have already been pushed into a defensive position in public, excluded because of their opinion, with nothing left to lose. They do not fall silent. Noelle-Neumann gives Don Quixote as the example of this figure. Polat too writes that on the opposing side of the spiral people fall silent “except for a certain hard core”. [[cite:griffin-2009]][[cite:polat-2016]]\n- **The avant-garde:** intellectuals, artists and reformers who see themselves as ahead of their time. They risk exclusion because they believe public opinion will catch up with them. [[cite:griffin-2009]]\n\nAccording to Noelle-Neumann, the chance to change public opinion belongs to these minorities who do not fear exclusion. Griffin interprets these two groups as boundary conditions that the theory did not predict but that show *when the theory does not work*. [[cite:griffin-2009]]\n\nOne more distinction: the wish to join the winner (the *bandwagon* effect) is not the same as the spiral. Noelle-Neumann also discusses people’s wish to identify with the winning side, but she locates the spiral’s engine not there but in the fear of being alone. [[cite:griffin-2009]] Bandwagon explains *joining* the majority; the spiral explains the minority’s *silence*.",
+      "question": {
+        "id": "concept-speak-hardcore-q",
+        "type": "mcq",
+        "prompt": "Who is the hard core?",
+        "options": [
+          "Those who defend the majority’s opinion most loudly.",
+          "Those who hide their opinion and conform to the majority.",
+          "The minority who go on defending their opinion, accepting exclusion (or because they are already excluded).",
+          "Experts who appear in the media."
+        ],
+        "answer": 2,
+        "explain": "The hard core is the exception to the spiral: the minority that does not fall silent. Those who loudly defend the majority make up the visible side that is the *result* of the spiral; those who hide their opinion are the ones caught in the spiral. There is no link between being an expert and being the hard core."
+      }
+    },
+    {
+      "id": "five-assumptions",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "steps",
+      "title": "The theory’s five assumptions",
+      "body": "Turkish course books present the theory through five assumptions, and in exams these are what is usually asked. Both Polat and Yaylagül give the same five; Özer and Yıldıran Önk report the same list too, citing the Turkish translation of Noelle-Neumann’s book. [[cite:polat-2016]][[cite:yaylagul-2006]][[cite:ozer-yildiran-onk-2021]] In my own words:\n\n1. **Threat:** Society threatens the deviant individual (one who departs from the majority) with exclusion.\n2. **Fear:** Individuals constantly feel this fear of isolation.\n3. **Probing:** Because of this fear, individuals are always trying to assess the climate of opinion.\n4. **Behaviour:** The result of this assessment affects their public behaviour, especially whether they voice or hide their opinion.\n5. **Combination:** The four assumptions together explain the formation, maintenance and change of public opinion.\n\nTwo hints in this list. First: the theory has a *mental* chain (fear → probing → decision) and a *social* outcome (public opinion). Second: the media are not part of the five; they come in separately, as a source for learning the climate of opinion (a second source next to direct observation). [[cite:polat-2016]]\n\nEven if page numbers and years vary from book to book, the five stay the same; in an exam they may swap one of them out and ask “which is NOT an assumption?”.",
+      "question": {
+        "id": "five-assumptions-q",
+        "type": "mcq",
+        "prompt": "Which of the following is NOT one of the theory’s basic assumptions?",
+        "options": [
+          "Society threatens the deviant individual with exclusion.",
+          "Individuals constantly feel fear of isolation.",
+          "The media always reflect the majority’s opinion accurately.",
+          "The individual tries to assess the climate of opinion."
+        ],
+        "answer": 2,
+        "explain": "The third option is not among the five; it is also against the spirit of the theory, because the theory assumes that the media can distort the climate of opinion and so make a minority look like a majority. The other three are, respectively, assumptions 1, 2 and 3 of the five."
+      }
+    },
+    {
+      "id": "asch-thread",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "story",
+      "title": "Asch in the background: lines and the pressure to conform",
+      "body": "To show that fear really does shake a person, Noelle-Neumann looked to psychology and often turned to the line experiments of [[person:asch|Solomon Asch]]. [[cite:griffin-2009]]\n\nWhat Asch did: one subject believes they are taking part in an ordinary visual comparison experiment. Everyone else in the room (in fact confederates who know the experiment) says out loud, in turn, which line is the same length as a given line, but in the critical trials they all unite on a clearly wrong answer. The subject’s turn comes. [[cite:asch-1956]] About a third of the answers slid to the majority’s mistake. [[cite:asch-1956]]\n\nNoelle-Neumann reads this as follows: people find it hard to stand alone before a group even against a plain fact they see with their own eyes; so fear of isolation is real and strong. Griffin reports that she also used Milgram’s France–Norway comparison to show that this tendency is not specific to one culture. [[cite:griffin-2009]]\n\nThe link is useful but limited. Griffin’s criticism: in Asch’s experiment the subject could resist when they found a single true supporter at their side. [[cite:griffin-2009]] Asch himself also stressed independence alongside conformity: most of the answers in the critical trials remained independent. [[cite:asch-1956]] So Asch did not say “people are sheep”; nor does Noelle-Neumann predict conformity to the majority on every issue. The numerical details are in the deep card below.",
+      "question": {
+        "id": "asch-thread-q",
+        "type": "mcq",
+        "prompt": "What did Noelle-Neumann mainly use Asch’s line experiments for in her theory?",
+        "options": [
+          "To prove that the media directly influence the audience.",
+          "To support the idea that people are uncomfortable standing alone against a group, that is, the reality of fear of isolation.",
+          "To develop the train test that measures willingness to speak out.",
+          "To show how large the hard core group is."
+        ],
+        "answer": 1,
+        "explain": "As Griffin reports, Asch is used as one of the psychological supports for fear of isolation. The experiment has nothing directly to do with media influence or the train test; and since in Asch too most answers remained independent, it is not a tool for measuring the size of the hard core either."
+      }
+    },
+    {
+      "id": "deep-asch",
+      "section": "assumptions",
+      "layer": "deep",
+      "kind": "text",
+      "title": "What is in Asch’s 1956 monograph?",
+      "body": "When you open Asch’s monograph “Studies of independence and conformity”, the picture is a little different from popular retellings. [[cite:asch-1956]] The numbers used in the card:\n\n- **Sample:** 123 subjects in total (male college students), from three different institutions. In the main experiment, a helper majority of 7–9 acting unanimously and one “naive” subject.\n- **Task:** Matching a standard line to one of three comparison lines. 18 trials in all; in 12 of them the majority deliberately gave a wrong answer (the critical trials). Answers were given aloud, in turn.\n- **Result:** About a third of the estimates in the critical trials moved toward the majority’s direction (the mean of the experimental groups was 36.8 percent). In the control group, that is, without majority pressure, errors were under 1 percent.\n- **Individual differences:** Of the 123 subjects, 94 conformed at least once and 29 never did.\n\nAsch’s interpretation matters too. In his view, despite the size of the effect, most estimates remained independent; and those who conformed did so for different reasons (distrust of their own perception, worry about looking different, and so on). In many interviews the subjects said things to the effect of “I felt left outside the group”. So summarising Asch as “people are like sheep” is misreading him.\n\nFor Noelle-Neumann, the value of this experiment is not the numbers but the *witness*: even in a laboratory, the unanimity of a few strangers can push a person to doubt their own eyes."
+    },
+    {
+      "id": "conditions",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "text",
+      "title": "The spiral doesn’t turn on every issue",
+      "body": "The theory is not a “theory of everything”. There are conditions for the spiral to work:\n\n- **A contested issue with emotional or moral weight.** On an issue everyone agrees on, there is no minority opinion; the spiral does not start. [[cite:noelle-neumann-de-site]]\n- **Time.** The spiral is a *process*: the “trend” matters as much as the “present moment”. A Turkish review reports that Noelle-Neumann highlights three things in the formation of the spiral: the moral content of the issue, time, and the role of the media. [[cite:kehya-2018]]\n- **The media’s stance.** According to Griffin, Noelle-Neumann says she never saw a spiral running against the media’s line: it is hard to speak an opinion the media do not back. [[cite:griffin-2009]]\n- **Culture and community.** Scheufele and Moy note that studies in different cultures did not account for culture-specific variables. [[cite:scheufele-moy-2000]] Critics also stress the climate of the immediate circle (family, friends) more than the country’s general climate; you will see this in the “Criticism and limits” section.\n\nThere is also a mental point: the theory says fear and threat mostly work *unconsciously*. People do not think “I am acting according to the majority”. [[cite:noelle-neumann-de-site]] This is one of the reasons the theory is hard to measure.\n\nIn short, the theory asks both ‘why’ and ‘when’. Someone who does not know the conditions sticks the theory onto everything; that is a common mistake in exams and in papers.",
+      "question": {
+        "id": "conditions-q",
+        "type": "tf",
+        "prompt": "Where a society fully agrees on an issue, the spiral of silence is expected to work strongly.",
+        "answer": false,
+        "explain": "False. The spiral starts on contested issues, when opposing views exist; with full consensus there is no minority opinion to silence. The right answer follows from the principle that the theory is not considered valid on every issue."
+      }
+    },
+    {
+      "id": "spiral-steps",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "The spiral, step by step",
+      "body": "Let’s put the parts above into a single flow:\n\n1. An issue becomes contested in public opinion; it carries an emotional or moral charge.\n2. Everyone probes the climate with the quasi-statistical sense and by looking at the media: which opinion is rising, which is falling?\n3. Those who think their opinion is rising find courage; those who think it is falling hold back.\n4. One side speaks openly (wears the badge, argues, shares); the other side falls silent. A *visibility gap* opens between them.\n5. This gap is a new signal about the climate: the speaking camp looks bigger than its real strength, the silent camp looks small. In Polat’s account the silent camp falls further behind, and the speaking camp wins new supporters. [[cite:polat-2016]]\n6. The new signal goes back to step 2. Each round is stronger and faster than the last: a spiral.\n7. Outcome: one opinion becomes “established”, the other moves close to vanishing from the public sphere. Until the hard core, the avant-garde or a changing media environment disrupts the flow. [[cite:griffin-2009]]\n\nThe key point: the spiral turns *visibility*, not *numbers*. A view’s visibility in the public sphere can collapse without its real number of supporters falling at all.",
+      "question": {
+        "id": "spiral-steps-q",
+        "type": "tf",
+        "prompt": "For the spiral to advance, the actual number of supporters of the silent side must also have fallen.",
+        "answer": false,
+        "explain": "False. What turns the spiral is the visibility gap: even if the silent side stays the same in number, it looks small in the public sphere and this appearance produces new silences. A fall in numbers can be a result of the spiral, not a precondition."
+      }
+    },
+    {
+      "id": "media",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "text",
+      "title": "The media: the climate’s second eye",
+      "body": "The question that makes Noelle-Neumann a *media theorist* is this: where do we learn the climate from? There are two sources: direct observation in your own surroundings and indirect observation through the media’s eyes. [[cite:polat-2016]] On most public issues the second source dominates, because your personal circle does not represent the country.\n\nBy the criteria Wilke gives, the media’s power comes from three things: *cumulation* (the constant repetition of the same message), *consonance* (different media reporting in a similar frame) and the climate-of-opinion effect. [[cite:wilke-2010]] This makes selective perception harder: it weakens the idea, which you met in the lesson [[lesson:selective-processes]], that ‘people choose only the messages that suit them’. In some accounts the third item appears as *ubiquity* (being everywhere). [[cite:griffin-2009]]\n\nAccording to Griffin, Noelle-Neumann says she has not seen a spiral running against the media’s line. Yaylagül summarises: if the majority opinion gets the backing of powerful media it is stronger; if the media side with the minority, the majority camp turns into a silent majority. [[cite:griffin-2009]][[cite:yaylagul-2006]]\n\nYou can sum up the difference from [[lesson:agenda-setting|agenda-setting]] (the line of [[person:mccombs|McCombs]] and [[person:shaw|Shaw]]) like this: agenda-setting says the media influence *what we think about*, that is, which issue seems important. The spiral of silence says the media influence *which opinion seems speakable*. That is why Polat presents the spiral as the “negative mirror image” of agenda-setting. [[cite:polat-2016]]",
+      "question": {
+        "id": "media-q",
+        "type": "mcq",
+        "prompt": "A news channel has for years emphasised the same opinion in a debate. According to the theory, what does this change most?",
+        "options": [
+          "It forcibly changes viewers’ personal attitudes one by one.",
+          "Which opinion is perceived as widespread and established, that is, the climate of opinion, and so willingness to speak out openly.",
+          "It only determines which issue is seen as important.",
+          "It changes nothing, because everyone is selective."
+        ],
+        "answer": 1,
+        "explain": "The theory’s media claim concerns the perception of the climate. The “only the order of importance” answer describes [[lesson:agenda-setting|agenda-setting]], but the spiral goes a step further and claims *which opinion seems speakable*. The last option is exactly the ‘selective perception neutralises everything’ view that Noelle-Neumann objected to."
+      }
+    },
+    {
+      "id": "lab-group-chat",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Imagine: a visibility game in the class group chat",
+      "body": "**This is a thought experiment; not real research or a real group.**\n\nIn the class’s 10-person messaging group, a contested campus issue is opened. In reality the group is split exactly in two: 5 people hold view A, 5 hold view B. Nobody knows what the others think.\n\n**Round 1.** From side A, 4 people write; from side B, only 1. There are 5 messages on screen, 4 of them from A. The 4 silent B’s think: “Everyone is on A, I’m in the minority.”\n\n**Round 2.** This time nobody writes from side B, and 3 people write from side A. Now the A’s think “there’s no such thing as a B.” The B’s think “I’m alone on this.”\n\n**Round 3.** When the issue is reopened a few days later, one of the B’s thinks of writing, but the group’s tone is even louder than before. They don’t write.\n\nIn the end the group believes A is “everyone’s opinion”. Yet **nobody changed their mind.** The real split is still 5 to 5. The only things that changed are *visibility* and the resulting *perception*.\n\nIf it were you, at which step would you break this cycle? A B who acts like the hard core, or something else that could change the climate over time?",
+      "question": {
+        "id": "lab-group-chat-q",
+        "type": "mcq",
+        "prompt": "In this thought experiment, which of the following has NOT happened?",
+        "options": [
+          "Side A becoming more visible in the public sphere.",
+          "Most of side B falling silent.",
+          "Side B really changing their minds.",
+          "The group misperceiving B’s real size."
+        ],
+        "answer": 2,
+        "explain": "That is exactly the trick of the experiment: visibility and perception changed, opinions did not. The other three are the workings of the spiral itself. This is why the theory’s distinction between ‘staying silent’ and ‘changing your mind’ matters."
+      }
+    },
+    {
+      "id": "evidence-1972",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "story",
+      "title": "1972: the same puzzle, in reverse",
+      "body": "The film ran backwards seven years later. Going into the 1972 election the SPD and CDU/CSU were neck and neck again, but this time people increasingly thought the SPD would win; and underneath this expectation there was no change in the parties’ real strength. [[cite:petersen-2019]]\n\nThen came Allensbach’s extra questions. According to Petersen, these showed that CDU/CSU voters, though equal in number to SPD voters, were almost invisible in public: SPD supporters wore badges, stuck stickers on their cars and openly defended their views in arguments; CDU/CSU supporters were silent. [[cite:petersen-2019]]\n\nPlacing 1965 and 1972 side by side gives a striking symmetry: in both elections the expectation of *who will win* got ahead of the measure of *who supports which party*. Wilke writes that Noelle-Neumann and her students found their evidence of strong media effects especially in 1965 and 1969, but more in the television election campaigns of 1972 and 1976. [[cite:wilke-2010]] For 1976, it is reported that Noelle-Neumann’s thesis at the time was that, because of a climate of opinion shaped by the media, some voters adapted to the SPD–FDP coalition, and that this caused a big political controversy. [[cite:fuchs-gerhards-neidhardt-1991]]\n\nA warning: these accounts come from Allensbach or its close circle. You will see independent researchers’ tests in the “Criticism and limits” section.",
+      "question": {
+        "id": "evidence-1972-q",
+        "type": "mcq",
+        "prompt": "According to Petersen’s account, how was the “visibility gap” the theory predicts observed in 1972?",
+        "options": [
+          "CDU/CSU supporters wore more badges and stuck more stickers.",
+          "SPD supporters were visible in badges, stickers and arguments; CDU/CSU supporters, equal in number, were almost invisible in public.",
+          "Both sides were equally visible.",
+          "SPD supporters were silent, CDU/CSU supporters were loud."
+        ],
+        "answer": 1,
+        "explain": "In 1972 the expectation favoured the SPD, and visibility favoured the SPD too. The first option is closer to the mood of 1965 (the expectation that the CDU/CSU would win); 1972 is its ‘reverse’. The theory’s strength is that the same mechanism can work in opposite directions in two elections."
+      }
+    },
+    {
+      "id": "deep-1965-versions",
+      "section": "evidence",
+      "layer": "deep",
+      "kind": "text",
+      "title": "The 1965 story changes from source to source",
+      "body": "The theory’s “birth story” is told in various forms in textbooks; it is good to be aware of these in exams and when writing papers.\n\n- **Polat (AUZEF, the İstanbul University open and distance education faculty):** From December 1964 to August 1965, for nine months, voting intentions did not move at all; the expectation that the CDU/CSU would win rose quickly in the following months; then a “last-minute swing” happened. The text also mentions the possibility of a wave of support due to television. [[cite:polat-2016]]\n- **Özer and Yıldıran Önk:** They report that the two parties’ vote support was tracked at six-month intervals, and that a race that started neck and neck ended with a large margin in the last two weeks. [[cite:ozer-yildiran-onk-2021]]\n- **Petersen (Allensbach):** Describes the CDU/CSU and SPD being level for months and the public gradually believing the CDU/CSU would win; then adds the reverse in 1972. [[cite:petersen-2019]]\n- **Griffin (English textbook):** Opens the chapter not with 1965 but with the 1980 US election (Carter–Reagan). [[cite:griffin-2009]]\n\nA historical detail: Noelle-Neumann’s theory did not come only from 1965. Wilke writes that observations of strong media effects were found in 1965 and 1969, but more in 1972 and 1976; and he writes that in the 1972 Tokyo talk the name still used was “silence hypothesis” (*Schweigehypothese*). [[cite:wilke-2010]] So “the theory was born in the 1965 election” is a one-sentence shortcut: the observation began in 1965, the theory took shape over the following decade.\n\nConclusion: in the exam write the 1965 German election; but know that the theory went through a long maturation."
+    },
+    {
+      "id": "evidence-train",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "lab",
+      "title": "The train test: a long ride with a stranger",
+      "body": "How do you measure willingness to speak out? Noelle-Neumann developed a scenario: the *train test* (German *Eisenbahntest*).\n\nIn the version Griffin reports, the scenario goes like this: you face a five-hour train or plane journey, and the person next to you starts talking about a contested issue such as abortion. Would you want to talk to them, or would you rather not? [[cite:griffin-2009]] The version the Wissenschaftszentrum Berlin (WZB) ran in Germany in 1989 is a little different: there are four more passengers in the compartment, politics is being discussed and someone defends a particular view; “how likely are you to say your own view?” [[cite:fuchs-gerhards-neidhardt-1991]]\n\nThe logic is the same: first the person’s own opinion and their perception of “what the majority thinks” are measured, then willingness to speak in the imaginary situation is asked. If the theory is right, those who think they are in the majority are more willing. In Griffin’s summary there are other patterns too: forecasts of the future can outweigh the present climate, people prefer to talk to someone who thinks like them, and those with low self-confidence fall silent. [[cite:griffin-2009]]\n\nIts strength: cheap, quick, applicable to large samples. Its weakness: the situation is imaginary; it measures not what a person will really do but what they *say* they will do. And it does not measure fear of isolation directly; it assumes it. We will discuss these in the criticism section.",
+      "question": {
+        "id": "evidence-train-q",
+        "type": "mcq",
+        "prompt": "What exactly does the train test measure?",
+        "options": [
+          "What a person actually does on a real train journey.",
+          "A person’s declaring how willing they are to state their opinion in an imaginary situation.",
+          "The intensity of a person’s fear of isolation, directly.",
+          "How much a person is exposed to the media."
+        ],
+        "answer": 1,
+        "explain": "The train test measures a declaration in response to an imaginary scenario: not real behaviour, but willingness to speak. Fear of isolation is not measured directly by this test; it is inferred from the theory, and this is exactly one of the points of criticism of the theory."
+      }
+    },
+    {
+      "id": "deep-wzb",
+      "section": "evidence",
+      "layer": "deep",
+      "kind": "text",
+      "title": "The train test in Germany: the 1989 WZB test",
+      "body": "Independent researchers also tested the theory in Germany. Fuchs, Gerhards and Neidhardt, at the WZB in Berlin, put a series of train-test questions into a representative population survey in 1989. [[cite:fuchs-gerhards-neidhardt-1991]]\n\n- **Topic:** The federal government immediately sending back all asylum seekers from developing countries to their countries.\n- **Opinions:** 34.2 percent of respondents were in favour of sending them back, 43.2 percent were against, 22.6 percent were undecided.\n- **Willingness to speak:** 42.8 percent said they would join the conversation in the compartment with their own view; 41.4 percent said they would stay silent; the rest were undecided.\n- **Hypothesis tested:** Those who think they are in the majority should be more talkative than those who think they are in the minority.\n\n**Finding:** In this design the hypothesis was not supported: those who felt in the minority were as willing to speak as those who felt in the majority. The authors interpreted this as meaning that Noelle-Neumann’s theory did not hold in that form.\n\nBut the authors did not treat the result as conclusive on its own; a train compartment is an ‘atypically small’ and ‘socially harmless’ public; people will part after a while and never meet again. Fear of isolation may be weak in environments like this with nothing binding. So the result may be attributed either to the theory being wrong or to the test not representing publicness well. This is not a journal article but a short report from a research institution; weigh its results accordingly."
+    },
+    {
+      "id": "critique-measurement",
+      "section": "critique",
+      "layer": "core",
+      "kind": "text",
+      "title": "Three solid criticisms",
+      "body": "The theory has been tested as much as it is famous. Griffin summarises the criticisms; Scheufele and Moy review a quarter-century of literature in a broad conceptual assessment. [[cite:griffin-2009]][[cite:scheufele-moy-2000]] Three main headings:\n\n1. **Fear was assumed, not measured.** Studies mostly did not look at whether those who stay silent really carry more fear of isolation; silence can also come from shyness, indifference, or the wish not to offend the other person. The link made through Asch is limited too: in Asch a single supporter made resistance easier. [[cite:griffin-2009]]\n2. **The train test is imaginary.** It measures not real speech but declared willingness. Glynn, Hayes and Shanahan’s meta-analysis, which brought together 17 studies, found a very small but significant relationship between perceived support and willingness to speak, and recommended that future work focus on real, not imaginary, willingness to speak. [[cite:glynn-hayes-shanahan-1997]][[cite:griffin-2009]]\n3. **National climate or immediate circle?** Noelle-Neumann’s public opinion is the anonymous general public. Critics argue that the influence of reference groups such as family and friends may be stronger. [[cite:griffin-2009]]\n\nScheufele and Moy also say that concepts are defined differently from study to study, that measurements are inconsistent, and that studies in different cultures leave out culture-specific variables. They recommend that ‘speaking’ really be measured as *speaking* and that research return to a more macroscopic view. [[cite:scheufele-moy-2000]]\n\nThe defenders’ reply: the theory itself is a *process* theory; testing it fully with one-time, individual surveys is hard anyway. And indeed better designs have been tried (next card).",
+      "question": {
+        "id": "critique-measurement-q",
+        "type": "mcq",
+        "prompt": "What is the most fundamental criticism of the train test?",
+        "options": [
+          "That it is too expensive.",
+          "That it measures declared willingness in an imaginary situation, not real behaviour.",
+          "That it can only be applied to young people.",
+          "That it does not take media influence into account at all."
+        ],
+        "answer": 1,
+        "explain": "The criticism concerns the gap between declaration and behaviour; this is why Glynn and colleagues recommend observing real willingness to speak in future. Options such as cost and age limits do not appear as criticisms in either Griffin or Scheufele–Moy."
+      }
+    },
+    {
+      "id": "critique-verdict",
+      "section": "critique",
+      "layer": "core",
+      "kind": "myth",
+      "title": "“Proven” or “refuted”?",
+      "body": "**What people assume:** “The theory is a proven law.” Or the opposite: “The theory has been refuted.”\n\n**What the evidence says:** Neither.\n\n- **The 17-study meta-analysis (1997):** The relationship between perceived support and willingness to speak is very small (the mean Griffin reports is about .05), but not zero. [[cite:glynn-hayes-shanahan-1997]][[cite:griffin-2009]][[cite:thurre-gale-staerkle-2019]]\n- **The later meta-analysis (Matthes and colleagues, 2018):** 66 studies, over 27,000 participants; the relationship is about r = .10; no weaker online than offline. [[cite:matthes-knoll-vonsikorski-2018]][[cite:thurre-gale-staerkle-2019]]\n- **Better designs:** Scheufele, Shanahan and Lee (2001), instead of an imaginary question, invited participants to a real focus-group discussion (on biotechnology). According to Griffin, perceived public opinion predicted willingness to speak better than in earlier studies. [[cite:scheufele-shanahan-lee-2001]][[cite:griffin-2009]]\n\nOne more frame: the studies in these reviews were all at the individual (micro) level. Studies tracking the spiral’s *social cycle over time* were very few. [[cite:thurre-gale-staerkle-2019]]\n\n**An honest summary (my own interpretation):** The theory found small but consistent support for the tendency that “the perception of the majority affects speaking”; meanwhile the theory’s distinctive mechanism (fear of isolation and the spiral over time) is still only limitedly tested. So in academic language it would be right to say “a partly supported, conditional theory”.",
+      "question": {
+        "id": "critique-verdict-q",
+        "type": "mcq",
+        "prompt": "Which statement best summarises the overall picture from the meta-analyses?",
+        "options": [
+          "The theory has been definitively refuted; there is no relationship between perceived support and willingness to speak.",
+          "The theory has been fully proven; the relationship is very strong.",
+          "The relationship is small but not zero and consistent across many studies; the mechanism (especially fear and the cycle over time) is still not sufficiently tested.",
+          "The meta-analyses found a relationship only online."
+        ],
+        "answer": 2,
+        "explain": "In both the 1997 and the 2018 meta-analyses the relationship comes out small but significant; online it is no weaker either. The ‘refuted’ and ‘proven’ answers miss this middle ground. The last option contradicts the finding of Matthes and colleagues."
+      }
+    },
+    {
+      "id": "deep-meta",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Meta-analyses and better measurement: the details",
+      "body": "**Glynn, Hayes and Shanahan (1997).** The meta-analysis, published in *Public Opinion Quarterly*, pooled spiral of silence survey studies. By Griffin’s summary it covered 17 studies with a mean correlation of about .05; Thurre and colleagues likewise report that the same analysis covered 17 studies and found “small but significant” effects. [[cite:glynn-hayes-shanahan-1997]][[cite:griffin-2009]][[cite:thurre-gale-staerkle-2019]] The paper’s abstract states that the relationship is very small but statistically significant, that some of the moderating variables tried (hypothetical or actual willingness to speak, reference group, type of issue) did not significantly explain the relationship, and that the researchers say an as-yet-undiscovered moderator might be found.\n\n**Matthes, Knoll and von Sikorski (2018).** A broader review: 66 studies, over 27,000 participants; the relationship is about r = .10. Online the relationship is no weaker than offline; the number of target persons, the target’s opinion and design features do not noticeably change the relationship. [[cite:matthes-knoll-vonsikorski-2018]] Thurre and colleagues also stress the same finding (r = .10) and that all the pooled studies were at the micro level. [[cite:thurre-gale-staerkle-2019]]\n\n**Scheufele, Shanahan and Lee (2001), “Real Talk”.** A real behavioural request instead of the imaginary train test: participants were invited to join a focus-group discussion on biotechnology. The same research team treated fear of isolation as a measured, not an assumed, variable and also asked about participants’ earlier conversations with their immediate circle. According to Griffin, with these three corrections perceived public opinion predicted willingness to speak better than the studies in the 17-study pool. [[cite:scheufele-shanahan-lee-2001]][[cite:griffin-2009]]\n\nA small reminder: a value like r = .10 says the relationship is ‘weak’ but does not say it is ‘unimportant’; at mass scale small effects can still produce social consequences. Even so, one needs to be careful about the theory’s ‘explanatory power’."
+    },
+    {
+      "id": "critique-person",
+      "section": "critique",
+      "layer": "core",
+      "kind": "text",
+      "title": "Separating the theory from the theorist",
+      "body": "When Noelle-Neumann’s theory is evaluated, a second debate often cuts in: her own past. From 1940 to 1945, in the Nazi period, she worked as a journalist; she worked for several publications including *Das Reich* and *Frankfurter Zeitung*. [[cite:wendelin-2013]][[cite:wilke-2010]] The sources describe this period with different emphases:\n\n- Her successor at Mainz, Jürgen Wilke, in his 2010 memorial speech says that her writings that disturbed the Nazi propaganda apparatus are documented, that she was not part of organised resistance, but that after the war she was repeatedly accused of adapting to the system. [[cite:wilke-2010]]\n- The entry in the *Biografisches Lexikon der Kommunikationswissenschaft* (Manuel Wendelin) reports that recent historical research (including Jörg Becker’s 2013 biography) shows her ties to the regime went beyond mere “going along”; it adds that she always rejected the accusations and that there was also a legal dispute around Becker’s book. [[cite:wendelin-2013]]\n\nThe debate entered the international literature too (for example Simpson’s 1996 article in the *Journal of Communication*). [[cite:simpson-1996]]\n\nAcademically, two questions must be kept apart: *Do the theory’s empirical claims hold up against data?* (the earlier cards) and *What does the theorist’s biography say?* (historical research). One does not automatically refute or clear the other. But the biography can shed light on the question of what worldview and experience the theory was written from: Wendelin’s entry also takes these elements into account when placing the theory in terms of sociology of knowledge. [[cite:wendelin-2013]] This lesson only reports what the sources say; it leaves the judgement to historians.",
+      "question": {
+        "id": "critique-person-q",
+        "type": "mcq",
+        "prompt": "Which is correct about the relationship between evaluating the theory and the debate over Noelle-Neumann’s Nazi-era past?",
+        "options": [
+          "The biographical debate automatically refutes the theory.",
+          "Whether the theory holds up against data is a separate question from the biographical debate; the two should be assessed separately.",
+          "The biographical debate is completely irrelevant and should never be mentioned.",
+          "The theory can only be evaluated once the biographical debate is settled."
+        ],
+        "answer": 1,
+        "explain": "The two questions are answered with different methods: empirical tests and historical research. One does not automatically refute the other; so the first and fourth options are wrong. But the biography is not entirely irrelevant either: Wendelin uses these elements in placing the theory in terms of sociology of knowledge."
+      }
+    },
+    {
+      "id": "today-pew",
+      "section": "today",
+      "layer": "core",
+      "kind": "story",
+      "title": "Snowden, Facebook and silent rooms",
+      "body": "In 2013 Edward Snowden revealed US surveillance programmes. The Pew Research Center asked a question: would you talk about this issue? In a survey of 1,801 American adults (7 August–16 September 2013), 86 percent said they were willing to discuss the issue face to face. But only 42 percent of Facebook and Twitter users were willing to share the same issue on those platforms. [[cite:hampton-et-al-2014]]\n\nMore interesting from the spiral’s point of view: those who thought their surroundings did not agree with them were less willing to speak; those who thought their Facebook network agreed with them were about twice as willing as those who thought otherwise. People who used Facebook every day were less inclined to voice opinions even in face-to-face settings. [[cite:hampton-et-al-2014]]\n\nNote: this survey does not *prove* the spiral. One issue, one moment, a declared willingness. But it is a clue that social media can change the feeling of “the majority is watching me”, and so the perception of the climate. That is, the theory’s two links (perception of the climate and willingness to speak) seem to move together online too.\n\nWe do not go into detail in this lesson; the deeper discussion of the online spiral is in the lesson [[lesson:spiral-research]], and its relation to echo chambers and filter bubbles in the lesson [[lesson:filter-bubbles]].",
+      "question": {
+        "id": "today-pew-q",
+        "type": "mcq",
+        "prompt": "How can the Pew finding be related to the spiral of silence theory?",
+        "options": [
+          "It proves the theory conclusively, because Facebook users spoke less.",
+          "It refutes the theory, because 86 percent were willing to speak.",
+          "It is a clue supporting the link between perceived climate (does my circle agree?) and willingness to speak in an online context; but it is limited to a single issue and declared willingness.",
+          "It has nothing to do with the theory; the Snowden surveillance issue is outside the spiral’s scope."
+        ],
+        "answer": 2,
+        "explain": "Pew found a link between perceived agreement and willingness to speak, and saw an online/offline difference. But since it is one issue, one moment and declared willingness, it neither ‘proves’ nor ‘refutes’. According to the theory, contested and emotionally charged issues are within scope; the surveillance debate is such an issue."
+      }
+    },
+    {
+      "id": "today-online",
+      "section": "today",
+      "layer": "core",
+      "kind": "myth",
+      "title": "“Has the internet ended silencing?”",
+      "body": "**What people assume:** “Everyone can speak online; therefore the spiral of silence is over.”\n\n**The evidence is mixed:**\n\n- In Matthes and colleagues’ review the relationship is no weaker online than offline. [[cite:matthes-knoll-vonsikorski-2018]]\n- In Stoycheff’s experiment (US), when users were reminded of surveillance, willingness to speak online was lower among those who thought their opinion differed from the majority; this effect was especially strong among those who found surveillance justified. [[cite:stoycheff-2016]]\n- In Turkey, in a survey of 404 Facebook users in İstanbul (Kutlu, 2019), among those who thought their political opinion was in the minority, positive relationships were found with frequently changing privacy settings, holding back from commenting, and thinking they could express their political thoughts more easily than in real life. So both holding back and freer expression are present together. [[cite:kutlu-2019]]\n\nIn short: the internet did not abolish the spiral; it changed the stage, the audience and visibility. Who sees whom (algorithms, echo chambers, fear of surveillance) reshapes the perception of the climate. It is useful to think about this together with the network logic in the lesson [[lesson:network-society]].\n\nYou can bring it to your own life too: on which topics have you paused before writing something and asked yourself “what happens if I write this?” How much does that pause resemble what the theory describes, and how much does it differ?",
+      "question": {
+        "id": "today-online-q",
+        "type": "tf",
+        "prompt": "According to this card, everyone being able to speak in online environments has abolished the spiral of silence.",
+        "answer": false,
+        "explain": "False. The studies in the card show that the relationship persists online (Matthes and colleagues), that the perception of surveillance can lower willingness to speak (Stoycheff), and that some users can both hold back and feel freer online (Kutlu). The stage changed; the mechanism did not disappear."
+      }
+    },
+    {
+      "id": "deep-macro",
+      "section": "today",
+      "layer": "deep",
+      "kind": "text",
+      "title": "A macro and dynamic test in Europe (2019)",
+      "body": "Most research looks at “right now” with individual surveys. Tracking the *social cycle over time* that the theory stresses is much harder. Thurre, Gale and Staerklé (2019) tried exactly that: a macroscopic and dynamic test with European Social Survey data from 2002–2016, in 15 countries, on 195,194 participants in all. [[cite:thurre-gale-staerkle-2019]]\n\nThe question was: did rising right-wing populist positions (especially on immigration) silence more supranational and inclusive views, or, conversely, were they themselves silenced by established democratic norms? [[cite:thurre-gale-staerkle-2019]]\n\nThe results depended on which method you looked with. In the test looking at a single point in time (static), on immigration, people with pro-immigrant views were more outspoken in all 15 countries. In the test looking at change over time (dynamic), the picture differed from country to country: in France, Ireland and Switzerland, people with pro-immigrant views, although their view was still the majority view, became less outspoken over time; in Germany, Hungary, Poland and the United Kingdom they became more outspoken. [[cite:thurre-gale-staerkle-2019]]\n\nTwo lessons the authors draw: first, rising populist movements can intimidate mainstream attitudes, but their effects are not as strong as their visibility would lead you to expect; second, a spiral diagnosis should not be made by looking from a single moment; at least two time points should be compared. [[cite:thurre-gale-staerkle-2019]]\n\nStudies of this kind are an example of the “how is the spiral tested?” question, discussed in more detail in the lesson [[lesson:spiral-research]]."
+    },
+    {
+      "id": "turkey-studies",
+      "section": "turkey",
+      "layer": "core",
+      "kind": "text",
+      "title": "The spiral of silence in Turkey: the book and the studies",
+      "body": "The theory came to Turkey in two ways: translation and course books. Noelle-Neumann’s book *Kamuoyu: Suskunluk Sarmalının Keşfi* (“Public Opinion: The Discovery of the Spiral of Silence”) came out in Murat Özkök’s translation from Dost Kitabevi in 1998. [[cite:noelle-neumann-1998-tr]] In course books, Yaylagül and, in the AUZEF text (AUZEF is the İstanbul University open and distance education faculty), Polat present the theory. [[cite:yaylagul-2006]][[cite:polat-2016]]\n\nTwo examples on the research side:\n\n- **Kutlu (2019):** A survey of 404 Facebook users living in İstanbul (snowball sampling). Positive relationships were found between thinking one’s political opinion is in the minority and frequently changing privacy settings, holding back from commenting, and thinking one can express political thoughts more easily than in real life. The author concludes that a spiral of silence has formed on Facebook. [[cite:kutlu-2019]] Because a snowball sample is not representative, the result does not mean “this is how Turkey is”.\n- **Özer and Yıldıran Önk (2021):** A critical discourse analysis of the *Cumhuriyet* newspaper’s reports on Cem Karaca’s stripping of citizenship and his return. In the next card.\n\nÖzer and Yıldıran Önk also note that there are few academic studies on this theory in the Turkish communication literature. [[cite:ozer-yildiran-onk-2021]] So this field is still an open field of work for you. A comparison is instructive too: Kutlu examines individuals’ declarations, Özer and Yıldıran Önk examine newspaper texts; the same theory is tested with very different data.",
+      "question": {
+        "id": "turkey-studies-q",
+        "type": "mcq",
+        "prompt": "Which is correct about Kutlu’s (2019) Facebook study?",
+        "options": [
+          "It was done with a random sample representing all Facebook users in Turkey.",
+          "It was done with 404 users in İstanbul using snowball sampling; so the results cannot be generalised to Turkey as a whole.",
+          "It was done only with the experimental (laboratory) method.",
+          "It re-analysed Noelle-Neumann’s 1965 data."
+        ],
+        "answer": 1,
+        "explain": "Snowball sampling finds participants through one another’s acquaintances; it is not representative. So the findings (positive relationships) are a clue, not a generalisation to Turkey as a whole. The study is a survey; it is neither an experiment nor a re-analysis of the 1965 data."
+      }
+    },
+    {
+      "id": "turkey-karaca",
+      "section": "turkey",
+      "layer": "core",
+      "kind": "story",
+      "title": "One newspaper, two periods: the Cem Karaca reports",
+      "body": "Cem Karaca, one of the key names of Anatolian rock, was also known for his left-wing political stance. Legal proceedings had been started against him on the allegation of making communist propaganda in his songs; he was abroad when the 12 September 1980 military coup happened. He was summoned back to complete the trial, refused, and in 1983 was stripped of Turkish citizenship. In 1987, in the political climate that softened during the Motherland Party (ANAP) era, he was able to return to Turkey. [[cite:ozer-yildiran-onk-2021]]\n\nÖzer and Yıldıran Önk examined the reports of the *Cumhuriyet* newspaper, which presents itself as oppositional, on both events. According to their findings, although the tone of the reports differed between the two periods, both were in line with the official discourse; according to the authors, this shows agreement with the dominant view and therefore the existence of a spiral of silence. [[cite:ozer-yildiran-onk-2021]]\n\nNow it is time for critical thinking. The spiral rests on *social* fear of isolation. The legal bans and censorship of the coup period could produce a similar result. A newspaper writing in line with the dominant view does not by itself tell these two explanations apart. The authors themselves say that the repressive regime of the 1980s overlaps with the theory. [[cite:ozer-yildiran-onk-2021]] (This paragraph is not a criticism of the study but a general question to ask when applying the theory to real events: a similar outcome does not mean the same mechanism.)\n\nWhat do you say: does this study *show* the spiral, or does it only paint a picture that is *consistent with* the spiral?",
+      "question": {
+        "id": "turkey-karaca-q",
+        "type": "mcq",
+        "prompt": "Why might a newspaper’s reports being in line with the dominant view not, by itself, count as proof of the spiral of silence?",
+        "options": [
+          "Because newspapers have no interest in the theory.",
+          "Because the same agreement can also arise from other mechanisms, such as legal bans and censorship, rather than from social fear of isolation.",
+          "Because the theory holds only on social media.",
+          "Because Cumhuriyet was not published in the 1980s."
+        ],
+        "answer": 1,
+        "explain": "The theory’s mechanism is social fear of isolation; legal pressure in the coup period can also produce a similar silence. So saying ‘similar outcome = same mechanism’ is a wrong inference. The option saying the theory is limited to social media is wrong: the theory was developed in the 1960s in the context of mass media."
+      }
+    },
+    {
+      "id": "exam-patterns",
+      "section": "exam",
+      "layer": "core",
+      "kind": "text",
+      "title": "This is how exams ask it",
+      "body": "In AUZEF-style questions (AUZEF is the İstanbul University open and distance education faculty), the patterns are these. Knowing the answer is not enough; you must also recognise the **trap options**:\n\n- **Who developed the theory?** Elisabeth Noelle-Neumann (German). Traps: Asch (experiment, background), Gerbner (cultivation), McCombs–Shaw (agenda-setting), Lazarsfeld (Noelle-Neumann’s scientific model, but not the theory’s owner).\n- **What is the engine?** Fear of isolation (in Turkish “dışlanma korkusu”, also “izolasyon korkusu”). Traps: the power of the media, cognitive dissonance, selective perception.\n- **Case example?** The 1965 German election and the “last-minute swing”. The AUZEF text gives this as its case example (section 10.2.1). Some foreign textbooks open the chapter with the 1980 US election instead; that is a trap. [[cite:polat-2016]][[cite:griffin-2009]]\n- **The five assumptions:** threat, constant fear, probing the climate, affecting behaviour, combination. [[cite:polat-2016]][[cite:yaylagul-2006]]\n- **Terms:** climate of opinion, hard core, avant-garde, quasi-statistical sense, last-minute swing. [[cite:polat-2016]]\n- **Dates:** 1965 (election), 1974 (article), 1980 (German book), 1984 (English), 1998 (Turkish translation).\n\n**Different names in the books:** The Turkish course books do not all use one name. In Polat’s book the unit title is “Sihirli Mermi ve Sessizlik Sarmalı” (“Magic Bullet and the Silence Spiral”) and the text says “sessizlik sarmalı”, while “Sessizlik Kuramı” (“Silence Theory”) appears among the key concepts; the section title, however, is “Suskunluk Sarmalı Kuramı” (“Silence Spiral Theory”). Yaylagül says “Suskunluk Sarmalı”. (“Sessizlik” and “suskunluk” are two Turkish words for “silence”.) All are the same theory; however it is named in an exam, remember Noelle-Neumann. [[cite:polat-2016]][[cite:yaylagul-2006]] In this lesson, for consistency, we use “spiral of silence” throughout.\n\n**Two common mistakes:** confusing the *bandwagon* effect (joining the winner) with the spiral; confusing agenda-setting with the spiral (agenda-setting influences *what we think about*, the spiral *which opinion seems speakable*).",
+      "question": {
+        "id": "exam-patterns-q",
+        "type": "mcq",
+        "prompt": "In the AUZEF course text, which event does the “case example” section of the spiral of silence theory describe?",
+        "options": [
+          "The 1965 German elections",
+          "The 1980 US presidential election (Carter–Reagan)",
+          "The 1940 Erie County voter study",
+          "The 1968 Chapel Hill agenda-setting study"
+        ],
+        "answer": 0,
+        "explain": "In Polat’s text, 10.2.1 is “Örnek Olay: Almanya’da 1965 Meclis Seçimleri” (“Case Example: The 1965 Parliamentary Elections in Germany”). The 1980 US election is the opening example of some English textbooks (a trap); the Erie County voter study is a classic of the limited-effects and selective-exposure debate, and Chapel Hill is the classic of agenda-setting."
+      }
+    },
+    {
+      "id": "exam-pairs",
+      "section": "exam",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Mixed-up pairs: who, what, when?",
+      "body": "Mixing up the name and date pairs in this lesson is a common mistake. Ask yourself:\n\n- **Noelle-Neumann** ↔ the 1974 *Journal of Communication* article, the 1980 German book, the 1984 English edition. [[cite:noelle-neumann-1974]][[cite:noelle-neumann-1980]][[cite:noelle-neumann-1984]]\n- **Asch** ↔ the 1950s line (conformity) experiments; not part of the theory but its background. [[cite:asch-1956]]\n- **Glynn, Hayes and Shanahan** ↔ the 1997 meta-analysis. [[cite:glynn-hayes-shanahan-1997]]\n- **Scheufele and Moy** ↔ the 2000 conceptual review (“Twenty-five years of the spiral of silence”). [[cite:scheufele-moy-2000]]\n- **Allensbach** ↔ the institute Noelle-Neumann founded with her husband in 1947. [[cite:epd-2010]]\n\nTwo memory techniques: (1) **Order of roles:** Asch ran the experiment, Noelle-Neumann built the theory, Glynn and colleagues pooled the studies on the theory, Scheufele and Moy assessed the whole. (2) **Order of years:** 74–80–84 (article, German book, English book) and 97–2000 (meta-analysis, conceptual review).\n\nThe natural question form of this card in an exam is: “Which of the following is NOT part of Noelle-Neumann’s theory?” The answer is often a detail belonging to Asch or a concept from another theory.\n\nTest yourself: match the description on the right to the left. Don’t move on without solving the question below once more; especially tell Asch apart from Noelle-Neumann, and Glynn from Scheufele.",
+      "question": {
+        "id": "exam-pairs-q",
+        "type": "match",
+        "prompt": "Match the name or institution on the left with the correct description.",
+        "pairs": [
+          [
+            "Noelle-Neumann",
+            "Author of the spiral of silence article published in the Journal of Communication in 1974"
+          ],
+          [
+            "Asch",
+            "Conductor of the line-length conformity experiments (1950s)"
+          ],
+          [
+            "Glynn, Hayes and Shanahan",
+            "The 1997 meta-analysis pooling studies on the relationship between perceived support and willingness to speak"
+          ],
+          [
+            "Scheufele and Moy",
+            "The 2000 conceptual review of the theory’s first quarter-century"
+          ],
+          [
+            "Allensbach",
+            "The polling institute Noelle-Neumann founded in 1947"
+          ]
+        ],
+        "explain": "The confusion is usually between Asch and Noelle-Neumann: Asch ran the experiment; Noelle-Neumann developed the theory and used Asch as background. The meta-analysis (Glynn and colleagues) and the conceptual review (Scheufele and Moy) are also different types: one is a numerical pooling, the other a review of concepts and measurement."
+      }
+    },
+    {
+      "id": "summary",
+      "section": "summary",
+      "layer": "core",
+      "kind": "summary",
+      "title": "Summary card",
+      "body": "- **Puzzle:** In the 1965 German election, while voting intention stayed steady for months, the expectation of “who will win?” shifted and the votes in the end shifted the same way. [[cite:polat-2016]][[cite:bundeswahlleiterin-1965]]\n- **Theory:** People sense which opinion is gaining strength; those who think they are in the minority fall silent out of fear of isolation; this visibility gap accelerates like a spiral. [[cite:griffin-2009]]\n- **Concepts:** fear of isolation, quasi-statistical sense, climate of opinion, willingness to speak out, hard core, avant-garde.\n- **Assumptions:** threat, constant fear, probing the climate, affecting behaviour, combination. [[cite:polat-2016]]\n- **Evidence:** the 1965 and 1972 election observations; the train test; Asch in the background. [[cite:petersen-2019]][[cite:asch-1956]]\n- **Criticism:** fear was not measured, an imaginary test, the immediate circle; in meta-analyses a small but consistent effect. [[cite:glynn-hayes-shanahan-1997]][[cite:matthes-knoll-vonsikorski-2018]]\n- **Today:** the relationship persists online too; perceived surveillance and echo chambers shape the perception of the climate. [[cite:hampton-et-al-2014]][[cite:stoycheff-2016]]\n- **Exam:** the 1965 German election, the 1974 article, the 1980 German and 1984 English books, the five assumptions.\n\n**In one sentence:** The spiral of silence says that because people voice or hide their opinions on the basis of the climate around them, an opinion’s appearance in the public sphere can drift away from its real strength, and this can turn into a self-amplifying loop.\n\nNext: [[lesson:spiral-research]] and [[lesson:filter-bubbles]].",
+      "question": {
+        "id": "summary-q",
+        "type": "cloze",
+        "prompt": "Fill in the blanks.",
+        "text": "In the spiral of silence theory the engine is fear of {{1}}. What drives the spiral is not the real distribution of opinions but the {{2}} distribution. The German book came out in {{3}}, the English edition in {{4}}.",
+        "blanks": [
+          {
+            "options": [
+              "loneliness",
+              "isolation",
+              "punishment",
+              "shame"
+            ],
+            "answer": 1
+          },
+          {
+            "options": [
+              "perceived",
+              "actual",
+              "legal",
+              "measured"
+            ],
+            "answer": 0
+          },
+          {
+            "options": [
+              "1974",
+              "1980",
+              "1984",
+              "1965"
+            ],
+            "answer": 1
+          },
+          {
+            "options": [
+              "1980",
+              "1984",
+              "1974",
+              "1993"
+            ],
+            "answer": 1
+          }
+        ],
+        "explain": "The theory’s engine is fear of isolation; the spiral works through the perceived distribution. The German book came out in 1980, the English edition in 1984 (1974 is the article, and 1993 is the date of the second English edition)."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "quiz-first-paper",
+      "type": "mcq",
+      "prompt": "Which is the spiral of silence theory’s first scholarly article in English?",
+      "options": [
+        "Noelle-Neumann, “The spiral of silence: A theory of public opinion”, Journal of Communication, 1974",
+        "Noelle-Neumann, “The Spiral of Silence: Public Opinion – Our Social Skin”, 1984",
+        "Asch, “Studies of independence and conformity”, 1956",
+        "Glynn, Hayes and Shanahan, “Perceived support for one’s opinions and willingness to speak out”, 1997"
+      ],
+      "answer": 0,
+      "explain": "The theory was first published in English in the 1974 Journal of Communication article. The 1984 work is not an article but the English edition of the German book; Asch’s monograph is a conformity study in the theory’s background; and Glynn and colleagues is a meta-analysis testing the theory."
+    },
+    {
+      "id": "quiz-engine",
+      "type": "mcq",
+      "prompt": "A student does not state their opinion openly in an emotionally charged debate because they think most of the class is against them. What mainly explains this behaviour in the theory?",
+      "options": [
+        "Fear of isolation",
+        "Cognitive dissonance",
+        "The student having really changed their mind",
+        "Censorship applied by the state"
+      ],
+      "answer": 0,
+      "explain": "The theory’s engine is the fear of isolation of a person who thinks they are in the minority. Having changed their mind (third option) looks tempting, but the theory predicts silence, not a change of mind. Censorship is a legal, not a social, pressure."
+    },
+    {
+      "id": "quiz-tf-books",
+      "type": "tf",
+      "prompt": "Noelle-Neumann’s German book Die Schweigespirale was published in 1984 and its English edition in 1980.",
+      "answer": false,
+      "explain": "The reverse is true: the German book came out in 1980 (Piper), the English edition in 1984 (University of Chicago Press). Because the English edition is a translation of the German one, it comes later."
+    },
+    {
+      "id": "quiz-tf-visibility",
+      "type": "tf",
+      "prompt": "According to the theory, an opinion can look strong or weak in the public sphere even if the real number of its supporters does not change at all.",
+      "answer": true,
+      "explain": "True. What drives the spiral is not the real but the perceived distribution of opinions: an opinion defended loudly looks stronger than it is, the silent side looks weaker than it is. The 1965 and 1972 observations are the starting point of this claim."
+    },
+    {
+      "id": "quiz-match-terms",
+      "type": "match",
+      "prompt": "Match the terms with the correct descriptions.",
+      "pairs": [
+        [
+          "Climate of opinion",
+          "The perception of which opinion is widespread or rising in one’s surroundings"
+        ],
+        [
+          "Quasi-statistical sense",
+          "The ability to sense the distribution and trend of opinion around one without running a poll"
+        ],
+        [
+          "Hard core",
+          "The minority that keeps voicing its opinion, accepting exclusion"
+        ],
+        [
+          "Train test",
+          "A method for measuring willingness to speak using an imaginary journey scenario"
+        ],
+        [
+          "Fear of isolation",
+          "The worry of falling out of one’s surroundings’ favour, which sets the spiral in motion"
+        ]
+      ],
+      "explain": "The climate of opinion is the perceived distribution, and the quasi-statistical sense is the sense that detects this distribution; confusing the two is a common mistake. The train test measures the spiral’s outcome (willingness to speak), not the fear. The hard core is the exception to the spiral."
+    },
+    {
+      "id": "quiz-order-spiral",
+      "type": "order",
+      "prompt": "Put the spiral’s workings in the right order.",
+      "items": [
+        "An issue becomes contested and people probe the climate of opinion",
+        "Those who think their opinion is gaining ground speak; those who think they are in the minority fall silent",
+        "The speaking side looks bigger than its real strength, the silent side looks smaller",
+        "This appearance becomes a new climate signal and the process accelerates for another round"
+      ],
+      "explain": "First the climate is probed, then comes the decision to speak or stay silent, then the visibility gap appears and this gap becomes the input of the next round. That is the spiral: the output returns as input."
+    },
+    {
+      "id": "quiz-cloze",
+      "type": "cloze",
+      "prompt": "Fill in the blanks.",
+      "text": "In the 1965 German election, {{1}} stayed steady for months, but the expectation {{2}} shifted toward the CDU/CSU. Noelle-Neumann explained this with a theory based on fear of {{3}}.",
+      "blanks": [
+        {
+          "options": [
+            "voting intention",
+            "turnout",
+            "the number of polls",
+            "media budgets"
+          ],
+          "answer": 0
+        },
+        {
+          "options": [
+            "about who would win",
+            "about when the election would be held",
+            "about turnout",
+            "about media budgets"
+          ],
+          "answer": 0
+        },
+        {
+          "options": [
+            "isolation",
+            "punishment",
+            "poverty",
+            "censorship"
+          ],
+          "answer": 0
+        }
+      ],
+      "explain": "The puzzle was the split between voting intention and the winner expectation; Noelle-Neumann’s answer was fear of isolation. Punishment and censorship are legal mechanisms, whereas the theory describes social pressure."
+    },
+    {
+      "id": "quiz-case-campus",
+      "type": "case",
+      "scenario": "(Hypothetical example.) On a university campus, on an emotionally charged and contested issue, one opinion is defended constantly and loudly on social media. Many students disagree with this opinion, but most do not write comments. One student, thinking “Everyone thinks like this”, gives up sharing their own different opinion.",
+      "parts": [
+        {
+          "id": "quiz-case-campus-1",
+          "type": "mcq",
+          "prompt": "Which concept of the theory does the student’s belief that “everyone thinks like this” correspond to?",
+          "options": [
+            "The perceived climate of opinion",
+            "Hard core",
+            "Meta-analysis",
+            "Cultivation"
+          ],
+          "answer": 0,
+          "explain": "The student’s perception of the distribution of opinion around them, that is, the perception of the climate of opinion, is at work here. The hard core is the minority that does not fall silent; this student is going silent. A meta-analysis is a method, and cultivation is another theory."
+        },
+        {
+          "id": "quiz-case-campus-2",
+          "type": "mcq",
+          "prompt": "Even though the number of students who disagree with the opinion is really large, why does the opinion look widespread?",
+          "options": [
+            "The visibility gap: the speaking side looks bigger than its real strength, the silent side looks small.",
+            "The majority is forcibly silencing the others.",
+            "The students really changed their minds.",
+            "There is a legal ban."
+          ],
+          "answer": 0,
+          "explain": "The theory ties silence to a social visibility gap: silence changes not the number but the appearance. Forced silencing and bans are different mechanisms; and a change of mind is not what the theory predicts."
+        },
+        {
+          "id": "quiz-case-campus-3",
+          "type": "mcq",
+          "prompt": "In evaluating this scenario, which objection of the critics is particularly important?",
+          "options": [
+            "The climate of the immediate circle (friends, family, class) may determine willingness to speak more than the general social media climate.",
+            "The theory holds only for television.",
+            "The Asch experiment was never conducted.",
+            "Willingness to speak cannot be measured on social media."
+          ],
+          "answer": 0,
+          "explain": "According to the critics, rather than the country’s or the platform’s climate, the climate of the immediate circle may be decisive. The claim that the theory is specific to television is not true; Asch’s experiment was conducted; willingness to speak has also been measured on social media, though the distinction between declaration and behaviour still matters."
+        }
+      ],
+      "takeaway": "The perception of the climate, the visibility gap and the reference group should be thought about together: what drives the spiral is appearance more than numbers, and which climate a person takes into account can vary from person to person."
+    },
+    {
+      "id": "quiz-critique",
+      "type": "mcq",
+      "prompt": "A researcher measures willingness to speak with the train test and says “the role of fear of isolation in the theory has been proven”. Which criticism is most directly aimed at this inference?",
+      "options": [
+        "Fear of isolation was not measured in this test but assumed; also the test measures an imaginary situation.",
+        "The test is too expensive.",
+        "The theory can never be tested outside Germany.",
+        "Asch’s experiment is wrong."
+      ],
+      "answer": 0,
+      "explain": "Fear being assumed rather than measured, and the test being imaginary, are the theory’s two basic measurement criticisms. Cost or geographic-limit criticisms do not appear in the literature; and Asch’s experiment is the theory’s background and is not discussed here."
+    },
+    {
+      "id": "quiz-alt-names",
+      "type": "mcq",
+      "prompt": "Which Turkish-language name or names do the Turkish course books use for the spiral of silence? (Polat’s unit title says “Sessizlik Sarmalı”, his section title says “Suskunluk Sarmalı Kuramı”, and Yaylagül writes “Suskunluk Sarmalı”; “sessizlik” and “suskunluk” are both Turkish words for “silence”.)",
+      "options": [
+        "Both “Suskunluk Sarmalı” and “Sessizlik Sarmalı” occur, depending on the book; they all name the same theory of Noelle-Neumann’s.",
+        "“Sessizlik Sarmalı” and “Suskunluk Sarmalı” are two different theories.",
+        "“Sessizlik Sarmalı” is Asch’s theory and “Suskunluk Sarmalı” is Noelle-Neumann’s.",
+        "Only the theory Yaylagül describes, “Suskunluk Sarmalı”, is Noelle-Neumann’s."
+      ],
+      "answer": 0,
+      "explain": "The names vary from book to book, but the theory is the same. This lesson uses “spiral of silence” throughout for consistency. The other options are traps: a differently written name does not mean a different theory."
+    },
+    {
+      "id": "quiz-case-turkey",
+      "type": "case",
+      "scenario": "A researcher is examining a newspaper’s reports in a post-coup period. Although the newspaper describes itself as oppositional, it has written reports in line with the official discourse. The researcher presents this as “the existence of a spiral of silence”.",
+      "parts": [
+        {
+          "id": "quiz-case-turkey-1",
+          "type": "mcq",
+          "prompt": "What is the weakest point of this inference?",
+          "options": [
+            "It has not been distinguished whether the cause of the agreement is social fear of isolation or legal pressure and censorship.",
+            "The newspaper being oppositional is irrelevant to the theory.",
+            "News analysis is never scientific.",
+            "There cannot be a spiral of silence in coup periods."
+          ],
+          "answer": 0,
+          "explain": "The theory’s mechanism is social fear of isolation; legal pressure can produce a similar silence. So saying ‘similar outcome = same mechanism’ weakens the inference. The other options are either contrary to fact or overgeneralisations."
+        },
+        {
+          "id": "quiz-case-turkey-2",
+          "type": "mcq",
+          "prompt": "What could be done to strengthen the inference?",
+          "options": [
+            "Trying to separate out the effect of legal restrictions and directly measuring journalists’ or readers’ fear of isolation and willingness to speak.",
+            "Counting a few more reports with the same method.",
+            "Focusing on a single report only.",
+            "Interpreting the results so as to make them consistent with the theory."
+          ],
+          "answer": 0,
+          "explain": "The way to separate the two explanations is to control for the effect of legal pressure and to measure fear directly. Counting more reports enlarges the same uncertainty; focusing on a single report and making the result fit the theory are biased routes of inference."
+        }
+      ],
+      "takeaway": "A similar outcome does not mean the same mechanism: when applying the theory to real events, alternative explanations must be separated out."
+    },
+    {
+      "id": "quiz-meta",
+      "type": "mcq",
+      "prompt": "Which is correct about Matthes and colleagues’ 2018 meta-analysis (66 studies, over 27,000 participants)?",
+      "options": [
+        "The relationship is small (about r = .10) but different from zero; it is no weaker online than offline.",
+        "The relationship is very strong (r about .80).",
+        "It covers only offline studies.",
+        "It definitively refutes the theory."
+      ],
+      "answer": 0,
+      "explain": "The meta-analysis finds a small but consistent relationship and sees no weakening online. Extreme readings such as r = .80 or ‘definitive refutation’ do not match the finding; and the studies include both online and offline settings."
+    },
+    {
+      "id": "quiz-asch",
+      "type": "mcq",
+      "prompt": "Which is correct about Asch’s 1956 monograph?",
+      "options": [
+        "It was done with 123 subjects; about a third of the estimates in the critical trials moved to the majority’s wrong answer, but most estimates remained independent and some subjects never conformed.",
+        "Most subjects conformed to the majority in every trial.",
+        "In the control group too about a third of the estimates were wrong.",
+        "The experiment was done with only a single confederate."
+      ],
+      "answer": 0,
+      "explain": "Asch’s data show both conformity and independence: of 123 subjects, 94 conformed at least once and 29 never did. In the control group errors were under 1 percent, and in the main experiment the majority was 7–9 people."
+    }
+  ]
+}

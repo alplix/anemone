@@ -1,0 +1,12 @@
+{
+  "id": "fear-of-isolation",
+  "lang": "tr",
+  "term": "dışlanma korkusu",
+  "altTerms": [
+    "izolasyon korkusu"
+  ],
+  "slug": "dislanma-korkusu",
+  "short": "Toplumdan dışlanmaktan, çevrenin gözünden düşmekten duyulan korku. Suskunluk sarmalı kuramında insanı sürekli fikir iklimini yoklamaya ve azınlıkta olduğunu sezdiğinde susmaya iten motor.",
+  "body": "Dışlanma korkusu (Türkçe kaynaklarda “izolasyon korkusu” da geçer; İngilizce *fear of isolation*), suskunluk sarmalı kuramının motorudur. Noelle-Neumann’a göre insan sosyal bir varlıktır ve çevresinin gözünden düşmekten, yalnız kalmaktan çekinir. Topluluk da sapkın (çoğunluktan ayrı) görülen kişiyi dışlamakla tehdit eder: kaşları çatmak, sırt dönmek, alay etmek bu tehdidin gündelik biçimleridir. [[cite:noelle-neumann-de-site]][[cite:polat-2016]] İki Türkçe ders kitabı da bu korkuyu kuramın beş varsayımının ikincisi olarak sayar: bireyler dışlanma korkusunu sürekli duyar. [[cite:polat-2016]][[cite:yaylagul-2006]]\n\nKuram bu korkunun büyük ölçüde bilinçsiz işlediğini ileri sürer: insanlar davranışlarının kamuoyuna göre ayarlandığını çoğunlukla düşünmez. [[cite:noelle-neumann-de-site]] Noelle-Neumann korkunun gerçekliğine destek olarak Asch’in çizgi deneylerine başvurur. [[cite:griffin-2009]]\n\nEleştirmenlere göre sorun, korkunun çoğu çalışmada *ölçülmeyip varsayılmasıdır*: sessiz kalanlar gerçekten daha fazla korku duyuyor mu, yoksa çekingenlik ya da ilgisizlik mi susturuyor? [[cite:griffin-2009]] Bu yüzden korku, kuramın en çok tartışılan ve sınanması en zor halkasıdır.",
+  "example": "Asch’in 1956 çizgi deneyinde, kendisi dışında herkesin yanlış cevapta birleştiği bir odadaki denekler, kritik denemelerdeki tahminlerinin yaklaşık üçte birinde çoğunluğun yanlışına katıldı; bazıları sonradan grubun karşısında yalnız kalmanın onlara ne kadar rahatsız edici geldiğini anlattı. [[cite:asch-1956]]"
+}

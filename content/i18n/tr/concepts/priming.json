@@ -1,0 +1,7 @@
+{
+  "id": "priming", "lang": "tr",
+  "term": "öncüleme", "altTerms": ["önceleme"], "slug": "onculeme",
+  "short": "Medyada öne çıkan bir konunun ya da alanın, insanların bir lideri veya olayı değerlendirirken kullandığı ölçüt hâline gelmesi.",
+  "body": "Öncüleme (priming), medyada öne çıkan bir konunun ya da alanın, insanların bir lideri, kurumu veya olayı değerlendirirken kullandığı ölçüt hâline gelmesidir. Krosnick ve Kinder’in kuramsal ifadesiyle, medya bir alana ne kadar çok dikkat ederse, yurttaşlar o alan hakkında bildiklerini genel yargılarına o kadar çok katar.\n\nGündem belirlemeyle ilişkisini şöyle kurabiliriz: Gündem belirleme, hangi konunun *belirgin* olduğunu; öncüleme ise belirgin olan konunun *yargı ölçütü* olarak kullanılmasını anlatır. Iyengar, Peters ve Kinder’in deneyleri, akşam haberlerinde öne çıkarılan sorunların başkanın performansını değerlendirmede daha ağırlıklı hâle geldiğini gösterdi. Scheufele ve Tewksbury çerçeveleme, gündem belirleme ve öncülemeyi birbirinin komşusu ama ayrı üç medya etkisi modeli olarak karşılaştırır.\n\nBu, ders için yalnızca kısa bir tanımdır; kavramın ayrıntısı, ölçümü ve eleştirisi [[lesson:priming-second-level]] dersinde işlenir. Önce ana kavram için [[concept:agenda-setting|gündem belirleme]]ye bak.",
+  "example": "1986’da İran–Contra skandalı patlayınca, Orta Amerika’ya müdahale, Başkan Reagan’ın performansını değerlendirmede skandaldan önceye göre daha ağırlıklı hâle geldi (Krosnick ve Kinder 1990)."
+}

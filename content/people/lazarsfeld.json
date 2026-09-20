@@ -1,0 +1,7 @@
+{
+  "id": "lazarsfeld",
+  "born": { "year": 1901 },
+  "died": { "year": 1976 },
+  "sources": ["sills-lazarsfeld-1987", "encyclopedia-lazarsfeld"],
+  "works": ["lazarsfeld-berelson-gaudet-1944", "katz-lazarsfeld-1955"]
+}

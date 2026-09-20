@@ -1,0 +1,10 @@
+{
+  "id": "message-system-analysis",
+  "lang": "tr",
+  "term": "mesaj sistemi çözümlemesi",
+  "altTerms": ["mesaj sistem çözümlemesi", "message system analysis"],
+  "slug": "mesaj-sistemi-cozumlemesi",
+  "short": "Kültürel Göstergeler’in ikinci ayağı: medya içeriğinde yinelenen kalıpları (kimler görünür, ne yapar, kime ne yapar) sistematik biçimde saymak ve izlemek.",
+  "body": "Mesaj sistemi çözümlemesi, [[concept:cultural-indicators]]’in ikinci ayağıdır: medya içeriğinde yinelenen kalıpları sistematik biçimde saymak ve izlemek. Gerbner ve ekibi kimlerin göründüğünü (demografi), ne yaptıklarını, kimin kime ne yaptığını, hangi ilişkilerin ve imgelerin tekrar ettiğini; şiddet, azınlıklar, cinsiyet rolleri ve meslekler gibi başlıklar altında kodlar.\n\nAmaç tek bir programı yorumlamak değil, televizyonun oluşturduğu toplam “dünya”yı betimlemektir. Bu betimleme “televizyon dünyası” olarak adlandırılır ve kültivasyon anketlerindeki “televizyon yanıtı”nın neye karşılık geldiğini belirler. Örnekleme: Kültürel Göstergeler’de 1967’den beri her yıl ABD ağ televizyonlarının ana yayın ve hafta sonu gündüz kurgu programlarından haftalık örnekler kaydedilir.\n\nTürkiye’de de uygulamaları vardır: örneğin Özer ve Jafarli (2024) önce Türk kanallarının ana yayın kuşağında mesaj sistemi çözümlemesi yaptı; ardından anketi bu bulgulara göre kurdu. Türkçede “mesaj sistem çözümlemesi” ve “mesaj sistemi çözümlemesi” yazımları görülür. Bu ayağın izleyiciyle buluştuğu yer [[concept:cultivation]] çözümlemesidir.",
+  "example": "Bir haftalık akşam kuşağı dizilerinde kadın karakterlerin oranını ve mesleklerini, kimin kime zarar verdiğini kodlamak."
+}

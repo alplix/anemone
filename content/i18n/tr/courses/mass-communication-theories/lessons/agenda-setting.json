@@ -1,0 +1,813 @@
+{
+  "id": "agenda-setting",
+  "lang": "tr",
+  "translation": {
+    "status": "source",
+    "date": "2026-09-20"
+  },
+  "title": "Gündem Belirleme",
+  "slug": "gundem-belirleme",
+  "description": "Medya hangi konuya yer verirse biz onu önemli sayarız: Lippmann’dan Chapel Hill 1968’e, yönelim gereksiniminden sosyal medyaya gündem belirleme.",
+  "claim": "Haber medyası bazı konulara daha çok yer ve öncelik verdikçe kamu da o konuları daha önemli görmeye eğilim gösterir: medya insanlara ne düşüneceklerini değil, ne hakkında düşüneceklerini etkiler.",
+  "keywords": [
+    "gündem belirleme",
+    "McCombs",
+    "Shaw",
+    "Chapel Hill",
+    "Lippmann",
+    "Cohen",
+    "medya gündemi",
+    "kamu gündemi",
+    "yönelim gereksinimi",
+    "ikinci düzey gündem belirleme",
+    "öncüleme"
+  ],
+  "updated": "2026-09-20",
+  "timeline": {
+    "lippmann-public-opinion": "Lippmann, Public Opinion: “kafamızdaki resimler” ve sözde çevre",
+    "cohen-press-foreign-policy": "Cohen, The Press and Foreign Policy: “ne hakkında düşünmek” cümlesi",
+    "chapel-hill-study": "Chapel Hill çalışması: 100 kararsız seçmen, dokuz medya kaynağı (Eylül–Ekim 1968)",
+    "poq-article": "McCombs ve Shaw, “The Agenda-Setting Function of Mass Media” (Public Opinion Quarterly)",
+    "charlotte-panel": "Charlotte’ta üç dalgalı seçmen paneli; yönelim gereksinimi kavramının doğuşu",
+    "funkhouser-1960s": "Funkhouser: 1960’ların konularında basın, kamuoyu ve gerçek durum göstergeleri",
+    "iyengar-experiments": "Iyengar, Peters ve Kinder’in televizyon haberi deneyleri",
+    "second-level-spain": "İspanya seçimlerinde ikinci düzey gündem belirleme çalışması (McCombs ve arkadaşları)"
+  },
+  "cards": [
+    {
+      "id": "hook",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "Altı hafta boyunca dost sandılar",
+      "body": "Şu sahneyi düşün. Okyanusun ortasında küçük bir ada, yıl 1914. Adada bir avuç İngiliz, Fransız ve Alman yaşıyor. Telgraf kablosu adaya uğramıyor; posta vapuru altmış günde bir geliyor. Eylül ortasında vapur nihayet göründüğünde bütün koloni iskeleye toplanıyor, çünkü herkes gazetede okuduğu bir mahkeme davasının sonucunu merak ediyor.\n\nKaptan bambaşka bir haber getiriyor: Avrupa’da savaş çıkalı altı haftadan fazla olmuş. İngilizler ve Fransızlar, Almanlara karşı savaşıyor. Adalılar ise bunca zaman birbirlerine dost gibi davranmış.\n\nBu sahne bir tarih belgesi değil; gazeteci Walter Lippmann’ın *Public Opinion* (1922) kitabını açış biçimi [[cite:lippmann-1922]]. Dersi şu: İnsan, gerçek dünyaya değil, kafasındaki dünya resmine göre davranır. İlk bölümün başlığı da bunu söylüyor: “The World Outside and the Pictures in Our Heads”, yani dışarıdaki dünya ve kafalarımızdaki resimler.\n\nNeden böyle? Çünkü Lippmann’a göre gerçek çevre “too big, too complex, and too fleeting for direct acquaintance”; doğrudan tanımak için fazla büyük, karmaşık ve geçici [[cite:lippmann-1922]]. Ona haritalarla yaklaşırız. Haritayı çoğu zaman başkası çizer; savaş, siyaset, ekonomi gibi uzak konularda o başkası büyük ölçüde haber medyasıdır.\n\nBu ders tek bir soruyu izliyor: Haritada hangi bölgeleri kalın çizen kim ve biz o kalın çizgilere ne kadar güveniyoruz?",
+      "question": {
+        "id": "hook-q",
+        "type": "mcq",
+        "prompt": "Lippmann’ın ada anlatısı, gündem belirleme kuramına giden yolda neyi gösteriyor?",
+        "options": [
+          "Haber medyasının çoğu zaman bilerek yalan söylediğini",
+          "Posta vapuru sıklığının kamuoyunu belirlediğini",
+          "İnsanların uzak dünyayı, başkalarından aldıkları basitleştirilmiş resimler aracılığıyla tanıdığını ve ona göre davrandığını",
+          "Gazete okuyucularının savaş haberlerini sevmediğini"
+        ],
+        "answer": 2,
+        "explain": "Doğru cevap üçüncü seçenek: Adalılar yanlış davrandı çünkü kafalarındaki resim eskimişti. Bilerek yalan tuzağına düşme: Lippmann “By fictions I do not mean lies” diyerek insanın çevresini kendi kurduğu temsillerle tanıdığını söylüyor; yani sorun kötü niyet değil, gerçeğin doğrudan bilinemeyecek kadar büyük olması. Posta vapuru hikâyenin bir ayrıntısı, ana fikri değil."
+      }
+    },
+    {
+      "id": "cohen-line",
+      "section": "context",
+      "layer": "core",
+      "kind": "text",
+      "title": "Bir cümle, henüz sınanmamış bir hipotez",
+      "body": "1963’te siyaset bilimci [[person:cohen-bernard|Bernard Cohen]] *The Press and Foreign Policy* adlı kitabını yayımladı. Kitap, Washington’daki dış haber muhabirleri ile dış politika yetkilileriyle 1953–54’te ve 1960’ta yapılan görüşmelere dayanıyordu [[cite:cohen-1963]]. McCombs’un özetine göre Cohen, haber kaynaklarıyla gazetecilerin birbirinin gündemini nasıl karşılıklı etkilediğine niteliksel olarak bakmıştı [[cite:mccombs-1976]].\n\nKitabın en ünlü cümlesi sonradan kuramın sloganına dönüştü. Cohen’e göre basın çoğu zaman insanlara *ne düşüneceklerini* söylemekte başarılı olmayabilir, ama “stunningly successful in telling its readers what to think about”, yani okurlarına *ne hakkında düşüneceklerini* söylemede şaşırtıcı ölçüde başarılıdır [[cite:mccombs-shaw-1972]].\n\nDikkat: Bu cümle bir bulgu değil, bir gözlemdi. McCombs ve Shaw 1972 makalesinde onu kuramın en özlü ifadesi diye anıyor ve bir *hipotez* olarak ele alıyor [[cite:mccombs-shaw-1972]]. Aynı makale, Kurt ve Gladys Engel Lang’dan da aynı yönde bir cümle aktarıyor: “The mass media force attention to certain issues” [[cite:mccombs-shaw-1972]].\n\nDemek ki fikir 1960’ların ortasında havada: Lippmann “kafamızdaki resimler” demiş, Cohen ve Lang’lar bunu dikkatin yönlendirilmesine bağlamış. Eksik olan tek şey ölçmekti. 1968’de bunu deneyen iki genç doçent var; sıradaki kartlarda onları tanıyacaksın.",
+      "question": {
+        "id": "cohen-q",
+        "type": "mcq",
+        "prompt": "Bir gazete bir hafta boyunca ilk sayfasında yalnızca kent içi su kesintilerini işliyor, kesintinin sorumlusu hakkında ise hiçbir yorum yapmıyor. Cohen’in cümlesine göre gazete okuyucuya ne kazandırmış olur?",
+        "options": [
+          "Suçlunun kim olduğuna dair bir görüş (ne düşüneceğini)",
+          "Su kesintilerinin üzerinde durulmaya değer bir konu olduğu izlenimini (ne hakkında düşüneceğini)",
+          "Belediye başkanına karşı olumsuz bir tutum",
+          "Hiçbir şey; Cohen’e göre gazete okuyucuyu etkilemez"
+        ],
+        "answer": 1,
+        "explain": "Cohen konu seçimi ile görüş bildirmeyi ayırıyor. Gazete görüş bildirmiyor ama konuyu ısrarla öne çıkararak “bu önemli” sinyalini veriyor; bu ikinci seçenek. Birinci ve üçüncü seçenek “ne düşüneceği” tarafına kayıyor, yani kuramın iddia etmediği şeye. Dördüncü seçenek ise Cohen’in cümlesini yanlış okuyor: Cohen medyanın güçsüz olduğunu değil, gücünün başka yerde durduğunu söylüyor."
+      }
+    },
+    {
+      "id": "deep-limited-effects",
+      "section": "context",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin bakış: “Etkisiz” denilen yıllarda bir kaçış yolu",
+      "body": "1972 makalesinin ilk sayfalarını okumak, kuramın o günün bilimsel havasında neden akıllıca bir yol olduğunu gösterir.\n\nYazarlar önce şunu kabul ediyor: Medyanın bir kampanya sırasında tutumları derinden değiştirdiğine dair kanıt kesin olmaktan uzak; buna karşılık seçmenlerin kampanya bilgisinden bir şeyler *öğrendiğine* dair kanıt çok daha güçlü [[cite:mccombs-shaw-1972]]. Dayandıkları kaynaklar arasında Berelson, [[person:lazarsfeld|Lazarsfeld]] ve McPhee’nin seçmen çalışmaları ile Trenaman ve McQuail’in 1959 İngiltere genel seçimi araştırması var [[cite:mccombs-shaw-1972]]. O geleneğin havası için [[lesson:voting-studies]] dersine bak.\n\nİnsanlar da eşit ilgiyle izlemiyor: Genellikle daha eğitimli ve siyasete daha ilgili olanlar bilgiyi aktif arıyor; çoğu kişiye ise bilgi çaba harcamadan “geliyor” [[cite:mccombs-shaw-1972]]. Yani mesele ikna değil, öğrenme.\n\nBuradan zekice bir kayma çıkıyor: Medya tutumların *yönünü ve şiddetini* pek değiştirmiyor olabilir; ama kampanyanın *gündemini*, yani hangi tutumların ne kadar belirgin olduğunu belirleyebilir [[cite:mccombs-shaw-1972]]. “Medya etkisiz mi?” sorusu böylece “medya neyi öğretiyor?” sorusuna dönüşüyor.\n\nBenim yorumum: Bu kayma, sınırlı etkiler bulgularıyla kavga etmeden onların ötesine geçmenin yoluydu. Seçici algı tarafını görmek için [[lesson:selective-processes]] dersine bakabilirsin."
+    },
+    {
+      "id": "people-time",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "text",
+      "title": "Kim, ne zaman: beş isim ve bir zaman çizgisi",
+      "body": "Hikâyenin kahramanları kısaca:\n\n- [[person:lippmann|Walter Lippmann]]: gazeteci; “kafamızdaki resimler” fikri.\n- [[person:cohen-bernard|Bernard Cohen]]: siyaset bilimci; “ne hakkında düşünmek” cümlesi.\n- [[person:mccombs|Maxwell McCombs]] ve [[person:shaw|Donald Shaw]]: Kuzey Karolina Üniversitesi Chapel Hill’de genç gazetecilik doçentleri; Shaw 1966’da, McCombs 1967’de fakülteye katıldı [[cite:weaver-2025]].\n- [[person:lazarsfeld|Paul Lazarsfeld]]: seçmen araştırmalarının öncüsü; tutum değişimi arayan geleneğin simgesi.\n\nZaman çizgisi:\n\n1. 1922: Lippmann, *Public Opinion* [[cite:lippmann-1922]]\n2. 1963: Cohen, *The Press and Foreign Policy* [[cite:cohen-1963]]\n3. 1968 sonbaharı: Chapel Hill görüşmeleri ve medya içeriğinin çözümlenmesi [[cite:mccombs-shaw-1972]]\n4. 1972: *Public Opinion Quarterly* makalesi; aynı yıl Charlotte’ta üç dalgalı panel çalışması [[cite:mccombs-shaw-1972]] [[cite:weaver-2025]]\n5. 1973: Funkhouser’ın 1960’lar çalışması [[cite:funkhouser-1973]]\n6. 1982: Iyengar, Peters ve Kinder’in deneyleri [[cite:iyengar-peters-kinder-1982]]\n7. 1997: İspanya seçimlerinde ikinci düzey çalışması [[cite:mccombs-et-al-1997]]\n\nKüçük bir dipnot: Weaver’ın aktardığına göre Shaw, McCombs’un hep birinci yazar olmasıyla dalga geçerdi; yurtdışında bir öğrencinin onu “Profesör Et Al.” diye tanıştırdığını anlatırdı, üstelik bu hikâyeleri “biraz süslemiş olabileceğini” de itiraf ederdi [[cite:weaver-2025]].",
+      "question": {
+        "id": "people-q",
+        "type": "match",
+        "prompt": "Her ismi, onunla en çok ilişkilendirilen katkıyla eşleştir.",
+        "pairs": [
+          [
+            "Walter Lippmann",
+            "“Kafamızdaki resimler” ve sözde çevre fikri (1922)"
+          ],
+          [
+            "Bernard Cohen",
+            "Basının “ne hakkında düşüneceğimizi” söylemedeki başarısı cümlesi (1963)"
+          ],
+          [
+            "McCombs ve Shaw",
+            "1968 seçiminde Chapel Hill çalışması"
+          ],
+          [
+            "Iyengar, Peters ve Kinder",
+            "Televizyon haberlerinin önem algısına etkisini gösteren deneyler (1982)"
+          ]
+        ],
+        "explain": "En sık yapılan hata, Lippmann’ı ya da Cohen’i kuramın kurucusu saymak. İkisi de fikri zemini hazırladı; ölçen ve kuramı adlandıran McCombs ile Shaw oldu. Bir diğer karışıklık tarihlerde: Deneyler Chapel Hill’den yaklaşık on dört yıl sonrasına (1982) ait."
+      }
+    },
+    {
+      "id": "claim",
+      "section": "claim",
+      "layer": "core",
+      "kind": "text",
+      "title": "Temel iddia: medyanın sırası, kafandaki sıraya dönüşür",
+      "body": "Kuramı tek cümleyle söyleyelim: Haber medyası bazı konulara daha çok yer, süre ve öncelik verdikçe, insanlar o konuları daha önemli görmeye eğilim gösterir. Konuların *haberlerdeki sırası*, konuların *kafamızdaki sırasına* aktarılır.\n\nBu cümlenin üç parçası var:\n\n1. **Medya gündemi:** Haberlerde hangi konu ne kadar öne çıkıyor?\n2. **Kamu gündemi:** İnsanlar hangi konuları önemli buluyor?\n3. **İlişki:** Birincideki sıra, ikincideki sırayı belirliyor; buna belirginlik aktarımı diyebiliriz.\n\nMcCombs ve Shaw’ın ilk gerekçesi çok yalın: Okurlar bir konuyu öğrenirken, ona ne kadar önem vermeleri gerektiğini de haberin *miktarından ve konumundan* çıkarıyor [[cite:mccombs-shaw-1972]]. Gazetenin birinci sayfası, bültenin ilk haberi bir “önemlidir” etiketi gibi çalışıyor.\n\nKüçük bir benzetme, kanıt değil, sadece akılda kalsın diye: Garson bütün akşam “günün spesiyali” diye tekrarlıyorsa, o yemeği menüdeki diğerlerinden daha önemli sanmaya başlarsın. Yemek değişmedi, sen de o yemeği seçmedin; yalnızca sıralama değişti.\n\nKuramın nedensel bir dille kurulduğunu da not et: Medyanın vurgusu artarsa, kamuda o konunun belirginliği de artar; yani medya kamu gündemini etkiler [[cite:mccombs-1976]]. Bunun gerçekten öyle olup olmadığını ve hangi koşullarda olduğunu ölçmek, ilerleyen kartların ve derslerin işi.",
+      "question": {
+        "id": "claim-q",
+        "type": "cloze",
+        "prompt": "Cümleyi Cohen’in ayrımıyla tamamla.",
+        "text": "Kuramın diliyle, haber medyası insanlara {{1}} söylemekte değil, {{2}} söylemekte başarılıdır.",
+        "blanks": [
+          {
+            "options": [
+              "ne hakkında düşünmeleri gerektiğini",
+              "ne düşünmeleri gerektiğini"
+            ],
+            "answer": 1
+          },
+          {
+            "options": [
+              "ne hakkında düşünmeleri gerektiğini",
+              "hangi kanalı izlemeleri gerektiğini"
+            ],
+            "answer": 0
+          }
+        ],
+        "explain": "Kuramın özü Cohen’in ayrımıdır: Medya konuları öne çıkararak insanların *ne hakkında* düşündüğünü yönlendirir; *ne düşünmeleri gerektiğini* dikte etmek kuramın iddiası değildir. İki ifadeyi yer değiştirmek sınavda en sık düşülen tuzaktır."
+      }
+    },
+    {
+      "id": "myth-what-to-think",
+      "section": "claim",
+      "layer": "core",
+      "kind": "myth",
+      "title": "Efsane: “Medya bize ne düşüneceğimizi söyler”",
+      "body": "**İnsanlar sanıyor ki:** Gündem belirleme, medyanın zihnimize istediği fikri aşılaması demek.\n\n**Kanıtlar ne diyor?**\n\n- Kuramın çekirdeği görüşleri değil, *önem sırasını* iddia eder. 1972 makalesi bunu açıkça yazıyor: Medya tutumların yönü ve şiddeti üzerinde az etkili olabilir, ama kampanyanın gündemini belirleyerek tutumların *belirginliğini* etkiler [[cite:mccombs-shaw-1972]].\n- Ama “sadece ne hakkında” sloganı da bütün hikâye değil. Sonraki araştırmalar iki şey gösterdi: Öne çıkan konu, insanların bir lideri *hangi ölçütle* değerlendirdiğini değiştirebiliyor (öncüleme) [[cite:iyengar-peters-kinder-1982]] [[cite:krosnick-kinder-1990]]. Medyanın bir konunun *hangi niteliklerini* vurguladığı da o konu hakkındaki düşünceyi etkileyebiliyor (ikinci düzey) [[cite:mccombs-et-al-1997]].\n- Etki herkeste ve her konuda aynı değil: Kimi kişiler ve konular çok, kimileri az etkileniyor. Bunu “yönelim gereksinimi” ve “konu türü” kartlarında göreceksin.\n\n**Özet:** Gündem belirleme zihin kontrolü değil, *dikkat yönetimi*. Ama dikkat yönetimi, siyasette küçümsenecek bir güç de değil.\n\nKüçük bir öz-gözlem: Geçen hafta “önemli” bulduğun üç konuyu say. Bunların kaçını sana bir haber akışı, bir manşet ya da bir bildirim taşıdı? Kuram sana hangi görüşü benimseyeceğini değil, neyi düşünme listene aldığını soruyor.",
+      "question": {
+        "id": "myth-q",
+        "type": "tf",
+        "prompt": "Gündem belirleme kuramı, medyanın insanların bir konudaki tutumunu kolayca tersine çevirebildiğini savunur.",
+        "answer": false,
+        "explain": "Yanlış. Kuramın çekirdek iddiası tutumun tersine dönmesi değil, konuların önem sırasının aktarılmasıdır; 1972 makalesi tutumların yönü ve şiddeti üzerinde medyanın az etkili olabileceğini bile açıkça yazar. Tuzak, kuramı “medya beyin yıkar” anlayışıyla karıştırmak; o anlayışın tarihsel adresi şırınga (sihirli mermi) modelidir."
+      }
+    },
+    {
+      "id": "agendas-three",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Üç gündem: medya, kamu ve politika",
+      "body": "Kuramın anahtar kelimesi *gündem*. Bir gündem, belirli bir anda önem sırasına dizilmiş konular (ya da olaylar) listesidir [[cite:rogers-dearing-1988]]. Araştırmacılar üç ayrı gündemden söz eder:\n\n- **Medya gündemi:** Gazetelerde, bültenlerde ve sitelerde konuların ne kadar ve nerede yer aldığı. Ölçmek için içerik çözümlemesi yapılır: kaç haber, ne kadar süre, hangi sayfa, ilk haber mi? Chapel Hill çalışması bunun için “büyük” ve “küçük” haber ayrımını kullandı [[cite:mccombs-shaw-1972]].\n- **Kamu gündemi:** İnsanların hangi konuları önemli bulduğu. Ölçmek için anket sorusu sorulur (“sence ülkenin en önemli sorunu ne?” türünden).\n- **Politika gündemi:** Parlamento, hükümet ve karar vericilerin öncelik verdiği konular.\n\nRogers ve Dearing’in gözlemine göre araştırmalar genellikle bu üç gündemden birini “açıklanacak değişken” yapıp diğerlerinin onu nasıl etkilediğine bakar [[cite:rogers-dearing-1988]]. Üçlü ayrım, Dearing ve Rogers’ın 1996 tarihli kitabıyla iyice yerleşti [[cite:weaver-2025]].\n\nBu ders ağırlıkla ilk ikisine, yani medya ile kamu gündemine odaklanır. Medyanın politika gündemini ne kadar etkilediği ise koşullara bağlı: konu türü, medya organı, haberin biçimi ve siyasi bağlam [[cite:walgrave-van-aelst-2006]]. Bunun devamı [[lesson:agenda-building]] dersinde.\n\nÜçünü birbirine bağlayan ortak kelime **belirginlik**: Bir konunun ya da özelliğin bir gündemde ne kadar öne çıktığı; aktarılan şey tam olarak budur ([[concept:salience|belirginlik]]).",
+      "question": {
+        "id": "agendas-q",
+        "type": "mcq",
+        "prompt": "Bir araştırmacı, Mart ayında üç ulusal gazetenin birinci sayfa manşetlerini konularına göre sayıyor; sonra bin kişilik bir ankette “Sizce ülkenin en önemli sorunu nedir?” sorusuna gelen yanıtları sıralıyor ve iki listeyi karşılaştırıyor. Hangi iki gündemi karşılaştırmış olur?",
+        "options": [
+          "Medya gündemi ile kamu gündemi",
+          "Kamu gündemi ile politika gündemi",
+          "Politika gündemi ile medya gündemi",
+          "Yalnızca medya gündemi; anket gündemle ilgili değildir"
+        ],
+        "answer": 0,
+        "explain": "Manşetler medya gündemini, anket yanıtları kamu gündemini temsil eder; doğru cevap ilk seçenek. Politika gündemini ölçmek için parlamento ya da hükümetin önceliklerine (yasa teklifleri, bütçe kararları gibi) bakmak gerekirdi; ikinci ve üçüncü seçenek bu yüzden yanlış. Son seçenek ise kamu gündeminin anketle ölçüldüğünü gözden kaçırıyor."
+      }
+    },
+    {
+      "id": "related-terms",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Akraba kavramlar: birinci düzey, ikinci düzey, öncüleme, kapı bekçiliği",
+      "body": "Gündem belirleme tek başına durmaz; etrafında dört kavram dolaşır. Şimdilik yalnızca ne olduklarını bil; ayrıntılar sonraki derslerde.\n\n- **Birinci düzey:** Hangi *konular* önemli? Chapel Hill çalışması bu düzeydedir.\n- **İkinci düzey:** Bir konunun ya da kişinin hangi *nitelikleri* öne çıkıyor? 1995 İspanya seçimlerinde gazeteler, televizyon haberleri ve siyasi reklamlar seçmenlerin adaylara dair imgelerini etkiledi [[cite:mccombs-et-al-1997]]. Başka bir çalışmada bir ülke hakkında ne kadar olumsuz haber çıkarsa, insanlar o ülkeyi o kadar olumsuz düşündü; olumlu haberin ise etkisi görülmedi [[cite:wanta-golan-lee-2004]].\n- **Öncüleme:** Medyada öne çıkan bir alan, insanların bir lideri değerlendirirken kullandığı ölçüt hâline gelir. 1986’da İran–Contra skandalı patlayınca Orta Amerika politikası, Başkan Reagan’ın performansını değerlendirmede daha ağırlıklı hâle geldi [[cite:krosnick-kinder-1990]].\n- **Kapı bekçiliği:** Medya gündeminin nasıl oluştuğu: Hangi haber kapıdan geçip yayına girer? Bunu [[lesson:gatekeeping]] dersinden hatırlarsın. Kongre’deki elli yasa tasarısının gazete haberlerini inceleyen bir çalışma, kapı bekçiliğinde yazarların bireysel özelliklerinden çok rutin düzey güçlerinin (örneğin editörlerin haber değeri değerlendirmesinin) belirleyici olduğunu buldu [[cite:shoemaker-et-al-2001]].\n\nScheufele ve Tewksbury çerçeveleme, gündem belirleme ve öncülemeyi birbirinin komşusu ama ayrı medya etkisi modelleri olarak karşılaştırır [[cite:scheufele-tewksbury-2007]]. Derinlik için: [[lesson:priming-second-level]] ve [[lesson:framing]].",
+      "question": {
+        "id": "related-q",
+        "type": "match",
+        "prompt": "Kavramı, ona en uygun tanımla eşleştir.",
+        "pairs": [
+          [
+            "Birinci düzey gündem belirleme",
+            "Hangi konular önemli görülüyor?"
+          ],
+          [
+            "İkinci düzey gündem belirleme",
+            "Konunun ya da adayın hangi nitelikleri öne çıkıyor?"
+          ],
+          [
+            "Öncüleme",
+            "Öne çıkan konu, lider değerlendirmesinde ölçüt hâline geliyor"
+          ],
+          [
+            "Kapı bekçiliği",
+            "Hangi haberin yayına girip girmeyeceğini seçme süreci"
+          ]
+        ],
+        "explain": "Ayrımı akılda tutmanın kısa yolu: birinci düzey *neyin* önemli olduğu, ikinci düzey konunun *hangi yönünün* önemli olduğu, öncüleme *neye göre* karar verdiğin, kapı bekçiliği ise *kimin* haberi seçtiği. Sınavda birinci ve ikinci düzey ile öncüleme en sık karışan üçlüdür."
+      }
+    },
+    {
+      "id": "deep-policy-agenda",
+      "section": "concepts",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin bakış: Politika gündemi ve “gündem inşası”nın soyağacı",
+      "body": "“Gündem” kelimesi 1980’lerde siyaset biliminde ayrı bir yol açtı. Weaver’ın tarihsel özetine göre iki siyaset bilimci, Cobb ve Elder, 1983’te *Participation in American Politics: The Dynamics of Agenda-Building* kitabında “gündem inşası” (agenda-building) dedikleri süreci incelediler; bu terime Dearing ve Rogers (1996) sonradan “politika gündem belirleme” dedi [[cite:weaver-2025]]. Bu kitaplar araştırmanın odağını yalnızca kamu gündeminden politika gündemine ve “medya gündemini kim belirliyor?” sorusuna genişletti [[cite:weaver-2025]].\n\nWalgrave ve Van Aelst (2006), medyanın politika gündemi üzerindeki gücünü “koşullu” bir kuram olarak kurmaya çalıştı. Girdi değişkenleri: hangi tür konu, hangi medya organı, ne tür haber. Modelin merkezinde ise siyasi bağlam, yani ilgili siyasi aktörlerin özellikleri var. Çıktı olarak “hiç benimsenmeme”den “hızlı ve gerçek benimseme”ye uzanan beş tür sonuç öngörülür [[cite:walgrave-van-aelst-2006]]. Yani “medya manşet yaptı, meclis harekete geçti” diye basit bir kural yok.\n\nYön bazen tersine de işler: Barberá ve arkadaşlarının ABD Kongresi’nin 113. döneminde Twitter verisiyle yaptığı çalışmada milletvekilleri, halkın konularını yönlendirmekten çok onları *izliyor*; üstelik genel halktan çok kendi destekçilerine duyarlı çıkıyorlar [[cite:barbera-et-al-2019]].\n\nDers notu: Bu kart, [[lesson:agenda-building]] dersine bir ön okuma. Sınav düzeyi için yukarıdaki üç gündemi bilmek yeterli."
+    },
+    {
+      "id": "assumptions",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "text",
+      "title": "Kuramın sessiz varsayımları",
+      "body": "Her kuram, açıkça söylemediği birkaç şeye güvenir. Gündem belirlemenin dört sessiz varsayımı şöyle:\n\n1. **Medya gerçeğin aynası değil.** Lippmann’ın “kafamızdaki resim” fikri buna dayanır. Funkhouser’ın 1960’lar çalışması da benzer bir noktaya vardı: Basın kapsamı ve kamu ilgisi birlikte hareket ederken ikisi de gerçek durum göstergeleriyle uyumlu değildi; Vietnam, kampüs olayları ve kent isyanları için hem basın kapsamı hem kamu ilgisi, gerçek durumların kendisinden bir iki yıl önce doruğa çıkmıştı [[cite:funkhouser-1973]] [[cite:mccombs-1976]].\n2. **Uzak konularda insanın başka kaynağı az.** Chapel Hill yazarları, çok az kişinin başkan adaylarını canlı gördüğünü, kişilerarası sohbetle gelen bilginin de ağırlıkla medyadan aktarıldığını savunur [[cite:mccombs-shaw-1972]].\n3. **Vurgu bir ipucudur.** İnsan konunun önemini haberin miktarından ve konumundan çıkarır [[cite:mccombs-shaw-1972]].\n4. **Dikkat sınırlı.** Bir kişi aynı anda birkaç konuyu üst sırada tutabilir; McCombs bu sınırı beş–yedi konu civarında görür ve Miller’ın “yedi artı eksi iki” sayısına gönderme yapar [[cite:mccombs-1976]].\n\nSon bir uyarı: Bu varsayımlar “hep ve herkes için” geçerli değil. Kimde, ne zaman, hangi konuda? sorusunun cevabı, sıradaki bölümde “yönelim gereksinimi” kartında.",
+      "question": {
+        "id": "assumptions-q",
+        "type": "tf",
+        "prompt": "Gündem belirleme kuramı, haber medyasının gerçek dünyayı birebir yansıttığını varsayar; kuramın “gündem” dediği şey bu yansımadır.",
+        "answer": false,
+        "explain": "Yanlış. Kuram tam tersini varsayar: Medya gerçeğin kusurlu bir haritasıdır ve önemli olan, o haritada hangi bölgelerin kalın çizildiğidir. Funkhouser’ın 1960’lar bulgusu bunu destekler: Basın ve kamu ilgisi gerçek durum göstergelerinden ayrışmıştı. Medya gerçeği birebir yansıtsaydı, gündem belirleme diye ayrı bir kurama gerek de kalmazdı; medya ile halk arasındaki uyum “aynı gerçeğe tepki” diye açıklanırdı."
+      }
+    },
+    {
+      "id": "deep-models",
+      "section": "assumptions",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin bakış: Üç model — farkındalık, belirginlik, öncelikler",
+      "body": "“Medya gündemi kamu gündemine aktarılır” cümlesi kaç farklı biçimde okunabilir? McCombs’un 1976 tarihli derlemesinde üç okuma var [[cite:mccombs-1976]]:\n\n- **0/1 (farkındalık) modeli:** Yalnızca “haber var mı, yok mu?” diye sorulur. Medya bir konudan hiç söz etmiyorsa çoğu durumda o konu insanların gündeminde de yoktur. McCombs bunu bir gerçek (truism) sayar; tartışmalı değildir.\n- **0/1/2 (belirginlik) modeli:** Yoğun medya vurgusu bir konuyu insanların üst sıralarına taşır; ama medyanın tam sıralaması kopyalanmaz. Kişi “çok önemli” ile “az önemli” arasında ayrım yapar, ince sıralamayı aktarmaz.\n- **0/1/2…N (öncelikler) modeli:** En cesur okuma; medyanın sıralaması olduğu gibi kişinin sıralaması olur. Elbette bunun bir sınırı var: Dikkat kapasitesi beş–yedi konu civarında.\n\n1972 Charlotte verisinde öncelikler modeli, seçmenlerle basın gündemleri arasındaki ilişkiyi belirginlik modelinden daha iyi betimledi [[cite:mccombs-1976]].\n\nBir kavram ayrımı daha: **kişi-içi gündem** (senin için kişisel olarak en önemli konular) ile **kişilerarası gündem** (başkalarıyla en çok konuştuğun konular). İkisi büyük ölçüde örtüşür ama tam örtüşmez. McCombs’a göre bu ayrım McLeod, Becker ve Byrnes’in 1974 çalışmasından gelir [[cite:mccombs-1976]].\n\nNot: Bu, 1976’da yazılmış bir derleme; modeller sonraki yıllarda yeniden tartışıldı. Sınav için önemli olan, “aktarım”ın tek biçimde anlaşılmadığını bilmek."
+    },
+    {
+      "id": "steps-mechanism",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Nasıl işler: gündemin beş adımlık yolculuğu",
+      "body": "Bir konunun medya gündeminden senin gündemine yolculuğunu adım adım izleyelim.\n\n1. **Malzeme gelir.** Olaylar, kaynaklar, ajanslar, hatta diğer medya haber odasına girer. Medya gündemi yalnızca “dünyadan” değil, birbirinden ve siyasi reklamlardan da beslenir: 1990 Teksas valilik seçiminde gazete gündemi televizyon gündemini, siyasi reklam gündemi ise hem televizyon haberlerini hem gazeteyi etkiledi [[cite:roberts-mccombs-1994]].\n2. **Editörler seçer ve sıralar.** Hangi haber girecek (kapı bekçiliği), hangisi ilk sırada olacak, kaç saniye ya da sütun alacak?\n3. **İzleyici ipuçlarını okur.** Manşet, ilk haber, uzunluk, tekrar. Bunlar “bu önemli” sinyali gibi çalışır [[cite:mccombs-shaw-1972]].\n4. **Kamu gündemi kayar.** Konuların kafandaki sırası, izlediğin medyanın sırasına yaklaşır. Chapel Hill’de bulunan da buydu.\n5. **Sonuçlar ortaya çıkar.** Öne çıkan konu, liderleri değerlendirmede ölçüt olur (öncüleme) [[cite:iyengar-peters-kinder-1982]]; politikacılar da bazen konuyu gündemlerine alır, ama bu koşullara bağlı [[cite:walgrave-van-aelst-2006]].\n\nBir uyarı: Her adım koşullu. Zincirin bir halkası zayıfsa (örneğin o haberi hiç görmediysen ya da konuyu bizzat yaşıyorsan) sonraki adımlar gerçekleşmeyebilir. Bu koşulları bir sonraki kartta ve derin kartlarda göreceksin.",
+      "question": {
+        "id": "steps-q",
+        "type": "order",
+        "prompt": "Gündemin yolculuğunu doğru sıraya diz.",
+        "items": [
+          "Olaylar, kaynaklar ve diğer medyadan haber odasına malzeme gelir",
+          "Editörler haberleri seçer, sıralar ve öne çıkarır",
+          "İzleyici yer, süre ve tekrar ipuçlarından konunun önemini çıkarır",
+          "Kamu gündemindeki konu sırası medya gündemine yaklaşır",
+          "Öne çıkan konu, liderleri değerlendirmede ölçüt olur (öncüleme)"
+        ],
+        "explain": "Mantık zinciri: önce malzeme, sonra seçim ve sıralama, sonra izleyicinin ipucunu okuması, sonra kamu gündeminin kayması, en son sonuçlar. En sık yapılan hata öncülemeyi (son sonuç) kamu gündeminin kaymasından önceye koymak: Öncüleme, konunun önce belirgin hâle gelmesini, yani gündem aktarımının gerçekleşmesini gerektirir."
+      }
+    },
+    {
+      "id": "nfo",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Deney: Kimin gündemi daha çok kayar? Yönelim gereksinimi",
+      "body": "Başından beri belli olan bir şey vardı: Gündem belirleme herkesi eşit etkilemiyor [[cite:weaver-2025]]. McCombs ve öğrencisi David Weaver, kimin daha çok etkileneceğini tahmin etmek için **yönelim gereksinimi** (need for orientation) kavramını geliştirdi: kişisel *ilgililik* ile *belirsizliğin* birleşimi [[cite:weaver-2025]].\n\nMantığı basit: Bir konu senin için önemliyse ve ne düşüneceğinden emin değilsen, bir “harita”ya ihtiyacın artar; dönüp haber medyasına bakarsın ve onun sırasını benimsersin. Weaver bunu Syracuse’taki bir kampanya verisinde siyasal ilgi ile belirsizliğin birleşimi olarak ölçtü [[cite:weaver-1980]]. 1972 Charlotte panelinde, seçime çok ilgili ve kime oy vereceği konusunda çok belirsiz olanların gündemi, Charlotte Observer gazetesinin ve ağ televizyon haberlerinin gündemine en çok benziyordu [[cite:weaver-2025]].\n\nDüzeyler şöyle özetleniyor: İlgi düşükse yönelim gereksinimi düşük; ilgi yüksek ama belirsizlik düşükse orta; ikisi de yüksekse yüksek [[cite:hazar-sbouh-2020]]. Sonraki bir panel çalışması, yönelim gereksiniminin medya vurgusunun *algılanan* belirginliğini artırdığını gösterdi [[cite:matthes-2008]]. Türkçe yazında terim “yönelim gereksinimi” diye geçer [[cite:hazar-sbouh-2020]].\n\n**Şimdi sen dene (hayal ürünü üç kişi).** Yaklaşan bir yerel seçim var:\n\n- **Ayşe:** Seçimi çok merak ediyor, ama hangi adayı seçeceğine karar veremedi.\n- **Berk:** Seçimi umursamıyor; haberleri de açmıyor.\n- **Ceren:** Seçimi çok önemsiyor ve kime oy vereceğine çoktan karar verdi.\n\nKimin gündemi haber gündemine en çok benzer? Tahminini aşağıdaki soruda sınayacaksın.",
+      "question": {
+        "id": "nfo-q",
+        "type": "mcq",
+        "prompt": "Yukarıdaki üç hayalî kişiden hangisinin gündeminin haber gündemine en çok benzemesi beklenir?",
+        "options": [
+          "Berk; çünkü hiç haber izlemediği için gündemi medyadan etkilenmemiştir",
+          "Ceren; çünkü seçime çok ilgilidir ve bu yüzden medyaya en çok o güvenir",
+          "Ayşe; çünkü hem ilgisi hem belirsizliği yüksektir, yani yönelim gereksinimi en yüksek olandır",
+          "Üçü de eşit; çünkü kuram herkes için aynı işler"
+        ],
+        "answer": 2,
+        "explain": "Ayşe’de ilgililik ve belirsizlik birlikte yüksek: Yönelim gereksinimi en yüksek, medyanın gündem etkisinin en güçlü olması beklenen kişi. Ceren ilgili ama kararlı; belirsizliği düşük olduğundan yönelim gereksinimi yalnızca orta. Berk’in ilgisi düşük, dolayısıyla yönelim gereksinimi düşük. Son seçenek, kuramın “herkes için aynı” değil koşullu olduğunu gözden kaçırıyor."
+      }
+    },
+    {
+      "id": "deep-obtrusive",
+      "section": "how-it-works",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin bakış: Konu “göze çarpıyor” mu? Zucker’in hipotezi ve sınanışı",
+      "body": "Gündem belirleme her konuda aynı güçte olmayabilir. Harold Zucker 1978’de “değişken medya etkisi” kuramını önerdi: Bir konu ne kadar az *doğrudan deneyimleniyorsa* (unobtrusive, yani günlük hayatta göze çarpmayan) ve medyada ne kadar kısa süredir öne çıkıyorsa, haberlerin o konudaki kamuoyu üzerindeki etkisi o kadar büyüktür [[cite:zucker-1978]]. Zucker ayrıca, medyanın kamuoyuna etkisinin az olduğu inancının zayıf kuramlara ve kusurlu yöntemlere dayandığını savundu ve ağ televizyon haberlerinin bazı konulardaki kamuoyunu kuramla uyumlu bir örüntüde etkilediğini gösterdi [[cite:zucker-1978]].\n\nHayal et: Su faturaların artıyor, her ay ödüyorsun; bu konuyu doğrudan yaşıyorsun (obtrusive). Uzak bir ülkenin seçimini ise yalnızca haberlerden öğreniyorsun (unobtrusive). Hipoteze göre haberlerin ikinci konudaki fikrine etkisi daha büyük olmalı. Bu örnek hayalî; yalnızca mantığı göstermek için.\n\nAma hikâye burada bitmiyor. Demers ve arkadaşları 1989’da iki rakip modeli sınadı: (a) “obtrusive contingency”: Etki, konu daha çok deneyimlendikçe azalır. (b) “cognitive-priming contingency”: Tam tersi, etki artar. Bulgular birinci modeli desteklemedi, ikincisini kısmen destekledi; temel gündem belirleme hipotezi ise yalnızca ılımlı destek buldu [[cite:demers-et-al-1989]].\n\nSonuç: Konu türünün önemli olduğu fikri yaşıyor, ama Zucker’in özel formülü tartışmalı. Sınavda bu, “koşullu etki” fikrini örneklemek için lazım olur; ayrıntı ezberi için değil."
+    },
+    {
+      "id": "deep-time-lag",
+      "section": "how-it-works",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin bakış: Etki ne kadar sürede oluşur? İki ayrı cevap",
+      "body": "Bir haber yağmuru kamu gündemine ne zaman yansır? Bu “zaman gecikmesi” sorusu ilginç bir tartışma doğurdu.\n\nMcCombs’un 1976 derlemesi o güne kadarki çalışmaları şöyle özetler: Medya gündemleri, anketten önceki altı ay boyunca içerik çözümlemesine tabi tutulup kişisel gündemlerle karşılaştırıldığında, anket tarihinden geriye gidildikçe korelasyon ilk iki ayda hızla yükselir; ikinci aydan altıncı aya kadar yalnızca hafifçe artar; altı aydan eskisiyle ise medya ve kişisel gündem arasında neredeyse ilişki kalmaz [[cite:mccombs-1976]]. Yani etki birikimli görünür.\n\nWinter ve Eyal (1981) ise New York Times birinci sayfa içeriğini 1954–1976 arası ulusal kamuoyuyla karşılaştırdı: Sivil haklar konusunda güçlü bir gündem belirleme etkisi buldular ve en iyi etki süresi anketten hemen önceki *dört–altı hafta* çıktı. Bu bulgu, daha uzun süreli birikimli etki iddialarıyla çelişiyordu [[cite:winter-eyal-1981]].\n\nİkisi nasıl uzlaşır? Farklı konu, farklı veri, farklı ölçüm. Benim çıkarımım şu (kaynaklar bunu bu kadar açık yazmıyor): Etkinin süresi sabit bir sayı değil; konuya, medyaya ve ölçüm biçimine göre değişen bir şey. Sınavda “etki hemen mi, birikerek mi?” diye sorulursa güvenli cevap: Çalışmalar farklı süreler bulmuştur."
+    },
+    {
+      "id": "chapel-hill",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "story",
+      "title": "1968 sonbaharı, Chapel Hill: yüz görüşme, dokuz medya",
+      "body": "Eylül 1968. ABD başkanlık seçimine haftalar var; sahnede Nixon, Humphrey ve Wallace. Kuzey Karolina’nın Chapel Hill kasabasında iki genç gazetecilik doçenti bir soruyu sınamak istiyor: *Seçmenlerin “asıl mesele” saydığı konular, haberlerin öne çıkardığı konularla örtüşüyor mu?*\n\nTasarım şöyle [[cite:mccombs-shaw-1972]]:\n\n- **Örneklem:** Kayıtlı seçmen listelerinden, kasabanın beş mahallesinden rastgele seçilen kişiler; mahalleler ekonomik, toplumsal ve ırksal açıdan kasabayı temsil edecek biçimde seçildi. 18 Eylül–6 Ekim arasında **100 görüşme** tamamlandı.\n- **Kim?** Bir filtre sorusu, henüz kime oy vereceğine kesin karar vermemiş kişileri ayırdı; yani kampanya bilgisine en açık olduğu varsayılanları.\n- **Soru:** Kabaca şu: “Bugünlerde seni en çok ne endişelendiriyor? Politikacılar ne derse desin, hükümetin üzerine gitmesi gereken iki üç ana şey ne?” Vurgu “politikacılar ne derse desin”de: Cevaplar adayların sloganlarından bağımsız olsun diye.\n- **Medya:** 1968 baharındaki bir ön çalışma, Chapel Hill’in siyasi haber bilgisinin neredeyse tamamının dokuz kaynaktan geldiğini gösterdi: Durham ve Raleigh’den dört gazete (Durham Morning Herald, Durham Sun, Raleigh News and Observer, Raleigh Times), New York Times, *Time*, *Newsweek*, NBC ve CBS akşam haberleri. Bunların 12 Eylül–6 Ekim arasındaki içeriği kodlandı.\n\nNeden tek kasaba? Yazarlar, bölgesel farkların ve medya performansı farklarının böylece kontrol altına alınacağını söylüyor [[cite:mccombs-shaw-1972]].",
+      "question": {
+        "id": "chapel-q",
+        "type": "mcq",
+        "prompt": "Araştırmacılar örnekleme neden yalnızca henüz karar vermemiş seçmenleri aldı?",
+        "options": [
+          "Kararlı seçmenler ankete katılmayı reddettiği için",
+          "Kararsız seçmenlerin medyayı en çok izlediği daha önce kanıtlandığı için",
+          "Kararsız seçmenlerin sayısı kasabada çok az olduğu için",
+          "Kararsızların, kampanya bilgisine en açık ve en etkilenebilir kişiler olduğu varsayıldığı için"
+        ],
+        "answer": 3,
+        "explain": "Makale gerekçeyi açıkça yazıyor: Kararsızlar, kampanya bilgisine en açık ya da en etkilenebilir kişiler olduğu *varsayıldığı* için seçildi. Diğer seçenekler makalede geçmeyen uydurma gerekçeler. Bu tercihin bir bedeli de var: Örneklem tüm seçmenleri temsil etmiyor; bunu eleştiri kartında tekrar göreceksin."
+      }
+    },
+    {
+      "id": "chapel-hill-results",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "text",
+      "title": "Sonuç: 0,967 ve 0,979, ama asıl ilginç olan seçici algı testi",
+      "body": "Sonuçlar ilk bakışta çarpıcı [[cite:mccombs-shaw-1972]]:\n\n- Medyanın ana kampanya konularına ayırdığı **“büyük” haber vurgusu** ile seçmenlerin bu konulara verdiği önem arasındaki korelasyon **+0,967**.\n- **“Küçük” haberler** için korelasyon **+0,979**.\n\nKorelasyon 1’e yaklaştıkça iki sıralama birbirine benzer. Ama dikkat: Bu sayılar birkaç ana konu kategorisi üzerinden ve toplu düzeyde hesaplandı.\n\nYazarların asıl titizliği başka yerde: *Seçici algı* ihtimalini sınadılar. Fikir şu: Bir adaya eğilimi olan ama henüz karar vermemiş seçmenler (45 kişi) yalnızca kendi adaylarını konu alan haberlere bakıyorsa, sıralamaları o haberlerin sıralamasına en çok benzemeli. Öyle olsaydı sonuç gündem belirleme değil, seçici algı lehine olurdu. Bulgu tersi çıktı: 24 karşılaştırmanın 18’inde seçmenler, yalnızca kendi adaylarının haberleriyle değil, *bütün haberlerin bileşimiyle* daha uyumluydu [[cite:mccombs-shaw-1972]]. Üç adayın konu vurgusu çok farklı olsa da seçmenlerin sıralaması bileşik medya sıralamasına benziyordu.\n\nYazarlar bir şeyi de kendileri yazdı: Bu korelasyonlar gündem belirlemeyi *kanıtlamıyor*; gündem belirleme gerçekleşiyorsa var olması gereken koşullarla uyumlu bir tablo sunuyor [[cite:mccombs-shaw-1972]]. Bu incelik sınavda da eleştiri kartında da işine yarayacak.",
+      "question": {
+        "id": "results-q",
+        "type": "mcq",
+        "prompt": "Seçici algı doğru olsaydı, Chapel Hill verisinde ne görmeyi beklerdik?",
+        "options": [
+          "Seçmenlerin sıralamasının, bütün haberlerin bileşimiyle en yüksek korelasyonu vermesi",
+          "Seçmenlerin sıralamasının, en çok kendi adaylarını konu alan haberlerle en yüksek korelasyonu vermesi",
+          "Seçmenlerin sıralaması ile haberler arasında hiç korelasyon olmaması",
+          "Kararsız seçmenlerin kararlı seçmenlerden farklı olmaması"
+        ],
+        "answer": 1,
+        "explain": "Seçici algı, insanların kendi tarafına ait haberlere daha çok bakması demek; bu durumda sıralamalar en çok o haberlerle örtüşürdü: ikinci seçenek. Birinci seçenek ise tam olarak bulunan şeydi (24 karşılaştırmanın 18’i) ve gündem belirleme yorumunu destekler. Üçüncü seçenek seçici algının değil, medyanın hiç etkisiz olduğunun sonucu olurdu; dördüncü seçenek de bu testle ilgisiz."
+      }
+    },
+    {
+      "id": "deep-chapel-design",
+      "section": "evidence",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin bakış: Kodlama kuralları ve haberlerin şaşırtıcı payı",
+      "body": "Makaleyi dikkatle okuyan biri, ders kitaplarının atladığı ayrıntıları görür [[cite:mccombs-shaw-1972]].\n\n**Kodlama.** Haber ve yorumlar, seçmen yanıtlarıyla aynı 15 kategoriye ayrıldı; ana kampanya konularının yanında “kampanyanın kendisi” gibi kategoriler de vardı. “Büyük” haberin tanımı ortama göre değişiyordu:\n\n- Televizyon: 45 saniye ya da daha uzun haber ve/veya üç ana haberden biri.\n- Gazete: ilk sayfa manşeti, ya da herhangi bir sayfada üç sütunluk başlık taşıyan ve en az üçte biri (en az beş paragraf) siyasi habere ayrılmış haber.\n- Haber dergisi: bir sütundan uzun haber ya da haber bölümünün açılış haberi.\n- Başyazı sayfası: baş köşedeki yazı ve en az beş paragrafı siyasi kampanyaya ayrılmış yazılar.\n\n“Küçük” haber, siyasi olan ama bu ölçütlerin altında kalan haberdi. Kodlayıcılar arası uyum büyük ve küçük haberlerde .90’ın üzerindeydi.\n\n**Şaşırtıcı bulgu.** Yazarlar, kampanya haberlerinin önemli bir bölümünün konulara değil, *kampanyanın kendisinin çözümlenmesine* (“kazanma şansı var mı?”) ayrıldığını görüp uyarıyor: Wallace’ın büyük haberlerinin %35’i, Humphrey’in %30’u, Nixon’ınkilerin %25’i bu türdendi. Kampanya haberini konu haberi sanan biri şaşırabilir.\n\n**Medyalar arası uyum.** Aynı türden medyalar (gazete ile gazete) birbirine daha çok benziyor; farklı türler arasında korelasyon daha düşük. Yazarlar bunu, özellikle büyük haberlerde, haber değeri konusunda mesleki bir ortaklık olarak yorumluyor."
+    },
+    {
+      "id": "later-work",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "text",
+      "title": "Sonrası: tekrarlar, çatlaklar ve gerçeklik sınaması",
+      "body": "1972’den sonra araştırma çığ gibi büyüdü. Üç kilit halka:\n\n**Funkhouser (1973): Gerçek nerede?** 1960’ların konularını inceledi. Basın kapsamı ile kamuoyu birlikte hareket etti; ama ikisi de gerçek durum göstergeleriyle uyumlu değildi: Vietnam, kampüs olayları ve kent isyanları için hem basın hem kamu ilgisi, gerçek durumların kendisinden bir iki yıl önce doruğa çıkmıştı [[cite:funkhouser-1973]] [[cite:mccombs-1976]]. Onun ikinci makalesinin özeti de aynı yönde: Bir dönemde manşetleri dolduran konular, o sırada aldıkları ilgiyi mutlaka hak etmiyordu [[cite:funkhouser-1973b]].\n\n**Charlotte 1972: Zaman içinde izlemek.** Aynı seçmenleri üç dalga hâlinde izleyen panel çalışmasında [[cite:weaver-2025]] McCombs, gazetelerin seçmen gündemi üzerindeki etkisini zaman içinde buldu, televizyon için böyle bir etki bulamadı; ama Ekim’e doğru televizyon gündemi seçmenlerin gündemiyle daha iyi örtüşüyordu. Yorumu: Gazeteler öncülük eder, sonlara doğru sahneyi televizyonla paylaşır [[cite:mccombs-1976]].\n\n**McLeod, Becker ve Byrnes (1974): Bireye bakınca.** 1972 kampanyasında içerik vurgusu farklı iki gazetenin okurlarını karşılaştırdılar. Sonuç yalnızca ılımlı destekti: “Hükümette dürüstlük” konusu bir gazetede öne çıkarıldığı hâlde hiçbir gazetenin okurunu pek heyecanlandırmadı; farklar daha çok ilgisi ve motivasyonu düşük, haber için gazeteye bağımlı partizanlarda çıktı [[cite:mcleod-becker-byrnes-1974]].\n\nToplam mesaj: Gündem belirleme yaşıyor, ama şartlı.",
+      "question": {
+        "id": "later-q",
+        "type": "mcq",
+        "prompt": "Funkhouser’ın 1960’lar çalışması, “medya gerçeği olduğu gibi yansıtır” varsayımı açısından ne gösterdi?",
+        "options": [
+          "Basın kapsamı gerçek durum göstergeleriyle birebir örtüştü",
+          "Kamuoyu basından tamamen bağımsız hareket etti",
+          "Televizyon her konuda gazetelerden daha güçlüydü",
+          "Basın kapsamı ile kamu ilgisi birlikte hareket etti, ama ikisi de gerçek durum göstergelerinden ayrıştı"
+        ],
+        "answer": 3,
+        "explain": "Funkhouser’a göre basın ve kamuoyu birlikte hareket ediyordu ama ikisi de gerçek durum göstergeleriyle uyumlu değildi (Vietnam, kampüs olayları ve kent isyanları için ilgi gerçek durumdan bir iki yıl önce doruğa çıkmıştı). Birinci seçenek tam tersi; ikinci seçenek medya ile kamuoyunun birlikte hareket ettiğini reddediyor; üçüncü seçenek ise televizyon–gazete karşılaştırmasını (Charlotte’ta gazetenin öne çıktığı bulgusunu) tersine çeviriyor."
+      }
+    },
+    {
+      "id": "causal-direction",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "text",
+      "title": "Yön sorusu: Medya mı kamuyu çekiyor, kamu mu medyayı?",
+      "body": "Bir korelasyon yön söylemez: Medya kamuyu mu çekiyor, yoksa gazeteler okuyucunun ilgisini mi izliyor? Araştırmacılar bu düğümü üç yoldan çözmeye çalıştı.\n\n**1) Zamana bakmak.** Neden, sonuçtan önce gelmeli. Winter ve Eyal, sivil haklar konusunda gazete kapsamının ardından kamu ilgisinin geldiğini buldu; en iyi etki süresi dört–altı haftaydı [[cite:winter-eyal-1981]].\n\n**2) Gerçek dünyayı hesaba katmak.** Behr ve Iyengar, enerji, enflasyon ve işsizlik konularında uzun süreli verilerle şunu gösterdi: Televizyon haberleri kamu kaygısını etkiliyor, tersi geçerli değil; ana haber olarak verilenler sıradan haberlerden belirgin biçimde daha güçlü; gerçek koşullar ise kamuoyunu hem doğrudan hem de haber kapsamını belirleyerek dolaylı yoldan etkiliyor [[cite:behr-iyengar-1985]].\n\n**3) Deney yapmak.** Deney, neden ile sonucu ayırabilen tasarımdır: Araştırmacı kimin hangi habere maruz kalacağını kendisi belirler. Iyengar, Peters ve Kinder’in iki deneyi, televizyon haberlerinin izleyicilerin hangi sorunları önemli bulduğunu derinden etkilediğini ve akşam haberlerinde öne çıkarılan sorunların başkanın performansını değerlendirmede daha ağırlıklı hâle geldiğini gösterdi [[cite:iyengar-peters-kinder-1982]]. Yazarlar bunu Lippmann’ın yarım yüzyıl önceki şüphesinin doğrulanması olarak sunuyor [[cite:iyengar-peters-kinder-1982]].\n\nHer sonuç tek yönlü çıkmadı: Bloglar ve ana akım medya için ilişki, ileride göreceğimiz gibi, çift yönlüydü.",
+      "question": {
+        "id": "causal-q",
+        "type": "mcq",
+        "prompt": "Aşağıdakilerden hangisi “haberler kamu gündemini belirledi” iddiasını nedensellik açısından en güçlü biçimde destekler?",
+        "options": [
+          "Katılımcıları rastgele gruplara ayırıp bir gruba belli bir konuyu öne çıkaran haber izletmek, sonra gruplar arasındaki önem algılarını karşılaştırmak",
+          "Bir seçim haftasında haber sıralaması ile anket sıralaması arasında yüksek bir korelasyon bulmak",
+          "Gazete okuyucularına “hangi konuyu önemli buluyorsun?” diye sormak",
+          "İki gazetenin manşetlerini karşılaştırmak"
+        ],
+        "answer": 0,
+        "explain": "Rastgele atama ve kontrollü maruz bırakma, yönü ve üçüncü değişkenleri eleyen tek tasarım: Iyengar, Peters ve Kinder’in yaptığı gibi. Yüksek korelasyon (Chapel Hill’in +0,967’si gibi) ilişkiyi gösterir ama yönü göstermez; en cazip yanlış seçenek bu. Anket sorusu yalnızca kamu gündemini ölçer, manşet karşılaştırması ise yalnızca medya gündemlerini: ikisi de neden–sonuç kuramaz."
+      }
+    },
+    {
+      "id": "critique-design",
+      "section": "critique",
+      "layer": "core",
+      "kind": "text",
+      "title": "Adil bir eleştiri: Chapel Hill neyi kanıtlamadı?",
+      "body": "Gündem belirleme en çok araştırılan kuramlardan biri; ama iyi bir kuram sınırlarını da bilir. Eleştirileri ve savunmayı yan yana koyalım.\n\n**Eleştiri 1 — Kanıt gücü.** Chapel Hill yüz kişilik, tek kasabalık, kararsız seçmenlerden oluşan bir örneklemdi; ilişkiler birkaç ana konu kategorisi üzerinden ve toplu düzeyde (medya toplamı ile seçmen toplamı) hesaplandı. Yazarlar bunu kendileri belirtti: Toplu birimlerin karşılaştırılması ilk sınama için yeterliydi, ama sonraki araştırmalar toplumsal düzeyden bireysel düzeye geçmeliydi [[cite:mccombs-shaw-1972]].\n\n**Eleştiri 2 — Bireyde etki zayıf olabilir.** McLeod ve arkadaşları bireylere baktığında yalnızca ılımlı destek buldu; etki, ilgisi ve motivasyonu düşük okurlarda yoğunlaştı [[cite:mcleod-becker-byrnes-1974]].\n\n**Eleştiri 3 — Konu türü.** Zucker’in “doğrudan deneyimlenmeyen konularda etki daha büyük” hipotezi cazipti; ama Demers ve arkadaşları bu “göze çarpma” (obtrusiveness) hipotezini destekleyemedi [[cite:demers-et-al-1989]].\n\n**Savunma.** Yazarlar, ilişkinin “sahte” olduğu itirazına şöyle cevap verdi: Seçmenin gündemi izlemek için medyadan bağımsız yolu çok sınırlı; çünkü az kişi adayları canlı görüyor, kişilerarası bilgi de ağırlıkla medyadan aktarılıyor. Ayrıca gazetecilerin haber değerleri ile okurların ilgileri arasında keskin farklar bilindiği hâlde “tam uyum” çıkması, medyanın öne geçtiğine işaret ediyor. Dokuz medyanın beşi ulusal, kalan dördü de Chapel Hill kökenli olmadığından, seçmenin yargısını medyaya uydurduğunu söylemek tersini söylemekten daha kolay [[cite:mccombs-shaw-1972]].",
+      "question": {
+        "id": "critique-q",
+        "type": "mcq",
+        "prompt": "Bir arkadaşın “McCombs ve Shaw 1972’de medyanın gündemi belirlediğini kanıtladı” diyor. En doğru düzeltme hangisi?",
+        "options": [
+          "Doğru söylüyor; 0,967’lik korelasyon nedenselliği kanıtlar.",
+          "Yanlış; çünkü çalışma yalnızca kararlı seçmenleri kapsıyordu.",
+          "Yazarlar korelasyonların gündem belirlemeyi kanıtlamadığını, kuramla uyumlu bir tablo sunduğunu kendileri yazdı.",
+          "Yanlış; çünkü makalede hiç korelasyon hesaplanmadı."
+        ],
+        "answer": 2,
+        "explain": "Makalenin tartışma bölümü, gündem belirleme işlevinin bu korelasyonlarla kanıtlanmadığını, ama kanıtların gündem belirleme olsaydı bulunması gereken koşullarla uyumlu olduğunu yazar: üçüncü seçenek. Birinci seçenek korelasyonu nedensellikle karıştırıyor; ikincisi örneklemi yanlış aktarıyor (kararsız seçmenler vardı); dördüncüsü ise makalenin ana sonucunu (+0,967 ve +0,979) yok sayıyor."
+      }
+    },
+    {
+      "id": "critique-lab",
+      "section": "critique",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Düşünce deneyi: Enflasyon hem manşette hem kafanda",
+      "body": "Hayal et: Kurgusal bir ülkede fiyatlar hızla yükseliyor. Gazeteler enflasyonu manşetlere taşıyor; halk anketlerinde “en önemli sorun” olarak enflasyon birinci sıraya çıkıyor. İki liste birbirine çok benziyor. Gündem belirleme mi bu?\n\nÜç aday açıklama var:\n\n1. **Manşetler halkı etkiledi.** (Gündem belirleme.)\n2. **Halk fiyatları yaşıyor, gazeteler halkın derdini yansıtıyor.** (Tersine nedensellik.)\n3. **Gerçek fiyatlar ikisini birden etkiledi.** (Üçüncü değişken: gerçek dünya ipuçları.)\n\nŞimdi işin zor kısmı: Bu üç açıklamayı ayıran bir veri tasarlayabilir misin? Birkaç ipucu:\n\n- *Zaman sırası:* Halkın kaygısı manşetlerden *sonra* mı arttı, önce mi?\n- *Kontrol:* Fiyatlar aynı kalıp yalnızca kapsam değişse (ya da tersi) ne olurdu?\n- *Deney:* Aynı fiyat deneyimindeki kişilere farklı haberler izletsek?\n\nGerçek araştırmaların cevabı da bu yönde: Behr ve Iyengar’ın verisinde televizyon haberi kaygıyı etkiledi, ama gerçek koşullar da hem doğrudan hem de haber kapsamını belirleyerek etki etti [[cite:behr-iyengar-1985]]. Yani birinci ve üçüncü açıklama aynı anda doğru olabilir; asıl yanlış olan “yalnızca biri” demek.",
+      "question": {
+        "id": "critique-lab-q",
+        "type": "mcq",
+        "prompt": "Hangi gözlem, “yalnızca gerçek fiyatlar hem manşetleri hem halkın kaygısını yönetiyor” açıklamasını en çok zayıflatır?",
+        "options": [
+          "Enflasyon manşetleri ile halk kaygısı aynı ay içinde birlikte yükselmiş.",
+          "Anketteki kişilerin çoğu fiyat artışını market alışverişinde hissettiğini söylemiş.",
+          "Gazeteler enflasyona yalnızca son sayfalarda yer vermiş.",
+          "Fiyatlar sabit kaldığı bir dönemde, bir gazete grubunun enflasyon haberi vermeye başlamasından birkaç hafta sonra halkın kaygısı artmış."
+        ],
+        "answer": 3,
+        "explain": "Fiyatlar sabitken kapsam değişip ardından kaygı artıyorsa, “yalnızca gerçek fiyatlar” açıklaması (üçüncü değişken) zayıflar ve zaman sırası gündem belirlemeyi destekler: dördüncü seçenek. Birinci seçenek üç açıklamayla da uyumlu, yani ayırt edici değil. İkinci seçenek gerçek dünya ipucunu güçlendirir; üçüncü seçenek de konuyla doğrudan ilgisiz."
+      }
+    },
+    {
+      "id": "deep-what-paper-claimed",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin bakış: 1972 makalesi ne dedi, ders kitapları ne diyor?",
+      "body": "Bir kuramın folkloru zamanla kendi kaynağından uzaklaşır. 1972 makalesine dönüp bakınca beş fark göze çarpar [[cite:mccombs-shaw-1972]]:\n\n1. **“Kanıtladık” demedi.** Tartışma bölümünün ilk cümlesi: Gündem belirleme işlevinin varlığı bu korelasyonlarla kanıtlanmış değil; kanıtlar, gündem belirleme olsaydı bulunması gereken koşullarla uyumlu.\n2. **“Hipotez” dediler.** Cohen’in sloganı makalede kuramın hipotezi olarak geçer. Yazarlar ayrıca bu çalışmanın toplu birimleri karşılaştıran ilk bir sınama olduğunu, bir sonraki adımın bireysel düzeyde eşleştirme olması gerektiğini yazar.\n3. **Rakip açıklamaları sınadılar.** Seçici algı ve “medya sadece izleyicinin ilgisini yansıtıyor” itirazlarına tek tek cevap aradılar.\n4. **Kendilerini böyle tanımladılar.** Makale kendini öncelikle bir siyaset ve kitle iletişimi sosyolojisi olarak tanımlar; toplanan psikolojik verilerin ikinci planda kaldığını da belirtir.\n5. **Tutum konusunda mesafeliydiler.** “Medya tutumların yönü ve şiddeti üzerinde az etkili olabilir” ifadesi, yıllar sonra öncüleme ve ikinci düzey çalışmalarıyla tartışmalı hâle geldi. McCombs, Shaw ve Weaver (2014) bugün kuramın yedi ayrı yönünden söz ediyor [[cite:mccombs-shaw-weaver-2014]].\n\nSınav cevabında iki tehlike var: (a) “Kanıtlandı” demek, (b) kuramı “medya ne düşüneceğimizi söyler”e indirgemek."
+    },
+    {
+      "id": "today-networks",
+      "section": "today",
+      "layer": "core",
+      "kind": "text",
+      "title": "Sosyal medya çağında gündem: ok artık tek yönlü değil",
+      "body": "1968’de gündem, birkaç gazete ve iki televizyon kanalıydı. Bugün herkes hem izleyici hem yayıncı. Kuram çöktü mü? Belgelenmiş araştırmalar çöküş yerine bir *ağ* tablosu gösteriyor.\n\n- **Neuman ve arkadaşları (2014):** 2012’de 29 siyasi konuyu geleneksel ve sosyal medyada büyük veriyle izlediler. Gündem belirleme, geleneksel medyadan kitleye tek yönlü bir örüntü değil, karmaşık ve dinamik bir etkileşimdi; iki ortamın dikkat ritimleri ilişkiliydi ama önemli ölçüde farklı “davulların sesine” göre hareket ediyordu [[cite:neuman-et-al-2014]].\n- **Wallsten (2007):** 2004 ABD kampanyasında 35 konuyu, 10 popüler ve 50 daha az bilinen blogda izledi; çoğu konuda ana akım medya ile blog gündemi arasında tek yönlü değil, çift yönlü bir ilişki buldu [[cite:wallsten-2007]].\n- **Conway, Kenski ve Wang (2015):** 2012 ön seçimlerinde adayların Twitter hesapları, partiler ve büyük gazeteler arasında “simbiyotik” bir ilişki gördüler; gecikmeler konuya göre değişti, bazı konularda geleneksel medya adayları izledi, bazılarında Twitter gündemini önceden tahmin etti [[cite:conway-et-al-2015]].\n- **Barberá ve arkadaşları (2019):** ABD Kongresi’nin 113. döneminde milletvekillerinin ve halkın Twitter konularını incelediler: Milletvekilleri halkın gündemini yönlendirmekten çok *izliyor*, üstelik genel halktan çok kendi destekçilerine duyarlı [[cite:barbera-et-al-2019]].\n\nOrtak mesaj: Medya gündemi hâlâ önemli; ama halk, siyasetçi ve gazeteci birbirini karşılıklı besliyor. “Gündemi kim belirliyor?” sorusunun cevabı çoğu zaman “hepsi, sırayla”.",
+      "question": {
+        "id": "networks-q",
+        "type": "mcq",
+        "prompt": "Bir yorumcu “Twitter gündemi, gazeteleri tek başına yönetiyor” diyor. Neuman ve arkadaşlarının 2012’deki 29 konu üzerindeki bulgusu bu iddiaya karşı ne söyler?",
+        "options": [
+          "Geleneksel medyanın gündem belirleme gücünü tümüyle ortadan kaldırdığını gösterir.",
+          "Geleneksel ve sosyal medya gündemlerinin ilişkili ama ritimlerinin önemli ölçüde farklı olduğunu; etkinin tek yönlü olmadığını gösterir.",
+          "Sosyal medyanın geleneksel medyadan bütünüyle bağımsız çalıştığını gösterir.",
+          "Twitter gündemini her zaman gazetelerin belirlediğini gösterir."
+        ],
+        "answer": 1,
+        "explain": "Neuman ve arkadaşları tek yönlü bir model bulmadı; gündemler ilişkiliydi ama farklı ritimlerle hareket ediyordu: ikinci seçenek. Yorumcunun iddiası “Twitter gazeteleri yönetir” diyen tek yönlü bir iddia; dördüncü seçenek onun tersini söylüyor ama aynı hatayı, yani tek yönlülüğü yapıyor. Birinci ve üçüncü seçenek de aşırı yorumlar: Gündemler arasında ilişki vardı; geleneksel medya ne etkisiz kaldı ne de sosyal medya ondan tümüyle bağımsız çıktı."
+      }
+    },
+    {
+      "id": "today-trending",
+      "section": "today",
+      "layer": "core",
+      "kind": "story",
+      "title": "Trend listesi kimin gündemi? 2009’un Twitter’ı",
+      "body": "Sosyal medyada “gündem” dendiğinde akla “trend konular” gelir. Bu liste halkın kendi sesi mi, yoksa haber gündeminin yankısı mı?\n\nKwak ve arkadaşları 2010’da Twitter’ı tümüyle taradıkları bir çalışma yayımladı: 41,7 milyon kullanıcı profili, 4.262 trend konu ve 106 milyon tweet [[cite:kwak-et-al-2010]]. Trend konuları etkin oldukları döneme ve tweet örüntüsüne göre sınıflandırdılar ve konuların **%85’inden fazlasının “manşet haber” ya da “kalıcı haber” niteliğinde** olduğunu buldular [[cite:kwak-et-al-2010]]. Manşet haber: son dakika gelişmeleri. Kalıcı haber: spor takımları, şehirler, markalar gibi sürekli gündemde kalan konular. Yazarlar, kullanıcıların çoğunlukla manşet haberlerden konuştuğunu ve taze haberlere tepki verdiğini yorumluyor [[cite:kwak-et-al-2010]].\n\nYani “herkesin sesi” diye anılan bir platformda bile en görünür gündem büyük ölçüde haber gündemiydi. Ama bu bir 2009 fotoğrafı; bugünün kişiselleştirilmiş akışlarına doğrudan taşınamaz.\n\nSonraki yıllardan iki belge:\n\n- 2015’te ABD çevrimiçi haber kaynaklarında partizan çevrimiçi medya belirleyici bir rol oynadı; *New York Times* ve *Washington Post* artık gündemi kontrol etmiyor, partizan medyayı izliyordu [[cite:vargo-guo-2017]].\n- 2016 seçiminde sahte haber siteleri, Trump haberlerinde doğru habere dayalı medyayla yakın bir gündem ilişkisi kurdu, Clinton haberlerinde kurmadı; yazarlara göre özgün bir gündem belirleme rolünden çok, zaten sansasyonel bir ortama gürültü kattılar [[cite:guo-vargo-2020]].\n\nAlgoritmalar ne olacak? Kişiselleştirilmiş akışlarda herkes aynı gündemi görmüyor; bunun kuramı nasıl etkilediği açık bir soru. 2025’te bir dergi, bu soruyu yapay zekâ ve sohbet botları için özel bir sayıya taşıdı [[cite:weaver-2025]]; sonuçlar bu dersin kapsamı dışında. (Bu son paragraf bir akıl yürütme, bulgu değil.)",
+      "question": {
+        "id": "trending-q",
+        "type": "tf",
+        "prompt": "Kwak ve arkadaşlarının 2009 verisinde Twitter’ın trend konularının çoğu, gündelik özel sohbetlerden ve kişisel paylaşımlardan oluşuyordu.",
+        "answer": false,
+        "explain": "Yanlış. Trend konuların %85’inden fazlası manşet haber ya da kalıcı haber niteliğindeydi; yani “halkın kendi gündemi” dediğimiz şey büyük ölçüde haber gündemini yansıtıyordu. Tuzak, sosyal medyanın haberden bağımsız bir gündem ürettiğini sanmak. Ama kalıcı bir sonuç da değil: Bu 2009 verisi, bugünün algoritmik akışları için doğrudan geçerli sayılamaz."
+      }
+    },
+    {
+      "id": "deep-intermedia",
+      "section": "today",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin bakış: Medya gündemini kim belirliyor? Medyalararası gündem belirleme",
+      "body": "“Medya gündemi” ilk dönemde bir *veri* gibi düşünülüyordu; sonra kendisi bir *açıklanacak şey* hâline geldi. Peki haber odalarındaki gündemi kim kuruyor?\n\n**Medyalararası gündem belirleme:** Farklı haber kuruluşlarının birbirinin gündemini etkilemesi. Roberts ve McCombs (1994) bunu 1990 Teksas valilik kampanyasında ölçtü: Gazete gündeminin birinci dönemi ile televizyon gündeminin ikinci dönemi arasında +0,734, siyasi reklam gündeminin birinci dönemi ile gazete gündeminin ikinci dönemi arasında +0,638 korelasyon buldular; televizyon haber gündemini etkileyen ikinci kaynak olarak televizyon siyasi reklamları için de +0,524 çıktı. Yani adayların kendi reklamları bile haber gündemini etkiliyordu [[cite:roberts-mccombs-1994]].\n\n**Çevrimiçi ortamda:** Vargo ve Guo (2017), 2015’te ABD çevrimiçi haber kaynakları arasında medya gündemlerinin yüksek derecede homojen ve karşılıklı olduğunu buldu; etki medya türüne, konu türüne ve döneme göre değişiyordu [[cite:vargo-guo-2017]]. Conway ve arkadaşları (2015) ise Twitter ile gazeteler arasında simbiyotik bir ilişki gördü [[cite:conway-et-al-2015]].\n\n**Kuramsal bağ:** Bu sorular “gündem inşası” sorularıdır ve sonraki derste işlenir [[lesson:agenda-building]]. Kapı bekçiliğiyle ilişkisi ise [[lesson:gatekeeping]] dersinde.\n\nSınav için: “Medya gündemini etkileyen etkenler” diye sorulursa şunları sayabilirsin: haber kaynakları (Cohen’in Washington muhabirleri örneği gibi), diğer medya, siyasi reklam, kapı bekçileri ve haber rutinleri."
+    },
+    {
+      "id": "turkey-studies",
+      "section": "turkey",
+      "layer": "core",
+      "kind": "text",
+      "title": "Türkiye’den iki araştırma: Gündem sınandığında",
+      "body": "Gündem belirleme Türkiye’de de sınandı. Burada, tam metnini okuduğumuz iki çalışma var; ikisi de sınırlarıyla birlikte öğretici.\n\n**1) Medya gündemi tek değil: 7 Haziran 2015 sonrası koalisyon görüşmeleri.** And Algül, 6 Temmuz–31 Ağustos 2015 arasında altı gazetenin (Sabah, Hürriyet, Cumhuriyet, Zaman, Yeni Şafak, Sözcü) birinci sayfalarındaki koalisyon görüşmesi haberlerini, 57 günlük bir dönem boyunca içerik çözümlemesiyle inceledi. Gazetelerin gündemleri birbirinden farklıydı; başlıklarda yorum vardı; haberlerin yeri, manşet yaklaşımları, kullanılan aktörler ve partilerin ele alınış biçimi yayın politikalarına göre değişiyordu [[cite:algul-2016]]. Dersin diliyle: “Medya gündemi” diye tek bir liste yok; medya organına göre ayrışabilir.\n\n**2) Kamu gündemi ile algılanan medya gündemi.** Hazar ve Sbouh (2020), Ankara Hacı Bayram Veli Üniversitesi’nden 386 ve Filistin’deki An-Najah Üniversitesi’nden 354 (toplam 740) iletişim fakültesi öğrencisine anket uyguladı. Öğrencilerin kendi gündemleriyle “medyanın en çok üzerinde durduğunu düşündükleri” konuları karşılaştırdı ve benzerliğin düşük olduğunu, yani kuramın bu örneklemde yeterince etkili olmadığını yazdı [[cite:hazar-sbouh-2020]]. Aynı ankette güncel bilgiyi nereden aldıkları sorulduğunda %75 sosyal medya dedi; televizyon %10, sosyal çevre %8,9, gazete ve dergiler %5, radyo %1,1 çıktı [[cite:hazar-sbouh-2020]].\n\n**Dikkat:** İkinci çalışmada medya gündemi içerik çözümlemesiyle değil, öğrencilerin *algısıyla* ölçüldü; yazarlar bunun klasik yaklaşımdan ayrıldığını kendileri belirtiyor [[cite:hazar-sbouh-2020]]. Örneklem yalnızca iletişim öğrencileri. Yani bu “kuram çürüdü” değil, “bu tasarımda örtüşme çıkmadı” demek.",
+      "question": {
+        "id": "turkey-q",
+        "type": "mcq",
+        "prompt": "Hazar ve Sbouh (2020) çalışmasının, klasik gündem belirleme tasarımından temel farkı neydi?",
+        "options": [
+          "Medya gündemini içerik çözümlemesiyle değil, katılımcıların algısıyla ölçmesi",
+          "Kamu gündemini anketle değil, gözlemle ölçmesi",
+          "Yalnızca televizyon haberlerini incelemesi",
+          "Yalnızca kararsız seçmenleri örneklemesi"
+        ],
+        "answer": 0,
+        "explain": "Klasik yaklaşım (Chapel Hill gibi) önce medya içeriğini çözümler, sonra kamu gündemiyle karşılaştırır; bu çalışma medya gündemini öğrencilerin algısıyla ölçtü ve yazarlar bunu kendileri de belirtiyor. Diğer seçenekler çalışmanın tasarımında yok: Kamu gündemi anketle ölçüldü, örneklem seçmenler değil öğrencilerdi ve yalnızca televizyona bakılmadı."
+      }
+    },
+    {
+      "id": "exam-patterns",
+      "section": "exam",
+      "layer": "core",
+      "kind": "text",
+      "title": "Sınavda böyle sorulur: kalıplar, tuzaklar, karışan çiftler",
+      "body": "AUZEF tarzı sorularda gündem belirleme çoğunlukla şu beş kalıpla gelir.\n\n**1) “Kuramın temel iddiası nedir?”** Doğru: Medya, insanlara ne *hakkında* düşüneceklerini etkiler. Tuzak: “ne düşüneceklerini belirler”.\n\n**2) “Kim, ne zaman?”** McCombs ve Shaw: 1968 seçimi (veri), 1972 (makale), Chapel Hill. Cohen: 1963. Lippmann: 1922. Tuzaklar: 1968 ile 1972’yi karıştırmak; Lippmann’ı ya da Cohen’i kuramın kurucusu saymak (ikisi fikri zemin); Lazarsfeld’i kuramın öncülü saymak (o, sınırlı etkiler geleneğinin adıdır).\n\n**3) “Chapel Hill örneklemi?”** 100 kararsız seçmen. Tuzaklar: “1000 seçmen”, “kararlı seçmenler”, “New York”.\n\n**4) “Üç gündem?”** Medya, kamu ve politika gündemi.\n\n**5) “Hangisi hangi kuram?”** Gündem belirleme konuların *sırası*. Çerçeveleme, konunun *nasıl* sunulduğu ([[lesson:framing]]). Öncüleme, öne çıkan konunun değerlendirme *ölçütü* olması. Kültivasyon, uzun süreli televizyon izlemenin dünya görüşünü biçimlemesi ([[lesson:cultivation]]). Suskunluk sarmalı, azınlıkta kalma korkusu ([[lesson:spiral-of-silence]]).\n\n**Adlar.** Türkçe yazında aynı kavram için “gündem belirleme”nin yanında “gündem oluşturma”, “gündem kurma”, “gündem hazırlama” ve “gündem koyma” gibi adlar da kullanılmış; bir makale bunları kaynaklarıyla sıralıyor [[cite:hazar-sbouh-2020]]. Kurs haritamıza göre bu konu AUZEF kitabında (Polat 2016) dokuzuncu ünitede yer alıyor ve gündem hazırlama ile siyasal iletişim de o ünitenin konuları arasında sayılıyor. Sınavda kitabın kullandığı adı yaz.",
+      "question": {
+        "id": "exam-q",
+        "type": "mcq",
+        "prompt": "Bir sınav sorusu, McCombs ve Shaw’ın Chapel Hill çalışması hakkında “hangisi doğrudur?” diye soruyor. Hangi seçenek doğru?",
+        "options": [
+          "1968’de 1000 kararlı seçmenle yapıldı ve Lippmann’ın verilerine dayandı.",
+          "1972’de New York’ta yapıldı ve televizyon haberlerini inceledi.",
+          "1968 sonbaharında 100 kararsız seçmenle görüşüldü; makale 1972’de yayımlandı.",
+          "Deneysel bir çalışmaydı; katılımcılara farklı haberler izletildi."
+        ],
+        "answer": 2,
+        "explain": "Görüşmeler 18 Eylül–6 Ekim 1968’de 100 kararsız seçmenle yapıldı; makale 1972’de yayımlandı: üçüncü seçenek. Birinci seçenek örneklemi büyütüp seçmen türünü değiştiriyor ve Lippmann’ı veri kaynağı yapıyor (Lippmann bir 1922 yazarı). İkinci seçenek yer, yıl ve medya türünü karıştırıyor. Dördüncü seçenek anket ve içerik çözümlemesi olan bir çalışmayı, 1982’deki Iyengar ve arkadaşlarının deneyleriyle karıştırıyor."
+      }
+    },
+    {
+      "id": "summary",
+      "section": "summary",
+      "layer": "core",
+      "kind": "summary",
+      "title": "Özet kartı",
+      "body": "- **İddia:** Medya bir konuyu ne kadar öne çıkarırsa, kamu o konuyu o kadar önemli görme eğilimindedir: ne *düşüneceğini* değil, ne *hakkında* düşüneceğini.\n- **Kökler:** Lippmann (1922) “kafamızdaki resimler”; Cohen (1963) “ne hakkında düşünmek” cümlesi.\n- **Çalışma:** McCombs ve Shaw, Chapel Hill 1968; 100 kararsız seçmen, dokuz medya; korelasyonlar +0,967 (büyük haberler) ve +0,979 (küçük haberler); seçici algı testinde 24 karşılaştırmanın 18’i gündem belirleme yönünde. Yazarlar “kanıtladık” demedi.\n- **Üç gündem:** medya, kamu, politika.\n- **Koşullar:** Yönelim gereksinimi = ilgililik + belirsizlik; konu türü tartışmalı; zaman gecikmesi çalışmadan çalışmaya değişiyor.\n- **Sınamalar:** Funkhouser’ın gerçek göstergelerle uyumsuzluğu; Charlotte paneli; Behr–Iyengar; Iyengar–Peters–Kinder deneyleri.\n- **Bugün:** Ağ biçiminde, çift yönlü; 2009 Twitter verisinde trend konuların %85’inden fazlası haber niteliğinde.\n- **Türkiye:** Medya gündemi organa göre ayrışıyor; öğrenci örnekleminde algılanan medya ile kamu gündemi az örtüştü.\n- **Sınav:** ne hakkında ≠ ne; 1968 veri, 1972 makale; 100 kararsız; üç gündem; çerçeveleme, öncüleme ve kültivasyon ayrımı.",
+      "question": {
+        "id": "summary-q",
+        "type": "cloze",
+        "prompt": "Özeti tamamla.",
+        "text": "1968’de Chapel Hill’de {{1}} kararsız seçmenle yapılan çalışmada, büyük haberler için korelasyon +{{2}} bulundu.",
+        "blanks": [
+          {
+            "options": [
+              "1000",
+              "100",
+              "45"
+            ],
+            "answer": 1
+          },
+          {
+            "options": [
+              "0,500",
+              "0,967",
+              "0,100"
+            ],
+            "answer": 1
+          }
+        ],
+        "explain": "Görüşme sayısı 100’dü; 45 ise, bir adaya eğilimi olan alt grubun büyüklüğüydü (seçici algı testinde kullanıldı). Büyük haberler için korelasyon +0,967, küçük haberler için +0,979 idi. Sınavda 100 ile 45’i ve iki korelasyonu birbirine karıştırmak tipik hata."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "qz-1",
+      "type": "mcq",
+      "prompt": "Aşağıdakilerden hangisi gündem belirleme kuramının temel iddiasını en doğru özetler?",
+      "options": [
+        "Medya, izleyicinin bir konudaki görüşünü kısa sürede tersine çevirir.",
+        "Medya yalnızca izleyicinin zaten sahip olduğu görüşleri pekiştirir.",
+        "Medyanın konulara verdiği vurgu, izleyicilerin o konuları ne kadar önemli gördüğünü etkiler.",
+        "Medya, izleyicinin hangi kanalı izleyeceğini belirler."
+      ],
+      "answer": 2,
+      "explain": "Kuram, konuların medyadaki önem sırasının kamunun önem sırasına aktarıldığını söyler: üçüncü seçenek. Birinci seçenek “güçlü etki / beyin yıkama” anlayışıdır; kuramın iddiası değil. İkinci seçenek “pekiştirme” yaklaşımına, yani sınırlı etkiler geleneğine ait. Dördüncüsü ise izleyicinin kanal tercihine dair; kuramla ilgisiz."
+    },
+    {
+      "id": "qz-2",
+      "type": "tf",
+      "prompt": "McCombs ve Shaw 1972 makalesinde, +0,967’lik korelasyonun medyanın gündemi belirlediğini kanıtladığını yazdı.",
+      "answer": false,
+      "explain": "Yanlış. Yazarlar, gündem belirleme işlevinin bu korelasyonlarla kanıtlanmadığını, ama kanıtların gündem belirleme olsaydı bulunması gereken koşullarla uyumlu olduğunu yazdı. Ayrıca toplu birimlerin karşılaştırıldığını, bir sonraki adımın bireysel düzey olması gerektiğini belirttiler. Tuzak, yüksek korelasyonu otomatik olarak nedensellik saymak."
+    },
+    {
+      "id": "qz-3",
+      "type": "match",
+      "prompt": "Araştırmayı ana bulgusuyla eşleştir.",
+      "pairs": [
+        [
+          "Funkhouser (1973)",
+          "Basın ve kamu ilgisi birlikte hareket etti ama gerçek durum göstergelerinden ayrıştı"
+        ],
+        [
+          "Winter ve Eyal (1981)",
+          "Sivil haklar konusunda en iyi etki süresi anketten önceki dört–altı haftaydı"
+        ],
+        [
+          "Behr ve Iyengar (1985)",
+          "Televizyon haberi kamu kaygısını etkiledi, tersi geçerli değildi"
+        ],
+        [
+          "Iyengar, Peters ve Kinder (1982)",
+          "Deneylerde televizyon haberleri önem algısını ve başkan değerlendirmesinin ölçütlerini değiştirdi"
+        ],
+        [
+          "Demers ve arkadaşları (1989)",
+          "“Göze çarpma” (obtrusiveness) hipotezine destek bulunamadı"
+        ]
+      ],
+      "explain": "Bu beş çalışma, kuramın ilk kanıtından sonra gelen “sınama dalgasını” temsil eder: gerçeklik sınaması (Funkhouser), zaman gecikmesi (Winter–Eyal), yön ve gerçek dünya ipuçları (Behr–Iyengar), deney (Iyengar ve arkadaşları), konu türü (Demers ve arkadaşları). En sık karışan çift, zaman gecikmesi ile yön sorusudur: Winter–Eyal süreyi, Behr–Iyengar yönü inceledi."
+    },
+    {
+      "id": "qz-4",
+      "type": "order",
+      "prompt": "Aşağıdakileri en eskiden en yeniye doğru sıraya diz.",
+      "items": [
+        "Lippmann, Public Opinion",
+        "Cohen, The Press and Foreign Policy",
+        "Chapel Hill görüşmeleri ve medya içeriği kodlaması",
+        "Funkhouser’ın 1960’lar çalışması",
+        "Iyengar, Peters ve Kinder’in deneyleri",
+        "İspanya seçimlerinde ikinci düzey gündem belirleme çalışması"
+      ],
+      "explain": "Sıra: 1922, 1963, 1968, 1973, 1982, 1997. En sık hata, Chapel Hill’i 1972’ye koymak: 1972 makalenin yayın yılı, veri toplama 1968 sonbaharında yapıldı. İkinci tuzak, Funkhouser’ı (1973) Chapel Hill’den önceye almak."
+    },
+    {
+      "id": "qz-5",
+      "type": "cloze",
+      "prompt": "Yönelim gereksinimi tanımını tamamla.",
+      "text": "Yönelim gereksinimi, bir konuya duyulan {{1}} ile o konudaki {{2}} düzeyinin birleşimidir; ikisi de yüksek olduğunda medyanın gündem belirleme etkisinin {{3}} olması beklenir.",
+      "blanks": [
+        {
+          "options": [
+            "eğitim düzeyi",
+            "kişisel ilgililik",
+            "yaş"
+          ],
+          "answer": 1
+        },
+        {
+          "options": [
+            "kesinlik",
+            "gelir",
+            "belirsizlik"
+          ],
+          "answer": 2
+        },
+        {
+          "options": [
+            "daha zayıf",
+            "daha güçlü",
+            "aynı"
+          ],
+          "answer": 1
+        }
+      ],
+      "explain": "McCombs ve Weaver’ın kavramı iki bileşenden oluşur: kişisel ilgililik ve belirsizlik. İlgi yüksek ve kararsızlık yüksekse kişi “harita” aramaya en çok ihtiyaç duyar ve medyanın sırasına daha çok yaslanır. Tuzak, kesinliği (belirsizliğin tersini) yüksek olan kişiyi de etkilenmeye açık saymak: Kararlı kişide yönelim gereksinimi en fazla orta düzeydedir."
+    },
+    {
+      "id": "qz-6",
+      "type": "case",
+      "scenario": "Hayal et: Kumsalköy adında kurgusal bir kentin yerel gazetesi bir ay boyunca iki konuya eşit ve öne çıkan yer veriyor: (A) mahallelerde yaşanan su kesintileri ve (B) uzak bir ülkedeki hükümet krizi. Ay sonunda yapılan ankette Kumsalköylüler B’yi “en önemli konular” arasında üst sıraya koyuyor. Bir araştırmacı bunu gündem belirlemeye bağlamak istiyor.",
+      "parts": [
+        {
+          "id": "qz-6a",
+          "type": "mcq",
+          "prompt": "Araştırmacı, sonucu gündem belirlemeye bağlamadan önce hangi alternatif açıklamayı ele almalı?",
+          "options": [
+            "Krizin zaten uluslararası basında ve başka kanallarda da geniş yankı bulmuş olması; yani haber dışı ortak bir neden.",
+            "Gazetenin B haberlerini ilk sayfadan vermesi.",
+            "Anketin Kumsalköy’de yapılmış olması.",
+            "Gazetenin A haberlerine de yer vermesi."
+          ],
+          "answer": 0,
+          "explain": "Gündem belirlemeyi öne sürmeden önce üçüncü değişkenleri (burada: her yerde konuşulan büyük bir kriz) elemek gerekir; Funkhouser’dan Behr ve Iyengar’a kadar “gerçek dünya ipuçları” bu yüzden önemli. İkinci seçenek açıklanacak mekanizmanın kendisi, alternatif değil. Üçüncü ve dördüncü seçenek ise sonucu açıklamaz."
+        },
+        {
+          "id": "qz-6b",
+          "type": "mcq",
+          "prompt": "Zucker’in “değişken medya etkisi” hipotezine göre haberlerin etkisinin daha büyük olması beklenen konu hangisi?",
+          "options": [
+            "A, çünkü Kumsalköylüler su kesintilerini doğrudan yaşıyor",
+            "B, çünkü insanlar onu doğrudan deneyimlemiyor ve yalnızca haberlerden öğreniyor",
+            "İkisi eşit; hipotez konu türünü dikkate almaz",
+            "Hiçbiri; hipotez yalnızca televizyon için geçerli"
+          ],
+          "answer": 1,
+          "explain": "Zucker’e göre bir konu ne kadar az doğrudan deneyimleniyorsa haberlerin etkisi o kadar büyük: B. A, doğrudan yaşanan (obtrusive) konu olduğundan etkinin daha küçük olması beklenir. Ama bu hipotez tartışmalıdır: Demers ve arkadaşları 1989’da bu “göze çarpma” hipotezine destek bulamadı."
+        },
+        {
+          "id": "qz-6c",
+          "type": "mcq",
+          "prompt": "Anketteki hangi kişinin gündeminin gazetenin gündemine en çok benzemesi beklenir?",
+          "options": [
+            "Krizi hiç umursamayan biri",
+            "Krizle ilgilenen ve kime destek vereceğine çoktan karar vermiş biri",
+            "Gazeteyi hiç okumayan biri",
+            "Krizle ilgilenen ama kimden yana olacağını bilmeyen biri"
+          ],
+          "answer": 3,
+          "explain": "İlgililik ve belirsizliğin ikisi de yüksek olan kişide yönelim gereksinimi en yüksektir ve medyanın gündem etkisi en güçlü olması beklenir. Kararlı ilgili kişide belirsizlik düşük olduğundan orta düzeydedir; ilgisiz ya da gazeteyi hiç okumayan kişi ise medyaya maruz kalmadığı ya da yönelmediği için etkilenmez."
+        }
+      ],
+      "takeaway": "Bir eşleşmeyi gündem belirlemeye bağlamadan önce üç şeye bak: (1) Ortak nedenleri (gerçek dünya ipuçlarını) elemek, (2) konu türü, (3) kimin daha çok etkileneceği. Kuram “her zaman, herkeste” değil, “şu koşullarda, şunlarda” der."
+    },
+    {
+      "id": "qz-7",
+      "type": "mcq",
+      "prompt": "Bir seçim öncesinde ekonomi haberleri ilk sıraya çıkıyor ve seçmenler adayı değerlendirirken ekonomi performansına eskisinden daha fazla ağırlık veriyor. Bu hangi kavramın örneğidir?",
+      "options": [
+        "Kapı bekçiliği",
+        "Kültivasyon",
+        "Suskunluk sarmalı",
+        "Öncüleme"
+      ],
+      "answer": 3,
+      "explain": "Öne çıkan konunun, lideri değerlendirmede ölçüt hâline gelmesi öncülemedir (İran–Contra sonrası Reagan değerlendirmelerinde görüldüğü gibi). Kapı bekçiliği haberin seçilmesiyle, kültivasyon uzun süreli televizyon maruziyetiyle, suskunluk sarmalı ise azınlıkta kalma korkusuyla ilgilidir; hiçbiri bu senaryoyu açıklamaz."
+    },
+    {
+      "id": "qz-8",
+      "type": "mcq",
+      "prompt": "1972 Charlotte panel çalışmasının, tek kasabalık Chapel Hill kesitine göre asıl avantajı neydi?",
+      "options": [
+        "Yalnızca kararlı seçmenleri içermesi",
+        "Aynı seçmenleri zaman içinde izleyerek, neden–sonuç sırasına bakabilmesi",
+        "Yalnızca televizyona odaklanması",
+        "Daha fazla medya kuruluşunu içermesi"
+      ],
+      "answer": 1,
+      "explain": "Panel tasarımı aynı kişileri birkaç dalgada izler; böylece medya gündeminin sonraki kamu gündemini yordayıp yordamadığına bakılabilir (zaman sırası). Chapel Hill tek kesitti. Diğer seçenekler Charlotte’ın avantajı değil: Charlotte’ta televizyon da gazeteler de incelendi; fark medya sayısında ya da seçmen türünde değil, zaman boyutundaydı."
+    },
+    {
+      "id": "qz-9",
+      "type": "tf",
+      "prompt": "Kwak ve arkadaşlarının 2009 Twitter verisinde trend konuların %85’inden fazlası manşet haber ya da kalıcı haber niteliğindeydi.",
+      "answer": true,
+      "explain": "Doğru. Yazarlar 4.262 trend konuyu sınıflandırdı ve çoğunun (%85’inden fazlasının) manşet haber ya da kalıcı haber olduğunu buldu. Bu, sosyal medya gündeminin büyük ölçüde haber gündemine bağlı olduğunu gösterir; ancak bir 2009 fotoğrafı olduğu için bugünün algoritmik akışlarına doğrudan taşınamaz."
+    },
+    {
+      "id": "qz-10",
+      "type": "mcq",
+      "prompt": "Barberá ve arkadaşlarının ABD Kongresi’nin 113. dönemi Twitter çalışması, “kim kimi izliyor?” sorusuna ne cevap verdi?",
+      "options": [
+        "Milletvekilleri halkın gündemini büyük ölçüde belirliyor.",
+        "Halk milletvekillerinden tümüyle bağımsız konuşuyor.",
+        "Milletvekilleri halkın konularını yönlendirmekten çok izliyor; üstelik genel halktan çok kendi destekçilerine duyarlı.",
+        "Konuları yalnızca geleneksel medya belirliyor."
+      ],
+      "answer": 2,
+      "explain": "Bulgu: Milletvekilleri halkın konularını yönlendirmekten çok izliyor, ve bu sonuç medyanın gündem belirleme etkileri kontrol edilse de değişmiyor; ayrıca genel halktan çok destekçilerine duyarlılar. Birinci seçenek tam tersi. İkinci ve dördüncü seçenek, çalışmanın gösterdiği karşılıklı ilişkiyi yok sayıyor."
+    },
+    {
+      "id": "qz-11",
+      "type": "match",
+      "prompt": "Kavramı, ona uyan hayalî örnekle eşleştir.",
+      "pairs": [
+        [
+          "Birinci düzey gündem belirleme",
+          "Gazetelerin ekonomiye çok yer vermesiyle halkın ekonomiyi en önemli konu saymaya başlaması"
+        ],
+        [
+          "İkinci düzey gündem belirleme",
+          "Bir adayın haberlerde sürekli “deneyimli” diye sunulmasıyla seçmenlerin onu deneyimli bulması"
+        ],
+        [
+          "Öncüleme",
+          "Güvenlik haberleri artınca liderin değerlendirilmesinde güvenlik performansının ağırlık kazanması"
+        ],
+        [
+          "Medyalararası gündem belirleme",
+          "Bir gazetenin manşet konusunun ertesi hafta televizyon haberlerinde de öne çıkması"
+        ],
+        [
+          "Yönelim gereksinimi",
+          "Konuyla ilgilenen ama karar veremeyen seçmenin haber medyasına daha çok yönelmesi"
+        ]
+      ],
+      "explain": "Her örnek farklı bir soruyu cevaplar: Hangi konu (birinci düzey), konunun hangi niteliği (ikinci düzey), hangi ölçüte göre karar (öncüleme), medya gündemini kim etkiliyor (medyalararası), kim daha çok etkileniyor (yönelim gereksinimi). En sık karışan çift ikinci düzey ile öncüleme: İkincisi bir nesnenin niteliğinin algısını, öncüleme ise değerlendirme ölçütünü değiştirir."
+    },
+    {
+      "id": "qz-12",
+      "type": "mcq",
+      "prompt": "Walgrave ve Van Aelst’e (2006) göre medyanın politika gündemi üzerindeki gücü için hangisi doğrudur?",
+      "options": [
+        "Bu güç koşulludur: Konu türüne, medya organına, haberin biçimine ve siyasi bağlama bağlıdır.",
+        "Medya ne yayımlarsa politikacılar o konuyu hemen gündemlerine alır.",
+        "Medyanın politika gündemine hiçbir etkisi yoktur.",
+        "Yalnızca televizyon politika gündemini etkiler."
+      ],
+      "answer": 0,
+      "explain": "Yazarlar, medyanın politika gündemine etkisinin bir dizi koşula bağlı olduğunu (girdi değişkenleri: konu türü, medya organı, haber türü; merkezde siyasi bağlam) ve sonuçların “hiç benimsememe”den “hızlı ve gerçek benimsemeye” kadar uzandığını savunur. İkinci seçenek otomatik bir etki varsayıyor, üçüncüsü etkiyi tümüyle reddediyor; dördüncü seçeneği destekleyen bir bulgu yok."
+    },
+    {
+      "id": "qz-13",
+      "type": "mcq",
+      "prompt": "McCombs ve Shaw 1972 makalesinde, medyanın gerçeğin kusurlu bir temsili olduğunu vurgulamak için Lippmann’dan hangi kavramı kullandı?",
+      "options": [
+        "İki aşamalı akış",
+        "Suskunluk sarmalı",
+        "Kapı bekçisi",
+        "Sözde çevre (pseudo-environment)"
+      ],
+      "answer": 3,
+      "explain": "Makale, medyanın yansıttığı “pseudo-environment”in gerçek kampanyanın kusursuz bir temsili olmadığını yazar; kavram Lippmann’ın 1922 kitabından gelir. İki aşamalı akış Lazarsfeld ve Katz’ın, suskunluk sarmalı Noelle-Neumann’ın, kapı bekçiliği ise White’ın 1950’deki haber seçimi çalışmasıyla başlayan araştırma geleneğinin kavramı; hiçbiri Lippmann’ın kavramı değil."
+    }
+  ]
+}

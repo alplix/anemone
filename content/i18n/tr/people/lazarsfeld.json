@@ -1,0 +1,13 @@
+{
+  "id": "lazarsfeld", "lang": "tr",
+  "name": "Paul Lazarsfeld", "nativeName": "", "slug": "paul-lazarsfeld",
+  "short": "Viyana doğumlu ABD’li toplumbilimci; Columbia’da Uygulamalı Toplumsal Araştırmalar Bürosu’nu yönetti, seçmen çalışmaları ve iki aşamalı akış fikriyle sınırlı etkiler döneminin simgesi oldu.",
+  "born": "Viyana",
+  "roles": ["toplumbilimci", "araştırma yöntemcisi", "araştırma enstitüsü kurucusu"],
+  "bio": "Paul Lazarsfeld, 1901’de Viyana’da doğdu, 1976’da New York’ta öldü. Viyana Üniversitesi’nde uygulamalı matematik alanında doktora yaptı (1925); tezi Einstein’ın kütle çekimi kuramının Merkür’ün hareketine uygulanmasıydı. Ama asıl ilgisi toplumsal araştırmaya kaydı: Marie Jahoda ve Hans Zeisel’le birlikte, işsizliğin vurduğu Marienthal köyünü inceleyen ünlü çalışmayı yönetti.\n\n1933’te Rockefeller Vakfı bursuyla ABD’ye gitti ve orada kaldı. Newark’ta bir araştırma merkezi yönetti, Princeton’daki radyo araştırmaları ofisinin başına geçti, ardından Columbia Üniversitesi’ne taşındı; radyo ofisi 1944’te Uygulamalı Toplumsal Araştırmalar Bürosu adını aldı. En büyük yöntemsel katkısı, panel araştırmasını ve anket çözümlemesini toplumbilimin ana araçlarından biri yapması ve üniversite bağlantılı araştırma enstitüsü modelini yaygınlaştırmasıdır.\n\nKitle iletişimi açısından iki iş öne çıkar: 1940 ABD başkanlık seçimi üzerine yapılan panel çalışması *The People’s Choice* (1944, Berelson ve Gaudet ile birlikte) ve Elihu Katz’la yazdığı *Personal Influence* (1955). Bu çalışmalar kanaat önderliğini ve “iki aşamalı iletişim akışı” fikrini ortaya koydu: medya mesajları çoğu zaman önce kanaat önderlerine, oradan da geniş kitleye ulaşır. Bu çalışmalar, medyanın tutumları derinden değiştirdiğine dair kanıtın zayıf kaldığı “sınırlı etkiler” tartışmasının merkezine yerleşti.\n\nGündem belirleme kuramıyla ilişkisi dolaylı ama önemlidir: McCombs ve Shaw 1972 makalesi, seçmen çalışmaları geleneğine (Lazarsfeld, Berelson ve McPhee’nin çalışmalarına) dayanarak medyanın tutum değiştirdiğine dair kanıtın kesin olmadığını, ama seçmenlerin kampanyadan öğrendiğine dair kanıtın güçlü olduğunu vurguladı; kuramı da bu boşluğa yerleştirdi.",
+  "works": [
+    { "bib": "lazarsfeld-berelson-gaudet-1944", "note": "1940 seçimi panel çalışması; kanaat önderliği ve sınırlı etkiler geleneğinin başlangıcı." },
+    { "bib": "katz-lazarsfeld-1955", "note": "İki aşamalı akış ve kişilerarası etki." }
+  ],
+  "inCourse": "Sınırlı etkiler döneminin baş adı: [[lesson:voting-studies]] ve [[lesson:two-step-flow]] derslerinde ayrıntılı işlenir; [[lesson:agenda-setting]] dersinde kuramın çıkış noktasındaki gelenek olarak geçer."
+}

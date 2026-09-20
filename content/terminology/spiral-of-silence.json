@@ -1,0 +1,68 @@
+{
+  "_comment": "Terms chosen or checked for the lesson 'spiral-of-silence'. status: owner = fixed by the project owner; sourced = at least two Turkish sources use the term; unsettled = no established Turkish term, descriptive rendering used and flagged; the English/German term is kept in parentheses at first mention. 'sources' are bibliography ids (content/bibliography/spiral-of-silence.json).",
+  "spiral-of-silence": {
+    "en": "spiral of silence", "tr": "suskunluk sarmalı", "status": "owner",
+    "note": "Owner rule: 'suskunluk sarmalı', never 'sessizlik sarmalı'. Course texts differ: Yaylagül (2006) uses 'Suskunluk Sarmalı'; Polat (2016) uses 'Suskunluk Sarmalı Kuramı' as the section title (10.2) but 'Sessizlik Sarmalı' in the unit title ('Sihirli Mermi ve Sessizlik Sarmalı'), in the body text and 'Sessizlik Kuramı' among the key concepts. These alternatives appear in the lesson ONLY in the 'exam' section as 'kitapta ... adıyla geçer'. The Turkish translation of Noelle-Neumann is titled 'Kamuoyu: Suskunluk Sarmalının Keşfi' (Dost, 1998).",
+    "sources": ["yaylagul-2006", "polat-2016", "noelle-neumann-1998-tr", "kutlu-2019", "ozer-yildiran-onk-2021"]
+  },
+  "fear-of-isolation": {
+    "en": "fear of isolation", "de": "Isolationsfurcht", "tr": "dışlanma korkusu", "alternatives": ["izolasyon korkusu"], "status": "sourced",
+    "note": "'Dışlanma korkusu' (also 'toplumdan dışlanma korkusu') is used by Polat (2016), Yaylagül (2006), Kutlu (2019), Özer & Yıldıran Önk (2021) and Kehya (2018). 'İzolasyon korkusu' occurs in Akar's İletişim Ansiklopedisi entry (2023) and 'sosyal izolasyon korkusu' in Ergül (2025). Polat and Yaylagül also use 'tecrit olmaktan / izole olmaktan kaçınmak' for the same idea.",
+    "sources": ["polat-2016", "yaylagul-2006", "kutlu-2019", "ozer-yildiran-onk-2021", "kehya-2018"]
+  },
+  "quasi-statistical-sense": {
+    "en": "quasi-statistical sense (also 'quasi-statistical organ')", "de": "quasi-statistisches Wahrnehmungsorgan", "tr": "yarı istatistiksel algı", "status": "unsettled",
+    "note": "No established Turkish term found. Kehya (2018) writes 'yarı istatistiksel algı'; Akar's İletişim Ansiklopedisi entry leaves 'quasi-statistical organ' untranslated; Polat (2016) paraphrases ('neredeyse istatistiki bir anlayış gücü'). The lesson uses 'yarı istatistiksel algı (İng. quasi-statistical sense)' at first mention. FLAG for owner: confirm or choose a preferred term.",
+    "sources": ["kehya-2018", "polat-2016"]
+  },
+  "climate-of-opinion": {
+    "en": "climate of opinion", "de": "Meinungsklima", "tr": "fikir iklimi", "alternatives": ["kanaat iklimi", "düşünce iklimi", "görüş iklimi"], "status": "sourced",
+    "note": "Polat (2016) uses 'fikir iklimi' (and 'fikir ortamı / düşünce ortamı' in translated passages); Kutlu (2019) uses 'kanaat iklimi', 'düşünce iklimi' and 'fikir iklimi'; Kehya (2018) 'görüş iklimi'. 'Fikir iklimi' is chosen because it is the AUZEF text's term (the students' textbook); the others are listed as alternatives.",
+    "sources": ["polat-2016", "kutlu-2019", "kehya-2018"]
+  },
+  "hard-core": {
+    "en": "hard core", "de": "harter Kern", "tr": "sert çekirdek", "status": "sourced",
+    "note": "Used by Polat (2016: '... belli bir sert çekirdek dışında ... suskunluğa düşmekte') and Aktaş (2024: 'Neumann'ın sert çekirdek olarak adlandırdığı bir azınlık'). Related term 'avant-garde' = 'avangard' (Turkish Wikipedia gives 'avangard/öncü', not used as a source).",
+    "sources": ["polat-2016", "aktas-2024"]
+  },
+  "avant-garde": {
+    "en": "avant-garde", "de": "Avantgarde", "tr": "avangard", "status": "sourced",
+    "note": "Loanword; standard Turkish spelling. Noelle-Neumann's second group of non-conformers, alongside the hard core.",
+    "sources": ["griffin-2009"]
+  },
+  "public-opinion": {
+    "en": "public opinion", "de": "öffentliche Meinung", "tr": "kamuoyu", "status": "sourced",
+    "note": "Universal in Turkish literature; also in the Turkish title of Noelle-Neumann's book (Kamuoyu: Suskunluk Sarmalının Keşfi). Polat renders the two conceptions as 'ussallık (rasyonalite) olarak kamuoyu' and 'toplumsal denetim olarak kamuoyu'.",
+    "sources": ["polat-2016", "noelle-neumann-1998-tr", "yaylagul-2006"]
+  },
+  "social-skin": {
+    "en": "social skin", "de": "soziale Haut", "tr": "sosyal deri / toplumsal deri", "status": "unsettled",
+    "note": "Subtitle of the 1980/1984 book ('Öffentliche Meinung – unsere soziale Haut' / 'Public Opinion – Our Social Skin'). The Turkish translation of the later German book has no such subtitle. No published Turkish rendering could be confirmed; the lesson writes 'sosyal derimiz (İng. social skin)' in its own words and flags it here.",
+    "sources": ["noelle-neumann-1980", "noelle-neumann-1984"]
+  },
+  "willingness-to-speak-out": {
+    "en": "willingness to speak out", "de": "Redebereitschaft", "tr": "konuşma isteği", "alternatives": ["konuşma istekliliği"], "status": "sourced",
+    "note": "'Konuşma isteği' is used by Kehya (2018). Polat and Kutlu paraphrase ('düşüncelerini dile getirme'). Used in the lesson as the dependent variable of the theory.",
+    "sources": ["kehya-2018", "scheufele-moy-2000"]
+  },
+  "train-test": {
+    "en": "train test", "de": "Eisenbahntest", "tr": "tren testi", "status": "unsettled",
+    "note": "No Turkish course text was found that names the method; 'tren testi (Almanca Eisenbahntest)' is the descriptive rendering used. Turkish Wikipedia describes the idea (talking about a topic with a stranger on a train) without naming the test.",
+    "sources": ["griffin-2009", "fuchs-gerhards-neidhardt-1991"]
+  },
+  "last-minute-swing": {
+    "en": "last-minute swing", "de": "last-minute-swing", "tr": "son dakika hamlesi (last minute swing)", "status": "sourced",
+    "note": "Polat (2016, 10.2.1) uses 'Bir son dakika hamlesiyle (last minute swing)'. Keep the English term in parentheses in the lesson.",
+    "sources": ["polat-2016"]
+  },
+  "cumulation-consonance": {
+    "en": "cumulation, consonance (and ubiquity / public effect)", "de": "Kumulation, Konsonanz, Öffentlichkeitseffekt", "tr": "birikim (kümülasyon), uyum (konsonans)", "status": "unsettled",
+    "note": "Noelle-Neumann's three reasons for powerful media (Wilke 2010: Kumulation, Konsonanz, Öffentlichkeitseffekt; Griffin 2009: ubiquity, consonance, cumulation). No Turkish source with established renderings was found; the lesson gives descriptive Turkish with the English term in parentheses.",
+    "sources": ["wilke-2010", "griffin-2009"]
+  },
+  "bandwagon-effect": {
+    "en": "bandwagon effect", "tr": "bandwagon etkisi (kazanan tarafa katılma)", "status": "unsettled",
+    "note": "Not verified against a Turkish course text; used only as a contrast term in one card and in the exam section, always glossed.",
+    "sources": ["griffin-2009"]
+  }
+}

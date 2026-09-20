@@ -1,0 +1,74 @@
+{
+  "_comment": "Terms chosen or confirmed for the lesson agenda-setting (batch: agenda-setting). status: owner = fixed by the project owner in core.json; check = plausible Turkish usage, source noted, still to be confirmed by a Turkish-literature reviewer. Sources named here were opened unless stated otherwise.",
+  "agenda-setting": {
+    "en": "agenda-setting", "tr": "gündem belirleme", "status": "owner",
+    "alt": ["gündem oluşturma", "gündem kurma", "gündem hazırlama", "gündem koyma", "gündem koyma ve saptama"],
+    "note": "Owner term kept. Hazar & Sbouh 2020 (Karadeniz Uluslararası Bilimsel Dergi 47, p. 455, citing Yüksel 2007: 576) list the Turkish names in use: ‘gündem belirleme’ (Gökçe 2002, Yüksel 2001, Vural 1999, Atabek 1997, İrvan 1997, Usluata 1994, Çelebi 1990), ‘gündem oluşturma’ (Göz 1996, Bektaş 1996, Alpkaya & Çelebi 1995, Akdemir 1991), ‘gündem kurma’ (Kalender 2000, Hazar 1996), ‘gündem hazırlama’ (Erdoğan & Alemdar 1990), ‘gündem koyma’ (Anık 1994), ‘gündem koyma ve saptama’ (Yumlu 1994). Which name the AUZEF book (Polat 2016) and Yaylagül 2006 use was NOT confirmed (the books were not available)."
+  },
+  "media-agenda": {
+    "en": "media agenda", "tr": "medya gündemi", "status": "check",
+    "note": "‘Medya Gündemi’ and ‘Kamu Gündemi’ appear as keywords and throughout Hazar & Sbouh 2020; used the same way here."
+  },
+  "public-agenda": {
+    "en": "public agenda", "tr": "kamu gündemi", "status": "check",
+    "note": "Hazar & Sbouh 2020 use ‘kamu gündemi’. ‘Kamuoyu gündemi’ is a possible variant but no source opened uses it."
+  },
+  "policy-agenda": {
+    "en": "policy agenda", "tr": "politika gündemi", "status": "check",
+    "note": "Own choice; no Turkish source opened for this exact term. Alternatives a reviewer may prefer: ‘siyasa gündemi’, ‘siyasal gündem’. Course lesson title ‘Gündem İnşası ve Siyasal İletişim’ (agenda-building) is from course.json."
+  },
+  "salience": {
+    "en": "salience", "tr": "belirginlik", "status": "check",
+    "note": "The İletişim Ansiklopedisi entry on second-level agenda-setting (yenimedya.info) uses ‘belirginlik’ (seen in a search excerpt; page not opened in full). No other candidate (‘öne çıkma’, ‘önem’) was found in a source, so none is listed."
+  },
+  "first-level-agenda-setting": {
+    "en": "first-level agenda-setting", "tr": "birinci düzey gündem belirleme", "status": "check",
+    "note": "Mirror of ‘ikinci düzey’ used in the course.json lesson title."
+  },
+  "second-level-agenda-setting": {
+    "en": "second-level agenda-setting", "tr": "ikinci düzey gündem belirleme", "status": "check",
+    "note": "Used in course.json (lesson priming-second-level: ‘Öncüleme ve İkinci Düzey Gündem Belirleme’) and as a title of the İletişim Ansiklopedisi entry (search excerpt). A Turkish source also speaks of ‘niteliklerin gündemi’ (attribute agenda)."
+  },
+  "need-for-orientation": {
+    "en": "need for orientation", "tr": "yönelim gereksinimi", "status": "check",
+    "note": "Hazar & Sbouh 2020 use ‘Yönelim Gereksinimi’ as keyword and section title; their word for the uncertainty component is ‘teredüt’, for which this lesson uses the plainer ‘belirsizlik’."
+  },
+  "obtrusive-issue": {
+    "en": "obtrusive issue", "tr": "doğrudan deneyimlenen (göze çarpan) konu", "status": "check",
+    "note": "Own gloss for Zucker 1978 / Demers et al. 1989; no Turkish source found. English term is repeated in the text."
+  },
+  "unobtrusive-issue": {
+    "en": "unobtrusive issue", "tr": "doğrudan deneyimlenmeyen (göze çarpmayan) konu", "status": "check",
+    "note": "Own gloss; see obtrusive-issue."
+  },
+  "intermedia-agenda-setting": {
+    "en": "intermedia agenda-setting", "tr": "medyalararası gündem belirleme", "status": "check",
+    "note": "Own gloss; no Turkish source opened."
+  },
+  "pseudo-environment": {
+    "en": "pseudo-environment (Lippmann)", "tr": "sözde çevre", "status": "check",
+    "note": "Own gloss for Lippmann’s term. ‘Pictures in our heads’ is rendered ‘kafamızdaki resimler’; an İletişim Ansiklopedisi excerpt gives ‘zihnimizdeki resimler’."
+  },
+  "real-world-cues": {
+    "en": "real-world cues", "tr": "gerçek dünya ipuçları", "status": "check",
+    "note": "Own gloss for Erbring et al. 1980 / Behr & Iyengar 1985 usage."
+  },
+  "agendamelding": {
+    "en": "agendamelding", "tr": "gündem harmanlama (agendamelding)", "status": "check",
+    "note": "Own gloss; English term kept in brackets. Used only in the person files (Shaw, McCombs)."
+  },
+  "agenda-building": {
+    "en": "agenda-building", "tr": "gündem inşası", "status": "owner",
+    "note": "From the course.json lesson title (agenda-building: ‘Gündem İnşası ve Siyasal İletişim’)."
+  },
+  "priming": {
+    "en": "priming", "tr": "öncüleme", "status": "check",
+    "alt": ["önceleme"],
+    "note": "core.json term kept. No source opened uses ‘önceleme’, so it is listed only because core.json mentions it."
+  },
+  "gatekeeping": {
+    "en": "gatekeeping", "tr": "kapı bekçiliği", "status": "check",
+    "alt": ["kapı bekçisi", "eşik bekçiliği"],
+    "note": "core.json: Polat ‘kapı bekçisi’, Yaylagül ‘eşik bekçiliği’ (taken from core.json, not re-verified here)."
+  }
+}

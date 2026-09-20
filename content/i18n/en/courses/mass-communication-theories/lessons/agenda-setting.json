@@ -1,0 +1,813 @@
+{
+  "id": "agenda-setting",
+  "lang": "en",
+  "translation": {
+    "status": "machine",
+    "date": "2026-09-20"
+  },
+  "title": "Agenda-Setting",
+  "slug": "agenda-setting",
+  "description": "Whatever the media put first, we rank as important: agenda-setting from Lippmann to Chapel Hill 1968, from need for orientation to social media.",
+  "claim": "The more space and priority the news media give to certain issues, the more the public tends to see those issues as important: the media influence not what people think, but what they think about.",
+  "keywords": [
+    "agenda-setting",
+    "McCombs",
+    "Shaw",
+    "Chapel Hill",
+    "Lippmann",
+    "Cohen",
+    "media agenda",
+    "public agenda",
+    "need for orientation",
+    "second-level agenda-setting",
+    "priming"
+  ],
+  "updated": "2026-09-20",
+  "timeline": {
+    "lippmann-public-opinion": "Lippmann, Public Opinion: “the pictures in our heads” and the pseudo-environment",
+    "cohen-press-foreign-policy": "Cohen, The Press and Foreign Policy: the “what to think about” sentence",
+    "chapel-hill-study": "Chapel Hill study: 100 undecided voters, nine media sources (September–October 1968)",
+    "poq-article": "McCombs and Shaw, “The Agenda-Setting Function of Mass Media” (Public Opinion Quarterly)",
+    "charlotte-panel": "Three-wave voter panel in Charlotte; birth of the need-for-orientation concept",
+    "funkhouser-1960s": "Funkhouser: press coverage, public opinion and real-world indicators on the issues of the 1960s",
+    "iyengar-experiments": "Iyengar, Peters and Kinder’s television news experiments",
+    "second-level-spain": "Second-level agenda-setting study in the Spanish elections (McCombs and colleagues)"
+  },
+  "cards": [
+    {
+      "id": "hook",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "For six weeks they thought they were friends",
+      "body": "Picture this scene. A small island in the middle of the ocean, the year 1914. A handful of English, French and German people live there. No telegraph cable reaches the island; the mail steamer calls once every sixty days. In mid-September the steamer finally appears, and the whole colony gathers on the jetty, because everyone is curious about the outcome of a court case they read about in the newspaper.\n\nThe captain brings very different news: war broke out in Europe more than six weeks ago. The English and the French are fighting the Germans. And the islanders have spent all that time treating one another like friends.\n\nThis scene is not a historical document; it is how the journalist Walter Lippmann opens his book *Public Opinion* (1922) [[cite:lippmann-1922]]. The lesson: people act not on the real world but on the picture of the world in their heads. The title of the first chapter says as much: “The World Outside and the Pictures in Our Heads.”\n\nWhy is it like this? Because, for Lippmann, the real environment is “too big, too complex, and too fleeting for direct acquaintance” [[cite:lippmann-1922]]. We approach it with maps. Someone else usually draws the map; and on faraway matters such as war, politics and the economy, that someone else is largely the news media.\n\nThis lesson follows a single question: who draws the thick lines on the map, and how far do we trust those thick lines?",
+      "question": {
+        "id": "hook-q",
+        "type": "mcq",
+        "prompt": "On the road to agenda-setting theory, what does Lippmann’s island story show?",
+        "options": [
+          "That the news media often lie on purpose",
+          "That how often the mail steamer arrives determines public opinion",
+          "That people get to know the distant world through simplified pictures received from others, and act accordingly",
+          "That newspaper readers do not like war news"
+        ],
+        "answer": 2,
+        "explain": "The right answer is the third option: the islanders acted wrongly because the picture in their heads had gone out of date. Do not fall for the lying trap: Lippmann says “By fictions I do not mean lies”, meaning that people get to know their environment through representations they build themselves; so the problem is not bad faith but the fact that reality is too big to know directly. The mail steamer is a detail of the story, not its main idea."
+      }
+    },
+    {
+      "id": "cohen-line",
+      "section": "context",
+      "layer": "core",
+      "kind": "text",
+      "title": "One sentence, a hypothesis not yet tested",
+      "body": "In 1963 the political scientist [[person:cohen-bernard|Bernard Cohen]] published his book *The Press and Foreign Policy*. It was based on interviews conducted in 1953–54 and in 1960 with Washington’s foreign correspondents and foreign-policy officials [[cite:cohen-1963]]. According to McCombs’s summary, Cohen had looked qualitatively at how news sources and journalists shape each other’s agendas [[cite:mccombs-1976]].\n\nThe most famous sentence in the book later became the theory’s slogan. According to Cohen, the press may often not succeed in telling people *what to think*, but it is “stunningly successful in telling its readers what to think about” [[cite:mccombs-shaw-1972]].\n\nNote: this sentence was not a finding but an observation. In their 1972 article McCombs and Shaw cite it as the most concise statement of the theory and treat it as a *hypothesis* [[cite:mccombs-shaw-1972]]. The same article quotes a sentence pointing the same way from Kurt and Gladys Engel Lang: “The mass media force attention to certain issues” [[cite:mccombs-shaw-1972]].\n\nSo by the mid-1960s the idea is in the air: Lippmann had spoken of “the pictures in our heads”, and Cohen and the Langs tied it to the steering of attention. The one thing missing was measurement. In 1968 two young associate professors tried exactly that; you will meet them on the next cards.",
+      "question": {
+        "id": "cohen-q",
+        "type": "mcq",
+        "prompt": "For a whole week a newspaper covers only city water cuts on its front page, and says nothing at all about who is responsible for them. According to Cohen’s sentence, what does the newspaper give its reader?",
+        "options": [
+          "A view on who the culprit is (what to think)",
+          "The impression that water cuts are an issue worth dwelling on (what to think about)",
+          "A negative attitude towards the mayor",
+          "Nothing; according to Cohen, the newspaper does not influence its reader"
+        ],
+        "answer": 1,
+        "explain": "Cohen separates choosing issues from voicing opinions. The newspaper voices no opinion, but by pushing the issue forward insistently it signals “this is important”; that is the second option. The first and third options slide towards the “what to think” side, that is, towards what the theory does not claim. The fourth option misreads Cohen’s sentence: Cohen is not saying the media are powerless, but that their power lies elsewhere."
+      }
+    },
+    {
+      "id": "deep-limited-effects",
+      "section": "context",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: an escape route in the “no effects” years",
+      "body": "Reading the first pages of the 1972 article shows why the theory was a clever move in the scientific climate of the day.\n\nThe authors first concede this: the evidence that the media change attitudes deeply during a campaign is far from conclusive, whereas the evidence that voters *learn* something from campaign information is much stronger [[cite:mccombs-shaw-1972]]. Among the sources they rely on are the voter studies of Berelson, [[person:lazarsfeld|Lazarsfeld]] and McPhee, and Trenaman and McQuail’s study of the 1959 British general election [[cite:mccombs-shaw-1972]]. For the flavour of that tradition, see the [[lesson:voting-studies]] lesson.\n\nPeople do not follow the campaign with equal interest either: generally it is the better educated and the more politically interested who actively seek information; for most people, information simply “arrives” without effort [[cite:mccombs-shaw-1972]]. So the issue is not persuasion but learning.\n\nFrom here comes a clever shift: the media may not change the *direction and intensity* of attitudes much, but they can set the *agenda* of the campaign, that is, which attitudes are how salient [[cite:mccombs-shaw-1972]]. The question “Are the media powerless?” thereby turns into the question “What do the media teach?”\n\nMy interpretation: this shift was a way to go beyond the limited-effects findings without quarrelling with them. To see the selective-perception side, you can look at the [[lesson:selective-processes]] lesson."
+    },
+    {
+      "id": "people-time",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "text",
+      "title": "Who and when: five names and a timeline",
+      "body": "The heroes of the story in brief:\n\n- [[person:lippmann|Walter Lippmann]]: journalist; the idea of “the pictures in our heads”.\n- [[person:cohen-bernard|Bernard Cohen]]: political scientist; the “what to think about” sentence.\n- [[person:mccombs|Maxwell McCombs]] and [[person:shaw|Donald Shaw]]: young associate professors of journalism at the University of North Carolina at Chapel Hill; Shaw joined the faculty in 1966, McCombs in 1967 [[cite:weaver-2025]].\n- [[person:lazarsfeld|Paul Lazarsfeld]]: pioneer of voter research; the emblem of the tradition that looked for attitude change.\n\nTimeline:\n\n1. 1922: Lippmann, *Public Opinion* [[cite:lippmann-1922]]\n2. 1963: Cohen, *The Press and Foreign Policy* [[cite:cohen-1963]]\n3. Autumn 1968: the Chapel Hill interviews and the analysis of media content [[cite:mccombs-shaw-1972]]\n4. 1972: the *Public Opinion Quarterly* article; in the same year, the three-wave panel study in Charlotte [[cite:mccombs-shaw-1972]] [[cite:weaver-2025]]\n5. 1973: Funkhouser’s study of the 1960s [[cite:funkhouser-1973]]\n6. 1982: Iyengar, Peters and Kinder’s experiments [[cite:iyengar-peters-kinder-1982]]\n7. 1997: the second-level study in the Spanish elections [[cite:mccombs-et-al-1997]]\n\nA small footnote: according to Weaver, Shaw used to tease McCombs about always being the first author; he would tell how a student abroad once introduced him as “Professor Et Al.”, and he even admitted that he might have “embellished” these stories a little [[cite:weaver-2025]].",
+      "question": {
+        "id": "people-q",
+        "type": "match",
+        "prompt": "Match each name with the contribution most associated with them.",
+        "pairs": [
+          [
+            "Walter Lippmann",
+            "The idea of “the pictures in our heads” and the pseudo-environment (1922)"
+          ],
+          [
+            "Bernard Cohen",
+            "The line about the press’s success at telling us “what to think about” (1963)"
+          ],
+          [
+            "McCombs and Shaw",
+            "The Chapel Hill study of the 1968 election"
+          ],
+          [
+            "Iyengar, Peters and Kinder",
+            "Experiments showing the effect of television news on perceived importance (1982)"
+          ]
+        ],
+        "explain": "The most common mistake is to count Lippmann or Cohen as the founder of the theory. Both prepared the ground of ideas; it was McCombs and Shaw who measured it and named the theory. Another mix-up is in the dates: the experiments date from about fourteen years after Chapel Hill (1982)."
+      }
+    },
+    {
+      "id": "claim",
+      "section": "claim",
+      "layer": "core",
+      "kind": "text",
+      "title": "Core claim: the media’s ranking becomes the ranking in your head",
+      "body": "Let us state the theory in one sentence: the more space, airtime and priority the news media give to certain issues, the more people tend to see those issues as important. The *order of issues in the news* is transferred to the *order of issues in our heads*.\n\nThis sentence has three parts:\n\n1. **Media agenda:** which issues stand out in the news, and how much?\n2. **Public agenda:** which issues do people find important?\n3. **The relation:** the order in the first determines the order in the second; we can call this the transfer of salience.\n\nMcCombs and Shaw’s first rationale is very plain: when readers learn about an issue, they also infer how much importance to give it from the *amount and position* of the coverage [[cite:mccombs-shaw-1972]]. A newspaper’s front page, the first item of a bulletin, works like an “it is important” label.\n\nA small analogy, not evidence, just to make it stick: if a waiter repeats “today’s special” all evening, you start to think that dish matters more than the others on the menu. The dish hasn’t changed, and you didn’t pick it yourself; only the ranking changed.\n\nAlso note that the theory is framed in causal language: if the media’s emphasis rises, the salience of the issue among the public rises too; that is, the media influence the public agenda [[cite:mccombs-1976]]. Measuring whether this really is so, and under what conditions, is the job of the coming cards and lessons.",
+      "question": {
+        "id": "claim-q",
+        "type": "cloze",
+        "prompt": "Complete the sentence with Cohen’s distinction.",
+        "text": "In the language of the theory, the news media are successful not in telling people {{1}}, but in telling them {{2}}.",
+        "blanks": [
+          {
+            "options": [
+              "what to think about",
+              "what to think"
+            ],
+            "answer": 1
+          },
+          {
+            "options": [
+              "what to think about",
+              "which channel to watch"
+            ],
+            "answer": 0
+          }
+        ],
+        "explain": "The heart of the theory is Cohen’s distinction: by pushing issues forward, the media steer *what* people think *about*; dictating *what they should think* is not the theory’s claim. Swapping the two phrases is the trap most often fallen into in exams."
+      }
+    },
+    {
+      "id": "myth-what-to-think",
+      "section": "claim",
+      "layer": "core",
+      "kind": "myth",
+      "title": "Myth: “The media tell us what to think”",
+      "body": "**What people assume:** agenda-setting means the media instilling whatever idea they like into our minds.\n\n**What the evidence says:**\n\n- The core of the theory claims not opinions but an *order of importance*. The 1972 article says so plainly: the media may have little effect on the direction and intensity of attitudes, but by setting the agenda of the campaign they influence the *salience* of attitudes [[cite:mccombs-shaw-1972]].\n- But the “only what about” slogan is not the whole story either. Later research showed two things: a prominent issue can change *the yardstick* by which people judge a leader (priming) [[cite:iyengar-peters-kinder-1982]] [[cite:krosnick-kinder-1990]]. And *which attributes* of an issue the media emphasise can also influence thinking about that issue (second level) [[cite:mccombs-et-al-1997]].\n- The effect is not the same for everyone and on every issue: some people and issues are affected a lot, others little. You will see this in the “need for orientation” and “issue type” cards.\n\n**In short:** agenda-setting is not mind control but *attention management*. But attention management is not a power to sneer at in politics either.\n\nA small self-observation: count the three issues you found “important” last week. How many of them were carried to you by a news feed, a headline or a notification? The theory does not ask which opinion you should adopt; it asks what you take onto your list of things to think about.",
+      "question": {
+        "id": "myth-q",
+        "type": "tf",
+        "prompt": "Agenda-setting theory argues that the media can easily reverse people’s attitudes on an issue.",
+        "answer": false,
+        "explain": "False. The theory’s core claim is not the reversal of attitudes but the transfer of the order of importance of issues; the 1972 article even states plainly that the media may have little effect on the direction and intensity of attitudes. The trap is to confuse the theory with the “media brainwash” view; the historical home of that view is the hypodermic needle (magic bullet) model."
+      }
+    },
+    {
+      "id": "agendas-three",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Three agendas: media, public and policy",
+      "body": "The theory’s key word is *agenda*. An agenda is a list of issues (or events) arranged in order of importance at a given moment [[cite:rogers-dearing-1988]]. Researchers speak of three separate agendas:\n\n- **Media agenda:** how much space and where issues get in newspapers, bulletins and websites. To measure it, content analysis is done: how many stories, how much airtime, which page, was it the first item? The Chapel Hill study used the distinction between “major” and “minor” items for this [[cite:mccombs-shaw-1972]].\n- **Public agenda:** which issues people find important. To measure it, a survey question is asked (something like “what do you think is the most important problem facing the country?”).\n- **Policy agenda:** the issues that parliament, government and decision makers give priority to.\n\nAccording to Rogers and Dearing’s observation, studies generally make one of these three agendas the “variable to be explained” and look at how the others influence it [[cite:rogers-dearing-1988]]. The three-way distinction became firmly established with Dearing and Rogers’ 1996 book [[cite:weaver-2025]].\n\nThis lesson concentrates mainly on the first two, that is, the media and public agendas. How far the media influence the policy agenda depends on conditions: issue type, medium, the form of the story and the political context [[cite:walgrave-van-aelst-2006]]. More on this in the [[lesson:agenda-building]] lesson.\n\nThe common word that ties the three together is **salience**: how far an issue or attribute stands out on an agenda; this is exactly what is transferred ([[concept:salience|salience]]).",
+      "question": {
+        "id": "agendas-q",
+        "type": "mcq",
+        "prompt": "A researcher counts, by issue, the front-page headlines of three national newspapers in March; then she ranks the answers to “What do you think is the most important problem facing the country?” in a survey of a thousand people and compares the two lists. Which two agendas has she compared?",
+        "options": [
+          "The media agenda and the public agenda",
+          "The public agenda and the policy agenda",
+          "The policy agenda and the media agenda",
+          "Only the media agenda; the survey has nothing to do with the agenda"
+        ],
+        "answer": 0,
+        "explain": "The headlines represent the media agenda and the survey answers the public agenda; the right answer is the first option. To measure the policy agenda one would have had to look at the priorities of parliament or the government (bills, budget decisions and the like); that is why the second and third options are wrong. The last option overlooks that the public agenda is measured by survey."
+      }
+    },
+    {
+      "id": "related-terms",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Related concepts: first level, second level, priming, gatekeeping",
+      "body": "Agenda-setting does not stand alone; four concepts orbit it. For now just know what they are; details come in later lessons.\n\n- **First level:** which *issues* are important? The Chapel Hill study is at this level.\n- **Second level:** which *attributes* of an issue or person stand out? In the 1995 Spanish elections, newspapers, television news and political ads influenced voters’ images of the candidates [[cite:mccombs-et-al-1997]]. In another study, the more negative news came out about a country, the more negatively people thought about that country; positive news showed no effect [[cite:wanta-golan-lee-2004]].\n- **Priming:** an area that stands out in the media becomes the yardstick people use to judge a leader. When the Iran–Contra scandal broke in 1986, Central America policy became more heavily weighted in evaluating President Reagan’s performance [[cite:krosnick-kinder-1990]].\n- **Gatekeeping:** how the media agenda is formed: which story passes through the gate and gets on air? You may remember this from the [[lesson:gatekeeping]] lesson. A study examining newspaper coverage of fifty bills in Congress found that in gatekeeping, routine-level forces (for example editors’ news-value judgments) mattered more than the individual characteristics of the writers [[cite:shoemaker-et-al-2001]].\n\nScheufele and Tewksbury compare framing, agenda-setting and priming as neighbouring but separate models of media effects [[cite:scheufele-tewksbury-2007]]. For depth: [[lesson:priming-second-level]] and [[lesson:framing]].",
+      "question": {
+        "id": "related-q",
+        "type": "match",
+        "prompt": "Match each concept with its best-fitting definition.",
+        "pairs": [
+          [
+            "First-level agenda-setting",
+            "Which issues are seen as important?"
+          ],
+          [
+            "Second-level agenda-setting",
+            "Which attributes of the issue or candidate stand out?"
+          ],
+          [
+            "Priming",
+            "The prominent issue becomes the yardstick in judging a leader"
+          ],
+          [
+            "Gatekeeping",
+            "The process of choosing which story gets on air and which does not"
+          ]
+        ],
+        "explain": "A short way to keep the distinction in mind: the first level is *what* is important, the second level is *which side* of the issue is important, priming is *by what* you decide, and gatekeeping is *who* selects the story. In exams, the first level, the second level and priming are the trio most often mixed up."
+      }
+    },
+    {
+      "id": "deep-policy-agenda",
+      "section": "concepts",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: the policy agenda and the ancestry of “agenda-building”",
+      "body": "In the 1980s the word “agenda” opened a separate path in political science. According to Weaver’s historical summary, two political scientists, Cobb and Elder, in their 1983 book *Participation in American Politics: The Dynamics of Agenda-Building*, studied a process they called “agenda-building”; Dearing and Rogers (1996) later called this term “policy agenda-setting” [[cite:weaver-2025]]. These books widened the focus of research from the public agenda alone to the policy agenda and to the question “who sets the media agenda?” [[cite:weaver-2025]].\n\nWalgrave and Van Aelst (2006) tried to build the media’s power over the policy agenda as a “contingent” theory. The input variables: what kind of issue, which medium, what kind of story. At the centre of the model is the political context, that is, the characteristics of the political actors concerned. As outcomes, five kinds of result are predicted, running from “no adoption at all” to “fast and real adoption” [[cite:walgrave-van-aelst-2006]]. So there is no simple rule of the “media made the headline, parliament moved” kind.\n\nThe direction sometimes runs the other way too: in Barberá and colleagues’ study using Twitter data from the 113th US Congress, legislators *follow* the public’s issues rather than steering them; what is more, they turn out to be more responsive to their own supporters than to the general public [[cite:barbera-et-al-2019]].\n\nNote for the lesson: this card is a preview reading for the [[lesson:agenda-building]] lesson. For the exam level, knowing the three agendas above is enough."
+    },
+    {
+      "id": "assumptions",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "text",
+      "title": "The theory’s silent assumptions",
+      "body": "Every theory relies on a few things it does not say out loud. Agenda-setting’s four silent assumptions are these:\n\n1. **The media are not a mirror of reality.** Lippmann’s idea of “the picture in our heads” rests on this. Funkhouser’s study of the 1960s reached a similar point: while press coverage and public interest moved together, neither was in line with real-world indicators; for Vietnam, campus unrest and urban riots, both press coverage and public interest had peaked a year or two before the actual conditions themselves [[cite:funkhouser-1973]] [[cite:mccombs-1976]].\n2. **On distant issues, people have few other sources.** The Chapel Hill authors argue that very few people see the presidential candidates in person, and that information arriving through interpersonal talk is also largely passed on from the media [[cite:mccombs-shaw-1972]].\n3. **Emphasis is a cue.** People infer the importance of an issue from the amount and position of the coverage [[cite:mccombs-shaw-1972]].\n4. **Attention is limited.** A person can hold only a few issues at the top at the same time; McCombs puts this limit at around five to seven issues and refers to Miller’s “seven plus or minus two” [[cite:mccombs-1976]].\n\nOne last warning: these assumptions do not hold “always and for everyone”. The answer to the question of who, when and on which issue comes in the next section, on the “need for orientation” card.",
+      "question": {
+        "id": "assumptions-q",
+        "type": "tf",
+        "prompt": "Agenda-setting theory assumes that the news media reflect the real world one to one; what the theory calls the “agenda” is this reflection.",
+        "answer": false,
+        "explain": "False. The theory assumes just the opposite: the media are a flawed map of reality, and what matters is which regions of that map are drawn thick. Funkhouser’s 1960s finding supports this: press and public interest had come apart from real-world indicators. If the media reflected reality one to one, there would be no need for a separate theory called agenda-setting; the fit between the media and the public would be explained as “reaction to the same reality”."
+      }
+    },
+    {
+      "id": "deep-models",
+      "section": "assumptions",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: three models: awareness, salience, priorities",
+      "body": "In how many different ways can the sentence “the media agenda is transferred to the public agenda” be read? McCombs’s 1976 review has three readings [[cite:mccombs-1976]]:\n\n- **The 0/1 (awareness) model:** only the question “is there news or not?” is asked. If the media do not mention an issue at all, in most cases that issue is not on people’s agenda either. McCombs treats this as a truism; it is not controversial.\n- **The 0/1/2 (salience) model:** heavy media emphasis carries an issue to the upper ranks of people’s minds; but the media’s exact ranking is not copied. The person distinguishes between “very important” and “less important” and does not take over the fine ranking.\n- **The 0/1/2…N (priorities) model:** the boldest reading; the media’s ranking becomes the person’s ranking as it stands. Of course this has a limit: attention capacity is around five to seven issues.\n\nIn the 1972 Charlotte data, the priorities model described the relation between voters’ and the press’s agendas better than the salience model did [[cite:mccombs-1976]].\n\nOne more conceptual distinction: the **intrapersonal agenda** (the issues most important to you personally) and the **interpersonal agenda** (the issues you talk about most with others). The two overlap to a large extent but not completely. According to McCombs, this distinction comes from McLeod, Becker and Byrnes’s 1974 study [[cite:mccombs-1976]].\n\nNote: this is a review written in 1976; the models were debated again in later years. What matters for the exam is to know that “transfer” has not been understood in a single way."
+    },
+    {
+      "id": "steps-mechanism",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "How it works: the agenda’s five-step journey",
+      "body": "Let us follow, step by step, an issue’s journey from the media agenda to your agenda.\n\n1. **Material arrives.** Events, sources, news agencies and even other media enter the newsroom. The media agenda is fed not only by “the world” but also by one another and by political advertising: in the 1990 Texas gubernatorial election, the newspaper agenda influenced the television agenda, and the political-ad agenda influenced both the television news and the newspaper [[cite:roberts-mccombs-1994]].\n2. **Editors select and rank.** Which story gets in (gatekeeping), which one goes first, how many seconds or column inches does it get?\n3. **The audience reads the cues.** The headline, the first item, the length, the repetition. These work like an “it is important” signal [[cite:mccombs-shaw-1972]].\n4. **The public agenda shifts.** The order of issues in your head moves closer to the order of the media you follow. This is what was found in Chapel Hill.\n5. **Consequences appear.** The prominent issue becomes a yardstick for judging leaders (priming) [[cite:iyengar-peters-kinder-1982]]; politicians sometimes take the issue onto their own agendas too, but this depends on conditions [[cite:walgrave-van-aelst-2006]].\n\nA warning: every step is conditional. If one link in the chain is weak (for example, you never saw that story, or you are living the issue first-hand), the following steps may not happen. You will see these conditions on the next card and in the deep cards.",
+      "question": {
+        "id": "steps-q",
+        "type": "order",
+        "prompt": "Put the agenda’s journey in the right order.",
+        "items": [
+          "Material reaches the newsroom from events, sources and other media",
+          "Editors select, rank and foreground stories",
+          "The audience infers the issue’s importance from cues of space, time and repetition",
+          "The order of issues on the public agenda moves closer to the media agenda",
+          "The prominent issue becomes a yardstick for judging leaders (priming)"
+        ],
+        "explain": "The chain of logic: first the material, then selection and ranking, then the audience reading the cue, then the shift of the public agenda, and last the consequences. The most common mistake is to put priming (the final consequence) before the shift of the public agenda: priming requires that the issue first become salient, that is, that the agenda transfer take place."
+      }
+    },
+    {
+      "id": "nfo",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Experiment: whose agenda shifts the most? Need for orientation",
+      "body": "One thing was clear from the start: agenda-setting does not affect everyone equally [[cite:weaver-2025]]. To predict who would be affected more, McCombs and his student David Weaver developed the concept of **need for orientation**: the combination of personal *relevance* and *uncertainty* [[cite:weaver-2025]].\n\nThe logic is simple: if an issue matters to you and you are not sure what to think, your need for a “map” grows; you turn back to the news media and adopt its ranking. Weaver measured this in campaign data from Syracuse as the combination of political interest and uncertainty [[cite:weaver-1980]]. In the 1972 Charlotte panel, the agendas of those who were very interested in the election and very uncertain about whom to vote for were the most similar to the agendas of the Charlotte Observer newspaper and network television news [[cite:weaver-2025]].\n\nThe levels are summarised like this: if interest is low, need for orientation is low; if interest is high but uncertainty is low, it is moderate; if both are high, it is high [[cite:hazar-sbouh-2020]]. A later panel study showed that need for orientation increased the *perceived* salience of media emphasis [[cite:matthes-2008]]. In the Turkish literature the term appears as “yönelim gereksinimi” [[cite:hazar-sbouh-2020]].\n\n**Now you try (three imaginary people).** A local election is coming up:\n\n- **Ayşe:** She is very curious about the election, but has not been able to decide which candidate to choose.\n- **Berk:** He does not care about the election; he does not even open the news.\n- **Ceren:** She cares a great deal about the election and has long since decided whom to vote for.\n\nWhose agenda is most like the news agenda? You will test your guess in the question below.",
+      "question": {
+        "id": "nfo-q",
+        "type": "mcq",
+        "prompt": "Which of the three imaginary people above would be expected to have the agenda most similar to the news agenda?",
+        "options": [
+          "Berk, because he watches no news, so his agenda is unaffected by the media",
+          "Ceren, because she is very interested in the election and therefore trusts the media most",
+          "Ayşe, because both her interest and her uncertainty are high, that is, she has the highest need for orientation",
+          "All three equally, because the theory works the same for everyone"
+        ],
+        "answer": 2,
+        "explain": "In Ayşe, relevance and uncertainty are both high: she has the highest need for orientation, the person in whom the media’s agenda-setting effect is expected to be strongest. Ceren is interested but decided; since her uncertainty is low, her need for orientation is only moderate. Berk’s interest is low, so his need for orientation is low. The last option misses that the theory is conditional, not “the same for everyone”."
+      }
+    },
+    {
+      "id": "deep-obtrusive",
+      "section": "how-it-works",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: is the issue “obtrusive”? Zucker’s hypothesis and how it fared",
+      "body": "Agenda-setting may not be equally strong on every issue. In 1978 Harold Zucker proposed a “variable media effect” theory: the less an issue is *directly experienced* (unobtrusive, that is, not conspicuous in daily life) and the shorter the time it has been prominent in the media, the greater the news’s influence on public opinion about that issue [[cite:zucker-1978]]. Zucker also argued that the belief that the media have little influence on public opinion rests on weak theories and flawed methods, and showed that network television news influenced public opinion on some issues in a pattern consistent with the theory [[cite:zucker-1978]].\n\nImagine: your water bill is rising, you pay it every month; you are living this issue directly (obtrusive). You learn about the election in a faraway country only from the news (unobtrusive). According to the hypothesis, the news’s influence on your opinion should be greater on the second issue. This example is imaginary; it is only there to show the logic.\n\nBut the story does not end here. In 1989 Demers and colleagues tested two rival models: (a) “obtrusive contingency”: the effect decreases as the issue is experienced more. (b) “cognitive-priming contingency”: the opposite, the effect increases. The findings did not support the first model and partly supported the second; the basic agenda-setting hypothesis found only moderate support [[cite:demers-et-al-1989]].\n\nConclusion: the idea that issue type matters lives on, but Zucker’s specific formula is disputed. In the exam this is needed to illustrate the idea of “conditional effects”, not for memorising details."
+    },
+    {
+      "id": "deep-time-lag",
+      "section": "how-it-works",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: how long does the effect take? Two different answers",
+      "body": "When does a rain of news show up in the public agenda? This “time lag” question produced an interesting debate.\n\nMcCombs’s 1976 review summarises the studies up to that day like this: when media agendas were content-analysed over the six months before a survey and compared with personal agendas, going back from the survey date the correlation rises quickly in the first two months; from the second to the sixth month it rises only slightly; and for material older than six months there is almost no relation between the media and personal agendas [[cite:mccombs-1976]]. So the effect looks cumulative.\n\nWinter and Eyal (1981), on the other hand, compared New York Times front-page content with national public opinion for 1954–1976: they found a strong agenda-setting effect on civil rights, and the optimum effect span turned out to be the *four to six weeks* immediately before the survey. This finding contradicted claims of a longer cumulative effect [[cite:winter-eyal-1981]].\n\nHow do the two reconcile? Different issue, different data, different measurement. My inference (the sources do not state it this plainly): the span of the effect is not a fixed number; it varies with the issue, the medium and the way of measuring. If an exam asks “immediately, or cumulatively?”, the safe answer is: studies have found different spans."
+    },
+    {
+      "id": "chapel-hill",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "story",
+      "title": "Autumn 1968, Chapel Hill: a hundred interviews, nine media",
+      "body": "September 1968. The US presidential election is weeks away, with Nixon, Humphrey and Wallace on the stage. In the town of Chapel Hill, North Carolina, two young associate professors of journalism want to test a question: *do the issues voters regard as “the real matter” overlap with the issues the news pushes forward?*\n\nThe design was as follows [[cite:mccombs-shaw-1972]]:\n\n- **Sample:** people picked at random from the registered-voter lists in five of the town’s precincts; the precincts were chosen to represent the town economically, socially and racially. Between 18 September and 6 October, **100 interviews** were completed.\n- **Who?** A filter question separated those who had not yet firmly decided whom to vote for; that is, those assumed to be the most open to campaign information.\n- **Question:** Roughly this: “What are you most worried about these days? Whatever the politicians say, what are the two or three main things the government should be dealing with?” The emphasis is on “whatever the politicians say”: so that the answers would be independent of the candidates’ slogans.\n- **Media:** a preliminary study in spring 1968 showed that almost all of Chapel Hill’s political news knowledge came from nine sources: four newspapers from Durham and Raleigh (Durham Morning Herald, Durham Sun, Raleigh News and Observer, Raleigh Times), the New York Times, *Time*, *Newsweek*, and the NBC and CBS evening news. Their content between 12 September and 6 October was coded.\n\nWhy a single town? The authors say this would keep regional differences and differences in media performance under control [[cite:mccombs-shaw-1972]].",
+      "question": {
+        "id": "chapel-q",
+        "type": "mcq",
+        "prompt": "Why did the researchers take only voters who had not yet decided into the sample?",
+        "options": [
+          "Because decided voters refused to take part in the survey",
+          "Because it had earlier been proven that undecided voters follow the media the most",
+          "Because the number of undecided voters in the town was very small",
+          "Because undecided voters were assumed to be the people most open and most susceptible to campaign information"
+        ],
+        "answer": 3,
+        "explain": "The article states the rationale plainly: the undecided were chosen because they were *assumed* to be the people most open or most susceptible to campaign information. The other options are made-up reasons that do not appear in the article. This choice has a cost too: the sample does not represent all voters; you will see this again on the critique card."
+      }
+    },
+    {
+      "id": "chapel-hill-results",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "text",
+      "title": "Results: 0.967 and 0.979, but the really interesting part is the selective-perception test",
+      "body": "At first glance the results are striking [[cite:mccombs-shaw-1972]]:\n\n- The correlation between the **“major” news emphasis** the media gave to the main campaign issues and the importance voters gave to those issues was **+0.967**.\n- For **“minor” news** the correlation was **+0.979**.\n\nThe closer a correlation gets to 1, the more the two rankings resemble each other. But note: these numbers were computed over a handful of main issue categories and at the aggregate level.\n\nThe authors’ real rigour lies elsewhere: they tested the possibility of *selective perception*. The idea: if voters who lean towards a candidate but have not yet decided (45 people) look only at the news about their own candidate, their ranking should resemble the ranking of that news most. Had that been so, the result would have favoured selective perception rather than agenda-setting. The finding came out the other way round: in 18 of 24 comparisons, voters agreed better not merely with the news about their own candidates but with *the composite of all the news* [[cite:mccombs-shaw-1972]]. Although the three candidates’ issue emphasis differed greatly, voters’ rankings resembled the composite media ranking.\n\nThe authors also wrote one thing themselves: these correlations do *not prove* agenda-setting; they present a picture consistent with the conditions that should exist if agenda-setting were taking place [[cite:mccombs-shaw-1972]]. This subtlety will be useful in the exam and on the critique card.",
+      "question": {
+        "id": "results-q",
+        "type": "mcq",
+        "prompt": "If selective perception were correct, what would we expect to see in the Chapel Hill data?",
+        "options": [
+          "Voters’ ranking giving its highest correlation with the composite of all the news",
+          "Voters’ ranking giving its highest correlation with the news most about their own candidate",
+          "No correlation at all between voters’ ranking and the news",
+          "Undecided voters not differing from decided voters"
+        ],
+        "answer": 1,
+        "explain": "Selective perception means people looking more at the news that belongs to their own side; in that case the rankings would overlap most with that news: the second option. The first option is exactly what was found (18 of 24 comparisons) and supports the agenda-setting interpretation. The third option would be the result not of selective perception but of the media having no influence at all; the fourth option is unrelated to this test."
+      }
+    },
+    {
+      "id": "deep-chapel-design",
+      "section": "evidence",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: coding rules and the surprising share of campaign-analysis news",
+      "body": "Someone who reads the article carefully sees details that textbooks skip [[cite:mccombs-shaw-1972]].\n\n**Coding.** News and commentary were split into the same 15 categories as the voters’ answers; besides the main campaign issues there were categories such as “the campaign itself”. The definition of a “major” item varied by medium:\n\n- Television: an item of 45 seconds or longer and/or one of the three lead items.\n- Newspaper: a front-page headline, or an item on any page with a three-column headline and at least a third of it (at least five paragraphs) devoted to political news.\n- News magazine: an item longer than a column, or the opening item of the news section.\n- Editorial page: the lead editorial and pieces with at least five paragraphs devoted to the political campaign.\n\nA “minor” item was one that was political but fell below these criteria. Intercoder agreement was above .90 for both major and minor items.\n\n**A surprising finding.** The authors note, and warn, that a significant part of the campaign news was devoted not to issues but to *analysis of the campaign itself* (“does he have a chance of winning?”): 35% of Wallace’s major items, 30% of Humphrey’s and 25% of Nixon’s were of this kind. Someone who takes campaign news for issue news may be surprised.\n\n**Agreement between media.** Media of the same type (newspaper with newspaper) resembled one another more; correlations between different types were lower. The authors interpret this, especially for major items, as a professional consensus on news value."
+    },
+    {
+      "id": "later-work",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "text",
+      "title": "Afterwards: replications, cracks and the reality check",
+      "body": "After 1972 the research snowballed. Three key links:\n\n**Funkhouser (1973): where is reality?** He examined the issues of the 1960s. Press coverage and public opinion moved together; but neither was in line with real-world indicators: for Vietnam, campus unrest and urban riots, both press and public interest had peaked a year or two before the actual conditions themselves [[cite:funkhouser-1973]] [[cite:mccombs-1976]]. The abstract of his second article points the same way: issues that filled the headlines in a period did not necessarily deserve the attention they were getting at the time [[cite:funkhouser-1973b]].\n\n**Charlotte 1972: watching over time.** In the panel study that followed the same voters over three waves [[cite:weaver-2025]], McCombs found an effect of newspapers on voters’ agendas over time and found no such effect for television; but towards October the television agenda matched voters’ agendas better. His reading: newspapers lead, and towards the end share the stage with television [[cite:mccombs-1976]].\n\n**McLeod, Becker and Byrnes (1974): looking at the individual.** They compared the readers of two newspapers whose content emphasis differed in the 1972 campaign. The result was only moderate support: although “honesty in government” was emphasised in one newspaper, it did not excite the readers of either paper much; the differences appeared mostly among partisans with low interest and motivation who depended on the paper for news [[cite:mcleod-becker-byrnes-1974]].\n\nThe total message: agenda-setting lives, but conditionally.",
+      "question": {
+        "id": "later-q",
+        "type": "mcq",
+        "prompt": "In terms of the assumption that “the media reflect reality as it is”, what did Funkhouser’s study of the 1960s show?",
+        "options": [
+          "Press coverage matched real-world indicators exactly",
+          "Public opinion moved completely independently of the press",
+          "Television was stronger than newspapers on every issue",
+          "Press coverage and public interest moved together, but both diverged from real-world indicators"
+        ],
+        "answer": 3,
+        "explain": "According to Funkhouser, the press and public opinion moved together but neither was in line with real-world indicators (for Vietnam, campus unrest and urban riots, interest peaked a year or two before the actual conditions). The first option is the exact opposite; the second option denies that the media and public opinion moved together; the third option reverses the television–newspaper comparison (the Charlotte finding that the newspaper came first)."
+      }
+    },
+    {
+      "id": "causal-direction",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "text",
+      "title": "The question of direction: is the media pulling the public, or the public the media?",
+      "body": "A correlation does not tell direction: are the media pulling the public, or are newspapers following the reader’s interest? Researchers tried to untie this knot in three ways.\n\n**1) Looking at time.** The cause must come before the effect. Winter and Eyal found that on civil rights, public interest followed newspaper coverage; the best effect span was four to six weeks [[cite:winter-eyal-1981]].\n\n**2) Taking the real world into account.** Behr and Iyengar, with long-run data on energy, inflation and unemployment, showed this: television news influences public concern and not the other way round; items presented as the lead story are markedly stronger than ordinary items; and real-world conditions influence public opinion both directly and indirectly, by shaping news coverage [[cite:behr-iyengar-1985]].\n\n**3) Running an experiment.** An experiment is the design that can separate cause from effect: the researcher decides for themselves who is exposed to which news. Iyengar, Peters and Kinder’s two experiments showed that television news profoundly affects which problems viewers find important, and that problems emphasised in the evening news become more heavily weighted in evaluating the president’s performance [[cite:iyengar-peters-kinder-1982]]. The authors present this as a confirmation of Lippmann’s doubt of half a century earlier [[cite:iyengar-peters-kinder-1982]].\n\nNot every result came out one-directional: for blogs and mainstream media, as we will see later, the relation was two-directional.",
+      "question": {
+        "id": "causal-q",
+        "type": "mcq",
+        "prompt": "Which of the following most strongly supports the claim that “the news set the public agenda” in terms of causality?",
+        "options": [
+          "Randomly dividing participants into groups, having one group watch news that emphasises a certain issue, then comparing perceived importance between the groups",
+          "Finding a high correlation between the news ranking and the survey ranking in an election week",
+          "Asking newspaper readers “which issue do you find important?”",
+          "Comparing two newspapers’ headlines"
+        ],
+        "answer": 0,
+        "explain": "Random assignment and controlled exposure is the only design that rules out direction and third variables, as in Iyengar, Peters and Kinder’s experiments. A high correlation (like Chapel Hill’s +0.967) shows a relationship but not its direction; this is the most tempting wrong option. A survey question measures only the public agenda, and a comparison of headlines only media agendas: neither can establish cause and effect."
+      }
+    },
+    {
+      "id": "critique-design",
+      "section": "critique",
+      "layer": "core",
+      "kind": "text",
+      "title": "A fair critique: what did Chapel Hill not prove?",
+      "body": "Agenda-setting is one of the most researched theories; but a good theory knows its limits too. Let us put the criticisms and the defence side by side.\n\n**Criticism 1 — Strength of evidence.** Chapel Hill was a sample of a hundred people, from a single town, made up of undecided voters; the relations were computed over a handful of main issue categories and at the aggregate level (media total against voter total). The authors said so themselves: comparing aggregate units was enough for a first test, but later research had to move from the societal level to the individual level [[cite:mccombs-shaw-1972]].\n\n**Criticism 2 — The effect may be weak at the individual level.** When McLeod and colleagues looked at individuals they found only moderate support; the effect was concentrated among readers with low interest and motivation [[cite:mcleod-becker-byrnes-1974]].\n\n**Criticism 3 — Issue type.** Zucker’s hypothesis that “the effect is greater on issues not directly experienced” was attractive; but Demers and colleagues could not support this “obtrusiveness” hypothesis [[cite:demers-et-al-1989]].\n\n**The defence.** The authors answered the objection that the relationship is “spurious” like this: the voter has very limited ways of following the agenda independently of the media, because few people see the candidates in person and interpersonal information is largely passed on from the media. Moreover, although sharp differences between journalists’ news values and readers’ interests are known, a “perfect fit” turned up, which points to the media coming first. Since five of the nine media are national and the other four are not based in Chapel Hill, it is easier to argue that voters fitted their judgment to the media than the reverse [[cite:mccombs-shaw-1972]].",
+      "question": {
+        "id": "critique-q",
+        "type": "mcq",
+        "prompt": "A friend says “McCombs and Shaw proved in 1972 that the media set the agenda.” Which is the most accurate correction?",
+        "options": [
+          "He is right; the 0.967 correlation proves causality.",
+          "Wrong; because the study covered only decided voters.",
+          "The authors themselves wrote that the correlations do not prove agenda-setting and present a picture consistent with the theory.",
+          "Wrong; because no correlation was computed in the article at all."
+        ],
+        "answer": 2,
+        "explain": "The article’s discussion section says that the agenda-setting function is not proved by these correlations, but that the evidence is consistent with the conditions that should be found if agenda-setting were at work: the third option. The first option confuses correlation with causation; the second misreports the sample (there were undecided voters); the fourth ignores the article’s main result (+0.967 and +0.979)."
+      }
+    },
+    {
+      "id": "critique-lab",
+      "section": "critique",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Thought experiment: inflation in the headlines and in your head",
+      "body": "Imagine: in a fictional country prices are rising fast. Newspapers carry inflation to the headlines; in public opinion polls inflation comes first as “the most important problem”. The two lists look very much alike. Is this agenda-setting?\n\nThere are three candidate explanations:\n\n1. **The headlines influenced the public.** (Agenda-setting.)\n2. **The public lives the prices, and the newspapers reflect the public’s troubles.** (Reverse causation.)\n3. **Real prices influenced both.** (A third variable: real-world cues.)\n\nNow the hard part: can you design data that separates these three explanations? A few hints:\n\n- *Time order:* did the public’s worry rise *after* the headlines, or before?\n- *Control:* what would happen if prices stayed the same and only coverage changed (or the reverse)?\n- *Experiment:* what if we had people with the same experience of prices watch different news?\n\nThe answer of real studies points this way too: in Behr and Iyengar’s data television news influenced concern, but real conditions also had an effect, both directly and by shaping news coverage [[cite:behr-iyengar-1985]]. So the first and the third explanation can be true at the same time; what is wrong is to say “only one”.",
+      "question": {
+        "id": "critique-lab-q",
+        "type": "mcq",
+        "prompt": "Which observation most weakens the explanation “only real prices drive both the headlines and public worry”?",
+        "options": [
+          "Inflation headlines and public worry rose together within the same month.",
+          "Most people in the poll said they felt the price rises when shopping for groceries.",
+          "Newspapers gave inflation only the back pages.",
+          "During a period when prices stayed constant, public worry rose a few weeks after a newspaper group started reporting on inflation."
+        ],
+        "answer": 3,
+        "explain": "If coverage changes while prices are constant and worry then rises, the “only real prices” explanation (the third variable) weakens and the time order supports agenda-setting: the fourth option. The first option fits all three explanations, so it does not discriminate. The second option strengthens the real-world cue; the third option is not directly related to the issue."
+      }
+    },
+    {
+      "id": "deep-what-paper-claimed",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: what the 1972 article said, and what textbooks say",
+      "body": "A theory’s folklore drifts away from its source over time. Going back to the 1972 article, five differences stand out [[cite:mccombs-shaw-1972]]:\n\n1. **They did not say “we proved it.”** The first sentence of the discussion section: the existence of an agenda-setting function is not proved by these correlations; the evidence is consistent with the conditions that should exist if agenda-setting were at work.\n2. **They said “hypothesis.”** Cohen’s slogan appears in the article as the theory’s hypothesis. The authors also write that this study was a first test comparing aggregate units, and that the next step should be matching at the individual level.\n3. **They tested rival explanations.** They looked for an answer, one by one, to the objections of selective perception and of “the media merely reflect the audience’s interest”.\n4. **They described themselves this way.** The article describes itself primarily as a piece of the sociology of politics and mass communication; it also notes that the psychological data collected stayed in the background.\n5. **They kept their distance on attitudes.** The statement that “the media may have little effect on the direction and intensity of attitudes” became contested years later through priming and second-level studies. McCombs, Shaw and Weaver (2014) now speak of seven distinct aspects of the theory [[cite:mccombs-shaw-weaver-2014]].\n\nThere are two dangers in an exam answer: (a) saying “it was proved”, (b) reducing the theory to “the media tell us what to think”."
+    },
+    {
+      "id": "today-networks",
+      "section": "today",
+      "layer": "core",
+      "kind": "text",
+      "title": "The agenda in the social media age: the arrow is no longer one-way",
+      "body": "In 1968 the agenda was a few newspapers and two television channels. Today everyone is both audience and broadcaster. Has the theory collapsed? Documented research shows not a collapse but a *network* picture.\n\n- **Neuman and colleagues (2014):** in 2012 they tracked 29 political issues across traditional and social media with big data. Agenda-setting was not a one-way pattern from traditional media to the masses but a complex and dynamic interaction; the attention rhythms of the two environments were related but moved to significantly different “drummers” [[cite:neuman-et-al-2014]].\n- **Wallsten (2007):** in the 2004 US campaign he tracked 35 issues in 10 popular and 50 less-known blogs; on most issues he found not a one-way but a two-way relation between mainstream media and blog agendas [[cite:wallsten-2007]].\n- **Conway, Kenski and Wang (2015):** in the 2012 primaries they saw a “symbiotic” relation between the candidates’ Twitter accounts, the parties and the major newspapers; the lags varied by issue: on some issues traditional media followed the candidates, on others Twitter anticipated the agenda [[cite:conway-et-al-2015]].\n- **Barberá and colleagues (2019):** they examined legislators’ and the public’s Twitter issues in the 113th US Congress: legislators *follow* the public’s agenda rather than steering it, and are more responsive to their own supporters than to the general public [[cite:barbera-et-al-2019]].\n\nThe common message: the media agenda is still important; but public, politician and journalist feed one another. The answer to “who sets the agenda?” is often “all of them, in turn”.",
+      "question": {
+        "id": "networks-q",
+        "type": "mcq",
+        "prompt": "A commentator says “Twitter’s agenda runs the newspapers all by itself.” What does the finding of Neuman and colleagues on 29 issues in 2012 say against this claim?",
+        "options": [
+          "It shows that social media have wiped out traditional media’s agenda-setting power entirely.",
+          "It shows that the traditional and social media agendas are related but that their rhythms differ significantly; the influence is not one-way.",
+          "It shows that social media operate wholly independently of traditional media.",
+          "It shows that the Twitter agenda is always set by the newspapers."
+        ],
+        "answer": 1,
+        "explain": "Neuman and colleagues did not find a one-way model; the agendas were related but moved to different rhythms: the second option. The commentator’s claim is a one-way claim saying “Twitter runs the newspapers”; the fourth option says the opposite but makes the same mistake, one-directionality. The first and third options are also over-readings: there was a relation between the agendas; traditional media neither lost their influence nor turned out to be wholly independent of social media."
+      }
+    },
+    {
+      "id": "today-trending",
+      "section": "today",
+      "layer": "core",
+      "kind": "story",
+      "title": "Whose agenda is the trending list? Twitter in 2009",
+      "body": "When people say “agenda” on social media, “trending topics” come to mind. Is this list the public’s own voice, or an echo of the news agenda?\n\nIn 2010 Kwak and colleagues published a study for which they crawled the whole of Twitter: 41.7 million user profiles, 4,262 trending topics and 106 million tweets [[cite:kwak-et-al-2010]]. They classified the trending topics by the period in which they were active and by tweet pattern, and found that **more than 85% of the topics were “headline news” or “persistent news”** [[cite:kwak-et-al-2010]]. Headline news: breaking developments. Persistent news: topics that stay constantly on the agenda, such as sports teams, cities and brands. The authors read this as users mostly talking about headline news and reacting to fresh news [[cite:kwak-et-al-2010]].\n\nSo even on a platform called “everyone’s voice”, the most visible agenda was largely the news agenda. But this is a snapshot of 2009; it cannot be carried directly over to today’s personalised feeds.\n\nTwo documents from later years:\n\n- In 2015, among US online news sources, partisan online media played a decisive role; the *New York Times* and the *Washington Post* no longer controlled the agenda, they were following partisan media [[cite:vargo-guo-2017]].\n- In the 2016 election, fake news sites established a close agenda relationship with fact-based media in Trump coverage, but not in Clinton coverage; according to the authors, rather than an original agenda-setting role, they added noise to an environment that was already sensational [[cite:guo-vargo-2020]].\n\nWhat about algorithms? In personalised feeds, not everyone sees the same agenda; how this affects the theory is an open question. In 2025 a journal took this question to a special issue on artificial intelligence and chatbots [[cite:weaver-2025]]; the results are outside the scope of this lesson. (This last paragraph is reasoning, not a finding.)",
+      "question": {
+        "id": "trending-q",
+        "type": "tf",
+        "prompt": "In Kwak and colleagues’ 2009 data, most of Twitter’s trending topics consisted of everyday private chat and personal posts.",
+        "answer": false,
+        "explain": "False. More than 85% of the trending topics were headline news or persistent news; that is, what we call “the public’s own agenda” largely reflected the news agenda. The trap is to think that social media produce an agenda independent of the news. But it is not a lasting conclusion either: this 2009 data cannot be taken as directly valid for today’s algorithmic feeds."
+      }
+    },
+    {
+      "id": "deep-intermedia",
+      "section": "today",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: who sets the media agenda? Intermedia agenda-setting",
+      "body": "In the early period the “media agenda” was thought of as *data*; later it itself became something *to be explained*. So who builds the agenda in newsrooms?\n\n**Intermedia agenda-setting:** different news organisations influencing one another’s agendas. Roberts and McCombs (1994) measured this in the 1990 Texas gubernatorial campaign: they found a +0.734 correlation between the newspaper agenda of the first period and the television agenda of the second period, and +0.638 between the political-ad agenda of the first period and the newspaper agenda of the second; as the second source influencing the television news agenda, television political ads also came out at +0.524. So even the candidates’ own ads influenced the news agenda [[cite:roberts-mccombs-1994]].\n\n**Online:** Vargo and Guo (2017) found that among US online news sources in 2015 the media agendas were highly homogeneous and reciprocal; the influence varied by medium type, issue type and period [[cite:vargo-guo-2017]]. Conway and colleagues (2015), for their part, saw a symbiotic relation between Twitter and newspapers [[cite:conway-et-al-2015]].\n\n**Theoretical link:** these questions are “agenda-building” questions and are covered in the next lesson [[lesson:agenda-building]]. Its relation to gatekeeping is in the [[lesson:gatekeeping]] lesson.\n\nFor the exam: if asked “what factors influence the media agenda?”, you can list: news sources (like Cohen’s Washington correspondents), other media, political advertising, gatekeepers and news routines."
+    },
+    {
+      "id": "turkey-studies",
+      "section": "turkey",
+      "layer": "core",
+      "kind": "text",
+      "title": "Two studies from Turkey: when the agenda is put to the test",
+      "body": "Agenda-setting has been tested in Turkey too. Here are two studies whose full texts we read; both are instructive, along with their limits.\n\n**1) There is no single media agenda: the coalition talks after 7 June 2015.** And Algül examined, by content analysis over a 57-day period, the coalition-talks stories on the front pages of six newspapers (Sabah, Hürriyet, Cumhuriyet, Zaman, Yeni Şafak, Sözcü, all national dailies in Turkey) between 6 July and 31 August 2015, after the 7 June 2015 general election. The newspapers’ agendas differed from one another; the headlines contained commentary; the placement of stories, headline approaches, the actors used and the way the parties were treated varied with editorial policy [[cite:algul-2016]]. In the lesson’s language: there is no single list called “the media agenda”; it can diverge by outlet.\n\n**2) The public agenda and the perceived media agenda.** Hazar and Sbouh (2020) surveyed 740 communication-faculty students in all, 386 from Ankara Hacı Bayram Veli University and 354 from An-Najah University in Palestine. They compared the students’ own agendas with the issues they thought “the media put most emphasis on”, and wrote that the similarity was low, that is, the theory was not sufficiently effective in this sample [[cite:hazar-sbouh-2020]]. When the same survey asked where they got current information, 75% said social media; television came to 10%, social circle 8.9%, newspapers and magazines 5% and radio 1.1% [[cite:hazar-sbouh-2020]].\n\n**Note:** in the second study the media agenda was measured not by content analysis but by the students’ *perception*; the authors themselves point out that this departs from the classic approach [[cite:hazar-sbouh-2020]]. The sample is only communication students. So this does not mean “the theory has been refuted”, but “no overlap came out in this design”.",
+      "question": {
+        "id": "turkey-q",
+        "type": "mcq",
+        "prompt": "What was the main difference of the Hazar and Sbouh (2020) study from the classic agenda-setting design?",
+        "options": [
+          "It measured the media agenda by participants’ perception, not by content analysis",
+          "It measured the public agenda by observation, not by a survey",
+          "It examined only television news",
+          "It sampled only undecided voters"
+        ],
+        "answer": 0,
+        "explain": "The classic approach (like Chapel Hill) first analyses media content and then compares it with the public agenda; this study measured the media agenda through students’ perception, and the authors point this out themselves. The other options are not in the study’s design: the public agenda was measured by survey, the sample was students, not voters, and it was not only television that was looked at."
+      }
+    },
+    {
+      "id": "exam-patterns",
+      "section": "exam",
+      "layer": "core",
+      "kind": "text",
+      "title": "How it is asked in the exam: patterns, traps, confused pairs",
+      "body": "In AUZEF-style questions (AUZEF is the İstanbul University open and distance education faculty), agenda-setting mostly comes in these five patterns.\n\n**1) “What is the theory’s basic claim?”** Correct: the media influence what people think *about*. Trap: “determine what they think”.\n\n**2) “Who, when?”** McCombs and Shaw: the 1968 election (data), 1972 (article), Chapel Hill. Cohen: 1963. Lippmann: 1922. Traps: mixing up 1968 and 1972; counting Lippmann or Cohen as the founder of the theory (both are the ground of ideas); counting Lazarsfeld as the theory’s precursor (his name stands for the limited-effects tradition).\n\n**3) “The Chapel Hill sample?”** 100 undecided voters. Traps: “1000 voters”, “decided voters”, “New York”.\n\n**4) “Three agendas?”** Media, public and policy agenda.\n\n**5) “Which is which theory?”** Agenda-setting is the *order* of issues. Framing is *how* an issue is presented ([[lesson:framing]]). Priming is the prominent issue becoming the *yardstick* of evaluation. Cultivation is long-term television viewing shaping one’s worldview ([[lesson:cultivation]]). The spiral of silence is the fear of being left in the minority ([[lesson:spiral-of-silence]]).\n\n**Names.** In the Turkish literature the same concept has been called not only “gündem belirleme” but also names such as “gündem oluşturma”, “gündem kurma”, “gündem hazırlama” and “gündem koyma”; one article lists them with their sources [[cite:hazar-sbouh-2020]]. According to our course map, this topic is in the ninth unit of the AUZEF book (Polat 2016), and agenda-building and political communication are also counted among that unit’s topics. In the exam, write the name the book uses.",
+      "question": {
+        "id": "exam-q",
+        "type": "mcq",
+        "prompt": "An exam question asks “which is correct?” about McCombs and Shaw’s Chapel Hill study. Which option is correct?",
+        "options": [
+          "It was done in 1968 with 1,000 decided voters and was based on Lippmann’s data.",
+          "It was done in New York in 1972 and examined television news.",
+          "In autumn 1968, 100 undecided voters were interviewed; the article was published in 1972.",
+          "It was an experimental study; participants were made to watch different news."
+        ],
+        "answer": 2,
+        "explain": "The interviews were carried out between 18 September and 6 October 1968 with 100 undecided voters; the article was published in 1972: the third option. The first option enlarges the sample, changes the voter type and makes Lippmann a data source (Lippmann is a 1922 author). The second option mixes up place, year and medium type. The fourth option confuses a survey-and-content-analysis study with Iyengar and colleagues’ experiments of 1982."
+      }
+    },
+    {
+      "id": "summary",
+      "section": "summary",
+      "layer": "core",
+      "kind": "summary",
+      "title": "Summary card",
+      "body": "- **Claim:** the more the media emphasise an issue, the more the public tends to see it as important: not what to *think*, but what to think *about*.\n- **Roots:** Lippmann (1922), “the pictures in our heads”; Cohen (1963), the “what to think about” sentence.\n- **Study:** McCombs and Shaw, Chapel Hill 1968; 100 undecided voters, nine media; correlations +0.967 (major news) and +0.979 (minor news); in the selective-perception test, 18 of 24 comparisons pointed towards agenda-setting. The authors did not say “we proved it.”\n- **Three agendas:** media, public, policy.\n- **Conditions:** need for orientation = relevance + uncertainty; issue type is disputed; the time lag varies from study to study.\n- **Tests:** Funkhouser’s mismatch with real-world indicators; the Charlotte panel; Behr–Iyengar; the Iyengar–Peters–Kinder experiments.\n- **Today:** network-like, two-way; in the 2009 Twitter data more than 85% of trending topics were news items.\n- **Turkey:** the media agenda diverges by outlet; in a student sample the perceived media agenda and the public agenda overlapped little.\n- **Exam:** what about ≠ what; 1968 data, 1972 article; 100 undecided; three agendas; the distinction between framing, priming and cultivation.",
+      "question": {
+        "id": "summary-q",
+        "type": "cloze",
+        "prompt": "Complete the summary.",
+        "text": "In the 1968 Chapel Hill study of {{1}} undecided voters, the correlation for major news items was +{{2}}.",
+        "blanks": [
+          {
+            "options": [
+              "1,000",
+              "100",
+              "45"
+            ],
+            "answer": 1
+          },
+          {
+            "options": [
+              "0.500",
+              "0.967",
+              "0.100"
+            ],
+            "answer": 1
+          }
+        ],
+        "explain": "The number of interviews was 100; 45 was the size of the subgroup leaning towards a candidate (used in the selective-perception test). The correlation for major news was +0.967 and for minor news +0.979. Mixing up 100 and 45, and the two correlations, is a typical exam error."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "qz-1",
+      "type": "mcq",
+      "prompt": "Which of the following best summarises the basic claim of agenda-setting theory?",
+      "options": [
+        "The media quickly reverse an audience’s view on an issue.",
+        "The media only reinforce views the audience already holds.",
+        "The emphasis the media give to issues influences how important the audience considers those issues.",
+        "The media determine which channel the audience watches."
+      ],
+      "answer": 2,
+      "explain": "The theory says the order of importance of issues in the media is transferred to the public’s order of importance: the third option. The first option is the “strong effects / brainwashing” view, not the theory’s claim. The second option belongs to the “reinforcement” approach, that is, to the limited-effects tradition. The fourth is about the audience’s channel choice and is unrelated to the theory."
+    },
+    {
+      "id": "qz-2",
+      "type": "tf",
+      "prompt": "In their 1972 article, McCombs and Shaw wrote that the +0.967 correlation proved that the media set the agenda.",
+      "answer": false,
+      "explain": "False. The authors wrote that the agenda-setting function is not proved by these correlations, but that the evidence is consistent with the conditions that should be found if agenda-setting were at work. They also noted that aggregate units were compared and that the next step should be the individual level. The trap is to count a high correlation automatically as causality."
+    },
+    {
+      "id": "qz-3",
+      "type": "match",
+      "prompt": "Match each study with its main finding.",
+      "pairs": [
+        [
+          "Funkhouser (1973)",
+          "Press and public interest moved together but diverged from real-world indicators"
+        ],
+        [
+          "Winter and Eyal (1981)",
+          "On civil rights the best effect span was four to six weeks before the survey"
+        ],
+        [
+          "Behr and Iyengar (1985)",
+          "Television news influenced public concern, not the other way round"
+        ],
+        [
+          "Iyengar, Peters and Kinder (1982)",
+          "In experiments, television news changed perceived importance and the yardsticks for judging the president"
+        ],
+        [
+          "Demers and colleagues (1989)",
+          "No support was found for the “obtrusiveness” hypothesis"
+        ]
+      ],
+      "explain": "These five studies represent the “wave of testing” that came after the theory’s first evidence: the reality check (Funkhouser), time lag (Winter–Eyal), direction and real-world cues (Behr–Iyengar), experiment (Iyengar and colleagues), issue type (Demers and colleagues). The most often confused pair is time lag and the question of direction: Winter–Eyal studied the span, Behr–Iyengar the direction."
+    },
+    {
+      "id": "qz-4",
+      "type": "order",
+      "prompt": "Put the following in order from oldest to newest.",
+      "items": [
+        "Lippmann, Public Opinion",
+        "Cohen, The Press and Foreign Policy",
+        "The Chapel Hill interviews and media content coding",
+        "Funkhouser’s study of the 1960s",
+        "Iyengar, Peters and Kinder’s experiments",
+        "The second-level agenda-setting study in the Spanish elections"
+      ],
+      "explain": "The order: 1922, 1963, 1968, 1973, 1982, 1997. The most common mistake is to put Chapel Hill at 1972: 1972 is the year the article was published; the data were collected in autumn 1968. The second trap is to put Funkhouser (1973) before Chapel Hill."
+    },
+    {
+      "id": "qz-5",
+      "type": "cloze",
+      "prompt": "Complete the definition of need for orientation.",
+      "text": "Need for orientation combines a person’s {{1}} regarding an issue with their level of {{2}} about it; when both are high, the media’s agenda-setting effect is expected to be {{3}}.",
+      "blanks": [
+        {
+          "options": [
+            "educational level",
+            "personal relevance",
+            "age"
+          ],
+          "answer": 1
+        },
+        {
+          "options": [
+            "certainty",
+            "income",
+            "uncertainty"
+          ],
+          "answer": 2
+        },
+        {
+          "options": [
+            "weaker",
+            "stronger",
+            "the same"
+          ],
+          "answer": 1
+        }
+      ],
+      "explain": "McCombs and Weaver’s concept has two components: personal relevance and uncertainty. If interest and indecision are both high, the person needs a “map” the most and leans more on the media’s ranking. The trap is to count a person high in certainty (the opposite of uncertainty) as open to influence too: in a decided person, need for orientation is at most moderate."
+    },
+    {
+      "id": "qz-6",
+      "type": "case",
+      "scenario": "Imagine: for a month the local newspaper of a fictional town called Kumsalköy gives equal and prominent space to two issues: (A) the water cuts in the neighbourhoods and (B) a government crisis in a faraway country. In a survey at the end of the month, Kumsalköy residents rank B high among “the most important issues”. A researcher wants to attribute this to agenda-setting.",
+      "parts": [
+        {
+          "id": "qz-6a",
+          "type": "mcq",
+          "prompt": "Which alternative explanation should the researcher consider before attributing the result to agenda-setting?",
+          "options": [
+            "That the crisis had in any case found wide resonance in the international press and other channels; that is, a common cause outside the news.",
+            "That the newspaper ran the B stories on the front page.",
+            "That the survey was conducted in Kumsalköy.",
+            "That the newspaper also covered the A stories."
+          ],
+          "answer": 0,
+          "explain": "Before advancing agenda-setting, third variables have to be ruled out (here: a big crisis being talked about everywhere); this is why the “real-world cues”, from Funkhouser to Behr and Iyengar, matter. The second option is the very mechanism to be explained, not an alternative. The third and fourth options do not explain the result."
+        },
+        {
+          "id": "qz-6b",
+          "type": "mcq",
+          "prompt": "According to Zucker’s “variable media effect” hypothesis, on which issue would the effect of the news be expected to be greater?",
+          "options": [
+            "A, because Kumsalköy residents live the water cuts directly",
+            "B, because people do not experience it directly and learn about it only from the news",
+            "Equal; the hypothesis does not take issue type into account",
+            "Neither; the hypothesis applies only to television"
+          ],
+          "answer": 1,
+          "explain": "According to Zucker, the less directly an issue is experienced, the greater the effect of the news: B. Since A is an issue lived directly (obtrusive), the effect would be expected to be smaller. But this hypothesis is disputed: in 1989 Demers and colleagues could not find support for this “obtrusiveness” hypothesis."
+        },
+        {
+          "id": "qz-6c",
+          "type": "mcq",
+          "prompt": "Whose agenda in the survey would be expected to be the most similar to the newspaper’s agenda?",
+          "options": [
+            "Someone who does not care about the crisis at all",
+            "Someone who is interested in the crisis and has long since decided whom to support",
+            "Someone who never reads the newspaper",
+            "Someone who is interested in the crisis but does not know whose side to take"
+          ],
+          "answer": 3,
+          "explain": "In a person for whom relevance and uncertainty are both high, need for orientation is the highest and the media’s agenda effect is expected to be the strongest. In a decided, interested person uncertainty is low, so it is moderate; a person who is uninterested or never reads the paper is not affected, because they are not exposed to the media or do not turn to it."
+        }
+      ],
+      "takeaway": "Before attributing a match to agenda-setting, look at three things: (1) rule out common causes (real-world cues), (2) issue type, (3) who would be affected more. The theory says not “always, in everyone” but “under these conditions, in these people”."
+    },
+    {
+      "id": "qz-7",
+      "type": "mcq",
+      "prompt": "Before an election, economic news moves to the top and voters give more weight to economic performance than before when judging a candidate. Which concept does this exemplify?",
+      "options": [
+        "Gatekeeping",
+        "Cultivation",
+        "The spiral of silence",
+        "Priming"
+      ],
+      "answer": 3,
+      "explain": "A prominent issue becoming the yardstick for judging a leader is priming (as seen in the evaluations of Reagan after Iran–Contra). Gatekeeping is about the selection of stories, cultivation about long-term television exposure, and the spiral of silence about the fear of being left in the minority; none of them explains this scenario."
+    },
+    {
+      "id": "qz-8",
+      "type": "mcq",
+      "prompt": "What was the real advantage of the 1972 Charlotte panel study over the single-town Chapel Hill cross-section?",
+      "options": [
+        "That it included only decided voters",
+        "That, by following the same voters over time, it could look at the cause–effect order",
+        "That it focused only on television",
+        "That it covered more media organisations"
+      ],
+      "answer": 1,
+      "explain": "A panel design follows the same people over several waves; so one can look at whether the media agenda predicts the later public agenda (time order). Chapel Hill was a single cross-section. The other options are not Charlotte’s advantage: both television and newspapers were examined in Charlotte; the difference lay not in the number of media or the type of voter but in the time dimension."
+    },
+    {
+      "id": "qz-9",
+      "type": "tf",
+      "prompt": "In Kwak and colleagues’ 2009 Twitter data, more than 85% of trending topics were headline news or persistent news.",
+      "answer": true,
+      "explain": "True. The authors classified 4,262 trending topics and found that most of them (more than 85%) were headline news or persistent news. This shows that the social media agenda was largely tied to the news agenda; but since it is a snapshot of 2009, it cannot be carried directly over to today’s algorithmic feeds."
+    },
+    {
+      "id": "qz-10",
+      "type": "mcq",
+      "prompt": "What answer did Barberá and colleagues’ Twitter study of the 113th US Congress give to the question “who follows whom?”",
+      "options": [
+        "Legislators largely set the public’s agenda.",
+        "The public talks completely independently of legislators.",
+        "Legislators follow the public’s issues rather than steering them; what is more, they are more responsive to their own supporters than to the general public.",
+        "Only traditional media set the issues."
+      ],
+      "answer": 2,
+      "explain": "The finding: legislators follow the public’s issues rather than steering them, and this result does not change even when the media’s agenda-setting effects are controlled for; they are also more responsive to their supporters than to the general public. The first option is the exact opposite. The second and fourth options ignore the reciprocal relation the study showed."
+    },
+    {
+      "id": "qz-11",
+      "type": "match",
+      "prompt": "Match each concept with the imaginary example that fits it.",
+      "pairs": [
+        [
+          "First-level agenda-setting",
+          "Newspapers giving a lot of space to the economy and the public starting to see the economy as the most important issue"
+        ],
+        [
+          "Second-level agenda-setting",
+          "A candidate being constantly presented as “experienced” in the news and voters finding him experienced"
+        ],
+        [
+          "Priming",
+          "As security news increases, security performance gaining weight in the evaluation of the leader"
+        ],
+        [
+          "Intermedia agenda-setting",
+          "A newspaper’s headline issue also standing out in television news the following week"
+        ],
+        [
+          "Need for orientation",
+          "A voter who is interested in the issue but cannot decide turning more to the news media"
+        ]
+      ],
+      "explain": "Each example answers a different question: which issue (first level), which attribute of the issue (second level), by which yardstick the decision is made (priming), who influences the media agenda (intermedia), who is affected more (need for orientation). The most often confused pair is the second level and priming: the former changes the perception of an object’s attribute, the latter the yardstick of evaluation."
+    },
+    {
+      "id": "qz-12",
+      "type": "mcq",
+      "prompt": "According to Walgrave and Van Aelst (2006), which is true of the media’s power over the policy agenda?",
+      "options": [
+        "This power is conditional: it depends on issue type, medium, the form of the story and the political context.",
+        "Whatever the media publish, politicians immediately put that issue on their agenda.",
+        "The media have no influence on the policy agenda whatsoever.",
+        "Only television influences the policy agenda."
+      ],
+      "answer": 0,
+      "explain": "The authors argue that the media’s influence on the policy agenda depends on a set of conditions (input variables: issue type, medium, story type; at the centre the political context) and that outcomes range from “no adoption” to “fast and real adoption”. The second option assumes an automatic effect, the third denies the effect entirely; there is no finding supporting the fourth option."
+    },
+    {
+      "id": "qz-13",
+      "type": "mcq",
+      "prompt": "To stress that the media are a flawed representation of reality, which concept from Lippmann did McCombs and Shaw use in their 1972 article?",
+      "options": [
+        "Two-step flow",
+        "The spiral of silence",
+        "The gatekeeper",
+        "The pseudo-environment"
+      ],
+      "answer": 3,
+      "explain": "The article writes that the “pseudo-environment” the media reflect is not a perfect representation of the real campaign; the concept comes from Lippmann’s 1922 book. Two-step flow is Lazarsfeld and Katz’s, the spiral of silence is Noelle-Neumann’s, and gatekeeping is the concept of a research tradition that began with White’s 1950 news-selection study; none of them is Lippmann’s concept."
+    }
+  ]
+}

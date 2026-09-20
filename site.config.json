@@ -1,0 +1,22 @@
+{
+  "name": "Anemone",
+  "tagline": "Gamified academic courses",
+  "origin": "https://alplix.github.io",
+  "basePath": "/anemone",
+  "outDir": "docs",
+  "sourceLang": "tr",
+  "defaultLang": "en",
+  "author": { "name": "Alperen Yavuz", "url": "https://github.com/alplix" },
+  "repo": "https://github.com/alplix/anemone",
+  "translationFixUrl": "https://github.com/alplix/anemone/issues/new?labels=translation&title=Translation%20fix",
+  "contentIssueUrl": "https://github.com/alplix/anemone/issues/new?labels=content&title=Content%20feedback",
+  "searchEngineVerification": {
+    "google": "",
+    "bing": "",
+    "yandex": "",
+    "naver": "",
+    "baidu": ""
+  },
+  "apiBase": "",
+  "lastUpdatedFrom": "content"
+}

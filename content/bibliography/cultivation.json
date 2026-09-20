@@ -1,0 +1,424 @@
+{
+  "gerbner-1969": {
+    "type": "article",
+    "authors": ["Gerbner, George"],
+    "year": 1969,
+    "title": "Toward “Cultural Indicators”: The analysis of mass mediated public message systems",
+    "container": "AV Communication Review", "volume": "17", "issue": "2", "pages": "137-148",
+    "doi": "10.1007/BF02769102",
+    "verified": { "status": "ok", "methods": ["crossref", "second-source"], "date": "2026-09-20", "note": "Crossref record matched. Also cited as the origin of the cultural-indicators idea in Shanahan & Morgan 1999, ch. 1 (Library of Congress sample pages)." }
+  },
+  "gerbner-gross-1976": {
+    "type": "article",
+    "authors": ["Gerbner, George", "Gross, Larry"],
+    "year": 1976,
+    "title": "Living with television: The violence profile",
+    "container": "Journal of Communication", "volume": "26", "issue": "2", "pages": "172-199",
+    "doi": "10.1111/j.1460-2466.1976.tb01397.x",
+    "verified": { "status": "ok", "methods": ["crossref", "pubmed"], "date": "2026-09-20", "note": "Crossref gives pp. 172-199; PubMed (PMID 932235) gives 173-99. Full text not read (scanned PDF without text layer); content claims in the lesson rest on Shanahan & Morgan 1999 and other sources." }
+  },
+  "gerbner-et-al-1980": {
+    "type": "article",
+    "authors": ["Gerbner, George", "Gross, Larry", "Morgan, Michael", "Signorielli, Nancy"],
+    "year": 1980,
+    "title": "The “mainstreaming” of America: Violence profile no. 11",
+    "container": "Journal of Communication", "volume": "30", "issue": "3", "pages": "10-29",
+    "doi": "10.1111/j.1460-2466.1980.tb01987.x",
+    "verified": { "status": "ok", "methods": ["crossref", "second-source"], "date": "2026-09-20", "note": "Crossref record matched. Content (mainstreaming and resonance findings) described via the Turkish account in Özer 2005, which cites it as Gerbner et al. 1980a." }
+  },
+  "gerbner-et-al-1981": {
+    "type": "article",
+    "authors": ["Gerbner, George", "Gross, Larry", "Morgan, Michael", "Signorielli, Nancy"],
+    "year": 1981,
+    "title": "A curious journey into the scary world of Paul Hirsch",
+    "container": "Communication Research", "volume": "8", "issue": "1", "pages": "39-72",
+    "doi": "10.1177/009365028100800102",
+    "verified": { "status": "ok", "methods": ["crossref", "second-source"], "date": "2026-09-20", "note": "Crossref record matched; listed as the response to Hirsch in M. Morgan's Cultural Indicators bibliography (people.umass.edu/mmorgan, Sept. 2018)." }
+  },
+  "gerbner-et-al-1981b": {
+    "type": "article",
+    "authors": ["Gerbner, George", "Gross, Larry", "Morgan, Michael", "Signorielli, Nancy"],
+    "year": 1981,
+    "title": "Final reply to Hirsch",
+    "container": "Communication Research", "volume": "8", "issue": "3", "pages": "259-280",
+    "doi": "10.1177/009365028100800301",
+    "verified": { "status": "ok", "methods": ["crossref"], "date": "2026-09-20", "note": "Crossref record matched. Only the existence, authors and place of publication are used." }
+  },
+  "hirsch-1980": {
+    "type": "article",
+    "authors": ["Hirsch, Paul M."],
+    "year": 1980,
+    "title": "The “scary world” of the nonviewer and other anomalies: A reanalysis of Gerbner et al.’s findings on cultivation analysis, part I",
+    "container": "Communication Research", "volume": "7", "issue": "4", "pages": "403-456",
+    "doi": "10.1177/009365028000700401",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract"], "date": "2026-09-20", "note": "Crossref title/subtitle and abstract matched; page range also in Morgan's Cultural Indicators bibliography." }
+  },
+  "hirsch-1981": {
+    "type": "article",
+    "authors": ["Hirsch, Paul M."],
+    "year": 1981,
+    "title": "On not learning from one’s own mistakes: A reanalysis of Gerbner et al.’s findings on cultivation analysis, part II",
+    "container": "Communication Research", "volume": "8", "issue": "1", "pages": "3-37",
+    "doi": "10.1177/009365028100800101",
+    "verified": { "status": "ok", "methods": ["crossref", "second-source"], "date": "2026-09-20", "note": "Crossref record matched; also in Morgan's Cultural Indicators bibliography." }
+  },
+  "hughes-1980": {
+    "type": "article",
+    "authors": ["Hughes, Michael"],
+    "year": 1980,
+    "title": "The fruits of cultivation analysis: A reexamination of some effects of television watching",
+    "container": "Public Opinion Quarterly", "volume": "44", "issue": "3", "pages": "287-302",
+    "doi": "10.1086/268597",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract", "second-source"], "date": "2026-09-20", "note": "Crossref lists only the first page (287); the end page 302 comes from Morgan's Cultural Indicators bibliography." }
+  },
+  "doob-macdonald-1979": {
+    "type": "article",
+    "authors": ["Doob, Anthony N.", "Macdonald, Glenn E."],
+    "year": 1979,
+    "title": "Television viewing and fear of victimization: Is the relationship causal?",
+    "container": "Journal of Personality and Social Psychology", "volume": "37", "issue": "2", "pages": "170-179",
+    "doi": "10.1037/0022-3514.37.2.170",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract"], "date": "2026-09-20", "note": "Crossref record and abstract matched." }
+  },
+  "hawkins-pingree-1980": {
+    "type": "article",
+    "authors": ["Hawkins, Robert P.", "Pingree, Suzanne"],
+    "year": 1980,
+    "title": "Some processes in the cultivation effect",
+    "container": "Communication Research", "volume": "7", "issue": "2", "pages": "193-226",
+    "doi": "10.1177/009365028000700203",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract"], "date": "2026-09-20", "note": "Crossref record and abstract matched." }
+  },
+  "potter-1991": {
+    "type": "article",
+    "authors": ["Potter, W. James"],
+    "year": 1991,
+    "title": "The relationships between first- and second-order measures of cultivation",
+    "container": "Human Communication Research", "volume": "18", "issue": "1", "pages": "92-113",
+    "doi": "10.1111/j.1468-2958.1991.tb00530.x",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract"], "date": "2026-09-20", "note": "Crossref record and abstract matched." }
+  },
+  "potter-1993": {
+    "type": "article",
+    "authors": ["Potter, W. James"],
+    "year": 1993,
+    "title": "Cultivation theory and research: A conceptual critique",
+    "container": "Human Communication Research", "volume": "19", "issue": "4", "pages": "564-601",
+    "doi": "10.1111/j.1468-2958.1993.tb00313.x",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract"], "date": "2026-09-20", "note": "Crossref title and subtitle (A Conceptual Critique) and abstract matched." }
+  },
+  "potter-2014": {
+    "type": "article",
+    "authors": ["Potter, W. James"],
+    "year": 2014,
+    "title": "A critical analysis of cultivation theory",
+    "container": "Journal of Communication", "volume": "64", "issue": "6", "pages": "1015-1036",
+    "doi": "10.1111/jcom.12128",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract"], "date": "2026-09-20", "note": "Crossref record and abstract matched." }
+  },
+  "van-den-bulck-2003": {
+    "type": "article",
+    "authors": ["Van den Bulck, Jan"],
+    "year": 2003,
+    "title": "Is the mainstreaming effect of cultivation an artifact of regression to the mean?",
+    "container": "Journal of Broadcasting & Electronic Media", "volume": "47", "issue": "2", "pages": "289-295",
+    "doi": "10.1207/s15506878jobem4702_8",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract"], "date": "2026-09-20", "note": "Crossref record and abstract matched." }
+  },
+  "morgan-shanahan-1997": {
+    "type": "article",
+    "authors": ["Morgan, Michael", "Shanahan, James"],
+    "year": 1997,
+    "title": "Two decades of cultivation research: An appraisal and meta-analysis",
+    "container": "Annals of the International Communication Association (Communication Yearbook 20)", "volume": "20", "issue": "1", "pages": "1-45",
+    "doi": "10.1080/23808985.1997.11678937",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract", "second-source"], "date": "2026-09-20", "note": "Crossref record and abstract matched (average cultivation effect .09). Also listed in Shanahan & Morgan 1999 references." }
+  },
+  "morgan-shanahan-2010": {
+    "type": "article",
+    "authors": ["Morgan, Michael", "Shanahan, James"],
+    "year": 2010,
+    "title": "The state of cultivation",
+    "container": "Journal of Broadcasting & Electronic Media", "volume": "54", "issue": "2", "pages": "337-355",
+    "doi": "10.1080/08838151003735018",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract", "publisher-page"], "date": "2026-09-20", "note": "Crossref record, abstract and Taylor & Francis abstract page matched (volume 54, issue 2)." }
+  },
+  "morgan-shanahan-signorielli-2015": {
+    "type": "article",
+    "authors": ["Morgan, Michael", "Shanahan, James", "Signorielli, Nancy"],
+    "year": 2015,
+    "title": "Yesterday’s new cultivation, tomorrow",
+    "container": "Mass Communication and Society", "volume": "18", "issue": "5", "pages": "674-699",
+    "doi": "10.1080/15205436.2015.1072725",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract", "publisher-page"], "date": "2026-09-20", "note": "Crossref record, abstract and Taylor & Francis abstract page matched." }
+  },
+  "hermann-morgan-shanahan-2021": {
+    "type": "article",
+    "authors": ["Hermann, Erik", "Morgan, Michael", "Shanahan, James"],
+    "year": 2021,
+    "title": "Television, continuity, and change: A meta-analysis of five decades of cultivation research",
+    "container": "Journal of Communication", "volume": "71", "issue": "4", "pages": "515-544",
+    "doi": "10.1093/joc/jqab014",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract"], "date": "2026-09-20", "note": "Crossref record and abstract matched (3842 effect sizes, 406 independent samples, overall effect .107)." }
+  },
+  "hermann-morgan-shanahan-2023": {
+    "type": "article",
+    "authors": ["Hermann, Erik", "Morgan, Michael", "Shanahan, James"],
+    "year": 2023,
+    "title": "Cultivation and social media: A meta-analysis",
+    "container": "New Media & Society", "volume": "25", "issue": "9", "pages": "2492-2511",
+    "doi": "10.1177/14614448231180257",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract", "publisher-page"], "date": "2026-09-20", "note": "Crossref record, abstract and SAGE abstract page matched (460 effect sizes, 66 independent samples, overall effect .123)." }
+  },
+  "williams-2006": {
+    "type": "article",
+    "authors": ["Williams, Dmitri"],
+    "year": 2006,
+    "title": "Virtual cultivation: Online worlds, offline perceptions",
+    "container": "Journal of Communication", "volume": "56", "issue": "1", "pages": "69-87",
+    "doi": "10.1111/j.1460-2466.2006.00004.x",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract"], "date": "2026-09-20", "note": "Crossref record and abstract matched." }
+  },
+  "tsay-vogel-shanahan-signorielli-2018": {
+    "type": "article",
+    "authors": ["Tsay-Vogel, Mina", "Shanahan, James", "Signorielli, Nancy"],
+    "year": 2018,
+    "title": "Social media cultivating perceptions of privacy: A 5-year analysis of privacy attitudes and self-disclosure behaviors among Facebook users",
+    "container": "New Media & Society", "volume": "20", "issue": "1", "pages": "141-161",
+    "doi": "10.1177/1461444816660731",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract", "second-source"], "date": "2026-09-20", "note": "Crossref record and abstract matched (online 2016, print volume 20(1) 2018); also listed in Morgan's Cultural Indicators bibliography." }
+  },
+  "shanahan-morgan-1999": {
+    "type": "book",
+    "authors": ["Shanahan, James", "Morgan, Michael"],
+    "year": 1999,
+    "title": "Television and its viewers: Cultivation theory and research",
+    "publisher": "Cambridge University Press", "place": "Cambridge",
+    "isbn": "9780521587556",
+    "doi": "10.1017/CBO9780511488924",
+    "verified": { "status": "ok", "methods": ["loc-catalog", "publisher-sample-pages", "crossref"], "date": "2026-09-20", "note": "Library of Congress cataloguing-in-publication data (LCCN 98-48327) in the publisher sample PDF at catdir.loc.gov; Crossref monograph record (Cambridge University Press, 1999). Chapter 1 (Origins) read in full; the rest of the book not read." }
+  },
+  "morgan-2008-mainstreaming": {
+    "type": "chapter",
+    "authors": ["Morgan, Michael"],
+    "year": 2008,
+    "title": "Mainstreaming",
+    "editors": ["Donsbach, Wolfgang"],
+    "bookTitle": "The International Encyclopedia of Communication",
+    "publisher": "Wiley-Blackwell", "place": "Malden, MA",
+    "doi": "10.1002/9781405186407.wbiecm004",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract", "second-source"], "date": "2026-09-20", "note": "Crossref record and abstract matched; editor confirmed by Wiley and library listings of the 12-volume set (ISBN 9781405131995) and by Morgan's own bibliography." }
+  },
+  "morgan-shanahan-signorielli-2016": {
+    "type": "chapter",
+    "authors": ["Morgan, Michael", "Shanahan, James", "Signorielli, Nancy"],
+    "year": 2016,
+    "title": "Cultivation theory",
+    "editors": ["Mazzoleni, Gianpietro"],
+    "bookTitle": "The International Encyclopedia of Political Communication",
+    "publisher": "Wiley Blackwell", "place": "Chichester",
+    "doi": "10.1002/9781118541555.wbiepc013",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract", "second-source"], "date": "2026-09-20", "note": "Crossref record and abstract matched (issued 2016; the set is also dated 2015); editor confirmed by Wiley and bookseller/PhilPapers listings (ISBN 9781118290750)." }
+  },
+  "ozer-2005": {
+    "type": "article",
+    "authors": ["Özer, Ömer"],
+    "year": 2005,
+    "title": "Yetiştirme kuramının eleştiriler bağlamında değerlendirilmesi: Televizyonun rezonans etkisine dair bir araştırma",
+    "container": "Kültür ve İletişim", "volume": "8", "issue": "1", "pages": "127-162",
+    "verified": { "status": "ok", "methods": ["source-itself", "second-source"], "date": "2026-09-20", "note": "Read the DergiPark PDF itself; its running header gives 'kültür ve iletişim, 2005, 8(1), kış: 127-162'; the journal issue is also indexed on DergiPark. No DOI." }
+  },
+  "erdogan-1998": {
+    "type": "article",
+    "authors": ["Erdoğan, İrfan"],
+    "year": 1998,
+    "title": "Gerbner’in ekme tezi ve anlattığı öyküler üzerine bir değerlendirme",
+    "container": "Kültür ve İletişim", "volume": "1", "issue": "2", "pages": "149-180",
+    "verified": { "status": "ok", "methods": ["source-itself", "second-source"], "date": "2026-09-20", "note": "Read the author-hosted PDF itself; running header gives 'Kültür ve İletişim 1998. 1 (2) 149-180'; the article appears in DergiPark search results for the journal. No DOI." }
+  },
+  "ozkan-2017": {
+    "type": "article",
+    "authors": ["Özkan, Selfiye"],
+    "year": 2017,
+    "title": "Gerbner’in kültürel göstergeler kuramı bağlamında televizyon haber içeriklerine ilişkin bir araştırma",
+    "container": "Abant Kültürel Araştırmalar Dergisi", "volume": "2", "issue": "4", "pages": "129-141",
+    "verified": { "status": "ok", "methods": ["source-itself", "second-source"], "date": "2026-09-20", "note": "Read the DergiPark PDF itself (running header: AKAR 2017, Cilt 2, Sayı 4, 129-141); also surfaced by DergiPark search. No DOI." }
+  },
+  "ozer-jafarli-2024": {
+    "type": "article",
+    "authors": ["Özer, Ömer", "Jafarli, Khuraman"],
+    "year": 2024,
+    "title": "Türk televizyonlarının Bakü’deki Azerbaycanlı üniversite öğrencileri üzerindeki rolü: George Gerbner’ın yetiştirme kuramı yönelimi",
+    "container": "TRT Akademi", "volume": "9", "issue": "22", "pages": "864-887",
+    "doi": "10.37679/trta.1514491",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract", "publisher-page"], "date": "2026-09-20", "note": "Crossref record, Turkish abstract via OpenAlex and DergiPark article page matched." }
+  },
+  "ercan-demir-2015": {
+    "type": "article",
+    "authors": ["Ercan, Eren Ekin", "Demir, Fatma Nur"],
+    "year": 2015,
+    "title": "Yetiştirme kuramı: Anadolu Üniversitesi Fen Fakültesinde yapılan araştırma",
+    "container": "Gümüşhane Üniversitesi İletişim Fakültesi Elektronik Dergisi", "volume": "3", "issue": "1",
+    "doi": "10.19145/guifd.10613",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract"], "date": "2026-09-20", "note": "Crossref record and opening of the Turkish abstract matched. Page range not confirmed, therefore omitted." }
+  },
+  "ozer-2019": {
+    "type": "article",
+    "authors": ["Özer, Ömer"],
+    "year": 2019,
+    "title": "Cultivation theory and hegemony",
+    "container": "Media, Culture and Public Relations", "volume": "10", "issue": "2", "pages": "133-139",
+    "doi": "10.32914/mcpr.10.2.2",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract"], "date": "2026-09-20", "note": "Crossref record and abstract matched. The abstract is identical to that of an earlier Informatologia (2011) listing found through search results; only the Crossref-verified 2019 record is used." }
+  },
+  "mef-mean-world-2010": {
+    "type": "web",
+    "authors": ["Media Education Foundation"],
+    "year": 2010,
+    "title": "The mean world syndrome: Media violence & the cultivation of fear (film transcript)",
+    "publisher": "Media Education Foundation",
+    "url": "https://www.mediaed.org/transcripts/Mean-World-Syndrome-Transcript.pdf",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Full transcript read. It is an advocacy documentary narrated by Michael Morgan with Gerbner interview clips, so it is used only for Gerbner's and Morgan's own statements of their position, not for empirical claims." }
+  },
+  "britannica-gerbner": {
+    "type": "web",
+    "authors": ["Signorielli, Nancy"],
+    "year": 2026,
+    "title": "George Gerbner",
+    "publisher": "Encyclopaedia Britannica",
+    "url": "https://www.britannica.com/biography/George-Gerbner",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Article read in full; the page names Nancy Signorielli as writer and gives 'last updated Aug. 4, 2026'." }
+  },
+  "contemporary-authors-gerbner": {
+    "type": "web",
+    "authors": [],
+    "year": 2006,
+    "title": "Gerbner, George 1919–2005 (obituary notice)",
+    "publisher": "Contemporary Authors (Gale), via Encyclopedia.com",
+    "url": "https://www.encyclopedia.com/arts/educational-magazines/gerbner-george-1919-2005",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Obituary notice read; it lists Los Angeles Times (29 Dec 2005), New York Times (3 Jan 2006) and Washington Post (2 Jan 2006) obituaries as its sources." }
+  },
+  "dp-gerbner-2005": {
+    "type": "web",
+    "authors": [],
+    "year": 2005,
+    "title": "Former Annenberg dean dies at 86",
+    "publisher": "The Daily Pennsylvanian",
+    "url": "https://www.thedp.com/article/2005/12/former_annenberg_dean_dies_at_86",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Obituary read in full." }
+  },
+  "fair-gerbner-2006": {
+    "type": "web",
+    "authors": ["Andersen, Robin"],
+    "year": 2006,
+    "title": "George Gerbner, 1919-2005: From anti-fascist fighter to cultural environmentalist",
+    "publisher": "FAIR (Extra!, March/April 2006)",
+    "url": "https://fair.org/extra/george-gerbner-1919-2005/",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Obituary article read in full. It dates the founding of the Cultural Environment Movement to 1989, while the Daily Pennsylvanian says 1996, so that date is not used." }
+  },
+  "usc-gross": {
+    "type": "web",
+    "authors": [],
+    "year": 2026,
+    "title": "Larry P. Gross (faculty profile)",
+    "publisher": "USC Annenberg School for Communication and Journalism",
+    "url": "https://annenberg.usc.edu/faculty/larry-p-gross",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Profile read." }
+  },
+  "penn-gross": {
+    "type": "web",
+    "authors": [],
+    "year": 2026,
+    "title": "New book celebrates the scholarly contributions of long-time Annenberg professor Larry Gross",
+    "publisher": "Annenberg School for Communication, University of Pennsylvania",
+    "url": "https://www.asc.upenn.edu/news-events/news/new-book-celebrates-scholarly-contributions-long-time-annenberg-professor-larry-gross",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "News item read via fetch tool (page blocks direct download)." }
+  },
+  "conversation-morgan": {
+    "type": "web",
+    "authors": [],
+    "year": 2026,
+    "title": "Michael Morgan (author profile)",
+    "publisher": "The Conversation",
+    "url": "https://theconversation.com/profiles/michael-morgan-382442",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Profile read: professor emeritus of communication, University of Massachusetts Amherst." }
+  },
+  "intpolicydigest-morgan": {
+    "type": "web",
+    "authors": [],
+    "year": 2026,
+    "title": "Michael Morgan (author page)",
+    "publisher": "International Policy Digest",
+    "url": "https://intpolicydigest.org/author/michael-morgan/",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Author biography read via fetch tool; likely derived from the same self-written biography as the Conversation profile, so counted as a weak second source." }
+  },
+  "udaily-signorielli-2010": {
+    "type": "web",
+    "authors": [],
+    "year": 2010,
+    "title": "Signorielli to receive BEA Distinguished Scholar Award",
+    "publisher": "UDaily, University of Delaware",
+    "url": "http://www1.udel.edu/udaily/2010/feb/signorielli021910.html",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "News item read in full (19 Feb 2010)." }
+  },
+  "bea-signorielli-2010": {
+    "type": "web",
+    "authors": [],
+    "year": 2010,
+    "title": "2010 BEA Distinguished Scholar Award presented to Professor Nancy Signorielli",
+    "publisher": "Broadcast Education Association",
+    "url": "https://beaweb.org/2010-bea-distinguished-scholar-award-presented-to-professor-nancy-signorielli/",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Award announcement read; text closely parallels the UDaily item (same award), so the two are not fully independent." }
+  },
+  "kellogg-hirsch": {
+    "type": "web",
+    "authors": [],
+    "year": 2026,
+    "title": "Paul Hirsch (faculty profile)",
+    "publisher": "Kellogg School of Management, Northwestern University",
+    "url": "https://www.kellogg.northwestern.edu/academics-research/faculty/hirsch_paul/",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Profile read (PhD 1973 Sociology, University of Michigan; earlier appointments at Indiana University and the University of Chicago)." }
+  },
+  "gscholar-hirsch": {
+    "type": "web",
+    "authors": [],
+    "year": 2026,
+    "title": "Paul M Hirsch (Google Scholar profile)",
+    "publisher": "Google Scholar",
+    "url": "https://scholar.google.com/citations?user=QJ4svqwAAAAJ&hl=en",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Read via fetch tool: affiliation Northwestern University; lists the 1980 and 1981 cultivation reanalyses. This is a bibliographic profile, not a biography, so Hirsch's entry remains minimal." }
+  },
+  "ucsb-potter": {
+    "type": "web",
+    "authors": [],
+    "year": 2026,
+    "title": "W. James Potter (faculty profile)",
+    "publisher": "Department of Communication, UC Santa Barbara",
+    "url": "https://www.comm.ucsb.edu/people/w-james-potter",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Profile read in raw HTML (professor emeritus; PhDs from Indiana University and Florida State University)." }
+  },
+  "sage-potter": {
+    "type": "web",
+    "authors": [],
+    "year": 2026,
+    "title": "W. James Potter (author page)",
+    "publisher": "SAGE Publications",
+    "url": "https://us.sagepub.com/en-us/nam/author/w-james-potter",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Author biography read in raw HTML: two PhDs (communication studies; instructional technology), former editor of the Journal of Broadcasting & Electronic Media." }
+  }
+}

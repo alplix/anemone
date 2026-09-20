@@ -1,0 +1,16 @@
+{
+  "id": "hirsch",
+  "lang": "en",
+  "translation": { "status": "machine" },
+  "name": "Paul M. Hirsch",
+  "nativeName": "",
+  "slug": "paul-hirsch",
+  "short": "American sociologist and organization researcher. In 1980–81 he reanalysed the Gerbner team’s cultivation findings and questioned the theory’s empirical basis.",
+  "roles": ["sociologist", "organization and culture researcher", "cultivation critic"],
+  "bio": "Paul M. Hirsch is an organization and culture researcher with a background in sociology. He completed his doctorate in sociology at the University of Michigan in 1973. After serving at Indiana University and the University of Chicago he moved to Northwestern University’s Kellogg School of Management; there he held the James L. Allen chair and became an emeritus professor. His research is on organizational change, corporate culture and media industries.\n\nHis place in the cultivation lesson is as a critic. In his “scary world” article, published in Communication Research in 1980, he reanalysed the findings of Gerbner and his colleagues; he drew attention to inconsistencies in items, sampling and coding, and argued that when controls are applied simultaneously no linear relationship remains between amount of viewing and the “TV answer”, and therefore that the cultivation hypothesis lacks empirical support. In 1981 he published the second part of the reanalysis in the same journal. In 1981 Gerbner, Gross, Morgan and Signorielli wrote a reply titled “A Curious Journey into the Scary World of Paul Hirsch”. This page contains only professional information about Hirsch that can be verified; personal details have deliberately been left out.",
+  "works": [
+    { "bib": "hirsch-1980", "note": "Reanalysis of the Gerbner team’s findings, part one." },
+    { "bib": "hirsch-1981", "note": "The second part of the reanalysis." }
+  ],
+  "inCourse": "One of the first and best-known methodological critics of cultivation. See [[lesson:cultivation]] and [[lesson:mainstreaming-critique]]."
+}

@@ -1,0 +1,11 @@
+{
+  "id": "heavy-viewers",
+  "lang": "en",
+  "translation": { "status": "machine" },
+  "term": "heavy viewers",
+  "altTerms": ["ağır izleyiciler", "çok izleyenler", "ağır seyirciler"],
+  "slug": "heavy-viewers",
+  "short": "The upper end of the grouping by amount of television viewing in cultivation research; on the other side of the comparison are light viewers (those who watch little).",
+  "body": "A heavy viewer is, in cultivation research, the upper end of the grouping by amount of television viewing; the opposite is the light viewer (one who watches little). Participants are usually divided into light, medium and heavy viewers, and the cultivation differential is the difference between the two extreme groups in the percentage giving the “TV answer” (Erdoğan 1998).\n\nThe important point: the division is a relative comparison. How many hours count as “heavy” varies from study to study; for example, in Özer’s (2005) study of high-school students in Ankara, those who watched two hours or less were counted as “light” viewers and those who watched more than two hours as “heavy” viewers. In some sources other thresholds such as “four hours” appear, but these are the choices of particular studies, not a single strict rule.\n\nBeing a heavy viewer is not an accusation or a diagnosis in cultivation theory; it is only a group used for comparison. Researchers interpret the difference between groups by controlling variables such as gender, age, education and income. Critics have argued that when the controls are applied simultaneously the difference largely disappears (Hirsch 1980; Hughes 1980). In Turkish the names “ağır izleyici” (“heavy viewer”), “çok izleyenler” (“those who watch a lot”) and “ağır seyirciler” (“heavy spectators”) are seen. Details: [[lesson:cultivation]].",
+  "example": "Asking the same safety question to a group that watches less than two hours a day and to one that watches far more, and comparing the percentages giving the answer that “fits the on-screen world”."
+}

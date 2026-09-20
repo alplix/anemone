@@ -1,0 +1,16 @@
+{
+  "id": "gross",
+  "lang": "tr",
+  "name": "Larry Gross",
+  "nativeName": "",
+  "slug": "larry-gross",
+  "short": "ABD’li iletişim araştırmacısı. Pennsylvania Üniversitesi’nde Gerbner’le Kültürel Göstergeler’i yönetti; 1976 Şiddet Profili makalesinin ortak yazarı. Sonra USC’de okul yöneticisi oldu.",
+  "roles": ["iletişim araştırmacısı", "Kültürel Göstergeler eş yöneticisi"],
+  "bio": "Larry Gross, görsel iletişim, sanat ve kültür ile medyada azınlıkların temsili üzerine çalışan bir iletişim akademisyenidir. Brandeis Üniversitesi ve Columbia Üniversitesi’nden dereceleri vardır. 1968’de Pennsylvania Üniversitesi’ne öğretim üyesi olarak katıldı ve 2003’e kadar, yaklaşık 35 yıl orada çalıştı; Sol Worth Profesörü ve Annenberg İletişim Okulu’nun dekan yardımcısı oldu, 180’den fazla yüksek lisans ve doktora tezine danışmanlık yaptı.\n\nKültivasyon kuramının tarihindeki yeri, 1970’ler ve 1980’lerde George Gerbner’le birlikte Kültürel Göstergeler projesini yönetmesidir. Bu ortaklığın en bilinen ürünü, kültivasyon çözümlemesinin ilk sonuçlarını veren 1976 tarihli “Living with Television: The Violence Profile” makalesidir; 1980’deki “Amerika’nın ana akımlaşması” makalesinin de yazarları arasındadır.\n\n2003’te Güney Kaliforniya Üniversitesi’ne (USC) geçerek 2014’e kadar USC Annenberg bünyesindeki İletişim Okulu’nun müdürlüğünü yaptı. Uluslararası İletişim Derneği’nin (ICA) 2011–2012 döneminde başkanlığını yaptı ve derneğin üyesidir; International Journal of Communication dergisinin kurucusu ve editörüdür. Kitapları arasında lezbiyen ve gey bireylerin Amerikan medyasındaki temsilini ele alan *Up from Invisibility* (Columbia University Press, 2001), ayrıca ortak editörlüğünü yaptığı *The Columbia Reader on Lesbians and Gay Men in Media, Society and Politics* (1999) ve *Image Ethics in the Digital Age* (University of Minnesota Press, 2003) vardır. Penn’in duyurusu bu kitabı LGBTQ çalışmaları alanında öncü bir eser olarak anar. Bu sayfada yalnızca kamuya açık mesleki bilgiler yer alır.",
+  "works": [
+    { "bib": "gerbner-gross-1976", "note": "Şiddet Profili; kültivasyon çözümlemesinin ilk sonuçları." },
+    { "bib": "gerbner-et-al-1980", "note": "Ana akımlaşma makalesinin dört yazarından biri." },
+    { "bib": "gerbner-et-al-1981", "note": "Hirsch’e yanıt yazısının dört yazarından biri." }
+  ],
+  "inCourse": "Gerbner’in yakın çalışma arkadaşı; Şiddet Profili’nin ortak yazarı. Bkz. [[lesson:cultivation]]."
+}

@@ -1,0 +1,188 @@
+{
+  "id": "agenda-setting",
+  "people": [
+    "mccombs",
+    "shaw",
+    "lippmann",
+    "cohen-bernard",
+    "lazarsfeld"
+  ],
+  "concepts": [
+    "agenda-setting",
+    "priming",
+    "salience",
+    "media-agenda",
+    "public-agenda",
+    "second-level-agenda-setting",
+    "need-for-orientation",
+    "gatekeeping"
+  ],
+  "sources": [
+    {
+      "bib": "algul-2016",
+      "role": "primary"
+    },
+    {
+      "bib": "barbera-et-al-2019",
+      "role": "primary"
+    },
+    {
+      "bib": "behr-iyengar-1985",
+      "role": "primary"
+    },
+    {
+      "bib": "cohen-1963",
+      "role": "primary"
+    },
+    {
+      "bib": "conway-et-al-2015",
+      "role": "primary"
+    },
+    {
+      "bib": "demers-et-al-1989",
+      "role": "primary"
+    },
+    {
+      "bib": "funkhouser-1973",
+      "role": "primary"
+    },
+    {
+      "bib": "funkhouser-1973b",
+      "role": "primary"
+    },
+    {
+      "bib": "guo-vargo-2020",
+      "role": "primary"
+    },
+    {
+      "bib": "hazar-sbouh-2020",
+      "role": "primary"
+    },
+    {
+      "bib": "iyengar-peters-kinder-1982",
+      "role": "primary"
+    },
+    {
+      "bib": "krosnick-kinder-1990",
+      "role": "primary"
+    },
+    {
+      "bib": "kwak-et-al-2010",
+      "role": "primary"
+    },
+    {
+      "bib": "lippmann-1922",
+      "role": "primary"
+    },
+    {
+      "bib": "matthes-2008",
+      "role": "primary"
+    },
+    {
+      "bib": "mccombs-1976",
+      "role": "review"
+    },
+    {
+      "bib": "mccombs-et-al-1997",
+      "role": "primary"
+    },
+    {
+      "bib": "mccombs-shaw-1972",
+      "role": "primary"
+    },
+    {
+      "bib": "mccombs-shaw-weaver-2014",
+      "role": "review"
+    },
+    {
+      "bib": "mcleod-becker-byrnes-1974",
+      "role": "primary"
+    },
+    {
+      "bib": "neuman-et-al-2014",
+      "role": "primary"
+    },
+    {
+      "bib": "roberts-mccombs-1994",
+      "role": "primary"
+    },
+    {
+      "bib": "rogers-dearing-1988",
+      "role": "review"
+    },
+    {
+      "bib": "scheufele-tewksbury-2007",
+      "role": "review"
+    },
+    {
+      "bib": "shoemaker-et-al-2001",
+      "role": "primary"
+    },
+    {
+      "bib": "vargo-guo-2017",
+      "role": "primary"
+    },
+    {
+      "bib": "walgrave-van-aelst-2006",
+      "role": "primary"
+    },
+    {
+      "bib": "wallsten-2007",
+      "role": "primary"
+    },
+    {
+      "bib": "wanta-golan-lee-2004",
+      "role": "primary"
+    },
+    {
+      "bib": "weaver-1980",
+      "role": "primary"
+    },
+    {
+      "bib": "weaver-2025",
+      "role": "review"
+    },
+    {
+      "bib": "winter-eyal-1981",
+      "role": "primary"
+    },
+    {
+      "bib": "zucker-1978",
+      "role": "primary"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1922,
+      "id": "lippmann-public-opinion"
+    },
+    {
+      "year": 1963,
+      "id": "cohen-press-foreign-policy"
+    },
+    {
+      "year": 1968,
+      "id": "chapel-hill-study"
+    },
+    {
+      "year": 1972,
+      "id": "poq-article"
+    },
+    {
+      "year": 1972,
+      "id": "charlotte-panel"
+    },
+    {
+      "year": 1973,
+      "id": "funkhouser-1960s"
+    },
+    {
+      "year": 1982,
+      "id": "iyengar-experiments"
+    },
+    {
+      "year": 1997,
+      "id": "second-level-spain"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "id": "potter",
+  "died": null,
+  "sources": ["ucsb-potter", "sage-potter"],
+  "works": ["potter-1991", "potter-1993", "potter-2014"]
+}

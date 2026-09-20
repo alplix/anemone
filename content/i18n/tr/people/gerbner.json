@@ -1,0 +1,19 @@
+{
+  "id": "gerbner",
+  "lang": "tr",
+  "name": "George Gerbner",
+  "nativeName": "",
+  "slug": "george-gerbner",
+  "short": "Macar doğumlu ABD’li iletişim araştırmacısı (1919–2005); Annenberg Okulu dekanı. Kültürel Göstergeler projesini yürüttü; kültivasyon kuramı ve “kötü dünya sendromu” kavramıyla anılır.",
+  "born": "Budapeşte, Macaristan",
+  "died": "Philadelphia, ABD",
+  "roles": ["iletişim araştırmacısı", "Annenberg İletişim Okulu dekanı (1964–1989)"],
+  "bio": "George Gerbner 1919’da Budapeşte’de doğdu. Gençliğinde Macar halk şarkılarına, masallara ve öykülere düşkündü; televizyonu “toplumun hikâye anlatıcısı” olarak görmesinin köklerinden biri bu ilgiydi denebilir. Budapeşte Üniversitesi’nde bir yıl okuduktan sonra faşizmin yükselişi yüzünden 1939’da ülkesinden ayrılıp Amerika Birleşik Devletleri’ne geçti. Berkeley’de gazetecilik lisansını tamamladı, II. Dünya Savaşı’nda ABD ordusunda görev yaptı. Savaştan sonra Güney Kaliforniya Üniversitesi’nde yüksek lisans (1951) ve iletişim doktorası (1955) yaptı.\n\n1956’da Illinois Üniversitesi’nin İletişim Araştırmaları Enstitüsü’nde çalışmaya başladı; 1964’te Pennsylvania Üniversitesi Annenberg İletişim Okulu’na geçti ve 1989’a kadar okulun dekanlığını yürüttü. 1960’ların sonunda başlattığı **Kültürel Göstergeler** projesi, ana yayın kuşağındaki televizyon programlarını yıllar boyu izleyip sayarak ve izleyicilere anket uygulayarak televizyonun kültürel etkisini ölçmeyi amaçlıyordu. Ortaya çıkan “şiddet profilleri”ni Kongre’ye de taşıdı. Kültivasyon kuramı ve “kötü dünya sendromu” (*mean world syndrome*) kavramı bu çalışmalardan doğdu.\n\nGerbner’e göre televizyon yalnızca bir araç değil, çocukların içine doğduğu kültürel bir çevreydi ve “bütün hikâyeleri” anlatıyordu. Sonraki yıllarda bu çevrenin daha çeşitli ve adil olması için Kültürel Çevre Hareketi’ni kurdu. Belli başlı yazıları arasında 1976’da Larry Gross’la yazdığı “Living with Television: The Violence Profile” ve 1980’de Gross, Morgan ve Signorielli ile yazdığı “Amerika’nın ana akımlaşması” bulunur. 2005’te Philadelphia’da, 86 yaşında öldü.",
+  "works": [
+    { "bib": "gerbner-1969", "note": "“Kültürel göstergeler” fikrinin ve kitle iletişimi mesaj sistemlerini çözümleme programının ilk makalelerinden." },
+    { "bib": "gerbner-gross-1976", "note": "Şiddet Profili: kültivasyon çözümlemesinin ilk sonuçları." },
+    { "bib": "gerbner-et-al-1980", "note": "Ana akımlaşma ve rezonans bulgularının yayımlandığı makale." },
+    { "bib": "gerbner-et-al-1981", "note": "Hirsch’in yeniden analizine yanıt." }
+  ],
+  "inCourse": "Kültivasyonun kurucusu; Kültürel Göstergeler, kötü dünya sendromu ve ana akımlaşma onun çevresinde gelişti. Bkz. [[lesson:cultivation]] ve [[lesson:mainstreaming-critique]]."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "asch",
+  "lang": "tr",
+  "name": "Solomon Asch",
+  "nativeName": "",
+  "slug": "solomon-asch",
+  "short": "Polonya doğumlu Amerikalı sosyal psikolog (1907–1996). 1950’lerdeki çizgi uzunluğu uyum deneyleriyle tanınır; Noelle-Neumann’ın kuramında dışlanma korkusunun psikolojik dayanaklarından biridir.",
+  "born": "Varşova",
+  "died": "Haverford, Pennsylvania (ABD)",
+  "roles": ["sosyal psikolog"],
+  "bio": "Solomon E. Asch 1907’de Varşova’da doğdu ve 1996’da ABD’de, Pennsylvania’daki Haverford’da öldü. New York’taki City College’dan 1928’de mezun oldu; Columbia Üniversitesi’nde 1930’da yüksek lisans, 1932’de doktora yaptı.\n\nUzun bir akademik yaşamı oldu: Brooklyn College’da, New School for Social Research’te ve ağırlıklı olarak Swarthmore College’da çalıştı; 1960’ların ortasından itibaren Rutgers Üniversitesi’nde Bilişsel Araştırmalar Enstitüsü’nün başında bulundu, 1970’lerde Pennsylvania Üniversitesi’nde profesör oldu. 1952’de yayımladığı *Social Psychology* kitabı alanın klasiklerinden sayılır.\n\nBu derste ilgilendiğimiz katkısı, 1950’lerin uyum (*conformity*) deneyleridir. Asch, bir tek kişiyle, yanlış cevapta oybirliği eden bir grup arasında basit ve net bir olgu üzerinde anlaşmazlık kurdu: bir standart çizgiyle aynı uzunluktaki çizgiyi bulmak. Deneğin cevabını grubun önünde, sesli vermesi gerekiyordu. 1956’da yayımlanan monografide, üç farklı kurumdan 123 denekle yaptığı çalışmayı raporladı: kritik denemelerdeki tahminlerin yaklaşık üçte biri çoğunluğun yanlış cevabına kaydı; ama cevapların büyük kısmı bağımsız kaldı ve bazı denekler hiç boyun eğmedi. Asch bu bulguları yalnızca “insanlar sürü gibidir” diye değil, insanın hem uyma hem bağımsız kalma eğilimlerini birlikte anlamaya çalışan bir bakışla yorumladı.\n\nNoelle-Neumann, insanların yalnız kalmaktan çekindiğini ve bunun bir toplumsal baskı doğurduğunu savunurken Asch’in deneylerine sık sık başvurdu; suskunluk sarmalının arka planındaki psikolojik dayanaklardan biri olarak okunur.",
+  "works": [
+    { "bib": "asch-1952", "note": "Sosyal psikolojinin klasik ders kitabı; uyum deneyleri öncesinde yazıldı." },
+    { "bib": "asch-1956", "note": "Çizgi deneyinin ayrıntılı raporu: 123 denek, 18 denemenin 12’si kritik." }
+  ],
+  "inCourse": "[[lesson:spiral-of-silence]] dersinde, Noelle-Neumann’ın dışlanma korkusu varsayımına arka plan sağlayan deneyleriyle geçer; ayrıca [[concept:fear-of-isolation]] kavramıyla ilişkilidir."
+}

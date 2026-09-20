@@ -1,0 +1,558 @@
+{
+  "id": "cultivation",
+  "lang": "en",
+  "translation": { "status": "machine", "date": "2026-09-20" },
+  "title": "Cultivation Theory",
+  "slug": "cultivation-theory",
+  "description": "Gerbner’s cultivation theory: Cultural Indicators, heavy viewers, the mean world syndrome, critiques and the social media age, with exam tips.",
+  "claim": "Compared with demographically similar light viewers, people who watch a lot of television hold a view of social reality that resembles the most common and recurring messages of the on-screen world more closely; the effect comes not from a single programme but from the accumulation of years.",
+  "keywords": ["cultivation", "cultivation theory", "cultivation analysis", "Gerbner", "Cultural Indicators", "mean world syndrome", "mainstreaming", "resonance", "heavy viewers", "television"],
+  "updated": "2026-09-20",
+  "cards": [
+    {
+      "id": "ctx-1968", "section": "context", "layer": "core", "kind": "story",
+      "title": "1968: A commission, one season of television",
+      "body": "The year is 1968. America is in turmoil, with violence and unrest across the country, and everyone is asking, “where is all this violence coming from?” One of the suspects is television.\n\nThat year the **National Commission on the Causes and Prevention of Violence** is set up. The Commission does not just survey the existing research on violence on television; it also funds a single new study of its own: a content analysis of how much violence there was, and what kind, in the prime-time programmes of the 1967–68 season. The work is run at the University of Pennsylvania’s Annenberg School for Communication by [[person:gerbner|George Gerbner]] [[cite:shanahan-morgan-1999]].\n\nA year later, in 1969, Congress sets aside 1 million dollars and establishes the Surgeon General’s (the US chief public health officer’s) Scientific Advisory Committee on Television and Social Behavior. A total of 23 projects are supported; Gerbner’s work is one of them [[cite:shanahan-morgan-1999]].\n\nHere is the interesting part: this apparently one-off count of violence is not dropped. It is repeated every year and grows into a long-running monitoring programme called **Cultural Indicators**. And the question slowly shifts, from “Do people who watch violence imitate it?” to “How does someone who has watched the same stories for years see the world?”",
+      "question": {
+        "id": "ctx-1968-q", "type": "mcq",
+        "prompt": "Which was the only new study that the National Commission on the Causes and Prevention of Violence funded on its own account?",
+        "options": [
+          "A laboratory experiment measuring children’s behaviour after a violent film",
+          "A content analysis of violence in the prime-time programmes of the 1967–68 season",
+          "A national fear survey of American adults",
+          "An institutional study of the ownership structure of television companies"
+        ],
+        "answer": 1,
+        "explain": "The Commission surveyed the existing research and funded a single new study: the 1967–68 season violence content analysis run by Gerbner. The laboratory-experiment option is tempting because we are used to “violence = experiment”; but the starting point of Cultural Indicators was counting the content itself. The national audience survey came later, in the early 1970s."
+      }
+    },
+    {
+      "id": "ctx-bullet", "section": "context", "layer": "core", "kind": "myth",
+      "title": "“The message hits, the effect follows”?",
+      "body": "**What people assume:** A media effect is a change you can see right after a message. Someone watches a violent scene and either imitates it or is unaffected; you measure it in the lab and you’re done.\n\n**What Gerbner and the theorists say:** That framework defines “effect” only as *change*. But the media have no “before”; they are an environment we are born into. In the documentary, [[person:morgan|Michael Morgan]] relays Gerbner’s view this way [[cite:mef-mean-world-2010]]. A “before and after” measurement is not much use for something that has no before.\n\nThe cultivation metaphor says exactly this: a single seed does not yield a crop in a day; it takes repetition, water and time. According to the theorists, the effect comes not from a downpour of single messages but from stable, repeated and pervasive patterns spread over years [[cite:shanahan-morgan-1999]].\n\nA note on history: according to Shanahan and Morgan, the “hypodermic needle” idea was never seriously defended as a theory by real researchers; it was a caricature that the limited-effects school argued against. Cultivation looks for a third way between “the media do nothing” and “the media hit like a bullet” [[cite:shanahan-morgan-1999]]. (This is the defenders’ reading of history; for the hypodermic model itself, see [[lesson:magic-bullet]].)",
+      "question": {
+        "id": "ctx-bullet-q", "type": "tf",
+        "prompt": "True or false: Cultivation studies are designed to test whether a person who watches a single violent programme becomes aggressive right afterwards.",
+        "answer": false,
+        "explain": "False. Cultivation studies not the instant effect of a single programme but the cumulative effect of message patterns that repeat over years; the question of short-term imitation belongs to a different research tradition (experiments and social learning). What makes “true” tempting is that when television violence comes up, imitation is the first thing that comes to mind."
+      }
+    },
+    {
+      "id": "people-team", "section": "people-time", "layer": "core", "kind": "text",
+      "title": "Who’s who? A team effort",
+      "body": "Cultivation is often told as if it were one person’s invention, but it is really the work of a team that grew at the Annenberg School.\n\n- [[person:gerbner|George Gerbner]]: the name at the head of the project; dean of the school from 1964 to 1989.\n- [[person:gross|Larry Gross]]: ran Cultural Indicators together with Gerbner; co-author of the 1976 Violence Profile article.\n- [[person:morgan|Michael Morgan]] and [[person:signorielli|Nancy Signorielli]]: co-authors of the 1980 “mainstreaming” article; over the following decades they both defended and updated the theory. Signorielli was a member of the project’s original team and in 1974 published an early and frequently cited study of television characters.\n- Critics: [[person:hirsch|Paul Hirsch]] and Michael Hughes (1980–81), [[person:potter|W. James Potter]] (1993, 2014).\n\nA short timeline:\n\n- 1967–68: first violence content analysis\n- 1969: Surgeon General’s committee\n- early 1970s: first national sample survey [[cite:shanahan-morgan-1999]]\n- 1976: the Violence Profile [[cite:gerbner-gross-1976]]\n- 1980: “The ‘Mainstreaming’ of America” [[cite:gerbner-et-al-1980]]\n- 1997, 2010, 2021: meta-analyses and state-of-the-field reports\n\nDon’t mix them up: Gerbner looks at television’s cultural effect; agenda-setting ([[lesson:agenda-setting]]), which studies which issues come to be seen as important, is a separate line of research.",
+      "question": {
+        "id": "people-team-q", "type": "mcq",
+        "prompt": "Who wrote the article “Living with Television: The Violence Profile” (1976)?",
+        "options": [
+          "George Gerbner and Larry Gross",
+          "Maxwell McCombs and Donald Shaw",
+          "Paul Hirsch and Michael Hughes",
+          "Michael Morgan and W. James Potter"
+        ],
+        "answer": 0,
+        "explain": "The 1976 Violence Profile article was written by Gerbner and Gross. McCombs and Shaw are the pair behind agenda-setting; Hirsch and Hughes are the critics who reanalysed the cultivation findings in 1980; Potter criticised the theory conceptually in the 1990s. Memorizing name pairs together with the theory they belong to is the most useful strategy in an exam."
+      }
+    },
+    {
+      "id": "claim-core", "section": "claim", "layer": "core", "kind": "lab",
+      "title": "The one-sentence claim and a thought experiment",
+      "body": "**The theory in one sentence:** Heavy television viewers, compared with demographically similar but lighter viewers, tend to perceive the real world in line with the most common and recurring messages of the on-screen world [[cite:shanahan-morgan-1999]].\n\nThree things are hidden in this sentence: (1) “heavy and long-term” viewing; (2) beliefs about the *real world*, not about programmes; (3) “compared with similar but lighter viewers”, that is, comparison and control.\n\n**A thought experiment (hypothetical).** Imagine you have two relatives who are very much alike in age, education, income and where they live. One spends a few hours a week in front of a screen, the other hours every day. You ask both: “Do you think most people can be trusted?” What the theory predicts is that the heavy viewer’s answer will come out a little closer to the rules of the on-screen world. But a single question does not settle the “why”; researchers try to test this in samples of hundreds of people, holding other factors constant.\n\n**What it does not say:** It does not say that everyone who watches will think the same thing, or that a single programme will transform anyone.\n\n**Why is it controversial?** As Shanahan and Morgan also write, the hypothesis looks so reasonable at first glance that you may ask, “does that really deserve a book?” But after more than twenty years of testing and criticism it turned out to be neither this simple nor this obvious; it became one of the most debated approaches in communication research [[cite:shanahan-morgan-1999]].",
+      "question": {
+        "id": "claim-core-q", "type": "mcq",
+        "prompt": "Which of the following best summarizes the central hypothesis of cultivation theory?",
+        "options": [
+          "Viewers choose the programmes they watch to satisfy their needs.",
+          "Attitudes change immediately after a programme is watched.",
+          "Heavy television viewers perceive the real world as closer to the recurring messages of the television world.",
+          "The media determine which issues the public regards as important."
+        ],
+        "answer": 2,
+        "explain": "The central hypothesis is the relationship between heavy viewing and a perception of reality that fits the television world. The first option is the sentence of the uses and gratifications approach, the second of the hypodermic model, the fourth of agenda-setting; options that mix up theories like this often appear in exams."
+      }
+    },
+    {
+      "id": "claim-storyteller", "section": "claim", "layer": "core", "kind": "text",
+      "title": "Why “cultivation”? Why is television a “storyteller”?",
+      "body": "“Cultivation” means agriculture: sowing, watering, growing crops. This metaphor, chosen by Gerbner, says that influence forms not in one shot but through repetition and time. According to Shanahan and Morgan, the concept is a way of talking about “influencing” without saying “effect”. One of Gerbner’s often-quoted lines is: “Cultivation is what a culture does” [[cite:shanahan-morgan-1999]].\n\nAccording to Gerbner, human beings live by stories. Most of what we know we have not lived ourselves; we know it from stories. In the past it was the family, the teacher and the priest who told the stories. Theorists argue that today television tells most of the stories to most people most of the time [[cite:shanahan-morgan-1999]].\n\nGerbner says television tells three kinds of stories:\n\n1. **Stories about how things work:** fiction (series, films).\n2. **Stories about how things are:** the news.\n3. **Stories about what to do and what is valuable:** advertisements.\n\nTogether the three build the mediated culture we live in [[cite:shanahan-morgan-1999]]. This is why the theory asks not “what does a single programme do?” but “what does this story system, taken as a whole, teach?” The theorists themselves say this has a critical side: the power of storytelling is in the hands of a shrinking group of commercial institutions [[cite:shanahan-morgan-1999]].",
+      "question": {
+        "id": "claim-storyteller-q", "type": "mcq",
+        "prompt": "According to Gerbner’s three kinds of stories, which group do advertisements belong to?",
+        "options": [
+          "Stories about how things work (fiction)",
+          "Stories about how things are (news)",
+          "Stories about what to do and what is valuable",
+          "Advertisements do not count as stories; they only provide information"
+        ],
+        "answer": 2,
+        "explain": "According to Gerbner, advertisements are “value and choice” stories: they show what is desirable and what to do. Fiction is in the first group (it shows how things work), news in the second. The fourth option contradicts the basic idea of the theory: cultivation treats all media content as part of one story system."
+      }
+    },
+    {
+      "id": "deep-religion", "section": "claim", "layer": "deep", "kind": "text",
+      "title": "Deep: The “new state religion” and the ballad story",
+      "body": "Cultivation researchers see television as a powerful cultural bond resembling the function of pre-industrial religion; Shanahan and Morgan also use the analogy [[cite:shanahan-morgan-1999]]. Yaylagül likewise reports the same approach, in which television is regarded as a powerful means of cultural bonding, as religion was before the Industrial Revolution [[cite:yaylagul-2006]]. When Morgan, Shanahan and Signorielli (2015) examine cultivation in the new-media era, they use Gerbner’s view of television as the “new state religion” as their framework [[cite:morgan-shanahan-signorielli-2015]].\n\nThere is also a saying that Gerbner often cited: according to the Scottish patriot Andrew Fletcher, if one person could write all the ballads of a nation, he would not care who wrote its laws. Shanahan and Morgan write that this romantic idea is not easy to test, but that this does not make it any less interesting [[cite:shanahan-morgan-1999]]."
+    },
+    {
+      "id": "concepts-prongs", "section": "concepts", "layer": "core", "kind": "steps",
+      "title": "A three-pronged design: who produces it, what does it show, what does it leave behind?",
+      "body": "The Cultural Indicators project rests on three questions. Gerbner formulated this framework in 1973 [[cite:britannica-gerbner]]; each question calls for its own method [[cite:shanahan-morgan-1999]].\n\n1. **Institutional process analysis:** Under what pressures, constraints and processes are media messages selected, produced and distributed?\n2. **Message system analysis:** Count the recurring patterns in the content: who appears (demographics), what they do, who does what to whom, which relationships and images keep repeating. [[concept:message-system-analysis]]\n3. **Cultivation analysis:** Is paying attention to this message system related to viewers’ conception of social reality? [[concept:cultivation]]\n\nThe clever part of the design: each of the three questions has consequences for the other two. According to Gerbner, the “effect” of the media should be sought not in short-term attitude change but in the reciprocal relationship among the institutions that produce messages, the message systems, and the image structures of the culture [[cite:shanahan-morgan-1999]].\n\nWhy “indicators”? Economists take the pulse of the economy with indicators such as inflation and unemployment; Gerbner wanted the cultural counterpart, a barometer of cultural issues. He also thought of the project as a relatively independent “Third Voice”, standing outside the clashes of political and commercial interests [[cite:shanahan-morgan-1999]].\n\nIn Turkish studies these three components appear as “kurumsal süreç çözümlemesi, mesaj sistem çözümlemesi ve yetiştirme çözümlemesi” (institutional process analysis, message system analysis and cultivation analysis) [[cite:ercan-demir-2015]].",
+      "question": {
+        "id": "concepts-prongs-q", "type": "mcq",
+        "prompt": "A researcher counts the gender and occupation distribution of the characters in prime-time series. Which prong is this researcher working on?",
+        "options": [
+          "Institutional process analysis",
+          "Message system analysis",
+          "Cultivation analysis",
+          "Selective exposure analysis"
+        ],
+        "answer": 1,
+        "explain": "Counting who appears in the content, how often and in which roles is message system analysis. Institutional process analysis looks at who produces the content and under what pressures; cultivation analysis measures viewers’ beliefs. The third option is tempting because “cultivation” is the name of the theory; but counting content is only one precursor of it."
+      }
+    },
+    {
+      "id": "concepts-viewers", "section": "concepts", "layer": "core", "kind": "text",
+      "title": "Heavy viewers, light viewers and the “TV answer”",
+      "body": "The interesting thing about cultivation surveys is that their questions are **not about television**. According to Morgan, the questions are about life: safety, values, attitudes. For example: “Would you be afraid to walk the streets of your neighbourhood at night?” [[cite:mef-mean-world-2010]].\n\nEvery question has two kinds of answer: the answer that fits the reality of the television world (the “TV answer”) and the answer that fits the official statistics [[cite:erdogan-1998]]. Then participants are grouped by how much television they watch: light, medium and heavy viewers. The cultivation differential is the difference in the percentage of TV answers between the two extreme groups [[cite:erdogan-1998]]. Variables such as gender, age, education and income are controlled [[concept:heavy-viewers]].\n\nHow many hours count as “heavy” varies from study to study. For example, in Özer’s study of high-school students in Ankara, those who watched two hours or less were counted as “light” viewers and those who watched more than two hours as “heavy” viewers [[cite:ozer-2005]]. Books may mention other thresholds too, such as “four hours”; instead of memorizing a number, focus on the logic: a **relative comparison**.\n\nThe aim is to find out whether heavy viewers give more “TV answers” than light viewers with similar demographic characteristics [[cite:erdogan-1998]]. A “TV answer” does not mean a wrong answer; it means the answer that fits the lesson of the on-screen world.\n\nRemember: this does not say “people who watch television are aggressive”. What is being compared is *beliefs* about the world.",
+      "question": {
+        "id": "concepts-viewers-q", "type": "mcq",
+        "prompt": "What kind of questions are participants asked in a cultivation survey?",
+        "options": [
+          "Which programmes they like, and how much",
+          "How they interpret television content",
+          "Not about television itself, but about their beliefs about safety, trust and values in the real world",
+          "What they did after a programme"
+        ],
+        "answer": 2,
+        "explain": "The questions are about the real world; the researcher looks at whether the answers are “TV answers” or answers that fit the real statistics. The options about liking or interpreting programmes are closer to reception and uses-and-gratifications studies; “what they did after a programme” is the question of behavioural experiments."
+      }
+    },
+    {
+      "id": "concepts-mean", "section": "concepts", "layer": "core", "kind": "story",
+      "title": "Mean world syndrome: would you go out at night?",
+      "body": "When Gerbner and his team split the survey results by amount of viewing, they saw the same pattern again and again: heavy viewers were more insecure, more fearful. Morgan sums it up this way: in almost every case, heavy viewers show a greater sense of insecurity. Gerbner calls this the **mean world syndrome**; viewers internalize a sense of danger, mistrust and meanness: “a sense of danger, of mistrust, of meanness in the world” [[cite:mef-mean-world-2010]]. In Britannica’s definition: believing that the world is more violent and mean than it actually is [[cite:britannica-gerbner]].\n\nAnother of Gerbner’s terms is “happy violence”: violence that is fast, spectacular, witty and ends happily, in other words violence that is meant to be entertaining [[cite:mef-mean-world-2010]]. Violence that is this “sweetened” on screen may normalize the danger of the world.\n\nAn ironic detail: Gerbner does not consider the pushing of people into real violence by television violence to be the main issue; he says the direct contribution is negligible [[cite:mef-mean-world-2010]]. What really interests him is fear: in 1981 he argued in Congress that frightened people are more dependent and can be more easily steered and controlled [[cite:fair-gerbner-2006]].\n\nIn Turkish studies the concept appears as “kötü dünya sendromu” (e.g. Özkan 2017) [[cite:ozkan-2017]]. One more caution: this is a finding of association; the debate on causality is in the critique section.",
+      "question": {
+        "id": "concepts-mean-q", "type": "mcq",
+        "prompt": "According to Gerbner, what was the main social consequence of heavy television violence?",
+        "options": [
+          "Leading viewers directly to aggressive behaviour",
+          "Instilling in viewers the belief that the world is more dangerous and untrustworthy than it really is",
+          "Driving people away from television altogether",
+          "Increasing trust in news programmes"
+        ],
+        "answer": 1,
+        "explain": "The primary claim of cultivation is fear and insecurity: the mean world syndrome. Gerbner said he found the direct contribution to violence negligible. The first option is the most common misunderstanding; the theory is built on perception of the world, not on imitation."
+      }
+    },
+    {
+      "id": "deep-orders", "section": "concepts", "layer": "deep", "kind": "text",
+      "title": "Deep: first-order and second-order measures",
+      "body": "There are two kinds of measurement in the cultivation literature. **First-order measures** ask participants to estimate how often things happen (“how many crimes happen in your neighbourhood in a year?”). **Second-order measures** measure attitudes (“are you afraid to walk at night?”) [[cite:potter-1991]].\n\nPotter’s 1991 study showed that the two were only weakly related overall, but that stronger patterns appeared in subgroups (especially by age). On some topics, first-order estimates seemed to be the basis of second-order beliefs [[cite:potter-1991]].\n\nYaylagül reports the same distinction as “ilk düzey etkiler” (“first-level effects”: general beliefs, for example how common violence is) and “ikincil düzey etkiler” (“secondary-level effects”: specific tendencies such as law and order and personal safety) [[cite:yaylagul-2006]]. If you meet these Turkish names in an exam, they are asking for the same thing."
+    },
+    {
+      "id": "assumptions-myth", "section": "assumptions", "layer": "core", "kind": "myth",
+      "title": "What does the theory assume, and what does it not?",
+      "body": "**What people assume:** “Cultivation is the theory that says a child who watches a violent film will become aggressive.”\n\n**What the theorists say:** Shanahan and Morgan write explicitly: cultivation does not study the effect of a news bulletin or an election ad on vote choice, of an advertisement on product sales, of aggression or nightmares after a violent programme, or of a series on fashion [[cite:shanahan-morgan-1999]]. The focus is long-term, total exposure.\n\nThe theory assumes the following:\n\n- Television (especially fiction) offers consistent, repetitive, pervasive and unavoidable patterns of messages [[cite:shanahan-morgan-1999]].\n- It is assumed that messages are largely uniform and that viewing is not selective; critics debate precisely these two assumptions [[cite:potter-1993]].\n- Effects are not short-term but slow, indirect and cumulative [[cite:shanahan-morgan-1999]].\n\nAn important subtlety: the theorists themselves do not say that the effect is a one-way flow from television to viewer; there is a continuing, dynamic interaction between message and context [[cite:ozer-2005]] [[cite:ozkan-2017]].\n\nThere is also a “hidden” assumption: Shanahan and Morgan regard the theory as a critical theory and write that they assume communication institutions are in the hands of social, cultural and above all economic elites, and that messages serve those elites’ purposes. They also say themselves that they have not tested these two assumptions directly and empirically [[cite:shanahan-morgan-1999]].",
+      "question": {
+        "id": "assumptions-myth-q", "type": "tf",
+        "prompt": "True or false: Cultivation theory assumes that the effect of television reaches the viewer one-way and instantly.",
+        "answer": false,
+        "explain": "False. The theorists regard the effect as slow, cumulative and part of an interaction between message and context; they do not speak of a one-way flow. What makes the wrong answer attractive is that the word “effect” is still identified with the hypodermic model."
+      }
+    },
+    {
+      "id": "how-steps", "section": "how-it-works", "layer": "core", "kind": "steps",
+      "title": "A cultivation study, step by step",
+      "body": "Seeing how it runs on paper is the shortest way to understand the theory:\n\n1. **Recording and coding:** Every year, one week of prime-time and weekend daytime fiction programmes is recorded; content analysis counts who does what [[cite:shanahan-morgan-1999]].\n2. **The television world:** The results yield a portrait of the on-screen world.\n3. **Comparison with reality:** Where possible, this portrait is compared with official statistics [[cite:erdogan-1998]].\n4. **Survey questions:** A national sample is asked questions that reflect the “lesson” of the television world; each question has a “TV answer”.\n5. **Grouping:** Participants are divided into light, medium and heavy viewers by how much television they watch.\n6. **Control:** The comparison is balanced with variables such as gender, age, education, income and place of residence [[cite:erdogan-1998]].\n7. **Cultivation differential:** The percentage difference in “TV answers” between heavy and light viewers is calculated.\n\nThe first national sample survey was carried out in the early 1970s, funded by the National Institute of Mental Health (NIMH) [[cite:shanahan-morgan-1999]]. So the order is: first the content, then the viewer.\n\nIn short, the flow is: content → real statistics → survey → comparison. If you skip a step (for example, if you only run a survey without a content analysis), what you have is no longer a full cultivation study.",
+      "question": {
+        "id": "how-steps-q", "type": "order",
+        "prompt": "Put the steps of a cultivation study in the correct order.",
+        "items": [
+          "Programmes are recorded and content-analysed",
+          "The television world is compared with real statistics",
+          "A national survey is run with questions that have TV answers",
+          "Participants are grouped by how much television they watch",
+          "The TV-answer difference is calculated with demographic controls"
+        ],
+        "explain": "Cultivation begins with content: without knowing what the television world is, it is not clear which answer counts as the “TV answer”. Then come the survey, the grouping and the controlled comparison. Starting with the survey is a common mistake."
+      }
+    },
+    {
+      "id": "how-mainstream", "section": "how-it-works", "layer": "core", "kind": "lab",
+      "title": "Two fine-tunings: mainstreaming and resonance",
+      "body": "In the early years the theory looked one-directional, like “heavy viewers are more afraid”. As criticisms came in, two concepts came to the fore; we will cover the details in the lesson [[lesson:mainstreaming-critique]], and here is the gist.\n\n**Mainstreaming.** Heavy viewing erodes differences of opinion that stem from other factors. Because television is the shared storyteller of society, heavy viewers move closer to a common “television mainstream” [[cite:morgan-2008-mainstreaming]]. For example, on the question of political outlook, heavy viewers more often call themselves “moderate” and avoid saying “liberal” or “conservative” [[cite:morgan-shanahan-signorielli-2016]].\n\n**Resonance.** If everyday experience resembles the messages on television, the effect gets a “double dose”. According to Özer’s account, the relationship between viewing and fear is strongest among people who live in city centres with high crime rates [[cite:ozer-2005]].\n\nAn example of mainstreaming from Özer’s account: looking by income, the heavy viewers in the middle and upper income groups come closer to each other; in terms of education, since the less educated already experience alienation, no additional effect of television viewing is seen (the “ceiling effect”) [[cite:ozer-2005]].\n\n**Mini lab (hypothetical):** Picture one person who lives in a high-crime neighbourhood and watches a lot of television, and another who lives in a safe district and also watches a lot. According to resonance, whose fear would be more strongly tied to television?",
+      "question": {
+        "id": "how-mainstream-q", "type": "mcq",
+        "prompt": "A heavy television viewer who lives in a high-crime neighbourhood turns out to be markedly more fearful than a light viewer in the same neighbourhood. Which concept best explains this?",
+        "options": [
+          "Mainstreaming",
+          "Resonance",
+          "Agenda-setting",
+          "Selective exposure"
+        ],
+        "answer": 1,
+        "explain": "When everyday experience (high crime) and the messages on television overlap, a “double dose” arises; this is called resonance. Mainstreaming, by contrast, is the blurring of differences among different groups in heavy viewers; in the scenario there is no convergence between groups, but an overlap of experience and message."
+      }
+    },
+    {
+      "id": "deep-design", "section": "how-it-works", "layer": "deep", "kind": "text",
+      "title": "Deep: design details of Cultural Indicators",
+      "body": "**Sampling:** Message system analysis has run every year since 1967: one-week samples are recorded from the prime-time and weekend daytime fiction programmes of the American broadcast networks. In the 1990s the analysis was expanded to cover the Fox network, “reality” programmes and some cable channels [[cite:shanahan-morgan-1999]].\n\n**Scale:** Britannica reports that the Cultural Indicators database covers more than 3,000 programmes and 35,000 characters [[cite:britannica-gerbner]].\n\n**Funding:** Over the years the project received support from many institutions: public and professional bodies such as the National Institute of Mental Health, the White House Office of Telecommunications Policy, the American Medical Association and the National Science Foundation, and also some broadcasting and cable organizations [[cite:shanahan-morgan-1999]].\n\n**The “Third Voice”:** Gerbner designed the project as a relatively independent “Third Voice” amid the clash between politics and commercial interests; the aim was to provide a more neutral ground for cultural-policy debates [[cite:shanahan-morgan-1999]]."
+    },
+    {
+      "id": "evidence-profile", "section": "evidence", "layer": "core", "kind": "story",
+      "title": "The Violence Profile: the first big report (1976)",
+      "body": "In 1976 Gerbner and Gross published “Living with Television: The Violence Profile” in the Journal of Communication [[cite:gerbner-gross-1976]]. According to Shanahan and Morgan, this was the publication that contained the first results of cultivation analysis [[cite:shanahan-morgan-1999]].\n\nWhat did this profile show? According to Britannica, the Violence Profile aimed at continuously monitoring violence in prime time and examining who was harmed and who did the harming. Basing himself on these profiles, Gerbner showed Congress that the amount of prime-time violence changed very little from one season to the next [[cite:britannica-gerbner]]. The demographics of the television world were also striking: Gerbner had noticed that the screen foregrounded young white men, and that women, older people and people of different skin colours rarely appeared as main characters [[cite:fair-gerbner-2006]].\n\nOn the viewer side, Morgan’s summary is that heavy viewers are more insecure in almost every case [[cite:mef-mean-world-2010]]. A study of 1,280 children in Perth, Australia, repeated this relationship only among adolescents (details in the deep card) [[cite:hawkins-pingree-1980]].\n\nI am deliberately not giving percentages: different figures circulate among the sources, and I could not verify them from the primary text.",
+      "question": {
+        "id": "evidence-profile-q", "type": "mcq",
+        "prompt": "What did Gerbner try to show Congress with the Violence Profile data?",
+        "options": [
+          "That the amount of prime-time violence changed very little from season to season",
+          "That television violence was doubling every year",
+          "That children became aggressive immediately after watching a violent programme",
+          "That there was more violence in news bulletins than in fiction"
+        ],
+        "answer": 0,
+        "explain": "According to Britannica, Gerbner used the profiles to show that violence in prime time hardly changed from season to season. The “rising every year” option is tempting because news about violence gives us a feeling of increase; but what the theory is interested in is not change but a stable and lasting message system."
+      }
+    },
+    {
+      "id": "evidence-size", "section": "evidence", "layer": "core", "kind": "text",
+      "title": "How big is the effect? Verified numbers",
+      "body": "There are hundreds of studies on cultivation, so the most solid way is to look at meta-analyses. A meta-analysis converts the results of separate studies into a common measure and summarizes them together; this common measure is called the “effect size”.\n\n- **1997:** Morgan and Shanahan summarized twenty years of cultivation research with a meta-analysis; the average cultivation effect came out at .09 [[cite:morgan-shanahan-1997]].\n- **2010:** The same authors reported that more than 125 new studies had been published since 2000 [[cite:morgan-shanahan-2010]].\n- **2021:** Hermann, Morgan and Shanahan carried out a meta-analysis of cultivation studies from the 1970s to the present: 3,842 effect sizes from 406 independent samples, with an overall effect of .107. The effect stayed within a very narrow range over the decades; that is, although television changed a great deal, the relationship did not disappear [[cite:hermann-morgan-shanahan-2021]].\n\nThese values are statistically small (this is our own general statistical reading). Two things are verified: the effect is not zero, and it has not visibly faded over the years. Critics, for their part, argue that the relationship may be explained by other factors; we will see this in the critique section.\n\nA caution: these meta-analyses are based on different sets of studies; do not read .09, .107 and (for social media) .123 as a simple “growth story”. Each figure is a summary of its own set of samples.",
+      "question": {
+        "id": "evidence-size-q", "type": "mcq",
+        "prompt": "What is the main finding of Hermann, Morgan and Shanahan’s 2021 meta-analysis?",
+        "options": [
+          "The cultivation effect disappeared completely with cable television.",
+          "The overall effect was about .107 and stayed within a narrow range over the decades.",
+          "The effect was seen only in very large samples, not in small ones.",
+          "Overall viewing showed a weaker effect than genre-specific viewing."
+        ],
+        "answer": 1,
+        "explain": "The meta-analysis found an overall effect of .107 and reported that the effect stayed within a narrow range over the decades despite technological change. The fourth option is a reversed answer: the effect of overall viewing came out stronger than that of genre-specific viewing (though it weakened over time). The third option is also reversed: effects were larger in small samples."
+      }
+    },
+    {
+      "id": "deep-toronto", "section": "evidence", "layer": "deep", "kind": "text",
+      "title": "Deep: the design of the Toronto study",
+      "body": "Doob and Macdonald (1979) carried out a door-to-door survey. The sample was drawn from four places: a high-crime and a low-crime area in central Toronto, and a high-crime and a low-crime area in the suburbs [[cite:doob-macdonald-1979]].\n\nParticipants reported their media use and their estimates of the likelihood of becoming a victim of violence. When the four areas were pooled, the earlier finding (heavier viewers are more fearful) was repeated. But the average within-area correlation was non-significant; multiple regression and canonical correlation analyses confirmed this [[cite:doob-macdonald-1979]].\n\nThe finding can be read in two ways. The critical reading: the viewing–fear relationship may be “spurious”; the actual crime rate explains both. The cultivation side’s reading: according to Özer, Doob and Macdonald found a strong fit between viewing and fear in high-crime places, and this laid the ground for Gerbner’s developing the concept of resonance [[cite:ozer-2005]]."
+    },
+    {
+      "id": "deep-perth", "section": "evidence", "layer": "deep", "kind": "text",
+      "title": "Deep: 1,280 children in Perth",
+      "body": "Hawkins and Pingree (1980) put questions about perceptions of violence and “meanness” to 1,280 children in the second, fifth, eighth and eleventh grades in Perth, Western Australia [[cite:hawkins-pingree-1980]].\n\nThe viewing–belief relationship was replicated in Australian schoolchildren, but **only among adolescents**. The authors attributed this to the fact that turning separate television events into beliefs about social reality requires cognitive skills that young children do not have or do not use.\n\nWhen content types were separated, violence beliefs came mostly from crime–adventure programmes and cartoons; the “mean world” perception, by contrast, was related more generally to all television viewing [[cite:hawkins-pingree-1980]]. (For children, see [[lesson:children-and-tv]].)"
+    },
+    {
+      "id": "deep-moderators", "section": "evidence", "layer": "deep", "kind": "text",
+      "title": "Deep: meta-analyses and “moderators”",
+      "body": "**The 1997 meta-analysis:** Morgan and Shanahan reported that most of the variation in findings could be attributed to sampling error, that among the hypothesized moderating variables they tested there was no clearly prominent one, and that a number of theoretical claims receded into the background from the meta-analytic point of view [[cite:morgan-shanahan-1997]].\n\n**The 2021 meta-analysis:** The overall effect is .107; it varies within a narrow range. Overall viewing gave a stronger effect than genre-specific viewing, but this advantage weakened over time. In addition, the effect was larger in small samples and in data collected by survey [[cite:hermann-morgan-shanahan-2021]].\n\nThe authors write that this picture supports the “traditional” view, but also partly supports the “reformist” view [[cite:hermann-morgan-shanahan-2021]]. So it is neither a full defence nor a full demolition of the theory: a balanced picture of the evidence."
+    },
+    {
+      "id": "critique-hirsch", "section": "critique", "layer": "core", "kind": "story",
+      "title": "1980: Same data, different conclusion",
+      "body": "In 1980 two researchers took another look at the Gerbner team’s findings using national survey data.\n\nMichael Hughes reanalysed the alienation and fear-of-walking-near-home items in the 1975 and 1977 data of the General Social Survey (GSS). When he controlled variables such as age, sex, race, income, education, church attendance and association membership **simultaneously**, he reported that the effects the Gerbner team had found largely disappeared [[cite:hughes-1980]].\n\n[[person:hirsch|Paul Hirsch]] also pointed to inconsistencies in items, sampling and coding; he argued that when controls are applied simultaneously rather than one at a time, no linear relationship remains between amount of viewing and the “TV answer”, and concluded that the cultivation hypothesis lacks empirical support [[cite:hirsch-1980]].\n\nThe Gerbner team did not stay silent: in Communication Research they published a reply titled “A Curious Journey into the Scary World of Paul Hirsch” [[cite:gerbner-et-al-1981]]. Shanahan and Morgan write that mainstreaming was one of the main responses to these first criticisms [[cite:shanahan-morgan-1999]].\n\nOur reading: this was mostly a methodological debate about control strategy; both sides were slicing the same data differently.",
+      "question": {
+        "id": "critique-hirsch-q", "type": "mcq",
+        "prompt": "Which of the following is the main methodological point of Hirsch’s (1980) critique of cultivation?",
+        "options": [
+          "That survey questions should be asked about television",
+          "That the linear relationship disappears when controls are applied simultaneously rather than one at a time",
+          "That watching television definitely creates aggression",
+          "That the theory can be applied only to news viewers"
+        ],
+        "answer": 1,
+        "explain": "Hirsch’s main argument was that when controls are applied simultaneously, the linear relationship between viewing and the TV answer disappears. The third option is both the opposite and not the theory’s own claim: Hirsch was someone who criticized the theory, not someone who supported it."
+      }
+    },
+    {
+      "id": "critique-causality", "section": "critique", "layer": "core", "kind": "text",
+      "title": "Causality, uniform messages and the problem of measurement",
+      "body": "The best-known branch of the criticism is **causality**. Doob and Macdonald (1979) ran a door-to-door survey in high-crime and low-crime neighbourhoods in Toronto. Pooling all the neighbourhoods, they repeated the earlier finding; but the relationships within neighbourhoods were non-significant. That is, once the actual crime rate was controlled, there was no general relationship between viewing and fear [[cite:doob-macdonald-1979]]. A third factor (the real danger of the neighbourhood) could be explaining both viewing and fear. According to Özer, this finding became the basis for Gerbner developing the concept of resonance [[cite:ozer-2005]].\n\nOn the conceptual front, [[person:potter|W. James Potter]] in 1993 examined the theory through assumptions such as uniform messages, non-selective viewing, linearity, causality, mainstreaming and resonance [[cite:potter-1993]]. In 2014 he argued that “cultivation” actually corresponds to three different things [[cite:potter-2014]].\n\nThere are voices in the Turkish literature too. İrfan Erdoğan writes that the violence Gerbner deals with stays within a very narrow frame, and that there are much more important forms of violence [[cite:erdogan-1998]]. Yaylagül notes that the project’s method is traditional content analysis and survey, and that it can be considered administrative research lacking a historical-institutional context [[cite:yaylagul-2006]].\n\nThe defenders’ reply: cultivation is a reciprocal process, and some “causal” criticisms miss the main point [[cite:shanahan-morgan-1999]].",
+      "question": {
+        "id": "critique-causality-q", "type": "mcq",
+        "prompt": "In Doob and Macdonald’s Toronto study, what happened when the neighbourhood’s actual crime rate was taken into account?",
+        "options": [
+          "The relationship between television viewing and fear became even stronger.",
+          "The within-neighbourhood relationship became non-significant; no general viewing–fear relationship was seen.",
+          "The effect was seen only in children.",
+          "The effect among women viewers disappeared."
+        ],
+        "answer": 1,
+        "explain": "When all the data from the four neighbourhoods (high and low crime, city centre and suburb) were pooled, the relationship was found; but the average within-neighbourhood relationship was non-significant. The first option is the exact opposite of the criticism: the finding made the theory look weaker and more conditional."
+      }
+    },
+    {
+      "id": "deep-exchange", "section": "critique", "layer": "deep", "kind": "text",
+      "title": "Deep: chronology of the 1980–81 debate",
+      "body": "The main links in the debate were verified against Crossref records:\n\n- Hughes (1980), Public Opinion Quarterly 44(3): a reanalysis of the GSS data [[cite:hughes-1980]].\n- Hirsch (1980), Communication Research 7(4): the “scary world” article, part one [[cite:hirsch-1980]].\n- Hirsch (1981), Communication Research 8(1): part two [[cite:hirsch-1981]].\n- Gerbner, Gross, Morgan and Signorielli (1981), in the same issue (8(1), pp. 39–72): “A Curious Journey into the Scary World of Paul Hirsch” [[cite:gerbner-et-al-1981]].\n- The same four authors’ “Final Reply to Hirsch”, Communication Research 8(3) [[cite:gerbner-et-al-1981b]].\n\nAnother link: Hirsch argued that the mainstreaming effect was a statistical artifact called “regression to the mean”. Van den Bulck (2003) argued that in Gerbner’s method chance effects have the same opportunity to occur for both heavy and light viewers, so mainstreaming cannot arise from regression to the mean [[cite:van-den-bulck-2003]]."
+    },
+    {
+      "id": "deep-potter", "section": "critique", "layer": "deep", "kind": "text",
+      "title": "Deep: Potter’s “three cultivations” distinction",
+      "body": "Potter (2014) carried out a literature review and argued that the term “cultivation” is used in three different senses [[cite:potter-2014]]:\n\n1. Gerbner’s **macrosystem explanation** of media processes and effects.\n2. A set of **operational practices** that search for a relationship between television exposure and a wide range of cultivation indicators.\n3. A **general forum of discussion** exploring media influence, where researchers step outside Gerbner’s conceptual boundaries.\n\nThe author evaluated this literature by the criteria of “heuristic value, empirical support and precision” [[cite:potter-2014]]. His 1993 article had dealt with assumptions such as the meaning of the indicators, uniform messages and non-selective viewing, linearity, causality and mainstreaming [[cite:potter-1993]].\n\nThis is a useful warning for the defenders as well: when a study says “cultivation”, ask in which sense it means it."
+    },
+    {
+      "id": "today-digital", "section": "today", "layer": "core", "kind": "text",
+      "title": "Cultivation in the age of streams and feeds: documented findings",
+      "body": "In Gerbner’s world there were a few channels and everyone watched roughly the same stories. In today’s personalized feeds, this “shared message system” assumption becomes harder to hold. Morgan, Shanahan and Signorielli (2015) discuss these changing conditions [[cite:morgan-shanahan-signorielli-2015]]. Documented findings:\n\n- **Television is still related:** In the 2021 meta-analysis the effect remained stable for decades [[cite:hermann-morgan-shanahan-2021]].\n- **Social media:** The 2023 meta-analysis found 460 effect sizes from 66 independent samples, with an overall effect of .123. In studies of exposure to specific content the effect was higher than for general use; it was also higher in young samples and in Asian samples; when active use was measured, it was lower [[cite:hermann-morgan-shanahan-2023]].\n- **Gaming:** In a one-month online game experiment, participants’ perception of danger in the real world changed, but only for dangers seen in the game world [[cite:williams-2006]].\n- **Facebook:** Over 2010–2015 privacy attitudes relaxed; among heavy users perceived risk increased, while among light users it stayed constant [[cite:tsay-vogel-shanahan-signorielli-2018]].\n\nOur interpretation (not documented): in a personalized feed the “same story for everyone” assumption weakens; on the other hand, the finding that exposure to a specific type of content gave a stronger effect (2023) may be a hint in exactly this direction. I have no verified study on streaming services such as Netflix, so I make no claim about them here.",
+      "question": {
+        "id": "today-digital-q", "type": "mcq",
+        "prompt": "What tendency did Hermann, Morgan and Shanahan’s 2023 social media meta-analysis find?",
+        "options": [
+          "General social media use showed a stronger effect than exposure to specific content.",
+          "Exposure to a specific type of content showed a higher effect than general use.",
+          "Active use showed a higher effect than passive use.",
+          "The effect was seen only in older samples."
+        ],
+        "answer": 1,
+        "explain": "The meta-analysis reported that in studies of exposure to specific content the effect was higher than for general use; it was also higher in young people, and lower for active use. The third and fourth options state the opposite of the findings."
+      }
+    },
+    {
+      "id": "today-lab", "section": "today", "layer": "core", "kind": "lab",
+      "title": "Mini lab: the message system of your own feed",
+      "body": "You can try the first prong of cultivation (the message system) at home. This is not a scientific study, but an exercise for getting a feel for the logic.\n\n**What to do (three days):**\n\n1. Each day, observe the first 30 items in your feed (news, video, social media, series). Only your own feed; do not note down other people’s accounts.\n2. For each item choose just one category: danger/disaster/crime, everyday life, entertainment, other.\n3. Over the three days, count how many were danger/disaster/crime.\n\nThen ask yourself: Is this higher than the frequency of danger I actually meet in daily life? Which stories repeat most often?\n\n**What is missing:** A scientific message system analysis calls for a representative sample, consistent coding rules and more than one coder. Your exercise has none of these; so you cannot conclude from the result that “feeds produce a mean world”. You are only learning to ask the right question.\n\n**Bonus thought:** With a friend, compare only the numbers (e.g. “how many out of 30 were danger?”); there is no need to share content or accounts. Why do the numbers come out different? How does this difference affect cultivation’s assumption that “everyone sees the same stories”?",
+      "question": {
+        "id": "today-lab-q", "type": "mcq",
+        "prompt": "Of the three prongs of cultivation, which is this mini exercise a simple imitation of?",
+        "options": [
+          "Institutional process analysis",
+          "Message system analysis",
+          "Cultivation analysis",
+          "None of them"
+        ],
+        "answer": 1,
+        "explain": "Sorting the items in a feed into categories and counting them is a simple form of message system analysis. Cultivation analysis is the survey that measures viewers’ beliefs; there is no survey in this exercise. Institutional process analysis looks at who produces the content and under what pressure."
+      }
+    },
+    {
+      "id": "turkey-studies", "section": "turkey", "layer": "core", "kind": "text",
+      "title": "Cultivation studies in Turkey",
+      "body": "Cultivation has been tested in Turkey as well. In Turkish the theory appears under the names “ekme” (“sowing”; Yaylagül, Erdoğan), “yetiştirme” (“raising”; Özer, Ercan and Demir) and “kültürel göstergeler” (“cultural indicators”).\n\n- **Ankara high schools (2005):** In a field study with students from two high schools in Ankara, Turkey’s capital, Ömer Özer tested whether the perception of a dangerous world depends on living in violence-heavy places or on television, and took up the idea of resonance. The author reports that the results confirm the propositions of Gerbner and his colleagues [[cite:ozer-2005]].\n- **Anadolu University Faculty of Science:** Ercan and Demir (2015) ran a survey that drew on the cultivation analysis component [[cite:ercan-demir-2015]]. In a study with students of the same faculty, Özer (2019) writes that heavy viewers regarded the police as necessary for this world and interpreted this as a sign that hegemony had been realized [[cite:ozer-2019]].\n- **Baku (2024):** Özer and Jafarli first carried out a message system analysis of the prime time of Turkish channels (ATV, Kanal D, Star, Show TV, all national channels in Turkey): elements such as crime, violence, death, security forces and male dominance came to the fore. The survey questions were prepared according to these findings and applied to 500 university students (300 women, 200 men) in Baku, the capital of Azerbaijan. The authors concluded that television has a cultivating and mainstreaming role [[cite:ozer-jafarli-2024]].\n- **Critical reading:** Erdoğan (1998) evaluated Gerbner’s approach in terms of theory and method [[cite:erdogan-1998]].\n\nNote: these are small, local samples; do not read the results as national generalizations. The interpretations given belong to their authors.",
+      "question": {
+        "id": "turkey-studies-q", "type": "mcq",
+        "prompt": "How were the survey questions prepared in Özer and Jafarli’s Baku study?",
+        "options": [
+          "The questions were translated word for word from American studies.",
+          "A message system analysis of Turkish channels was carried out first; the questions were prepared according to these findings.",
+          "The survey was run and no content analysis was done at all.",
+          "Only news programmes were examined."
+        ],
+        "answer": 1,
+        "explain": "The study follows the logic of the theory: first a message system analysis (ATV, Kanal D, Star, Show TV), then a survey based on these findings. Starting with the survey (the third option) would break the order of a cultivation study."
+      }
+    },
+    {
+      "id": "exam-patterns", "section": "exam", "layer": "core", "kind": "text",
+      "title": "How it’s asked in exams",
+      "body": "**Frequent patterns**\n\n- “Who is the Cultural Indicators project and the cultivation (‘ekme’) theory associated with?” → George Gerbner (Annenberg, Pennsylvania).\n- Concept matching: mainstreaming, resonance, mean world syndrome, heavy viewer.\n- Theory comparison: cultivation (long-term perception of reality) versus agenda-setting (which issues are seen as important) and the hypodermic model (a single message, instant effect).\n\n**Tempting wrong answers**\n\n- “People who watch violence commit violence” → not cultivation’s claim; its claim is fear and perception of the world.\n- “Hirsch supported the theory” → no, in 1980–81 he criticized it through a reanalysis.\n- “Potter was Gerbner’s co-worker” → no, he was a conceptual critic.\n- Years: Violence Profile 1976; mainstreaming article 1980.\n\n**Alternative names (in books and articles)**\n\n- Yaylagül (2006): “Kültürel Göstergeler ve Ekme Kuramı” (“Cultural Indicators and Cultivation Theory”); he also mentions the distinction between first- and second-level effects [[cite:yaylagul-2006]]. In the AUZEF textbook (unit 8; AUZEF is the İstanbul University open and distance education faculty) the title “Kültürel Göstergeler ve Ekme Modeli” (“Cultural Indicators and the Cultivation Model”) appears.\n- Özer and others: “yetiştirme kuramı”, “yetiştirme çözümlemesi” (“cultivation theory”, “cultivation analysis”) [[cite:ozer-2005]].\n- Özkan (2017): “kötü dünya sendromu” (“mean world syndrome”) [[cite:ozkan-2017]].\n\nIn Turkish sources it may be written that Cultural Indicators began in the “mid-1960s” (“1960’ların ortası”) [[cite:yaylagul-2006]] [[cite:erdogan-1998]]; the first violence analysis, however, is the 1967–68 season.",
+      "question": {
+        "id": "exam-patterns-q", "type": "mcq",
+        "prompt": "An exam question asks: “Which theory argues that heavy television viewing, over the long term, leads people to perceive the real world as similar to the on-screen world?” Which is the correct answer?",
+        "options": [
+          "Agenda-setting",
+          "Spiral of silence",
+          "Cultivation (in Turkish: ekme / yetiştirme)",
+          "The hypodermic (magic bullet) model"
+        ],
+        "answer": 2,
+        "explain": "A long-term, cumulative perception of reality is the signature of cultivation. Agenda-setting focuses on which issues are seen as important, the spiral of silence on the fear of being in the minority, the hypodermic model on the instant effect of a single message."
+      }
+    },
+    {
+      "id": "summary", "section": "summary", "layer": "core", "kind": "summary",
+      "title": "Summary card",
+      "body": "- **1967–69:** In the context of the violence commission and the Surgeon General’s committee, Gerbner’s annual television content analysis begins; Cultural Indicators is born.\n- **Three prongs:** institutional process analysis, message system analysis, cultivation analysis.\n- **Core claim:** heavy viewers perceive the real world in line with the television world; the effect is spread over years.\n- **Concepts:** heavy viewer, TV answer, mean world syndrome, mainstreaming, resonance.\n- **Evidence:** meta-analyses; average effect .09 (1997) and .107 (2021), within a narrow range for decades.\n- **Critique:** Hughes and Hirsch (1980–81), Doob and Macdonald (1979), Potter (1993, 2014); causality and measurement.\n- **Today:** social media (.123), games and feeds; the specific type of content may be decisive.\n- **Exam:** “perception of the world”, not “imitation”; years: 1976 and 1980.",
+      "question": {
+        "id": "summary-q", "type": "tf",
+        "prompt": "True or false: According to cultivation, the main effect of television is to lead viewers directly to violence.",
+        "answer": false,
+        "explain": "False. The focus of cultivation is perception of the world and fear (the mean world syndrome); Gerbner finds the direct contribution to violence negligible."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1", "type": "mcq",
+      "prompt": "A research team is examining under what commercial and institutional pressures series and news are produced. Which prong of Cultural Indicators is this?",
+      "options": [
+        "Message system analysis",
+        "Cultivation analysis",
+        "Institutional process analysis",
+        "Uses and gratifications analysis"
+      ],
+      "answer": 2,
+      "explain": "Asking through which processes and pressures messages are selected and produced is institutional process analysis. Message system analysis counts the content; cultivation analysis measures viewers’ beliefs. The fourth option is the name of a different theory."
+    },
+    {
+      "id": "q2", "type": "tf",
+      "prompt": "True or false: According to Gerbner, the main consequence of television violence is that viewers imitate this violence.",
+      "answer": false,
+      "explain": "False. Gerbner said he found the direct contribution to violence negligible and put forward as the main consequence the feeling of fear and insecurity (the mean world syndrome). The imitation claim belongs not to cultivation but to the tradition of experiments and social learning."
+    },
+    {
+      "id": "q3", "type": "match",
+      "prompt": "Match the researchers and studies with the contribution they belong to.",
+      "pairs": [
+        ["George Gerbner", "Founder of the Cultural Indicators project; the three-pronged design"],
+        ["Doob and Macdonald (1979)", "Comparison of high-crime and low-crime neighbourhoods in Toronto"],
+        ["Potter (1993, 2014)", "Conceptual critique of the theory; three distinct meanings of “cultivation”"],
+        ["Hawkins and Pingree (1980)", "A study with 1,280 children in Perth"],
+        ["Morgan and Shanahan (1997)", "Meta-analysis of twenty years of studies (average .09)"]
+      ],
+      "explain": "Mixing up these pairings is common in exams. Gerbner is the founder; Doob and Macdonald are critics who took the actual crime rate into account; Potter is the conceptual critic; Hawkins and Pingree replicated the finding with children in Australia; the Morgan–Shanahan meta-analysis is a survey of the evidence by the theory’s own defenders."
+    },
+    {
+      "id": "q4", "type": "order",
+      "prompt": "Put the events in chronological order (oldest to newest).",
+      "items": [
+        "The Commission funds the 1967–68 season violence content analysis (1968)",
+        "The Surgeon General’s committee and 23 projects (1969)",
+        "Gerbner and Gross’s Violence Profile article (1976)",
+        "The “‘Mainstreaming’ of America” article (1980)",
+        "Potter’s conceptual critique (1993)",
+        "The social media meta-analysis (2023)"
+      ],
+      "explain": "The order is: 1968 commission, 1969 committee, 1976 Violence Profile, 1980 mainstreaming, 1993 Potter, 2023 social media meta-analysis. Mixing up the Violence Profile and the mainstreaming article is a frequent mistake: the first contains the first results, the second is a response to the first criticisms."
+    },
+    {
+      "id": "q5", "type": "cloze",
+      "prompt": "Fill in the blanks.",
+      "text": "The tendency of heavy viewers to have the differences of opinion between different groups eroded and to move closer to a common view is called {{1}}; the overlap of everyday experience and television messages that increases the effect is called {{2}}.",
+      "blanks": [
+        { "options": ["mainstreaming", "agenda-setting", "selective perception", "priming"], "answer": 0 },
+        { "options": ["resonance", "spiral of silence", "framing", "gatekeeping"], "answer": 0 }
+      ],
+      "explain": "Mainstreaming is the convergence that erodes differences; resonance is experience and message overlapping to create a “double dose”. The other options belong to other theories: agenda-setting, priming, framing and the spiral of silence are the topics of separate lessons of ours."
+    },
+    {
+      "id": "q6", "type": "case",
+      "scenario": "A student runs a survey of 200 people on campus: “Would you be afraid to walk alone on campus at night?” and daily television viewing time. Heavy viewers are more afraid. The student wants to present the result as “television frightens people”. (Hypothetical scenario.)",
+      "parts": [
+        {
+          "id": "q6a", "type": "mcq",
+          "prompt": "Which prong of Cultural Indicators does this study correspond to, and what is missing?",
+          "options": [
+            "Cultivation analysis; but there is no content analysis of the television world",
+            "Message system analysis; but there is no survey",
+            "Institutional process analysis; but the sample is small",
+            "None of them, because cultivation does not use surveys"
+          ],
+          "answer": 0,
+          "explain": "The survey and the grouping are cultivation analysis. But there is no content analysis (message system) that would define the “TV answer”. The fourth option is wrong: cultivation analysis is done precisely with a survey."
+        },
+        {
+          "id": "q6b", "type": "mcq",
+          "prompt": "What would a Doob-and-Macdonald-style objection be?",
+          "options": [
+            "The actual level of crime or danger on campus may affect both viewing and fear.",
+            "Students don’t watch television anyway.",
+            "Survey questions should be asked about television.",
+            "The effect is seen only in children."
+          ],
+          "answer": 0,
+          "explain": "The Toronto study showed that the relationship disappeared when the actual crime rate of the neighbourhood was controlled. In the student’s study too, a third factor (the actual level of safety) could explain the relationship."
+        },
+        {
+          "id": "q6c", "type": "mcq",
+          "prompt": "Which concept is the cultivation side’s answer to this objection?",
+          "options": [
+            "Resonance: the overlap of experience and message increases the effect",
+            "Agenda-setting",
+            "Priming",
+            "Spiral of silence"
+          ],
+          "answer": 0,
+          "explain": "The Gerbner team argued that everyday experience and television messages together create a “double dose”. The other options are concepts of other theories."
+        }
+      ],
+      "takeaway": "A cultivation study needs both content and a survey; and real-world conditions (crime rate, neighbourhood) must always be controlled for as a third factor."
+    },
+    {
+      "id": "q7", "type": "mcq",
+      "prompt": "What conclusion did Hermann, Morgan and Shanahan’s (2021) meta-analysis reach?",
+      "options": [
+        "The effect disappeared over the decades.",
+        "The overall effect was about .107 and stayed within a narrow range over the decades.",
+        "The effect was seen only among news viewers.",
+        "The effect is large and growing."
+      ],
+      "answer": 1,
+      "explain": "The meta-analysis found an overall effect of .107 from 3,842 effect sizes and reported that the effect stayed within a narrow range over the decades. “Disappeared” and “growing” are two opposite caricatures of the finding."
+    },
+    {
+      "id": "q8", "type": "tf",
+      "prompt": "True or false: Hirsch (1980), by reanalysing the Gerbner team’s data, argued that the cultivation hypothesis lacks empirical support.",
+      "answer": true,
+      "explain": "True. Hirsch argued that when controls are applied simultaneously, no linear relationship remains between viewing and the TV answer, and that the hypothesis has no empirical support. The Gerbner team, for its part, replied."
+    },
+    {
+      "id": "q9", "type": "mcq",
+      "prompt": "What did Williams’s (2006) one-month online game experiment find?",
+      "options": [
+        "Players’ fear of all real-world crimes increased.",
+        "Players’ perception of danger changed only for the dangers seen in the game world.",
+        "The game had no effect on perception.",
+        "The effect was seen only in child players."
+      ],
+      "answer": 1,
+      "explain": "The change in perception was limited to the events and situations encountered in the game; this did not fit the broader spread predicted by some cultivation researchers. The first option is precisely the claim of this broader spread, and is not the finding."
+    },
+    {
+      "id": "q10", "type": "mcq",
+      "prompt": "“Heavy television viewers see the world as more dangerous and insecure than it really is.” Which concept does this statement sum up?",
+      "options": [
+        "Mainstreaming",
+        "The mean world syndrome",
+        "The spiral of silence",
+        "Priming"
+      ],
+      "answer": 1,
+      "explain": "This is Gerbner’s definition of the mean world syndrome. Mainstreaming describes convergence among different groups, the spiral of silence describes staying silent out of fear of being in the minority, and priming describes a news frame influencing evaluations."
+    },
+    {
+      "id": "q11", "type": "case",
+      "scenario": "A youth researcher is reading the 2023 social media meta-analysis and wants to design a study that measures “what kind of content” young people are exposed to rather than “how much time” they spend. (Hypothetical scenario.)",
+      "parts": [
+        {
+          "id": "q11a", "type": "mcq",
+          "prompt": "Which meta-analysis finding is this choice consistent with?",
+          "options": [
+            "Exposure to specific content showed a higher effect than general use.",
+            "General use showed a higher effect than specific content.",
+            "Active use showed the highest effect.",
+            "There was an effect only in European samples."
+          ],
+          "answer": 0,
+          "explain": "In the 2023 meta-analysis the effect in studies of exposure to specific content was higher than for general use. The second and third options are reversed findings; the fourth names the wrong region (the higher effect was in Asian samples)."
+        },
+        {
+          "id": "q11b", "type": "mcq",
+          "prompt": "How should the researcher interpret young people’s personalized feeds?",
+          "options": [
+            "Because everyone sees the same feed, the message system is shared.",
+            "In personalized feeds the assumption of a shared message system is called into question; this is our interpretation, not a documented finding.",
+            "Cultivation can be applied only to television.",
+            "Feeds create a mean world; the evidence is certain."
+          ],
+          "answer": 1,
+          "explain": "Personalized feeds strain the shared-message-system assumption; but this is an interpretation and needs evidence. The “certain” option goes beyond the limits of the evidence; the “only television” option ignores the existence of social media studies."
+        }
+      ],
+      "takeaway": "To test cultivation in digital settings, the question “what kind of content” rather than “how much” may be more productive; but the assumption of a shared message system needs to be tested in this environment."
+    },
+    {
+      "id": "q12", "type": "mcq",
+      "prompt": "Which of the following correctly states the difference between cultivation and agenda-setting?",
+      "options": [
+        "Cultivation studies which issues are seen as important, while agenda-setting studies long-term perception of reality.",
+        "Cultivation studies long-term perception of social reality, while agenda-setting studies which issues are seen as important.",
+        "Both study the instant effect of a single message.",
+        "Both concern only news content."
+      ],
+      "answer": 1,
+      "explain": "Cultivation looks at long-term perception of reality (especially the total story system of television); agenda-setting looks at which issues the media foreground and how this affects perceived importance in public opinion. The first option gives the two swapped; this kind of reversal trap is the most frequent one in exams."
+    }
+  ]
+}

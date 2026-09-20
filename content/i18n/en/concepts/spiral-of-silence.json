@@ -1,0 +1,13 @@
+{
+  "id": "spiral-of-silence",
+  "lang": "en",
+  "translation": { "status": "machine" },
+  "term": "spiral of silence",
+  "altTerms": [
+    "spiral of silence theory"
+  ],
+  "slug": "spiral-of-silence",
+  "short": "People sense which opinion is gaining strength around them; those left in the minority fall silent out of fear of isolation, which makes their opinion look weaker than it is, and the process accelerates like a spiral. Elisabeth Noelle-Neumann’s theory.",
+  "body": "The spiral of silence is [[person:noelle-neumann|Elisabeth Noelle-Neumann]]’s theory of how public opinion forms. The basic idea: people constantly monitor which opinions are gaining strength around them and which are losing ground. Those who think their opinion is finding support say so openly; those who think they are in the minority withdraw and fall silent [[concept:fear-of-isolation|out of fear of isolation]]. Because one side’s voice comes out loud and the other’s faint, the first side looks stronger than its real number and the second looks weak. In the next round, this appearance creates a fresh push in the same direction: that is the spiral. [[cite:griffin-2009]]\n\nThe theory stresses that what drives the spiral is not the real distribution of opinions but the *perceived* one, and it is generally considered valid for contested, emotionally or morally charged issues. Falling silent concerns public behaviour; it does not have to mean changing one’s mind. Because the media are one of the main sources of our knowledge about the [[concept:climate-of-opinion|climate of opinion]], they can influence the direction of the spiral. The [[concept:hard-core|hard core]] and the avant-garde are minorities that do not get caught in the spiral. [[cite:polat-2016]]\n\nThe theory was published in 1974 [[cite:noelle-neumann-1974]]; in later work it found small but consistent support, but it has also been the target of serious criticism about the role of fear of isolation and the way it is measured. [[cite:scheufele-moy-2000]]",
+  "example": "In the 1965 West German election, the parties’ voting intentions stayed close to each other for months, but people increasingly came to think the CDU/CSU would win and, close to the election, the votes moved that way too; Noelle-Neumann explained this by the side expected to win speaking more and the other side falling silent."
+}

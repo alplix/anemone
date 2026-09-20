@@ -1,0 +1,16 @@
+{
+  "id": "glynn",
+  "lang": "en",
+  "translation": { "status": "machine" },
+  "name": "Carroll J. Glynn",
+  "nativeName": "",
+  "slug": "carroll-glynn",
+  "short": "Communication researcher working on public opinion and social norms. In 1997, with Andrew Hayes and James Shanahan, wrote the meta-analysis on the spiral of silence.",
+  "roles": ["communication researcher", "public opinion researcher"],
+  "bio": "Carroll J. Glynn is a communication researcher who works on the social-psychological aspects of public opinion and social norms. Glynn earned a doctorate at the University of Wisconsin, worked for a long time as a professor at the Ohio State University School of Communication, ran the school, and is now an emeritus professor.\n\nGlynn is one of the authors of *Public Opinion*, a university textbook on public opinion prepared with several co-authors; the book has gone through several editions.\n\nIn the spiral of silence literature, Glynn is best known for the meta-analysis published with Andrew Hayes and James Shanahan in *Public Opinion Quarterly* in 1997: by bringing together earlier survey studies, the work evaluated a testable premise of the spiral, that is, the relationship between perceived support and willingness to speak.",
+  "works": [
+    { "bib": "glynn-hayes-shanahan-1997", "note": "Meta-analysis of spiral of silence survey studies." },
+    { "bib": "glynn-et-al-2016", "note": "Co-authored public opinion textbook (3rd edition)." }
+  ],
+  "inCourse": "In the “Criticism and limits” section of the lesson [[lesson:spiral-of-silence]], Glynn appears with the meta-analysis that evaluates the theory’s empirical testing."
+}

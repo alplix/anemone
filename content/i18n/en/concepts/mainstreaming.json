@@ -1,0 +1,11 @@
+{
+  "id": "mainstreaming",
+  "lang": "en",
+  "translation": { "status": "machine" },
+  "term": "mainstreaming",
+  "altTerms": ["ana akımlaşma", "yaygın görüş hâline getirme", "ana akım etkisi"],
+  "slug": "mainstreaming",
+  "short": "The way heavy television viewing erodes differences in outlook that stem from factors such as age, education and political orientation and brings people closer to a common “television mainstream”.",
+  "body": "Mainstreaming is an extension of cultivation theory: heavy television viewing erodes differences in outlook that stem from other factors (such as age, education, political orientation and income). According to the Gerbner team, television is the shared storyteller of a diverse population; this shared environment, which offers the most common images and messages, is the “mainstream”, and heavy viewers move towards this mainstream even though they come from different social groups (Morgan 2008).\n\nFor example, on political-outlook questions heavy viewers more often call themselves “moderate” rather than “liberal” or “conservative”. According to Özer’s account, in the 1980 article, looking by income, the heavy viewers in the middle and upper income groups came closer to each other; in the low-education group, since alienation was already present, no additional effect of television was seen (the “ceiling effect”).\n\nThe concept was developed as one of the main responses to the early criticisms of the theory. Hirsch argued that it might be a statistical artifact called “regression to the mean”; Van den Bulck argued that this is not possible in Gerbner’s method. In Turkish sources the concept appears under names such as “ana akım” (“mainstream”) and “yaygın görüş hâline getirme” (“making a view widespread”); the Turkish version of this site uses “ana akımlaşma”. The detailed workings are in the lesson [[lesson:mainstreaming-critique]].",
+  "example": "Among people whose political outlook is “liberal” or “conservative”, heavy television viewers describing themselves as “moderate” more often than light viewers do."
+}

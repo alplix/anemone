@@ -1,0 +1,10 @@
+{
+  "id": "cultivation",
+  "lang": "tr",
+  "term": "kültivasyon",
+  "altTerms": ["ekme kuramı", "yetiştirme kuramı", "kültürel göstergeler ve ekme kuramı", "cultivation theory"],
+  "slug": "kultivasyon",
+  "short": "Televizyonu çok izleyenlerin toplumsal gerçeklik algısının, benzer özellikteki az izleyenlere göre ekrandaki dünyanın yinelenen mesajlarına daha yakın olduğunu söyleyen; etkiyi yıllara yayılan birikim olarak gören Gerbner kuramı.",
+  "body": "Kültivasyon kuramı, televizyonun etkisini “bir mesaj, bir tepki” zinciri olarak değil, yıllara yayılan bir hikâye sisteminin birikimli sonucu olarak görür. Kuram, [[person:gerbner|George Gerbner]] ve Annenberg İletişim Okulu’ndaki ekibinin yürüttüğü Kültürel Göstergeler projesinin üçüncü ayağıdır (kültivasyon çözümlemesi). Merkezî hipotez şudur: televizyonu çok izleyenler, demografik olarak benzer ama az izleyenlere kıyasla, gerçek dünyayı ekrandaki dünyanın en yaygın ve yinelenen mesajlarına uygun biçimde algılar.\n\nAdı tarımdan gelir: tek bir tohum bir günde ürün vermez; tekrar ve zaman gerekir. Bu yüzden kuram, tek bir programın anlık etkisini ya da izleyicinin saldırganlaşıp saldırganlaşmadığını ölçmez; uzun süreli ve toplam maruziyeti inceler. Yöntem olarak önce televizyon içeriği sayılır ([[concept:message-system-analysis]]), sonra ulusal anketlerde izleyicilerin gerçek dünya hakkındaki inançları, televizyon izleme miktarına göre karşılaştırılır ([[concept:heavy-viewers]]).\n\nTürkçede kuram “ekme”, “yetiştirme” ya da “kültivasyon” adıyla anılır. Aynı kuram ailesinde [[concept:mean-world-syndrome]], [[concept:mainstreaming]] ve [[concept:resonance]] gibi kavramlar yer alır. Kuram yıllar içinde Hirsch, Hughes, Doob ve Macdonald, Potter gibi araştırmacılardan ciddi eleştiri aldı; meta-analizler ise etkinin küçük ama kararlı olduğunu gösteriyor. Ayrıntılar için [[lesson:cultivation]].",
+  "example": "Anketteki “Gece mahallende yürümekten çekinir misin?” sorusuna, çok televizyon izleyenlerin, demografik olarak benzer az izleyenlere göre daha sık “evet” demesi."
+}

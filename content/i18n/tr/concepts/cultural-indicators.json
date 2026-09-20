@@ -1,0 +1,10 @@
+{
+  "id": "cultural-indicators",
+  "lang": "tr",
+  "term": "Kültürel Göstergeler Projesi",
+  "altTerms": ["kültürel göstergeler", "Cultural Indicators"],
+  "slug": "kulturel-gostergeler",
+  "short": "George Gerbner’in 1960’ların sonunda başlattığı, televizyon içeriğini yıllar boyunca izleyen ve izleyici anketleriyle birleştiren uzun soluklu araştırma programı; kültivasyon kuramının çatısı.",
+  "body": "Kültürel Göstergeler, [[person:gerbner|George Gerbner]]’in 1960’ların sonunda Pennsylvania Üniversitesi’nde başlattığı uzun soluklu bir televizyon araştırma programıdır. “Gösterge” fikri, ekonomik ve toplumsal göstergelerin kültürdeki karşılığıdır: kültürel meselelerin bir barometresi. Gerbner projeyi, siyasi ve ticari çıkarların çatıştığı kültür politikası tartışmalarında görece bağımsız bir “üçüncü ses” olarak düşündü.\n\nProje üç ayaklıdır: mesajların hangi kurumsal baskılar altında üretildiğini inceleyen kurumsal süreç çözümlemesi; içerikte yinelenen kalıpları sayan [[concept:message-system-analysis]]; ve bu mesaj sistemine dikkat etmenin izleyicilerin gerçeklik anlayışıyla ilişkisini inceleyen kültivasyon çözümlemesi ([[concept:cultivation]]). Çıkış noktası, 1968’de kurulan Şiddetin Nedenleri ve Önlenmesi Ulusal Komisyonu’nun finanse ettiği 1967–68 sezonu şiddet çözümlemesiydi. 1967’den beri ABD ağ televizyonlarının ana yayın ve hafta sonu gündüz kurgu programlarından haftalık örnekler her yıl çözümlenir; ilk ulusal izleyici anketi 1970’lerin başında yapılmıştır. Britannica, veri tabanının 3000’den fazla programı ve 35.000 karakteri kapsadığını bildirir.\n\nTürkçede “kültürel göstergeler projesi” adıyla geçer; Yaylagül’ün kitabında ilgili başlık “Kültürel Göstergeler ve Ekme Kuramı”dır.",
+  "example": "Bir haftalık akşam kuşağı dizilerini kaydedip kadın ve erkek karakterlerin oranını, kimin kime zarar verdiğini saymak; ardından ulusal bir ankette izleyicilerin bu konulardaki inançlarını sormak."
+}

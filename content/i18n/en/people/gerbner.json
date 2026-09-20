@@ -1,0 +1,20 @@
+{
+  "id": "gerbner",
+  "lang": "en",
+  "translation": { "status": "machine" },
+  "name": "George Gerbner",
+  "nativeName": "",
+  "slug": "george-gerbner",
+  "short": "Hungarian-born American communication researcher (1919–2005); dean of the Annenberg School. Ran the Cultural Indicators project; known for cultivation theory and the “mean world syndrome”.",
+  "born": "Budapest, Hungary",
+  "died": "Philadelphia, USA",
+  "roles": ["communication researcher", "dean of the Annenberg School for Communication (1964–1989)"],
+  "bio": "George Gerbner was born in Budapest in 1919. In his youth he loved Hungarian folk songs, fairy tales and stories; this interest can be said to be one of the roots of his view of television as “the storyteller of society”. After a year at the University of Budapest he left his country in 1939 because of the rise of fascism and went to the United States. He completed a bachelor’s degree in journalism at Berkeley and served in the US Army in the Second World War. After the war he took a master’s degree (1951) and a doctorate in communication (1955) at the University of Southern California.\n\nIn 1956 he began working at the University of Illinois’s Institute of Communications Research; in 1964 he moved to the University of Pennsylvania’s Annenberg School for Communication and served as the school’s dean until 1989. The **Cultural Indicators** project he started in the late 1960s aimed to measure the cultural effect of television by monitoring and counting prime-time programmes over the years and by running surveys of viewers. He also took the resulting “violence profiles” to Congress. Cultivation theory and the concept of the *mean world syndrome* grew out of this work.\n\nAccording to Gerbner, television was not merely a medium but a cultural environment that children were born into, and it told “all the stories”. In later years he founded the Cultural Environment Movement so that this environment would be more diverse and fair. Among his best-known writings are “Living with Television: The Violence Profile”, written with Larry Gross in 1976, and “The ‘Mainstreaming’ of America”, written with Gross, Morgan and Signorielli in 1980. He died in Philadelphia in 2005, at the age of 86.",
+  "works": [
+    { "bib": "gerbner-1969", "note": "One of the first articles on the idea of “cultural indicators” and on the programme of analysing the message systems of mass communication." },
+    { "bib": "gerbner-gross-1976", "note": "The Violence Profile: the first results of cultivation analysis." },
+    { "bib": "gerbner-et-al-1980", "note": "The article in which the mainstreaming and resonance findings were published." },
+    { "bib": "gerbner-et-al-1981", "note": "Reply to Hirsch’s reanalysis." }
+  ],
+  "inCourse": "Founder of cultivation; Cultural Indicators, the mean world syndrome and mainstreaming developed around him. See [[lesson:cultivation]] and [[lesson:mainstreaming-critique]]."
+}

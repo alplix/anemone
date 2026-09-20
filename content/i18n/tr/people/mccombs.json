@@ -1,0 +1,15 @@
+{
+  "id": "mccombs", "lang": "tr",
+  "name": "Maxwell McCombs", "nativeName": "", "slug": "maxwell-mccombs",
+  "short": "Gündem belirleme araştırmasının iki kurucusundan biri; Donald Shaw ile 1968 Chapel Hill çalışmasını yaptı, yönelim gereksinimi ve ikinci düzey gündem belirlemeyi geliştirdi.",
+  "roles": ["gazetecilik ve iletişim profesörü", "gündem belirleme kuramının kurucularından"],
+  "bio": "Maxwell McCombs, gündem belirleme araştırmasının iki kurucusundan biridir. 1938’de doğdu; lisansını Tulane Üniversitesi’nde, yüksek lisansını ve 1966’da tamamladığı doktorasını Stanford Üniversitesi’nde yaptı. Akademiye geçmeden önce New Orleans’ta *Times-Picayune* gazetesinde muhabirlik yapmıştı.\n\nKariyeri sırasıyla Kaliforniya Üniversitesi Los Angeles (UCLA), Kuzey Karolina Üniversitesi Chapel Hill (1967’den), Syracuse Üniversitesi ve 1985’ten itibaren Teksas Üniversitesi Austin’de geçti. Chapel Hill’de meslektaşı [[person:shaw|Donald Shaw]] ile 1968 ABD başkanlık seçiminde yaptığı çalışma, 1972’de *Public Opinion Quarterly* dergisinde yayımlanan “The Agenda-Setting Function of Mass Media” makalesiyle gündem belirleme kuramının başlangıç noktası oldu.\n\nSyracuse’ta çalıştığı yıllarda, aynı zamanda Amerikan Gazete Yayıncıları Birliği’nin haber araştırma merkezini yönetti; yani araştırmasını gazetecilik sektörüyle de yan yana yürüttü.\n\nSonraki yıllarda McCombs kuramı tek bir bulgudan bir araştırma programına dönüştürdü. Doktora öğrencisi David Weaver ile “yönelim gereksinimi” kavramını geliştirdi; 1990’larda ekibiyle ikinci düzey gündem belirlemeyi, yani yalnızca konuların değil niteliklerin de aktarıldığı fikrini sınadı; ağ gündem belirleme ve gündem harmanlama (agendamelding) gibi yeni yönlerin ele alındığı çalışmalara katkıda bulundu. *Setting the Agenda* adlı kitabı birkaç baskı yaptı; üçüncü baskıyı Sebastian Valenzuela ile birlikte yazdı. Kuramın elli yıla yaklaştığı 2014’te, Shaw ve Weaver ile birlikte kuramın yedi ayrı yönünü özetleyen bir deneme yayımladı.\n\nTeksas Üniversitesi’nde Jesse H. Jones Centennial Chair sahibiydi; Şili, Avusturya ve İspanya gibi ülkelerdeki üniversitelerde konuk öğretim üyeliği yaptı. 2024’te seksen beş yaşında hayatını kaybetti.",
+  "works": [
+    { "bib": "mccombs-shaw-1972", "note": "Chapel Hill çalışması: gündem belirleme kuramının başlangıç makalesi." },
+    { "bib": "mccombs-1976", "note": "İlk dönem araştırmaların McCombs tarafından yazılmış derlemesi (Charlotte, zaman gecikmesi, üç model)." },
+    { "bib": "roberts-mccombs-1994", "note": "Medyalararası gündem belirleme ve siyasi reklamların rolü." },
+    { "bib": "mccombs-et-al-1997", "note": "İspanya seçimlerinde ikinci düzey gündem belirleme." },
+    { "bib": "mccombs-shaw-weaver-2014", "note": "Kuramın yedi yönünü ve yönelim gereksinimi, ağ gündem belirleme, agendamelding kavramlarını toplayan deneme." }
+  ],
+  "inCourse": "[[lesson:agenda-setting]] dersinin ana kahramanı: Chapel Hill çalışması ve yönelim gereksinimi. [[lesson:priming-second-level]] dersinde ikinci düzey gündem belirlemeyle yeniden karşına çıkar."
+}

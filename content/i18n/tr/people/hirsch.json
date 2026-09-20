@@ -1,0 +1,15 @@
+{
+  "id": "hirsch",
+  "lang": "tr",
+  "name": "Paul M. Hirsch",
+  "nativeName": "",
+  "slug": "paul-hirsch",
+  "short": "ABD’li sosyolog ve örgüt araştırmacısı. 1980–81’de Gerbner ekibinin kültivasyon bulgularını yeniden analiz ederek kuramın ampirik dayanağını sorguladı.",
+  "roles": ["sosyolog", "örgüt ve kültür araştırmacısı", "kültivasyon eleştirmeni"],
+  "bio": "Paul M. Hirsch, sosyoloji kökenli bir örgüt ve kültür araştırmacısıdır. 1973’te Michigan Üniversitesi’nde sosyoloji doktorasını tamamladı. Indiana Üniversitesi ve Chicago Üniversitesi’nde görev yaptıktan sonra Northwestern Üniversitesi’nin Kellogg Yönetim Okulu’na geçti; orada James L. Allen kürsüsünü taşıdı ve emeritus profesör oldu. Araştırmaları örgütsel değişim, kurumsal kültür ve medya endüstrileri üzerinedir.\n\nKültivasyon dersindeki yeri eleştirmen olmasıdır. 1980’de Communication Research dergisinde yayımladığı “Korkutucu dünya” makalesinde Gerbner ve arkadaşlarının bulgularını yeniden analiz etti; madde, örneklem ve kodlama tutarsızlıklarına dikkat çekti ve kontroller eş zamanlı uygulandığında izleme miktarı ile “televizyon yanıtı” arasında doğrusal ilişki kalmadığını, dolayısıyla kültivasyon hipotezinin ampirik dayanaktan yoksun olduğunu savundu. 1981’de aynı dergide yeniden analizin ikinci bölümünü yayımladı. Gerbner, Gross, Morgan ve Signorielli 1981’de “Paul Hirsch’in korkutucu dünyasına tuhaf bir yolculuk” başlıklı bir yanıt yazdı. Bu sayfa, Hirsch hakkında yalnızca doğrulanabilen mesleki bilgileri içerir; kişisel ayrıntılar bilerek yazılmamıştır.",
+  "works": [
+    { "bib": "hirsch-1980", "note": "Gerbner ekibinin bulgularının yeniden analizi, birinci bölüm." },
+    { "bib": "hirsch-1981", "note": "Yeniden analizin ikinci bölümü." }
+  ],
+  "inCourse": "Kültivasyonun ilk ve en bilinen yöntemsel eleştirmenlerinden. Bkz. [[lesson:cultivation]] ve [[lesson:mainstreaming-critique]]."
+}

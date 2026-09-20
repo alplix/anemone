@@ -1,0 +1,20 @@
+{
+  "id": "noelle-neumann",
+  "lang": "en",
+  "translation": { "status": "machine" },
+  "name": "Elisabeth Noelle-Neumann",
+  "nativeName": "",
+  "slug": "elisabeth-noelle-neumann",
+  "short": "German public opinion researcher and communication scholar (1916–2010). Founder of the Allensbach Institute; developer of the spiral of silence theory.",
+  "born": "Berlin",
+  "roles": ["public opinion researcher", "communication scholar", "journalist"],
+  "bio": "Elisabeth Noelle-Neumann was born in Berlin in 1916 and died in 2010. She decided at a young age to become a journalist; she studied philosophy, history and journalism (*Zeitungswissenschaft*). In 1937, on a DAAD scholarship, she went to the University of Missouri School of Journalism in the United States; there she met George Gallup’s new mass public opinion polls and wrote her doctoral thesis on American public opinion polls.\n\nFrom 1940 to 1945, in the Nazi period, she worked as a journalist and editor; the publications she worked for included *Das Reich* and *Frankfurter Zeitung*. How her role in this period should be assessed was later debated for a long time; she rejected the accusations. The lesson treats this debate separately.\n\nIn 1947, with her husband Erich Peter Neumann, she founded the Allensbach Institute for Demoscopy; the institute is described as Germany’s first public opinion research institute. In the mid-1960s she became a professor of journalism and publishing science (*Publizistik*) at the University of Mainz, stayed at the head of Allensbach, and is regarded as the founding figure of a school that made Mainz one of Germany’s leading centres of communication science. She also taught repeatedly at the University of Chicago.\n\nHer international fame rests on the spiral of silence theory. She published the theory in 1974 and expanded it in 1980 in a German book; the book’s English edition came out in 1984 and has been translated into many languages. With its view of public opinion not as the product of rational debate but as social control binding the individual to the community, the theory is counted among the 1970s approaches that opposed the “limited effects” assumption in mass communication.",
+  "works": [
+    { "bib": "noelle-neumann-1974", "note": "The theory’s first and most cited English article." },
+    { "bib": "noelle-neumann-1980", "note": "First German book: Die Schweigespirale (Piper)." },
+    { "bib": "noelle-neumann-1984", "note": "The book’s English edition: The Spiral of Silence: Public Opinion – Our Social Skin." },
+    { "bib": "noelle-neumann-1989", "note": "A separate German book: Öffentliche Meinung. Die Entdeckung der Schweigespirale." },
+    { "bib": "noelle-neumann-1998-tr", "note": "Turkish translation: Kamuoyu: Suskunluk Sarmalının Keşfi (“Public Opinion: The Discovery of the Spiral of Silence”)." }
+  ],
+  "inCourse": "She is the main theorist of the lesson [[lesson:spiral-of-silence]]; she appears with the concepts [[concept:spiral-of-silence]], [[concept:fear-of-isolation]], [[concept:quasi-statistical-sense]] and [[concept:hard-core]]. Follow-up lessons are [[lesson:spiral-research]] and [[lesson:filter-bubbles]]."
+}

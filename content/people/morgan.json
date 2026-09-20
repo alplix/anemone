@@ -1,0 +1,6 @@
+{
+  "id": "morgan",
+  "died": null,
+  "sources": ["conversation-morgan", "intpolicydigest-morgan", "mef-mean-world-2010"],
+  "works": ["gerbner-et-al-1980", "morgan-shanahan-1997", "shanahan-morgan-1999", "morgan-2008-mainstreaming", "morgan-shanahan-2010", "morgan-shanahan-signorielli-2015", "hermann-morgan-shanahan-2021", "hermann-morgan-shanahan-2023"]
+}

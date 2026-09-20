@@ -1,0 +1,20 @@
+{
+  "id": "morgan",
+  "lang": "en",
+  "translation": { "status": "machine" },
+  "name": "Michael Morgan",
+  "nativeName": "",
+  "slug": "michael-morgan",
+  "short": "US communication researcher; emeritus professor at UMass Amherst. Worked with Gerbner, co-author of the 1980 mainstreaming article; wrote cultivation meta-analyses and state-of-the-field reports.",
+  "roles": ["communication researcher", "emeritus professor"],
+  "bio": "Michael Morgan is emeritus professor of communication at the University of Massachusetts Amherst (UMass Amherst). His research areas are television, media effects, and cultivation theory and analysis; he is also interested in the international and cross-cultural effects of the media, new media technologies, media and identity, media institutions and policies, and media and the family.\n\nBy his own account he worked with George Gerbner on media effects for more than 25 years and, toward the end of Gerbner’s life, held long conversations with him about media violence. These conversations formed the basis of the documentary “The Mean World Syndrome”, published by the Media Education Foundation in 2010; Morgan appears in the film as the narrator.\n\nHis contribution to the cultivation literature can be grouped under four points. First, with Gerbner, Gross and Signorielli he wrote the 1980 article “The ‘Mainstreaming’ of America”. Second, with James Shanahan he brought together the history, method, criticisms and findings of the theory in the book *Television and Its Viewers: Cultivation Theory and Research* (Cambridge University Press, 1999). Third, in 1997 he summarized twenty years of research in a meta-analysis (average effect .09) and in 2010 he wrote “The State of Cultivation”. Fourth, with Hermann and Shanahan he published meta-analyses of cultivation research on television in 2021 and on social media in 2023. He also wrote the “Mainstreaming” entry in the International Encyclopedia of Communication. This page contains only publicly available professional information.",
+  "works": [
+    { "bib": "gerbner-et-al-1980", "note": "Co-author of the mainstreaming article." },
+    { "bib": "shanahan-morgan-1999", "note": "History and method of the theory and replies to its criticisms; written with Shanahan." },
+    { "bib": "morgan-shanahan-1997", "note": "Meta-analysis of twenty years of cultivation research." },
+    { "bib": "morgan-2008-mainstreaming", "note": "Encyclopedia definition of the concept of mainstreaming." },
+    { "bib": "morgan-shanahan-2010", "note": "An assessment of the state of the field." },
+    { "bib": "hermann-morgan-shanahan-2021", "note": "Meta-analysis of five decades of television cultivation research." }
+  ],
+  "inCourse": "Second-generation defender of cultivation; his meta-analyses are the basis of the evidence section. See [[lesson:cultivation]] and [[lesson:mainstreaming-critique]]."
+}

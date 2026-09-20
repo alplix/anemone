@@ -1,0 +1,7 @@
+{
+  "id": "mean-world-syndrome",
+  "family": "effects",
+  "introducedBy": ["gerbner"],
+  "related": ["cultivation", "heavy-viewers", "resonance"],
+  "sources": ["britannica-gerbner", "mef-mean-world-2010", "fair-gerbner-2006", "ozkan-2017"]
+}

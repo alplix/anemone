@@ -1,0 +1,14 @@
+{
+  "id": "lazarsfeld", "lang": "en",
+  "translation": { "status": "machine" },
+  "name": "Paul Lazarsfeld", "nativeName": "", "slug": "paul-lazarsfeld",
+  "short": "Vienna-born American sociologist; directed the Bureau of Applied Social Research at Columbia and, with his voter studies and the two-step flow idea, became the emblem of the limited-effects era.",
+  "born": "Vienna",
+  "roles": ["sociologist", "research methodologist", "founder of a research institute"],
+  "bio": "Paul Lazarsfeld was born in Vienna in 1901 and died in New York in 1976. He earned his doctorate in applied mathematics at the University of Vienna (1925); his thesis was on the application of Einstein’s theory of gravitation to the motion of Mercury. But his real interest shifted to social research: together with Marie Jahoda and Hans Zeisel he directed the famous study of Marienthal, a village hit by unemployment.\n\nIn 1933 he went to the United States on a Rockefeller Foundation fellowship and stayed. He directed a research centre in Newark, headed the radio research office in Princeton, and then moved to Columbia University; the radio office took the name Bureau of Applied Social Research in 1944. His greatest methodological contribution is that he made panel research and survey analysis one of the main tools of sociology and popularised the model of the university-affiliated research institute.\n\nTwo works stand out for mass communication: the panel study of the 1940 US presidential election, *The People’s Choice* (1944, with Berelson and Gaudet), and *Personal Influence* (1955), written with Elihu Katz. These studies put forward opinion leadership and the idea of the “two-step flow of communication”: media messages often reach opinion leaders first, and from them the wider public. They settled at the centre of the “limited effects” debate, in which the evidence that the media change attitudes deeply remained weak.\n\nHis relation to agenda-setting theory is indirect but important: relying on the tradition of voter studies (the work of Lazarsfeld, Berelson and McPhee), McCombs and Shaw’s 1972 article stressed that the evidence that the media change attitudes is not conclusive, but that the evidence that voters learn from the campaign is strong; they placed the theory in this gap.",
+  "works": [
+    { "bib": "lazarsfeld-berelson-gaudet-1944", "note": "The panel study of the 1940 election; the beginning of opinion leadership and the limited-effects tradition." },
+    { "bib": "katz-lazarsfeld-1955", "note": "The two-step flow and interpersonal influence." }
+  ],
+  "inCourse": "The leading name of the limited-effects era: covered in detail in the [[lesson:voting-studies]] and [[lesson:two-step-flow]] lessons; in the [[lesson:agenda-setting]] lesson he appears as the tradition at the theory’s point of departure."
+}

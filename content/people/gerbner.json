@@ -1,0 +1,7 @@
+{
+  "id": "gerbner",
+  "born": { "year": 1919 },
+  "died": { "year": 2005 },
+  "sources": ["britannica-gerbner", "contemporary-authors-gerbner", "dp-gerbner-2005", "fair-gerbner-2006"],
+  "works": ["gerbner-1969", "gerbner-gross-1976", "gerbner-et-al-1980", "gerbner-et-al-1981"]
+}

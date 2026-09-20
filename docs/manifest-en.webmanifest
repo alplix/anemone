@@ -1,0 +1,31 @@
+{
+ "name": "Anemone – study app",
+ "short_name": "Anemone",
+ "description": "Short cards, questions that make you think, exams, spaced review and progress that is saved on your own device. Free, accessible and works offline.",
+ "lang": "en",
+ "dir": "ltr",
+ "start_url": "/anemone/en/app/study/",
+ "scope": "/anemone/",
+ "display": "standalone",
+ "background_color": "#fbfaf7",
+ "theme_color": "#0a4fbd",
+ "icons": [
+  {
+   "src": "/anemone/assets/icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "/anemone/assets/icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any maskable"
+  },
+  {
+   "src": "/anemone/assets/icon.svg",
+   "sizes": "any",
+   "type": "image/svg+xml"
+  }
+ ]
+}

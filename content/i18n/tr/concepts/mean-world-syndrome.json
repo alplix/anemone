@@ -1,0 +1,10 @@
+{
+  "id": "mean-world-syndrome",
+  "lang": "tr",
+  "term": "kötü dünya sendromu",
+  "altTerms": ["acımasız dünya sendromu", "mean world syndrome"],
+  "slug": "kotu-dunya-sendromu",
+  "short": "Televizyonu çok izleyenlerin dünyayı gerçekte olduğundan daha tehlikeli, güvensiz ve acımasız görmesi; Gerbner’in kültivasyon çalışmalarının en bilinen kavramı.",
+  "body": "Kötü dünya sendromu (*mean world syndrome*), Gerbner’in kültivasyon çalışmalarından çıkan en bilinen kavramdır: televizyonu çok izleyenler dünyayı gerçekte olduğundan daha tehlikeli, güvensiz ve acımasız görür. Britannica bunu, dünyanın gerçekte olduğundan daha şiddetli ve acımasız olduğuna inanmak diye tanımlar.\n\nBu, “şiddet izleyen şiddet uygular” iddiası değildir. Gerbner, doğrudan şiddet katkısının önemsiz olduğunu söylerdi; onu asıl kaygılandıran, korkan insanların daha bağımlı ve daha kolay yönlendirilebilir olmasıydı. Kavram anketlerde şöyle ortaya çıkar: “Geceleri mahallende yürümekten çekinir misin?” gibi sorulara çok izleyenler daha sık “evet” yanıtı verir. Gerbner buna tehlike, güvensizlik ve kötülük duygusunun içselleştirilmesi diyordu.\n\nTürkçede “kötü dünya sendromu” (ör. Özkan 2017) ve “acımasız dünya sendromu” gibi çeviriler dolaşır. Kavram bir ilişki bulgusuna dayanır; Doob ve Macdonald gibi eleştirmenler, gerçek suç oranı kontrol edilince izleme–korku ilişkisinin kaybolduğunu göstermiştir. Bu yüzden nedensellik tartışmalıdır. Ayrıntı için [[lesson:cultivation]] ve [[concept:resonance]].",
+  "example": "Gece kampüste ya da mahallede yalnız yürümekten çekinme sorusuna “evet” diyenlerin oranının, çok izleyenlerde az izleyenlere göre daha yüksek çıkması."
+}

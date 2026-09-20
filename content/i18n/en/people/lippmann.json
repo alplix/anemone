@@ -1,0 +1,13 @@
+{
+  "id": "lippmann", "lang": "en",
+  "translation": { "status": "machine" },
+  "name": "Walter Lippmann", "nativeName": "", "slug": "walter-lippmann",
+  "short": "American journalist and commentator; with the ideas of “the pictures in our heads” and the “pseudo-environment” in Public Opinion (1922) he laid the intellectual ground of agenda-setting theory.",
+  "born": "New York",
+  "roles": ["journalist", "columnist", "political commentator"],
+  "bio": "Walter Lippmann is one of the most influential commentators in twentieth-century American journalism. He was born in New York in 1889 and studied at Harvard. In 1914 he became one of the founding editors of *The New Republic*; during the First World War he took part in peace preparations around President Wilson and is mentioned in connection with the drafting of Wilson’s Fourteen Points. Afterwards he worked on the editorial staff of the *New York World*; from 1931 he wrote a column, carried in many newspapers, that ran for years. He received two Pulitzer Prizes and the Presidential Medal of Freedom.\n\nHe is best known for his book *Public Opinion*, published in 1922. The first chapter of the book begins with the story of islanders who did not learn for six weeks that the First World War had broken out. In the book he argued that people get to know the world not directly but through simplified pictures in their heads, that is, a “pseudo-environment”, and that these pictures come largely from the press. For him the real environment was too big, too complex and too fleeting to be known directly; people built their behaviour on these simplified maps. In his own sentence: “To traverse the world men must have maps of the world.” These ideas also questioned democracy’s assumption of the “informed citizen”.\n\nLippmann himself did not do agenda-setting research; but years later researchers in this field leaned on him. In their 1972 article McCombs and Shaw wrote that the “pseudo-environment” reflected by the media is a flawed representation of reality; in 1982 Iyengar, Peters and Kinder noted that their experiments confirmed Lippmann’s doubt of half a century earlier. He died in 1974.",
+  "works": [
+    { "bib": "lippmann-1922", "note": "“The World Outside and the Pictures in Our Heads”: the philosophical root of the agenda-setting idea." }
+  ],
+  "inCourse": "His island story opens the [[lesson:agenda-setting]] lesson; the idea of “the pictures in our heads” is the theory’s intellectual ground. He also appears in the [[lesson:propaganda-public-opinion]] lesson, in the context of propaganda and public opinion."
+}

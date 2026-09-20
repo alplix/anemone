@@ -1,0 +1,7 @@
+{
+  "id": "cultivation",
+  "family": "effects",
+  "introducedBy": ["gerbner"],
+  "related": ["cultural-indicators", "message-system-analysis", "heavy-viewers", "mean-world-syndrome", "mainstreaming", "resonance", "agenda-setting"],
+  "sources": ["shanahan-morgan-1999", "gerbner-gross-1976", "morgan-shanahan-2010", "hermann-morgan-shanahan-2021"]
+}

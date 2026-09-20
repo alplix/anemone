@@ -1,0 +1,19 @@
+{
+  "id": "morgan",
+  "lang": "tr",
+  "name": "Michael Morgan",
+  "nativeName": "",
+  "slug": "michael-morgan",
+  "short": "ABD’li iletişim araştırmacısı; UMass Amherst emeritus profesörü. Gerbner’le çalıştı, 1980 ana akımlaşma makalesinin ortak yazarı; kültivasyonun meta-analizleri ve durum raporlarını yazdı.",
+  "roles": ["iletişim araştırmacısı", "emeritus profesör"],
+  "bio": "Michael Morgan, Massachusetts Amherst Üniversitesi’nde (UMass Amherst) iletişim alanında emeritus profesördür. Araştırma alanı televizyon, medya etkileri ve kültivasyon kuramı ile analizidir; ayrıca medyanın uluslararası ve kültürler arası etkileri, yeni medya teknolojileri, medya ve kimlik, medya kurumları ve politikaları ile medya ve aile konularıyla da ilgilenir.\n\nKendi anlatımına göre 25 yılı aşkın süre George Gerbner’le birlikte medya etkileri üzerine çalıştı ve Gerbner’le, onun yaşamının sonlarına doğru, medya şiddeti üzerine uzun söyleşiler yaptı. Bu söyleşiler, 2010’da Media Education Foundation’ın yayımladığı “The Mean World Syndrome” belgeselinin temelini oluşturdu; Morgan filmde anlatıcı olarak yer alır.\n\nKültivasyon literatürüne katkısı dört noktada toplanabilir. Birincisi, Gerbner, Gross ve Signorielli’yle birlikte 1980’de “Amerika’nın ana akımlaşması” makalesini yazdı. İkincisi, James Shanahan’la birlikte *Television and Its Viewers: Cultivation Theory and Research* (Cambridge University Press, 1999) kitabında kuramın tarihçesini, yöntemini, eleştirilerini ve bulgularını bir araya getirdi. Üçüncüsü, 1997’de yirmi yıllık araştırmayı meta-analizle özetledi (ortalama etki .09) ve 2010’da “The State of Cultivation” makalesini yazdı. Dördüncüsü, Hermann ve Shanahan’la 2021’de televizyon, 2023’te sosyal medya kültivasyon araştırmalarının meta-analizlerini yayımladı. Ayrıca Uluslararası İletişim Ansiklopedisi’ndeki “Mainstreaming” maddesini yazdı. Bu sayfada yalnızca kamuya açık mesleki bilgiler bulunur.",
+  "works": [
+    { "bib": "gerbner-et-al-1980", "note": "Ana akımlaşma makalesinin ortak yazarı." },
+    { "bib": "shanahan-morgan-1999", "note": "Kuramın tarihçesi, yöntemi ve eleştirilerine yanıt; Shanahan’la birlikte." },
+    { "bib": "morgan-shanahan-1997", "note": "Yirmi yıllık kültivasyon araştırmasının meta-analizi." },
+    { "bib": "morgan-2008-mainstreaming", "note": "Ana akımlaşma kavramının ansiklopedi tanımı." },
+    { "bib": "morgan-shanahan-2010", "note": "Alanın durum değerlendirmesi." },
+    { "bib": "hermann-morgan-shanahan-2021", "note": "Televizyon kültivasyonunun beş on yıllık meta-analizi." }
+  ],
+  "inCourse": "Kültivasyonun ikinci kuşak savunucusu; meta-analizleri kanıt bölümünün temelidir. Bkz. [[lesson:cultivation]] ve [[lesson:mainstreaming-critique]]."
+}

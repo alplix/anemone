@@ -1,0 +1,7 @@
+{
+  "id": "message-system-analysis",
+  "family": "method",
+  "introducedBy": ["gerbner"],
+  "related": ["cultural-indicators", "cultivation"],
+  "sources": ["shanahan-morgan-1999", "britannica-gerbner", "ercan-demir-2015", "ozer-jafarli-2024"]
+}
