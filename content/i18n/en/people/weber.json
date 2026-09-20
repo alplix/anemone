@@ -1,0 +1,28 @@
+{
+  "id": "weber",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "name": "Max Weber",
+  "nativeName": "",
+  "slug": "max-weber",
+  "short": "German sociologist and economist (1864–1920); known for Verstehen, the ideal type, rationalization and the types of legitimate domination; in 1910 he proposed a survey on the sociology of the press.",
+  "born": "Erfurt",
+  "roles": [
+    "sociologist",
+    "economist"
+  ],
+  "bio": "Max Weber was born in Erfurt on 21 April 1864 and died in 1920. His father was a lawyer and politician. He trained in law and economics; he received his first university appointment at Freiburg in 1894 and two years later a professorship at Heidelberg. His health did not allow him to hold a permanent academic post for long.\n\nAccording to the Stanford Encyclopedia of Philosophy his two most celebrated contributions are the “rationalization thesis” and the “Protestant Ethic thesis”; *The Protestant Ethic and the Spirit of Capitalism* appeared in 1904–05. In methodology he defended interpreting action through its meaning (Verstehen) and constructing ideal types by one-sided accentuation of reality. In political sociology he distinguished three types of legitimate domination: traditional, charismatic and legal-rational. *Economy and Society* was published after his death.\n\nWeber took part in founding the German Sociological Society together with Tönnies and Simmel. At its first congress in 1910 he proposed a “sociology of the press” as its first research topic; the project was abandoned in 1911.",
+  "works": [
+    {
+      "bib": "weber-1947-theory-social-economic-organization",
+      "note": "Types of domination (Herrschaft); see the deep card for the translation note."
+    },
+    {
+      "bib": "weber-1910-geschaeftsbericht",
+      "note": "The 1910 proposal for a press survey."
+    }
+  ],
+  "inCourse": "Appears in [[lesson:social-thought-roots]] in the cards on Verstehen, the ideal type, types of domination, rationalization and the 1910 press plan."
+}

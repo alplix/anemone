@@ -1,0 +1,20 @@
+# Translation notes: `social-thought-roots` (English, 2026-09-20)
+
+Files: `content/i18n/en/courses/mass-communication-theories/lessons/social-thought-roots.json`, people `comte spencer durkheim weber simmel tonnies marx`, concepts `sociology social-facts anomie solidarity verstehen rationalization ideal-type gemeinschaft-gesellschaft metropolis-mental-life modernity`. Status `machine` on all.
+
+## Adaptations
+- **Spelling**: British (organisation, specialised, civilisation, colour), matching the existing English files.
+- **Foreign-language quotations** are kept in the original wording and glossed, because the Turkish source also keeps them in the original: Comte's “profonde répugnance” (French), Durkheim's “ce n'est pas le fait d'en parler, c'est la manière dont on en parle” (French, 14 words), Weber's “mit der Schere und mit dem Zirkel” and Simmel's “der, der heute kommt und morgen bleibt” (German). The English glosses are ours. Marx and Engels's *German Ideology* sentence is given in the body text without quotation marks (a close rendering of the 12-word English wording in the marxists.org text, quoted exactly only in the bibliography note).
+- **Turkish terms kept inside the English text, with a gloss**, only where the Turkish literature is itself the topic: the `con-deep-authority` and `con-deep-gemeinschaft` cards (“egemenlik (otorite)”, “cemaat–cemiyet”, “topluluk–toplum”, *Cemaat ve Cemiyet*), the `con-deep-cage` card (“demir kafes”), the `con-deep-things` card (Gökalp's “nefsî” and “şey'î”), the `turkey-gokalp` card (*içtimaiyat*, *hars*, *medeniyet*, Dârülfünun, TDV) and the `exam-patterns` card. These cards are the only places where Turkish letters remain in the English lesson file, apart from names and German or French terms (Tönnies, Gökalp, Güler, VakıfBank, İstanbul, Fouillée, Gehäuse, Kürwille, répugnance).
+- **`turkey-gokalp`**: the Turkish context is explained in one clause for foreign readers (Salonica then an Ottoman city; Darülfünun = the Ottoman university; the TDV entry is named only as the “TDV Encyclopedia of Islam”).
+- **`exam-patterns`**: the Turkish alternative names are kept in Turkish where the card is about Turkish naming, with English meaning next to them; the closing sentence about typical exam question patterns was translated without naming any institution.
+- **Renderings**: “toplumsal olgu” → “social fact”; “anlama (Verstehen)” → “Verstehen (interpretive understanding)”; “meşru egemenlik (otorite)” → “legitimate domination (authority)”; “yanlılığın seferber edilmesi” → “mobilization of bias” (Lukes's own phrase, restored); “çelik kabuk / demir kafes” → “shell as hard as steel / iron cage”; “mesafeli tutum” → “reserved attitude (Reserviertheit)”; “blazé tutum” → “blasé attitude” (the accent follows the usual English spelling); “büyüsü bozulma” → “disenchantment”.
+- **Person and concept files**: the Turkish `altTerms` are dropped or replaced (concept files list no Turkish alternatives in English); the Turkish `inCourse` sentences pointing to card titles were translated with the English card titles' meaning.
+- **Slugs**: lesson slug `roots-of-social-thought` matches `course.json`; concept slugs are the English terms; person slugs are the person's name (identical in both languages).
+- **Question texts** were translated one-to-one; answer indexes, option counts, pairs, items and blanks are identical (validator parity: 0 errors).
+
+## Doubts
+- *Vergesellschaftung* is rendered “forms of sociation” following IESS/Mayntz, with the German in parentheses; alternative renderings (“socialisation”, “association”) were not compared.
+- The English title “The Metropolis and Mental Life” is the established title, but the translation the lesson relies on was not consulted; the essay was read in German.
+- “Kürwille” is glossed as “elective will” in the cards and “rational will” in the person file, because IESS (Heberle) notes that “rational will” is a common rendering that must not be read as implying that Wesenwille is irrational.
+- One pun-like element in Turkish (“sabah ragusu”) becomes “morning ragout”, which teaches the same thing.

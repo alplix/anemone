@@ -1,0 +1,17 @@
+{
+  "id": "tonnies",
+  "born": {
+    "year": 1855
+  },
+  "died": {
+    "year": 1936
+  },
+  "sources": [
+    "heberle-1968-tonnies-iess",
+    "ol-author-tonnies"
+  ],
+  "works": [
+    "tonnies-1957-community-society",
+    "tonnies-1922-kritik-oeffentliche-meinung"
+  ]
+}

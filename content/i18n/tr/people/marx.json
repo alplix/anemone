@@ -1,0 +1,20 @@
+{
+  "id": "marx",
+  "lang": "tr",
+  "name": "Karl Marx",
+  "nativeName": "",
+  "slug": "karl-marx",
+  "short": "Alman filozof ve toplum kuramcısı (1818–1883); tarih, ekonomi ve ideoloji kuramıyla eleştirel yaklaşımların çıkış noktalarından biri.",
+  "roles": [
+    "filozof",
+    "toplum kuramcısı"
+  ],
+  "bio": "Karl Marx 1818’de doğdu ve 1883’te öldü. Stanford Felsefe Ansiklopedisi’nin yazarı, onun çoğu zaman bir filozoftan çok bir eylemci, ilhamı yirminci yüzyıl komünist rejimlerine uzanan bir devrimci olarak anıldığını, oysa akademik olarak felsefe eğitimi aldığını (antik felsefe alanında doktora) ve Hegel gibi çağdaşlarıyla doğrudan tartıştığını vurgular.\n\nYazılarında yabancılaşma, tarih kuramı, iktisadi çözümleme, kapitalist toplumun eleştirisi (ahlak ve ideoloji sorunlarını içerir), modern devlet anlayışı ve komünist bir gelecek öngörüsü yer alır. 1845–46’da Friedrich Engels’le birlikte yazdığı *Alman İdeolojisi*’nde, her toplumda egemen fikirlerin egemen sınıfın fikirleri olduğu tezi geçer; SEP yazarı bunu ideoloji kuramının çekirdeği sayar.\n\nBu derste Marx yalnızca bir işaret olarak yer alır: klasik toplumsal düşüncenin “uzlaşmadan doğan düzen” yerine “çatışmadan ve sınıf çıkarından doğan düzen” sorusunu getiren damarı. Ayrıntı, eleştirel yaklaşımlar ünitesindeki derste.",
+  "works": [
+    {
+      "bib": "marx-engels-1845-german-ideology",
+      "note": "“Egemen sınıfın fikirleri egemen fikirlerdir” ve zihinsel üretim araçları."
+    }
+  ],
+  "inCourse": "[[lesson:social-thought-roots]] dersinde yalnızca bir işaret; asıl işlendiği ders: [[lesson:marxist-foundations]]."
+}

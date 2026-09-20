@@ -1,0 +1,18 @@
+{
+  "id": "weber",
+  "born": {
+    "year": 1864
+  },
+  "died": {
+    "year": 1920
+  },
+  "sources": [
+    "kim-2022-sep-weber",
+    "bendix-1968-weber-iess",
+    "ol-author-weber"
+  ],
+  "works": [
+    "weber-1947-theory-social-economic-organization",
+    "weber-1910-geschaeftsbericht"
+  ]
+}

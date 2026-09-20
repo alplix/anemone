@@ -1,0 +1,24 @@
+{
+  "id": "tonnies",
+  "lang": "tr",
+  "name": "Ferdinand Tönnies",
+  "nativeName": "",
+  "slug": "ferdinand-tonnies",
+  "short": "Alman sosyolog (1855–1936); Gemeinschaft ve Gesellschaft ayrımıyla, iki irade türü kuramıyla ve kamuoyu üzerine kitabıyla anılır.",
+  "born": "Eiderstedt",
+  "roles": [
+    "sosyolog"
+  ],
+  "bio": "Ferdinand Tönnies 26 Temmuz 1855’te Schleswig-Holstein’da, Eiderstedt yarımadasında bir çiftlikte doğdu; okulu Husum’da bitirdi. 1877’de klasik filoloji alanında doktorasını tamamladı, 1882’den sonra Kiel Üniversitesi’nde ders verdi. Thomas Hobbes’un eserlerinin yayımlanmasına emek verdi.\n\n*Gemeinschaft und Gesellschaft* (1887) onu tanıttı ama yaklaşık otuz yıl dar bir bilim çevresi dışında pek okunmadı; ilgi, Birinci Dünya Savaşı’ndan sonra, mevcut düzenden hayal kırıklığına uğrayan bir kuşakla birlikte geldi. Kitabın temelinde iradenin iki türü var: doğal irade (*Wesenwille*) ve seçici irade (*Kürwille*). Tönnies bunlardan doğan birliktelik biçimlerini, saf örnekleri gerçekte bulunmayan ideal tipler olarak düşündü.\n\n1922’de *Kritik der öffentlichen Meinung* (Kamuoyunun Eleştirisi) yayımlandı. Tönnies, Weber, Simmel ve Sombart’la birlikte Alman Sosyoloji Derneği’ni kurdu ve 1909–1933 arasında başkanlığını yaptı. 1933’te “siyaseten güvenilmez” sayılarak emeklilik unvanından yoksun bırakıldı; 1936’da öldü.",
+  "works": [
+    {
+      "bib": "tonnies-1957-community-society",
+      "note": "Gemeinschaft und Gesellschaft’ın Loomis çevirisi (1957)."
+    },
+    {
+      "bib": "tonnies-1922-kritik-oeffentliche-meinung",
+      "note": "Kamuoyu üzerine kitap."
+    }
+  ],
+  "inCourse": "[[lesson:social-thought-roots]] dersinde iki irade ve topluluk–toplum, kamuoyu ve “köy–şehir” efsanesi kartlarında geçer."
+}

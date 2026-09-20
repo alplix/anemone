@@ -1,0 +1,13 @@
+{
+  "id": "verstehen",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "Verstehen (interpretive understanding)",
+  "altTerms": [],
+  "slug": "verstehen",
+  "short": "In Weber, grasping the subjective meaning of action by interpretation; not empathy or intuition but a method combined with causal explanation.",
+  "body": "For Weber the subject of social science is *action* rather than behaviour: action rests on the meaning the person attributes to it, while behaviour can be counted without reference to inner motives. The social scientist’s task is to understand this subjective dimension in its relation to others: *Verstehen*.\n\nAs the SEP author stresses, this understanding is not empathy or intuition. Meanings and values gain objective validity when they can be explained causally, that is, as a means to an end. The subtitle of *Economy and Society* carries the approach in its name: outline of interpretive sociology.\n\nIn media research the idea can be recalled as a warning not to read the meaning an audience gives to content from viewing figures alone (our connection).",
+  "example": "Two people raise a hand at an auction, one to bid and one to swat a fly; the movement looks the same, the action’s meaning differs (an imagined example)."
+}

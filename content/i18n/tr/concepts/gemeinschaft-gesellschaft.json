@@ -1,0 +1,12 @@
+{
+  "id": "gemeinschaft-gesellschaft",
+  "lang": "tr",
+  "term": "cemaat ve cemiyet",
+  "altTerms": [
+    "topluluk ve toplum"
+  ],
+  "slug": "cemaat-ve-cemiyet",
+  "short": "Tönnies’in iki irade türüne (doğal irade ve seçici irade) dayanan iki birliktelik ideal tipi: topluluk ve toplum.",
+  "body": "Tönnies’in *Gemeinschaft und Gesellschaft*’ında (1887) iki birliktelik biçimi ayrılır. *Gemeinschaft* (topluluk, cemaat), doğal iradeden (*Wesenwille*) doğar: eylem, doğadan, alışkanlıktan ya da kendi değerinden ötürü istenir; akrabalık, komşuluk, kasaba ve manevi topluluk bunun örnekleridir. *Gesellschaft* (toplum, cemiyet) seçici iradeden (*Kürwille*) doğar: eylem, bir amaca ulaşmak için, araçlar arasından seçilerek istenir; sözleşmeler ve özel amaçlı dernekler bunun örnekleridir.\n\nİkisi de ideal tiptir: saf örnekleri gerçekte yoktur ve somut her birliktelik ikisinden belli oranda taşır. Ayrım köy–şehir ayrımı değil, iradenin türü ayrımıdır.\n\nTürkçede karşılıklar “cemaat–cemiyet” ve “topluluk–toplum” diye iki sıra hâlinde dolaşır; İngilizcede “community and society” ile “community and civil society” başlıklı iki farklı çeviri vardır.",
+  "example": "İki tarafın belirli bir amaç için sözleşmeyle bağlandığı bir iş ilişkisi Gesellschaft’a, akrabalık bağı ise Gemeinschaft’a yakındır."
+}

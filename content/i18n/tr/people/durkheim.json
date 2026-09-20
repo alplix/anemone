@@ -1,0 +1,28 @@
+{
+  "id": "durkheim",
+  "lang": "tr",
+  "name": "Émile Durkheim",
+  "nativeName": "",
+  "slug": "emile-durkheim",
+  "short": "Fransız sosyolog (1858–1917); toplumsal olgu, mekanik ve organik dayanışma, anomi ve intihar çalışmasıyla anılan, sosyolojinin kurucularından.",
+  "born": "Épinal",
+  "roles": [
+    "sosyolog"
+  ],
+  "bio": "Émile Durkheim, 1858’de Lorraine bölgesindeki Épinal’de, hahamlar soyundan gelen bir ailede doğdu; babası, dedesi ve büyük dedesi haham idi. 1879’da École normale supérieure’e girdi ve felsefe okudu. 1887’de Bordeaux Üniversitesi’nde Fransa’nın ilk resmî sosyoloji derslerini vermeye başladı. 1902’de Sorbonne’da eğitim bilimi kürsüsüne geçti; kürsünün adı 1913’te “Eğitim Bilimi ve Sosyoloji” oldu.\n\nBordeaux yıllarında üç kitabını yayımladı: *İş Bölümü* (1893), *Sosyolojik Yöntemin Kuralları* (1895) ve *İntihar* (1897); 1896’da *L’année sociologique*’i kurdu. Son büyük eseri *Dinî Hayatın İlkel Biçimleri* 1912’de çıktı. Sosyolojinin konusunun “toplumsal olgular” olduğunu, yani bireyin dışında var olan ve ona baskı uygulayan davranış, düşünce ve duygu biçimleri olduğunu savundu.\n\nBirinci Dünya Savaşı en gelecek vadeden öğrencilerinin birçoğunu aldı; 1915’te oğlu André cephede öldü. Durkheim Kasım 1917’de bir inmeden öldü. Dreyfus olayında Dreyfus’u savundu ve İnsan Hakları Cemiyeti’nin kurucuları arasında yer aldı.",
+  "works": [
+    {
+      "bib": "durkheim-1893-division",
+      "note": "Mekanik ve organik dayanışma; iş bölümünün toplumsal işlevi."
+    },
+    {
+      "bib": "durkheim-1895-regles",
+      "note": "Toplumsal olguları “şey” gibi ele alma kuralı."
+    },
+    {
+      "bib": "durkheim-1897-suicide",
+      "note": "İntihar oranları, anomi ve gazete-taklit sınaması."
+    }
+  ],
+  "inCourse": "[[lesson:social-thought-roots]] dersinin merkez isimlerinden biridir; işlevselcilik ve ritüel okumaları bu çizginin devamı olarak sonraki derslerde geri gelir."
+}

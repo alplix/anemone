@@ -1,0 +1,25 @@
+{
+  "id": "weber",
+  "lang": "tr",
+  "name": "Max Weber",
+  "nativeName": "",
+  "slug": "max-weber",
+  "short": "Alman sosyolog ve iktisatçı (1864–1920); anlama (Verstehen), ideal tip, rasyonelleşme ve meşru egemenlik türleriyle anılır; 1910’da bir basın sosyolojisi araştırması önerdi.",
+  "born": "Erfurt",
+  "roles": [
+    "sosyolog",
+    "iktisatçı"
+  ],
+  "bio": "Max Weber 21 Nisan 1864’te Erfurt’ta doğdu ve 1920’de öldü. Babası bir avukat ve siyasetçiydi. Hukuk ve iktisat alanında yetişti; ilk üniversite kadrosunu 1894’te Freiburg’da, iki yıl sonra da Heidelberg’de aldı. Sağlığı, kalıcı bir akademik görevde sürekli çalışmasına izin vermedi.\n\nStanford Felsefe Ansiklopedisi’ne göre Weber’in en ünlü iki katkısı “rasyonelleşme tezi” ile “Protestan Ahlakı tezi”dir; *Protestan Ahlakı ve Kapitalizmin Ruhu* 1904–05’te yayımlandı. Yöntem tartışmalarında eylemi anlamı üzerinden yorumlamayı (Verstehen) ve gerçeği tek yanlı vurgularla kuran ideal tipleri savundu. Siyaset sosyolojisinde meşru egemenliği geleneksel, karizmatik ve yasal-rasyonel olarak üçe ayırdı. *Ekonomi ve Toplum* ölümünden sonra yayımlandı.\n\nWeber, Tönnies ve Simmel’le birlikte Alman Sosyoloji Derneği’nin kuruluşunda yer aldı. Derneğin 1910’daki ilk kongresinde ilk araştırma konusu olarak bir “gazetecilik sosyolojisi” önerdi; proje 1911’de terk edildi.",
+  "works": [
+    {
+      "bib": "weber-1947-theory-social-economic-organization",
+      "note": "Egemenlik (Herrschaft) türleri; çeviri notu için deep kart."
+    },
+    {
+      "bib": "weber-1910-geschaeftsbericht",
+      "note": "1910’daki basın araştırması önerisi."
+    }
+  ],
+  "inCourse": "[[lesson:social-thought-roots]] dersinde anlama, ideal tip, egemenlik türleri, rasyonelleşme ve 1910 basın planı kartlarında geçer."
+}

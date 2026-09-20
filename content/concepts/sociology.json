@@ -1,0 +1,15 @@
+{
+  "id": "sociology",
+  "family": "society",
+  "introducedBy": [
+    "comte"
+  ],
+  "related": [
+    "modernity",
+    "social-facts"
+  ],
+  "sources": [
+    "comte-1839-cours-tome4",
+    "bourdeau-2026-sep-comte"
+  ]
+}

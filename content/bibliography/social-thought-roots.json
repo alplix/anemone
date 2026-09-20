@@ -1,0 +1,831 @@
+{
+  "comte-1839-cours-tome4": {
+    "type": "book",
+    "authors": [
+      "Comte, Auguste"
+    ],
+    "year": 1839,
+    "title": "Cours de philosophie positive, tome quatrième, contenant la philosophie sociale et les conclusions générales (première partie)",
+    "publisher": "Bachelier",
+    "place": "Paris",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself",
+        "reference-work"
+      ],
+      "date": "2026-09-20",
+      "note": "Title page (Paris, Bachelier, 1839) and footnote 22 read in the Project Gutenberg e-text no. 31947: Comte 'ventures' the new term 'sociologie', said to be exactly equivalent to his earlier 'physique sociale', and confesses a deep repugnance for systematic neologism. Volume years (1830, 1835, 1838, 1839, 1841, 1842) and the coinage of 'sociology' by Comte confirmed in the Stanford Encyclopedia of Philosophy (Bourdeau)."
+    }
+  },
+  "quetelet-1835-physique-sociale": {
+    "type": "book",
+    "authors": [
+      "Quetelet, Adolphe"
+    ],
+    "year": 1835,
+    "title": "Sur l'homme et le développement de ses facultés, ou Essai de physique sociale",
+    "publisher": "Bachelier",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library lists the 1835 Bachelier edition under exactly this title (works OL1547154W and OL17866655W). Only title and year are used; the book was not read. The frequently repeated story that Comte abandoned 'physique sociale' because of Quetelet was NOT verified (Comte's footnote does not mention him)."
+    }
+  },
+  "durkheim-1893-division": {
+    "type": "book",
+    "authors": [
+      "Durkheim, Émile"
+    ],
+    "year": 1893,
+    "title": "De la division du travail social: étude sur l'organisation des sociétés supérieures",
+    "publisher": "Alcan",
+    "place": "Paris",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "reference-work",
+        "open-library"
+      ],
+      "date": "2026-09-20",
+      "note": "Title, publisher and year given in the reference list of the IEP entry (Carls); 1893 confirmed by Parsons's entry (Encyclopedia.com, International Encyclopedia of the Social Sciences) and by Open Library (work OL606930W, first published 1893). The book was not read; only the mechanical/organic solidarity summary in the IEP entry is used."
+    }
+  },
+  "durkheim-1895-regles": {
+    "type": "book",
+    "authors": [
+      "Durkheim, Émile"
+    ],
+    "year": 1895,
+    "title": "Les règles de la méthode sociologique",
+    "publisher": "Alcan",
+    "place": "Paris",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself",
+        "reference-work"
+      ],
+      "date": "2026-09-20",
+      "note": "The 7th edition (Paris, Alcan, 1919) was read in the archive.org scan (identifier lesrglesdelam00durkuoft): preface, and the passage of chapter II defining 'chose' as whatever is given to observation and treating phenomena as things as treating them as data. The 1895 date and publisher are confirmed by Durkheim's own footnote in Le suicide ('Paris, F. Alcan, 1895') and by the IEP entry (Carls). The table of contents on French Wikisource states the fundamental rule of chapter II."
+    }
+  },
+  "durkheim-1897-suicide": {
+    "type": "book",
+    "authors": [
+      "Durkheim, Émile"
+    ],
+    "year": 1897,
+    "title": "Le suicide: étude de sociologie",
+    "publisher": "Félix Alcan",
+    "place": "Paris",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself",
+        "reference-work"
+      ],
+      "date": "2026-09-20",
+      "note": "Full text read in the Project Gutenberg e-text no. 40489 (title page: Paris, Félix Alcan, 1897): Book I chapter IV on imitation and the press, the Swiss and German cantons/regions, the footnote on a 'fatalist' type of suicide, and the ethnic-factor tables; the table of contents was cross-read on French Wikisource. Year and title confirmed by the IEP entry (Carls)."
+    }
+  },
+  "simmel-1903-grossstaedte": {
+    "type": "article",
+    "authors": [
+      "Simmel, Georg"
+    ],
+    "year": 1903,
+    "title": "Die Großstädte und das Geistesleben",
+    "container": "Die Großstadt. Vorträge und Aufsätze zur Städteausstellung (Jahrbuch der Gehe-Stiftung zu Dresden, ed. Th. Petermann)",
+    "volume": "9",
+    "pages": "185-206",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself",
+        "library-transcription"
+      ],
+      "date": "2026-09-20",
+      "note": "German text read in the transcription at socio.ch (University of Zurich, Georg Simmel Online); the bibliographic note (Jahrbuch der Gehe-Stiftung Dresden, ed. Th. Petermann, vol. 9, 1903, pp. 185-206) appears on both socio.ch and projekt-gutenberg.org. Passages used: the 18th/19th century summary, Steigerung des Nervenlebens, Unterschiedswesen, intellect as protective organ, the clock example, blase attitude and the money economy, Reserviertheit, freedom and loneliness in the crowd. The date 1903 is confirmed by the Encyclopedia.com/IESS entry on Simmel (Mayntz)."
+    }
+  },
+  "simmel-1908-soziologie": {
+    "type": "book",
+    "authors": [
+      "Simmel, Georg"
+    ],
+    "year": 1908,
+    "title": "Soziologie: Untersuchungen über die Formen der Vergesellschaftung",
+    "publisher": "Duncker & Humblot",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself",
+        "open-library",
+        "reference-work"
+      ],
+      "date": "2026-09-20",
+      "note": "Chapter IX including the 'Exkurs über den Fremden' (pp. 509-512 of the first edition) read in the socio.ch transcription (Duncker & Humblot, 1908, 1st ed.); Open Library lists 'Soziologie' (Duncker und Humblot, 1908); the Encyclopedia.com/IESS entry (Mayntz) gives the title and describes the forms-of-sociation approach. Place of publication omitted (sources differ: Berlin/Leipzig)."
+    }
+  },
+  "weber-1910-geschaeftsbericht": {
+    "type": "report",
+    "authors": [
+      "Weber, Max"
+    ],
+    "year": 1910,
+    "title": "Geschäftsbericht (speech at the First German Sociological Congress, Frankfurt am Main, October 1910)",
+    "institution": "Deutsche Gesellschaft für Soziologie",
+    "url": "http://www.zeno.org/Soziologie/M/Weber,+Max/Schriften+zur+Soziologie+und+Sozialpolitik/Gesch%C3%A4ftsbericht+und+Diskussionsreden+auf+dem+ersten+Deutschen+Soziologentage+in+Frankfurt+1910/Gesch%C3%A4ftsbericht",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself",
+        "secondary-account"
+      ],
+      "date": "2026-09-20",
+      "note": "Text read at zeno.org (reprint in: Max Weber, Gesammelte Aufsätze zur Soziologie und Sozialpolitik, ed. Marianne Weber, 2nd ed., Tübingen 1988, pp. 431-449): proposal of a sociology of the press as the society's first topic, 'mit der Schere und mit dem Zirkel', the two kinds of customers, capital and trusts, anonymity, news agencies, journalists, effects on reading habits, the final questions. Lepsius (DGS) quotes the same report (Verhandlungen 1911: 42) and confirms its occasion and its later failure."
+    }
+  },
+  "weber-1947-theory-social-economic-organization": {
+    "type": "book",
+    "authors": [
+      "Weber, Max"
+    ],
+    "year": 1947,
+    "title": "The theory of social and economic organization",
+    "publisher": "Free Press of Glencoe",
+    "place": "New York",
+    "originalYear": 1922,
+    "originalTitle": "Wirtschaft und Gesellschaft",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself",
+        "publisher-page"
+      ],
+      "date": "2026-09-20",
+      "note": "Excerpts of the Henderson-Parsons translation (ed. Talcott Parsons, Free Press of Glencoe, 1947, pp. 152-53, 324-39, 358-63) read on the German History Intersections site, including the translators' footnote on Herrschaft ('no satisfactory English equivalent', 'imperative control', 'authority'). The German source is given there as Grundriss der Sozialökonomik III (Tübingen: Mohr, 1922)."
+    }
+  },
+  "marx-engels-1845-german-ideology": {
+    "type": "web",
+    "authors": [
+      "Marx, Karl",
+      "Engels, Friedrich"
+    ],
+    "year": 1845,
+    "title": "The German Ideology, part I: Feuerbach (section 'Ruling Class and Ruling Ideas')",
+    "publisher": "Marxists Internet Archive",
+    "url": "https://www.marxists.org/archive/marx/works/1845/german-ideology/ch01b.htm",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "page-read",
+        "reference-work"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read: 'The ideas of the ruling class are in every epoch the ruling ideas' and control of the means of mental production. The Stanford Encyclopedia of Philosophy (Wolff) dates the work 1845-46 and identifies the ruling-ideas thesis as the core of the theory of ideology. The year of first publication of the manuscript was not checked."
+    }
+  },
+  "tonnies-1957-community-society": {
+    "type": "book",
+    "authors": [
+      "Tönnies, Ferdinand"
+    ],
+    "year": 1957,
+    "title": "Community and society (Gemeinschaft und Gesellschaft), translated and edited by Charles P. Loomis",
+    "publisher": "Michigan State University Press",
+    "place": "East Lansing",
+    "originalYear": 1887,
+    "originalTitle": "Gemeinschaft und Gesellschaft",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "reference-work",
+        "open-library"
+      ],
+      "date": "2026-09-20",
+      "note": "The Loomis translation is listed in the works list of the IESS entry (Heberle) as '(1887) 1957 Community and Society ... East Lansing: Michigan State Univ. Press'; Open Library lists Michigan State University Press editions of Gemeinschaft und Gesellschaft; the Encyclopedia of World Biography entry on the same Encyclopedia.com page also gives Community and Society (1957) by Loomis. The 1887 German first edition was not opened."
+    }
+  },
+  "tonnies-1922-kritik-oeffentliche-meinung": {
+    "type": "book",
+    "authors": [
+      "Tönnies, Ferdinand"
+    ],
+    "year": 1922,
+    "title": "Kritik der öffentlichen Meinung",
+    "publisher": "Springer",
+    "place": "Berlin",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "reference-work",
+        "open-library"
+      ],
+      "date": "2026-09-20",
+      "note": "Title, place, publisher and year given in the works list of the IESS entry (Heberle: 'Kritik der öffentlichen Meinung. Berlin: Springer', 1922) and in Open Library (J. Springer, 1922). The book was not read; only Heberle's summary of its argument is used."
+    }
+  },
+  "tonnies-2001-community-civil-society": {
+    "type": "book",
+    "authors": [
+      "Tönnies, Ferdinand"
+    ],
+    "year": 2001,
+    "title": "Community and civil society (ed. José Harris; trans. Margaret Hollis)",
+    "publisher": "Cambridge University Press",
+    "doi": "10.1017/CBO9780511816260",
+    "originalYear": 1887,
+    "originalTitle": "Gemeinschaft und Gesellschaft",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "open-library"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record for DOI 10.1017/CBO9780511816260 (Cambridge University Press, 2 July 2001, editor Jose Harris); Open Library lists the same title with Jose Harris (editor) and Margaret Hollis (translator). The book was not read; only its title is used to show a different English rendering of Gesellschaft."
+    }
+  },
+  "tonnies-2019-cemaat-cemiyet-tr": {
+    "type": "book",
+    "authors": [
+      "Tönnies, Ferdinand"
+    ],
+    "year": 2019,
+    "title": "Cemaat ve Cemiyet (çev. Emre Güler)",
+    "publisher": "VakıfBank Kültür Yayınları",
+    "place": "İstanbul",
+    "originalYear": 1887,
+    "originalTitle": "Gemeinschaft und Gesellschaft",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "bookseller-listing",
+        "reference-work"
+      ],
+      "date": "2026-09-20",
+      "note": "Kitapyurdu listing (translator Emre Güler, publication date 24.09.2019, quoting the publisher's description: the book reaches Turkish 132 years after the German original) and the bibliography of Bulut's encyclopedia entry (TÜBİTAK), which lists 'Çev. Emre Güler, İstanbul: Vakıfbank Kültür Yay., 2019'. The book was not opened."
+    }
+  },
+  "phillips-1974-suicide-suggestion": {
+    "type": "article",
+    "authors": [
+      "Phillips, David P."
+    ],
+    "year": 1974,
+    "title": "The influence of suggestion on suicide: substantive and theoretical implications of the Werther effect",
+    "container": "American Sociological Review",
+    "volume": "39",
+    "issue": "3",
+    "pages": "340-354",
+    "doi": "10.2307/2094294",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract",
+        "pubmed-semantic-scholar"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record matched; abstract read via OpenAlex (Britain and the United States 1947-1968; suicides rise immediately after a publicized suicide story; the more publicity, the larger the rise; the rise is largely confined to the area of publicity). Page range 340-54 from Semantic Scholar/PubMed (Crossref lists the start page only). Only the abstract was read."
+    }
+  },
+  "shils-young-1953-coronation": {
+    "type": "article",
+    "authors": [
+      "Shils, Edward",
+      "Young, Michael"
+    ],
+    "year": 1953,
+    "title": "The meaning of the coronation",
+    "container": "The Sociological Review",
+    "volume": "1",
+    "issue": "2",
+    "pages": "63-81",
+    "doi": "10.1111/j.1467-954X.1953.tb00953.x",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "secondary-account"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record matched (Sociological Review, new series, vol. 1 no. 2, Dec 1953, pp. 63-81). The article itself was not read (paywalled); its argument (Durkheimian reading; 'an act of national communion'; Durkheim cited on sentiments that cannot be 'purely illusory') is taken from McGuigan's 2016 retrospective in The Sociological Review, and Lukes (1975) treats it as a 'neo-Durkheimian' analysis."
+    }
+  },
+  "birnbaum-1955-monarchs-sociologists": {
+    "type": "article",
+    "authors": [
+      "Birnbaum, Norman"
+    ],
+    "year": 1955,
+    "title": "Monarchs and sociologists: a reply to Professor Shils and Mr. Young",
+    "container": "The Sociological Review",
+    "volume": "3",
+    "issue": "1",
+    "pages": "5-23",
+    "doi": "10.1111/j.1467-954x.1955.tb01042.x",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "secondary-account"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record matched (vol. 3 no. 1, July 1955, pp. 5-23). The article was not read; its argument is taken from McGuigan (2016), who describes it as a famous reply by Norman Birnbaum."
+    }
+  },
+  "lukes-1975-political-ritual": {
+    "type": "article",
+    "authors": [
+      "Lukes, Steven"
+    ],
+    "year": 1975,
+    "title": "Political ritual and social integration",
+    "container": "Sociology",
+    "volume": "9",
+    "issue": "2",
+    "pages": "289-308",
+    "doi": "10.1177/003803857500900205",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record matched; abstract read via OpenAlex: criticizes the 'neo-Durkheimian' analyses (Shils and Young, Blumler et al., Lloyd Warner, Bellah, Verba) for too simple a notion of social integration and too narrow a selection and analysis of political rituals, and proposes reading many rituals as elements in the 'mobilization of bias'. Only the abstract was read."
+    }
+  },
+  "connell-1997-classical-theory": {
+    "type": "article",
+    "authors": [
+      "Connell, R. W."
+    ],
+    "year": 1997,
+    "title": "Why is classical theory classical?",
+    "container": "American Journal of Sociology",
+    "volume": "102",
+    "issue": "6",
+    "pages": "1511-1557",
+    "doi": "10.1086/231125",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record matched; abstract read via OpenAlex (untenable foundation story of great men theorizing European modernity; sociology emerged from liberalism and empire; retrospective creation of a 'classical' canon after the early-20th-century crisis of American sociology). Only the abstract was read."
+    }
+  },
+  "baehr-2001-iron-cage": {
+    "type": "article",
+    "authors": [
+      "Baehr, Peter"
+    ],
+    "year": 2001,
+    "title": "The 'iron cage' and the 'shell as hard as steel': Parsons, Weber, and the Stahlhartes Gehäuse metaphor in the Protestant ethic and the spirit of capitalism",
+    "container": "History and Theory",
+    "volume": "40",
+    "issue": "2",
+    "pages": "153-169",
+    "doi": "10.1111/0018-2656.00160",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record matched; abstract read via OpenAlex (Parsons's canonical rendering 'iron cage'; possible source of the imagery in Bunyan; steel as a fabricated material; a cage confines while a shell suggests a new kind of being; 'traveling idea'). Only the abstract was read."
+    }
+  },
+  "bourdeau-2026-sep-comte": {
+    "type": "web",
+    "authors": [
+      "Bourdeau, Michel"
+    ],
+    "year": 2026,
+    "title": "Auguste Comte",
+    "publisher": "Stanford Encyclopedia of Philosophy",
+    "url": "https://plato.stanford.edu/entries/comte/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "reference-work",
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read (first published 1 Oct 2008; substantive revision 13 Jan 2026 as displayed). Used for: Comte 1798-1857 (born Montpellier), Cours de philosophie positive (six volumes 1830-1842, Martineau's condensed English translation 1853), sociology first called 'social physics', Comte as coiner of 'sociology', the law of three stages, sociology as the last and coordinating science."
+    }
+  },
+  "weinstein-2024-sep-spencer": {
+    "type": "web",
+    "authors": [
+      "Weinstein, David"
+    ],
+    "year": 2024,
+    "title": "Herbert Spencer",
+    "publisher": "Stanford Encyclopedia of Philosophy",
+    "url": "https://plato.stanford.edu/entries/spencer/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "reference-work",
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read (first published 15 Dec 2002; substantive revision 14 Mar 2024 as displayed). Used for: Spencer 1820-1903, coiner of 'survival of the fittest', wrongly considered a coarse social Darwinist, Principles of Sociology 1876-96."
+    }
+  },
+  "sweet-iep-spencer": {
+    "type": "web",
+    "authors": [
+      "Sweet, William"
+    ],
+    "title": "Spencer, Herbert",
+    "publisher": "Internet Encyclopedia of Philosophy",
+    "url": "https://iep.utm.edu/spencer/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "reference-work",
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read (author as shown in the page's author information). Used for: Spencer 1820-1903 (born Derby, died 8 Dec 1903), coiner of 'survival of the fittest', his 'organic' view of society with mutually dependent parts."
+    }
+  },
+  "carls-iep-durkheim": {
+    "type": "web",
+    "authors": [
+      "Carls, Paul"
+    ],
+    "title": "Durkheim, Emile",
+    "publisher": "Internet Encyclopedia of Philosophy",
+    "url": "https://iep.utm.edu/emile-durkheim/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "reference-work",
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read (author as shown in the page's author information). Used for: Durkheim 1858-1917, main works and years (1893, 1895, 1897, 1912), the definition and examples of social facts, mechanical and organic solidarity and their causes, anomie, egoistic and anomic suicide, influence of Comte and Spencer, criticisms and replies, moral authority versus Weber's typology, Marx."
+    }
+  },
+  "kim-2022-sep-weber": {
+    "type": "web",
+    "authors": [
+      "Kim, Sung Ho"
+    ],
+    "year": 2022,
+    "title": "Max Weber",
+    "publisher": "Stanford Encyclopedia of Philosophy",
+    "url": "https://plato.stanford.edu/entries/weber/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "reference-work",
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read (first published 24 Aug 2007; substantive revision 21 Sep 2022 as displayed). Used for: Weber 1864-1920, Protestant Ethic (1904-05) and Economy and Society (1921-22), action versus behaviour and Verstehen, ideal type, rationalization and disenchantment, iron cage (stahlhartes Gehäuse), three ideal types of legitimate domination, the translation note on Herrschaft."
+    }
+  },
+  "wolff-2025-sep-marx": {
+    "type": "web",
+    "authors": [
+      "Wolff, Jonathan"
+    ],
+    "year": 2025,
+    "title": "Karl Marx",
+    "publisher": "Stanford Encyclopedia of Philosophy",
+    "url": "https://plato.stanford.edu/entries/marx/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "reference-work",
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read (first published 26 Aug 2003; substantive revision 27 Mar 2025 as displayed). Used for: Marx 1818-1883, The German Ideology written with Engels in 1845-46, the thesis that the ruling ideas are those of the ruling class as the core of the theory of ideology."
+    }
+  },
+  "parsons-1968-durkheim-iess": {
+    "type": "web",
+    "authors": [
+      "Parsons, Talcott"
+    ],
+    "year": 1968,
+    "title": "Durkheim, Émile",
+    "publisher": "International Encyclopedia of the Social Sciences (Macmillan), as reproduced on Encyclopedia.com",
+    "url": "https://www.encyclopedia.com/people/social-sciences-and-law/sociology-biographies/emile-durkheim",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "reference-work",
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read (the IESS entry signed Talcott Parsons; the page also carries a second, unsigned entry). Used for: Durkheim 1858-1917; Division of Labor 1893, Rules 1895 and Suicide 1897, all published in the Bordeaux period."
+    }
+  },
+  "bendix-1968-weber-iess": {
+    "type": "web",
+    "authors": [
+      "Bendix, Reinhard"
+    ],
+    "year": 1968,
+    "title": "Weber, Max",
+    "publisher": "International Encyclopedia of the Social Sciences (Macmillan), as reproduced on Encyclopedia.com",
+    "url": "https://www.encyclopedia.com/people/social-sciences-and-law/sociology-biographies/max-weber",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "reference-work",
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read (IESS entry signed Reinhard Bendix). Used for: Weber 1864-1920, Wirtschaft und Gesellschaft (subtitle Grundriss der verstehenden Soziologie) published after his death, ideal types, three types of domination and the effect of failing to justify domination."
+    }
+  },
+  "mayntz-1968-simmel-iess": {
+    "type": "web",
+    "authors": [
+      "Mayntz, Renate"
+    ],
+    "year": 1968,
+    "title": "Simmel, Georg",
+    "publisher": "International Encyclopedia of the Social Sciences (Macmillan), as reproduced on Encyclopedia.com",
+    "url": "https://www.encyclopedia.com/people/social-sciences-and-law/sociology-biographies/georg-simmel",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "reference-work",
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read (IESS entry signed Renate Mayntz). Used for: Simmel 1858-1918, born in Berlin, called to Strassburg in 1914, co-founder of the German Sociological Society, Durkheim publishing an essay of his in L'année sociologique, Park and Burgess (1921) and translations, society as the sum of interactions (Wechselwirkung) rather than an organism, formal sociology and the forms of sociation. The page gives 26 Sept 1918 in a second entry and Open Library gives 28 Sept: only years are used."
+    }
+  },
+  "heberle-1968-tonnies-iess": {
+    "type": "web",
+    "authors": [
+      "Heberle, Rudolf"
+    ],
+    "year": 1968,
+    "title": "Tönnies, Ferdinand",
+    "publisher": "International Encyclopedia of the Social Sciences (Macmillan), as reproduced on Encyclopedia.com",
+    "url": "https://www.encyclopedia.com/people/social-sciences-and-law/sociology-biographies/ferdinand-tonnies",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "reference-work",
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read (IESS entry signed Rudolf Heberle; the page also carries an Encyclopedia of World Biography entry that gives the same years). Used for: Tönnies 1855-1936, Gemeinschaft und Gesellschaft (1887), Wesenwille and Kürwille, Gemeinschaft and Gesellschaft as ideal types, Kritik der öffentlichen Meinung (1922) and its argument, president of the German Sociological Society 1909-1933 (co-founded with Simmel, Sombart and Weber), the concept of 'mass society' owing much to Tönnies, rural sociologists' early equation of rural life with Gemeinschaft."
+    }
+  },
+  "encyclopedia-com-park": {
+    "type": "web",
+    "anonymous": true,
+    "title": "Robert E. Park (reference entries)",
+    "publisher": "Encyclopedia.com (includes the IESS entry by H. M. Hughes, 1968)",
+    "url": "https://www.encyclopedia.com/people/social-sciences-and-law/sociology-biographies/robert-e-park",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "reference-work",
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read: Park studied with Georg Simmel in Germany (his only formal course in sociology), completed his Ph.D. at Heidelberg in 1904 with the dissertation 'Masse und Publikum', joined the University of Chicago in 1914; a second entry on the page also places him in Berlin after his 1899 Harvard master's degree."
+    }
+  },
+  "mcguigan-2016-tsr-monarchy": {
+    "type": "web",
+    "authors": [
+      "McGuigan, Jim"
+    ],
+    "year": 2016,
+    "title": "The monarchy: pomp, ceremony and soap opera",
+    "publisher": "The Sociological Review (Past and Present collection)",
+    "url": "https://thesociologicalreview.org/journal-collections/past-and-present/the-monarchy-pomp-ceremony-and-soap-opera/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "page-read",
+        "journal-retrospective"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read (dated 19 March 2016): retrospective on Shils and Young (1953): Durkheim cited, 'an act of national communion', the televised coronation (live, narrated by Richard Dimbleby; people without sets crowded into homes with sets; sales and rentals rose the following year), and Birnbaum's reply."
+    }
+  },
+  "lepsius-dgs-weber-gruendung": {
+    "type": "web",
+    "authors": [
+      "Lepsius, M. Rainer"
+    ],
+    "title": "Max Weber und die Gründung der Deutschen Gesellschaft für Soziologie",
+    "publisher": "Deutsche Gesellschaft für Soziologie",
+    "url": "https://soziologie.de/dgs/geschichte/max-weber-und-die-gruendung-der-dgs",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "institutional-page",
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read (signed M. Rainer Lepsius): Weber's press survey as the society's first research project, the plan, the fund-raising figures, the 1912 statement about an 'Unstern', the end of the project in 1911 amid a press trial and a trial with the press scholar Adolf Koch. Quotes Weber's 1910 report (Verhandlungen 1911: 42) accurately as checked against zeno.org."
+    }
+  },
+  "tdv-gokalp-ziya": {
+    "type": "web",
+    "anonymous": true,
+    "title": "Gökalp, Ziya",
+    "publisher": "TDV İslâm Ansiklopedisi",
+    "url": "https://islamansiklopedisi.org.tr/gokalp-ziya",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "reference-work",
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read: Gökalp 1876-1924; introduced Durkheim, Fouillée, Tarde and Le Bon to young people in Salonica; followed Durkheim on the reality of society and wrote that studies must be 'şey'î (objektif)'; accepted the mechanical-to-organic transition; the entry warns against saying he adopted Durkheim blindly."
+    }
+  },
+  "tma-gokalp": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2026,
+    "title": "Ziya Gökalp",
+    "publisher": "Türk Maarif Ansiklopedisi",
+    "url": "https://turkmaarifansiklopedisi.org.tr/ziya-gokalp",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "reference-work",
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read (accessed 20.09.2026 as printed): Gökalp 1876-1924; sociology (içtimaiyat) placed in the curriculum of the school he helped found in Salonica; appointed professor of sociology at the Darülfünun in 1913 and led the founding of the first sociology institute in 1915; influenced by Durkheim; hars and medeniyet."
+    }
+  },
+  "bulut-cemaat-cemiyet-tubitak": {
+    "type": "web",
+    "authors": [
+      "Bulut, Yücel"
+    ],
+    "title": "Cemaat ve Cemiyet",
+    "publisher": "TÜBİTAK, Sosyal Bilimler Ansiklopedisi",
+    "url": "https://ansiklopedi.tubitak.gov.tr/ansiklopedi/cemaat_ve_cemiyet",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "reference-work",
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read: Gemeinschaft-Gesellschaft rendered as cemaat-cemiyet (topluluk-toplum), Tönnies's concepts as ideal types, the remark that the community concept helps to build a nostalgic and imagined traditional society; bibliography lists the 2019 Turkish translation by Emre Güler. The same text also appears on KÜRE Ansiklopedi (not counted as a second source)."
+    }
+  },
+  "ol-author-comte": {
+    "type": "web",
+    "anonymous": true,
+    "title": "Auguste Comte (author record)",
+    "publisher": "Open Library",
+    "url": "https://openlibrary.org/authors/OL62364A",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library"
+      ],
+      "date": "2026-09-20",
+      "note": "Author record read through the Open Library search API: born 1798, died 1857 (the record gives 19 Jan 1798 and 5 Sep 1857; SEP says 20 Jan 1798). Only the years are used."
+    }
+  },
+  "ol-author-spencer": {
+    "type": "web",
+    "anonymous": true,
+    "title": "Herbert Spencer (author record)",
+    "publisher": "Open Library",
+    "url": "https://openlibrary.org/authors/OL108123A",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library"
+      ],
+      "date": "2026-09-20",
+      "note": "Author record read through the Open Library search API: born 1820, died 1903. Only the years are used."
+    }
+  },
+  "ol-author-durkheim": {
+    "type": "web",
+    "anonymous": true,
+    "title": "Émile Durkheim (author record)",
+    "publisher": "Open Library",
+    "url": "https://openlibrary.org/authors/OL4287664A",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library"
+      ],
+      "date": "2026-09-20",
+      "note": "Author record read through the Open Library search API: born 1858, died 1917. Only the years are used."
+    }
+  },
+  "ol-author-weber": {
+    "type": "web",
+    "anonymous": true,
+    "title": "Max Weber (author record)",
+    "publisher": "Open Library",
+    "url": "https://openlibrary.org/authors/OL139548A",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library"
+      ],
+      "date": "2026-09-20",
+      "note": "Author record read through the Open Library search API: born 21 April 1864, died 14 June 1920. Only the years are used."
+    }
+  },
+  "ol-author-simmel": {
+    "type": "web",
+    "anonymous": true,
+    "title": "Georg Simmel (author record)",
+    "publisher": "Open Library",
+    "url": "https://openlibrary.org/authors/OL112837A",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library"
+      ],
+      "date": "2026-09-20",
+      "note": "Author record read through the Open Library search API: born 1 March 1858, died 28 September 1918. Only the years are used."
+    }
+  },
+  "ol-author-tonnies": {
+    "type": "web",
+    "anonymous": true,
+    "title": "Ferdinand Tönnies (author record)",
+    "publisher": "Open Library",
+    "url": "https://openlibrary.org/authors/OL138431A",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library"
+      ],
+      "date": "2026-09-20",
+      "note": "Author record read through the Open Library search API: born 1855, died 1936. Only the years are used."
+    }
+  },
+  "ol-author-marx": {
+    "type": "web",
+    "anonymous": true,
+    "title": "Karl Marx (author record)",
+    "publisher": "Open Library",
+    "url": "https://openlibrary.org/authors/OL48230A",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library"
+      ],
+      "date": "2026-09-20",
+      "note": "Author record read through the Open Library search API: born 5 May 1818, died 14 March 1883. Only the years are used."
+    }
+  }
+}

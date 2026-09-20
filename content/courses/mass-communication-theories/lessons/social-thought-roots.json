@@ -1,0 +1,216 @@
+{
+  "id": "social-thought-roots",
+  "people": [
+    "comte",
+    "spencer",
+    "durkheim",
+    "weber",
+    "simmel",
+    "tonnies",
+    "marx"
+  ],
+  "concepts": [
+    "sociology",
+    "social-facts",
+    "anomie",
+    "solidarity",
+    "verstehen",
+    "rationalization",
+    "ideal-type",
+    "gemeinschaft-gesellschaft",
+    "metropolis-mental-life",
+    "modernity"
+  ],
+  "sources": [
+    {
+      "bib": "comte-1839-cours-tome4",
+      "role": "primary"
+    },
+    {
+      "bib": "durkheim-1895-regles",
+      "role": "primary"
+    },
+    {
+      "bib": "durkheim-1897-suicide",
+      "role": "primary"
+    },
+    {
+      "bib": "durkheim-1893-division",
+      "role": "primary"
+    },
+    {
+      "bib": "simmel-1903-grossstaedte",
+      "role": "primary"
+    },
+    {
+      "bib": "simmel-1908-soziologie",
+      "role": "primary"
+    },
+    {
+      "bib": "weber-1910-geschaeftsbericht",
+      "role": "primary"
+    },
+    {
+      "bib": "weber-1947-theory-social-economic-organization",
+      "role": "primary"
+    },
+    {
+      "bib": "marx-engels-1845-german-ideology",
+      "role": "primary"
+    },
+    {
+      "bib": "tonnies-1922-kritik-oeffentliche-meinung",
+      "role": "primary"
+    },
+    {
+      "bib": "tonnies-1957-community-society",
+      "role": "primary"
+    },
+    {
+      "bib": "phillips-1974-suicide-suggestion",
+      "role": "study"
+    },
+    {
+      "bib": "shils-young-1953-coronation",
+      "role": "study"
+    },
+    {
+      "bib": "birnbaum-1955-monarchs-sociologists",
+      "role": "study"
+    },
+    {
+      "bib": "lukes-1975-political-ritual",
+      "role": "study"
+    },
+    {
+      "bib": "connell-1997-classical-theory",
+      "role": "review"
+    },
+    {
+      "bib": "baehr-2001-iron-cage",
+      "role": "review"
+    },
+    {
+      "bib": "mcguigan-2016-tsr-monarchy",
+      "role": "review"
+    },
+    {
+      "bib": "lepsius-dgs-weber-gruendung",
+      "role": "review"
+    },
+    {
+      "bib": "tonnies-2001-community-civil-society",
+      "role": "reference"
+    },
+    {
+      "bib": "quetelet-1835-physique-sociale",
+      "role": "reference"
+    },
+    {
+      "bib": "bourdeau-2026-sep-comte",
+      "role": "reference"
+    },
+    {
+      "bib": "weinstein-2024-sep-spencer",
+      "role": "reference"
+    },
+    {
+      "bib": "sweet-iep-spencer",
+      "role": "reference"
+    },
+    {
+      "bib": "carls-iep-durkheim",
+      "role": "reference"
+    },
+    {
+      "bib": "kim-2022-sep-weber",
+      "role": "reference"
+    },
+    {
+      "bib": "wolff-2025-sep-marx",
+      "role": "reference"
+    },
+    {
+      "bib": "bendix-1968-weber-iess",
+      "role": "reference"
+    },
+    {
+      "bib": "mayntz-1968-simmel-iess",
+      "role": "reference"
+    },
+    {
+      "bib": "heberle-1968-tonnies-iess",
+      "role": "reference"
+    },
+    {
+      "bib": "encyclopedia-com-park",
+      "role": "reference"
+    },
+    {
+      "bib": "tonnies-2019-cemaat-cemiyet-tr",
+      "role": "turkish-translation"
+    },
+    {
+      "bib": "tdv-gokalp-ziya",
+      "role": "turkish-reference"
+    },
+    {
+      "bib": "tma-gokalp",
+      "role": "turkish-reference"
+    },
+    {
+      "bib": "bulut-cemaat-cemiyet-tubitak",
+      "role": "turkish-reference"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1839,
+      "id": "comte-sociologie"
+    },
+    {
+      "year": 1887,
+      "id": "tonnies-gemeinschaft"
+    },
+    {
+      "year": 1893,
+      "id": "durkheim-division"
+    },
+    {
+      "year": 1895,
+      "id": "durkheim-rules"
+    },
+    {
+      "year": 1897,
+      "id": "durkheim-suicide"
+    },
+    {
+      "year": 1903,
+      "id": "simmel-metropolis"
+    },
+    {
+      "year": 1904,
+      "id": "weber-protestant-ethic"
+    },
+    {
+      "year": 1908,
+      "id": "simmel-soziologie"
+    },
+    {
+      "year": 1910,
+      "id": "weber-press-survey"
+    },
+    {
+      "year": 1922,
+      "id": "tonnies-public-opinion"
+    },
+    {
+      "year": 1953,
+      "id": "shils-young-coronation"
+    },
+    {
+      "year": 1974,
+      "id": "phillips-suicide-news"
+    }
+  ]
+}

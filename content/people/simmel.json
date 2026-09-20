@@ -1,0 +1,17 @@
+{
+  "id": "simmel",
+  "born": {
+    "year": 1858
+  },
+  "died": {
+    "year": 1918
+  },
+  "sources": [
+    "mayntz-1968-simmel-iess",
+    "ol-author-simmel"
+  ],
+  "works": [
+    "simmel-1903-grossstaedte",
+    "simmel-1908-soziologie"
+  ]
+}

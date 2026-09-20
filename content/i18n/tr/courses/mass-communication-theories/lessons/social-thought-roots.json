@@ -1,0 +1,968 @@
+{
+  "id": "social-thought-roots",
+  "lang": "tr",
+  "translation": {
+    "status": "source",
+    "date": "2026-09-20"
+  },
+  "title": "Toplumsal Düşüncenin Kökleri",
+  "slug": "toplumsal-dusuncenin-kokleri",
+  "description": "Comte, Durkheim, Weber, Simmel ve Tönnies: toplumsal düzen, birey ve büyükşehir sorularının medya araştırmasına mirası; laboratuvar ve sınav kartlarıyla.",
+  "claim": "Klasik toplumsal düşünce, eski bağlar çözülürken toplumu neyin bir arada tuttuğunu, bireyin toplumsal yapı karşısında nerede durduğunu ve büyük şehir kalabalığında insanın nasıl değiştiğini sordu; medya araştırması bu soruları kavramlarıyla birlikte devraldı.",
+  "keywords": [
+    "toplumsal düşüncenin kökleri",
+    "klasik sosyoloji",
+    "Comte",
+    "Spencer",
+    "Durkheim",
+    "toplumsal olgu",
+    "mekanik dayanışma",
+    "organik dayanışma",
+    "anomi",
+    "Weber",
+    "verstehen",
+    "ideal tip",
+    "rasyonelleşme",
+    "Simmel",
+    "yabancı",
+    "büyükşehir ve zihinsel yaşam",
+    "Tönnies",
+    "cemaat ve cemiyet",
+    "Marx",
+    "medya ve toplum"
+  ],
+  "updated": "2026-09-20",
+  "timeline": {
+    "comte-sociologie": "Comte, Cours de philosophie positive, dördüncü cilt: “sociologie” sözcüğü bir dipnotta",
+    "tonnies-gemeinschaft": "Tönnies, Gemeinschaft und Gesellschaft",
+    "durkheim-division": "Durkheim, İş Bölümü: mekanik ve organik dayanışma",
+    "durkheim-rules": "Durkheim, Yöntem Kuralları: olguları şey gibi ele al",
+    "durkheim-suicide": "Durkheim, İntihar: anomi ve gazete-taklit sınaması",
+    "simmel-metropolis": "Simmel, Büyükşehir ve Zihinsel Yaşam",
+    "weber-protestant-ethic": "Weber, Protestan Ahlakı (1904–05): çelik kabuk imgesi",
+    "simmel-soziologie": "Simmel, Soziologie: yabancı",
+    "weber-press-survey": "Weber, Alman Sosyoloji Derneği’nde basın araştırması önerisi",
+    "tonnies-public-opinion": "Tönnies, Kamuoyunun Eleştirisi",
+    "shils-young-coronation": "Shils ve Young: taç giyme töreninin Durkheimci okuması",
+    "phillips-suicide-news": "Phillips: intihar haberleri ve sonraki intiharlar"
+  },
+  "cards": [
+    {
+      "id": "ctx-name",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "Bir bilimin adı, bir dipnotta özür dileyerek doğdu",
+      "body": "1839, Paris. Bachelier Yayınevi, Auguste Comte’un *Cours de philosophie positive* adlı eserinin dördüncü cildini basıyor; cilt, toplumun bilimine ayrılmış. [[cite:comte-1839-cours-tome4]] Sayfaların birinde bir dipnot var ve o dipnotta [[person:comte|Comte]] okurdan âdeta izin istiyor: bu “yeni terimi” denemeye cesaret ediyor, çünkü toplumsal olguların olumlu (pozitif) incelenmesini tek bir adla anmaya ihtiyacı var. Terim, daha önce kullandığı “toplumsal fizik” (*physique sociale*) sözüyle eş anlamlı ve adı *sociologie*. Hemen ardından da itiraf ediyor: sistematik sözcük türetme alışkanlığına “derin bir tiksinti” duyuyor (*profonde répugnance*). [[cite:comte-1839-cours-tome4]]\n\nYani [[concept:sociology|sosyoloji]], adını utangaç bir dipnotla aldı. Eserin amaçlarından biri de tam olarak buydu: o günlerde “toplumsal fizik” denen alanın temelini kurmak. [[cite:bourdeau-2026-sep-comte]]\n\nSık anlatılan bir hikâye, “toplumsal fizik” adından vazgeçilmesini Belçikalı Adolphe Quetelet’ye bağlar; onun 1835 tarihli kitabının başlığında gerçekten de *essai de physique sociale* geçer. [[cite:quetelet-1835-physique-sociale]] Ama Comte’un dipnotunda Quetelet’nin adı yok. Hikâye bu belgede değil, sonradan kurulan anlatılarda yaşıyor; biz de onu kesin gerçek diye değil, “sık anlatılan” bir açıklama diye taşıyoruz.",
+      "question": {
+        "id": "ctx-name-q",
+        "type": "mcq",
+        "prompt": "Bir arkadaşın “Comte, Quetelet ‘toplumsal fizik’ adını kaptığı için öfkeyle ‘sosyoloji’yi uydurdu” diyor. Comte’un 1839 dipnotu bu iddia hakkında ne söylemene izin verir?",
+        "options": [
+          "İddiayı doğrular; dipnotta Quetelet’ye açıkça sitem edilir.",
+          "İddiayı ne doğrular ne yalanlar; dipnot yeni sözcüğün gerekliliğini ve eski adla eş anlamlılığını söyler, Quetelet’den hiç söz etmez.",
+          "İddiayı yalanlar; çünkü sosyoloji sözcüğü dipnotta ‘eski bir Latince terim’ diye sunulur.",
+          "Dipnot yalnızca ‘altruism’ sözcüğü üzerinedir."
+        ],
+        "answer": 1,
+        "explain": "Elimizdeki belge (dipnot), terimin ‘yeni’, ‘gerekli’ ve ‘toplumsal fizik’le eş anlamlı olduğunu söylüyor; bir rakibe sitem etmiyor. Bu yüzden iddia belgeden doğrulanamaz; ama ‘yalanlanmış’ da sayılmaz, çünkü hikâye başka kaynaklarda dolaşıyor. Üçüncü seçenek dipnotun tersini söylüyor (terim yeni diye sunulur); dördüncü seçenek ise başka bir sözcüğü, Comte’un sonradan ürettiği ‘altruism’i karıştırıyor."
+      }
+    },
+    {
+      "id": "ctx-centuries",
+      "section": "context",
+      "layer": "core",
+      "kind": "text",
+      "title": "Simmel’in iki yüzyıl özeti: bağlardan kurtulmak, sonra birbirine muhtaç olmak",
+      "body": "1903’te Dresden’de bir kent sergisi için hazırlanan yazılar arasında [[person:simmel|Georg Simmel]]’in kısa bir tarih özeti var. [[cite:simmel-1903-grossstaedte]] Ona göre 18. yüzyıl, devlette ve dinde, ahlakta ve ekonomide tarihsel olarak birikmiş bağlardan kurtulmaya çağırdı. 19. yüzyıl ise yalnızca özgürlük değil, iş bölümüyle ayrışmış, benzersiz bir uzmanlık istedi; bu da insanı hem eşsiz kılıyor hem de başkalarının tamamlayıcılığına daha çok muhtaç bırakıyordu. Nietzsche’nin acımasız bireysel mücadelesi de, sosyalizmin rekabeti bastırma tasarısı da aynı temel güdüden doğuyor: bireyin, toplumsal-teknik bir mekanizmada silinip tüketilmeye direnişi. [[cite:simmel-1903-grossstaedte]]\n\nIEP’in Durkheim maddesi de benzer bir manzara çizer: 18. ve 19. yüzyılda nüfus artışı, demiryolu ve buharlı gemi gibi teknik yenilikler, kentleri büyüttü; loncalar çöktü, bölgesel karşılıklı bağımlılığın yerini uluslararası bağımlılık aldı. [[cite:carls-iep-durkheim]]\n\nHayal et: bir loncanın çırağı ile yüz yıl sonra büyük bir sanayi kentinde yaşayan torununun torunu. Birincisi herkesi tanır, herkes onu; ikincisi her gün yüzlerce yüz görür ve hiçbirini tanımaz. İşte bu ders, kabaca aynı soruyu soran bir grup düşünürün hikâyesi: eski bağlar çözülünce toplumu ne bir arada tutar ve birey bu arada nerede durur? (Bu soru dersin bizim özetimizdir; ayrıntılar aşağıdaki kartlarda, kaynaklarıyla.)",
+      "question": {
+        "id": "ctx-centuries-q",
+        "type": "mcq",
+        "prompt": "Simmel’e göre, 18. yüzyılın ‘bağlardan kurtul’ çağrısı ile 19. yüzyılın ‘uzmanlaşarak eşsiz ol’ talebinin ortak temel motifi hangisidir?",
+        "options": [
+          "Devletin bütün alanlardan çekilmesi isteği.",
+          "Bireyin, toplumsal-teknik bir mekanizmada silinip tüketilmeye karşı direnişi.",
+          "Dinin yeniden toplumun merkezine alınması.",
+          "Sanayinin geri çevrilmesi ve köy yaşamına dönüş."
+        ],
+        "answer": 1,
+        "explain": "Simmel iki yüzyılı, bireyin ‘nivelle edilip tüketilme’ye karşı direnişi diye özetler. Birinci seçenek 18. yüzyılın özgürlük çağrısını fazla siyasal okuyor; üçüncü ve dördüncü seçenekler Simmel’in özetinde yok, aksine iş bölümünü ve büyükşehri kaçınılmaz bir zemin olarak alır."
+      }
+    },
+    {
+      "id": "ctx-deep-comte",
+      "section": "context",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin bakış: üç hâl yasası ve İngilizceye kısaltılmış Comte",
+      "body": "Comte’un en çok bilinen fikri, insanlığın üç aşamadan geçtiğini söyleyen yasadır: teolojik, metafizik ve pozitif. İlkinde zihin olayları doğaüstü varlıkların müdahalesiyle açıklar; ikincide bu varlıkların yerini soyut özler alır; üçüncüde nedenlerin peşini bırakıp olayları yöneten yasalarla yetinir. [[cite:bourdeau-2026-sep-comte]]\n\n*Cours* altı cilt (1830–1842) tutar: ilk üç cilt matematikten biyolojiye kurulu bilimleri, son üçü toplum bilimlerini işler. [[cite:bourdeau-2026-sep-comte]] Comte’a göre sosyoloji bilimlerin sonuncusu ve hepsini derleyen basamaktır; yazara göre bu, bugünkü sosyolojiden çok farklı bir fikirdir. [[cite:bourdeau-2026-sep-comte]] Kaynağımız aynı zamanda “tarihte yasa” fikrinin sorunlu olduğunu, hatta Durkheim’in bile toplumsal dinamiği sosyolojinin dışında tutmak zorunda hissettiğini not eder. [[cite:bourdeau-2026-sep-comte]]\n\n1853’te Harriet Martineau eserin kısaltılmış bir İngilizce çevirisini yayımladı. [[cite:bourdeau-2026-sep-comte]] Bu, İngilizce okuyanın eline geçen Comte’un, uzun bir eserin başkasınca seçilmiş ve yoğunlaştırılmış hâli olduğu anlamına gelir; kısaltmanın hangi kararlarla yapıldığı ayrı bir yorum işidir (bu son çıkarım bizimdir, kaynağın cümlesi değildir)."
+    },
+    {
+      "id": "people-cast",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "text",
+      "title": "Yedi isim, yedi doğum yılı: kim ne zaman",
+      "body": "Zamanı kabaca iki dalgaya ayırabilirsin. İlk dalga: [[person:comte|Auguste Comte]] (1798–1857), altı ciltlik *Cours de philosophie positive* (1830–1842) ile sosyolojiyi kurmak istedi [[cite:bourdeau-2026-sep-comte]]; [[person:marx|Karl Marx]] (1818–1883) ve [[person:spencer|Herbert Spencer]] (1820–1903) hemen ardından geldi; Spencer’ın *Principles of Sociology*’si 1876–96 arasında çıktı. [[cite:weinstein-2024-sep-spencer]] [[cite:wolff-2025-sep-marx]]\n\nİkinci dalga, bu dersin asıl ağırlığı: [[person:tonnies|Ferdinand Tönnies]] (1855–1936) *Gemeinschaft und Gesellschaft*’ı 1887’de yayımladı [[cite:heberle-1968-tonnies-iess]]; [[person:durkheim|Émile Durkheim]] (1858–1917) 1893, 1895 ve 1897’de üç kitap çıkardı [[cite:carls-iep-durkheim]]; [[person:simmel|Georg Simmel]] (1858–1918) büyükşehir denemesini 1903’te, *Soziologie*’sini 1908’de yazdı [[cite:simmel-1903-grossstaedte]] [[cite:simmel-1908-soziologie]]; [[person:weber|Max Weber]] (1864–1920) *Protestan Ahlakı*’nı 1904–05’te yayımladı, *Ekonomi ve Toplum* ise ölümünden sonra çıktı. [[cite:kim-2022-sep-weber]]\n\nBir ipucu: Durkheim ve Simmel aynı yıl (1858) doğdu; Tönnies ikisinden üç yaş büyüktü; Weber altı yaş küçüktü. Bu isimler birbirini tanıyordu da: Tönnies, Simmel ve Weber, Sombart’la birlikte Alman Sosyoloji Derneği’nin kurucuları arasındaydı; Durkheim de *L’année sociologique*’te Simmel’in bir yazısını yayımladı. [[cite:heberle-1968-tonnies-iess]] [[cite:mayntz-1968-simmel-iess]]\n\n(Kaynaklar doğum ve ölüm günlerinde bile ayrışabiliyor; bu yüzden biz yalnızca yılları veriyoruz.)",
+      "question": {
+        "id": "people-cast-q",
+        "type": "tf",
+        "prompt": "Doğru mu yanlış mı: Durkheim ile Simmel aynı yıl doğdu ve ikisi de Tönnies’ten yaşça büyüktü.",
+        "answer": false,
+        "explain": "İlk yarısı doğru: ikisi de 1858 doğumlu. Ama Tönnies 1855 doğumlu, yani onlardan üç yaş büyük. Sınavda doğum yılı sıralamasını tersine çevirmek klasik tuzak: ‘kurucu’ sözcüğü seni ‘en yaşlı’ya doğru itebilir, oysa bu grupta en yaşlı Tönnies’tir (Comte ile Spencer başka bir kuşaktır)."
+      }
+    },
+    {
+      "id": "people-press",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "story",
+      "title": "Sosyoloji derneğinin ilk büyük projesi bir gazete araştırmasıydı",
+      "body": "Ekim 1910, Frankfurt. Alman Sosyoloji Derneği ilk kongresini yapıyor; [[person:weber|Max Weber]] yönetim raporunu okuyor. [[cite:weber-1910-geschaeftsbericht]] Derneğin ilk bilimsel konusu olarak bir “gazetecilik sosyolojisi” öneriyor ve bunun için “muazzam bir konu” (*ungeheures Thema*) diyor. [[cite:weber-1910-geschaeftsbericht]]\n\nİlk adım şaşırtıcı derecede somut: Weber, gazete içeriğinin son kuşakta nasıl kaydığını “makasla ve pergelle” (*mit der Schere und mit dem Zirkel*) ölçerek başlamayı öneriyor: ilan bölümü, kültür-edebiyat sayfası, başyazı ve haber arasındaki dağılım. Sonra nitel soruya geçilecek: yazı üslubu, duygusallığın gazetedeki yeri. Nihai sorular ise büyük: basın, modern insanın biçimlenmesine ne katıyor; ortak inançları, umutları, yaşam duygusunu nasıl kaydırıyor? [[cite:weber-1910-geschaeftsbericht]]\n\nBugün bu plan, içerik analizinin ve medya etkileri araştırmasının 1910’daki bir taslağı gibi okunur (bizim yorumumuz). Ama proje yürümedi. Weber, 1912’de derneğin ikinci kongresinde bu girişimin “çok özel bir talihsizliğe” uğradığını söyledi. Lepsius’un aktardığına göre Weber projeyi 1911’de bıraktı; o sıralarda bir gazeteyle ve bir gazetecilik bilimcisiyle mahkemelik olmuştu. [[cite:lepsius-dgs-weber-gruendung]]",
+      "question": {
+        "id": "people-press-q",
+        "type": "mcq",
+        "prompt": "Weber’in 1910 önerisinde “makasla ve pergelle ölçmek”, bugünkü hangi araştırma işlemine en çok benzer?",
+        "options": [
+          "Okurlara anket uygulamak.",
+          "Gazete içeriğinin bölümler arasındaki dağılımını sayarak izlemek; yani içerik analizinin nicel adımı.",
+          "Gazetecilerle derinlemesine görüşme yapmak.",
+          "Gazetelerin tirajını mahkemede doğrulatmak."
+        ],
+        "answer": 1,
+        "explain": "Weber, önce gazete içeriğinin (ilan, kültür sayfası, başyazı, haber) kuşaklar içinde nasıl kaydığını nicel olarak ölçmeyi, sonra nitel çözümlemeye geçmeyi öneriyor; bu bugün içerik analizi diye bildiğimiz şeye benzer. Anket ve görüşme, planın başka bölümlerinde (gazeteci kökeni, okur alışkanlıkları) yer alabilir ama ‘makas ve pergel’ sözünün karşılığı değildir; mahkeme ise projenin sonunu anlatır, yöntemini değil."
+      }
+    },
+    {
+      "id": "people-deep-press",
+      "section": "people-time",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin bakış: Weber’in basın araştırma planında neler vardı?",
+      "body": "Weber’in 1910 raporu bir dilek listesinden ibaret değildi. Metinde şu başlıklar geçiyor: (1) Gazete, kapitalist bir işletmedir ve iki tür “müşterisi” vardır: okurlar ve ilan verenler; ikisi arasındaki ilişki gazetenin karakterini etkiler. (2) Sermaye ihtiyacı arttıkça tekelleşme ya da tröstleşme olur mu; bu, kamuoyunu biçimlendirme gücü demek mi? (3) Alman basınında yazıların imzasız olması: neden burada böyle, Fransa ve İngiltere’de başka? (4) Haber ajansları: haberin nihai kaynağı kim? (5) Gazetecinin kökeni, eğitimi, kariyeri. (6) Etkiler: sabah gazetesi, insanı işe gitmeden önce kültür yaşamının her alanından bir “karışık yemek”le (*Ragout*) besliyor; bu, okuma alışkanlığını ne yapar? [[cite:weber-1910-geschaeftsbericht]]\n\nWeber araştırmanın ahlaki yargı yürütmeyeceğine dair güvence de veriyordu: dernek gazete sahiplerinin ve gazetecilerin güvenini kaybederse malzemeye erişemez. [[cite:weber-1910-geschaeftsbericht]]\n\nLepsius’a göre Weber 25.000 Mark toplamayı hedeflemişti; Ağustos 1909’da 5.000, Mayıs 1910’da 9.000 Mark bağış toplanmış, Heidelberg Bilimler Akademisi de 10.000 Mark vermeyi taahhüt etmişti. Basın örgütlerinin temsilcileri de işbirliğine hazırdı. [[cite:lepsius-dgs-weber-gruendung]] Yani plan hayal değil, finansmanı ve ortakları hazır bir programdı; yürümeme nedeni bilimsel değil, kişisel ve hukuki çatışmalardı (Lepsius’un anlatımıyla)."
+    },
+    {
+      "id": "claim-core",
+      "section": "claim",
+      "layer": "core",
+      "kind": "text",
+      "title": "Ortak soru: eski bağlar çözülünce toplumu ne bir arada tutar?",
+      "body": "Bu dersin bütün kartlarını tek bir cümleye sığdırmak istersek, şöyle deriz (bu bizim özetimizdir): klasik toplumsal düşünce, eski bağlar çözülürken toplumsal düzenin nasıl mümkün olduğunu, bireyin toplumsal yapı karşısında nerede durduğunu ve büyük şehir kalabalığında insanın nasıl değiştiğini sordu.\n\nCevaplar ayrıştı. [[person:durkheim|Durkheim]] cevabı ortak ahlaki bağlılıkta ve iş bölümünde aradı; [[person:weber|Weber]] eylemlere yüklenen anlamda ve dünyanın giderek hesaplanabilir kılınmasında; [[person:simmel|Simmel]] insanlar arasındaki etkileşim biçimlerinde ve kentin ruhsal etkilerinde; [[person:tonnies|Tönnies]] iki ayrı irade türünden doğan iki ayrı birliktelik tipinde; [[person:marx|Marx]] üretim ilişkilerinde ve sınıf çatışmasında.\n\nMedya araştırması bu mirastan üç soru devraldı: (1) *Bütünleşme:* medya toplumu bir arada tutar mı? (2) *Birey ve yapı:* medya karşısında birey ne kadar özerk? (3) *Anonimlik ve kalabalık:* kentin ve kitlenin anonimliği insanı nasıl etkiler?\n\nBir uyarı: bu isimlerin çoğu medyayı kuramlaştırmayı hedeflemedi. Bağ çoğu zaman sonradan kuruldu; ama birkaç belgelenmiş istisna var (Durkheim’in 1897 gazete-taklit tartışması, Weber’in 1910 basın planı, Tönnies’in 1922 kamuoyu kitabı). Bunlara sırası gelince bakacağız.",
+      "question": {
+        "id": "claim-core-q",
+        "type": "mcq",
+        "prompt": "Bir araştırmacı “Sosyal medya kullanıcılarını birbirine bağlayan ortak değerler ya da bağlılıklar var mı?” diye soruyor. Bu soru klasik mirasın hangi damarına en yakın?",
+        "options": [
+          "Bütünleşme (toplumu ne bir arada tutar) sorusuna",
+          "Bireyin yapı karşısındaki özerkliği sorusuna",
+          "Kent kalabalığında anonimlik sorusuna",
+          "Hiçbirine; bu soru yalnızca yeni bir soru"
+        ],
+        "answer": 0,
+        "explain": "‘Ortak değer ve bağlılık’ Durkheim’ın bütünleşme sorusunun doğrudan uzantısıdır. Özerklik sorusu ‘kullanıcı ne kadar özgür seçiyor?’ diye sorardı; anonimlik sorusu ‘tanımadığın kalabalıkta ne olur?’ diye. Dördüncü seçenek cazip ama yanlış: soru yeni bir mecrada, ama eski bir sorunun yeni giysisi."
+      }
+    },
+    {
+      "id": "claim-legacy",
+      "section": "claim",
+      "layer": "core",
+      "kind": "text",
+      "title": "‘Bunu sonra nerede göreceğim?’ haritası",
+      "body": "Bu dersin isimleri sonraki derslerde başka adlarla geri gelir:\n\n- [[person:durkheim|Durkheim]]: toplumsal bütünleşme ve ritüel okuması; medya olaylarına bu gözlükle bakan 1953 çalışması bu derste laboratuvar kartında. Yapısal işlevselcilik bu çizginin devamıdır: [[lesson:functionalism-interactionism]].\n- [[person:simmel|Simmel]]: Chicago geleneğine giden yol. Robert Park Berlin’de Simmel’le çalışmıştı [[cite:encyclopedia-com-park]]; Park ile Burgess’in 1921 tarihli ders kitabı Simmel çevirileri içerir. [[cite:mayntz-1968-simmel-iess]] Bkz. [[lesson:chicago-school]].\n- [[person:tonnies|Tönnies]]: “kitle toplumu” kavramı, yabancılaşma vurgusuyla, Tönnies’e çok şey borçludur (Heberle’nin değerlendirmesi). [[cite:heberle-1968-tonnies-iess]] Bkz. [[lesson:mass-society]].\n- [[person:marx|Marx]]: ideoloji ve eleştirel yaklaşımlar; bu derste yalnızca işaret: [[lesson:marxist-foundations]].\n- [[person:weber|Weber]]: 1910’daki sorular (kim sahibi, gazeteci kim, haberi kim veriyor?) sonraki haber sosyolojisinin sorularına benzer (bizim yorumumuz): [[lesson:news-sociology]].\n\nBu harita “kim kimden etkilendi”nin tam tablosu değil; hangi kavramı nerede bulacağını gösteren bir dizin.",
+      "question": {
+        "id": "claim-legacy-q",
+        "type": "match",
+        "prompt": "Her ismi, sonraki derslerdeki karşılığıyla eşleştir.",
+        "pairs": [
+          [
+            "Durkheim",
+            "Toplumsal bütünleşme ve medya olaylarının ritüel okuması"
+          ],
+          [
+            "Simmel",
+            "Chicago geleneğine uzanan büyükşehir ve yabancı kavramları"
+          ],
+          [
+            "Tönnies",
+            "Kitle toplumu kavramının köklerinden biri"
+          ],
+          [
+            "Marx",
+            "İdeoloji ve eleştirel yaklaşımlar"
+          ]
+        ],
+        "explain": "Eşleşmelerin en sık karıştığı yer Durkheim–Tönnies: ikisi de ‘bağ’dan söz eder, ama kitle toplumu kavramıyla anılan Tönnies’tir, ritüel ve bütünleşme okumasıyla anılan Durkheim. Simmel’in kentsel kavramlarını (yabancı, büyükşehir) Chicago’ya taşıyan Park’ın Simmel’le çalışmış olması, bu bağın belgelenmiş halkasıdır."
+      }
+    },
+    {
+      "id": "con-social-fact",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "story",
+      "title": "Ana dilini sen seçmedin: toplumsal olgu",
+      "body": "Sabah uyandın; bugün hangi dilde düşüneceğine karar vermedin. Hangi para birimiyle alışveriş edeceğine, hangi kıyafetin toplu taşımada göz batacağına da. [[person:durkheim|Émile Durkheim]] bu türden şeylere “toplumsal olgu” (*fait social*) dedi: bireyin dışında var olan, ona baskı uygulayarak davranış, düşünce ve duygu biçimlerini dayatan şeyler. [[cite:carls-iep-durkheim]]\n\nÖrnekleri şunlar: bir toplumun yasa düzeni, dinî inançları, güzellik anlayışı, para sistemi, giyim biçimi, dili. Ama liste orada bitmiyor: kamuoyu akımları ve evlenme, doğum, intihar oranları da toplumsal olgudur; istatistikler tek tek vakaları toplayıp ortak bir ruh hâlini görünür kılar. [[cite:carls-iep-durkheim]] Yani bir kişinin dün gece uykusuzluğu bireysel bir olaydır; bir ülkenin yıllık intihar oranı ise toplumsal bir olgudur. [[cite:durkheim-1897-suicide]]\n\nBir incelik daha: Durkheim, toplumsal olguların bireyler dışında var olamayacağını da söyler. “Dışsallık”, öteki bireylere göre dışsallıktır; toplumsal olgu bireyin içinde de yaşar. [[cite:carls-iep-durkheim]]\n\nMedya araştırması için buradan çıkan soru şu: kitlesel ölçümler, yani izlenme oranları, kamuoyu yoklamaları, haber tüketimi, tek tek insanların toplamından fazlasını, ortak bir örüntüyü mü gösteriyor? Bu soruya “evet” diyenler Durkheim’ın çizgisindedir (bizim yorumumuz).",
+      "question": {
+        "id": "con-social-fact-q",
+        "type": "mcq",
+        "prompt": "Aşağıdakilerden hangisi Durkheim’ci anlamda bir toplumsal olguya en yakındır?",
+        "options": [
+          "Selin’in dün akşam dizi izlerken uyuyakalması",
+          "Bir ülkede belirli bir yıl kaydedilen intihar oranı",
+          "Bir gazetenin sabah editörünün o günkü keyfi",
+          "Bir romandaki tek bir cümle"
+        ],
+        "answer": 1,
+        "explain": "Durkheim, evlenme, doğum ve intihar gibi oranları toplumsal olgu sayar; çünkü bunlar tek tek vakaların toplamından çok, bir toplumun ortak durumunu gösteren örüntülerdir. Uykuya dalmak ya da editörün keyfi bireysel olaylardır; tek bir cümle ise, dilin toplumsal bir olgu olmasına rağmen, tek başına bir toplumsal örüntü değildir."
+      }
+    },
+    {
+      "id": "con-solidarity",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Benzeşerek mi bağlanırsın, birbirine muhtaç olarak mı?",
+      "body": "Hayal et: iki yer. Birinde herkes aşağı yukarı aynı işi yapıyor, aynı bayramları kutluyor, aynı şeylere inanıyor. Ötekinde bir dilim ekmeğin arkasında değirmenci de var, nakliyeci de, fırıncı da, muhasebeci de; kimse bütün zinciri bilmiyor ama zincir işliyor.\n\n[[person:durkheim|Durkheim]]’ın *İş Bölümü*’nde (1893) bu iki yer iki ayrı dayanışma türüdür. [[cite:carls-iep-durkheim]] İlkinde, *mekanik dayanışma*, bireyler birbirine benzer, ortak bilinç bireysel bilincin neredeyse yerini alır. İkincisinde, *organik dayanışma*, bağ benzerlikten değil, uzmanlaşmış parçaların işlevsel karşılıklı bağımlılığından gelir; tıpkı organların birbirine muhtaç olması gibi. [[cite:carls-iep-durkheim]]\n\nGeçişin nedeni? Durkheim’a göre insanların birbiriyle temas sıklığı (“ahlaki” ya da “dinamik yoğunluk”) arttıkça rekabet de artar; rekabeti yumuşatmanın yolu uzmanlaşmadır. Yoğunluğu artıran iki etkenden biri nüfus, öteki teknoloji, özellikle iletişim ve ulaşım teknolojisidir. [[cite:carls-iep-durkheim]] Yani Durkheim, iletişim teknolojisini daha ilk kitabında toplumsal yapıyı değiştiren etkenler arasında sayıyor. [[cite:carls-iep-durkheim]]\n\nİki uyarı. (1) “Mekanik” demek “soğuk ya da kötü” demek değildir; yalnızca bağın benzerlikten geldiğini söyler. (2) Durkheim bu iki terimi sonradan bıraktı; ilerleyen yıllarda dayanışmayı daha çok sembolik ve dinî terimlerle, ritüel ve “ortak coşku” ile düşündü. [[cite:carls-iep-durkheim]]",
+      "question": {
+        "id": "con-solidarity-q",
+        "type": "mcq",
+        "prompt": "Bir kentte gazeteyi yazanlar, basanlar, dağıtanlar, ilan satanlar ve okuyanlar birbirini hiç tanımıyor, ama hepsi bir diğerine muhtaç. Durkheim’ın 1893 çerçevesinde bu tablo en iyi nasıl adlandırılır?",
+        "options": [
+          "Mekanik dayanışma; çünkü ilişkiler kişisel değil.",
+          "Organik dayanışma; çünkü bağ, uzmanlaşmış parçaların karşılıklı bağımlılığından geliyor.",
+          "Anomi; çünkü kimse birbirini tanımıyor.",
+          "Ortak coşku; çünkü herkes aynı gazeteyi okuyor."
+        ],
+        "answer": 1,
+        "explain": "Organik dayanışmanın ölçütü ‘tanışıklık’ değil, ‘işlevsel karşılıklı bağımlılık’tır; kimin kimi tanıdığı önemli değil. Mekanik dayanışma benzerliğe dayanır (herkes aynı işi yapar, aynı inancı taşır), kişisel olup olmamasına değil. Anomi, kuralların otoritesini yitirmesidir; anonimlik tek başına anomi değildir. ‘Ortak coşku’ ise Durkheim’ın sonraki, ritüel odaklı dönemine ait bir kavramdır."
+      }
+    },
+    {
+      "id": "con-anomie",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "story",
+      "title": "Dört intihar türünden dördüncüsü bir dipnotta saklı",
+      "body": "Durkheim’in intihar tipolojisine “dört tür” diyebilirsin; ama *İntihar*’ın (1897) ana metni yalnızca üç türü işler. Dördüncüsü, *fatalist intihar*, kitabın dipnotlarından birinde geçer. [[cite:durkheim-1897-suicide]]\n\nAna üç tür: (1) *Bencil (egoist) intihar:* birey toplumsal bağlardan koptuğunda yaşamın anlamını yitirir; burada zayıf olan bütünleşmedir. (2) *Özgeci (altruist) intihar:* birey gruba fazla gömülmüştür; Durkheim bunu daha az ayrışmış toplumlarda ve ordularda arar. (3) *Anomik intihar:* burada zayıf olan düzenlemedir. Kuralların eski otoritesi çözüldüğünde istekler sınırsızlaşır ve birey sürekli mutsuz kalır; Durkheim buna “sonsuzluk hastalığı” (*mal d’infini*) der. [[cite:carls-iep-durkheim]] *Anomi* de işte bu kuralsızlık, düzenleme çöküşü demektir. Durkheim, anominin ekonomi dünyasında kronik hâle geldiğini savunur. [[cite:durkheim-1897-suicide]]\n\nDördüncü tür, fatalist intihar, aşırı düzenlemeden doğar: geleceği acımasızca örülmüş, tutkuları baskıcı bir disiplinle ezilmiş kişilerin durumu. Durkheim bunu günümüzde önemsiz bulur ve ayrı bir tür saymaz. [[cite:durkheim-1897-suicide]]\n\n(Bu kart intihar üzerine akademik bir tipoloji anlatıyor; konu sana ağır gelirse atlayabilirsin.)",
+      "question": {
+        "id": "con-anomie-q",
+        "type": "mcq",
+        "prompt": "Hayal et: bir toplulukta bağlar sağlam, ama eski kurallar otoritesini yitirmiş ve insanların istekleri hiçbir ortak sınıra tabi değil. Durkheim’ın ana metnindeki hangi kavram bu durumu en iyi anlatır?",
+        "options": [
+          "Bencil (egoist) intihar; çünkü bağlar zayıf.",
+          "Anomi; çünkü zayıf olan bütünleşme değil, düzenleme.",
+          "Özgeci intihar; çünkü birey gruba gömülmüş.",
+          "Mekanik dayanışma; çünkü kurallar eskiye dayanıyor."
+        ],
+        "answer": 1,
+        "explain": "Senaryoda bağlar sağlam, yani bütünleşme yerinde; eksik olan istekleri sınırlayan ortak kurallar. Bu, anominin tanımıdır. Bencil intihar zayıf bütünleşmeden, özgeci intihar aşırı gömülmüşlükten doğar; mekanik dayanışma ise benzerliğe dayalı bir bağ türüdür ve intiharla ilgisiz."
+      }
+    },
+    {
+      "id": "con-verstehen",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Aynı hareket, iki ayrı eylem: Weber’in anlama (Verstehen) kavramı",
+      "body": "Hayal et: bir müzayede salonunda iki kişinin eli havaya kalkıyor. Biri teklif veriyor, öteki sineği kovalıyor. Dışarıdan bakan bir kamera ikisini de “el kaldırma” diye kaydeder. [[person:weber|Weber]]’e göre sosyolojiyi ilgilendiren, hareketin kendisi değil, eylemin anlamı: eylem, kişinin ona yüklediği anlama dayanır; davranış ise iç nedene bakmadan sayılabilir. [[cite:kim-2022-sep-weber]] Sosyal bilimcinin çabası, insan davranışının bu öznel boyutunu başkalarıyla ilişkisi içinde *anlamaktır* (*Verstehen*). [[cite:kim-2022-sep-weber]]\n\nAma “anlamak” burada empati ya da sezgi demek değil. SEP yazarına göre Weber’de anlama, anlamları ve değerleri nedensel olarak, yani bir amaca giden araç olarak açıklayabildiğinde nesnel geçerlik kazanır. [[cite:kim-2022-sep-weber]] Yani “kendimi onun yerine koydum, hissettim” yetmez; eylemi bir amaç-araç örgüsüne yerleştirip açıklamak gerekir.\n\n*Ekonomi ve Toplum*’un alt başlığı bile bunu söyler: “anlayıcı (yorumlayıcı) sosyolojinin ana hatları”. [[cite:bendix-1968-weber-iess]]\n\nMedya araştırması için bunun karşılığı: bir izleyicinin niçin bir haberi izlediğini yalnızca izlenme sayısından çıkaramazsın; o eylemin ona ne anlama geldiğini de sormak gerekir. Sonraki derslerde izleyicinin anlam üretimine odaklanan yaklaşımlarla ([[lesson:encoding-decoding]]) karşılaşınca bu fikri hatırlayacaksın (bizim bağlantımız).",
+      "question": {
+        "id": "con-verstehen-q",
+        "type": "mcq",
+        "prompt": "Bir araştırmacı, bir grup gencin günde beş saat sosyal medyada neden vakit geçirdiğini Weberci anlamda ‘anlamak’ istiyor. Aşağıdakilerden hangisi bu amaca en yakındır?",
+        "options": [
+          "Yalnızca gençlerin ekran süresini sayıp tabloya dökmek.",
+          "Gençlerin bu eyleme yükledikleri anlamı yorumlamak ve bunu amaç-araç ilişkileri içinde nedensel olarak açıklamaya çalışmak.",
+          "Kendini gençlerin yerine koyup ‘ben olsam böyle hissederdim’ demek ve orada durmak.",
+          "Gençlerin tepki sürelerini laboratuvarda ölçmek."
+        ],
+        "answer": 1,
+        "explain": "Weber’de anlama, öznel anlamı yorumlamakla nedensel açıklamayı birleştirir. Yalnızca sayı, davranışı verir ama eylemin anlamını vermez; yalnızca ‘kendimi onun yerine koydum’ ise empati ya da sezgidir ve Weber’in nesnel geçerlik ölçütünü karşılamaz. Laboratuvar ölçümü de eylemin anlamına değil, davranışa bakar."
+      }
+    },
+    {
+      "id": "con-ideal-type",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "İdeal tip kusursuz örnek değil, bilerek abartılmış bir araçtır",
+      "body": "Ders kitaplarında “ideal” sözcüğünü görünce “en iyi” diye okuma alışkanlığın var mı? [[concept:ideal-type|İdeal tip]] (*Idealtypus*) bu alışkanlığı bozar. Weber’in tanımında ideal tip, bir ya da birkaç bakış açısının tek yanlı vurgulanmasıyla kurulur; somut, tekil olguları birleşik bir çözümleme kurgusu (*Gedankenbild*) hâlinde toplar. Bu kurgu “gerçeklikte hiçbir yerde bulunmayan” yöntemsel bir ütopyadır. [[cite:kim-2022-sep-weber]]\n\nYani ideal tipin geçerliliği gerçeğin bir kopyası olmasıyla değil, *yeterliliğiyle* (*adequacy*) sınanır. [[cite:kim-2022-sep-weber]] Bizim benzetmemizle ideal tip bir ölçü çubuğudur: gerçek örneği yanına koyar, nerede saptığına bakarsın.\n\nTönnies’in topluluk–toplum ayrımı da böyledir. Kaynağımıza göre Tönnies bu kavramları sınıflandırma kutuları olarak değil ideal tip olarak düşündü; hiçbir somut aile ya da şirket saf “topluluk” ya da saf “toplum” olmaz, hepsi belli oranlarda karışıktır. [[cite:heberle-1968-tonnies-iess]]\n\n*Alıştırma (hayalî, kendi başına dene):* “Bürokratik haber odası” ideal tipini üç özellikle çiz: yazılı kurallar, katı iş bölümü, kişisel ilişkiden arınmış süreçler. Sonra tanıdığın bir haber kuruluşuna bak. Hangi özellik eksik ya da fazla? İdeal tip senin “doğru cevabını” vermez; sapmayı görmene yardım eder.",
+      "question": {
+        "id": "con-ideal-type-q",
+        "type": "mcq",
+        "prompt": "Bir öğrenci “Weber’in ideal tipi, bir kavramın en iyi ve en doğru örneğidir” diye yazıyor. Weber’in tanımına göre bu okuma neden yanlıştır?",
+        "options": [
+          "Çünkü ideal tip aslında ortalama bir örnektir.",
+          "Çünkü ideal tip, bilerek tek yanlı vurgulanmış bir çözümleme kurgusudur; gerçeklikte olduğu gibi bulunmaz ve değeri gerçeğin kopyası olmasıyla değil yeterliliğiyle sınanır.",
+          "Çünkü ideal tip yalnızca ekonomi için kullanılır.",
+          "Çünkü Weber ideal tipin yanlış olduğunu, terk edilmesi gerektiğini söylemiştir."
+        ],
+        "answer": 1,
+        "explain": "İdeal tip ‘ideal’ (en iyi) değil ‘düşüncede kurulmuş’ demektir: tek yanlı vurgulanmıştır, gerçeklikte bulunmaz ve yeterlilikle yargılanır. Ortalama ise tam tersidir, çünkü ideal tip bilerek abartır. Üçüncü ve dördüncü seçenekler Weber’in yöntem tartışmasına tersten bakıyor."
+      }
+    },
+    {
+      "id": "con-authority",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Neden itaat ederiz? Üç meşru egemenlik türü",
+      "body": "Hayal et: üç sahne. Trafik polisi elini kaldırıyor, kimse kimliğini sorgulamadan duruyor. Köyün en yaşlısı “bu iş hep böyle yapılır” diyor, sofra ona göre kuruluyor. Bir kürsüde, hiçbir resmî yetkisi olmayan bir konuşmacı salonu ayağa kaldırıyor. Üç sahnede de kimse zor kullanmıyor; ama itaatin gerekçesi üçünde ayrı.\n\n[[person:weber|Weber]]’in derdi tam bu: yalnızca emrin yerine getirilmesi egemenlik için yetmez; emrin geçerli bir norm olarak kabul edilmesi gerekir. [[cite:kim-2022-sep-weber]] Bu kabulün gerekçesine göre üç ideal tip ayrılır: *yasal-rasyonel* (gerekçe, kişisel olmayan kurallar ve bunlara uygun makamlar), *geleneksel* (gerekçe, uzun zamandır süren âdet ve alışkanlık) ve *karizmatik* (gerekçe, liderin olağanüstü sayılan niteliklerine kişisel bağlılık). [[cite:kim-2022-sep-weber]]\n\nİlk ikisi olağan zamanda düzeni korumaya yatkındır; karizmatik olan ise olağanüstü, bozucu ve dönüştürücü güçleri temsil eder. [[cite:kim-2022-sep-weber]] Weber’e göre yöneticiler bu üç gerekçeden birini sağlayamazsa, görevlilerin ve halkın bu ölçütlere inancı zayıflar. [[cite:bendix-1968-weber-iess]]\n\nBunlar da ideal tiptir; gerçek yönetimler karışık gerekçeler taşır. Almancası *Herrschaft*’ın Türkçeye nasıl çevrileceği ayrı bir tartışma (derin kartta).\n\nMedya araştırması için soru şu: bir kaynağın ya da platformun sözü neden “doğru” diye kabul ediliyor: kurala, alışkanlığa ya da kişiye güvenildiği için mi? Sonraki derslerde bu soruyla tekrar karşılaşacaksın (bizim bağlantımız).",
+      "question": {
+        "id": "con-authority-q",
+        "type": "mcq",
+        "prompt": "Hayal et: bir topluluk liderinin sözü, hiçbir yasal yetkisi olmamasına rağmen dinleniyor; çünkü izleyicileri onun olağanüstü bir kişi olduğuna inanıyor. Weber’in üç türünden hangisine en yakındır?",
+        "options": [
+          "Yasal-rasyonel egemenlik",
+          "Geleneksel egemenlik",
+          "Karizmatik egemenlik",
+          "Anomik egemenlik"
+        ],
+        "answer": 2,
+        "explain": "Gerekçe liderin olağanüstü sayılan kişisel niteliklerine bağlılık olduğu için karizmatik. Yasal-rasyonel olsaydı gerekçe kişisel olmayan kural ve makam olurdu; geleneksel olsaydı, âdet ve alışkanlık. ‘Anomik egemenlik’ ise Weber’in değil, Durkheim’ın anomi kavramından türetilmiş bir uydurma seçenek; Weber’in üçlüsünde yok."
+      }
+    },
+    {
+      "id": "con-rationalization",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "story",
+      "title": "Berlin’deki bütün saatler bir saat şaşarsa",
+      "body": "1903’te Simmel şöyle bir düşünce deneyi yapıyor: Berlin’deki bütün saatler farklı yönlere, yalnızca bir saatlik bir sapmayla bozulsa, kentin bütün ekonomik ve öteki trafiği uzun süre altüst olurdu. [[cite:simmel-1903-grossstaedte]] Büyük kent, herkesin katı bir zaman şemasına bağlı olmasını gerektirir; dakiklik, hesaplanabilirlik ve kesinlik kentin zorunlu koşullarıdır. [[cite:simmel-1903-grossstaedte]]\n\nWeber aynı eğilimi çok daha geniş ölçekte ele alır ve [[concept:rationalization|rasyonelleşme]] der: ilkece her şeyi hesapla çözebileceğimiz düşüncesi ve buna eşlik eden, dünyanın dinî ve metafizik açıklamalardan arınması (“büyüsü bozulma”). [[cite:kim-2022-sep-weber]]\n\nAma Weber bunun tek yönlü iyi bir gelişme olduğunu düşünmez. Rasyonelleşme bir yandan öngörülebilirlik sağlar ve bireyin özgürlüğünü artırır; öte yandan aynı güç, insanı bürokratik makinenin dişlisine indirger. Weber bu ikinci yüzü, *Protestan Ahlakı* (1904–05) sonunda “çelik gibi sert bir kabuk” (*stahlhartes Gehäuse*), İngilizce çeviride “demir kafes” imgesiyle anlatır; orada “ruhsuz uzmanlar, yüreksiz hazcılar” diye bir uyarı da geçer (SEP’in İngilizce çevirisinden bizim çevirimiz). [[cite:kim-2022-sep-weber]]\n\nBugünün akışlarını, algoritmalarını, otomatik sıralamalarını düşünürsen bu imge tanıdık gelebilir; ama Weber bunları yazmadı, bu okuma bizim (bkz. bugün kartı).",
+      "question": {
+        "id": "con-rationalization-q",
+        "type": "mcq",
+        "prompt": "Weber’in rasyonelleşme tezine en uygun özet hangisidir?",
+        "options": [
+          "Rasyonelleşme saf bir ilerlemedir; özgürlüğü yalnızca artırır.",
+          "Rasyonelleşme iki yüzlüdür: öngörülebilirlik ve özgürlük getirir, ama insanı bürokratik bir kafese de hapsedebilir.",
+          "Rasyonelleşme dinlerin yeniden güçlenmesini sağlar.",
+          "Rasyonelleşme yalnızca ekonomiyi etkiler, kültürü etkilemez."
+        ],
+        "answer": 1,
+        "explain": "SEP yazarına göre Weber rasyonelleşmenin etik sonuçlarında bile ikircikli: hesaplanabilirlik özgürlüğü artırır, ama aynı güç insanı ‘dişli’ ve ‘kafes’in içindeki varlığa da çevirir. Birinci seçenek bu ikircikliği siler; üçüncü seçenek büyüsü bozulmanın tersini söylüyor; dördüncü seçenek ise Weber’in rasyonelleşmeyi bütün yaşam alanlarında aradığı gerçeğine ters."
+      }
+    },
+    {
+      "id": "con-simmel-stranger",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "story",
+      "title": "Bugün gelip yarın kalan kişi: Simmel’in yabancısı",
+      "body": "1908’de Simmel, *Soziologie* kitabına bir ek yazıyla (“Yabancı Üzerine Ek”) sosyolojiye bir figür kazandırdı: yabancı. Ama kastettiği yabancı, bugün gelip yarın giden gezgin değil; “bugün gelen ve yarın kalan” kişi (*der, der heute kommt und morgen bleibt*). [[cite:simmel-1908-soziologie]] Yani yabancı gruba katılmıştır, fakat oraya baştan ait değildir ve dışarıdan getirdiği nitelikler vardır.\n\nSimmel için yabancı, yakınlık ile uzaklığın tek figürde birleşmesidir: yakın olan uzak, yabancılık ise uzak olanın yakın olması demektir. Yabancı grubun bir unsurudur, dışarıda değildir; ama konumu “dışarıda olma”yı da içerir. [[cite:simmel-1908-soziologie]] Ekonomi tarihinde yabancının sık sık tüccar olması (ya da tüccarın yabancı sayılması) bunun bir örneğidir. [[cite:simmel-1908-soziologie]]\n\nYabancının bir başka özelliği “nesnellik”: kökten bağlı olmadığı için gruba yan tutmadan bakabilir. Simmel bunun “katılmamak” olmadığını, özel bir katılma biçimi olduğunu söyler. Bir de şu: yabancıya, özellikle yoldan geçene, yakınların sakınıldığı itiraflar bile yapılabilir. [[cite:simmel-1908-soziologie]]\n\nBu, Simmel’in “toplumsallaşma biçimleri” (*Vergesellschaftung*) sosyolojisinin küçük bir örneği: içerikten çok etkileşim biçimine bakar. [[cite:mayntz-1968-simmel-iess]]\n\nAnonim bir forumda tanımadığın birine kimsenin bilmediği bir şeyi söylediğin oldu mu? Simmel bunu gezgin ve tüccar figürlerinden yola çıkarak yazdı; çevrimiçi ortama uzanan okuma bizim yorumumuzdur, onun bulgusu değil.",
+      "question": {
+        "id": "con-simmel-stranger-q",
+        "type": "mcq",
+        "prompt": "Simmel’in ‘yabancı’ kavramı aşağıdakilerden hangisini anlatır?",
+        "options": [
+          "Bir ülkeye geçici olarak gelip giden turist.",
+          "Gruba katılmış ama oraya baştan ait olmadığı için hem yakın hem uzak olan kişi.",
+          "Grubun düşmanı olan ve onu yıkmak isteyen dışarıdaki kişi.",
+          "Başka bir uyruğun vatandaşı."
+        ],
+        "answer": 1,
+        "explain": "Simmel açıkça gezgini dışarıda bırakır: yabancı ‘bugün gelen ve yarın kalan’dır, yani grubun bir unsuru olup aynı zamanda ‘dışarıdan’ konumlanmıştır. Turist bu tanıma uymaz; düşman ise dışarıdaki değil, Simmel’in ‘iç düşman’ türünden bir unsurdur. Uyruk ise bir hukuk kavramıdır, Simmel’in sosyolojik ilişki biçimi değil."
+      }
+    },
+    {
+      "id": "con-metropolis",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Kalabalığın ortasında yalnızlık: Büyükşehir ve Zihinsel Yaşam",
+      "body": "Simmel’in 1903 denemesinde en akılda kalan tespitlerden biri şu: insan kendini nerede bu kadar yalnız ve terk edilmiş hissedebilir ki, büyükşehrin kalabalığında. [[cite:simmel-1903-grossstaedte]] Bunun mekanizması şöyle.\n\nŞehir, hızlı ve kesintisiz izlenim değişimleriyle “sinir yaşamını yoğunlaştırır”. İnsan, ona göre bir “fark varlığı”dır: bilinci, izlenimler arasındaki farkla uyanır. Şehir bu farkları sürekli ve ani hâle getirir. Şehirli buna duyguyla değil aklıyla karşılık verir; akıl, onu kökünden sökülmeye karşı koruyan bir kalkandır. [[cite:simmel-1903-grossstaedte]]\n\nBunun bir sonucu *blazé* tutumdur: şeylerin arasındaki farklara karşı körelme. Şeyler algılanmaz demek değil; anlam ve değerleri “önemsiz, gri” hissedilir demek. Simmel para ekonomisini de buna bağlar: para her şeyi tek bir ölçüye indirger. Ayrıca bunun aptallıkla ilgisi yok; ona göre aptal insanlar genellikle blazé olmaz. [[cite:simmel-1903-grossstaedte]]\n\nİkinci sonuç *mesafeli tutum* (*Reserviertheit*): yüzlerce insanla iç yaşantısını paylaşmaya kalkarsan, kendini ruhsal olarak parçalarsın. Bu mesafe kişisel özgürlüğü doğurur, ama bedeli yalnızlık olabilir. Simmel, bu mesafenin (ve altındaki hafif antipatinin) kentliyi “ayırt edilmeyen karşılıklı telkinin bulanıklığı”ndan da koruduğunu söyler. [[cite:simmel-1903-grossstaedte]]",
+      "question": {
+        "id": "con-metropolis-q",
+        "type": "mcq",
+        "prompt": "Simmel’e göre büyükşehirli neden ‘blazé’ (körelmiş) tutum geliştirir?",
+        "options": [
+          "Şehirli daha az zeki olduğu için.",
+          "Uyaranlar çok hızlı ve çelişkili değiştiği için sinirler tepki vermeyi bırakır; ayrıca para ekonomisi şeyler arasındaki farkları silikleştirir.",
+          "Şehirde ahlak çöktüğü için.",
+          "Şehirlinin kırsal yaşamı hiç bilmediği için."
+        ],
+        "answer": 1,
+        "explain": "Simmel iki kaynak sayar: hızlı ve çelişkili uyaran akışı (fizyolojik kaynak) ve farkları tek bir ölçüye indirgeyen para ekonomisi. Aptallık açıklaması yanlış çünkü Simmel tam tersini söyler; ahlaki çöküş ve kırsalı bilmemek Simmel’in denemesinde açıklayıcı unsur değildir."
+      }
+    },
+    {
+      "id": "con-tonnies",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Topluluk ve toplum: iki irade, iki birliktelik biçimi",
+      "body": "*Gemeinschaft* ve *Gesellschaft* İngilizceye “community” ve “society”, Türkçeye “cemaat ve cemiyet” (ya da “topluluk ve toplum”) diye çevrilir. Ama [[person:tonnies|Tönnies]] bunları bir mekân ayrımı olarak değil, *iradenin iki türü* üzerinden kurdu. [[cite:heberle-1968-tonnies-iess]] [[cite:bulut-cemaat-cemiyet-tubitak]]\n\nBirinci irade, *Wesenwille* (doğal irade): eylem, kişinin doğasından, bir eğilimden, alışkanlıktan ya da kendi değerinden ötürü isteniyor. İkincisi, *Kürwille* (seçici irade): eylem, bir amaca ulaşmak için, araçlar arasından seçilerek isteniyor. Gemeinschaft doğal iradeden doğan birlikteliktir: akrabalık, komşuluk, kasaba, manevi topluluk gibi. Gesellschaft ise seçici iradeden doğar: sözleşmeler, ortak çıkara dayalı gruplar, özel amaçlı dernekler. [[cite:heberle-1968-tonnies-iess]]\n\nTönnies bunları saf kategoriler diye sunmaz; ideal tiplerdir. Saf Gemeinschaft da, saf Gesellschaft da gerçekte yoktur; somut her birliktelik ikisinden belli oranda taşır. Tönnies bunları kimyasal elementlerin karışım oranlarına benzetir. [[cite:heberle-1968-tonnies-iess]]\n\nBir ek not: 1887’deki bu kitap yaklaşık otuz yıl dar bir bilim çevresi dışında pek tanınmadı; ilgi, Birinci Dünya Savaşı’ndan sonra, mevcut düzenden hayal kırıklığı yaşayan bir kuşakla geldi. [[cite:heberle-1968-tonnies-iess]]",
+      "question": {
+        "id": "con-tonnies-q",
+        "type": "mcq",
+        "prompt": "Aşağıdaki ilişkilerden hangisi Tönnies’in ideal tipleri içinde en çok Gesellschaft’a (toplum) yakındır?",
+        "options": [
+          "Bir ailenin kendi içindeki duygusal bağları.",
+          "İki tarafın belirli bir amaç için sözleşmeyle bağlandığı bir iş ilişkisi.",
+          "Aynı mahallede büyümüş komşuların yakınlığı.",
+          "Bir dinî topluluğun ortak inanç bağı."
+        ],
+        "answer": 1,
+        "explain": "Gesellschaft, seçici iradenin (Kürwille) ürünüdür: amaç için seçilmiş araç, sözleşme. Aile, komşuluk ve manevi topluluk Tönnies’in Gemeinschaft örnekleridir. Ama bir uyarı: bunlar ideal tiptir, yani ‘saf’ değildir; aile de işlevsel unsurlar taşıyabilir. Soruda ‘en çok yakın’ ifadesi bu yüzden geçiyor."
+      }
+    },
+    {
+      "id": "con-deep-things",
+      "section": "concepts",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Çeviri notu: toplumsal olguları ‘şey’ gibi ele almak ne demek?",
+      "body": "Durkheim’ın *Yöntem Kuralları*’ndaki (1895) ünlü temel kuralı Fransızcada şöyle: toplumsal olguları *choses* (şeyler) olarak ele almak (*traiter les faits sociaux comme des choses*). [[cite:durkheim-1895-regles]] Çeviride “şeyleştirmek” gibi okunması kolaydır; oysa metin kendi ifadesini açıklıyor: “şey”, gözleme verilmiş ve gözleme kendini dayatan her şeydir; olguları şey gibi ele almak, onları bilimin başlangıç noktasını oluşturan *veri* olarak ele almaktır. [[cite:durkheim-1895-regles]]\n\nSomut örneği de var: bize verilen, insanların “değer” hakkındaki fikri değil (o erişilemez), gerçekten alınıp satılan değerlerdir; ahlaki ideal anlayışı değil, davranışı fiilen belirleyen kurallar bütünüdür. [[cite:durkheim-1895-regles]]\n\nYani ‘şey’ burada insanın nesneleştirilmesi değil, kişisel kanaat yerine gözlenebilir olana yönelmek demektir. Kitabın önsözünde Durkheim, her bilimsel buluşun mevcut kanaatleri az çok şaşırttığını yazar. [[cite:durkheim-1895-regles]] (Bu, Lazarsfeld’in ‘besbelli’ listesine benzer bir uyarıdır; bizim bağlantımız.)\n\nTürkçe alımda da ilginç bir iz var: Ziya Gökalp araştırmaların “nefsî (subjektif) değil, şey’î (objektif) olması” gerektiğini yazmıştı. [[cite:tdv-gokalp-ziya]]"
+    },
+    {
+      "id": "con-deep-authority",
+      "section": "concepts",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Çeviri notu: Herrschaft, ‘egemenlik’ mi ‘otorite’ mi?",
+      "body": "Weber’in üç meşru tür sınıflaması İngilizcede iki farklı adla dolaşır: “üç meşru otorite türü” ve “üç meşru egemenlik türü”. Fark, Almanca *Herrschaft* sözcüğünün çevirisinden gelir. [[cite:kim-2022-sep-weber]]\n\nA. M. Henderson ile Talcott Parsons’ın 1947 tarihli çevirisinde bir dipnot, *Herrschaft*’ın İngilizcede tatmin edici bir karşılığı olmadığını yazar; genel kullanım için “imperative control” (buyurucu denetim) ödünç alınır, ama Weber’in çoğu yerde meşru *Herrschaft*’tan söz ettiği belirtilerek bu durumlarda “authority” (otorite) hem doğru hem daha az kaba bulunur. [[cite:weber-1947-theory-social-economic-organization]] SEP’in Weber maddesi ise sözcüğü “egemenlik” (*domination*) ve daha lafzen “lordluk” diye verir. [[cite:kim-2022-sep-weber]]\n\nSeçimin sonuçları var: “otorite” demek ilişkinin meşruluk yanını, “egemenlik” demek hâkimiyet yanını daha çok çağrıştırır (bu bizim yorumumuz). Aynı türlere hangi sözcükle baktığın, hangi yanı görmene yardım ettiğini değiştirir.\n\nTürkçede de benzer bir tuzak var: “egemenlik” genellikle *sovereignty* anlamıyla bilinir. Biz bu derste “egemenlik (otorite)” diye yan yana yazıyoruz; bu, bizim kararımızdır, yerleşik bir Türkçe karşılık olduğunu iddia etmiyoruz."
+    },
+    {
+      "id": "con-deep-cage",
+      "section": "concepts",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Çeviri notu: demir kafes mi, çelik kabuk mu?",
+      "body": "Weber’in *Protestan Ahlakı*’nın sonunda geçen imge Almancada *stahlhartes Gehäuse*: lafzen “çelik gibi sert bir kabuk”. [[cite:kim-2022-sep-weber]] Talcott Parsons bunu İngilizce çevirisinde “iron cage” (demir kafes) diye verdi; bu çeviri artık kanonik sayılıyor. [[cite:baehr-2001-iron-cage]]\n\nPeter Baehr’in incelemesi, Parsons’ın seçiminin imgeyi değiştirdiğini gösterir. Kafes insanı içeride tutar ama güçlerini olduğu gibi bırakır; oysa “kabuk” modern kapitalizmin yeni türden bir varlık yarattığını düşündürür. Çelik, demirden farklı olarak, insan yapımı bir maddedir; hem sert hem de esneyebilir. Baehr ayrıca bu imgenin olası kaynağını, yani Bunyan’ın *Pilgrim’s Progress*’ini de inceler. [[cite:baehr-2001-iron-cage]]\n\nBaehr’in sonucu: Parsons’ın “iron cage”i Weber’in imgesine sadık olmasa bile, kendi başına verimli bir buluş, “gezgin bir fikir” olmuştur. [[cite:baehr-2001-iron-cage]]\n\nTürkçede “demir kafes” yerleşik gibi görünse de, biz bu sözcüğün Türkçe kaynaklardaki durumunu ayrıca doğrulamadık; bu derste “çelik kabuk” imgesini ve “demir kafes”i yan yana veriyoruz."
+    },
+    {
+      "id": "con-deep-gemeinschaft",
+      "section": "concepts",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Çeviri notu: community–society mi, community–civil society mi, cemaat–cemiyet mi?",
+      "body": "Tönnies’in 1887 tarihli kitabı İngilizceye ilk kez Charles P. Loomis’in çevirisiyle *Community and Society* (1957) adıyla girdi. [[cite:tonnies-1957-community-society]] Yıllar sonra Cambridge University Press bunu *Community and Civil Society* (2001) başlığıyla yeniden çevirip yayımladı; yani *Gesellschaft* bu kez “society” değil “civil society”. [[cite:tonnies-2001-community-civil-society]] Heberle’nin dediği gibi, “community” ve “society” İngilizce yazında Almanca terimlerin yerine kabul edilir hâle gelmişti. [[cite:heberle-1968-tonnies-iess]]\n\nTürkçede karşılıklar iki sıra hâlinde dolaşıyor: *cemaat–cemiyet* ve *topluluk–toplum*. [[cite:bulut-cemaat-cemiyet-tubitak]] Kitabın Türkçe çevirisi *Cemaat ve Cemiyet* adıyla, Emre Güler çevirisiyle, 2019’da yayımlandı; yayıncının tanıtımı bunu Almanca ilk basımdan 132 yıl sonra diye anıyor. [[cite:tonnies-2019-cemaat-cemiyet-tr]]\n\nBir ek dikkat: Türkçede “cemaat” gündelik dilde dinî bir topluluğu da çağrıştırır; bu, Tönnies’in tipiyle karışabilir (bu çağrışım bizim gözlemimizdir). Ayrıca kaynağımız, cemaat kavramının istikrarsızlık karşısında “nostaljik ve hayalî bir geleneksel toplum” fikrinin inşasında sık kullanıldığını söylüyor. [[cite:bulut-cemaat-cemiyet-tubitak]] Yani çeviri seçimi, kavramın nasıl duyulduğunu da etkiliyor."
+    },
+    {
+      "id": "assump-organism",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "text",
+      "title": "Toplum bir organizma mıdır? Spencer’dan Simmel’e üç cevap",
+      "body": "Toplum bir beden gibi mi işler? [[person:spencer|Herbert Spencer]] buna “evet”e yakın bir cevap verdi: toplumu “organik” bir bütün olarak gördü; toplumsal yaşam ona göre doğal bir bedenin yaşamının uzantısıydı ve toplumsal “organizmalar” biyolojik olanlarla aynı evrim ilkelerine bağlıydı. Ama Spencer’da parçalar birbirine bağımlıydı, bütüne tâbi değildi; bireyin kendine ait bir kimliği ve değeri vardı. [[cite:sweet-iep-spencer]] (Not: “en uygun olanın hayatta kalması” sözünü Darwin değil Spencer ortaya attı; ama SEP yazarına göre Spencer’a “kaba bir toplumsal Darwinci” demek yanlıştır. [[cite:weinstein-2024-sep-spencer]])\n\nIEP’e göre [[person:durkheim|Durkheim]]’ın organik benzetmeyi kullanması ve toplumun parçalarının işleyen bir bütün oluşturma biçimini çözümlemesi, büyük ölçüde Spencer’ın işlevselci çözümlemesinden esinlenmişti. Ama Durkheim, toplumun bireylerin bir araya gelmesiyle başladığını söyleyen yararcı yaklaşıma, Spencer’ı da sayarak, karşı çıktı: *İş Bölümü* bu görüşün bir çürütmesi sayılır; ona göre bireyi kolektif yaşam doğurur, tersi değil. [[cite:carls-iep-durkheim]] Toplum, bireylerin toplamına indirgenemeyen, kendine özgü (*sui generis*) bir gerçekliktir. [[cite:carls-iep-durkheim]]\n\n[[person:simmel|Simmel]] ise üçüncü bir yol açtı: toplum bir töz, bir organizma, indirgenemez bir varlık değildir; bireyler arasındaki karşılıklı etkileşimlerin (*Wechselwirkung*) toplamıdır. [[cite:mayntz-1968-simmel-iess]]\n\nSınavlık ipucu: “organizma” Spencer, “kendine özgü gerçeklik” Durkheim, “etkileşimlerin toplamı” Simmel.",
+      "question": {
+        "id": "assump-organism-q",
+        "type": "mcq",
+        "prompt": "Aşağıdaki cümlelerden hangisi Simmel’in toplum tanımına en yakındır?",
+        "options": [
+          "Toplum, parçalarının yaşamını belirleyen bir organizmadır.",
+          "Toplum, bireylere indirgenemeyen kendine özgü (sui generis) bir gerçekliktir.",
+          "Toplum, bireyler arasındaki karşılıklı etkileşimlerin ve bağımlılıkların toplamıdır.",
+          "Toplum, iş bölümünün ortadan kalktığı yerde başlar."
+        ],
+        "answer": 2,
+        "explain": "Simmel toplumu bir töz ya da organizma olarak değil, etkileşimlerin (Wechselwirkung) toplamı olarak tanımlar. ‘Organizma’ Spencer’a, ‘sui generis gerçeklik’ Durkheim’a aittir; dördüncü seçenek ise bu üç ismin hiçbirinin görüşü değil."
+      }
+    },
+    {
+      "id": "assump-conflict",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "text",
+      "title": "Düzen uzlaşmadan mı doğar, çatışmadan mı? Durkheim ile Marx’ın kısa karşılaşması",
+      "body": "Bir gün televizyonda büyük bir ulusal tören yayınlandığını düşün. Bir araştırmacıya bu törende ne göründüğünü sorsan iki ayrı cevap alabilirsin.\n\nBirincisi, [[person:durkheim|Durkheim]] çizgisi: düzen ortak ahlaki bağlılıklardan doğar; meşru otorite de ahlaki bir temele dayanır. Toplumsal düzeni korumak, bu değerlerin sık sık yeniden onaylanmasını gerektirir. [[cite:carls-iep-durkheim]] [[cite:mcguigan-2016-tsr-monarchy]]\n\nİkincisi, [[person:marx|Marx]] çizgisi. Marx ve Engels’in *Alman İdeolojisi*’nde (1845–46) şu cümle geçer: her çağda egemen sınıfın fikirleri egemen fikirlerdir. [[cite:marx-engels-1845-german-ideology]] Maddi üretim araçlarını elinde tutan sınıf, zihinsel üretim araçları üzerinde de denetim kurar. [[cite:marx-engels-1845-german-ideology]] SEP yazarı bunu ideoloji kuramının çekirdeği sayar. [[cite:wolff-2025-sep-marx]] Bu derste Marx yalnızca bir işaret: ayrıntısı [[lesson:marxist-foundations]] dersinde.\n\nDurkheim Marx’ı bilimsel bulmuyordu; IEP yazarına göre onu dogmatik ve gereksiz yere çatışmacı sayıyordu. [[cite:carls-iep-durkheim]] Bu iki bakışın medya araştırmasındaki yankısı belgeli: 1953 taç giyme töreni okumasına Norman Birnbaum 1955’te bir yanıt yazdı; ona göre modern kentsel-sanayi toplumlarında ortak değerler değil, farklılaşma ve gerilim olağandır. [[cite:birnbaum-1955-monarchs-sociologists]] [[cite:mcguigan-2016-tsr-monarchy]]\n\nBu iki soru bugün de medya araştırmasının iki sorusu: “bu yayın hangi ortak değeri yeniden onaylıyor?” ve “bu yayın kimin çıkarına, hangi fikri egemen kılıyor?”",
+      "question": {
+        "id": "assump-conflict-q",
+        "type": "mcq",
+        "prompt": "Aşağıdaki sorulardan hangisi Marx çizgisine (ideoloji ve çıkar) daha yakındır?",
+        "options": [
+          "Bu yayın hangi ortak değeri yeniden onaylıyor ve topluluğu nasıl birleştiriyor?",
+          "Bu yayın hangi sınıfın fikrini egemen kılıyor ve zihinsel üretim araçlarını kim elinde tutuyor?",
+          "Bu yayın bireyin hangi anlamları yorumlamasına yol açıyor?",
+          "Bu yayının izleyicileri hangi ‘irade’ türüyle bir araya geliyor?"
+        ],
+        "answer": 1,
+        "explain": "‘Egemen fikirler egemen sınıfın fikirleridir’ ve ‘zihinsel üretim araçları’ Marx ile Engels’in ideoloji çizgisidir. Birinci seçenek Durkheim’ın bütünleşme sorusu, üçüncüsü Weber’in anlam sorusu, dördüncüsü Tönnies’in irade sorusudur."
+      }
+    },
+    {
+      "id": "assump-deep-durkheim",
+      "section": "assumptions",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin bakış: Durkheim ‘bireyi yok sayan’ biri miydi?",
+      "body": "Durkheim çoğu zaman “toplumu birey üzerinde ezici bir güç olarak gören” biri diye tanıtılır. IEP yazarına göre eleştirmenler onu belirlenimci görür, toplumsal zorlamanın bireysel özerkliği silip süpürdüğünü söyler. [[cite:carls-iep-durkheim]] Aynı yazar bu itirazı yanlış okuma sayar. Ona göre toplumsal olgular “bireyler onları içselleştirdikçe” vardır; Durkheim dil, ahlak ve dinî inançların birey tarafından benimsendiğini, kendi tarzıyla yaşandığını defalarca vurgular. [[cite:carls-iep-durkheim]]\n\nÜstelik iş bölümü kuramına göre toplumlar geliştikçe bireyler arasında farklar da gelişir; bu bireye daha çok kişilik geliştirme özgürlüğü tanır. Durkheim’ın modern toplum için öngördüğü yeni “din”, “bireyin kültü”dür. [[cite:carls-iep-durkheim]] IEP’in özeti: Durkheim’da birey ile toplum arasında karşıtlık yoktur; insanı insan yapan her şey (dil, akıl, ahlak) toplumsal yaşamın ürünüdür. [[cite:carls-iep-durkheim]]\n\nYani “Durkheim yapıyı savundu, Weber bireyi” türünden kısa özetler sınav için işe yarar ama eksiktir (bu değerlendirme bizim). Durkheim’ı okumak isteyen biri için iyi bir başlangıç noktası, kitaplarının önsözlerindeki yöntem tartışmasıdır; *Yöntem Kuralları*’nın önsözünde örneğin, sosyolojide sağduyuya bilimlerde çoktan yitirdiği bir otorite tanınmaması gerektiği savunulur. [[cite:durkheim-1895-regles]]"
+    },
+    {
+      "id": "how-suicide",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "İntihar’ın yöntemi: elemeyle ilerleyen bir soruşturma",
+      "body": "Durkheim’ın 1897 tarihli kitabı bir hikâye kitabı değil, bir eleme kitabıdır. İçindekiler sayfasından yürüyüşün mantığını çıkarabilirsin: [[cite:durkheim-1897-suicide]]\n\n1. **Nesnel tanım.** Önce intihar, keyfî dışlamalardan kaçınacak biçimde nesnel olarak tanımlanır.\n2. **Vakadan orana.** Tek tek intiharlar değil, bir toplumun *toplumsal intihar oranı* incelenir; Durkheim bu oranın toplumlar arasında farklı ve toplum içinde sabit olduğunu, bu yüzden kendine özgü bir olgu olduğunu savunur.\n3. **Toplum dışı açıklamaları eleme.** Birinci kitapta sırayla ruhsal bozukluklar ve alkolizm, ırk ve kalıtım, iklim ve mevsim, en sonunda da taklit denenir ve oranı açıklamada yetersiz bulunur.\n4. **Toplumsal ortamları karşılaştırma.** İkinci kitapta dinî topluluklar ve ordu gibi toplumsal ortamlar karşılaştırılır.\n5. **Türler.** Oranın nedeni, grupların bireyi ne kadar bütünleştirdiği ve düzenlediği olarak açıklanır; anomik ve öbür türler bu adımdan çıkar.\n\nKullandığı veriler resmî istatistiklerdir; bir kısmını başkalarının derlediği tablolardan (örneğin Morselli’nin çizelgeleri), bir kısmını Adalet Bakanlığı kayıtlarından toplamıştır. [[cite:durkheim-1897-suicide]]",
+      "question": {
+        "id": "how-suicide-q",
+        "type": "order",
+        "prompt": "Durkheim’ın *İntihar* soruşturmasının mantıksal sırasını dizin.",
+        "items": [
+          "İntiharı nesnel olarak tanımla",
+          "Tek tek vakalardan toplumsal orana geç",
+          "Toplum dışı açıklamaları tek tek dene ve ele",
+          "Toplumsal ortamları karşılaştır ve türleri çıkar"
+        ],
+        "explain": "Önce tanım, sonra ‘orana geçiş’, sonra toplum dışı açıklamaların elenmesi, en sonunda da toplumsal ortamların karşılaştırılıp türlerin çıkarılması. Türleri en başa koymak tipik hata: Durkheim tipleri elemeden ve karşılaştırmadan sonra, sonuçtan çıkarır."
+      }
+    },
+    {
+      "id": "how-coronation-lab",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Alıştırma: 1953’te bir televizyon töreni ve Durkheim’ın gözlüğü",
+      "body": "Belgeli olay: Haziran 1953’te II. Elizabeth’in taç giyme töreni canlı televizyonda yayınlandı; Richard Dimbleby’nin kısık sesli anlatımı televizyona ve radyoya eşlik etti. Televizyonu olmayanlar olanların evine doluştu; sonraki yıl televizyon kiralama ve satışları fırladı. [[cite:mcguigan-2016-tsr-monarchy]]\n\nAynı yıl Edward Shils ile Michael Young *The Sociological Review*’de olayı Durkheim’ın gözlüğüyle okudu: tören onlara göre “ulusal bir komünyon eylemi”ydi; Durkheim’dan, inananların ortak duygusunun “salt yanılsama” olamayacağı fikrini alıyorlardı. [[cite:shils-young-1953-coronation]] [[cite:mcguigan-2016-tsr-monarchy]]\n\n*Alıştırma (senin işin; hazır cevabı yok):*\n\n1. **Durkheim gözüyle** yaz: törende hangi ortak değer yeniden onaylanıyor? Televizyon bunu nasıl yaygınlaştırıyor?\n2. **Karşı okumayı** ara: Birnbaum 1955’te, modern toplumlarda farklılaşmanın olağan olduğunu, marjda muhalefetin sürdüğünü söyledi. [[cite:mcguigan-2016-tsr-monarchy]] Lukes 1975’te bu tür “neo-Durkheimci” okumaları, bütünleşme kavramını fazla yalın kullandıkları, çok dar bir tören seçkisine baktıkları ve törenleri “yanlılığın seferber edilmesi”nin (*mobilization of bias*, bizim çevirimiz) öğeleri olarak görmeyi kaçırdıkları için eleştirdi. [[cite:lukes-1975-political-ritual]]\n3. **Kendi olayını seç:** son yıllarda bildiğin bir canlı yayın, ulusal maç ya da yas töreni. Aynı üç soruyu sor: Ne onaylanıyor? Kim içeride, kim dışarıda? Ne görsem “bütünleşme”, ne görsem “yanlılığın seferber edilmesi” derdim?\n\nBu bir alıştırma; sonucu senin gözlemin belirler, hazır bir doğru cevap yok.",
+      "question": {
+        "id": "how-coronation-lab-q",
+        "type": "mcq",
+        "prompt": "Lukes’un 1975 tarihli makalesinde Shils–Young türü ‘neo-Durkheimci’ çözümlemelere itirazı nedir?",
+        "options": [
+          "Televizyonun etkisini abartıyorlar.",
+          "Toplumsal bütünleşme kavramını fazla yalın kullanıyorlar ve törenlerin bilişsel ve güç boyutlarını görmüyorlar.",
+          "Verileri yanlış topladıklarını iddia ediyor.",
+          "Durkheim’ı yanlış çevirdiklerini söylüyor."
+        ],
+        "answer": 1,
+        "explain": "Lukes’un makalesinin özeti bu çözümlemelerin bütünleşme kavramını fazla yalın kullandığını ve törenlerin bilişsel, güç ilişkileriyle ilgili boyutunu kapattığını söyler; törenleri ‘değer bütünleşmesi’ni değil, ‘yanlılığın seferber edilmesi’nin öğeleri olarak okumayı önerir. Diğer seçenekler makalenin ana eleştirisi değil."
+      }
+    },
+    {
+      "id": "evid-religion",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "text",
+      "title": "Kanıt 1: ırk mı, din mi? Elemeyle ilerlemek",
+      "body": "Durkheim’ın *İntihar*’ında en öğretici yer, elediği açıklamalardır. Örneğin, Almanların daha çok intihar etmesini ırka bağlayan görüşü ele alır. [[cite:durkheim-1897-suicide]] Avusturya’da aynı toplumsal ortamda yaşayan Almanlar ve Slavlar benzer bir eğilim gösterir; İsviçre’de ise aynı dinden Alman ve Fransız kantonlarını karşılaştırdığında Katoliklerde iki grup arasında belirgin bir fark bulmaz. Sonucu: fark “kandan” değil, içinde yaşanılan uygarlıktan ve ortamdan gelir. [[cite:durkheim-1897-suicide]]\n\nSonra dinlere geçer. Ona göre oran Protestanlarda genel olarak yüksek, Katoliklerde ve özellikle Yahudilerde düşüktür. [[cite:durkheim-1897-suicide]] “Katolikler azınlık olduğu için mi?” sorusuna hayır der: bağışıklığı, Katolik kilisesinin bireye daha az dinî bireycilik tanıması, yani grubu daha sıkı bütünleştirmesi açıklar; Yahudi topluluğu için de aynı mantığı uygular. [[cite:durkheim-1897-suicide]]\n\nBu bölümün genel sonucu: intihar oranı, dinin kendisiyle değil, bir toplumsal grubun bireyi ne kadar sıkı sardığıyla, yani bütünleşmeyle doğrudan ilişkilidir. [[cite:durkheim-1897-suicide]]\n\nBir uyarı: bunlar 19. yüzyıl sonunun istatistikleri ve Durkheim’ın kendi yorumları; bugün bu tabloları yeniden çizmek yerine yöntemin mantığını öğrenmek sana daha çok yarar: bir açıklamayı doğrulamak yerine rakiplerini tek tek elemek.",
+      "question": {
+        "id": "evid-religion-q",
+        "type": "mcq",
+        "prompt": "Durkheim, Katoliklerin daha düşük intihar oranını ‘azınlık olma’ ile değil neyle açıklar?",
+        "options": [
+          "Katolik kilisesinin bireye daha az dinî bireycilik tanıması ve grubu daha sıkı bütünleştirmesiyle.",
+          "Katoliklerin daha zengin olmasıyla.",
+          "Katoliklerin daha az istatistik tutmasıyla.",
+          "Katoliklerin daha az kentli olmasıyla."
+        ],
+        "answer": 0,
+        "explain": "Durkheim’ın açıklaması bütünleşmedir: daha az dinî bireycilik, daha sıkı bağlılık. Diğer seçenekler metinde bu açıklamanın yerini almaz; zenginlik ve kentlilik başka değişkenlerdir, istatistik tutma biçimi ise Durkheim’ın gerekçesi değildir."
+      }
+    },
+    {
+      "id": "evid-media",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "story",
+      "title": "Kanıt 2: 1897’de Durkheim gazeteleri sınadı",
+      "body": "“Bir gazete haberi intiharı yayar mı?” sorusu Durkheim’dan önce de ortadaydı ve o *İntihar*’ın birinci kitabında bunu ciddiye alır. Ona göre intihar bireyden bireye bulaşabilir; asıl mesele, bunun toplumsal oranı değiştirip değiştirmediğidir. [[cite:durkheim-1897-suicide]]\n\nİlk sınama coğrafi: taklit etkiliyse yüksek oranlar sınırları aşıp komşulara yayılmalı. Oysa Almanya’nın etrafı intihar oranı yüksek Protestan bölgelerle çevriliyken üç Katolik bölge (Ren eyaletleri ile Vestfalya, Bavyera ve Posen) haritada milyon başına 100’ün altındaki değerleriyle adacıklar gibi durur; İsviçre’nin Katolik güneyi de Protestan kuzeyinden keskin biçimde ayrılır. Durkheim, hiçbir ülkenin salt “örnek prestiji”yle komşularına eğilimini aşılamadığını söyler. [[cite:durkheim-1897-suicide]]\n\nİkinci sınama gazetelerle ilgili: taklit etkiliyse oranlar, gazetelerin kamuoyu dikkatindeki yerine göre değişmeli. Ama gazete *sayısı* değil, *okur* sayısı önemli: yerelleşmiş bir ülkede çok gazete olabilir ama her biri az okunur; *Times* ya da *Petit Journal* gibi tek bir gazete ise büyük bir kitleye ulaşır. Durkheim düzenli kanıt sunamadığını itiraf eder; ama Fransa ve İngiltere’nin basında Danimarka ve Saksonya’dan geri olmayacağını, oysa oralarda daha az intihar görüldüğünü söyler. [[cite:durkheim-1897-suicide]]\n\nSonuç: intihar bireyden bireye bulaşabilir, ama taklit toplumsal oranı belirlemez. Ona göre işi belirleyen, bundan söz etmek değil, nasıl söz edildiğidir: “ce n’est pas le fait d’en parler, c’est la manière dont on en parle.” [[cite:durkheim-1897-suicide]]\n\nBir asır sonra David Phillips, 1974’te Britanya ve ABD’de gazetelerde yayımlanan intihar haberlerinden hemen sonra intiharların arttığını bildirdi. [[cite:phillips-1974-suicide-suggestion]] Aynı soru, iki ölçek, iki cevap. (Konu ağır gelirse bu kartı atlayabilirsin.)",
+      "question": {
+        "id": "evid-media-q",
+        "type": "mcq",
+        "prompt": "Durkheim’ın gazete–taklit sınamasında gazete sayısı yerine okur sayısına bakılması gerektiğini söylemesinin nedeni nedir?",
+        "options": [
+          "Gazeteler artık okunmuyordu.",
+          "Bir gazetenin yayma gücü okur kitlesine bağlıdır; çok sayıda az okunan gazete, tek bir büyük gazeteden daha az etkili olabilir.",
+          "Okur sayıları kolayca ölçülebiliyordu.",
+          "Gazeteler yalnızca intihar haberi yapıyordu."
+        ],
+        "answer": 1,
+        "explain": "Durkheim, yerelleşmiş bir ülkede çok gazete olabileceğini ama her birinin az okunduğunu, dolayısıyla yayma gücünün düşük kalacağını söyler; buna karşılık tek bir büyük gazete geniş bir kitleye ulaşır. Üçüncü seçenek tersini söyler: Durkheim okur sayısını ölçmenin zor olduğunu kendisi itiraf eder."
+      }
+    },
+    {
+      "id": "evid-deep-phillips",
+      "section": "evidence",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin bakış: Phillips (1974) ne yaptı, Durkheim’la neden tam çatışmaz?",
+      "body": "Makalenin özetine göre Phillips, 1947–1968 arasında Britanya ve ABD’de gazetelerde yayımlanan intihar haberlerinden hemen sonra intiharların arttığını, habere ne kadar çok yer verilirse artışın o kadar büyük olduğunu ve artışın esas olarak haberin yayımlandığı bölgeyle sınırlı kaldığını bildirir. Alternatif açıklamalar da incelenmiş ve kanıtlar “telkin etkisi”ne işaret etmiştir; makale, bu etkinin ulusal düzeyde daha önce gösterilmediğini söyler. [[cite:phillips-1974-suicide-suggestion]] (Biz yalnızca özeti okuduk.)\n\nDurkheim’ın tasarımı ise farklıydı: ülkeler ve bölgeler arasında oranları karşılaştırıyor, haberden sonraki kısa vadeli seyri incelemiyordu. Metninde, intiharın bireyden bireye bulaştığından emin olduğunu da yazar; itirazı, taklidin bir toplumun karakteristik *oranını* belirleyecek kadar güçlü olmadığı yönündedir. [[cite:durkheim-1897-suicide]] Ona göre taklit, zaten güçlü bir yatkınlığın harekete geçmesine ancak vesile olabilir. [[cite:durkheim-1897-suicide]]\n\nYani ikisi tam çelişmez: Phillips kısa vadeli, ulusal düzeyde bir artış gösteriyor; Durkheim uzun vadeli, toplumu karakterize eden bir oran üzerine konuşuyor. Phillips’in bulgusu Durkheim’ın ‘toplumsal oran’ iddiasını tek başına çürütür mü, bu ayrıca tartışılacak bir soru (bu yorum bizimdir; ikinci bir kaynağa dayandırmadık)."
+    },
+    {
+      "id": "crit-media",
+      "section": "critique",
+      "layer": "core",
+      "kind": "myth",
+      "title": "Efsane: ‘Klasik kuramcılar medyayı kuramlaştırdı’",
+      "body": "**Ne sanılır.** Kitle iletişimi kuramları doğrudan Comte’tan, Durkheim’dan ve Weber’den doğdu, bu isimler medya kuramcısıydı.\n\n**Kaynaklar ne diyor.** Bu isimlerin ana projeleri başka yerdeydi: toplum biliminin kuruluşu, iş bölümü, din, para, kent, egemenlik. Medyaya doğrudan dokunan istisnalar var ve hepsi ilginç: Durkheim 1897’de gazete ve taklit tartışmasını yaptı; Weber 1910’da basın araştırma planını sundu; Marx ile Engels 1845’te “zihinsel üretim araçları” kavramını kullandılar [[cite:marx-engels-1845-german-ideology]]; Tönnies 1922’de kamuoyunun eleştirisini yazdı [[cite:tonnies-1922-kritik-oeffentliche-meinung]].\n\nTönnies’in kitabı özellikle dikkat çeker. Heberle’ye göre Tönnies, kamuoyunda bir irade unsuru gördü; bütün bir toplumun kamuoyunu “tek doğru” olduğunu iddia eden bir kanaat olarak tarif etti ve buna katılmayanın “sadakatsiz” sayılabileceğini yazdı. [[cite:heberle-1968-tonnies-iess]] Bu, sonraki derslerde göreceğin suskunluk sarmalına benzer bir düşünce olabilir (bizim yorumumuz; bir etki ilişkisi iddia etmiyoruz).\n\nAma bunlar dağınık dokunuşlardı, sürekli bir medya kuramı değil. Asıl miras dolaylı: kavramlar, sorular ve ölçütler; medya araştırmacıları bunları sonradan devraldı. Park’ın Simmel’le çalışması ya da Shils ile Young’un Durkheim’dan yararlanması gibi. [[cite:encyclopedia-com-park]] [[cite:shils-young-1953-coronation]]",
+      "question": {
+        "id": "crit-media-q",
+        "type": "mcq",
+        "prompt": "Aşağıdakilerden hangisi klasik kuramcılarla medya arasındaki belgelenmiş doğrudan bağlardan biri DEĞİLDİR?",
+        "options": [
+          "Durkheim’ın 1897’de gazete okurları ve taklit üzerine sınama önermesi",
+          "Weber’in 1910’da bir gazetecilik sosyolojisi araştırması önermesi",
+          "Tönnies’in 1922’de kamuoyunun eleştirisini yazması",
+          "Simmel’in 1903’te televizyon izleyicisinin blazé tutumunu ölçmesi"
+        ],
+        "answer": 3,
+        "explain": "Televizyon 1903’te yoktu; Simmel’in blazé tutumu büyükşehir izlenimleri üzerine kuruludur ve bir ölçüm çalışması değil, bir denemedir. Öteki üç seçenek kaynaklarda belgelenmiş doğrudan medya dokunuşlarıdır."
+      }
+    },
+    {
+      "id": "crit-tonnies",
+      "section": "critique",
+      "layer": "core",
+      "kind": "myth",
+      "title": "Efsane: ‘Gemeinschaft köydür, Gesellschaft şehirdir’",
+      "body": "**Ne sanılır.** Topluluk sıcak ve kırsal, toplum soğuk ve kentsel; dolayısıyla çevrimiçi ortamlar ya “soğuk toplum” ya da “sıcak topluluk” olmalı.\n\n**Kaynaklar ne diyor.** İlk olarak: Heberle’ye göre Tönnies bu kavramları sınıflama kutuları olarak değil ideal tip olarak tasarlamıştı; saf Gemeinschaft da saf Gesellschaft da yoktur, her somut birliktelik ikisinden bir miktar taşır. [[cite:heberle-1968-tonnies-iess]] Kırsal sosyologlar başlangıçta kırsal yaşamı eleştirisiz biçimde Gemeinschaft’la özdeşleştirmişti; sonraları bu uygulamayı inceltmek zorunda kaldılar. [[cite:heberle-1968-tonnies-iess]]\n\nİkincisi: ölçüt mekân ya da biçimsellik değil, iradedir. Gemeinschaft benzeri birlikler, nişan ya da dinî tarikat gibi bilinçli katılım eylemleriyle kurulabilir; satranç için toplanan küçük bir grup Gesellschaft benzeri olsa da, köy topluluğu gibi bir Gemeinschaft benzeri kurumsal gruptan daha az biçimsel örgütlenmiş olabilir. [[cite:heberle-1968-tonnies-iess]]\n\nÜçüncüsü: Türkçe kaynaklardaki bir uyarı, cemaat kavramının kararsızlık dönemlerinde “nostaljik ve hayalî” bir geleneksel toplum fikri kurmak için sıkça kullanıldığıdır. [[cite:bulut-cemaat-cemiyet-tubitak]] Yani “cemaat” hep yaşanmış bir gerçeklik değil, çoğu zaman özlenen bir imgedir.\n\nBir çevrimiçi ortamda insanlar amaç için seçerek mi, yoksa alışkanlık ve değer için mi bir arada? Tönnies’in sorusu buradan işler; “dijital köy” benzetmesi ise bu ders için yeterli değildir (bizim yorumumuz).",
+      "question": {
+        "id": "crit-tonnies-q",
+        "type": "mcq",
+        "prompt": "Hayal et: bir öğrenci “Kırsal bir köy saf Gemeinschaft, büyükşehir saf Gesellschaft’tır” diye yazıyor. Tönnies’in yaklaşımına göre bu neden sorunlu?",
+        "options": [
+          "Çünkü Tönnies köyleri hiç incelemedi.",
+          "Çünkü Tönnies’in kavramları ideal tiptir; saf örnek yoktur ve ayrım mekâna değil iradenin türüne dayanır.",
+          "Çünkü büyükşehirler her zaman Gemeinschaft’tır.",
+          "Çünkü Gesellschaft kavramı 19. yüzyıla ait değildir."
+        ],
+        "answer": 1,
+        "explain": "Tönnies’in ayrımı iradenin iki türü (Wesenwille, Kürwille) üzerine kuruludur; kavramlar ideal tiptir ve somut hiçbir yer ‘saf’ değildir. ‘Köy = Gemeinschaft’ eşitlemesi, kaynağımızın belirttiği gibi kırsal sosyologların başta düştüğü ama sonra incelttiği bir okumadır. Diğer seçenekler kaynaklarda desteklenmez."
+      }
+    },
+    {
+      "id": "crit-consensus",
+      "section": "critique",
+      "layer": "core",
+      "kind": "text",
+      "title": "Eleştiri: Durkheim çizgisi uzlaşmayı fazla mı gördü?",
+      "body": "Durkheim ve ardılları hakkındaki eleştiriler iki koldan geliyor, ikisinde de yanıt var.\n\n**Uzlaşma varsayımı.** Birnbaum, Shils ve Young’un taç giyme yorumuna 1955’te karşı çıktı: modern kentsel-sanayi toplumunda farklılaşma ve gerilim, evrensel paylaşılan ahlaktan daha yaygındır. [[cite:mcguigan-2016-tsr-monarchy]] Lukes 1975’te bu tür “neo-Durkheimci” çözümlemeleri bütünleşmeyi fazla yalın kavramakla ve törenleri “yanlılığın seferber edilmesi”nin öğeleri olarak görmemekle eleştirdi. [[cite:lukes-1975-political-ritual]] Ama McGuigan’ın not ettiği gibi Birnbaum’un ‘çatışma’ okuması da işlevselci çerçevenin içinde kaldı; iki taraf, göründüğünden çok ortak varsayım paylaşıyordu. [[cite:mcguigan-2016-tsr-monarchy]]\n\n**Belirlenimcilik.** Durkheim’a toplumu birey üzerinde ezici görmek suçlaması yöneltilir. Savunanlar, toplumsal olguların bireyler onları benimsediği ölçüde var olduğunu ve Durkheim’da birey ile toplum arasında karşıtlık olmadığını söyler. [[cite:carls-iep-durkheim]]\n\n**Weber’e itiraz.** IEP yazarı, Weber’in otorite kuramının fazla “işlemsel” olduğu ve normatif boyutu hesaba katmadığı yönündeki yaygın eleştiriyi aktarır; Durkheim’da meşruluk ahlaki bir temele bağlıdır. [[cite:carls-iep-durkheim]]\n\nBu itirazlar dersin sonuna doğru sana bir alışkanlık kazandırır: her kavramı “neyi görüyor, neyi göremiyor?” diye oku.",
+      "question": {
+        "id": "crit-consensus-q",
+        "type": "mcq",
+        "prompt": "Lukes’un 1975 makalesinin ana itirazı, Shils ve Young gibi ‘neo-Durkheimci’ çözümlemelerin neyi eksik yaptığıdır?",
+        "options": [
+          "Törenlere hiç yer vermemeleri.",
+          "Toplumsal bütünleşmeyi fazla yalın kavramaları ve törenlerin güç ilişkileriyle ilgili boyutunu görmemeleri.",
+          "Durkheim’ı okumamaları.",
+          "Televizyonu hiç anmamaları."
+        ],
+        "answer": 1,
+        "explain": "Lukes’un makalesinin özeti bütünleşme kavramını ‘fazla yalın’ bulur ve törenlerin bilişsel, güç boyutunu vurgular. Birinci ve üçüncü seçenek gerçek dışı (bu çalışmalar töreni ele alır ve Durkheim’ı açıkça anar); dördüncü seçenek ise makalenin konusu değil."
+      }
+    },
+    {
+      "id": "crit-deep-canon",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin bakış: ‘klasik’ sıfatı sonradan verildi",
+      "body": "Bu dersteki yedi isim kendiliğinden “kurucular” değil; bir seçimin ürünü. R. W. Connell’in 1997 tarihli makalesinin özetine göre bilinen kanon, “büyük adamların Avrupa modernitesini kuramlaştırdığı” bir kuruluş hikâyesine dayanır ve bu hikâye savunulamaz. Connell’e göre sosyoloji, liberalizm ile emperyalizmin gerilimlerinin merkezde olduğu geniş bir kültürel dinamikten çıktı; küresel yayılma ve sömürgeleştirme sosyolojiye ana kavramsal çerçevesini, verilerinin bir kısmını, temel sorunlarını ve yöntemlerini verdi. [[cite:connell-1997-classical-theory]]\n\nYirminci yüzyılın başındaki krizden sonra ABD’de sosyoloji yeniden kuruldu ve metropoldeki fark ve düzensizliğe odaklandı. “Klasik” kanonun sonradan yaratılması, bu girişimin bazı kültürel ikilemlerini çözdü ve disiplini tanımlayan bir pedagoji sağladı, ama bedeli sosyolojinin entelektüel kapsamını daraltmak ve tarihinin büyük kısmını gizlemekti. [[cite:connell-1997-classical-theory]]\n\nBunun bu ders için anlamı: yedi isim (Comte’tan Weber’e) kutsal bir liste değil, medya araştırmasına akan bir damarın pratik bir haritasıdır. Bu listede yeterince yer bulamayan konulara (sömürgecilik gibi) sonraki derslerde, örneğin sömürge sonrası yaklaşımlarda geri döneceğiz. Biz yalnızca makalenin özetini okuduk; tam metindeki argüman ve örnekler bunun ötesindedir."
+    },
+    {
+      "id": "today-feed-lab",
+      "section": "today",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Alıştırma: 1910’un ‘sabah ragusu’ ile 1903’ün ‘sinir yaşamı’ senin akışında",
+      "body": "İki belgeli cümle yan yana:\n\nWeber, 1910’da modern insanın işe gitmeden önce gazetede kültür yaşamının her alanından bir “karışık yemeği” yutmaya alıştığını söylüyor: siyasetten tiyatroya kadar her şeyin arasında gezinmeye zorlanıyor; bunun sıradan bir şey olmadığı ortada. [[cite:weber-1910-geschaeftsbericht]] Simmel, 1903’te şehirde “hızlı ve kesintisiz izlenim değişimi”nin sinir yaşamını yoğunlaştırdığını, bunun blazé tutuma yol açtığını yazıyor. [[cite:simmel-1903-grossstaedte]]\n\n*Alıştırma (kendi telefonunda dene; hazır cevap yok):*\n\n1. Bir sabah akışını beş dakika kaydır. Kaç farklı konu geçti? Konular arasındaki geçişleri say.\n2. Weber’in sorusunu sor: bu akış sana “modern insan”ı nasıl biçimlendiriyor? Simmel’in sorusunu sor: bu farklar sende bir şey uyandırıyor mu, yoksa hepsi “gri” mi geliyor?\n3. Kendine dürüst ol: bunu kanıt gibi sunma. Bu, bir öz gözlem; ne Weber ne Simmel akış uygulamalarını yazdı. İkisinin cümlesini bugüne uzatmak bizim yorumumuz.\n4. Bir de karşıt okumayı dene: aynı akış sende merak, yeni bağlantı ya da yakınlık da uyandırmış olabilir mi? Simmel’in şehir okuması da her şeyi olumsuz görmez: özgürlüğü ve kozmopolit bakışı da şehrin getirisi sayar. [[cite:simmel-1903-grossstaedte]]\n\nBu laboratuvar sana medya araştırmasındaki “ölçüm mü, deneme mi, öz gözlem mi?” ayrımını da hatırlatır: 1910’un planı ölçmeyi, 1903’ün denemesi anlamlandırmayı, senin akışın ise yalnızca bir başlangıç noktasını verir.",
+      "question": {
+        "id": "today-feed-lab-q",
+        "type": "mcq",
+        "prompt": "Bu alıştırmada ‘akışımda hep gri hissettim’ sonucuna vardın. Bunu nasıl adlandırmak en doğru olur?",
+        "options": [
+          "Simmel’in bulgusunun kanıtı.",
+          "Kendi gözlemin; Simmel’in bir kentsel deneme olarak yazdığı düşünceyi bugüne uzatan bir okuma; ama bir bulgu değil.",
+          "Weber’in 1910’da kanıtlamaya çalıştığı bir sonuç.",
+          "Kesin bir bilimsel yasa."
+        ],
+        "answer": 1,
+        "explain": "Alıştırma bir öz gözlem: Simmel’in metni bir deneme, Weber’in metni bir araştırma planıdır; ikisi de senin akışın hakkında bir bulgu vermez. ‘Kanıt’, ‘kanıtlamaya çalıştığı sonuç’ ve ‘yasa’ diye adlandırmak, bu ayrımı silerdi."
+      }
+    },
+    {
+      "id": "turkey-gokalp",
+      "section": "turkey",
+      "layer": "core",
+      "kind": "story",
+      "title": "Durkheim’ın İstanbul’daki en ünlü okuru: Ziya Gökalp",
+      "body": "1910’ların başı, Selanik. İttihat ve Terakki’nin gençlerine, adlarını ilk kez duydukları Fransız sosyologları anlatan bir adam var: Durkheim, Fouillée, Tarde, Le Bon. Adı Ziya Gökalp (1876–1924). [[cite:tdv-gokalp-ziya]] [[cite:tma-gokalp]]\n\nSelanik’te Gökalp, bu okulun programında içtimaiyat (sosyoloji) dersinin yer almasını sağladı. 1913’te İstanbul Dârülfünunu’na sosyoloji profesörü olarak atandı; 1915’te ilk sosyoloji enstitüsünün kurulmasına öncülük etti. [[cite:tma-gokalp]]\n\nDurkheim’dan aldığı şey yalnızca isim değildi. TDV İslâm Ansiklopedisi’ne göre Gökalp, araştırmaların “nefsî (subjektif) değil, şey’î (objektif) olması” gerektiğini savunurken Durkheim’ı izliyor ve toplumu, onu oluşturan bireylerden farklı ve bağımsız bir gerçek olarak görüyordu. [[cite:tdv-gokalp-ziya]] Ayrıca nüfus yoğunluğu ve iş bölümüyle mekanik toplumdan organik topluma geçiş fikrini benimsedi; ancak kültürün (*hars*) medeniyet karşısında silinmesi korkusuyla ikisini ayırdı. [[cite:tdv-gokalp-ziya]]\n\nAynı madde, Gökalp’in Durkheim’ı “körü körüne” benimsediğini söylemenin doğru olmayacağını da vurgular. [[cite:tdv-gokalp-ziya]] (“şey’î” sözcüğünün Durkheim’ın *chose*’unu çağrıştırması bizim yorumumuzdur.)\n\nBu kart yalnızca iki ansiklopedi maddesine dayanır; Gökalp’in Durkheim’dan tam olarak ne aldığı ve ne almadığı ayrı bir araştırma konusu.",
+      "question": {
+        "id": "turkey-gokalp-q",
+        "type": "mcq",
+        "prompt": "TDV İslâm Ansiklopedisi’ne göre Ziya Gökalp ile Durkheim ilişkisi için hangisi en doğrudur?",
+        "options": [
+          "Gökalp, Durkheim’ı körü körüne benimsedi.",
+          "Gökalp, Durkheim’dan etkilendi ve yöntemini izledi; ama onu körü körüne benimsediğini söylemek doğru değildir.",
+          "Gökalp, Durkheim’a karşıydı.",
+          "Gökalp yalnızca Weber’i izledi."
+        ],
+        "answer": 1,
+        "explain": "Madde hem Gökalp’in sosyolojisi üzerinde Durkheim etkisini hem de bu etkinin körü körüne bir benimseme olmadığını söyler. Birinci seçenek ikinci yarıyı, üçüncü seçenek ilk yarıyı yok sayar; dördüncü seçenek kaynaklarda yer almaz."
+      }
+    },
+    {
+      "id": "exam-patterns",
+      "section": "exam",
+      "layer": "core",
+      "kind": "text",
+      "title": "Sınavda böyle sorulur",
+      "body": "**Sık çıkan kalıplar**\n\n- “Sosyoloji terimini kim ortaya attı?” → Comte (*Cours*, dördüncü cilt, 1839).\n- “Toplumsal olgular şey gibi ele alınmalıdır” → Durkheim, *Yöntem Kuralları* (1895).\n- “Mekanik–organik dayanışma” → Durkheim, *İş Bölümü* (1893). “Anomi, intihar türleri” → Durkheim, *İntihar* (1897).\n- “İdeal tip, anlama (Verstehen), üç meşru egemenlik türü, rasyonelleşme” → Weber.\n- “Yabancı, büyükşehir ve zihinsel yaşam, blazé, toplumsallaşma biçimleri” → Simmel (1903 ve 1908).\n- “Gemeinschaft–Gesellschaft” → Tönnies (1887). “Wesenwille–Kürwille” de onun.\n- “En uygun olanın hayatta kalması” → Spencer (Darwin değil).\n\n**Cazip yanlışlar**\n\n- “Sosyoloji terimini Durkheim ortaya attı” → hayır, Comte.\n- Durkheim ile Simmel’in doğum yılını karıştırmak: ikisi de 1858, Tönnies 1855, Weber 1864.\n- “Durkheim’ın dört intihar türü ana metinde eşit yer tutar” → dördüncüsü (fatalist) yalnızca bir dipnotta.\n- İdeal tip = en iyi örnek → hayır, bilerek tek yanlı bir kurgu.\n- Gemeinschaft = köy, Gesellschaft = şehir → hayır, ideal tip; ayrım iradenin türü.\n\n**Türkçede kullanılan alternatif adlar**\n\n- *Gemeinschaft–Gesellschaft*: cemaat–cemiyet ya da topluluk–toplum. [[cite:bulut-cemaat-cemiyet-tubitak]]\n- *Sosyoloji*: eski kullanımda “içtimaiyat” ya da “ilm-i içtimâ”. [[cite:tma-gokalp]] [[cite:tdv-gokalp-ziya]]\n- *Ideal type*: ideal tip. [[cite:bulut-cemaat-cemiyet-tubitak]]\n\nSınav tipi kalıplar genel örüntülere göre yazıldı; hangi kaynağı okursan oku, terimi ve yılı yan yana ezberle.",
+      "question": {
+        "id": "exam-patterns-q",
+        "type": "mcq",
+        "prompt": "Sınavda şu soru geliyor: “Toplumsal olguların ‘şey’ gibi ele alınması gerektiğini savunan ve bunu bir yöntem kuralı olarak ilk yayımlayan düşünür ve yıl hangisidir?” Doğru cevap?",
+        "options": [
+          "Comte, 1839",
+          "Durkheim, 1895",
+          "Weber, 1904",
+          "Simmel, 1908"
+        ],
+        "answer": 1,
+        "explain": "Toplumsal olguların şey gibi ele alınması Durkheim’ın *Yöntem Kuralları*’nın (1895) temel kuralıdır. Comte sosyoloji teriminin yaratıcısıdır (1839), Weber ideal tip ve anlama ile anılır, Simmel ise toplumsallaşma biçimleri ve yabancı ile."
+      }
+    },
+    {
+      "id": "summary",
+      "section": "summary",
+      "layer": "core",
+      "kind": "summary",
+      "title": "Özet kartı: yeniden kullanabileceğin harita",
+      "body": "- **Ortak soru:** eski bağlar çözülürken toplumu ne bir arada tutar, birey nerede kalır, şehir kalabalığı insanı nasıl değiştirir? (bizim özetimiz)\n- **Comte (1798–1857):** “sosyoloji” terimini 1839’da bir dipnotta, çekinerek ortaya attı; üç hâl yasası.\n- **Spencer (1820–1903):** “organik” toplum görüşü; “en uygun olanın hayatta kalması” sözü onun.\n- **Durkheim (1858–1917):** toplumsal olgu (şey gibi ele al), mekanik/organik dayanışma, anomi ve intihar türleri (fatalist olanı dipnotta); gazete-taklit sınaması 1897’de.\n- **Weber (1864–1920):** anlama (Verstehen), ideal tip, üç meşru egemenlik türü, rasyonelleşme; 1910’daki basın araştırma planı.\n- **Simmel (1858–1918):** toplumsallaşma biçimleri, yabancı, büyükşehir ve zihinsel yaşam (blazé, mesafe, yalnızlık).\n- **Tönnies (1855–1936):** Gemeinschaft–Gesellschaft (iki irade, ideal tip); 1922’de kamuoyunun eleştirisi.\n- **Marx (1818–1883):** bu derste yalnızca işaret; “egemen fikirler egemen sınıfın fikirleridir”.\n- **Sonraki dersler:** işlevselcilik ve etkileşimcilik, Chicago, kitle toplumu, eleştirel yaklaşımlar.\n- **Uyarılar:** kavramlar çeviriyle biçim değiştirir (şey, otorite/egemenlik, demir kafes); “klasik” kanon sonradan kuruldu; klasikler medyayı sürekli kuramlaştırmadı, dağınık dokunuşları var.",
+      "question": {
+        "id": "summary-q",
+        "type": "tf",
+        "prompt": "Doğru mu yanlış mı: Weber’in ideal tipi, bir olgunun en iyi ve en doğru örneğidir.",
+        "answer": false,
+        "explain": "Yanlış. İdeal tip bilerek tek yanlı vurgulanmış bir çözümleme kurgusudur; gerçeklikte olduğu gibi bulunmaz ve değeri yeterliliğiyle sınanır. ‘Ideal’ sözcüğü ‘en iyi’ değil ‘düşüncede kurulmuş’ anlamına gelir."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "“Sosyoloji” sözcüğünü ortaya atan düşünür ve bu sözcüğün geçtiği eserin yılı hangisidir?",
+      "options": [
+        "Durkheim, *Yöntem Kuralları*, 1895",
+        "Spencer, *Principles of Sociology*, 1876",
+        "Comte, *Cours de philosophie positive*, dördüncü cilt, 1839",
+        "Weber, *Ekonomi ve Toplum*, 1921"
+      ],
+      "answer": 2,
+      "explain": "Sözcük Comte’un *Cours*’unun 1839 tarihli dördüncü cildinde bir dipnotta yeni bir terim olarak sunulur. Durkheim ve Weber Comte’tan sonraki kuşaktandır ve sözcüğü onlar üretmedi; Spencer da onun yaratıcısı değil, ‘en uygun olanın hayatta kalması’ sözünün yaratıcısıdır."
+    },
+    {
+      "id": "q2",
+      "type": "tf",
+      "prompt": "Doğru mu yanlış mı: Durkheim *İntihar*’da intiharın bireyden bireye hiç bulaşmadığını savundu.",
+      "answer": false,
+      "explain": "Yanlış. Durkheim, intiharın bireyden bireye bulaştığından emin olduğunu yazar; ona göre taklit, toplumsal intihar oranını belirleyecek güçte değildir. İki iddiayı ayırmak sınavda da, gazete–intihar tartışmasında da anahtardır."
+    },
+    {
+      "id": "q3",
+      "type": "match",
+      "prompt": "Her düşünürü, onunla en çok anılan kavramla eşleştir.",
+      "pairs": [
+        [
+          "Comte",
+          "Üç hâl yasası"
+        ],
+        [
+          "Durkheim",
+          "Toplumsal olgu ve anomi"
+        ],
+        [
+          "Weber",
+          "İdeal tip ve anlama (Verstehen)"
+        ],
+        [
+          "Simmel",
+          "Yabancı ve blazé tutum"
+        ],
+        [
+          "Tönnies",
+          "Wesenwille ve Kürwille"
+        ]
+      ],
+      "explain": "En sık karışan çift Durkheim–Weber: ikisi de ‘otorite/meşruluk’ ve ‘toplumsal düzen’ üzerine yazdı, ama anomi ve toplumsal olgu Durkheim’ın, ideal tip ve anlama Weber’in kavramlarıdır. Wesenwille–Kürwille ise Tönnies’in iki irade türüdür; Simmel’in yabancısı ve blazé tutumu büyükşehir yazılarından gelir."
+    },
+    {
+      "id": "q4",
+      "type": "order",
+      "prompt": "Aşağıdaki olayları kronolojik sıraya diz (eskiden yeniye).",
+      "items": [
+        "Comte: “sociologie” sözcüğünün geçtiği dördüncü cilt (1839)",
+        "Tönnies: *Gemeinschaft und Gesellschaft* (1887)",
+        "Durkheim: *İntihar* (1897)",
+        "Simmel: “Büyükşehir ve Zihinsel Yaşam” (1903)",
+        "Weber: Alman Sosyoloji Derneği’nde basın araştırması önerisi (1910)",
+        "Shils ve Young: taç giyme töreninin anlamı (1953)"
+      ],
+      "explain": "Sıra 1839, 1887, 1897, 1903, 1910, 1953. Tönnies’in Durkheim’dan ve Simmel’den önce geldiğini (1887) hatırlamak yararlı: bu kuşağın en yaşlısı odur. Weber’in basın önerisi ise Simmel’in büyükşehir denemesinden yedi yıl sonradır."
+    },
+    {
+      "id": "q5",
+      "type": "cloze",
+      "prompt": "Boşlukları doldur.",
+      "text": "Durkheim’a göre zayıf bütünleşmeden {{1}} intihar, zayıf düzenlemeden {{2}} intihar doğar; dördüncü tür olan {{3}} intihar ise ana metinde yer almaz, yalnızca bir dipnotta anılır.",
+      "blanks": [
+        {
+          "options": [
+            "özgeci",
+            "bencil",
+            "anomik"
+          ],
+          "answer": 1
+        },
+        {
+          "options": [
+            "bencil",
+            "özgeci",
+            "anomik"
+          ],
+          "answer": 2
+        },
+        {
+          "options": [
+            "özgeci",
+            "fatalist",
+            "bencil"
+          ],
+          "answer": 1
+        }
+      ],
+      "explain": "Bencil (egoist) intihar zayıf bütünleşmeden, anomik intihar zayıf düzenlemeden doğar; fatalist intihar ise aşırı düzenlemeden doğar ve *İntihar*’da yalnızca dipnotta geçer. Özgeci intihar ana üç türden biridir ama zayıf bütünleşmeyle değil aşırı gömülmüşlükle ilgilidir."
+    },
+    {
+      "id": "q6",
+      "type": "case",
+      "scenario": "Hayal et: Bir kamu yayıncısı ulusal bir yas gününde bütün gün canlı yayın yapıyor; sokaklar ıssız, insanlar evlerinde birlikte izliyor. İki araştırmacı bu yayını ayrı ayrı yorumluyor.",
+      "parts": [
+        {
+          "id": "q6a",
+          "prompt": "Birinci araştırmacı “Yayın ortak bir değeri yeniden onaylıyor ve toplumu bütünleştiriyor” diyor. Bu okuma hangi klasik damara en yakındır?",
+          "options": [
+            "Durkheim’ın ritüel ve bütünleşme okuması",
+            "Weber’in anlama (Verstehen) kavramı",
+            "Simmel’in yabancı figürü"
+          ],
+          "answer": 0,
+          "explain": "Ortak değerlerin yeniden onaylanması ve toplumsal bütünleşme Durkheim çizgisinin (ve Shils–Young’un 1953 okumasının) temel fikridir. Weber’in anlaması bireysel eylemin anlamını, Simmel’in yabancısı yakınlık-uzaklık figürünü işler; bütünleşme onların ana sorusu değil."
+        },
+        {
+          "id": "q6b",
+          "prompt": "İkinci araştırmacı “Bütünleşme fazla yalın bir kavram; yayının kimleri dışarıda bıraktığına ve hangi çıkarı öne çıkardığına bakmak gerek” diyor. Bu itiraz en çok kime yakın?",
+          "options": [
+            "Comte’un üç hâl yasasına",
+            "Birnbaum (1955) ve Lukes (1975) türü eleştirilere",
+            "Tönnies’in Wesenwille kavramına"
+          ],
+          "answer": 1,
+          "explain": "Birnbaum, farklılaşmanın ve gerilimin olağan olduğunu; Lukes ise neo-Durkheimci okumaların bütünleşmeyi fazla yalın kullandığını savundu. Comte’un üç hâl yasası ve Tönnies’in Wesenwille’i bu tartışmanın parçası değil."
+        },
+        {
+          "id": "q6c",
+          "prompt": "İki iddiayı da sınamak için en makul ilk adım hangisidir?",
+          "options": [
+            "Yalnızca izlenme sayısına bakmak",
+            "Araştırmacılardan hangisinin daha ünlü olduğuna bakmak",
+            "Yayının hangi olayları nasıl anlattığını ve izleyicilerin ona hangi anlamı yüklediğini birlikte kaydetmek"
+          ],
+          "answer": 2,
+          "explain": "Weber’in 1910 planı önce içeriğin nicel ölçümünü, sonra nitel çözümlemeyi öneriyordu; ‘anlama’ ise izleyicinin yüklediği anlamı da hesaba katmayı gerektirir. Yalnızca izlenme sayısı bütünleşmeyi de yanlılığı da göstermez; ünlülük ise kanıt değildir."
+        }
+      ],
+      "takeaway": "Aynı yayın hem bütünleşme hem çıkar/güç okumasına açıktır; ikisini içerik ve izleyici verisiyle birlikte sınamak gerekir."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "Weber’in *Herrschaft* sözcüğü için 1947 tarihli Henderson–Parsons çevirisindeki dipnot ne söyler?",
+      "options": [
+        "Sözcük her zaman ‘sovereignty’ diye çevrilmelidir.",
+        "Sözcüğün İngilizcede tatmin edici bir karşılığı yoktur; genel kullanımda ‘imperative control’, meşru olduğu yerlerde ‘authority’ uygundur.",
+        "Sözcük yalnızca ‘power’ demektir.",
+        "Sözcük çevrilemez, hiçbir zaman İngilizceye aktarılmamalıdır."
+      ],
+      "answer": 1,
+      "explain": "Dipnot, sözcüğün tatmin edici bir İngilizce karşılığı olmadığını, genel kullanım için ‘imperative control’ terimini ödünç aldıklarını ve meşru *Herrschaft* için ‘authority’nin hem doğru hem daha az kaba olduğunu söyler. ‘Power’ ise *Macht* için ayrılmıştır, *Herrschaft* için değil."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Aşağıdakilerden hangisi Weber’in üç meşru egemenlik (otorite) türünden biri DEĞİLDİR?",
+      "options": [
+        "Geleneksel",
+        "Karizmatik",
+        "Yasal-rasyonel",
+        "Mekanik"
+      ],
+      "answer": 3,
+      "explain": "Weber’in üçlüsü geleneksel, karizmatik ve yasal-rasyonel türlerdir. ‘Mekanik’ ise Durkheim’ın mekanik dayanışma kavramından gelir; sınavda iki isim ve iki üçlü sık karıştırılır."
+    },
+    {
+      "id": "q9",
+      "type": "case",
+      "scenario": "Hayal et: Arda büyük bir şehre yeni taşındı. Sabahları yüzlerce yüz görüyor ama kimseyle konuşmuyor. Bir gece anonim bir forumda, yabancılara, kimseye söylemediği bir şeyi yazıyor.",
+      "parts": [
+        {
+          "id": "q9a",
+          "prompt": "Simmel’in 1903 denemesine göre şehirlinin kalabalık karşısındaki tutumunu en iyi hangi kavram anlatır?",
+          "options": [
+            "Mekanik dayanışma",
+            "Karizmatik egemenlik",
+            "Mesafeli tutum (Reserviertheit)"
+          ],
+          "answer": 2,
+          "explain": "Simmel, şehirlinin çok sayıda insana içsel tepki vermeye kalkarsa ruhsal olarak parçalanacağını, bu yüzden mesafeli bir tutum geliştirdiğini yazar. Mekanik dayanışma ve karizmatik egemenlik başka düşünürlerin kavramları."
+        },
+        {
+          "id": "q9b",
+          "prompt": "Arda’nın anonim itirafını, Simmel’in 1908 tarihli ‘yabancı’ figürüyle nasıl ilişkilendirebiliriz?",
+          "options": [
+            "Simmel çevrimiçi forumlarda itirafın arttığını ölçtü.",
+            "Simmel yabancıya asla itiraf edilmediğini söyledi.",
+            "Simmel yabancıya, özellikle yoldan geçene, yakınlara söylenmeyen itiraflar yapıldığını yazar; bu okuma çevrimiçi ortama uzanan bir yorumdur."
+          ],
+          "answer": 2,
+          "explain": "Simmel’in metninde yabancıya (özellikle yoldan geçene) yakınlara söylenmeyen açıklıkların gösterildiği yazılıdır; çevrimiçi ortam Simmel’in zamanında yoktu, bu yüzden bağ bir yorumdur."
+        },
+        {
+          "id": "q9c",
+          "prompt": "Bu ilişkilendirmenin statüsü nedir?",
+          "options": [
+            "Simmel’in belgelenmiş bir bulgusu",
+            "Bir yorum; Simmel’in bulgusu değil",
+            "Tönnies’in bir yasası"
+          ],
+          "answer": 1,
+          "explain": "Simmel ne çevrimiçi ortamı ne de forumları yazdı; bu okuma bizim yorumumuzdur. ‘Yasa’ ise bu derste hiçbir yerde geçmez; Tönnies’in ideal tipleri de yasa değildir."
+        }
+      ],
+      "takeaway": "Klasik bir kavramı bugünkü bir duruma uzatmak yararlıdır, ama bunun bir yorum olduğunu söylemek gerekir."
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "Phillips’in (1974) makale özetine göre aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "Haberlerin intiharlar üzerinde hiçbir etkisi bulunmadı.",
+        "Artış ülkenin her yerinde eşit görüldü, haberin yayımlandığı bölgeyle ilgisizdi.",
+        "Britanya ve ABD’de 1947–1968 arasında, gazetelerde yayımlanan intihar haberlerinden hemen sonra intiharlar arttı; habere daha çok yer verildikçe artış büyüdü.",
+        "Çalışma Durkheim’ın 1897 tarihli verisini yeniden hesapladı."
+      ],
+      "answer": 2,
+      "explain": "Özet, haberden hemen sonra artışı, daha çok yer verilen haberden sonra daha büyük artışı ve artışın esas olarak haberin yayımlandığı bölgeyle sınırlı kalmasını bildirir. Birinci ve ikinci seçenek bunun tersini söyler; dördüncü seçenek Phillips’in verisini Durkheim’ınkiyle karıştırır."
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "Durkheim’ın “toplumsal olguları şey gibi ele al” kuralının doğru yorumu hangisidir?",
+      "options": [
+        "İnsanları eşya gibi kullanmak.",
+        "Toplumsal olguları, kişisel kanaatlerden bağımsız olarak gözleme verilmiş veri olarak ele almak.",
+        "Toplumsal olguların fiziksel nesneler olduğunu savunmak.",
+        "Bireyin iç dünyasını yok saymak."
+      ],
+      "answer": 1,
+      "explain": "Durkheim’ın metni ‘şey’i gözleme verilmiş ve kendini dayatan her şey olarak tanımlar ve olguları şey gibi ele almayı onları bilimin başlangıç verisi olarak ele almakla eşitler. Birinci ve üçüncü seçenek adı ‘şey’ olan bir kavramı lafzen okuyor; dördüncü seçenek de Durkheim’ın bireyi yok saydığı klişesine dayanır."
+    },
+    {
+      "id": "q12",
+      "type": "tf",
+      "prompt": "Doğru mu yanlış mı: Weber’in 1910’da önerdiği basın araştırması tamamlandı ve Alman Sosyoloji Derneği’nin ilk büyük yayını oldu.",
+      "answer": false,
+      "explain": "Yanlış. Weber 1912’de girişimin “çok özel bir talihsizlik”e uğradığını söyledi; Lepsius’a göre projeyi 1911’de bıraktı. Plan, bu yüzden, gerçekleşmemiş bir araştırma programı olarak tarihe geçti."
+    }
+  ]
+}

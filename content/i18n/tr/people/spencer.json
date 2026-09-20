@@ -1,0 +1,16 @@
+{
+  "id": "spencer",
+  "lang": "tr",
+  "name": "Herbert Spencer",
+  "nativeName": "",
+  "slug": "herbert-spencer",
+  "short": "İngiliz filozof ve sosyolog (1820–1903); toplumu “organik” bir bütün olarak gören ve “en uygun olanın hayatta kalması” sözünü ortaya atan Viktorya dönemi düşünürü.",
+  "born": "Derby",
+  "roles": [
+    "filozof",
+    "sosyolog"
+  ],
+  "bio": "Herbert Spencer 27 Nisan 1820’de Derby’de doğdu ve 8 Aralık 1903’te öldü. Eğitimi büyük ölçüde resmî okullardan çok kendi çabasıyla şekillendi; babası bir öğretmendi. Viktorya döneminin en tanınmış düşünürlerinden biriydi ve itibarı bir dönem Darwin’inkiyle yarışıyordu.\n\nEvrim fikrini felsefeye, psikolojiye ve toplum incelemesine uygulayan “sentetik felsefe”yi kurdu: *First Principles* (1862), *Principles of Biology* (1864–67) ve *Principles of Sociology* (1876–96) bu dizinin parçalarıdır. Spencer toplumu “organik” bir bütün olarak düşündü; ama ona göre parçalar birbirine bağımlıydı, bütüne tâbi değildi. Toplumsal evrimi askerî ve sanayi toplumları gibi türler üzerinden anlattı.\n\n“En uygun olanın hayatta kalması” ifadesini Darwin değil Spencer ortaya attı. Yine de SEP’in yazarı, ona “kaba bir toplumsal Darwinci” demenin yanlış olduğunu savunur. Durkheim, Spencer’ın organik benzetmesinden ve işlevselci çözümlemesinden etkilendi; ama toplumun bireylerin bir araya gelmesiyle başladığını söyleyen yararcı görüşe karşı çıktı.",
+  "works": [],
+  "inCourse": "[[lesson:social-thought-roots]] dersinde “toplum bir organizma mıdır?” sorusunun bir ucunda durur."
+}

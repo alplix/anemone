@@ -1,0 +1,26 @@
+{
+  "id": "simmel",
+  "lang": "tr",
+  "name": "Georg Simmel",
+  "nativeName": "",
+  "slug": "georg-simmel",
+  "short": "Alman filozof ve sosyolog (1858–1918); toplumsallaşma biçimleri, yabancı ve büyükşehir denemesiyle anılır; Chicago geleneğini etkiledi.",
+  "born": "Berlin",
+  "died": "Strasbourg",
+  "roles": [
+    "filozof",
+    "sosyolog"
+  ],
+  "bio": "Georg Simmel 1858’de Berlin’de doğdu; hayatının büyük bölümünü bu şehirde geçirdi. Babası Hıristiyanlığa geçmiş Yahudi bir tüccardı, annesi Lutheran’dı; kendisi Lutheran olarak vaftiz edildi. Sosyolojiyle uğraştığı dönem yalnızca on yıl kadar sürdü; en erken ve en geç yazıları felsefe üzerineydi. Sanata büyük ilgi duydu; Rodin’i hayranlıkla izledi ve genç Rilke’yi evinde ağırladı.\n\nAkademik kariyeri uzun süre engellendi: titular profesör olması on beş yıl sürdü ve tam profesörlük ancak 1914’te, elli altı yaşında Strassburg Üniversitesi’nden geldi; 1918 sonbaharında orada kanserden öldü. Bibliyografyası 31 kitap, 256 makale ve yaklaşık yüz çeviriyle kayda geçmiştir.\n\nSimmel sosyolojinin konusunu etkileşimler ve etkileşim biçimleri olarak tanımladı; toplumu bir organizma ya da töz değil, bireyler arasındaki karşılıklı etkileşimlerin toplamı olarak gördü. *Soziologie* (1908) bu yaklaşımın ana eseridir; kitaptaki “yabancı” üzerine ek bölüm çok anılır. 1903’te yayımladığı “Büyükşehir ve Zihinsel Yaşam” denemesi kent yaşamının ruhsal etkilerini işler. Weber ve öbürleriyle birlikte Alman Sosyoloji Derneği’nin kuruluşunda yer aldı; Amerika’da önce Albion Small’ın çevirileri, sonra Park ve Burgess’in 1921 tarihli ders kitabı aracılığıyla tanındı.",
+  "works": [
+    {
+      "bib": "simmel-1903-grossstaedte",
+      "note": "Büyükşehir, sinir yaşamı, blazé tutum ve mesafe."
+    },
+    {
+      "bib": "simmel-1908-soziologie",
+      "note": "Toplumsallaşma biçimleri; “yabancı” üzerine ek."
+    }
+  ],
+  "inCourse": "[[lesson:social-thought-roots]] dersinde iki yüzyıl özeti, yabancı, büyükşehir ve organizma tartışması kartlarında geçer; Chicago geleneği için ilerideki derslere köprü kurar."
+}
