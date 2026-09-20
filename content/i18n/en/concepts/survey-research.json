@@ -1,0 +1,16 @@
+{
+  "id": "survey-research",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "survey research",
+  "altTerms": [
+    "survey",
+    "anket araştırması"
+  ],
+  "slug": "survey-research",
+  "short": "A family of methods that puts the same questions to a sample drawn from a population and measures the distribution of opinions, attitudes and reported behaviour; cross-sectional or panel.",
+  "body": "Survey research puts standardised questions to a sample drawn from a population and measures the distribution of opinions, attitudes and reported behaviour. Its strength is reach: it can answer “how many, in which groups?”. Its weaknesses: it cannot settle causes; its results depend on how the sample was drawn, on the response rate and on question wording; and self-reports can be distorted.\n\nA **cross-sectional** survey is a snapshot; a **panel** survey returns to the same people and follows change (Erie County, 1940). The 1936 Literary Digest failure showed that even a huge sample is useless when it comes from the wrong part of the population, and Rugg’s 1941 experiment showed that question wording moves answers. In communication research, surveys are the main tool for measuring media use, attitudes and perceptions; but measuring media exposure by self-report is itself problematic. See [[concept:sampling]], [[concept:validity]].",
+  "example": "Drawing 1,000 students at random from a university’s student list and asking where they get their news."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "reliability",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "reliability",
+  "altTerms": [
+    "intercoder reliability"
+  ],
+  "slug": "reliability",
+  "short": "The degree to which a measurement gives the same result when repeated under the same conditions; consistency. Being consistent is not the same as being right.",
+  "body": "Reliability is the consistency of a measurement: giving the same result when measured again under the same conditions. Turkish sources describe it as an indicator of the stability of measured values. Reliability is a precondition of validity but not a guarantee of it: a measurement that gives the same wrong number every time is consistent but not correct.\n\nIn content analysis the most important kind is **intercoder reliability**: two or more coders code the same content independently and their agreement is computed. Percent agreement also counts agreement by chance; Hayes and Krippendorff proposed Krippendorff’s alpha, which works for any number of coders and level of measurement, as the standard. Lombard and colleagues found that published content analyses often did not assess or report reliability. See [[concept:validity]].",
+  "example": "Two coders classifying the same 100 news items separately and computing their agreement."
+}

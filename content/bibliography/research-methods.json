@@ -1,0 +1,943 @@
+{
+  "lohr-brick-2017-literary-digest": {
+    "type": "article",
+    "authors": [
+      "Lohr, Sharon L.",
+      "Brick, J. Michael"
+    ],
+    "year": 2017,
+    "title": "Roosevelt predicted to win: Revisiting the 1936 Literary Digest poll",
+    "container": "Statistics, Politics and Policy",
+    "volume": "8",
+    "issue": "1",
+    "pages": "65-84",
+    "doi": "10.1515/spp-2016-0006",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record matched. Full text read (PDF copy): about 10 million ballots sent, almost 2.4 million returned (24 percent response rate); final Literary Digest forecast Landon 54 percent and 370 electoral votes; Roosevelt won more than 60 percent and 523 electoral votes; the frame came mainly from telephone directories and automobile registration lists; Gallup (1938) blamed the frame, Bryson (1976) and Squire (1988) stressed nonresponse. Secondary literature often gives 57 percent for Landon; the lesson uses the figure from this article."
+    }
+  },
+  "squire-1988-literary-digest": {
+    "type": "article",
+    "authors": [
+      "Squire, Peverill"
+    ],
+    "year": 1988,
+    "title": "Why the 1936 Literary Digest poll failed",
+    "container": "Public Opinion Quarterly",
+    "volume": "52",
+    "issue": "1",
+    "pages": "125-133",
+    "doi": "10.1086/269085",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract",
+        "second-source"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched (uses a 1937 Gallup survey that asked about participation in the Digest poll; sample and response were both biased; had everybody responded the magazine would still have named Roosevelt). Page range 125-133 as given in the reference list of Lohr & Brick 2017, which also summarises Squire's argument. Full text not read."
+    }
+  },
+  "rugg-1941-wording": {
+    "type": "article",
+    "authors": [
+      "Rugg, Donald"
+    ],
+    "year": 1941,
+    "title": "Experiments in wording questions: II",
+    "container": "Public Opinion Quarterly",
+    "volume": "5",
+    "issue": "1",
+    "pages": "91-92",
+    "doi": "10.1086/265467",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "second-source"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record matched (start page 91 only; end page 92 as commonly cited, not independently confirmed - the lesson does not cite pages). The article itself was not opened (paywalled). Its allow/forbid result (21 percent vs 39 percent favouring free speech; equivalently 75 vs 54 percent among those with an opinion) is taken from Bradburn 2000 (a conference paper, read in full) and Frankovic 2007 (CBS News); the two sources are consistent with each other."
+    }
+  },
+  "bradburn-2000-questionnaire-design": {
+    "type": "web",
+    "authors": [
+      "Bradburn, Norman M."
+    ],
+    "year": 2000,
+    "title": "Questionnaire design: From art into science (paper delivered at the Fifth International Conference on Social Science Methodology, Cologne, 3 October 2000)",
+    "publisher": "National Opinion Research Center (NORC), University of Chicago (PDF hosted by NORC)",
+    "url": "https://www.norc.org/content/dam/norc-org/pdfs/BradburnN_Ques_Design_2000.pdf",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "PDF read in full text. The author is listed as Norman M. Bradburn, National Science Foundation, in the paper's header. Used only for the Rugg (1941) allow/forbid result (21% vs 39%)."
+    }
+  },
+  "frankovic-2007-forbid-allow": {
+    "type": "web",
+    "authors": [
+      "Frankovic, Kathleen"
+    ],
+    "year": 2007,
+    "title": "Forbid or allow?",
+    "publisher": "CBS News",
+    "url": "https://www.cbsnews.com/news/forbid-or-allow/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read via fetch tool: author Kathleen Frankovic (CBS News director of surveys), dated 3 October 2007; gives 75 percent would not allow vs 54 percent would forbid speeches against democracy (Rugg 1941), consistent with Bradburn 2000 once undecided respondents are set aside."
+    }
+  },
+  "gerber-karlan-bergan-2009": {
+    "type": "article",
+    "authors": [
+      "Gerber, Alan S.",
+      "Karlan, Dean",
+      "Bergan, Daniel"
+    ],
+    "year": 2009,
+    "title": "Does the media matter? A field experiment measuring the effect of newspapers on voting behavior and political opinions",
+    "container": "American Economic Journal: Applied Economics",
+    "volume": "1",
+    "issue": "2",
+    "pages": "35-52",
+    "doi": "10.1257/app.1.2.35",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "publisher-page",
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and AEA abstract matched; full text read (PDF copy): Prince William County, Virginia; 3,347 households that said they took neither paper, randomly assigned to a free ten-week subscription to the Washington Post, to the Washington Times, or to a control group; baseline survey in September 2005, follow-up survey after the November 2005 gubernatorial election (1,081 re-interviewed), plus administrative voter records; the paper calls the Times conservative and the Post more liberal. The J-PAL evaluation summary describes the same design."
+    }
+  },
+  "prior-2009-inflated-news-audience": {
+    "type": "article",
+    "authors": [
+      "Prior, Markus"
+    ],
+    "year": 2009,
+    "title": "The immensely inflated news audience: Assessing bias in self-reported news exposure",
+    "container": "Public Opinion Quarterly",
+    "volume": "73",
+    "issue": "1",
+    "pages": "130-143",
+    "doi": "10.1093/poq/nfp002",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched (survey estimates of network news exposure exaggerate Nielsen-based exposure by a factor of 3 on average and as much as eightfold for some demographics). Full text not read."
+    }
+  },
+  "parry-et-al-2021-logged-self-report": {
+    "type": "article",
+    "authors": [
+      "Parry, Douglas A.",
+      "Davidson, Brittany I.",
+      "Sewall, Craig J. R.",
+      "Fisher, Jacob T.",
+      "Mieczkowski, Hannah",
+      "Quintana, Daniel S."
+    ],
+    "year": 2021,
+    "title": "A systematic review and meta-analysis of discrepancies between logged and self-reported digital media use",
+    "container": "Nature Human Behaviour",
+    "volume": "5",
+    "issue": "11",
+    "pages": "1535-1547",
+    "doi": "10.1038/s41562-021-01117-5",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "source-itself",
+        "second-source"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record matched; full text read (open PDF copy): 106 effect sizes, summary correlation r = 0.38 (95% CI 0.33-0.42); of 49 comparisons of mean self-reported vs logged use only three (6.12%) were accurate. The same figures were returned by a search summary of the Nature abstract."
+    }
+  },
+  "scharkow-2016-self-reported-internet-use": {
+    "type": "article",
+    "authors": [
+      "Scharkow, Michael"
+    ],
+    "year": 2016,
+    "title": "The accuracy of self-reported Internet use: A validation study using client log data",
+    "container": "Communication Methods and Measures",
+    "volume": "10",
+    "issue": "1",
+    "pages": "13-27",
+    "doi": "10.1080/19312458.2015.1118446",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched (self-reports of internet use only moderately correlated with client log files; systematic overreporting). Full text not read."
+    }
+  },
+  "scharkow-bachl-2017-measurement-error": {
+    "type": "article",
+    "authors": [
+      "Scharkow, Michael",
+      "Bachl, Marko"
+    ],
+    "year": 2017,
+    "title": "How measurement error in content analysis and self-reported media use leads to minimal media effect findings in linkage analyses: A simulation study",
+    "container": "Political Communication",
+    "volume": "34",
+    "issue": "3",
+    "pages": "323-343",
+    "doi": "10.1080/10584609.2016.1235640",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched (Monte Carlo simulation: measurement error in content analysis and in self-reported exposure biases effect estimates downward). Crossref: published online 31 October 2016, in print July 2017 (vol. 34, issue 3); the entry uses the print year. Full text not read."
+    }
+  },
+  "osc-2015-reproducibility": {
+    "type": "article",
+    "authors": [
+      "Open Science Collaboration"
+    ],
+    "year": 2015,
+    "title": "Estimating the reproducibility of psychological science",
+    "container": "Science",
+    "volume": "349",
+    "issue": "6251",
+    "pages": "aac4716",
+    "doi": "10.1126/science.aac4716",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched (100 experimental and correlational studies from three psychology journals; replication effects half the size of the originals; 97% of originals significant vs 36% of replications; 47% of original effect sizes inside the replication's 95% CI; 39% subjectively rated as replicated). Full text not read."
+    }
+  },
+  "simmons-nelson-simonsohn-2011": {
+    "type": "article",
+    "authors": [
+      "Simmons, Joseph P.",
+      "Nelson, Leif D.",
+      "Simonsohn, Uri"
+    ],
+    "year": 2011,
+    "title": "False-positive psychology: Undisclosed flexibility in data collection and analysis allows presenting anything as significant",
+    "container": "Psychological Science",
+    "volume": "22",
+    "issue": "11",
+    "pages": "1359-1366",
+    "doi": "10.1177/0956797611417632",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record matched (Crossref title is the short form 'False-Positive Psychology'; the full subtitle is on the article itself). Full text read (SSRN-format PDF copy): Study 2 - 20 University of Pennsylvania undergraduates, 'When I'm Sixty-Four' vs 'Kalimba', adjusted means 20.1 vs 21.5 years, F(1, 17) = 4.92, p = .040; simulations: combining four researcher degrees of freedom gives a 60.7% false-positive rate at p < .05 ('61%' in the text)."
+    }
+  },
+  "john-loewenstein-prelec-2012": {
+    "type": "article",
+    "authors": [
+      "John, Leslie K.",
+      "Loewenstein, George",
+      "Prelec, Drazen"
+    ],
+    "year": 2012,
+    "title": "Measuring the prevalence of questionable research practices with incentives for truth telling",
+    "container": "Psychological Science",
+    "volume": "23",
+    "issue": "5",
+    "pages": "524-532",
+    "doi": "10.1177/0956797611430953",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched (over 2,000 psychologists surveyed; the share who admitted questionable practices was 'surprisingly high'; some practices 'may constitute the prevailing research norm'). Individual percentages are in the article body and are NOT used."
+    }
+  },
+  "matthes-et-al-2015-qrp-communication": {
+    "type": "article",
+    "authors": [
+      "Matthes, Jörg",
+      "Marquart, Franziska",
+      "Naderer, Brigitte",
+      "Arendt, Florian",
+      "Schmuck, Desirée",
+      "Adam, Karoline"
+    ],
+    "year": 2015,
+    "title": "Questionable research practices in experimental communication research: A systematic analysis from 1980 to 2013",
+    "container": "Communication Methods and Measures",
+    "volume": "9",
+    "issue": "4",
+    "pages": "193-207",
+    "doi": "10.1080/19312458.2015.1096334",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched (content analysis of experimental research in Journal of Communication, Communication Research, Journalism & Mass Communication Quarterly and Media Psychology; small and insufficiently justified samples, missing effect sizes, indiscriminate removal of cases, inflation of p-values just below .05, growing share of verified hypotheses). Full text not read."
+    }
+  },
+  "nosek-et-al-2018-preregistration": {
+    "type": "article",
+    "authors": [
+      "Nosek, Brian A.",
+      "Ebersole, Charles R.",
+      "DeHaven, Alexander C.",
+      "Mellor, David T."
+    ],
+    "year": 2018,
+    "title": "The preregistration revolution",
+    "container": "Proceedings of the National Academy of Sciences",
+    "volume": "115",
+    "issue": "11",
+    "pages": "2600-2606",
+    "doi": "10.1073/pnas.1708274114",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched (defining questions and analysis plan before seeing outcomes separates prediction from postdiction). Full text not read."
+    }
+  },
+  "glass-1976-meta-analysis": {
+    "type": "article",
+    "authors": [
+      "Glass, Gene V."
+    ],
+    "year": 1976,
+    "title": "Primary, secondary, and meta-analysis of research",
+    "container": "Educational Researcher",
+    "volume": "5",
+    "issue": "10",
+    "pages": "3-8",
+    "doi": "10.3102/0013189x005010003",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "second-source"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record matched (issue 10, pp. 3-8). The article itself was not opened. The James Lind Library entry 'Glass GV (1976)' says Glass introduced the term meta-analysis in his 1976 AERA presidential address to denote the statistical synthesis of the results of similar studies; a search summary of further sources agrees (AERA meeting, San Francisco, April 1976; not used in the lesson)."
+    }
+  },
+  "rosenthal-1979-file-drawer": {
+    "type": "article",
+    "authors": [
+      "Rosenthal, Robert"
+    ],
+    "year": 1979,
+    "title": "The file drawer problem and tolerance for null results",
+    "container": "Psychological Bulletin",
+    "volume": "86",
+    "issue": "3",
+    "pages": "638-641",
+    "doi": "10.1037/0033-2909.86.3.638",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record matched; abstract read via OpenAlex (journals may be filled with the studies that show Type I errors while the non-significant ones stay in file drawers; procedures for estimating the tolerance for null results)."
+    }
+  },
+  "lombard-et-al-2002-intercoder-reliability": {
+    "type": "article",
+    "authors": [
+      "Lombard, Matthew",
+      "Snyder-Duch, Jennifer",
+      "Bracken, Cheryl Campanella"
+    ],
+    "year": 2002,
+    "title": "Content analysis in mass communication: Assessment and reporting of intercoder reliability",
+    "container": "Human Communication Research",
+    "volume": "28",
+    "issue": "4",
+    "pages": "587-604",
+    "doi": "10.1111/j.1468-2958.2002.tb00826.x",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched (content analysis of 200 content analyses published in the communication literature 1994-1998: researchers often fail to assess or report intercoder reliability and often rely on percent agreement, 'an overly liberal index'). Full text not read."
+    }
+  },
+  "hayes-krippendorff-2007-alpha": {
+    "type": "article",
+    "authors": [
+      "Hayes, Andrew F.",
+      "Krippendorff, Klaus"
+    ],
+    "year": 2007,
+    "title": "Answering the call for a standard reliability measure for coding data",
+    "container": "Communication Methods and Measures",
+    "volume": "1",
+    "issue": "1",
+    "pages": "77-89",
+    "doi": "10.1080/19312450709336664",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched (proposes Krippendorff's alpha as the standard reliability measure for coding data; works for any number of observers, levels of measurement, sample sizes and missing data). Full text not read."
+    }
+  },
+  "berelson-1952-content-analysis": {
+    "type": "book",
+    "authors": [
+      "Berelson, Bernard"
+    ],
+    "year": 1952,
+    "title": "Content analysis in communication research",
+    "publisher": "Free Press",
+    "place": "Glencoe, Ill.",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "second-source"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library lists the 1952 Free Press edition; a review (Albig, Annals of the AAPSS 1952) confirms Free Press, Glencoe, Ill., 1952, 220 pp. Berelson's definition (content analysis as a technique for objective, systematic and quantitative description of the manifest content of communication) is quoted with page 18 in the Illinois open textbook 'Reading Social Science Methods' and in a research-methods handbook summary; the book itself was not opened (borrow-only copy)."
+    }
+  },
+  "merton-kendall-1946-focused-interview": {
+    "type": "article",
+    "authors": [
+      "Merton, Robert K.",
+      "Kendall, Patricia L."
+    ],
+    "year": 1946,
+    "title": "The focused interview",
+    "container": "American Journal of Sociology",
+    "volume": "51",
+    "issue": "6",
+    "pages": "541-557",
+    "doi": "10.1086/219886",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract",
+        "second-source"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched (the focused interview determines the responses of persons exposed to a situation previously analysed by the investigator; four functions). Also listed as the wartime source of focused interviewing in Lee 2010. Full text not read."
+    }
+  },
+  "lee-2010-focus-groups": {
+    "type": "article",
+    "authors": [
+      "Lee, Raymond M."
+    ],
+    "year": 2010,
+    "title": "The secret life of focus groups: Robert Merton and the diffusion of a research method",
+    "container": "The American Sociologist",
+    "volume": "41",
+    "issue": "2",
+    "pages": "115-141",
+    "doi": "10.1007/s12108-010-9090-1",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record matched; full text read (open PDF copy): focus groups became popular in social research in the 1980s; Merton pointed to continuities and discontinuities with the wartime 'focused interviewing' developed at the Bureau of Applied Social Research; Merton is quoted as saying 'We never used the term focus group'; the method then diffused through marketing research."
+    }
+  },
+  "lincoln-guba-1985-naturalistic-inquiry": {
+    "type": "book",
+    "authors": [
+      "Lincoln, Yvonna S.",
+      "Guba, Egon G."
+    ],
+    "year": 1985,
+    "title": "Naturalistic inquiry",
+    "publisher": "Sage Publications",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "second-source"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library lists the 1985 Sage edition. The book itself was not opened; the trustworthiness criteria it introduced are described, with a reference to Lincoln and Guba 1985 p. 301, in their own 1988 conference paper (lincoln-guba-1988-criteria), which was read."
+    }
+  },
+  "lincoln-guba-1988-criteria": {
+    "type": "report",
+    "authors": [
+      "Lincoln, Yvonna S.",
+      "Guba, Egon G."
+    ],
+    "year": 1988,
+    "title": "Criteria for assessing naturalistic inquiries as reports (paper presented at the annual meeting of the American Educational Research Association, New Orleans, 5-9 April 1988)",
+    "publisher": "ERIC document ED297007",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "ERIC full-text PDF read: credibility, transferability, dependability and confirmability are named as the naturalist's equivalents of internal validity, external validity, reliability and objectivity, with a reference to Lincoln and Guba 1985, p. 301."
+    }
+  },
+  "henrich-heine-norenzayan-2010": {
+    "type": "article",
+    "authors": [
+      "Henrich, Joseph",
+      "Heine, Steven J.",
+      "Norenzayan, Ara"
+    ],
+    "year": 2010,
+    "title": "The weirdest people in the world?",
+    "container": "Behavioral and Brain Sciences",
+    "volume": "33",
+    "issue": "2-3",
+    "pages": "61-83",
+    "doi": "10.1017/s0140525x0999152x",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched (behavioural-science claims are often based on samples from Western, Educated, Industrialized, Rich, Democratic societies, which are frequent outliers). Full text not read."
+    }
+  },
+  "sears-1986-college-sophomores": {
+    "type": "article",
+    "authors": [
+      "Sears, David O."
+    ],
+    "year": 1986,
+    "title": "College sophomores in the laboratory: Influences of a narrow data base on social psychology's view of human nature",
+    "container": "Journal of Personality and Social Psychology",
+    "volume": "51",
+    "issue": "3",
+    "pages": "515-530",
+    "doi": "10.1037/0022-3514.51.3.515",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched (since 1960 published social-psychological research has overwhelmingly used college students tested in academic laboratories; the narrow base may have biased the discipline's portrait of human nature). Full text not read."
+    }
+  },
+  "funder-ozer-2019-effect-size": {
+    "type": "article",
+    "authors": [
+      "Funder, David C.",
+      "Ozer, Daniel J."
+    ],
+    "year": 2019,
+    "title": "Evaluating effect size in psychological research: Sense and nonsense",
+    "container": "Advances in Methods and Practices in Psychological Science",
+    "volume": "2",
+    "issue": "2",
+    "pages": "156-168",
+    "doi": "10.1177/2515245919847202",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched (r of .05 very small for single events but potentially consequential over time; .10 small; .20 medium; .30 large; .40 or more likely a gross overestimate). Full text not read."
+    }
+  },
+  "wasserstein-lazar-2016-p-values": {
+    "type": "article",
+    "authors": [
+      "Wasserstein, Ronald L.",
+      "Lazar, Nicole A."
+    ],
+    "year": 2016,
+    "title": "The ASA statement on p-values: Context, process, and purpose",
+    "container": "The American Statistician",
+    "volume": "70",
+    "issue": "2",
+    "pages": "129-133",
+    "doi": "10.1080/00031305.2016.1154108",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "second-source"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record matched (The American Statistician 70(2), 129-133, published online 2 April 2016). The statement's six principles were read in the American Statistical Association's press release of 7 March 2016 (asa-2016-pvalue-release). The article itself was not opened."
+    }
+  },
+  "asa-2016-pvalue-release": {
+    "type": "web",
+    "authors": [],
+    "year": 2016,
+    "title": "American Statistical Association releases statement on statistical significance and p-values",
+    "publisher": "American Statistical Association",
+    "url": "https://www.amstat.org/asa/files/pdfs/p-valuestatement.pdf",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "PDF read: press release dated 7 March 2016 listing the six principles; principle 5 says a p-value or statistical significance does not measure the size of an effect or the importance of a result."
+    }
+  },
+  "slater-2007-reinforcing-spirals": {
+    "type": "article",
+    "authors": [
+      "Slater, Michael D."
+    ],
+    "year": 2007,
+    "title": "Reinforcing spirals: The mutual influence of media selectivity and media effects and their impact on individual behavior and social identity",
+    "container": "Communication Theory",
+    "volume": "17",
+    "issue": "3",
+    "pages": "281-303",
+    "doi": "10.1111/j.1468-2885.2007.00296.x",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched (media use outcomes influence later media selection; mutually reinforcing spirals; need for longitudinal modelling). Full text not read."
+    }
+  },
+  "huesmann-et-al-2003-tv-violence": {
+    "type": "article",
+    "authors": [
+      "Huesmann, L. Rowell",
+      "Moise-Titus, Jessica",
+      "Podolski, Cheryl-Lynn",
+      "Eron, Leonard D."
+    ],
+    "year": 2003,
+    "title": "Longitudinal relations between children's exposure to TV violence and their aggressive and violent behavior in young adulthood: 1977-1992",
+    "container": "Developmental Psychology",
+    "volume": "39",
+    "issue": "2",
+    "pages": "201-221",
+    "doi": "10.1037/0012-1649.39.2.201",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "second-source"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record matched; abstract read on the ERIC record EJ670214 (TV-violence viewing at ages 6-10 predicted adult aggression about 15 years later for males and females; relations persisted when SES, intellectual ability and parenting factors were controlled). Full text not read (paywalled). Sample sizes (N = 450 archival, N = 329 interview) come from a search summary and are NOT used."
+    }
+  },
+  "hopf-huber-weiss-2008-media-violence": {
+    "type": "article",
+    "authors": [
+      "Hopf, Werner H.",
+      "Huber, Günter L.",
+      "Weiß, Rudolf H."
+    ],
+    "year": 2008,
+    "title": "Media violence and youth violence: A 2-year longitudinal study",
+    "container": "Journal of Media Psychology",
+    "volume": "20",
+    "issue": "3",
+    "pages": "79-96",
+    "doi": "10.1027/1864-1105.20.3.79",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched; introduction read (open PDF copy): it contrasts the 'effect hypothesis' (media violence increases aggression) with the 'selection hypothesis' (aggressive behaviour stimulates exposure to violence, quoting Huesmann et al. 2003, p. 202) and summarises longitudinal studies of 2 to 17 years."
+    }
+  },
+  "peterson-thurstone-1933-payne": {
+    "type": "book",
+    "authors": [
+      "Peterson, Ruth C.",
+      "Thurstone, L. L."
+    ],
+    "year": 1933,
+    "title": "Motion pictures and the social attitudes of children",
+    "publisher": "Macmillan",
+    "place": "New York",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library lists Peterson & Thurstone, The Macmillan Company, 1933. Full text of the volume read (Internet Archive scan; the volume is a Payne Fund book that also contains Shuttleworth & May). Read: Chairman's Preface (twelve studies, 1929-1932, initiated after 1928 by William H. Short; committee membership), the Introduction (attitude scale before, film, scale again; only students who attended and completed both scales counted in the experimental group; experiments include a single film, cumulative effect, different ages, persistence), and the first experiment (April 1929, Hyde Park High School, Chicago: 23 nationalities, 237 paired comparisons)."
+    }
+  },
+  "shuttleworth-may-1933-payne": {
+    "type": "book",
+    "authors": [
+      "Shuttleworth, Frank K.",
+      "May, Mark A."
+    ],
+    "year": 1933,
+    "title": "The social conduct and attitudes of movie fans",
+    "publisher": "Macmillan",
+    "place": "New York",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library lists the 1933 Macmillan edition (with Arno Press reprint 1970). Printed in the same volume as Peterson & Thurstone 1933 and read in the same full-text scan: Chapter I says the authors abandoned the experimental method for a survey comparing frequent and infrequent movie-goers, that this leaves them 'without precise experimental controls', and that they tried to overcome this by equating the groups."
+    }
+  },
+  "blumer-1933-movies-conduct": {
+    "type": "book",
+    "authors": [
+      "Blumer, Herbert"
+    ],
+    "year": 1933,
+    "title": "Movies and conduct",
+    "publisher": "Macmillan",
+    "place": "New York",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library lists Blumer, Movies and conduct, Macmillan, 1933. Full text read (Internet Archive scan; published November 1933): 'Procedure' section - motion-picture autobiographies from 634 university students, 481 college and junior-college students, 583 high-school students, 67 office workers and 58 factory workers; reliability checks by comparing documents; Blumer says the tabulated counts 'can in no sense be thought of as conclusive'."
+    }
+  },
+  "livingstone-das-2013-reception": {
+    "type": "web",
+    "authors": [
+      "Livingstone, Sonia",
+      "Das, Ranjana"
+    ],
+    "year": 2013,
+    "title": "Interpretation/reception (Oxford Bibliographies Online: Communication; LSE Research Online copy)",
+    "publisher": "London School of Economics and Political Science (LSE Research Online); originally Oxford University Press",
+    "url": "https://eprints.lse.ac.uk/62649/1/Interpretation_reception.pdf",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Open PDF read: describes Ang 1985 as examining letters written in response to the researcher's advertisement by forty-two viewers of Dallas, and Morley's Nationwide project (1980) as focusing on class differences in decoding."
+    }
+  },
+  "ang-1985-watching-dallas": {
+    "type": "book",
+    "authors": [
+      "Ang, Ien"
+    ],
+    "year": 1985,
+    "title": "Watching Dallas: Soap opera and the melodramatic imagination",
+    "publisher": "Methuen",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "second-source"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library lists the 1985 Methuen/Routledge edition (Dutch original Het geval Dallas, 1982). Place of publication differs between sources (Livingstone & Das 2013: New York; Morley 1992: London), so it is omitted. The book itself was not opened; the letter method is described in Livingstone & Das 2013."
+    }
+  },
+  "morley-1992-television-audiences": {
+    "type": "book",
+    "authors": [
+      "Morley, David"
+    ],
+    "year": 1992,
+    "title": "Television, audiences and cultural studies",
+    "publisher": "Routledge",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library lists Morley, Routledge, 1992. A full-text PDF copy was read: in the Nationwide chapter Morley summarises the twenty-nine interviewed groups (four main types), explains the choice of group interviews over individual ones, and reflects that groups were interviewed outside their homes, away from the normal viewing context."
+    }
+  },
+  "metin-unal-2022-icerik-analizi": {
+    "type": "article",
+    "authors": [
+      "Metin, Osman",
+      "Ünal, Şükriye"
+    ],
+    "year": 2022,
+    "title": "İçerik analizi tekniği: İletişim bilimlerinde ve sosyolojide doktora tezlerinde kullanımı",
+    "container": "Anadolu Üniversitesi Sosyal Bilimler Dergisi",
+    "volume": "22",
+    "issue": "Özel Sayı 2",
+    "pages": "273-294",
+    "doi": "10.18037/ausbd.1227356",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record matched; the open PDF (Turkish abstract, English abstract) was read: content analysis presented as a technique within qualitative research aiming at objective, measurable, verifiable knowledge through sampling, coding and categories; 32 doctoral theses in sociology and communication sciences found for 2013-2021, 16 (8 + 8) analysed; communication theses did not use it as an auxiliary technique and took care over categories and codes. The rest of the article was not read."
+    }
+  },
+  "ercan-kan-2004-guvenirlik-gecerlik": {
+    "type": "article",
+    "authors": [
+      "Ercan, İlker",
+      "Kan, İsmet"
+    ],
+    "year": 2004,
+    "title": "Ölçeklerde güvenirlik ve geçerlik",
+    "container": "Uludağ Üniversitesi Tıp Fakültesi Dergisi",
+    "volume": "30",
+    "issue": "3",
+    "pages": "211-216",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself",
+        "second-source"
+      ],
+      "date": "2026-09-20",
+      "note": "Open PDF (DergiPark) read: review article; 'güvenirlik' is described as an indicator of the stability of measured values and 'geçerlik' as an indicator of the degree to which the intended characteristic is measured correctly. No Crossref DOI found; the journal, volume, issue and pages (30(3), 211-216, 2004) are printed on the PDF's first page, and the citation 'Ercan, I. and Kan, I.' appears in a web search of Turkish bibliographies. Text extraction dropped the Turkish dotted capital I in the author names (read as lker Ercan, smet Kan); the first names are recorded as Ilker and Ismet in Turkish spelling and should be checked against the PDF."
+    }
+  },
+  "verma-2014-expression-of-concern": {
+    "type": "article",
+    "authors": [
+      "Verma, Inder M."
+    ],
+    "year": 2014,
+    "title": "Editorial expression of concern: Experimental evidence of massive-scale emotional contagion through social networks",
+    "container": "Proceedings of the National Academy of Sciences",
+    "volume": "111",
+    "issue": "29",
+    "pages": "10779",
+    "doi": "10.1073/pnas.1412469111",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record matched (DOI 10.1073/pnas.1412469111, PNAS 111(29):10779; the PubMed/PMC record of the notice, PMC4115552, gives the DOI 10.1073/pnas.1412583111, which Crossref assigns to the accompanying correction printed on the same page). Full text of the notice read on PMC: signed by the Editor-in-Chief, Inder M. Verma; says questions were raised about informed consent and the opportunity to opt out; Cornell's IRB had determined the project did not fall under its human-research programme; Facebook, as a private company, was under no obligation to follow the Common Rule; PNAS nevertheless calls it 'a matter of concern' that data collection may not have been fully consistent with informed consent and opt-out principles."
+    }
+  },
+  "martino-2023-lazarsfeld-voting": {
+    "type": "article",
+    "authors": [
+      "Martino, Luís Mauro Sá"
+    ],
+    "year": 2023,
+    "title": "Political polarization, influencers and personal relationships: a reading of Paul Lazarsfeld's studies on voting",
+    "container": "Intercom: Revista Brasileira de Ciências da Comunicação",
+    "volume": "46",
+    "pages": "e2023118",
+    "doi": "10.1590/1809-58442023118en",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record matched (English DOI 10.1590/1809-58442023118en; the Portuguese original has DOI ...118pt). English PDF read (Redalyc): the Columbia group, funded by the Rockefeller Foundation and linked to the Bureau of Applied Social Research, went to Erie County, Ohio; the question was why people vote as they do; the design was six months of research from May 1940 to just after the election, with individual open-ended interviews repeated every month with a representative group of 600 people; the main finding stressed personal relationships and opinion leaders. The article says the 600 were chosen from an initial group of two thousand, which conflicts with a figure of 3,000 in another secondary source, so the size of the initial group is NOT used in the lesson."
+    }
+  },
+  "cup-peoples-choice-legacy-edition": {
+    "type": "web",
+    "authors": [],
+    "year": 2019,
+    "title": "The People's Choice: How the Voter Makes Up His Mind in a Presidential Campaign (Legacy Editions), publisher's description",
+    "publisher": "Columbia University Press",
+    "url": "https://cup.columbia.edu/book/the-peoples-choice/9780231197953/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Publisher page read via fetch tool: during the 1940 campaign Lazarsfeld, Berelson and Gaudet tracked 'a sample population of six hundred people from Erie County, Ohio', interviewing them monthly in the seven months leading up to Election Day. The page year (2019 Legacy Edition) is the edition, not the study. The page's own statement that the book was 'originally published in 1948' conflicts with 1944 in Open Library and Sills 1987, so no publication year of the original is taken from it."
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "id": "reliability",
+  "family": "method",
+  "introducedBy": [],
+  "related": [
+    "validity",
+    "content-analysis"
+  ],
+  "sources": [
+    "ercan-kan-2004-guvenirlik-gecerlik",
+    "hayes-krippendorff-2007-alpha",
+    "lombard-et-al-2002-intercoder-reliability"
+  ]
+}

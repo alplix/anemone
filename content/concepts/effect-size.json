@@ -1,0 +1,16 @@
+{
+  "id": "effect-size",
+  "family": "method",
+  "introducedBy": [],
+  "related": [
+    "meta-analysis",
+    "replication-crisis",
+    "correlation-causation"
+  ],
+  "sources": [
+    "kramer-et-al-2014",
+    "funder-ozer-2019-effect-size",
+    "asa-2016-pvalue-release",
+    "wasserstein-lazar-2016-p-values"
+  ]
+}

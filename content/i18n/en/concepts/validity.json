@@ -1,0 +1,16 @@
+{
+  "id": "validity",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "validity",
+  "altTerms": [
+    "internal validity",
+    "external validity"
+  ],
+  "slug": "validity",
+  "short": "The degree to which a measurement really measures what it is meant to measure; internal validity looks at the cause of a difference, external validity at whether findings extend to other contexts.",
+  "body": "Validity is the degree to which a measurement really measures what it is meant to measure. Turkish sources describe it as an indicator of how correctly the intended characteristic is measured. Reliability seeks consistency, validity seeks accuracy: a survey that gives the same inflated number every time is reliable but may not be valid. Prior showed that news-exposure claims in surveys were on average three times higher than independent viewing measures; Parry and colleagues found that self-reported and logged digital media use are only moderately related.\n\nAt the study level it splits in two: **internal validity** asks whether a difference really comes from the cause under study; **external validity** asks whether the finding extends to other people, settings and times. Qualitative research developed its own counterparts of these criteria. See [[concept:reliability]].",
+  "example": "Measuring news-viewing time only by the person’s own claim."
+}

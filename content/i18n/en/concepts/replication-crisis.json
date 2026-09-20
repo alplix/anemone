@@ -1,0 +1,16 @@
+{
+  "id": "replication-crisis",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "replication crisis",
+  "altTerms": [
+    "reproducibility crisis",
+    "questionable research practices"
+  ],
+  "slug": "replication-crisis",
+  "short": "The finding that many published results do not hold up when studies are repeated, and the debate about causes such as flexible analysis and selective reporting.",
+  "body": "The replication crisis is the finding that a substantial share of published studies do not give the same result when repeated, and the debate about why. The Open Science Collaboration (2015) repeated 100 studies from three psychology journals: 97 percent of the original studies and 36 percent of the replications gave significant results, and replication effects were about half the size of the originals.\n\nOne cause is **questionable research practices**: Simmons and colleagues showed that flexibility in data collection and analysis raises false-positive rates dramatically; a survey of more than 2,000 psychologists by John and colleagues found these practices surprisingly common; and Matthes and colleagues found similar signs in communication experiments. Proposed remedies include **preregistration** (writing the question and analysis plan before seeing results). Failing to replicate is not, by itself, fraud. See [[concept:meta-analysis]], [[concept:effect-size]].",
+  "example": "A 20-person experiment showing that “listening to a song made people younger”, made significant through flexible analysis."
+}

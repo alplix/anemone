@@ -1,0 +1,827 @@
+{
+  "id": "research-methods",
+  "lang": "en",
+  "translation": {
+    "status": "machine",
+    "date": "2026-09-20"
+  },
+  "title": "Research Methods in Mass Communication",
+  "slug": "research-methods",
+  "description": "Surveys, experiments, content analysis and qualitative methods explained, plus how to read a study critically: sampling, validity, causation, effect size.",
+  "claim": "A research finding is only as strong as the method that produced it; so when you read a study, before asking “what did they find?” you have to ask “from whom, measured how, compared with what?”.",
+  "keywords": [
+    "research methods",
+    "survey",
+    "sampling",
+    "panel study",
+    "experiment",
+    "random assignment",
+    "internal validity",
+    "external validity",
+    "content analysis",
+    "qualitative research",
+    "reliability",
+    "validity",
+    "causation",
+    "effect size",
+    "meta-analysis",
+    "replication",
+    "Literary Digest",
+    "Erie County",
+    "Payne Fund"
+  ],
+  "updated": "2026-09-20",
+  "timeline": {
+    "payne-fund-volumes": "The first Payne Fund volumes are published by Macmillan (Peterson–Thurstone, Shuttleworth–May, Blumer)",
+    "literary-digest-poll": "The Literary Digest poll: about 2.4 million responses, wrong forecast",
+    "erie-county-panel": "The Erie County voter panel: monthly interviews with 600 people (May–November 1940)",
+    "focused-interview": "Merton and Kendall: the “focused interview” article",
+    "berelson-content-analysis": "Berelson, Content Analysis in Communication Research",
+    "gerbner-cultural-indicators": "Gerbner: the “Toward Cultural Indicators” article",
+    "glass-meta-analysis": "Glass: the term “meta-analysis”",
+    "file-drawer": "Rosenthal: the “file-drawer problem”",
+    "iyengar-experiments": "Iyengar, Peters and Kinder: television-news experiments",
+    "false-positive-psychology": "Simmons and colleagues: “False-Positive Psychology”",
+    "emotional-contagion": "Kramer and colleagues: the 689,003-person Facebook experiment",
+    "reproducibility-project": "Open Science Collaboration: repeating 100 psychology studies"
+  },
+  "cards": [
+    {
+      "id": "ctx-digest",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "2.4 million answers, the wrong winner",
+      "body": "October 1936. The US presidential election is weeks away, and the magazine *Literary Digest* has mailed about 10 million people a ballot to find out who will win. About 2.4 million came back: a number no poll today could dream of. The magazine announced that the Republican candidate, Alfred Landon, would win with 54 percent of the vote. [[cite:lohr-brick-2017-literary-digest]]\n\nFranklin Roosevelt won: more than 60 percent of the popular vote and 523 electoral votes. [[cite:lohr-brick-2017-literary-digest]]\n\nWhat had happened? The mailing list had been compiled mainly from telephone directories and automobile registrations; Gallup’s diagnosis was that this list over-represented the well-to-do. On top of that, only about 24 percent of the ballots came back. [[cite:lohr-brick-2017-literary-digest]] Later studies showed the other side of the story too: according to Squire, both the sample and the question of who responded were skewed, and together they sent the forecast off course. But even if everyone had answered, the magazine would at least have named the right winner. [[cite:squire-1988-literary-digest]]\n\nWe start the lesson with this story because the whole methods course boils down to one question: *where did this number come from?* Every percentage, every “effect” and every headline you read in communication research is the product of a method. Reading a result without understanding the method is like rating a dish without seeing the recipe.",
+      "question": {
+        "id": "ctx-digest-q",
+        "type": "mcq",
+        "prompt": "Imagine a news site collects answers from 200,000 users through a pop-up in its mobile app (“Which candidate do you support in the local election?”) and announces the result as “the city’s opinion”. According to the Literary Digest story, what is the biggest risk?",
+        "options": [
+          "200,000 people is not a large enough number for a city.",
+          "The question was so short it may not have been understood.",
+          "Surveys can never predict election results.",
+          "The respondents are a group who use the app and chose to click the pop-up; a big number does not repair that skew."
+        ],
+        "answer": 3,
+        "explain": "Even the Digest’s 2.4 million answers were not enough, because they came from the wrong slice and the respondents had selected themselves: sheer size does not make up for how people were selected. The “200,000 is not enough” answer commits exactly that fallacy (“more people = more accurate”). A too-short question is a possible problem but not this case’s lesson; “surveys can never predict” is an over-generalisation, since well-designed surveys can predict."
+      }
+    },
+    {
+      "id": "people-milestones",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "text",
+      "title": "The calendar of methods: a handful of turning points",
+      "body": "Methods did not fall from the sky; each is an answer to the blind spot of the one before. The skeleton of this lesson:\n\n- **1933:** The first volumes of the Payne Fund studies were published; the effects of films on children were examined with three different designs (next card). [[cite:blumer-1933-movies-conduct]]\n- **1936:** The *Literary Digest* poll became the emblem of a large but skewed sample. [[cite:lohr-brick-2017-literary-digest]]\n- **1940:** The Erie County voter panel: monthly interviews with 600 people from May to November. Directed by [[person:lazarsfeld|Paul Lazarsfeld]]; the book appeared in 1944. [[cite:lazarsfeld-berelson-gaudet-1944]]\n- **1946:** [[person:merton|Robert K. Merton]] and Patricia Kendall’s article on the “focused interview”. [[cite:merton-kendall-1946-focused-interview]]\n- **1952:** Bernard Berelson’s book *Content Analysis in Communication Research*. [[cite:berelson-1952-content-analysis]]\n- **1969:** [[person:gerbner|George Gerbner]] laid out the “Cultural Indicators” programme and the analysis of message systems. [[cite:gerbner-1969]]\n- **1976:** Gene Glass introduced the term “meta-analysis”. [[cite:glass-1976-meta-analysis]] **1979:** Robert Rosenthal proposed ways of calculating how many null results it would take to overturn a finding, against the “file-drawer problem”. [[cite:rosenthal-1979-file-drawer]]\n- **1982:** Iyengar, Peters and Kinder’s television-news experiments argued for a revival of experimentation in political communication. [[cite:iyengar-peters-kinder-1982]]\n- **2011–2015:** Simmons and colleagues’ false-positive warning (2011) and the Open Science Collaboration’s repetition of 100 studies (2015). [[cite:simmons-nelson-simonsohn-2011]] [[cite:osc-2015-reproducibility]]\n\nInstead of memorising dates, remember the order: first “whom did you pick?” (sampling), then “what did you compare it with?” (design), and last “can we trust it?” (replication, meta-analysis).",
+      "question": {
+        "id": "people-milestones-q",
+        "type": "mcq",
+        "prompt": "A friend says, “Rosenthal coined the term meta-analysis in 1979.” Which of the following is the right correction?",
+        "options": [
+          "The Erie County team coined the term in 1940 under Lazarsfeld.",
+          "The term comes from Merton and Kendall’s 1946 article.",
+          "Gene Glass coined the term in 1976; Rosenthal (1979) dealt with the “file-drawer problem”.",
+          "Berelson used the term in his 1952 book."
+        ],
+        "answer": 2,
+        "explain": "In 1976 Glass used “meta-analysis” for the statistical synthesis of the results of similar studies; Rosenthal’s 1979 article was about methods for calculating how robust a finding is against unpublished (file-drawer) null results. The other options mix up dates and names: Erie County is a panel, Merton–Kendall is the focused interview, Berelson is content analysis."
+      }
+    },
+    {
+      "id": "people-payne",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "story",
+      "title": "1933: Three designs, one question, an honest confession",
+      "body": "In 1928 William H. Short, executive director of the Motion Picture Research Council, gathered psychologists, sociologists and educators from several universities and put the big question of the day: what are the movies doing to children? According to the preface by the chairman, W. W. Charters, nobody in the country yet knew the answer in a general and impersonal way; everyone told their own anecdote. With the Payne Fund’s money the work ran for four years, 1929–1932, and the result was twelve studies published by Macmillan in volumes, the first of them in 1933. [[cite:peterson-thurstone-1933-payne]]\n\nThree of those twelve read like three separate methods lessons:\n\n- **Experiment (Peterson and Thurstone).** Pupils get an attitude scale, then watch a film, and the next morning the scale is repeated. The question: *can a single film move attitudes?* [[cite:peterson-thurstone-1933-payne]]\n- **Comparative survey (Shuttleworth and May).** Children who go to the movies often are compared with those who go rarely; the groups are equated for age, grade, sex and family background. The question: *which behaviours go together with the movie habit?* [[cite:shuttleworth-may-1933-payne]]\n- **Life histories (Blumer).** Young people and workers write “motion-picture autobiographies”: 634 university students, 481 college students, 583 high-school students, 67 office workers and 58 factory workers. The question: *how do movies enter their lives?* [[cite:blumer-1933-movies-conduct]]\n\nThe honest confession is inside the texts. Shuttleworth and May write that the comparative design leaves them without precise experimental controls and that it is hard to say how much of the observed difference can be attributed to the movies. [[cite:shuttleworth-may-1933-payne]] Blumer, for his part, notes that the frequencies he tabulated should not be taken as conclusive. [[cite:blumer-1933-movies-conduct]] A researcher who knows the limits of the method makes the result speak within those limits.",
+      "question": {
+        "id": "people-payne-q",
+        "type": "mcq",
+        "prompt": "Why does Shuttleworth and May’s finding that “children who go to the movies often differ from those who go rarely in these respects” not, by itself, prove that “the movies made them that way”?",
+        "options": [
+          "Because measuring attitudes was impossible at the time.",
+          "Because there were no children who rarely went to the movies in the comparison.",
+          "Because children choose for themselves whether to go often: the difference may come from the movies, or from the type of child who chooses to go.",
+          "Because the sample was certainly far too small."
+        ],
+        "answer": 2,
+        "explain": "In a comparative design the groups form themselves; even when age, grade and family background are equated, it remains possible that children who choose to go often differ in some other way. That is the self-selection problem. The “measuring attitudes was impossible” answer is wrong: the same volumes used attitude scales. The “no children who rarely went” answer is wrong: the comparison was made precisely with those who rarely went. “The sample was too small” is an unsupported assumption."
+      }
+    },
+    {
+      "id": "deep-payne",
+      "section": "people-time",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: how an experiment was built in the Payne Fund (Hyde Park High School, April 1929)",
+      "body": "Peterson and Thurstone’s first experiment was carried out in April 1929 in Chicago, with the cooperation of Hyde Park High School and a movie theatre. The aim was to see the effect of films on attitudes towards races and nationalities. Pupils were given a list of 23 nationalities in 237 paired comparisons; in each pair they were asked which one they would rather associate with. Then, during the spring-vacation week, four films were shown (*The Jazz Singer*, *Michael Strogoff*, *Four Sons* and *The Emden*), and the list was given again on Monday, 6 May. [[cite:peterson-thurstone-1933-payne]]\n\nThe general plan of the later experiments was this: pupils were given an attitude scale and told it would be given again after a while; the first administration came about two weeks before the film, the second the morning after they had seen it. Only pupils who attended the film and completed both the earlier and the later scale were taken into the experimental group (this is a screening step; our interpretation). The films had been sifted from 600–800 films by looking at the distributors’ press sheets. The authors examined the effect of a single film, the cumulative effect of two films, different age groups, and the persistence of the effect separately. [[cite:peterson-thurstone-1933-payne]]\n\nShuttleworth and May summarise this line of experiments as follows: Thurstone and colleagues had shown with fairly precise experimental methods that a single film could change attitudes in a given direction; for example one film moved attitudes towards the Chinese in a favourable direction and another in an unfavourable one. But the real question was the general effect of a child’s *whole* movie experience, and for that they abandoned the experimental method and turned to a survey. [[cite:shuttleworth-may-1933-payne]] So the size of the question decides the method: a single film can be tested, a childhood cannot."
+    },
+    {
+      "id": "claim-core",
+      "section": "claim",
+      "layer": "core",
+      "kind": "text",
+      "title": "The core claim: a finding is only as strong as its method",
+      "body": "The claim of this lesson is: **a research finding is only as strong as the method that produced it; so when you read a study, before asking “what did they find?” you have to ask “from whom, measured how, compared with what?”**\n\nThree questions form the backbone of the whole lesson:\n\n1. **From whom?** Do the respondents, or the messages examined, represent the whole being talked about? ([[concept:sampling]]; Literary Digest.)\n2. **Measured how?** Does the measurement measure what it claims to, and does it give the same result every time? ([[concept:validity]], [[concept:reliability]].)\n3. **Compared with what?** Does the difference really come from the cause under study, or from something else? ([[concept:correlation-causation]].)\n\nIn the previous lesson ([[lesson:what-is-theory]]) we talked about theories needing to be testable. The testing itself starts here: a hypothesis that is not turned into data by some method stays a wish. Most later lessons describe a study, for example [[lesson:payne-fund-mars]], [[lesson:voting-studies]] and [[lesson:agenda-setting]]. You will be able to ask these three questions of every one of them.\n\nA warning: knowing methods means being sceptical, not cynical. No method is flawless; a good researcher knows its flaw and states the result as boldly as that flaw allows. This lesson does not say any method is “bad”; it shows what each one can see and what it cannot.",
+      "question": {
+        "id": "claim-core-q",
+        "type": "tf",
+        "prompt": "True or false: whether a method is “good” or “bad” can be said independently of the question that is to be answered.",
+        "answer": false,
+        "explain": "False. Method follows the question: a survey suits “what percentage?”, an experiment suits “why?”, an interview suits “what does it mean?”. An experiment is strong for causation but does not answer “how many people?”; a survey reaches wide groups but cannot settle causes. Every method sees one thing and misses another."
+      }
+    },
+    {
+      "id": "concepts-glossary",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "The language of methods: a glossary in ten entries",
+      "body": "Methods debates revolve around a few words. Your glossary:\n\n- **Population and sample** ([[concept:sampling]]): the population is the whole you want to talk about; the sample is the part you actually measure. Representativeness is determined not by size but by how the sample was selected.\n- **Variable:** something that takes different values (minutes watched, type of news, a fear score).\n- **Operationalisation:** turning an abstract concept into something measurable. “News exposure” = the number of evenings in the last seven days on which you watched the evening news, say.\n- **Reliability** ([[concept:reliability]]): the consistency of a measurement; Turkish sources describe it as an indicator of the stability of measured values. [[cite:ercan-kan-2004-guvenirlik-gecerlik]]\n- **Validity** ([[concept:validity]]): the degree to which you really measure what you meant to measure. [[cite:ercan-kan-2004-guvenirlik-gecerlik]] **Internal validity:** does the difference really come from the cause you studied? **External validity:** does the finding extend to other people, settings and times?\n- **Confounding (third) variable:** a third factor that makes two things vary together ([[concept:correlation-causation]]).\n- **Effect size** ([[concept:effect-size]]): *how large* a difference or relationship is. **Statistical significance** only answers “could this be chance?”.\n- **Meta-analysis** ([[concept:meta-analysis]]): combining the results of many studies.\n- **Replication** ([[concept:replication-crisis]]): repeating the same study to see whether the same result appears.\n- **Experiment, survey, content analysis, qualitative methods:** the four main families of methods; you will meet them as we go ([[concept:experiment-method]], [[concept:survey-research]], [[concept:content-analysis]], [[concept:qualitative-research]]).",
+      "question": {
+        "id": "concepts-glossary-q",
+        "type": "mcq",
+        "prompt": "Imagine a researcher collects 100,000 tweets and talks about “the political leaning of Turkey”. In this sentence, what are the population and the sample?",
+        "options": [
+          "Both the population and the sample are those 100,000 tweets.",
+          "The population is the group they want to talk about (voters in Turkey); the sample is what was actually measured (the accounts that tweet and could be collected).",
+          "The population is all accounts on Twitter; the sample is the voters in Turkey.",
+          "Population and sample are two names for the same concept."
+        ],
+        "answer": 1,
+        "explain": "The population is the whole you want to talk about; the sample is the part you actually measure. The critical question here is whether the sample represents the population: people who tweet may be a small and different slice of voters in Turkey. The third option turns the definitions upside down; the first and fourth erase exactly the distinction the question asks about."
+      }
+    },
+    {
+      "id": "concepts-families",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Mini lab: pick the method for the question",
+      "body": "You have four tools and four questions. Get to know the tools:\n\n- **Survey** ([[concept:survey-research]]): puts the same questions to a mass of people. The question it answers: *how much, how many, in which groups?*\n- **Experiment** ([[concept:experiment-method]]): you change a condition, split people into groups by lottery, and watch the difference. The question it answers: *why, does this cause that?*\n- **Content analysis** ([[concept:content-analysis]]): asks messages, not people. The question it answers: *how often, how, involving whom?*\n- **Qualitative methods** ([[concept:qualitative-research]]): interview, observation, reading texts. The question they answer: *how, in what sense?*\n\nNow the questions (all imaginary):\n\n1. Has the word “shock” become more common in a news site’s headlines over the last five years?\n2. What percentage of young people follow the news mainly on their phones?\n3. Does putting a correction note under a false story reduce belief in it?\n4. What does the evening news mean in the daily life of an older viewer?\n\nThe rule: each question has one “best fit” tool, but another tool may add side information. The real habit is this: when you read a study, first ask what type of question it asks, then whether the method fits it.",
+      "question": {
+        "id": "concepts-families-q",
+        "type": "match",
+        "prompt": "Match each question with the method best suited to answer it.",
+        "pairs": [
+          [
+            "Has the word “shock” become more frequent in headlines over the last five years?",
+            "Content analysis"
+          ],
+          [
+            "What percentage of young people follow the news mainly on their phones?",
+            "Survey"
+          ],
+          [
+            "Does a correction note reduce belief in a false story?",
+            "Experiment"
+          ],
+          [
+            "What does the evening news mean for an older viewer?",
+            "In-depth interview"
+          ]
+        ],
+        "explain": "Counting frequency is a question at the level of messages: content analysis. “What percentage?” requires putting the same question to a mass of people and computing proportions: a survey. “Does this cause that?” is answered most cleanly with randomly assigned groups: an experiment. “What does it mean?” calls for interpretation rather than numbers: an interview. The pair most often confused is survey and experiment: both ask people, but one looks for proportions, the other for causes."
+      }
+    },
+    {
+      "id": "assumptions-myth",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "myth",
+      "title": "Is “qualitative research” just arbitrary interpretation?",
+      "body": "**What people assume.** No numbers, no science; interviews, observation and reading texts are “just interpretation”, and the researcher finds whatever they want.\n\n**What the evidence says.** The qualitative tradition took this objection seriously and wrote its own criteria of trustworthiness. Yvonna Lincoln and Egon Guba proposed credibility, transferability, dependability and confirmability for qualitative (naturalistic) inquiry; these were conceived as counterparts of the conventional criteria of internal validity, external validity, reliability and objectivity. [[cite:lincoln-guba-1988-criteria]] [[cite:lincoln-guba-1985-naturalistic-inquiry]] So the question is not “is there a criterion?” but “which criterion suits which question?”.\n\nAn example of a qualitative researcher writing down his own limits: in his 29 group interviews with viewers of the television programme *Nationwide*, David Morley chose group interviews over individual ones because much individual interview research treats people as social atoms cut off from their context. Later he also noted his own shortcoming: he had talked with the groups in shared places such as colleges, not at home, where television is normally watched. [[cite:morley-1992-television-audiences]]\n\n**Our interpretation:** numbers carry assumptions too. “I watch two hours of television a day” is a measurement, and its accuracy has to be tested separately (see the measurement card). The qualitative–quantitative divide is not a “scientific–unscientific” divide but a divide between different questions; the “interpretive paradigm” in the [[lesson:what-is-theory]] lesson was exactly the tradition that asks these questions.",
+      "question": {
+        "id": "assumptions-myth-q",
+        "type": "mcq",
+        "prompt": "Lincoln and Guba’s “transferability” criterion was proposed as the qualitative counterpart of which conventional criterion?",
+        "options": [
+          "Reliability",
+          "Internal validity",
+          "Objectivity",
+          "External validity"
+        ],
+        "answer": 3,
+        "explain": "Transferability asks whether a finding can extend to other contexts; it is the counterpart of conventional external validity. Credibility corresponds to internal validity, dependability to reliability, and confirmability to objectivity. The pair most often confused is transferability and dependability: one asks “does it carry over elsewhere?”, the other “is the process traceable and consistent?”."
+      }
+    },
+    {
+      "id": "how-survey",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "A survey, step by step: where do you become “Literary Digest”?",
+      "body": "1. **Define the population.** Whom will you talk about: “university students”, or “everyone aged 18–29”? If the population is fuzzy, the sample will be fuzzy too.\n2. **Find a sampling frame.** You need an accessible list of the population. In 1936 this list was mainly telephone directories and automobile registrations; when the frame falls short of the population, the sample starts out skewed. [[cite:lohr-brick-2017-literary-digest]]\n3. **Select the sample.** Random selection, where everyone has a calculable chance of being chosen, is not the same as asking whoever you can reach first (convenience sampling). Sheer size does not make up for how people were selected.\n4. **Write and try out the question.** Wording moves the answer (see the deep card). Try the question on a few people beforehand.\n5. **Go into the field and watch the response rate.** Who is not answering? The Digest’s response rate was about 24 percent. [[cite:lohr-brick-2017-literary-digest]]\n6. **Correct for nonresponse, but do not oversell it.** Lohr and Brick showed that if the Digest had weighted with the information it collected on 1932 votes, it would have seen Roosevelt winning, but the bias would still have remained very large. [[cite:lohr-brick-2017-literary-digest]]\n7. **State the limits.** “This result holds for this population, this period, this response rate.”\n\nThere is one more design choice. A **cross-sectional** study asks everyone once and gives a snapshot. A **panel** study returns to the same people and answers *whose mind changed, and how* (deep card: the Erie County panel). [[concept:survey-research]]",
+      "question": {
+        "id": "how-survey-q",
+        "type": "mcq",
+        "prompt": "A researcher proposes to “correct” a survey with a low response rate by weighting it. What lesson comes out of Lohr and Brick’s analysis of 1936?",
+        "options": [
+          "Weighting with the right information would have turned the forecast towards Roosevelt, but the bias would still have remained very large; the problem should be prevented, not only repaired.",
+          "Weighting completely removes nonresponse bias.",
+          "Weighting works only in telephone surveys.",
+          "Whatever the response rate, the result does not change."
+        ],
+        "answer": 0,
+        "explain": "Lohr and Brick showed that with 1932 votes as weights the Digest would have named the right winner but that the bias in the estimates would still have remained very large: correction helps, but it is not magic. The “weighting completely removes bias” answer commits exactly that exaggeration. “Works only in telephone surveys” is unsupported; “the result does not change whatever the response rate” ignores the importance of the response rate."
+      }
+    },
+    {
+      "id": "deep-erie",
+      "section": "how-it-works",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: the Erie County panel, going back to the same people",
+      "body": "In 1940 a team from Columbia University, supported by the Rockefeller Foundation, went to the small Erie County in Ohio. The question was one asked at every election since: what do people vote on, and were newspapers and radio influential? The team found a single survey insufficient, because a survey tells you who voted how but not *why* and *when* people changed their minds. The solution was a panel: from May to November 1940 the same 600 people were interviewed again every month. [[cite:martino-2023-lazarsfeld-voting]] [[cite:cup-peoples-choice-legacy-edition]] [[cite:lazarsfeld-berelson-gaudet-1944]]\n\nThe power of a panel shows with a small imaginary case (our example): let a cross-sectional survey find “50 percent A, 50 percent B” in both months. This is read as “nothing changed”. A panel, because it returns to the same people, may show that perhaps 10 percent moved from A to B and 10 percent from B to A: the net effect may be zero, but the movement is not. That is why campaign research needs panels: to catch who changed their mind after encountering what.\n\nThey have costs too: finding the same people month after month is hard and expensive, some may drop out, and someone who is asked all the time may not behave like someone who is not (these two warnings are general methods knowledge, our addition).\n\nThe study’s best-known result was that personal relationships and active, well-informed “opinion leaders” appeared to matter even more than the media. [[cite:martino-2023-lazarsfeld-voting]] The details come in the [[lesson:voting-studies]] and [[lesson:two-step-flow]] lessons."
+    },
+    {
+      "id": "deep-wording",
+      "section": "how-it-works",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: are “forbid” and “not allow” the same question?",
+      "body": "In 1941 Donald Rugg put two questions that look like mirror images to two separate groups. In one: “Do you think the United States should *allow* public speeches against democracy?” In the other: “…should *forbid* public speeches against democracy?” According to Bradburn, the proportion favouring free speech came out as 21 percent in the first question and 39 percent in the second. [[cite:rugg-1941-wording]] [[cite:bradburn-2000-questionnaire-design]] In CBS’s presentation the same result appears, among those with an opinion, like this: 75 percent say “should not be allowed” while only 54 percent say “should be forbidden”. [[cite:frankovic-2007-forbid-allow]] (The two presentations give different percentages depending on whether people with no opinion are counted, but they say the same thing.)\n\nThe later story is interesting too: Frankovic reports that in a 1989 General Social Survey experiment (a speech by an “admitted communist”) the difference between “forbid” and “not allow” had gone, 34 percent against 35 percent. [[cite:frankovic-2007-forbid-allow]] So the wording effect is not the same size at all times and on all topics.\n\nThe lesson: a survey question is not a neutral window. Asking half the sample with one word and half with the other is among the simplest ways to see the effect of wording. And when you read a survey result, looking for the *exact text* of the question is the cheapest check there is. [[concept:survey-research]]"
+    },
+    {
+      "id": "how-experiment",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "story",
+      "title": "A free newspaper arrives at the door",
+      "body": "Autumn 2005, Virginia. Researchers picked 3,347 households in Prince William County, about 25 miles from Washington, who said they took neither the *Washington Post* nor the *Washington Times*. Then a lottery was held: some households would be sent the Post free for ten weeks, others the Times; a third group would get nothing. One paper was considered fairly liberal, the other conservative. The question: does reading a newspaper change people? [[cite:gerber-karlan-bergan-2009]]\n\nThe interview and the state records after the election showed this: neither paper measurably changed political knowledge, stated opinions or turnout. But whichever paper they got, households that received a paper gave slightly more support to the Democratic candidate. The authors put this down more to encountering a newspaper at all than to the paper’s slant. [[cite:gerber-karlan-bergan-2009]]\n\nThis is the logic of the **experiment**: the lottery (random assignment) makes the households similar to begin with; from then on only the newspaper can explain a difference. We call this assurance **internal validity**. It has a price: the study was run only in households without either paper, in one county, and of the 3,347 households 1,081 answered the final interview. [[cite:gerber-karlan-bergan-2009]] Whether the finding extends to *other people, other places* (**external validity**) is a separate question. A field experiment (in real life, by lottery) is valuable for this reason; a laboratory experiment increases control but makes the setting artificial. [[concept:experiment-method]]",
+      "question": {
+        "id": "how-experiment-q",
+        "type": "mcq",
+        "prompt": "If, in this study, households had chosen for themselves whether to subscribe (no lottery), which assurance would have been lost?",
+        "options": [
+          "The large size of the sample.",
+          "Knowing the political views of newspaper subscribers.",
+          "That the groups are similar at the start, that is, the assurance that a difference can be attributed to the newspaper (internal validity).",
+          "The ability of the results to extend to other counties (external validity)."
+        ],
+        "answer": 2,
+        "explain": "The lottery balances differences between the groups at the start; households that subscribe by their own choice may already be more interested in politics or differ in views, and one could not know whether a difference came from the paper or from the people. The fourth option is tempting but wrong: a lottery does not guarantee external validity anyway; this study’s external validity is limited by who was taken into it, not by the lottery."
+      }
+    },
+    {
+      "id": "how-content",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Content analysis: ask the messages, not the people",
+      "body": "Surveys and experiments ask people; **content analysis** asks the message itself. Berelson’s classic definition of 1952 treats it as a technique for describing the *manifest* (surface) content of communication objectively, systematically and numerically. [[cite:berelson-1952-content-analysis]] So not “what is the series about?” but “what is the share of female characters in these series, and in how many scenes does someone harm someone else?”.\n\n1. **Narrow the question.** Not “is the news full of violence?” but “how has the share of crime stories in evening bulletins changed over the years?”.\n2. **Choose the sample.** Which channel, which period? In Cultural Indicators a chosen week of broadcasts is recorded every year. [[concept:message-system-analysis]] [[cite:shanahan-morgan-1999]]\n3. **Define the unit of counting.** Will you count stories, paragraphs, scenes or characters?\n4. **Write a codebook.** Each category must be so clear that two people reach the same decision.\n5. **Train the coders and run a pilot first.**\n6. **Measure intercoder reliability.** Two people code the same content independently and their agreement is computed. Percent agreement is easy but also counts agreement that happens by chance; Hayes and Krippendorff proposed Krippendorff’s alpha as the standard measure. [[cite:hayes-krippendorff-2007-alpha]]\n7. **Count and interpret.** [[concept:content-analysis]]\n\nLombard and colleagues examined 200 content analyses published in 1994–1998 and found that intercoder reliability was often not assessed or not reported and that percent agreement was frequently used; the authors call that measure overly liberal. [[cite:lombard-et-al-2002-intercoder-reliability]]",
+      "question": {
+        "id": "how-content-q",
+        "type": "mcq",
+        "prompt": "Two coders choose the same category for 92 of 100 news items in a two-category job. But 95 of the items belong to category “A” anyway. Why does 92 percent agreement not by itself inspire confidence?",
+        "options": [
+          "With only two coders, no agreement measure can be used.",
+          "Percent agreement always comes out near 100.",
+          "Agreement is not measured in content analysis.",
+          "Because almost every item is “A”, high agreement would appear even if the coders behaved at random; a measure that accounts for chance agreement (like alpha) is needed."
+        ],
+        "answer": 3,
+        "explain": "If both coders blindly said “A” 95 percent of the time, about 90 percent agreement would appear by chance (0.95 × 0.95 + 0.05 × 0.05 ≈ 0.905); 92 is not much above that. Measures such as Krippendorff’s alpha subtract chance agreement. The first and second options are false generalisations; the third says the opposite of the truth: reliability measurement is central to content analysis."
+      }
+    },
+    {
+      "id": "how-qual",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "text",
+      "title": "Qualitative methods: four doors into the same room",
+      "body": "The question numbers cannot answer is this: *what does this mean to these people?* Qualitative methods exist for that ([[concept:qualitative-research]]). Four doors:\n\n- **In-depth interview:** talking at length with one person, with prepared but flexible questions. An answer nobody thought of may turn up; in return you work with few people.\n- **Focus group discussion:** getting several people to talk together. Merton and Kendall’s 1946 article on the “focused interview” describes an interview designed to establish the reactions of people who have been exposed to a situation (for example a radio programme) that the researcher has analysed in advance. [[cite:merton-kendall-1946-focused-interview]] Morley’s 29 group interviews with *Nationwide* viewers follow a similar logic (our interpretation). [[cite:morley-1992-television-audiences]]\n- **Ethnography:** placing yourself in a community’s everyday life for a long time and observing. In media studies, audience ethnography grew from the 1980s into an important branch of reception research. [[cite:livingstone-das-2013-reception]]\n- **Textual and discourse analysis:** reading a text (a news story, a letter, a series) closely to see how it builds meaning. Ien Ang’s *Watching Dallas* is an analysis made by reading forty-two viewers’ letters written in reply to her own advertisement. [[cite:livingstone-das-2013-reception]] [[cite:ang-1985-watching-dallas]]\n\nWhat they share: small, deliberately chosen groups, open-ended data, interpretation. What sets them apart is what you examine: interviews examine *what is said*, ethnography *what is done*, textual analysis *the trace left behind*. The price is the same for all: you cannot answer “what percentage?”. Letter writers are self-selected people; the study shows not “how many” but “what kind of meaning” (our interpretation).",
+      "question": {
+        "id": "how-qual-q",
+        "type": "mcq",
+        "prompt": "A researcher wants to understand what the evening news means in the daily life of older viewers and conducts long interviews with 12 of them. Which conclusion cannot be drawn from this study?",
+        "options": [
+          "What percentage of older people in Turkey watch the news with which meaning.",
+          "With which meanings viewers associate the news.",
+          "That an interpretation the researcher never expected exists.",
+          "That for some viewers the news may be a habit that sets the rhythm of the day."
+        ],
+        "answer": 0,
+        "explain": "An in-depth interview with a small number of people shows meanings and modes of interpretation but gives no estimate of proportion or prevalence: that requires a probability sample and a survey. The other three options are exactly the areas where the qualitative method is strong: meaning, unexpected interpretation and everyday practice."
+      }
+    },
+    {
+      "id": "deep-focus",
+      "section": "how-it-works",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: the term “focus group” was not Merton’s",
+      "body": "Focus group discussions are everywhere today, from marketing to health research. Their origin is an unexpected detour.\n\nMerton and Kendall described the “focused interview” in 1946: an interview designed to establish the reactions of people who have been exposed to a situation the researcher had analysed in advance. According to the article, one of its functions is to find discrepancies between anticipated and actual effects, and another is to find the responses of deviant subgroups. [[cite:merton-kendall-1946-focused-interview]]\n\nAccording to Raymond Lee’s history, “focus groups” became popular in social research in the 1980s. In an article of 1987, Merton said that, as far as he remembered, they had never used the term “focus group”; he saw both continuity and discontinuity between the focused interview developed during the war years at the Bureau of Applied Social Research and the later focus group. The method spread through marketing research, changed on the way, and returned to sociology under the name “focus group”. [[cite:lee-2010-focus-groups]]\n\nThe lesson for the student: when a method’s name changes, its content shifts too. If an exam asks “who invented the focus group, and when?”, remember that the two names do not fully coincide; the 1946 date belongs to the article on the “focused interview”."
+    },
+    {
+      "id": "how-measure",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "myth",
+      "title": "“If you ask, they will tell you”? The two tests of a measurement",
+      "body": "**What people assume.** The most accurate way to find out how much news a person watches is to ask them.\n\n**What the evidence says.** Markus Prior compared news-viewing claims in surveys with Nielsen measurements; Nielsen is a measurement that does not rely on a person’s own report. Survey estimates inflated viewing of network news by a factor of three on average and by as much as eightfold for some groups. [[cite:prior-2009-inflated-news-audience]] Prior’s conclusion is unsettling: apparent “media effects” may arise not from real differences in exposure but from unknown differences in how accurately people report their exposure. [[cite:prior-2009-inflated-news-audience]]\n\nA measurement has two tests:\n\n- **Reliability:** if you measure again under the same conditions, does the same result come out? [[concept:reliability]]\n- **Validity:** is what I measure what I meant to measure? [[concept:validity]]\n\nThe measurement ladder goes like this: an abstract **concept** (news exposure) → an **operational definition** (the number of evenings on which the evening news was watched in the past seven days) → an **item** (“how many evenings last week did you watch the news?”) → a **score**. Something can get lost at every rung. Reliability does not guarantee validity: a survey that gives the same inflated number every time is very reliable and still wrong.\n\nNone of this means self-report is useless; it means you must check, for each question, which measurement is sufficient.",
+      "question": {
+        "id": "how-measure-q",
+        "type": "mcq",
+        "prompt": "A survey asks “how many hours of news did you watch last week?”. The same people, asked again two days later, give almost the same number; but independent viewing records show they watched far less. Which is the most accurate diagnosis of the measurement?",
+        "options": [
+          "Both its reliability and its validity are low, because it does not agree with the records.",
+          "There is only a reliability problem; people forget their answers.",
+          "It is consistent (reliable) but does not measure the truth (its validity is doubtful): people give the same inflated number every time.",
+          "There is no problem: the two measurements agree, so the measurement is correct."
+        ],
+        "answer": 2,
+        "explain": "The same number recurring shows reliability; disagreeing with the records damages validity. The fourth option confuses consistency with accuracy. The first says reliability is low too, but the answers are consistent; the second assumes the opposite: had they forgotten, the number two days later would have changed."
+      }
+    },
+    {
+      "id": "how-design",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Mini lab: design a one-page study",
+      "body": "Imagine a university’s student newspaper wonders: *do short video summaries leave more information than a long article?* Draw five boxes on paper or in your head:\n\n1. **Population and sample.** Whom are you curious about: all students, or only the paper’s readers? Whom can you invite?\n2. **Method.** Survey or experiment? Which one if you are asking about causation?\n3. **Measurement.** What does “leaving information” mean? A five-question test? How will you check the test’s reliability and validity?\n4. **Comparison.** Who will see the video and who the text, and how? Who will be assigned to groups, and how?\n5. **Threats.** Write down three things that could spoil the result.\n\nA hint: if you compare the format volunteers chose for themselves, the cause of the difference may not be the format but the people who chose it; assign by lottery and the problem disappears. If you make the test too easy, everyone gets full marks and no difference shows. If you take the groups from a single class, you cannot know whether the result extends to other students.\n\nThere is no answer key. A good design has two marks: the method fits the question, and its limits are written down openly.",
+      "question": {
+        "id": "how-design-q",
+        "type": "mcq",
+        "prompt": "The student paper shows the short video to its own Instagram followers and the long article to its website readers, then compares knowledge-test scores. What is the biggest problem with this design?",
+        "options": [
+          "The groups form by their own choices: the difference may come not from the format but from the people who choose that format and that channel.",
+          "Because the knowledge test is written, the experiment becomes invalid.",
+          "Video and text can never be compared under any circumstances.",
+          "A third group is always required for a comparison."
+        ],
+        "answer": 0,
+        "explain": "Instagram followers and site readers are different people to begin with; whether the score gap comes from format or from people cannot be separated. Random assignment would solve the problem. The second and third options impose unsupported restrictions; the fourth is an unnecessary condition: a clean experiment can be built with two comparison groups."
+      }
+    },
+    {
+      "id": "evid-correlation",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "story",
+      "title": "Does television scare you, or does the neighbourhood?",
+      "body": "Imagine a finding: people who watch a lot of television find the world more dangerous. The first explanation that comes to mind is that television scares them. Two researchers, Anthony Doob and Glenn Macdonald, asked a dull but clever question: do these people really live in neighbourhoods with different crime rates? [[cite:doob-macdonald-1979]]\n\nThey ran a door-to-door survey in Toronto. They chose one high-crime and one low-crime area downtown and one of each in the suburbs. Respondents reported their media use and how likely they thought it was that they themselves would become victims of violence. When the four areas were pooled, the earlier finding was replicated: people who watched more television were more afraid. But looked at within areas, the average relationship was insignificant; that is, once the neighbourhood’s real crime level was held constant, no general relationship remained between viewing and fear. [[cite:doob-macdonald-1979]]\n\nWhen you see a relationship there are three explanations ([[concept:correlation-causation]]):\n\n- X causes Y (television scares people);\n- Y causes X (for example, frightened people stay at home and watch more television);\n- a **third thing** causes both (the neighbourhood you live in).\n\nDoob and Macdonald’s data bring out the third explanation, but this is a single study, and the debate over cultivation theory belongs to a separate lesson ([[lesson:mainstreaming-critique]]). The real habit is to ask “what else could it be?” before accepting a relationship as “evidence”. The Payne Fund researchers were aware of the same problem in 1933; equating frequent movie-goers on things like family background was for this reason. [[cite:shuttleworth-may-1933-payne]]",
+      "question": {
+        "id": "evid-correlation-q",
+        "type": "mcq",
+        "prompt": "A survey finds that people who spend a lot of time in an app are lonelier. After the Toronto study, what is the first question you should ask?",
+        "options": [
+          "How many people answered the survey?",
+          "Isn’t it unimportant which app it is?",
+          "Is the effect of the app bigger, or the effect of loneliness?",
+          "Is there a third thing (for example unemployment, where people live) that affects both time in the app and loneliness; does the relationship persist when that thing is held constant?"
+        ],
+        "answer": 3,
+        "explain": "In Toronto the relationship vanished once the neighbourhood’s crime level was held constant: the third-variable question is the first step in reading a relationship. Sample size matters too but does not say whether a relationship is causal. The question “which effect is bigger?” buries the answer in the question: asking it before causal direction has been shown already presumes an effect exists."
+      }
+    },
+    {
+      "id": "evid-effect-size",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "text",
+      "title": "“Significant” is not the same as “important”",
+      "body": "January 2012, for one week. In an experiment run on Facebook, the news feeds of 689,003 users were altered by lottery: in one group some positive posts were left out, in another some negative ones. Then the users’ own posts were examined. Was emotion “contagious”? [[cite:kramer-et-al-2014]]\n\nYes, statistically: when positive posts were reduced, the share of positive words in people’s own posts fell a little, and some comparisons gave p < 0.001. But the effect size was tiny: Cohen’s d lay between 0.001 and 0.02 across four comparisons. The authors themselves argued that the effects were small but could matter at this scale. [[cite:kramer-et-al-2014]]\n\nHere is the point: **statistical significance** answers “could this difference be chance?”, and as the sample grows even very small differences turn out “significant”. **Effect size** answers “how big is the difference?” ([[concept:effect-size]]). The American Statistical Association’s 2016 statement says the same: a p-value, or statistical significance, does not measure the size of an effect or the importance of a result. [[cite:asa-2016-pvalue-release]] [[cite:wasserstein-lazar-2016-p-values]]\n\nSo how small is “small”? For correlation-type effect sizes (r) Funder and Ozer propose this frame: .05 is very small for single events but can matter over time; .10 small; .20 medium; .30 large; .40 and above is often a gross overestimate in psychological research. [[cite:funder-ozer-2019-effect-size]]\n\nWhen you see “a significant effect was found” in a news story, let your first question be “how big?”.",
+      "question": {
+        "id": "evid-effect-size-q",
+        "type": "mcq",
+        "prompt": "Imagine an app runs a lottery-based experiment with 5 million users; changing the notification text increases clicks (p < 0.001; Cohen’s d = 0.01). Which is the most fitting interpretation of this result?",
+        "options": [
+          "A large effect was found, because the p-value is very small.",
+          "There is no effect, because d is below 1.",
+          "Statistically significant but the effect is very small; whether it matters depends on scale and cost (as in the Facebook experiment).",
+          "Because the experiment was run by lottery, the effect must be large."
+        ],
+        "answer": 2,
+        "explain": "With millions of users even very small differences turn out significant; a p-value does not tell you the size of the effect. d = 0.01 is small but not zero; at this scale it can be significant. The “large effect” reading confuses significance with importance. The “no effect” reading treats a small effect as “none”. The “large because of the lottery” reading confuses the lottery with effect size: a lottery secures the cause of a difference, not its size."
+      }
+    },
+    {
+      "id": "evid-meta",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Meta-analysis: the study of studies",
+      "body": "A single study is a witness statement; meta-analysis tries to listen to all the witnesses and extract a common voice. Gene Glass coined the term in 1976 for the statistical synthesis of the results of similar studies. [[cite:glass-1976-meta-analysis]] The steps ([[concept:meta-analysis]]):\n\n1. **Write the question and the search rules.** Which studies are included, which dates and databases are searched?\n2. **Collect.** Look for unpublished ones too.\n3. **Extract an effect size from each study.** That makes different scales comparable.\n4. **Combine.** Compute the average effect size.\n5. **Explain the differences.** Under which conditions is the effect large, under which small?\n6. **Test for bias.** Are there results missing?\n\nAn example: a 2023 meta-analysis combining cultivation studies that link social media use to beliefs collected 460 effect sizes from 66 independent samples and found an overall effect of .123; the effect was higher in studies looking at exposure to specific content, in younger samples and in Asian samples, and lower when active use was measured. [[cite:hermann-morgan-shanahan-2023]] A 1997 meta-analysis of cultivation research had found an average effect of .09. [[cite:morgan-shanahan-1997]]\n\nThere are two traps. **The file drawer:** Rosenthal argued that journals may be filled only with studies that turned out significant, while those that did not stay in drawers, and proposed methods for estimating how much damage that does. [[cite:rosenthal-1979-file-drawer]] **Bad measurement:** according to Scharkow and Bachl, measurement error in content analysis and in self-report pulls effect estimates downward [[cite:scharkow-bachl-2017-measurement-error]]; combining flawed studies combines the flaw too (this last sentence is our interpretation).",
+      "question": {
+        "id": "evid-meta-q",
+        "type": "mcq",
+        "prompt": "A meta-analysis collects only studies published in peer-reviewed journals. What is the most likely problem?",
+        "options": [
+          "The effect shrinks because the number of studies grows.",
+          "Meta-analysis can only combine experiments.",
+          "Effect sizes cannot be computed.",
+          "If studies that did not turn out significant stayed in drawers, the average effect may look larger than it is (the file-drawer problem)."
+        ],
+        "answer": 3,
+        "explain": "If unpublished results are missing, the combined studies are a biased sample and the average effect may swell; that was Rosenthal’s concern. The first option is an arbitrary claim; the second is wrong: meta-analysis also combines surveys and correlational studies (like the cultivation meta-analyses); the third is wrong too: effect sizes are extracted from the studies."
+      }
+    },
+    {
+      "id": "evid-replication",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "story",
+      "title": "Did a song make you younger?",
+      "body": "In one study, 20 University of Pennsylvania students listened either to the Beatles’ “When I’m Sixty-Four” or to an instrumental called “Kalimba”. Afterwards they wrote down their birth dates. The result: those who listened to the first song were statistically about a year and a half younger (adjusted means 20.1 and 21.5 years; p = 0.040). [[cite:simmons-nelson-simonsohn-2011]]\n\nThis is not a joke, though the point behind the joke is serious. Joseph Simmons and colleagues deliberately “proved” an impossible result; the article says everything reported really happened, and that the aim was to show how easily flexibility in data collection and analysis produces false positives. Combining four such flexibilities can push the false-positive rate to 61 percent (deep card). [[cite:simmons-nelson-simonsohn-2011]]\n\nThen the problem was measured. The Open Science Collaboration repeated 100 experimental and correlational studies from three psychology journals: 97 percent of the original studies had significant results; only 36 percent of the replications did, and replication effects were about half the size of the originals. [[cite:osc-2015-reproducibility]] A survey of more than 2,000 psychologists by John and colleagues suggested that “questionable research practices” were surprisingly common and that some might have become the norm. [[cite:john-loewenstein-prelec-2012]] Matthes and colleagues, looking at communication research, found signs in experiments in four leading journals such as small and unjustified samples, unreported effect sizes and a pile-up of p-values just below .05. [[cite:matthes-et-al-2015-qrp-communication]] ([[concept:replication-crisis]])\n\nA caution: failing to replicate does not mean fraud; more often flexible analysis, small samples and publication bias combine.",
+      "question": {
+        "id": "evid-replication-q",
+        "type": "mcq",
+        "prompt": "Imagine a 24-person experiment says “short videos shorten attention span” (p = 0.04) and the researcher wants to make it a headline. After this lesson, what is the healthiest reaction?",
+        "options": [
+          "Publish it; the p-value is below 0.05.",
+          "Before making a big claim, look at the effect size, at whether the analysis plan was fixed in advance, and at a repetition with a larger sample.",
+          "The result is wrong, because the sample is 24 people.",
+          "Do not publish this kind of result at all."
+        ],
+        "answer": 1,
+        "explain": "A small-sample result with a p close to the threshold is not “wrong”, it is “not yet established”; as Simmons and colleagues and the Open Science Collaboration showed, such results often shrink when repeated. The first option leans too hard on the p-value; the third condemns the result in advance; the fourth runs against how science works: results left unpublished fill the file drawer."
+      }
+    },
+    {
+      "id": "deep-rdof",
+      "section": "evidence",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: four small freedoms, a 61 percent false-positive rate",
+      "body": "Simmons and colleagues put “researcher degrees of freedom” into numbers. With computer simulations they examined four common flexibilities: (a) choosing among several dependent variables, (b) deciding the sample size afterwards (collecting a little more data if the result is not significant), (c) adding a covariate (for example gender), (d) reporting only a subset of conditions. Even looking at two dependent variables correlated at r = .50 nearly doubles the probability of a false positive. A researcher who uses all four together finds a “significant effect” with a probability of 61 percent when in reality there is no effect at all. [[cite:simmons-nelson-simonsohn-2011]] So “p < .05” can raise a false alarm far more often than 5 percent of the time.\n\nThe remedy they proposed was a simple disclosure list (the article lists six requirements for authors and four guidelines for reviewers). The remedy that came to the fore in later years is **preregistration**: defining the research question and analysis plan before seeing the results. Nosek and colleagues argue that it preserves the distinction between prediction (said in advance) and postdiction (interpretation afterwards), and so raises the credibility of findings. [[cite:nosek-et-al-2018-preregistration]]\n\nFor communication: Matthes and colleagues’ survey of experiments published in four journals between 1980 and 2013 found signs such as a pile-up of p-values just below .05 and a growing share of verified hypotheses. [[cite:matthes-et-al-2015-qrp-communication]] This is not an accusation but a snapshot of a research habit; habits can change."
+    },
+    {
+      "id": "crit-media",
+      "section": "critique",
+      "layer": "core",
+      "kind": "text",
+      "title": "The three special troubles of studying media effects",
+      "body": "Problems of sampling, measurement and comparison exist in every field. In media-effects research three are especially sharp:\n\n**1. People choose for themselves what to watch.** People who watch the news are different kinds of people from those who do not: will you attribute the difference to watching, or to the person who watches? The newspapers Gerber and colleagues distributed by lottery are valuable for exactly this reason: they remove the choice. [[cite:gerber-karlan-bergan-2009]]\n\n**2. Measuring exposure is hard.** In Prior’s study, claims were inflated threefold. [[cite:prior-2009-inflated-news-audience]] Scharkow found that for internet use, self-reports were only moderately related to log data and that the errors were systematic (especially over-reporting) rather than random. [[cite:scharkow-2016-self-reported-internet-use]] Scharkow and Bachl’s simulation argues that error in measuring content and exposure pulls effect estimates downward and could thereby artificially produce some “minimal effects” findings. [[cite:scharkow-bachl-2017-measurement-error]] So in the “limited effects” debate, method may be part of the result (our inference).\n\n**3. Time order.** Do people who watch a lot of violent programmes become aggressive, or do aggressive people choose them? The two are called the “effect” and the “selection” hypotheses; longitudinal studies, which follow the same people over time, exist to tell them apart (deep card). [[cite:hopf-huber-weiss-2008-media-violence]]\n\nSeeing all three together, you understand both why a media-effects study deserves caution and why it should still not be dismissed: these are recognisable problems, and often solvable ones.",
+      "question": {
+        "id": "crit-media-q",
+        "type": "mcq",
+        "prompt": "A survey finds that people who watch a lot of political news programmes have a higher voting rate. Which of the following states the “self-selection” objection correctly?",
+        "options": [
+          "People who are already interested in politics may both watch the news and vote; the difference may come from interest, not from the news.",
+          "This result proves that watching news increases voting.",
+          "The finding is invalid because the sample is not large enough.",
+          "This question can be asked only by experiment, not by survey."
+        ],
+        "answer": 0,
+        "explain": "The self-selection problem says that the decision to be a viewer may itself depend on a trait (political interest) related to voting. The “this result proves…” answer is not the objection but the claim being objected to. “The sample is not large enough” slides to size, whereas the problem lies in how people were selected. “Only by experiment” is too categorical: experiments strengthen causation, but surveys too can advance by controlling third variables and by being repeated over time."
+      }
+    },
+    {
+      "id": "deep-spirals",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: effect or selection? The idea of “reinforcing spirals”",
+      "body": "A common question in the media-effects debate is: do violent programmes increase aggression, or do aggressive people choose those programmes? According to the introduction of Hopf, Huber and Weiß, the first is called the “effect hypothesis” and the second the “selection hypothesis”; the latter, in a sentence quoted from Huesmann and colleagues’ 2003 article, says that aggressive behaviour, or something correlated with it, stimulates exposure to violence. [[cite:hopf-huber-weiss-2008-media-violence]] Longitudinal studies bring time into the picture: the same children are measured at different ages. Huesmann and colleagues’ 1977–1992 study reported that watching TV violence at ages 6–10 predicted adult aggression about 15 years later, and that the relationship persisted when socioeconomic status, intellectual ability and parenting factors were controlled. [[cite:huesmann-et-al-2003-tv-violence]]\n\nMichael Slater argued that the two do not exclude each other: the outcomes of media use can also influence later media selection, so mutually reinforcing spirals arise, and capturing them requires longitudinal modelling. [[cite:slater-2007-reinforcing-spirals]] For example (our example): violent programmes make a person slightly more aggressive, the aggressive person chooses those programmes more, and the choosing enlarges the effect a little more.\n\nThe takeaway: instead of “which one is right?”, ask “which, how much, in what process?”. A cross-sectional survey with no time-order information cannot answer that question. (Do not confuse the spiral on this card with the spiral of silence: that is a different theory.)"
+    },
+    {
+      "id": "crit-gold",
+      "section": "critique",
+      "layer": "core",
+      "kind": "myth",
+      "title": "Is the experiment the “gold standard”?",
+      "body": "**What people assume.** The experiment is the only way to establish causation; surveys and observations are at best preliminary work.\n\n**What the evidence says.** The experiment is among the strongest tools for internal validity, but it pays for it in external validity. In 1986 David Sears wrote that since 1960 social psychology had worked mostly with college students in academic laboratories, and that this narrow database might have distorted the discipline’s portrait of human nature. [[cite:sears-1986-college-sophomores]] In 2010 Henrich, Heine and Norenzayan argued that claims in the behavioural sciences rest mostly on samples from Western, educated, industrialised, rich, democratic (WEIRD) societies, and that these people are often outliers compared with the rest of the species. [[cite:henrich-heine-norenzayan-2010]] Gerber and colleagues’ field experiment was also limited to people who did not already take a newspaper. [[cite:gerber-karlan-bergan-2009]]\n\nSurveys, on the other hand, reach wide and varied groups but cannot settle causes. The story of agenda-setting research shows this well: the Chapel Hill study comparing undecided voters’ important issues with media content ([[lesson:agenda-setting]]) showed a relationship [[cite:mccombs-shaw-1972]]; Iyengar, Peters and Kinder’s experiments showed that television news affects which problems viewers take to be important. [[cite:iyengar-peters-kinder-1982]]\n\nThe conclusion: there is no “best method”; there are methods that complement one another. Theories become robust not through a single study but when different methods point in the same direction.",
+      "question": {
+        "id": "crit-gold-q",
+        "type": "tf",
+        "prompt": "True or false: Random assignment guarantees that an experiment’s findings will extend to other people and settings (external validity).",
+        "answer": false,
+        "explain": "False. Random assignment makes the groups similar at the start (internal validity); to whom a finding extends depends on who was taken into the study. Gerber and colleagues’ experiment used a perfect lottery but was run only in households that did not already take a paper, in one county."
+      }
+    },
+    {
+      "id": "today-platform",
+      "section": "today",
+      "layer": "core",
+      "kind": "text",
+      "title": "Platforms: new opportunities, old questions",
+      "body": "Social media gave researchers two gifts: huge trace data and the ability to run lotteries inside a platform. Kramer and colleagues’ experiment is an example of the second: participants were selected at random by user ID and 689,003 people were reached. [[cite:kramer-et-al-2014]] But about a month after the article appeared, PNAS’s editor published an “expression of concern”: questions had been raised about informed consent and the opportunity to opt out. The authors had written that the experiment was consistent with Facebook’s data use policy, which they took to be consent; the note said that although Facebook as a private company was under no obligation to follow the relevant rules, it was “a matter of concern” that the data collection may not have been fully consistent with the principles of consent. [[cite:verma-2014-expression-of-concern]] So scale does not remove ethics.\n\nTrace data (logs) come with a promise to make up for the shortcomings of self-report. The meta-analysis by Parry and colleagues, based on 106 effect sizes, found the relationship between self-reported and logged digital media use to be r = .38; of the 49 comparisons of average usage, self-report was accurate in only three. [[cite:parry-et-al-2021-logged-self-report]] But a log tells you “how much”; it does not tell you “why” or “in what sense”. And platform users are not the whole population.\n\nThe rule: a new type of data does not abolish the old three questions; it only moves “from whom, measured how, compared with what?” to a new place.",
+      "question": {
+        "id": "today-platform-q",
+        "type": "mcq",
+        "prompt": "A platform computes “average daily screen time” from user logs. Which question can the log data alone not answer?",
+        "options": [
+          "How large is the gap between survey claims and actual usage time?",
+          "How many minutes on average do users spend on the platform?",
+          "What that time means to users (rest, escape, work)?",
+          "How does usage time change from weekdays to weekends?"
+        ],
+        "answer": 2,
+        "explain": "A log captures the amount and time pattern of behaviour, not its meaning. For meaning you need other methods such as interviews, observation or surveys. The other three options can be answered from logs, or from comparing logs with a survey."
+      }
+    },
+    {
+      "id": "today-lab",
+      "section": "today",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Mini lab: interrogate a headline",
+      "body": "Imagine you see this headline on a news site: **“Study: 70 percent of young people now get their news only from short videos.”** (The headline and number are invented, only for practice.) Ask six questions with what you have learned in this lesson:\n\n1. **From whom?** Who are “young people”? How were they selected? How many, and how many of those approached answered? (Sampling, response rate; Literary Digest.)\n2. **How was it asked?** How was “only” defined? Wording can move the answer. (Rugg.)\n3. **Measured how?** People’s own reports, or logs? (Prior, Parry.)\n4. **Compared with what?** It says “now”: relative to whom, relative to when? Were the same people followed over time?\n5. **How big, how precise?** 70 percent is an estimate; is there a margin of error?\n6. **What else could it be?** Does the headline imply a cause (“videos killed the news”)?\n\n**To do:** pick two of the six questions; for each, think about *where* in the study’s report the answer should be written. If the report does not say, you lack a reason to trust the result; that is not a reason to distrust it. Absence of evidence and refutation are different things.",
+      "question": {
+        "id": "today-lab-q",
+        "type": "mcq",
+        "prompt": "The study behind the headline is a voluntary survey published on a video platform. What is the most fundamental reservation?",
+        "options": [
+          "The headline is too short.",
+          "70 percent is a very high number.",
+          "An experiment should have been run instead of a survey.",
+          "The respondents are people who already use that platform and who selected themselves into the survey; the result may not extend to the population of “young people”."
+        ],
+        "answer": 3,
+        "explain": "A voluntary survey on a video platform is a skewed sample both of platform users and of those who choose to answer: a small copy of the Literary Digest lesson. That 70 percent is high is not, by itself, evidence of skew. The experiment suggestion does not fit the question either: “what percentage?” is answered not by an experiment but by a well-designed sample."
+      }
+    },
+    {
+      "id": "turkey-terms",
+      "section": "turkey",
+      "layer": "core",
+      "kind": "text",
+      "title": "The methods vocabulary in the Turkish literature, and a classification muddle",
+      "body": "The Turkish literature gives the same concepts more than one name; knowing this saves time when reading sources.\n\n- **Reliability and validity (güvenirlik, geçerlik).** Ercan and Kan (2004) describe the two basic properties of a scale like this: reliability is an indicator of the stability of measured values; validity is an indicator of the degree to which the intended characteristic is measured correctly. [[cite:ercan-kan-2004-guvenirlik-gecerlik]] Other Turkish texts also show the forms “güvenilirlik” and “geçerlilik”.\n- **Content analysis (içerik analizi / içerik çözümlemesi).** Metin and Ünal (2022) present the method as a *technique within qualitative research* that analyses documents and texts by rules such as sampling, coding and categories in order to reach objective, measurable, verifiable knowledge. Their article identified 32 doctoral theses using this technique in sociology and communication sciences in 2013–2021 and analysed 16 of them (eight each); it reports that the communication theses did not use the technique as an auxiliary method and took care over categories and codes. [[cite:metin-unal-2022-icerik-analizi]]\n\nThe second item is interesting: Berelson’s classic definition treats content analysis as *numerical* description ([[concept:content-analysis]]). [[cite:berelson-1952-content-analysis]] The Turkish article places it within qualitative research. It looks like a quarrel, but it is often a matter of names: the same word can cover both a study that counts categories and a study that interprets text (our interpretation). In an exam, answer in the language of whichever framework the question uses; but know what the concept does.",
+      "question": {
+        "id": "turkey-terms-q",
+        "type": "mcq",
+        "prompt": "A Turkish source describes content analysis as “a technique within qualitative research”, while Berelson’s classic definition treats it as objective and numerical description. What is the most fitting reading?",
+        "options": [
+          "One of the sources is wrong; content analysis can only be quantitative.",
+          "The same name can cover both studies that count categories and studies that interpret text; what matters is looking at what the study actually does.",
+          "Content analysis and “içerik çözümlemesi” are completely different methods.",
+          "Content analysis counts as qualitative because it measures viewers’ opinions."
+        ],
+        "answer": 1,
+        "explain": "Because the same name can cover two different traditions, the classification can vary from source to source; what is worth learning is not the label but the work done (counting categories, or interpretation). The first option makes one definition absolute. The third takes a mere translation difference for a method difference. The fourth is simply wrong: content analysis asks the message, not the viewer."
+      }
+    },
+    {
+      "id": "exam-patterns",
+      "section": "exam",
+      "layer": "core",
+      "kind": "text",
+      "title": "This is how exams ask it",
+      "body": "**Frequent patterns**\n\n- “Does sample size guarantee representativeness?” → No; how the sample was selected and the response rate decide (Literary Digest, 1936).\n- “What does random assignment secure?” → That the groups are similar at the start, that is, **internal validity**; not generalisability (external validity).\n- “Reliability versus validity” → being consistent is not the same as being right.\n- “Is correlation causation?” → No; third variable, reverse direction, time order.\n- “Statistical significance versus effect size” → significant does not mean large.\n- “What is meta-analysis, and what is the file-drawer problem?”\n- “Panel versus cross-sectional study” → returning to the same people (Erie County, 1940) versus a one-time snapshot.\n\n**Tempting wrong answers**\n\n- Swapping reliability and validity.\n- Confusing random assignment with random sampling: one is about *splitting* people into groups, the other about *selecting* from the population.\n- Thinking content analysis measures the “effect on the audience”: it only counts the message.\n- Immediately calling a study that fails to replicate “fake”.\n\n**Name–year pairs**\n\n- Berelson (1952): content analysis. Merton and Kendall (1946): the focused interview. Glass (1976): meta-analysis. Lazarsfeld and team: Erie County, 1940. Lincoln and Guba: trustworthiness criteria for qualitative research.\n\n**Alternative names**\n\n- güvenirlik / güvenilirlik (reliability); geçerlik / geçerlilik (validity); içerik analizi / içerik çözümlemesi (content analysis); the focused interview (1946) and the focus group discussion (the later name) are close but not identical. [[cite:lee-2010-focus-groups]]\n\nExam-type questions here were written from general patterns; whichever source you read, run the question through the filter “from whom, measured how, compared with what?”.",
+      "question": {
+        "id": "exam-patterns-q",
+        "type": "mcq",
+        "prompt": "An exam question asks: “What does randomly assigning participants to experimental and control groups secure in an experimental study?” Which is the right answer?",
+        "options": [
+          "That the findings generalise to the whole population",
+          "The reliability of the measurement",
+          "That the sample represents the population",
+          "That the groups are similar at the start, that is, being able to attribute a difference to the applied condition (internal validity)"
+        ],
+        "answer": 3,
+        "explain": "Random assignment balances the initial differences between groups and makes it possible to attribute the difference to the applied condition. Generalisability and representation concern who was taken into the study (sampling); the reliability of measurement is a property of the measuring instrument. Confusing random assignment with random sampling is the most common exam trap."
+      }
+    },
+    {
+      "id": "summary",
+      "section": "summary",
+      "layer": "core",
+      "kind": "summary",
+      "title": "Summary card: five questions for reading a study",
+      "body": "- **Main idea:** a finding is only as strong as its method. Ask: from whom, measured how, compared with what?\n- **Sampling:** how people were selected and the response rate decide, not size (Literary Digest, 2.4 million answers, wrong forecast).\n- **Survey:** gives proportions; a panel returns to the same people to catch change (Erie County, 600 people); question wording moves the answer (Rugg).\n- **Experiment:** random assignment gives internal validity; external validity is a separate question (Gerber and colleagues: 3,347 households; Sears, WEIRD).\n- **Content analysis:** counts the message; a codebook and intercoder reliability are essential (alpha; percent agreement can mislead).\n- **Qualitative methods:** look for meaning; they have their own trustworthiness criteria (Lincoln and Guba); they do not answer “what percentage?”.\n- **Measurement:** reliability (consistency) ≠ validity (accuracy); self-report can be inflated (Prior: threefold).\n- **Correlation ≠ causation:** third variable, reverse direction, time order (Toronto; effect/selection hypotheses).\n- **Significant ≠ important:** in a large sample a tiny effect also turns out significant (Kramer: d 0.001–0.02); ask for the effect size.\n- **Meta-analysis and replication:** combining studies helps, but the file drawer and bad measurement are traps; in the Open Science Collaboration 36 percent of replications were significant.\n- **Exam traps:** reliability–validity, random assignment–random sampling, significance–size, panel–cross-section.",
+      "question": {
+        "id": "summary-q",
+        "type": "tf",
+        "prompt": "True or false: Getting p < 0.001 in a study shows that the effect is large.",
+        "answer": false,
+        "explain": "False. A p-value measures whether a difference could be chance; it says nothing about its size. In very large samples even very small differences can give p < 0.001 (as with Cohen’s d not exceeding 0.02 in the Facebook experiment)."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Which sentence best sums up the failure of the Literary Digest’s 1936 forecast?",
+      "options": [
+        "The sample was too small.",
+        "The questions were badly written.",
+        "Landon had actually won but the votes were miscounted.",
+        "The mailing list and the group who responded were skewed; the size of 2.4 million did not repair the skew."
+      ],
+      "answer": 3,
+      "explain": "The Digest’s sample was large, but the list compiled from telephone directories and automobile registrations over-represented the well-to-do; on top of that only about 24 percent responded, and the respondents were skewed. “The sample was too small” is exactly the intuition this lesson refutes: the trouble was not a small sample but a skewed one. The other two answers are unsupported."
+    },
+    {
+      "id": "q2",
+      "type": "tf",
+      "prompt": "True or false: A measurement with high reliability is automatically valid.",
+      "answer": false,
+      "explain": "False. Reliability is consistency, validity is accuracy. A survey that gives the same inflated news-viewing figure every time is very reliable and still misleading: Prior found that claims exceeded independent viewing measures by a factor of three on average."
+    },
+    {
+      "id": "q3",
+      "type": "match",
+      "prompt": "Match each study with the method it represents.",
+      "pairs": [
+        [
+          "Gerber, Karlan and Bergan (2009): newspaper subscriptions distributed by lottery",
+          "Field experiment"
+        ],
+        [
+          "Lazarsfeld and team (1940): monthly interviews with the same 600 people in Erie County",
+          "Panel"
+        ],
+        [
+          "Berelson (1952): numerical description of the manifest content of communication",
+          "Content analysis"
+        ],
+        [
+          "Merton and Kendall (1946): interviewing people exposed to a situation analysed in advance",
+          "Focused interview"
+        ],
+        [
+          "Glass (1976): statistically combining the results of similar studies",
+          "Meta-analysis"
+        ]
+      ],
+      "explain": "Gerber and colleagues used random assignment, so it is an experiment, and since it was run in real life it is a field experiment. What distinguishes Erie County is that it returned to the same people: a panel. Berelson gave the classic definition of content analysis. Merton and Kendall’s article named the focused interview, and Glass named meta-analysis. The pairs most often confused are panel versus cross-sectional survey and the focused interview versus today’s focus group."
+    },
+    {
+      "id": "q4",
+      "type": "order",
+      "prompt": "Put these developments in order from oldest to newest.",
+      "items": [
+        "Publication of the first Payne Fund volumes (1933)",
+        "The Erie County voter panel (1940)",
+        "Berelson’s book on content analysis (1952)",
+        "Glass’s term “meta-analysis” (1976)",
+        "The Open Science Collaboration’s repetition of 100 studies (2015)"
+      ],
+      "explain": "The order is 1933, 1940, 1952, 1976, 2015. The first Payne Fund volumes showed experimental and comparative designs early; the Erie County panel transformed voter research; Berelson institutionalised content analysis; Glass named the combining of studies; the 2015 replication project was the moment the field looked back at its own findings."
+    },
+    {
+      "id": "q5",
+      "type": "cloze",
+      "prompt": "Fill in the blanks.",
+      "text": "Statistical {{1}} tells whether a difference could be chance; {{2}} tells how large the difference is. In Kramer and colleagues’ 689,003-person Facebook experiment, Cohen’s d was at most {{3}}.",
+      "blanks": [
+        {
+          "options": [
+            "significance",
+            "validity",
+            "reliability"
+          ],
+          "answer": 0
+        },
+        {
+          "options": [
+            "effect size",
+            "sample",
+            "population"
+          ],
+          "answer": 0
+        },
+        {
+          "options": [
+            "0.02",
+            "0.5",
+            "1.2"
+          ],
+          "answer": 0
+        }
+      ],
+      "explain": "Significance answers “could this be chance?”, effect size answers “how large?”. In the Facebook experiment the d values lay between 0.001 and 0.02: in a very large sample tiny effects also turn out significant. Validity and reliability are properties of measurement; sample and population concern who was taken into the study. These three options belong to another group of concepts."
+    },
+    {
+      "id": "q6",
+      "type": "case",
+      "scenario": "Imagine a university publishes a pop-up survey in its campus app to learn where its students follow the news; 6,000 people respond. Result: “80 percent of students follow the news on their phones.” A news site turns it into a headline.",
+      "parts": [
+        {
+          "id": "q6a",
+          "prompt": "What is the biggest reservation?",
+          "options": [
+            "6,000 people is never enough for any university.",
+            "The respondents are students who use the campus app and chose to answer the pop-up; those who already follow the news on their phones are likely to be over-represented.",
+            "Pop-up surveys are forbidden."
+          ],
+          "answer": 1,
+          "explain": "App users and voluntary respondents are a skewed slice of the population (all students); heavy phone users are more likely to end up in this group. The first option gets stuck on size (the Digest lesson); the third is unsupported."
+        },
+        {
+          "id": "q6b",
+          "prompt": "What could have been done to improve representativeness?",
+          "options": [
+            "Spread the survey through more pop-ups.",
+            "Draw a random sample from the student list and chase the non-respondents.",
+            "Ask only the readers of the news site."
+          ],
+          "answer": 1,
+          "explain": "Random selection from the population’s list and following up non-respondents bring how people are selected under control. More pop-ups would enlarge the same skew; readers of the news site are an altogether different self-selected group."
+        },
+        {
+          "id": "q6c",
+          "prompt": "Which design is needed to say “following the news on a phone makes students better informed”?",
+          "options": [
+            "Giving the same survey to more students.",
+            "An experiment with groups assigned by lottery, or at least a design that controls third variables and follows time order.",
+            "Reminding everyone again that 80 percent of respondents use phones."
+          ],
+          "answer": 1,
+          "explain": "A causal claim requires testing the direction of the relationship and third variables: a lottery, a panel or a controlled analysis. More surveys only strengthen the relationship; they do not show the cause."
+        }
+      ],
+      "takeaway": "A number in a headline can only be read if it is known who answered, how they were selected and what was compared with what."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "What is the right lesson from Doob and Macdonald’s Toronto study?",
+      "options": [
+        "Watching television never increases fear under any condition.",
+        "The door-to-door survey method is invalid.",
+        "When the four areas were pooled there was a relationship between television and fear, but when the neighbourhood’s real crime level was held constant the average relationship was insignificant: the relationship may come from a third variable.",
+        "Fear is the cause of watching television."
+      ],
+      "answer": 2,
+      "explain": "The study shows that a third variable (the neighbourhood’s crime level) may lie under a single relationship. “Television never increases fear” is too categorical: one study does not refute a theory. “The door-to-door method is invalid” is wrong: the method was valid, and what was interpreted was the relationship. “Fear is the cause of watching television” presents the reverse direction as if it were proven."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Reading the results of a meta-analysis, which question is the least appropriate?",
+      "options": [
+        "Were unpublished studies also searched?",
+        "How were the effect sizes combined?",
+        "Since it is a meta-analysis, measurement errors in the individual studies don’t matter, do they?",
+        "Was the effect size seen to change under different conditions?"
+      ],
+      "answer": 2,
+      "explain": "Meta-analysis does not repair poor measurement: according to Scharkow and Bachl, measurement error pulls effect estimates downward, and combining flawed studies combines the flaw too. That is why the third question is a trap. The other three are good meta-analysis questions: the file drawer, the method of combining, and moderators."
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "What was Simmons and colleagues’ “When I’m Sixty-Four” experiment carried out to show?",
+      "options": [
+        "That listening to music makes people younger.",
+        "That flexibility in data collection and analysis can make even an impossible result look “significant”.",
+        "That students wrote their birth dates wrongly.",
+        "The effect of Beatles songs."
+      ],
+      "answer": 1,
+      "explain": "The article says the experiment was done and reported truthfully but that the aim was to show how easily flexibility produces false positives. The first option takes the joke for real; the third and fourth are unsupported."
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "Which is true of the project in which the Open Science Collaboration repeated 100 psychology studies?",
+      "options": [
+        "Most replications confirmed the original results exactly.",
+        "97 percent of the original studies and 36 percent of the replications gave significant results, and replication effects were about half the size of the originals.",
+        "The results proved that no finding in psychology is reliable.",
+        "The project examined only communication journals."
+      ],
+      "answer": 1,
+      "explain": "The project repeated 100 studies from three psychology journals, and significance and effect size fell markedly in the replications. This shows not that the findings are “wrong” but that original results can be fragile and inflated. The first option says the opposite; the third is extreme; the fourth is wrong: the studies came from psychology, not communication, journals."
+    },
+    {
+      "id": "q11",
+      "type": "case",
+      "scenario": "Imagine a news app shows 5 million users two different notification texts by lottery. Text B raises clicks relative to A (p < 0.001; Cohen’s d = 0.01).",
+      "parts": [
+        {
+          "id": "q11a",
+          "prompt": "Which is the most fitting interpretation of this result?",
+          "options": [
+            "A large effect: the p-value is very small.",
+            "Statistically significant but a very small effect; its importance depends on scale and cost.",
+            "No effect: a p-value does not prove anything."
+          ],
+          "answer": 1,
+          "explain": "In a huge sample even very small differences turn out significant; d = 0.01 is small but not zero. The first option confuses significance with size; the third treats a small effect as none."
+        },
+        {
+          "id": "q11b",
+          "prompt": "What is the strength of this experiment?",
+          "options": [
+            "Thanks to the lottery the groups are similar at the start; attributing the difference to the notification text is reasonable (internal validity).",
+            "The result generalises to all people and all apps.",
+            "There can be no measurement error."
+          ],
+          "answer": 0,
+          "explain": "Random assignment gives internal validity. Generalisability depends on the properties of the users and the app; the measurement (clicks) is another question."
+        }
+      ],
+      "takeaway": "A lottery secures the cause of a difference; significance says the difference is not chance; its size and importance still have to be judged separately."
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": "Which is the most fitting criterion for evaluating Ien Ang’s study of forty-two viewer letters written in reply to her own advertisement?",
+      "options": [
+        "Generalising the findings to all viewers with percentages.",
+        "That the sample was chosen at random.",
+        "That the interpretation is supported by the content of the letters, and that readers can themselves judge whether the results carry over to other contexts (credibility, transferability).",
+        "That the response rate exceeded 60 percent."
+      ],
+      "answer": 2,
+      "explain": "Letter writers are self-selected people; the study shows not “how many” but “what kind of meaning”, and is evaluated by qualitative research’s own criteria (Lincoln and Guba: credibility, transferability) (this evaluation is our interpretation). The other options are quantitative survey criteria."
+    }
+  ]
+}

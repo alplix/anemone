@@ -1,0 +1,17 @@
+{
+  "id": "content-analysis",
+  "family": "method",
+  "introducedBy": [],
+  "related": [
+    "message-system-analysis",
+    "cultural-indicators",
+    "reliability"
+  ],
+  "sources": [
+    "berelson-1952-content-analysis",
+    "lombard-et-al-2002-intercoder-reliability",
+    "hayes-krippendorff-2007-alpha",
+    "metin-unal-2022-icerik-analizi",
+    "shanahan-morgan-1999"
+  ]
+}

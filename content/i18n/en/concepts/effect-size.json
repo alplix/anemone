@@ -1,0 +1,16 @@
+{
+  "id": "effect-size",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "effect size",
+  "altTerms": [
+    "Cohen’s d",
+    "correlation coefficient r"
+  ],
+  "slug": "effect-size",
+  "short": "A number showing how large a difference or relationship is (d, r and the like); statistical significance only tells whether it could be chance.",
+  "body": "Effect size is the number showing how large a difference or relationship is: **Cohen’s d**, which expresses a mean difference in standard-deviation units, or **r**, which expresses a relationship. **Statistical significance** only answers “could this difference be chance?”, and as the sample grows even very small differences turn out “significant”.\n\nIn the 689,003-user Facebook experiment of Kramer and colleagues some comparisons gave p < .001 but Cohen’s d lay between 0.001 and 0.02. The American Statistical Association’s 2016 statement says that a p-value does not measure the size of an effect or the importance of a result. Funder and Ozer suggest reference points for r such as .05 (very small but potentially consequential over time), .10 (small), .20 (medium) and .30 (large). See [[concept:meta-analysis]].",
+  "example": "A d = 0.01 difference turning out “significant” in an experiment with millions of users while being tiny in practice."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "meta-analysis",
+  "family": "method",
+  "introducedBy": [],
+  "related": [
+    "effect-size",
+    "replication-crisis"
+  ],
+  "sources": [
+    "glass-1976-meta-analysis",
+    "rosenthal-1979-file-drawer",
+    "hermann-morgan-shanahan-2023",
+    "morgan-shanahan-1997"
+  ]
+}

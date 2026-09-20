@@ -1,0 +1,15 @@
+{
+  "id": "meta-analysis",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "meta-analysis",
+  "altTerms": [
+    "research synthesis"
+  ],
+  "slug": "meta-analysis",
+  "short": "A method that statistically combines the effect sizes of similar studies to obtain a common estimate and the reasons for differences; sensitive to the file-drawer problem and measurement error.",
+  "body": "Meta-analysis statistically combines the effect sizes of many studies asking similar questions to obtain a common estimate and to look for the reasons for differences (moderators). Gene Glass introduced the term in 1976. The steps: write the question and search rules, collect the studies (including unpublished ones), extract an effect size from each, combine them, explain the differences and test for bias.\n\nIt has two traps: the **file-drawer problem** that Rosenthal discussed (studies that do not turn out significant go unpublished) and the fact that combining does not repair poor measurement. Example: a 2023 meta-analysis of cultivation and social media combined 460 effect sizes from 66 independent samples and found an overall effect of .123; a 1997 cultivation meta-analysis had found an average effect of .09. See [[concept:effect-size]], [[concept:replication-crisis]].",
+  "example": "Combining 460 effect sizes from 66 samples on social media use and perceptions of the world."
+}

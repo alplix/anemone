@@ -1,0 +1,13 @@
+{
+  "id": "survey-research",
+  "lang": "tr",
+  "term": "anket araştırması",
+  "altTerms": [
+    "anket",
+    "survey"
+  ],
+  "slug": "anket-arastirmasi",
+  "short": "Bir evrenden seçilen örnekleme aynı soruları sorup görüş, tutum ve bildirilen davranışların dağılımını ölçen yöntem ailesi; kesit ya da panel olabilir.",
+  "body": "Anket araştırması, bir evrenden seçilen bir örnekleme standartlaştırılmış sorular yöneltip görüşlerin, tutumların ve bildirilen davranışların dağılımını ölçen yöntem ailesidir. Gücü, geniş kesimlere ulaşıp “kaç kişi, hangi gruplarda?” sorusunu yanıtlamasıdır. Zayıf yanları: nedeni kesinleştirememesi; sonucun örnekleme biçimine, yanıt oranına ve soru sözcüklerine bağlı olması; öz bildirimin çarpıtılabilmesi.\n\n**Kesit** anket bir anın fotoğrafıdır; **panel** anket aynı kişilere tekrar dönerek değişimi izler (Erie County, 1940). Literary Digest’in 1936 başarısızlığı büyük bir örneklemin bile yanlış kesimden geldiğinde işe yaramadığını, Rugg’ın 1941 deneyi ise soru sözcüğünün cevabı oynattığını gösterdi. İletişim araştırmalarında anket medya kullanımı, tutum ve algı ölçümünün ana aracıdır; ama medya maruziyetini öz bildirimle ölçmek kendi başına sorunludur. Bkz. [[concept:sampling]], [[concept:validity]].",
+  "example": "Bir üniversitenin öğrenci listesinden rastgele 1.000 öğrenci seçip haberi nereden izlediklerini sormak."
+}

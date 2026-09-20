@@ -1,0 +1,16 @@
+{
+  "id": "sampling",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "sampling",
+  "altTerms": [
+    "sample",
+    "population and sample"
+  ],
+  "slug": "sampling",
+  "short": "Choosing the part you actually measure (the sample) from the whole you want to talk about (the population); representativeness depends on how the sample was selected, not on how large it is.",
+  "body": "The population is the whole you want to talk about; the sample is the part you actually measure; the sampling frame is the list you have for reaching the population. In probability sampling everyone has a calculable chance of being selected; in convenience sampling you reach whoever is at hand. Representativeness is determined not by the size of the sample but by how it was selected.\n\nThe roughly 2.4 million responses of the 1936 Literary Digest poll are the classic example: the list was drawn mainly from telephone directories and automobile registrations, and the response rate was only about 24 percent. In experimental research the problem is usually who gets into the study: Sears criticised social psychology for relying on college students, and Henrich and colleagues criticised the behavioural sciences for relying on “WEIRD” societies. See [[concept:survey-research]], [[concept:validity]].",
+  "example": "Reporting the results of a voluntary survey on a video platform as if they described “all young people”."
+}

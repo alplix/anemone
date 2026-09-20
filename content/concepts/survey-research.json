@@ -1,0 +1,18 @@
+{
+  "id": "survey-research",
+  "family": "method",
+  "introducedBy": [],
+  "related": [
+    "sampling",
+    "validity",
+    "correlation-causation"
+  ],
+  "sources": [
+    "lohr-brick-2017-literary-digest",
+    "squire-1988-literary-digest",
+    "rugg-1941-wording",
+    "bradburn-2000-questionnaire-design",
+    "cup-peoples-choice-legacy-edition",
+    "martino-2023-lazarsfeld-voting"
+  ]
+}

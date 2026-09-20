@@ -1,0 +1,14 @@
+{
+  "id": "effect-size",
+  "lang": "tr",
+  "term": "etki büyüklüğü",
+  "altTerms": [
+    "etki miktarı",
+    "Cohen d",
+    "korelasyon katsayısı r"
+  ],
+  "slug": "etki-buyuklugu",
+  "short": "Bir farkın ya da ilişkinin ne kadar büyük olduğunu gösteren sayı (d, r gibi); istatistiksel anlamlılık ise yalnızca tesadüf olup olmadığına bakar.",
+  "body": "Etki büyüklüğü, bir farkın ya da ilişkinin ne kadar büyük olduğunu gösteren sayıdır: ortalama farkı standart sapma cinsinden veren **Cohen d** ya da ilişkiyi veren **r** gibi. **İstatistiksel anlamlılık** ise yalnızca “bu fark tesadüf olabilir mi?” sorusunu yanıtlar ve örnek büyüdükçe çok küçük farklar bile anlamlı çıkar.\n\nKramer ve arkadaşlarının 689.003 kullanıcılı Facebook deneyinde bazı karşılaştırmalar p < 0,001 verdi ama Cohen d 0,001 ile 0,02 arasındaydı. Amerikan İstatistik Derneği’nin 2016 açıklaması, p değerinin etkinin büyüklüğünü ya da bulgunun önemini ölçmediğini söyler. Funder ve Ozer, r için .05 (çok küçük ama zamanla sonuç doğurabilir), .10 (küçük), .20 (orta) ve .30 (büyük) gibi karşılaştırma noktaları önerir. Bkz. [[concept:meta-analysis]].",
+  "example": "Milyonlarca kullanıcılı bir deneyde d = 0,01’lik farkın “anlamlı” çıkması ama pratikte çok küçük olması."
+}
