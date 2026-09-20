@@ -1,0 +1,20 @@
+{
+  "id": "mead",
+  "lang": "tr",
+  "name": "George Herbert Mead",
+  "nativeName": "",
+  "slug": "george-herbert-mead",
+  "short": "ABD’li filozof ve sosyal psikolog (1863–1931). Benliğin toplumsal etkileşimde doğduğunu anlattı; “I”, “me” ve genelleştirilmiş öteki onun kavramları.",
+  "roles": [
+    "filozof",
+    "sosyal psikolog"
+  ],
+  "bio": "George Herbert Mead 1863’te doğdu, 1931’de öldü. Çalışma hayatının büyük bölümünü Chicago Üniversitesi’nde geçirdi: 1894’ten itibaren orada çalıştı; öncesinde kısa bir süre Michigan’da ders vermişti. Peirce, James ve Dewey’le birlikte klasik pragmatizmin önemli adları arasında sayılır. Sosyal psikolojideki görüşlerini 1900’den itibaren verdiği bir derste geliştirdi; dersleri notsuz anlatırdı.\n\nBenliğin toplumsal etkileşimde doğduğunu savundu. Çocuk önce rol oyununda tek tek ötekilerin rollerini alır, sonra kurallı oyunda (örnek olarak beyzbol takımı) takımdaki herkesin, sonunda ise örgütlü topluluğun bakışını, yani genelleştirilmiş ötekiyi içselleştirir. Benliğin “me” yanı bu örgütlü beklentileri taşır, “I” yanı ise onlara verilen öngörülemez tepkiyi.\n\nBu fikirlerin bilinen kitabı *Mind, Self, and Society* 1934’te, ölümünden sonra, öğrenci ve stenograf notlarından ve el yazmalarından Charles W. Morris tarafından derlenerek yayımlandı; yani kitabın “yazarı” Mead olsa da metnin biçimi editöre aittir. “Sembolik etkileşimcilik” adı ondan altı yıl sonra, 1937’de, öğrencisi Blumer tarafından konuldu; Mead bu adı hiç kullanmadı.",
+  "works": [
+    {
+      "bib": "mead-1934-mind-self-society",
+      "note": "Ders notlarından derlenmiş; benlik, “I”/“me” ve genelleştirilmiş ötekinin anlatıldığı ana kaynak."
+    }
+  ],
+  "inCourse": "[[lesson:functionalism-interactionism]] dersinde etkileşimci kanadın felsefi çekirdeği; benlik, “I”/“me” ve genelleştirilmiş öteki onun kavramları."
+}

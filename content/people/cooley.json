@@ -1,0 +1,16 @@
+{
+  "id": "cooley",
+  "born": {
+    "year": 1864
+  },
+  "died": {
+    "year": 1929
+  },
+  "sources": [
+    "encyclopedia-cooley",
+    "openlibrary-cooley"
+  ],
+  "works": [
+    "cooley-1902-human-nature"
+  ]
+}

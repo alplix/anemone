@@ -1,0 +1,793 @@
+{
+  "id": "functionalism-interactionism",
+  "lang": "tr",
+  "translation": { "status": "source", "date": "2026-09-20" },
+  "title": "Yapısal İşlevselcilik ve Sembolik Etkileşimcilik",
+  "slug": "yapisal-islevselcilik-sembolik-etkilesimcilik",
+  "description": "Toplum bir sistem mi, yoksa sürekli yeniden kurulan bir sohbet mi? Parsons, Merton, Cooley, Mead, Blumer ve Goffman’la iki büyük bakış ve medyaya yansımaları.",
+  "claim": "Yapısal işlevselcilik toplumu, parçaları bütünün sürmesine katkılarıyla açıklanan bir sistem (makro), sembolik etkileşimcilik ise insanların paylaştığı anlamlar üzerinden etkileşimde sürekli yeniden kurulan bir süreç (mikro) olarak görür; medyaya ilki “toplum için ne iş görüyor?”, ikincisi “insanlar onu nasıl anlamlandırıyor, kendini onunla nasıl sunuyor?” diye sorar; ikisi de tek başına yarım görüştür, bu yüzden yan yana okunmalıdır.",
+  "keywords": [
+    "yapısal işlevselcilik",
+    "sembolik etkileşimcilik",
+    "Parsons",
+    "AGIL şeması",
+    "Merton",
+    "açık ve gizil işlev",
+    "işlevsizlik",
+    "Cooley",
+    "ayna benlik",
+    "Mead",
+    "genelleştirilmiş öteki",
+    "Blumer",
+    "Goffman",
+    "dramaturji",
+    "durumun tanımı",
+    "mikro–makro",
+    "yapı–fail"
+  ],
+  "updated": "2026-09-20",
+  "timeline": {
+    "cooley-looking-glass": "Cooley, Human Nature and the Social Order: ayna benlik",
+    "thomas-child-in-america": "W. I. Thomas ve D. S. Thomas, The Child in America: “durumun tanımı” cümlesi",
+    "blumer-movies-conduct": "Blumer, Movies and Conduct: sinema otobiyografileri",
+    "mead-mind-self-society": "Mead, Mind, Self, and Society (ölümünden sonra, öğrenci notlarından derlenmiş)",
+    "blumer-coins-term": "Blumer “sembolik etkileşimcilik” terimini ortaya atar",
+    "lasswell-lazarsfeld-merton": "Bryson derlemesi: Lasswell’in üç işlevi ve Lazarsfeld–Merton bölümü",
+    "merton-social-theory": "Merton, Social Theory and Social Structure: açık ve gizil işlev",
+    "parsons-social-system": "Parsons, The Social System",
+    "goffman-presentation": "Goffman, The Presentation of Self in Everyday Life (ABD baskısı; ilk hâli 1956 monografisi)",
+    "mills-grand-theory": "Mills, The Sociological Imagination: “büyük kuram” eleştirisi",
+    "blumer-si-book": "Blumer, Symbolic Interactionism: Perspective and Method",
+    "giddens-structuration": "Giddens, The Constitution of Society: yapının ikiliği",
+    "meyrowitz-no-sense": "Meyrowitz, No Sense of Place: elektronik medya ve sahne sınırları",
+    "marwick-boyd-imagined": "Marwick ve boyd: bağlam çöküşü ve hayali izleyici"
+  },
+  "cards": [
+    {
+      "id": "ctx-rain",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "Yağmur getirmeyen yağmur töreni neden hâlâ yapılıyor?",
+      "body": "Hopi topluluğunun yağmur için yaptığı törenleri dışarıdan bakan biri kolayca “batıl inanç” diye geçiştirir. Robert K. Merton 1949’da, *Social Theory and Social Structure*’ın ilk baskısında tam bu refleksi hedef alır: “batıl inanç” demek bir açıklama değil, bir etiket yapıştırmaktır. Meteorologlar da hemfikir, tören yağmuru yağdırmaz. Ama Merton’a göre soru burada bitmez, çünkü bir davranışın ilan edilen amacı ile gerçek sonuçları aynı şey olmak zorunda değildir. [[cite:merton-1949]]\n\nMerton törene başka bir soru sorar: bu tören onu yapanlara ve topluluğa ne yapıyor? Aday cevabı şu: dağınık yaşayan insanları düzenli aralıklarla ortak bir işte bir araya getirip grup kimliğini pekiştiriyor olabilir. [[cite:merton-1949]] Bu **işlevselci** sorudur: bir olguyu, bütünün sürmesine katkısı üzerinden anlamaya çalışır.\n\nŞimdi aynı törene bir de şunu sor: katılanlar için bu ne demek? Hangi jest, hangi söz “yağmur çağırıyoruz” duygusunu doğuruyor, çocuklar bunu kimden nasıl öğreniyor? Bu da **etkileşimci** sorudur: anlamın insanlar arasında nasıl kurulduğuna bakar. (Bu ikinci soru Merton’un değil; iki bakışı yan yana koymak için biz ekledik.)\n\nBu ders bu iki soruyu tanıştırıyor. İkisi de medyayı incelerken kapımızı çalacak.",
+      "question": {
+        "id": "ctx-rain-q",
+        "type": "mcq",
+        "prompt": "Bir mahalle derneği yılda bir kez, “kalkınma” adı altında büyük bir piknik düzenliyor; piknik kalkınmaya hiçbir katkı yapmıyor. Aşağıdakilerden hangisi işlevselci bir sorudur?",
+        "options": [
+          "Piknikte insanlar birbirine ne anlatıyor ve “bizim mahalle” ifadesine hangi anlamı yüklüyor?",
+          "Piknik, ilan edilen amacına ulaşmasa bile üyeleri bir araya getirip grup bağını güçlendiriyor mu?",
+          "Piknik izinli mi, yasal mı?",
+          "Katılımcıların pikniğin sonunda ne kadar mutlu olduğunu ölçen bir anket nasıl hazırlanır?"
+        ],
+        "answer": 1,
+        "explain": "İşlevselci soru, bir alışkanlığı ilan edilen amacından bağımsız olarak, bütüne (burada mahalleye) katkısı üzerinden sorgular; Merton’un yağmur töreni örneğindeki hamle de budur. İlk seçenek anlamın nasıl kurulduğunu sorduğu için etkileşimcidir. Üçüncü seçenek hukuki bir soru, dördüncüsü ise bir ölçüm sorusu; ikisi de bir alışkanlığın toplumsal sonuçlarını sormuyor."
+      }
+    },
+    {
+      "id": "ctx-why-media",
+      "section": "context",
+      "layer": "core",
+      "kind": "text",
+      "title": "Medya kuramı neden sosyolojiyle başlıyor?",
+      "body": "Bir iletişim kuramı okuduğunda iki tür soruyla karşılaşırsın. Birincisi: *medya toplum için ne iş görür?* İkincisi: *insanlar medyayla karşılaşınca ne yapar, ona ne anlam verir?*\n\nİlk soru işlevselci gelenekten gelir. [[person:lasswell|Harold Lasswell]] 1948’de iletişimin toplumda üç iş gördüğünü söylemişti: çevreyi gözetlemek, toplumun parçalarını çevreye verilen yanıtta ilişkilendirmek, mirası aktarmak. [[cite:lasswell-1948]] (Ayrıntısı [[concept:communication-functions]] kavramında.) Aynı derleme kitapta, Paul Lazarsfeld ile Robert Merton’un imzasını taşıyan bir bölüm de vardı: Merton’un “işlev” ve “işlevsizlik” dilini medyaya taşıyordu. [[cite:lazarsfeld-merton-1948-mass-communication]]\n\nİkinci soru etkileşimci gelenekten gelir. Herbert Blumer 1933’te sinema üzerine yaptığı araştırmada insanlardan sinemayla yaşadıklarını kendi sözleriyle yazmalarını istedi: anlamı, insanların kendi anlatısında aradı. [[cite:blumer-1933-movies-conduct]]\n\nYani bugün “medyanın işlevleri” ya da “medya ve kimlik” diye konuştuğunda, aslında iki sosyolojik mirasın devamını konuşuyorsun. Bu ders o mirası tanıtıyor; [[lesson:functions-of-media]] ve [[lesson:social-construction-of-reality]] dersleri bu iki damardan devam edecek.\n\nBundan sonra her kavramı iki soruyla sınayabilirsin: *sisteme ne katıyor?* ve *kimin için ne anlama geliyor?*",
+      "question": {
+        "id": "ctx-why-media-q",
+        "type": "mcq",
+        "prompt": "Bir araştırmacı, yüzlerce kişiden “sinemayla neler yaşadın?” sorusuna kendi sözleriyle, uzun yazılı yanıtlar istiyor. Bu tercih hangi bakışa daha yakın?",
+        "options": [
+          "İşlevselci: çünkü sinemanın toplum için gördüğü işi ölçüyor.",
+          "Etkileşimci: çünkü anlamı, insanların kendi anlatısı üzerinden yakalamaya çalışıyor.",
+          "İşlevselci: çünkü yazılı yanıt her zaman nesnel veridir.",
+          "Hiçbiri: yazılı anlatılar bilimsel veri sayılmaz."
+        ],
+        "answer": 1,
+        "explain": "İnsanların kendi sözleriyle anlatması, anlamın aktörün gözünden yakalanmasına dayanır; bu, etkileşimci bakışın ayırt edici hamlesidir. Birinci ve üçüncü seçenek yöntemi yanlış bakışa bağlıyor: işlevselci soru “toplum için ne iş görüyor?” diye sorar ve yazılı anlatı ondan değil, anlamdan söz eder. Son seçenek de yanlış: bu tür anlatılar nitel araştırmada meşru veridir, yalnızca kesin sayım yapmaya uygun değildir."
+      }
+    },
+    {
+      "id": "deep-pragmatism",
+      "section": "context",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Chicago pragmatizminden etkileşimciliğe uzanan yol",
+      "body": "Sembolik etkileşimcilik bir sosyoloji okulu olmadan önce bir felsefe ortamıydı. Pragmatizm, yaklaşık 1870’te Harvard’daki bir tartışma grubunda (Metaphysical Club) Peirce ve James’in çevresinde doğdu; Dewey bu çizgiyi toplumsal iyileştirmeye ve eğitime taşıdı ve 1894’te Chicago Üniversitesi’nin felsefe kürsüsünü devraldı. [[cite:sep-pragmatism]] Mead da 1894’ten itibaren Chicago’daydı (kısa bir Michigan dönemi öncesinde) ve 1931’deki ölümüne kadar orada çalıştı; Peirce, James ve Dewey’le birlikte klasik pragmatizmin önemli adları arasında sayılır. [[cite:sep-mead]] Mead’in düşüncesi 1900’den itibaren verdiği “Sosyal Psikoloji” dersinde biçimlendi. [[cite:mead-1934-mind-self-society]]\n\nCooley ise Chicago’da değil, Michigan Üniversitesi’ndeydi. [[cite:encyclopedia-cooley]] Yani etkileşimci fikirler tek bir kampüste doğmadı; sonradan bir araya getirildi. Bu birleştirmeyi yapan isim Blumer’dir: Chicago’da Mead’in öğrencisiydi ve “sembolik etkileşimcilik” adını 1937’de ortaya attı. [[cite:wikipedia-blumer]] [[cite:encyclopedia-blumer]] Mead 1931’de öldüğüne göre, bu ad ondan altı yıl sonra kondu; Mead onu hiç kullanmadı.\n\nPratik sonuç: “Mead’in sembolik etkileşimciliği” dediğinde geriye dönük bir etiket kullanıyorsun. Üstelik Blumer, Mead’in öğrencisi olduğu kadar yorumcusu olarak da anılır. [[cite:wikipedia-symbolic-interactionism]] Yani “Mead ne dedi?” ile “Blumer, Mead’den ne çıkardı?” aynı soru olmayabilir; bu derste ikisini birbirinden ayırarak anlatmaya çalışıyoruz."
+    },
+    {
+      "id": "people-cast",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "text",
+      "title": "Kim kimdir? Altı isim, iki kanat",
+      "body": "Önce kadroya bir bak. (Aralarda W. I. Thomas’ın adı da geçecek; o başka bir derste.)\n\n**İşlevselci kanat**\n- [[person:parsons|Talcott Parsons]] (1902–1979), Harvard. Toplumu bir sistem olarak kuran büyük kuramcı; *The Structure of Social Action* (1937) ve *The Social System* (1951). [[cite:parsons-1937-structure-social-action]] [[cite:parsons-1951-social-system]]\n- [[person:merton|Robert K. Merton]] (1910–2003), Columbia. Harvard’da Parsons’ın yanında öğrendi; işlevselciliği sınanabilir araştırmaya yaklaştırdı ve *Social Theory and Social Structure*’da (1949) açık/gizil işlev ayrımını yaptı; önceki derste ([[lesson:what-is-theory]]) karşılaştığın orta düzey kuram fikrinin de sahibidir. [[cite:merton-1949]] [[cite:cole-2004-merton]] [[cite:tubitak-yapisal-islevselcilik]]\n\n**Etkileşimci kanat**\n- [[person:cooley|Charles Horton Cooley]] (1864–1929), Michigan. “Ayna benlik.” [[cite:cooley-1902-human-nature]]\n- [[person:mead|George Herbert Mead]] (1863–1931), Chicago. Benlik, “I” ve “me”, genelleştirilmiş öteki. [[cite:mead-1934-mind-self-society]]\n- [[person:blumer|Herbert Blumer]] (1900–1987). “Sembolik etkileşimcilik” adını 1937’de koyan kişi. [[cite:blumer-1937-social-psychology]]\n- [[person:goffman|Erving Goffman]] (1922–1982). Gündelik hayatı sahne diliyle çözümledi. [[cite:goffman-1959-presentation-of-self]]\n\nTakvime bir bak: Cooley’in kitabı 1902’de, Mead’in derlemesi 1934’te, Parsons’ın ilk büyük kitabı 1937’de çıktı. İki gelenek aynı yüzyılın ilk yarısında kitaplaştı; sonraki bölümlerde nasıl ayrıldıklarını göreceksin.",
+      "question": {
+        "id": "people-cast-q",
+        "type": "match",
+        "prompt": "İsimleri, akıllarda kalan katkılarıyla eşleştir.",
+        "pairs": [
+          ["Talcott Parsons", "AGIL şeması"],
+          ["Robert K. Merton", "Açık ve gizil işlev ayrımı"],
+          ["Charles H. Cooley", "Ayna benlik"],
+          ["George H. Mead", "Genelleştirilmiş öteki"],
+          ["Herbert Blumer", "“Sembolik etkileşimcilik” adını koyan"],
+          ["Erving Goffman", "Sahne diliyle gündelik hayat"]
+        ],
+        "explain": "En sık karışan çiftler Cooley ile Mead (ayna benlik Cooley’in; “I”, “me” ve genelleştirilmiş öteki Mead’in) ve Mead ile Blumer’dir: kuramın temelini Mead’in düşüncesine bağlarız, ama adı Mead’in ölümünden altı yıl sonra Blumer koydu. Parsons ile Merton da karışır: AGIL şeması Parsons’ındır, açık/gizil işlev ayrımı Merton’un."
+      }
+    },
+    {
+      "id": "people-mead-notes",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "story",
+      "title": "Mead’in başyapıtını Mead yazmadı",
+      "body": "Sosyal psikolojiyi değiştiren adamın adıyla anılan kitap aslında onun elinden çıkmadı. Mead 1931’de öldüğünde birçok makale yayımlamıştı ama görüşlerini tek bir yerde, uzun bir kitapta toplamamıştı; bunu kitabın editörü Charles W. Morris önsözde açıkça yazar. [[cite:mead-1934-mind-self-society]]\n\nMead’in düşüncesi dersteydi ve dersleri notsuz anlatırdı. Bir öğrencisi, George Anagnos, bu derslerin değerini sezdi; Alvin Carus’un sağladığı olanakla stenograflar tutuldu ve dersler sözcüğü sözcüğüne kayda geçti. [[cite:mead-1934-mind-self-society]]\n\n*Mind, Self, and Society* (1934) işte bu kayıtlardan derlendi: 1927 dersinin stenografik kaydı temel alındı; dersin tam hâliyle verildiği son yıl olan 1930’dan öğrenci notları ve yayımlanmamış el yazmalarından seçmeler eklendi; tekrarlar ayıklandı, üslup düzeltildi, başlıkları editör koydu. Morris’in kendi değerlendirmesi, bunun bir mahkeme tutanağı olmadığı, ama büyük bir düşünürün son yıllarından kalan kayıtların en sadıklarından biri olduğudur. [[cite:mead-1934-mind-self-society]]\n\nBunun bize öğrettiği: “Mead şöyle diyor” cümlesini gördüğünde çoğu zaman düzenlenmiş bir öğrenci kaydını okuyorsun. Bu, fikirlerini geçersiz kılmaz; sadece kaynağa nasıl güveneceğini bilmen gerektiğini gösterir.",
+      "question": {
+        "id": "people-mead-notes-q",
+        "type": "tf",
+        "prompt": "Doğru mu yanlış mı: *Mind, Self, and Society*, Mead’in ölümünden önce hazırladığı el yazmasının sonradan basılmış hâlidir.",
+        "answer": false,
+        "explain": "Yanlış. Kitap, ağırlıklı olarak Mead’in derslerinden alınan öğrenci ve stenograf notlarından, ayrıca yayımlanmamış bazı el yazmalarından, editör Charles W. Morris tarafından derlendi. Yanılgı doğal: kapakta yazarın adı var, ama kitabın kendisi bir yazar kitabı değil, bir derleme."
+      }
+    },
+    {
+      "id": "claim-two",
+      "section": "claim",
+      "layer": "core",
+      "kind": "text",
+      "title": "İki bakış, iki soru",
+      "body": "İki iddiayı yan yana koy: [[concept:structural-functionalism|yapısal işlevselcilik]] ve [[concept:symbolic-interactionism|sembolik etkileşimcilik]].\n\n**Yapısal işlevselcilik** toplumu birbirine bağlı parçaların oluşturduğu bir sistem olarak görür. Bir kurumu ya da alışkanlığı anlamak için sorduğu şey şudur: sistemin sürmesine ne katkısı var? Ana sorusu, toplumsal düzenin nasıl sağlandığıdır. [[cite:tubitak-islevselcilik-sosyoloji]] Bu **makro** bir bakıştır: toplumsal sistemlere ve kurumsal yapılara bakar. [[cite:ebsco-micro-macro]]\n\n**Sembolik etkileşimcilik** ise toplumu, insanların birbirine yönelik eylemlerinden, paylaştıkları anlamlardan ve bu anlamların sürekli yorumlanmasından doğan bir süreç olarak görür. Ansiklopedi maddeleri onu mikro düzeyde, yani kişilerarası ve etkileşimsel süreçlere odaklanan bir yönelim olarak sınıflar. [[cite:tubitak-sembolik-etkilesimcilik]] [[cite:ebsco-micro-macro]]\n\nMedyaya uygulayınca: birincisi “medya toplumun düzenine ne katıyor?” diye sorar; ikincisi “insanlar medyayla karşılaşınca ne yapıyor, neyi ne olarak görüyor?” diye. Hayal et: akşam haberi, işlevselci gözle “toplumu ortak gündemde buluşturan bir alışkanlık”, etkileşimci gözle ise “babamla aramdaki sessizliği dolduran yarım saat” olabilir. İkisi de aynı sahnenin doğru ama farklı okumalarıdır. Bir bakış doğru, öteki yanlış değil: hangi soruyu sorduğun, sahnenin hangi ayrıntısını göreceğini belirler.",
+      "question": {
+        "id": "claim-two-q",
+        "type": "mcq",
+        "prompt": "Aşağıdaki araştırma sorularından hangisi işlevselci değil, etkileşimci bir sorudur?",
+        "options": [
+          "Haber bültenleri toplumun tehlikelerden haberdar olmasına nasıl katkı yapar?",
+          "Bir aile akşam haberini izlerken birbirine ne söylüyor ve haberi hangi anlamla yorumluyor?",
+          "Reklam gelirleri, medya sisteminin ayakta kalmasını nasıl sağlıyor?",
+          "Medya sistemi, toplumun hangi işlevsel gereksinimlerini karşılıyor?"
+        ],
+        "answer": 1,
+        "explain": "Etkileşimci soru, kişilerin birbirleriyle ve bir şeyle karşılaşırken anlamı nasıl kurduğuna bakar; ikinci seçenek tam bunu soruyor. Öteki üç seçenek sistemin ya da toplumun ihtiyacına, katkısına ve devamlılığına bakıyor: bunlar işlevselci sorulardır."
+      }
+    },
+    {
+      "id": "con-agil",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "AGIL: bir sistemin dört sınavı",
+      "body": "[[person:parsons|Parsons]]’a göre bir toplumsal sistem ayakta kalmak için dört işlevsel gerekliliği karşılamak zorundadır. Baş harfleri [[concept:agil-scheme|AGIL şemasının]] adını verir: **AGIL**. [[cite:tubitak-islevselcilik-sosyoloji]] [[cite:encyclopedia-parsons]]\n\n- **A – Uyum (adaptation):** çevreden kaynak sağlamak, değişen koşullara ayak uydurmak.\n- **G – Amaca ulaşma (goal attainment):** hedefler koymak ve kaynakları bu hedeflere yöneltmek.\n- **I – Bütünleşme (integration):** parçaların birbiriyle uyumunu sağlamak, çatışmaları düzenlemek.\n- **L – Gizil örüntü sürdürme (latency, pattern maintenance):** değerleri ve motivasyonu korumak, kuşaktan kuşağa aktarmak; aile ve okul gibi kurumlar burada devreye girer.\n\nToplum düzeyinde uyum işi ekonomiye, amaca ulaşma işi siyasete benzetilir. [[cite:wikipedia-agil]] Şema 1950’lerde biçimlendi; ayrıntılı hâli 1956’yı buldu. [[cite:wikipedia-agil]]\n\n*Hayal et (bizim örneğimiz, Parsons’ınki değil):* küçük bir yerel gazete. Reklam ve abonelik geliri onu hayatta tutar (A). Tiraj ve haber hedefleri ona yön verir (G). Editör ile muhabirin kurallar üzerinde anlaşması onu bir arada tutar (I). Gazetenin ilkelerini yeni gelenlere aktarması onu “aynı gazete” yapar (L). AGIL, bir kurumun ne işe yaradığını sorarken kullanabileceğin hazır bir kontrol listesidir.",
+      "question": {
+        "id": "con-agil-q",
+        "type": "mcq",
+        "prompt": "Bir üniversite, yeni öğretim üyelerine kurumun akademik değerlerini ve geleneğini öğretmek için bir oryantasyon programı düzenliyor. Bu iş AGIL’de hangi harfe düşer?",
+        "options": ["A – Uyum", "G – Amaca ulaşma", "I – Bütünleşme", "L – Gizil örüntü sürdürme"],
+        "answer": 3,
+        "explain": "Değerleri ve motivasyonu korumak ve yeni gelenlere aktarmak, örüntü sürdürmenin (L) işidir. En cazip yanlış “I”: oryantasyon insanları bir araya getirir, ama I’nın konusu parçalar arası eşgüdüm ve çatışma yönetimidir; buradaki asıl amaç değerlerin kuşaktan kuşağa geçmesi. A kaynak ve çevre uyumu, G ise hedef koyma ve o hedeflere yönelme meselesidir."
+      }
+    },
+    {
+      "id": "con-merton",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Merton’un ince ayarı: işlev, işlevsizlik, açık ve gizil",
+      "body": "[[person:merton|Merton]] 1949’da işlevselciliğin kavram dağarcığını düzenledi; kitabın ilk bölümü tam bu işe ayrılmıştı. [[cite:merton-1949]] Dört terim yeter:\n\n- **İşlev:** bir sistemin uyumuna katkı yapan gözlenmiş sonuçlar.\n- **İşlevsizlik (disfonksiyon):** aynı sistemin uyumunu zayıflatan sonuçlar.\n- **Açık işlev:** amaçlanmış işlevsel sonuçlar.\n- **Gizil işlev:** amaçlanmamış ve fark edilmemiş işlevsel sonuçlar. [[cite:merton-1949]]\n\n(Türkçede “gizli işlev” de yazılır. [[cite:tubitak-yapisal-islevselcilik]] Kavram sayfaları: [[concept:manifest-latent-functions|açık ve gizil işlev]], [[concept:dysfunction|işlevsizlik]].) Ayrıca ne işlevli ne işlevsiz, sistemle ilgisiz sonuçlar da olabilir. [[cite:merton-1949]]\n\nİki noktaya dikkat. Birincisi, sonuçlara “hangi birim için?” diye sormadan işlevli ya da işlevsiz diyemezsin: bir öğe kimi kesim için işlevli, kimi kesim için işlevsiz olabilir; Merton bir kültür öğesinin çoğu zaman her iki türden sonuç da taşıdığını vurgular. [[cite:merton-1949]] İkincisi, “gizil”, gizli komplo demek değildir: sadece kimsenin amaçlamadığı ve fark etmediği demektir.\n\nGizil işlev kavramının cazibesi şurada: “saçma” görünen bir alışkanlığa aptallık damgası vurmadan önce durup şunu sordurur: ilan edilen amaç tutmuyor olabilir, peki başka ne işe yarıyor?",
+      "question": {
+        "id": "con-merton-q",
+        "type": "mcq",
+        "prompt": "Hayal et: Bir şirket, iş saatinde sosyal medya kullanımını yasaklıyor (amaç: verimlilik). Sonuçta çalışanlar öğle aralarında yüz yüze sohbet etmeye başlıyor, ekip içi güven artıyor; bunu ne yönetim amaçlamıştı ne de fark etti. Merton’un diliyle bu sonuç nedir?",
+        "options": [
+          "Açık işlev",
+          "Gizil işlev",
+          "İşlevsizlik",
+          "Sistemle ilgisiz (ne işlevli ne işlevsiz) sonuç"
+        ],
+        "answer": 1,
+        "explain": "Sonuç, sisteme (ekibe) katkı yapıyor, ama kimse onu amaçlamadı ve fark etmedi: bu, gizil işlevin tanımıdır. Açık işlev olsaydı amaçlanmış olması gerekirdi (yasağın amacı verimlilikti, güven değil). İşlevsizlik olmaz, çünkü ekip uyumu zayıflamıyor, artıyor. “İlgisiz” de olmaz: güven artışı ekibin işleyişine dokunuyor."
+      }
+    },
+    {
+      "id": "con-looking",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "story",
+      "title": "Ayna benlik: başkasının zihnindeki sen",
+      "body": "1902’de [[person:cooley|Charles Horton Cooley]], hepimizin tanıdığı bir utancı anlatır: dürüst bir adamın yanında kaçamak, cesur birinin yanında korkak, kibar birinin gözünde kaba görünmekten utanırız. Bir adam, ticari bir kurnazlığıyla bir kişiye övünür, ama aynı işi bir başkasına itiraf etmekten çekinir. [[cite:cooley-1902-human-nature]] Aynı davranış, karşındakine göre başka hissettiriyor: gurur da utanç da yalnız senin içinde değil, karşındakinin zihninde sana biçtiğini sandığın yerde.\n\nCooley buna [[concept:looking-glass-self|“ayna benlik”]] der ve üç öğe sayar: (1) görünüşümüzün karşımızdakine nasıl göründüğünü hayal etmek, (2) onun bu görünüşe ilişkin yargısını hayal etmek, (3) gurur ya da mahcubiyet gibi bir öz-duygu. [[cite:cooley-1902-human-nature]] Kilit nokta ikincisi: Cooley, ayna benzetmesinin bu öğeyi kaçırdığını, oysa hayal edilen yargının vazgeçilmez olduğunu yazar. Bizi kıpırdatan, yansımanın kendisi değil, o yansıma karşısında karşımızdakinin zihninde dolaştığını *varsaydığımız* duygudur. [[cite:cooley-1902-human-nature]]\n\nBu yüzden ayna benlik yalnızca “nasıl göründüğün” değil, “nasıl göründüğünü sandığın” hakkındadır: yanılabilirsin. (Yanılgının da gerçek sonuçları olabileceği fikri bizim bağlantımız; birazdan Thomas’ın cümlesinde karşına çıkacak.)",
+      "question": {
+        "id": "con-looking-q",
+        "type": "mcq",
+        "prompt": "Hayal et: Bir öğrenci sunumdan sonra hocasının yüzünü buruşturduğunu görüp “rezil oldum” diye düşünüyor; oysa hoca o sırada sırtındaki ağrıyı düşünüyormuş. Cooley’in üç öğesinden hangisi bu öğrencinin mahcubiyetini doğuruyor?",
+        "options": [
+          "Hocanın gerçekte ne düşündüğü",
+          "Hocanın kendisine ilişkin yargısının hayal edilmesi",
+          "Sunumun gerçek kalitesi",
+          "Hocanın yüz ifadesinin, bir ayna gibi mekanik biçimde yansıması"
+        ],
+        "answer": 1,
+        "explain": "Cooley’e göre bizi harekete geçiren, hayal edilen yargıdır: öğrenci, hocanın zihninde kendisine biçtiği bir yargı olduğunu varsayıyor. Hocanın gerçek düşüncesi (birinci seçenek) burada devre dışı: öğrenci onu bilmiyor. Dördüncü seçenek en cazibelisi, çünkü “ayna” sözcüğü buna götürür; ama Cooley tam tersini yazar: duyguyu doğuran mekanik yansıma değil, atfedilen duygudur."
+      }
+    },
+    {
+      "id": "con-mead-game",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Rol oyunundan takıma, takımdan topluma: genelleştirilmiş öteki",
+      "body": "[[person:mead|Mead]], çocuğun benliğini nasıl kurduğunu iki aşamada anlatır. Birinci aşama *rol oyunu* (play): çocuk anne, öğretmen ya da polis olur; bir rolden ötekine keyfine göre geçer. Bir seferde yalnızca tek bir ötekinin bakışını alır. [[cite:mead-1934-mind-self-society]]\n\nİkinci aşama *kurallı oyun* (game) ve Mead örnek olarak beyzbol takımını verir: takımdaki çocuk kendi pozisyonunun içinde her pozisyonun tepkilerini taşımak zorundadır; topu atacak olanı da yakalayacak olanı da aklında tutar ve bu roller birbirine belli bir ilişkiyle bağlıdır. [[cite:mead-1934-mind-self-society]] Artık soru “şu kişi bana ne der?” olmaktan çıkar, “bu takım bir bütün olarak ne bekler?” olur.\n\nBu örgütlü bütünün bakışına Mead [[concept:generalized-other|“genelleştirilmiş öteki”]] der: bireyin benliğine birlik veren örgütlü topluluk ya da toplumsal grup. [[cite:sep-mead]] Mead’e göre toplum, bireyin davranışını ve düşüncesini işte bu biçimde etkiler; soyut düşünürken bile kişi genelleştirilmiş ötekinin tutumunu alır. [[cite:mead-1934-mind-self-society]] [[cite:ebsco-mead-role-taking]]\n\nKendi hayatından bir yoklama (bizim örneğimiz): “Bunu yapsam insanlar ne der?” diye sorduğunda, o “insanlar” tam olarak kim?",
+      "question": {
+        "id": "con-mead-game-q",
+        "type": "mcq",
+        "prompt": "Hayal et: Bir çocuk “doktorculuk” oynarken bir dakika hasta, bir dakika doktor oluyor; sırayı ve kuralı umursamıyor. Mead’in aşamalarında bu hangisine karşılık gelir?",
+        "options": [
+          "Rol oyunu (play)",
+          "Kurallı oyun (game)",
+          "Genelleştirilmiş ötekinin tutumunu almak",
+          "“I” aşaması"
+        ],
+        "answer": 0,
+        "explain": "Rolden role keyfî geçiş ve tek bir ötekinin bakışı, Mead’in rol oyunu aşamasının işaretidir. Kurallı oyunda çocuk aynı anda takımdaki herkesin rolünü ve rollerin birbiriyle ilişkisini hesaba katmak zorunda kalır (beyzbol örneği). Genelleştirilmiş öteki bunun da ötesindeki, örgütlü topluluğun bakışıdır. “I” ise başka bir eksende, tepkinin kendiliğindenliği için kullanılır."
+      }
+    },
+    {
+      "id": "con-mead-i-me",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "“I” ve “me”: benlik hem düzen hem sürpriz",
+      "body": "Mead’e göre benlik iki yüzlüdür. “Me”, bireyin üstlendiği başkalarının örgütlü tutumlarıdır: takım arkadaşlarının senden ne beklediğini bilen yanın. “I” ise bu tutumlara verilen tepkidir. [[cite:mead-1934-mind-self-society]] (Mead bu ayrımı bir metafizik bölünme olarak değil, davranış içindeki işlevsel bir ayrım olarak koyar. [[cite:sep-mead]])\n\nBeyzbol örneği yine yardım eder: oyuncu takımın ondan ne beklediğini bilir (“me”). Ama sahada tam ne yapacağını ne kendisi bilir ne başkası: belki harika bir oyun çıkarır, belki hata yapar. Bu belirsiz tepki “I”dır. [[cite:mead-1934-mind-self-society]] Mead “I”ı yakalamanın zor olduğunu da yazar: kendimize dönüp baktığımızda bir “me” görürüz; “I”, yapıldıktan sonra hafızada “bir saniye önceki ben” olarak belirir. Bu yüzden, Mead’in deyişiyle, kendi eylemlerimizle kendimizi şaşırtabiliriz. [[cite:mead-1934-mind-self-society]]\n\nNeden önemli? “Me”, toplumsal düzenin benliğe girdiği yerdir; “I” ise kendiliğindenliğin ve yeniliğin kaynağı. [[cite:sep-mead]] [[cite:ebsco-mead-role-taking]] Birinci bölümdeki gerilimi hatırla: işlevselci bakış düzeni, etkileşimci bakış ise yeniden kurulmayı önde tutar. Mead’in benliği ikisini tek bir insanın içinde barındırır.",
+      "question": {
+        "id": "con-mead-i-me-q",
+        "type": "mcq",
+        "prompt": "Hayal et: Derste hep sessiz kalan bir öğrenci, herkesin şaşıracağı biçimde tartışmayı başlatıyor; ertesi gün “ben bunu nasıl yaptım?” diyor. Mead’in çerçevesiyle bu şaşkınlık en iyi nasıl açıklanır?",
+        "options": [
+          "“Me” yeni bir genelleştirilmiş öteki ürettiği için.",
+          "“I”nın tepkisi önceden bilinemez; kişi bunu ancak yaptıktan sonra bir “me” olarak görür.",
+          "Benlik yalnızca “me”den oluşur ve “me” rastgele davranır.",
+          "Öğrenci kurallı oyundan rol oyunu aşamasına geri dönmüştür."
+        ],
+        "answer": 1,
+        "explain": "Mead’in “I”sı, örgütlü beklentilere verilen ve önceden bilinemeyen tepkidir; birey onu ancak sonradan hafızada bir “me” olarak yakalar. Birinci seçenek kavramları karıştırıyor: “me” beklentiyi taşır, yeni öteki üretmez. Üçüncü seçenek “me”yi rastgele yapıyor, oysa “me” düzenin taşıyıcısıdır. Dördüncüsü gelişim aşamalarıyla “I/me” ayrımını birbirine karıştırıyor."
+      }
+    },
+    {
+      "id": "con-defsit",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "story",
+      "title": "İnsanlar bir durumu gerçek sayarsa, sonuçları da gerçek olur",
+      "body": "1928’de William I. Thomas ile Dorothy Swaine Thomas, *The Child in America* kitabında sarsıcı bir olay aktarır. Dannemora hapishanesinin müdürü, mahkemenin bir mahkûmu dışarı çıkarma emrine uymayı reddetmiş; gerekçesi, adamın çok tehlikeli olması. Adam, sokakta kendi kendine konuşan birkaç kişiyi öldürmüş: dudaklarının hareketinden ona hakaret ettiklerini sanmış ve buna göre davranmış. [[cite:thomas-thomas-1928-child-in-america]] (Yazarlar olayı adsız aktarır; biz yalnızca kitabın anlatımına dayanıyoruz.)\n\nHakaretler gerçekte yoktu. Ama adam için vardı ve sonuçları korkunç ölçüde gerçekti. Kitapta aynı bölümde şu cümle yer alır: “If men define situations as real, they are real in their consequences.” [[cite:thomas-thomas-1928-child-in-america]] (Yaklaşık karşılığı: insanlar durumları gerçek olarak tanımlarsa, o durumlar sonuçlarında gerçektir; çeviri bizim.)\n\nBuna [[concept:definition-of-the-situation|“durumun tanımı”]] denir: insanlar yalnızca bir durumun nesnel özelliklerine değil, onun kendileri için taşıdığı anlama tepki verir. Merton bu cümleyi 1949’daki kitabında “Thomas teoremi” diye anar ve toplumbilimin temel önermelerinden sayar. [[cite:merton-1949]] Etkileşimci gelenek için bu, kilit bir fikirdir: anlam durumun içinde hazır durmaz; insanların onu nasıl tanımladığından doğar. [[cite:tubitak-sembolik-etkilesimcilik]]",
+      "question": {
+        "id": "con-defsit-q",
+        "type": "mcq",
+        "prompt": "Hayal et: “X Bankası batıyor” söylentisi yayılıyor. Banka gerçekte sağlam, ama müşteriler paralarını çekmeye koşuyor ve banka gerçekten zora düşüyor. Thomas’ın cümlesi bu olayı nasıl açıklar?",
+        "options": [
+          "Söylenti doğruydu; bu yüzden banka battı.",
+          "Söylenti yalandı ama müşteriler durumu gerçek saydı; tepkileri gerçek sonuç üretti.",
+          "Bankanın sermayesi zaten yetersizdi; olay bir tesadüf.",
+          "Müşteriler tepkisizdi; sonuçlar bankanın kendi kararıydı."
+        ],
+        "answer": 1,
+        "explain": "Thomas’ın cümlesi tam olarak bunu söyler: durum gerçekte öyle olmasa bile, insanlar öyle tanımlayıp ona göre davranırsa sonuçlar gerçek olur. Birinci ve üçüncü seçenek söylentinin doğru olduğunu ya da bankanın zaten sorunlu olduğunu varsayıyor; senaryo bunun tersini kuruyor. Dördüncü seçenek de müşterilerin eylemlerini yok sayıyor."
+      }
+    },
+    {
+      "id": "deep-thomas",
+      "section": "concepts",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Kimin cümlesi bu? Thomas teoremi, Merton ve batan banka",
+      "body": "Cümle 1928’de *The Child in America*’da geçer; kitabın yazarları William I. Thomas ve Dorothy Swaine Thomas’tır. [[cite:thomas-thomas-1928-child-in-america]] Kaynaklarda cümle çoğunlukla “W. I. Thomas’a” atfedilir; Merton da böyle yapar. Kitabın hangi bölümünü hangi yazarın yazdığını bu kaynaklardan ayıramadık, bu yüzden biz de “Thomas teoremi” adını kullanırken bunun bir gelenek olduğunu not ediyoruz.\n\nMerton, 1949 kitabının “Kendini gerçekleştiren kehanet” bölümünü bu cümleyle açar: insanlar bir duruma yalnızca nesnel özelliklerine değil, çoğu zaman öncelikle kendileri için taşıdığı anlama tepki verir; anlamı bir kez verdikten sonra davranış ve sonuçların bir kısmı o anlama göre belirlenir. [[cite:merton-1949]] Soyutlamayı somutlaştırmak için bir “sosyolojik mesel” kurar: 1932’de, sağlam varlıkları olan hayalî bir banka; iflas söylentisi yeterince kişi tarafından inanılınca, banka gerçekten iflas eder. [[cite:merton-1949]] (Mesel Merton’un kurgusu; belgeli bir olay değil.)\n\nMeselin öğrettiği zincir şudur: durumun tanımı, davranışı; davranış, gerçek sonucu doğurur. Bu zinciri bir kuram olarak okuyunca etkileşimci bakışın çekirdeğini görürsün: anlam, sonucu belirler. İşlevselci bakış aynı olaya bakınca “sistemin (bankanın) dengesi neden bozuldu?” diye soracaktır. Aynı sahne, iki farklı soru."
+    },
+    {
+      "id": "con-goffman",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Goffman: hayat bir sahne mi? (Kısaca)",
+      "body": "[[person:goffman|Erving Goffman]], Shetland Adaları’ndaki alan araştırmasından beslenerek gündelik karşılaşmayı tiyatro diliyle çözümledi. [[cite:encyclopedia-goffman]] Sonuç, *The Presentation of Self in Everyday Life* oldu: önce 1956’da bir Edinburgh monografisi, sonra 1959’da Doubleday’in ABD baskısı. [[cite:goffman-1959-presentation-of-self]] [[cite:wikipedia-presentation-of-self]]\n\nTemel fikir: insanlar başkalarına kendilerini sunar ve bıraktıkları izlenimi yönetir. Bu sunum “ön sahne”de, yani resmî tanımların gösterildiği yerde yapılır; “arka sahne”de ise izlenimin hazırlığı yapılır, gösterinin gündelik kirli işleri saklanır. [[cite:encyclopedia-goffman]] [[cite:wikipedia-presentation-of-self]] Goffman’a göre karşındaki hakkında bilgi edinmek durumu tanımlamana yarar: kimden ne bekleyebileceğini bilmek için ipuçları ararız. [[cite:goffman-1959-presentation-of-self]] (Thomas’ın “durumun tanımı”yla akrabalığı fark ettin mi?)\n\nBu derste Goffman’a yalnızca bir köprü gözüyle bakıyoruz: Mead’in “benlik başkalarının gözünde kurulur” fikrini, gözlenebilir davranışa (jest, kıyafet, mekân) indiriyor. Etkileşimcilikle anılır; ama Goffman kendisini bir okula bağlamaktan uzak durmuştur. [[cite:wikipedia-goffman]] [[concept:dramaturgy|Dramaturji]] bir metafordur: hayatın tiyatro olduğunu değil, tiyatro sözlüğünün gündelik hayatı anlamaya yaradığını söyler.",
+      "question": {
+        "id": "con-goffman-q",
+        "type": "mcq",
+        "prompt": "Hayal et: Bir garson mutfağa girer girmez müşteriler hakkında espri yapıyor, salona çıkarken yüz ifadesini değiştiriyor. Goffman’ın diliyle mutfak nedir?",
+        "options": [
+          "Ön sahne",
+          "Arka sahne",
+          "Genelleştirilmiş öteki",
+          "Ayna benlik"
+        ],
+        "answer": 1,
+        "explain": "Mutfak, izleyicinin (müşterinin) görmediği, izlenimin hazırlandığı ve gösterinin “kirli işlerinin” saklandığı yerdir: arka sahne. En cazip yanlış “ön sahne”: garson orada da çalışıyor, ama ön sahne, gösterinin izleyiciye sunulduğu yerdir (salon). Genelleştirilmiş öteki ve ayna benlik başka kuramcıların kavramları, mekân değil zihinsel süreç anlatırlar."
+      }
+    },
+    {
+      "id": "ass-blumer",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Blumer’in üç önermesi: anlam nerede yaşar?",
+      "body": "1969’da *Symbolic Interactionism: Perspective and Method* kitabında [[person:blumer|Blumer]], [[concept:symbolic-interactionism|sembolik etkileşimciliği]] üç önermeye indirdi. [[cite:blumer-1969-symbolic-interactionism]] Kendi cümlelerimizle:\n\n1. **İnsanlar şeylere, o şeylerin kendileri için taşıdığı anlama göre davranır.** “Şey” bir nesne (telefon), bir insan (öğretmen) ya da bir durum (sınav) olabilir.\n2. **Bu anlamlar başkalarıyla etkileşimden doğar.** Anlam nesnenin içinde hazır durmaz; insanların o şey hakkında birbirine ne söylediğinden ve nasıl davrandığından çıkar.\n3. **Anlamlar bir yorumlama süreciyle işlenir ve değiştirilir.** Kişi karşılaştığı şeyle uğraşırken anlamı kullanır ama onu aynı zamanda yeniden yorumlar. [[cite:encyclopedia-blumer]] [[cite:encyclopedia-symbolic-interactionism]] [[cite:wikipedia-symbolic-interactionism]]\n\nHayal et: bir grup genç, yeni bir dizinin fragmanını izliyor. Birinci önermeye göre, fragmana “tuhaf” diyenle “tam bana göre” diyen farklı davranacak. İkinciye göre bu yargılar arkadaş sohbetinde biçimleniyor. Üçüncüye göre, dizinin ikinci bölümü yayımlanınca bu yargılar değişebilir.\n\nBu üç önermenin altında bir varsayım yatıyor: toplumu anlamak için, insanların eyleme geçmeden önce neyi nasıl yorumladığına bakmak gerekir.",
+      "question": {
+        "id": "ass-blumer-q",
+        "type": "mcq",
+        "prompt": "Aşağıdaki cümlelerden hangisi Blumer’in ikinci önermesiyle çelişir?",
+        "options": [
+          "Bir reklamın anlamı, izleyenlerin ona verdiği tepkilerle birlikte şekillenir.",
+          "Bir sembolün anlamı nesnenin kendisinde sabit durur ve herkes için aynıdır.",
+          "Arkadaşlar arasında konuşulanlar, bir şarkının ne ifade ettiğini etkiler.",
+          "Aynı sözcük farklı topluluklarda farklı anlamlar taşıyabilir."
+        ],
+        "answer": 1,
+        "explain": "İkinci önerme, anlamın nesnede hazır durmadığını, etkileşimden doğduğunu söyler; ikinci seçenek tam tersini iddia ediyor. Öteki üçü, anlamın topluluğa, sohbete ve bağlama göre biçimlendiğini söylüyor: yani önermeyle uyumlu."
+      }
+    },
+    {
+      "id": "ass-func",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "text",
+      "title": "İşlevselciliğin sessiz varsayımları (ve Merton’un itirazı)",
+      "body": "Merton 1949’da, işlevselci çözümlemelerin çoğunun (ağırlıklı olarak antropolojide) üç bağlantılı varsayıma yaslandığını söyler ve bunları “tartışmalı ve gereksiz” bulur. [[cite:merton-1949]] Sırayla:\n\n1. **İşlevsel birlik:** toplumun bütün parçaları uyum içinde, birbirine bağlı çalışır. Merton bunun bir varsayım değil, sınanması gereken bir hipotez olduğunu, gerçekte bütünleşmenin derecesinin değiştiğini ve bir öğenin kimi kesim için işlevli, kimi kesim için işlevsiz olabileceğini belirtir.\n2. **Evrensel işlevsellik:** var olan her kültür öğesi olumlu bir işlev görür. Merton, kalıcı öğelerin de işlevsiz sonuçlar taşıyabileceğini kabul etmemiz gerektiğini söyler.\n3. **Vazgeçilmezlik:** bir işlevi yalnızca belirli bir kurum görebilir. Merton burada iki iddianın karıştığını gösterir (bazı işlevler vazgeçilmezdir; bazı biçimler vazgeçilmezdir) ve ikincisi yerine “işlevsel alternatifler” kavramını önerir: aynı ihtiyacı başka yapılar da karşılayabilir. [[cite:merton-1949]]\n\nYani Merton’un işlevselciliği “her şey yerli yerinde” diyen bir bakış değil. Bunu birazdan “işlevselcilik statükoyu mu savunur?” tartışmasında göreceksin.",
+      "question": {
+        "id": "ass-func-q",
+        "type": "tf",
+        "prompt": "Doğru mu yanlış mı: Merton, işlevselcilerin sıkça kullandığı “vazgeçilmezlik” varsayımını ilke olarak benimsedi ve işlevsel alternatif fikrini reddetti.",
+        "answer": false,
+        "explain": "Yanlış; tam tersi. Merton vazgeçilmezlik varsayımını tartışmalı buldu ve aynı ihtiyacın başka yapılarla da karşılanabileceğini söyleyen “işlevsel alternatifler” kavramını öne çıkardı. Bu ayrım, hem “ne varsa haklıdır” eleştirisine hem de reform tartışmalarına kapı açar."
+      }
+    },
+    {
+      "id": "deep-postulates",
+      "section": "assumptions",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Radcliffe-Brown’dan Malinowski’ye, Merton’un üç postülası",
+      "body": "Merton, üç postülayı yalnızca sıralamaz; her birinin kimden geldiğini kitabında gösterir. [[cite:merton-1949]]\n\n**İşlevsel birlik.** Radcliffe-Brown’ın tanımını aktarır: toplumsal sistemin bütün parçalarının, çözülemeyen ya da düzenlenemeyen kalıcı çatışmalar üretmeyecek kadar uyum içinde birlikte çalışması. Merton bir ayrıntıyı da not eder: Radcliffe-Brown bu birliği kendisi sınanması gereken bir hipotez olarak sunar. Sorun, uygulamada hipotezin varsayıma dönüşmesidir.\n\n**Evrensel işlevsellik.** En katı hâliyle Malinowski’de: “every custom, material object, idea and belief fulfills some vital function” (Merton’un aktarımıyla). Merton bunun, işlevsel olmayan ama kuramsal ve pratik açıdan önemli sonuçlardan dikkati saptırdığını söyler.\n\n**Vazgeçilmezlik.** Kitapta bir örnek var: Davis ile Moore, dinin vazgeçilmezliğinden söz eder; ama Merton bakınca, vazgeçilmez sayılan şeyin kurumun kendisi değil, onun yerine getirdiği varsayılan işlev olduğunu görür.\n\nMerton’un kapanış uyarısı iki yönlüdür: yabancı gelenekleri “boş inanç” diye geçiştiren sıradan gözlemci bir uçtur; her şeyde hemen işlevsel değer bulan işlevselci öteki uç. İkisi de asıl soruyu, yani bir alışkanlığın hangi başka davranış biçimlerini dışarıda bıraktığını gözden kaçırır. [[cite:merton-1949]]"
+    },
+    {
+      "id": "ass-micro-macro",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "text",
+      "title": "Mikro–makro ayrımı ve “yapı mı, fail mi?” tartışması",
+      "body": "Sosyolojide [[concept:micro-macro-divide|mikro–makro ayrımı]], incelenen olgunun ölçeğine bakar: makro düzey toplumsal sistemleri ve kurumsal yapıları, mikro düzey kişilerarası ve etkileşimsel süreçleri kapsar. İşlevselcilik çoğunlukla makroya, sembolik etkileşimcilik mikroya yerleştirilir. [[cite:ebsco-micro-macro]]\n\nBu ayrımın altında daha derin bir tartışma yatar: **yapı mı, fail mi?** Yapı, insanların düşünme ve davranışını etkileyen kurumlar, normlar ve güçler ağıdır; fail (İngilizcesi *agency*), bireylerin kendi seçimlerini yapabilme yeteneği. [[cite:ebsco-structuration]] İki uçta iki sorun var: yapıyı çok vurgularsan insan bir kukla olur, faili çok vurgularsan toplum bireylerin niyetlerinin toplamına dönüşür. (Kukla ve toplam benzetmeleri bizim.)\n\nAnthony Giddens *The Constitution of Society* (1984) kitabında ikisini bir madalyonun iki yüzü gibi kurar: “yapının ikiliği”, yani yapıların hem insanların eylemlerinden oluşması hem de o eylemleri sınırlayıp yönlendirmesi. [[cite:giddens-1984-constitution-of-society]] [[cite:ebsco-structuration]]\n\nBundan sonra bir işlevselci ya da etkileşimci cümle duyduğunda ona iki soru sorabilirsin: *hangi ölçekte konuşuyor, ve insana ne kadar özgürlük tanıyor?*",
+      "question": {
+        "id": "ass-micro-macro-q",
+        "type": "mcq",
+        "prompt": "Aşağıdaki cümlelerden hangisi yapıyı öne çıkarıp faili neredeyse yok sayar?",
+        "options": [
+          "İzleyici, mesajı kendi deneyimlerine göre yeniden yorumlar.",
+          "Kurumsal yapı öylesine belirleyicidir ki izleyicinin tercihleri sonucu neredeyse hiç değiştirmez.",
+          "Yapılar insanların eylemleriyle üretilir ve aynı eylemleri sınırlar.",
+          "İnsanlar kurumların sınırları içinde bile seçim yapabilir."
+        ],
+        "answer": 1,
+        "explain": "İkinci seçenek, bireyin tercihini sonucu değiştirmeyen bir ayrıntıya indirerek yapıya neredeyse mutlak bir belirleyicilik veriyor: faili yok sayar. Birinci ve dördüncü seçenek failin etkisini vurgular. Üçüncüsü ise Giddens’ın “yapının ikiliği”ne yakın: ikisini birbirine bağlar, birini ötekine indirgemez."
+      }
+    },
+    {
+      "id": "how-func-steps",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Bir işlevselci çözümleme nasıl yürür?",
+      "body": "Merton’un kavramlarından pratik bir sıra çıkarabilirsin. (Sıra bizim düzenlememiz; Merton bunu tek bir tarif olarak vermez, ama bütün parçaları kitabındadır. [[cite:merton-1949]])\n\n1. **Örüntüyü adlandır.** İncelenen alışkanlık, tören, kurum ya da medya pratiği tam olarak nedir?\n2. **Birimi belirt.** Kimin için? Bir kişi, bir alt grup, bütün bir sistem? Sonuçların “işlevli” ya da “işlevsiz” olması hep bir birime göredir.\n3. **Sonuçları listele, niyetleri değil.** İşlevli, işlevsiz ve ilgisiz sonuçları ayrı ayrı yaz.\n4. **Açık ve gizil ayrımını yap.** Hangi sonuçlar amaçlanmış, hangileri amaçlanmamış ve fark edilmemiş?\n5. **Net bilanço çıkar ve alternatif sor.** Toplam etki ne? Aynı ihtiyacı başka bir yapı da karşılayabilir mi? [[cite:merton-1949]]\n\nMerton bu mantığı, kimsenin sevmediği bir kuruma, Amerikan kentlerinin siyasi makinelerine uyguladı; bir sonraki bölümlerde nasıl işlediğini göreceksin. Şimdilik şunu al: bu adımlar bir alışkanlığa “iyi” ya da “kötü” damgası vurmak için değil, ona neden ihtiyaç duyulduğunu görünür kılmak için var.",
+      "question": {
+        "id": "how-func-steps-q",
+        "type": "mcq",
+        "prompt": "İkinci adımda (“birimi belirt”) neden durup “kimin için?” diye sormak gerekir?",
+        "options": [
+          "Çünkü aynı örüntü bir alt grup için işlevli, başka bir alt grup için işlevsiz olabilir.",
+          "Çünkü işlevler yalnızca bireyler için tanımlanır.",
+          "Çünkü toplum düzeyinde işlev diye bir şey yoktur.",
+          "Çünkü bu adım atlanırsa gizil işlevler açık işlevlere dönüşür."
+        ],
+        "answer": 0,
+        "explain": "Merton’un vurgusu tam bu: bir kültür öğesi genellikle hem işlevli hem işlevsiz sonuçlar taşır ve bu sonuçlar farklı birimler için farklı dağılır. İkinci ve üçüncü seçenek yanlış: işlevler bireyler, alt gruplar ya da bütün sistem için tanımlanabilir. Dördüncü seçenek açık ile gizil ayrımıyla birimi karıştırıyor."
+      }
+    },
+    {
+      "id": "how-lab",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Egzersiz: 1933’ten tek bir sinema anısı, iki soru",
+      "body": "Bu bir egzersiz; aşağıdaki iki okuma bizim, Blumer’inki değil.\n\n**Belge.** Blumer’in 1933 tarihli kitabında, on beş yaşındaki bir lise öğrencisinin sinema anısı yer alır. Genç kız romantik filmlerdeki “güzel kızlar”ı izlemiş: saçlarını nasıl yaptıklarını, bir kafede masaya nasıl oturduklarını, nasıl sohbet edip dans ettiklerini gözlemlemiş; sonunda saçlarını güzel yapmak ve erkek arkadaşlarının yanında “nazik davranmak” istemiş. [[cite:blumer-1933-movies-conduct]]\n\n**Deneme 1: işlevselci soru.** Sinemaya gitme alışkanlığı gençlere ne yapıyor? Ne amaçlanmış (eğlence?), ne amaçlanmamış (bir tür görgü ve giyim kuşam dersi?) Kimler için işlevli, kimler için işlevsiz (örneğin ebeveynler için)? Aynı ihtiyacı karşılayacak başka bir kaynak var mı?\n\n**Deneme 2: etkileşimci soru.** Genç kız için “kafedeki güzel kızlar” ne anlama geliyor? Bu anlamı kimlerle konuşarak, hangi ortamlarda kurdu; denedi mi, beğenmeyince değiştirdi mi? Erkek arkadaşlarının tepkisi, kendini görme biçimini nasıl etkiliyor? (Cooley’in ayna benliğini hatırla.)\n\nSonra iki turu karşılaştır: hangi soru hangi ayrıntıyı görünür kıldı, hangisi hiç görmedi?",
+      "question": {
+        "id": "how-lab-q",
+        "type": "mcq",
+        "prompt": "Egzersizin birinci turunda “sinema, gençlere kimsenin amaçlamadığı bir görgü ve giyim dersi veriyor” cümlesi kurulursa, bu cümle Merton’un hangi kavramına denk düşer?",
+        "options": [
+          "Açık işlev",
+          "Gizil işlev",
+          "İşlevsizlik",
+          "Durumun tanımı"
+        ],
+        "answer": 1,
+        "explain": "Sisteme (gençlerin toplumsallaşmasına) katkı yapan, ama amaçlanmamış ve fark edilmemiş bir sonuç: gizil işlev. Açık işlev olsaydı sinemanın bu amaçla yapılıp izlendiği söylenmiş olurdu. İşlevsizlik zarar demektir; cümle katkıdan söz ediyor. “Durumun tanımı” Thomas’ın kavramıdır ve etkileşimci turun konusudur. (Hatırlatma: bu okuma bizim egzersizimiz; Blumer böyle demedi.)"
+      }
+    },
+    {
+      "id": "evid-machine",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "story",
+      "title": "En çok kınanan kurum neden ölmüyor? Merton’un siyasi makine çözümlemesi",
+      "body": "Merton’un 1949 kitabında çarpıcı bir örnek var: Amerikan kentlerinin siyasi makineleri. Bir “patron” ve onun mahalle temsilcileri, kişisel ilişkilerden örülü bir ağla seçimleri mahallede kazanır. Kamuoyunun kınadığı şeyler bellidir: kayırma, rüşvet, suça “koruma”. Halk makinelerin ahlaksız olduğunu düşünür ve reformla ortadan kalkmasını bekler; oysa Merton, makinelerin küllerinden yeniden doğduğunu, yani şaşırtıcı bir dayanıklılık gösterdiğini yazar. [[cite:merton-1949]] Sorusu şu: madem bu kadar kınanıyor, neden sürüyor?\n\nCevabı sonuç listesinde arar:\n- Anayasal düzen iktidarı çok dağıttığı için, iş yaptırabilecek bir merkez eksiktir; patron bu boşluğu dışarıdan doldurur.\n- Yoksul ve göçmen mahallelerde makine yardımı kişiselleştirir: yemek sepeti, iş, hukuki tavsiye, küçük başı belaya girenlere destek; resmî yardım kurumlarının soğuk, sorgulayıcı tavrına karşı “bizden biri” olmanın rahatlığı.\n- İş dünyasına siyasi ayrıcalık sağlar; ve toplumsal yükselme yolları kapalı olan gruplara alternatif bir hareketlilik kanalı açar. [[cite:merton-1949]]\n\nMerton bunun bir aklama olmadığını açıkça yazar: işlevsel bakış, makineyi değiştirmek ya da ortadan kaldırmak için daha sağlam bir zemin verir; yeter ki aynı ihtiyaçları karşılayacak başka düzenlemeler kurulsun. [[cite:merton-1949]] Bu, “işlevselcilik statükocudur” eleştirisine kendi verdiği yanıtın somut hâlidir.",
+      "question": {
+        "id": "evid-machine-q",
+        "type": "mcq",
+        "prompt": "Merton, siyasi makinenin gizil işlevlerini sıralarken ne yapmış olur?",
+        "options": [
+          "Makineyi ahlaken savunur.",
+          "Makinenin ilan edilen amacının dışındaki sonuçlarına bakar ve bu ihtiyaçlar başka yollarla karşılanmadıkça makinenin süreceğini söyler.",
+          "Bütün makinelerin tıpatıp aynı işlevleri gördüğünü kanıtlar.",
+          "Reformun gereksiz olduğunu savunur."
+        ],
+        "answer": 1,
+        "explain": "Merton’un hamlesi, kınanan bir kurumun neden sürdüğünü sonuçları üzerinden anlamak ve bu ihtiyaçları karşılayacak başka düzenlemeler olmadan kurumun kalkmayacağını göstermektir. Birinci seçenek en cazip yanlış, ama Merton açıkça aklama yapmadığını yazar. Üçüncü seçenek de yanlış: Merton bütün makinelerin aynı işlevleri aynı ölçüde gördüğünü öne sürmez. Dördüncüsü, yazdığının tersidir."
+      }
+    },
+    {
+      "id": "evid-payne",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "story",
+      "title": "Blumer’in 1933’te “bana anlat” yöntemi",
+      "body": "Payne Fund araştırmaları, sinemanın çocuklar ve gençler üzerindeki etkisini incelemek için düzenlenmiş bir dizi çalışmaydı; bunlardan biri, Chicago Üniversitesi’nden Herbert Blumer’in *Movies and Conduct* (1933) çalışmasıydı. [[cite:blumer-1933-movies-conduct]] [[cite:wikipedia-payne-fund]] (Serinin öyküsü [[lesson:payne-fund-mars]] dersinde.)\n\nYöntem ilginç: Blumer’in ana dayanağı bir deney değil, yazılı yaşam öyküleriydi; insanlardan sinemayla yaşadıklarını anlatı biçiminde yazmalarını istedi. Yanıtlar 634 üniversite öğrencisinden, 481 kız kolej öğrencisinden, 583 lise öğrencisinden (Chicago’daki on devlet lisesi), 67 büro çalışanından ve 58 fabrika çalışanından toplandı. [[cite:blumer-1933-movies-conduct]] Toplam 1.800’ü aşkın “sinema otobiyografisi” eder (toplamı biz aldık; Wikipedia da 1.823 der). [[cite:wikipedia-payne-fund]]\n\nBulgulardan bir örnek: 458 lise öğrencisinin otobiyografisinde yüzde 62’si giyim ve tavırlarını filmlerden taklit ettiğini yazıyor; yüzde 16’sı böyle bir taklidin farkında değil; yüzde 22’sinden bir sonuç çıkmıyor. [[cite:blumer-1933-movies-conduct]]\n\nBlumer sayıların kesin sayılmaması gerektiğini de kendisi yazar: kimseden belirli bir yönde yazması istenmediği için sayımlar kesin değildir. [[cite:blumer-1933-movies-conduct]] Bu, “aktörün kendi anlatısı” türünden bir araştırmadır; terim 1937’de konacaktı, 1933’te henüz yoktu, ama soru aynı çizgideydi (bizim yorumumuz).",
+      "question": {
+        "id": "evid-payne-q",
+        "type": "mcq",
+        "prompt": "Blumer’in çalışmasındaki “yüzde 62 taklit” bulgusunun sınırı nedir?",
+        "options": [
+          "Kişilerin kendi yazdıkları anlatılara dayanır; kontrol grubu yoktur ve sinemanın taklidi yarattığını kanıtlamaz.",
+          "Yüzde 62 çok yüksek bir oran olduğundan sinemanın taklidi yarattığını kesinleştirir.",
+          "Yalnızca fabrika çalışanlarını kapsar.",
+          "Blumer bu oranı hiç sayıya dökmedi."
+        ],
+        "answer": 0,
+        "explain": "Bulgu, insanların kendi anlatılarında taklidi anmalarına dayanıyor; Blumer’in kendi uyarısı da sayımların kesin sayılmaması yönünde. İkinci seçenek, yüksek oranı nedensellik kanıtı sanıyor; bu mantık hatası. Üçüncü seçenek örneklemle çelişiyor (bu oran lise öğrencilerindendir), dördüncüsü ise metinde verilen sayılarla."
+      }
+    },
+    {
+      "id": "deep-blumer-1933",
+      "section": "evidence",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Blumer’in 1933 verisi nasıl toplandı, neler dışarıda kaldı?",
+      "body": "Blumer’in kitabının “yöntem” bölümü üç şey söyler.\n\n**Yönerge nasıl oluştu.** İşe iki üniversite sınıfından, “doğal ve dürüst” bir dille ve derste değil, evde, altı sekiz haftada yazılan serbest anlatılarla başlanmış. Bu yazılardan tekrarlayan deneyimler ayıklanmış ve sonraki otobiyografiler için bir kılavuz form hazırlanmış (kitabın Ek A’sında). [[cite:blumer-1933-movies-conduct]]\n\n**Sayımların değeri.** Blumer sayımları kesin saymaz, ama belirli bir şekilde yazmaya zorlanmadıkları için, kapalı sorulu bir ankete göre daha değerli olabileceklerini söyler. Kitabın ana gövdesi ise seçilmiş anlatılardır; okurun, yazarın yorumlarının makul olup olmadığına kendisi karar verebilmesi için. [[cite:blumer-1933-movies-conduct]]\n\n**Dışarıda kalanlar.** Blumer, sinemanın cinsel yaşam üzerindeki etkisinin toplanan malzemede önemli çıktığını, ama bunu kitaba almayı uygun bulmadığını ve bu ihmalin etkinin yokluğu anlamına gelmediğini yazar. Ayrıca sinemanın etkisi gazete, roman ya da tiyatroyla karşılaştırılmaz. [[cite:blumer-1933-movies-conduct]]\n\nBu ayrıntılar, sonraki derslerde “sinema gençleri etkiler mi?” tartışmasına bakarken işe yarar: bir çalışmanın ne yapıp ne yapmadığını, kendi yazdığı sınırlar üzerinden okumak güçlü bir alışkanlıktır."
+    },
+    {
+      "id": "crit-fun",
+      "section": "critique",
+      "layer": "core",
+      "kind": "myth",
+      "title": "Mit: “İşlevselcilik, ne varsa haklı çıkarır”",
+      "body": "**İnsanlar ne sanır?** İşlevselcilik, bir kuruma “işe yarıyor” dediği anda onu haklı çıkarır, yani statükoyu korur; üstelik sonucu (işe yaramayı) nedenin yerine koyan “teleolojik” bir mantığa yaslanır. Ansiklopedilerdeki eleştiri listesi de bu izlenimi verir: muhafazakâr, statükoyu koruyan, çatışma ve değişimi gözden kaçıran, “işlev” kavramı muğlak bir yaklaşım. [[cite:tubitak-islevselcilik-sosyoloji]] [[cite:ebsco-micro-macro]]\n\n**Kaynaklar ne diyor?** Merton bu eleştiriyi 1949’da kitabında ayrı bir başlık olarak ele alır: işlevsel çözümlemenin kaçınılmaz olarak “muhafazakâr”, hatta “gerici” olduğu iddiası; bir eleştirmenin ifadesiyle, kurumları işlevleriyle tarif etmek “muhafazakâr bir teleolojiye” götürür. Merton’un yanıtı: bu, ancak üç varsayımı (işlevsel birlik, evrensel işlevsellik, vazgeçilmezlik) sorgusuz benimsersen doğar. İşlevsizlikleri ve işlevsel alternatifleri hesaba katan bir çözümleme bu sonuca mahkûm değildir. Merton işlevselciliğin aslında eleştirel ve pragmatik olduğunu savunan sesleri de anar. Teleolojiyi hicvetmek için de Franklin’e atfettiği bir örnek verir: Tanrı, kolun eklemlerini kadehi ağza taşıyacak uzunlukta yaratmıştır, o hâlde kadeh elde ona hayranlıkla içelim. [[cite:merton-1949]]\n\n**Sonuç.** Eleştiri boş değil: üç varsayım pratikte sık kullanıldı. Ama “işlevselcilik ne varsa haklı çıkarır” genellemesi, Merton’un kendi yazdıklarıyla çelişiyor.",
+      "question": {
+        "id": "crit-fun-q",
+        "type": "mcq",
+        "prompt": "Merton’un 1949’daki yanıtına göre, işlevsel çözümleme hangi durumda “muhafazakâr teleolojiye” savrulma riski taşır?",
+        "options": [
+          "İşlevleri ve işlevsizlikleri birlikte listelediğinde.",
+          "İşlevsel birlik, evrensel işlevsellik ve vazgeçilmezlik varsayımlarını sorgusuz benimsediğinde.",
+          "Açık işlevleri gizil işlevlerden ayırdığında.",
+          "Bir kurumun alternatiflerini araştırdığında."
+        ],
+        "answer": 1,
+        "explain": "Merton’a göre eleştirinin dayanağı bu üç varsayımdır: her şey uyumlu, her öğe işlevli, her biçim vazgeçilmezse, mevcut düzeni savunmaktan başka yol kalmaz. Öteki seçeneklerin üçü de Merton’un önerdiği ve bu tuzaktan kaçınmaya yarayan araçlardır: işlevsizlikleri görmek, gizil işlevleri ayırmak, alternatif aramak."
+      }
+    },
+    {
+      "id": "crit-int",
+      "section": "critique",
+      "layer": "core",
+      "kind": "text",
+      "title": "Etkileşimciliğin körlüğü: yapı nerede?",
+      "body": "İşlevselciliğin sorusu “sistem” olduğu için insanı kuklaya çevirme riski taşıyorsa, etkileşimciliğin sorusu “anlam” olduğu için yapıyı gözden kaçırma riski taşır.\n\n1970’lerde araştırmacılar sembolik etkileşimciliği toplumsal yapıyı, güç ilişkilerini ve tarihsel bağlamı ihmal etmekle eleştirdi; Sheldon Stryker gibi kuramcılar bu eleştiriyi yapıyı hesaba katan bir sürümle karşıladı. [[cite:encyclopedia-symbolic-interactionism]] [[cite:carter-fuller-2016-symbols-meaning-action]] Türkçe ansiklopedi maddesi de kuramın toplumsal çatışma ve makro ölçekli çözümlemelerde geri kaldığını söyler. [[cite:tubitak-sembolik-etkilesimcilik]] Aynı eleştiri Goffman için de yapıldı: sınıf ve ekonomik yapı gibi makro kaygıları ihmal ettiği söylendi. [[cite:encyclopedia-goffman]]\n\nYöntem tarafında da itirazlar var: yaklaşım “fazla izlenimci” bulundu, bir kuram olmaktan çok bir çerçeve olduğu, sınanmasının zor olduğu söylendi. [[cite:wikipedia-symbolic-interactionism]]\n\nSavunucuların yanıtı? Gary Alan Fine 1993’te, etkileşimciliğin mikro/makro ve yapı/fail tartışmalarındaki yerini ve “makro-etkileşimcilik” gibi genişleme alanlarını anlatır. [[cite:fine-1993-sad-demise]] Yani tartışma kapanmış değil: etkileşimciler yapıyı da görmeye çalışıyor; eleştirmenler bunun yeterli olup olmadığını soruyor.",
+      "question": {
+        "id": "crit-int-q",
+        "type": "mcq",
+        "prompt": "Bir araştırmacı, bir haber odasındaki editörlerin bir haberin anlamı üzerinde nasıl pazarlık ettiğini çok ince anlatıyor; ama medya sahipliğinin yoğunlaşmasını ve reklam gelirinin dağılımını hiç sormuyor. Hangi eleştiri en çok yerinde?",
+        "options": [
+          "Çalışma fazla nicel; nitel yöntem bırakılmalı.",
+          "Çalışma toplumsal yapıyı ve güç ilişkilerini dışarıda bırakıyor.",
+          "Çalışma bireyi pasif bir kukla gibi betimliyor.",
+          "Çalışma açık işlevle gizil işlevi karıştırıyor."
+        ],
+        "answer": 1,
+        "explain": "Etkileşimciliğin klasik eleştirisi, mikro ayrıntıyı ustalıkla anlatırken yapının ve gücün (burada sahiplik ve gelir düzeninin) dışarıda kalmasıdır. Birinci seçenek zaten nitel bir çalışmayı “nicel” sanıyor. Üçüncü seçenek işlevselciliğe yönelen eleştiridir; açık/gizil ayrımı da bu çalışmada yoktur."
+      }
+    },
+    {
+      "id": "deep-mills-parsons",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Mills’in “büyük kuram”ı ve Parsons’ın “saman adamı”?",
+      "body": "C. Wright Mills, *The Sociological Imagination*’da (1959) “büyük kuram” başlıklı bir bölümü Parsons’a ayırdı; hedef ağırlıkla *The Social System* (1951) idi. [[cite:mills-1959-sociological-imagination]] [[cite:staubmann-2021-mills-parsons]] Mills “büyük kuram”ı, kabaca “kavramları birleştirip ayırma” işi diye tanımlar. Helmut Staubmann, Mills’in kullandığı sözler arasında “sözdizimine sarhoş, anlambilime kör” gibi ifadeler de olduğunu aktarır. [[cite:staubmann-2021-mills-parsons]]\n\nStaubmann’ın tezi şudur: Mills’in okuması tek yanlıydı ve ders kitaplarına geçen “muhafazakâr büyük kuramcı” imgesinin yerleşmesinde Mills’in payı büyüktü. Ona göre *The Social System*’in iki bölümü dinamik süreçlere ve değişime ayrılmıştı; Parsons “yapısal işlevselcilik” etiketiyle de yalnızca 1950’lerin başında kısa bir dönem anılmış, sonra bu etiketten uzak durmuştu. [[cite:staubmann-2021-mills-parsons]] Bir ansiklopedi maddesi de Parsons’ın kendi kuramını işlevselcilik değil eylem kuramı diye adlandırdığını söyler. [[cite:wikipedia-action-theory]]\n\nDikkat: bu, Parsons’ı savunan bir yorumdur; Mills’in kendi cevabı ya da başka eleştirmenlerin itirazı bu kartta yok. Yani “gerçek Parsons kimdi?” tartışması açık. Sınav için önemli olan, klasik eleştirilerin içeriğini (muhafazakârlık, değişimi ve çatışmayı açıklayamama) bilmek ve bunların tartışmalı olduğunu da bilmek."
+    },
+    {
+      "id": "deep-schools",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Chicago, Iowa, Indiana: etkileşimciliğin üç yolu",
+      "body": "Sembolik etkileşimcilik tek bir blok değil. Carter ve Fuller (2016) üç ana yörünge sayar: Herbert Blumer’in Chicago Okulu, Manford Kuhn’un Iowa Okulu ve Sheldon Stryker’ın Indiana Okulu; her birini kendi araştırma yöntemi ayırır. [[cite:carter-fuller-2016-symbols-meaning-action]] Genel özetlerde Chicago geleneği süreç odaklı ve nitel yöntemlerle, Iowa çizgisi daha yapısal ve nicel yöntemlerle anılır; Stryker’ın “yapısal sembolik etkileşimcilik”i de bu çizgilerden biri olarak geçer. [[cite:wikipedia-symbolic-interactionism]]\n\nDikkat: buradaki Manford Kuhn, paradigma kavramıyla bilinen Thomas Kuhn değildir; sınavda iki Kuhn’u karıştırmak sık yapılan bir hatadır.\n\nGary Alan Fine ise 1993’te ilginç bir paradoksa dikkat çekti: etkileşimcilerin çekirdek kavramları disiplin tarafından büyük ölçüde benimsenirken, etkileşimciler bir entelektüel topluluk olarak dağınıklaştı; makale başlığı da bu paradoksa göndermedir (“acıklı çöküş, gizemli kayboluş, görkemli zafer”). [[cite:fine-1993-sad-demise]]\n\nBu yüzden “sembolik etkileşimcilik şunu der” dediğinde şunu sor: hangi yörüngeden, hangi yöntemle? Bu, yapı tartışmasının bir başka yüzü: Stryker’ın sürümü yapıyı içeri alır, Blumer’in sürümü ise yorumlama sürecine yaslanır."
+    },
+    {
+      "id": "today-func",
+      "section": "today",
+      "layer": "core",
+      "kind": "text",
+      "title": "Medyanın işlevleri: Lasswell’den “uyuşturan işlevsizliğe”",
+      "body": "Medyaya işlevselci soru sormanın klasik örnekleri var. Lasswell 1948’de iletişimin toplumdaki üç işlevini saydı: gözetim, ilişkilendirme, aktarım. [[cite:lasswell-1948]] Charles Wright 1960’ta bu listeye eğlenceyi dördüncü işlev olarak ekledi. [[cite:wright-1960]]\n\nMerton’un işlev/işlevsizlik dili ise medyada tersinden de çalışır: Lazarsfeld ile Merton, 1948 tarihli bölümlerinde medyanın toplum için yalnızca işlev değil işlevsizlik de üretebileceğini savundu. “Uyuşturan işlevsizlik” (narcotizing dysfunction) diye anılan fikre göre, bir konuda bilgiye boğulan insanlar eyleme geçmek yerine bilgiyle yetinebilir: haber takip etmek, bir şey yapmışım hissinin yerine geçer. [[cite:lazarsfeld-merton-1948-mass-communication]] [[cite:wikipedia-narcotizing-dysfunction]]\n\nBugün bunu bildirim akışı üzerinden tartışabilirsin, ama dikkat: “sosyal medya insanı uyuşturuyor mu?” bu derste kanıt sunduğumuz bir iddia değil; işlevselci sorunun nasıl kurulduğunu gösteren bir örnek. Sorular hazır: hangi birim için (kullanıcı, yayıncı, demokrasi)? Hangi sonuçlar amaçlanmış, hangileri değil? Gizil olan ne? Ayrıntılar [[lesson:functions-of-media]] dersinde.\n\nÜç adı aynı çizgide okuyabilirsin (bizim özetimiz): Lasswell üç toplumsal işlevi sıraladı, Wright listeye eğlenceyi ekledi, Lazarsfeld ile Merton ise işlevin gölgesindeki işlevsizliği gündeme getirdi.",
+      "question": {
+        "id": "today-func-q",
+        "type": "mcq",
+        "prompt": "Bir haber uygulaması sürekli bildirim gönderiyor. Kullanıcı bildirimleri okuyunca “gündemi takip ettim, üstüme düşeni yaptım” hissine kapılıp haberin gerektirdiği hiçbir eyleme geçmiyor. Lazarsfeld ile Merton’un fikrine göre bu nasıl okunabilir?",
+        "options": [
+          "Uygulamanın açık işlevi: kullanıcıyı harekete geçirmek.",
+          "Uyuşturan işlevsizlik: bilgi bolluğu, eylemin yerini alıyor.",
+          "Gizil örüntü sürdürme: değerlerin kuşaktan kuşağa aktarımı.",
+          "Durumun tanımı: bildirim bir söylenti."
+        ],
+        "answer": 1,
+        "explain": "Bilgiyle yetinip eyleme geçmemek, uyuşturan işlevsizlik fikrinin özüdür. (Bu, bir okuma; ampirik iddia değil.) Birinci seçenek eylemi açık işlev sayıyor; senaryoda eylem yok. Üçüncü seçenek Parsons’ın AGIL’inden bir kavram ve konuyla ilgisiz. Dördüncüsü Thomas’ın kavramını yanlış yerde kullanıyor."
+      }
+    },
+    {
+      "id": "today-int",
+      "section": "today",
+      "layer": "core",
+      "kind": "text",
+      "title": "Ön sahne, arka sahne ve ekran: etkileşimcilik medyada",
+      "body": "Joshua Meyrowitz *No Sense of Place* (1985) kitabında Goffman’ın dramaturjisini McLuhan’ın medya kuramıyla birleştirdi. [[cite:meyrowitz-1985-no-sense-of-place]] [[cite:serra-2024-meyrowitz]] Özet fikir: elektronik medya, farklı toplumsal gruplar arasındaki bilgi engellerini kaldırdıkça ön ve arka sahnenin sınırları da bulanır. [[cite:wikipedia-meyrowitz]]\n\nSosyal medya için iki güncel katkı var. Bernie Hogan 2010’da, Goffman’ın sahnesinin eşzamanlı “durumlar” için geçerli olduğunu; sosyal medyada ise durum güncellemeleri ve fotoğraf kümeleri gibi eşzamansız “sergilerin” bulunduğunu ve bunları düzenleyip dağıtan sanal bir “küratör” olduğunu savundu. [[cite:hogan-2010-presentation-of-self]] Alice Marwick ile danah boyd, Twitter kullanıcılarıyla yaptıkları görüşmelerde, sosyal medyanın birçok izleyiciyi tek bağlama topladığını (“bağlam çöküşü”) ve kullanıcıların “hayali bir izleyici” tasarlayıp ona göre paylaştığını gösterdi; kimi kitlelere yönelmek, bazı konuları gizlemek, samimiyeti korumak gibi teknikler bunun ürünüydü. [[cite:marwick-boyd-2011-imagined-audience]]\n\nBizim bağlantımız (yorum): “hayali izleyici” fikri, Mead’in genelleştirilmiş ötekisine benziyor. İkisi de kişinin, karşısında gerçek biri olmadan bile bir bakışı üstlenmesi. Bunu bir iddia değil, bir okuma önerisi say.",
+      "question": {
+        "id": "today-int-q",
+        "type": "mcq",
+        "prompt": "Bir kullanıcının hesabını aynı anda ailesi, iş arkadaşları ve yakın arkadaşları takip ediyor; kullanıcı bu yüzden bir şaka yapmaktan çekiniyor. Marwick ile boyd’un diliyle bu durum nasıl adlandırılır?",
+        "options": [
+          "Uyuşturan işlevsizlik",
+          "Bağlam çöküşü",
+          "Gizil örüntü sürdürme",
+          "Rol oyunu (play)"
+        ],
+        "answer": 1,
+        "explain": "Birçok farklı izleyicinin tek bir bağlamda toplanması ve kullanıcının bu yüzden paylaşımlarını ayarlamak zorunda kalması “bağlam çöküşü”dür. Uyuşturan işlevsizlik Lazarsfeld ile Merton’un medya işlevsizliği fikri; gizil örüntü sürdürme Parsons’ın AGIL’indeki L; rol oyunu ise Mead’in çocukluk aşamasıdır. Hiçbiri bu durumun adı değil."
+      }
+    },
+    {
+      "id": "today-lab",
+      "section": "today",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Egzersiz: bir paylaşım, iki bakış (ve bir eksik soru)",
+      "body": "Bu bir egzersiz; aşağıdaki senaryo hayalîdir.\n\n**Hayal et:** Bir üniversite öğrencisi, hem akrabalarının hem sınıf arkadaşlarının hem de ileride kendisini işe alabilecek insanların takip ettiği tek bir hesaptan paylaşım yapıyor. Fotoğraf atmadan önce üç kez düşünüyor; bazı paylaşımları yalnızca “yakın arkadaşlar” listesine açıyor.\n\n**Belge dayanağı:** Marwick ile boyd’un görüştüğü kullanıcılar da benzer teknikler anlatır: farklı kitlelere yönelmek, bazı konuları gizlemek, samimiyeti korumaya çalışmak. [[cite:marwick-boyd-2011-imagined-audience]]\n\n**İşlevselci tur.** Bu pratik kimin için, ne işe yarıyor? (Kullanıcı için itibar yönetimi; aileler için bağın sürmesi; platform için içerik akışı.) Kimler için işlevsiz olabilir (örneğin kullanıcının kendisi için sürekli gerilim)? Amaçlanan ve amaçlanmayan sonuçlar neler?\n\n**Etkileşimci tur.** Öğrencinin “hayali izleyici”si kim? Neyi kime göre “uygun” sayıyor? Bir arkadaşının yorumu paylaşım biçimini nasıl değiştiriyor? Bu anlamlar hangi etkileşimlerde kuruluyor?\n\n**Bir üçüncü soru.** İki tur da, hangi izleyici gruplarının tek bir bağlamda buluşacağını platformun tasarımının ve iş modelinin belirlediğini soruyor mu? Sormuyorsa, hangi ölçekte bir soru eksik?",
+      "question": {
+        "id": "today-lab-q",
+        "type": "mcq",
+        "prompt": "Egzersizin sonundaki “üçüncü soru”, hangi düzeyde bir soru sormanın gerekliliğini gösteriyor?",
+        "options": [
+          "Mikro düzey: iki kişinin sohbetinin anlamı.",
+          "Yapı düzeyi: platformun tasarımı ve iş modeli, izleyicileri nasıl bir araya getiriyor?",
+          "Ruhsal düzey: öğrencinin kaygı düzeyi ne kadar?",
+          "Tarihsel düzey: sosyal medyadan önce insanlar nasıl konuşuyordu?"
+        ],
+        "answer": 1,
+        "explain": "Üçüncü soru, izleyici bağlamını belirleyen tasarımı ve iş modelini soruyor: bu bir yapı düzeyi sorusudur ve iki turun mikro ölçekte bıraktığı boşluğu doldurur. Birinci seçenek zaten etkileşimci turun konusu. Üçüncü ve dördüncü seçenek makul sorular olabilir ama bu egzersizin işaret ettiği eksik soru değil."
+      }
+    },
+    {
+      "id": "exam-patterns",
+      "section": "exam",
+      "layer": "core",
+      "kind": "text",
+      "title": "Sınavda böyle sorulur",
+      "body": "**Sık çıkan kalıplar**\n\n- “AGIL şemasını kim geliştirdi?” → Talcott Parsons. Harfler: uyum, amaca ulaşma, bütünleşme, gizil örüntü sürdürme.\n- “Açık ve gizil işlev ayrımı kime aittir?” → Robert K. Merton (*Social Theory and Social Structure*, 1949).\n- “Ayna benlik?” → Charles H. Cooley (1902). “Genelleştirilmiş öteki, I ve me?” → G. H. Mead.\n- “‘Sembolik etkileşimcilik’ terimini kim ortaya attı?” → Herbert Blumer (1937). “Dramaturjik yaklaşım?” → Erving Goffman.\n- “Durumun tanımı / Thomas teoremi?” → W. I. Thomas.\n- “Mikro–makro”: işlevselcilik makro, etkileşimcilik mikro düzeyle anılır.\n\n**Cazip yanlışlar**\n\n- Mead’i terimi koyan kişi saymak: adı Blumer koydu, Mead’in ölümünden sonra.\n- Cooley ile Mead’i karıştırmak: ayna benlik Cooley’in; “I”, “me” ve genelleştirilmiş öteki Mead’in.\n- “Gizil”i “gizli komplo” sanmak: gizil, amaçlanmamış ve fark edilmemiş demektir.\n- Parsons ile Merton’u tek kefeye koymak: AGIL Parsons’ın; açık/gizil işlev Merton’un.\n- Manford Kuhn’u (Iowa çizgisi) Thomas Kuhn’la (paradigma) karıştırmak.\n\n**Alternatif adlar**\n\n- AGIL’in Türkçe harfleri kaynaklarda “gaye ulaştırma” (amaca ulaşma) ve “içerileme” (bütünleşme) diye de geçer; “gizil” yerine “latent” yazanlar da var. [[cite:tubitak-yapisal-islevselcilik]] [[cite:tubitak-islevselcilik-sosyoloji]]\n- “Gizil işlev” için “gizli işlev” de kullanılır. “Sembolik etkileşimcilik” yerine “sembolik etkileşim kuramı”, “yapısal işlevselcilik” yerine “yapısal-fonksiyonel yaklaşım” gibi adlara da rastlarsın.\n\nSınav soruları genel örüntülere göre yazıldı; hangi kaynağı okursan oku, her ismi kavramıyla, her kavramı kendi düzeyiyle (mikro/makro) eşle.",
+      "question": {
+        "id": "exam-patterns-q",
+        "type": "mcq",
+        "prompt": "Bir sınav sorusu: “Aşağıdaki eşleşmelerden hangisi yanlıştır?” Doğru cevap hangisi?",
+        "options": [
+          "Cooley: ayna benlik",
+          "Mead: genelleştirilmiş öteki",
+          "Cooley: “I” ve “me”",
+          "Blumer: “sembolik etkileşimcilik” adını koyan"
+        ],
+        "answer": 2,
+        "explain": "“I” ve “me” Mead’in kavramlarıdır; Cooley’in kavramı ayna benliktir. Sınav yazarları bu iki ismi sık çaprazlar. Diğer üç eşleşme doğru: Cooley ayna benlik, Mead genelleştirilmiş öteki, Blumer de terimi 1937’de ortaya atan kişi."
+      }
+    },
+    {
+      "id": "summary",
+      "section": "summary",
+      "layer": "core",
+      "kind": "summary",
+      "title": "Özet kartı",
+      "body": "- **Yapısal işlevselcilik** toplumu sistem olarak görür (makro): bir örüntüyü, bütünün sürmesine katkısıyla açıklar. Parsons’ın AGIL şeması dört gerekliliği sayar: uyum, amaca ulaşma, bütünleşme, gizil örüntü sürdürme.\n- **Merton**, işlev ile işlevsizliği, açık ile gizil işlevi ayırdı; “kimin için?” sorusunu ve işlevsel alternatifleri ekledi. Hopi yağmur töreni ve siyasi makine örnekleri bu mantığı gösterir.\n- **Sembolik etkileşimcilik** toplumu, anlamın etkileşimde kurulduğu bir süreç olarak görür (mikro). Cooley’in ayna benliği, Mead’in “I”/“me”si ve genelleştirilmiş ötekisi, Thomas’ın durumun tanımı, Blumer’in üç önermesi bu bakışın taşlarıdır; terimi Blumer 1937’de koydu.\n- **Goffman** kısaca: ön sahne, arka sahne, izlenim yönetimi.\n- **Mikro–makro** ve **yapı–fail** tartışması iki bakışın ortak muhasebesidir; Giddens ikisini “yapının ikiliği”yle bağlamaya çalıştı.\n- **Eleştiri:** işlevselcilik muhafazakârlık ve teleoloji suçlamasıyla karşılaştı (Merton kendisi bunu ele aldı; Mills’in “büyük kuram” eleştirisi ise tartışmalı); etkileşimcilik yapıyı ve gücü gözden kaçırmakla suçlandı.\n- **Medyada** işlevselci soru “medya toplum için ne iş görür?” (Lasswell, Wright, Lazarsfeld–Merton), etkileşimci soru “insanlar medyayı nasıl anlamlandırır, kendini onunla nasıl sunar?” (Blumer 1933, Meyrowitz, Marwick–boyd).",
+      "question": {
+        "id": "summary-q",
+        "type": "tf",
+        "prompt": "Doğru mu yanlış mı: Merton’a göre “gizil işlev”, kötü niyetle saklanan gizli bir amaçtır.",
+        "answer": false,
+        "explain": "Yanlış. Merton’a göre gizil işlev, amaçlanmamış ve fark edilmemiş bir sonuçtur; kimsenin gizlediği bir plan değil. Örnek: bir tören yağmur getirmese de topluluğun kimliğini pekiştirebilir; katılanların hiçbiri bunu bilinçli olarak amaçlamamış olabilir."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Merton’un diliyle bir sonucun “gizil” olması ne demektir?",
+      "options": [
+        "Kötü niyetle gizlenmiş olması",
+        "Amaçlanmamış ve fark edilmemiş olması",
+        "Yalnızca olumsuz olması",
+        "Ölçülememesi"
+      ],
+      "answer": 1,
+      "explain": "Merton’a göre gizil olan, ne amaçlanmış ne fark edilmiştir. Bu yüzden gizli plan (birinci seçenek) değildir. Gizil işlev olumlu bir sonuçtur (yani işlev); olumsuz olsaydı gizil işlevsizlik denirdi (üçüncü seçenek bu farkı silip geçiyor). Ölçülebilirlik ise ayrı bir sorundur."
+    },
+    {
+      "id": "q2",
+      "type": "tf",
+      "prompt": "Doğru mu yanlış mı: Blumer “sembolik etkileşimcilik” terimini ilk kez 1969’daki kitabında kullandı.",
+      "answer": false,
+      "explain": "Yanlış. Terimi Blumer 1937’de, Schmidt’in derlediği *Man and Society* içindeki bir yazıda ortaya attı; 1969’daki *Symbolic Interactionism: Perspective and Method* ise yaklaşımı ayrıntılı biçimde ortaya koydu. Sınavda “1969” cazip yanlıştır, çünkü kitabın adı terimi taşıyor."
+    },
+    {
+      "id": "q3",
+      "type": "match",
+      "prompt": "Kitapları yazarlarıyla eşleştir.",
+      "pairs": [
+        ["Human Nature and the Social Order", "Cooley"],
+        ["Mind, Self, and Society", "Mead"],
+        ["The Social System", "Parsons"],
+        ["Social Theory and Social Structure", "Merton"],
+        ["The Presentation of Self in Everyday Life", "Goffman"],
+        ["Symbolic Interactionism: Perspective and Method", "Blumer"]
+      ],
+      "explain": "*Mind, Self, and Society* Mead’in adıyla anılır ama öğrenci notlarından derlenmiş bir kitaptır; Cooley’in kitabı ise 1902’de kendi eliyle yazdığı *Human Nature and the Social Order*’dır. *The Social System* Parsons’ındır, açık/gizil işlev ayrımı ise Merton’un *Social Theory and Social Structure*’ındadır. Goffman’ın kitabı tiyatro diliyle gündelik hayatı çözümler, Blumer’in kitabı ise etkileşimciliği üç önermeye toplar."
+    },
+    {
+      "id": "q4",
+      "type": "order",
+      "prompt": "Eserleri ve olayları kronolojik sıraya diz (eskiden yeniye).",
+      "items": [
+        "Cooley: Human Nature and the Social Order (1902)",
+        "W. I. Thomas ve D. S. Thomas: The Child in America (1928)",
+        "Mead: Mind, Self, and Society (1934)",
+        "Blumer “sembolik etkileşimcilik” terimini ortaya atar (1937)",
+        "Merton: Social Theory and Social Structure (1949)",
+        "Blumer: Symbolic Interactionism: Perspective and Method (1969)"
+      ],
+      "explain": "Sıra 1902, 1928, 1934, 1937, 1949, 1969. Karışan noktalar: Mead 1931’de öldü, kitabı 1934’te ölümünden sonra çıktı, terim ise 1937’de kondu; yani ad, Mead’in kitabından sonradır. Merton’un kitabı 1949’da, Blumer’in yaklaşımı derli toplu anlattığı kitap ise 1969’da çıktı."
+    },
+    {
+      "id": "q5",
+      "type": "cloze",
+      "prompt": "Boşlukları doldur.",
+      "text": "Parsons’ın AGIL şemasında {{1}} sistemin çevreden kaynak sağlamasını, {{2}} ise değerlerin ve motivasyonun korunup kuşaktan kuşağa aktarılmasını anlatır.",
+      "blanks": [
+        { "options": ["uyum", "amaca ulaşma", "bütünleşme"], "answer": 0 },
+        { "options": ["bütünleşme", "gizil örüntü sürdürme", "amaca ulaşma"], "answer": 1 }
+      ],
+      "explain": "Çevreden kaynak sağlama uyum (A); değerlerin korunması ve aktarılması gizil örüntü sürdürmedir (L). Bütünleşme (I) parçaların birbiriyle uyumunu, amaca ulaşma (G) ise hedef koymayı ve kaynakları ona yöneltmeyi anlatır; ikisi de bu tanımlara uymaz."
+    },
+    {
+      "id": "q6",
+      "type": "case",
+      "scenario": "Hayal et: Bir haber sitesi, nefret söylemini azaltmak için yorum bölümünü sıkı moderasyona alıyor. Birkaç ay sonra okurlar siteyi sosyal medyada “sansürcü” diye tartışmaya başlıyor ve site bu tartışmanın odağına dönüşüyor. Öte yandan, eski yorumcuların bir kısmı başka bir platformda kendi takma adlarıyla yeni bir topluluk kuruyor ve kendi iç kurallarını, şakalarını, “kimin ne kadar saygın olduğu”nu belirleyen bir dil geliştiriyor.",
+      "parts": [
+        {
+          "id": "q6a",
+          "prompt": "“Sansür” tartışmasına dönüşmesi, moderasyonun amaçlanmayan ve fark edilmeyen olumsuz bir sonucudur. Merton’un diliyle bu ne?",
+          "options": [
+            "Açık işlev",
+            "Gizil işlev (olumlu katkı)",
+            "Gizil işlevsizlik"
+          ],
+          "answer": 2,
+          "explain": "Sonuç amaçlanmamış ve fark edilmemiş (gizil) ve sisteme zarar veriyor (işlevsizlik): yani gizil işlevsizlik. Açık işlev amaçlanmış olurdu; gizil işlev ise olumlu bir katkı olurdu."
+        },
+        {
+          "id": "q6b",
+          "prompt": "Eski yorumcuların yeni platformda kendi dilini, kurallarını ve itibar ölçütlerini kurması, hangi bakışın sorusuna daha yakındır?",
+          "options": [
+            "İşlevselci: sistemin dört gerekliliğini nasıl karşıladığı",
+            "Etkileşimci: anlamların ve kimliklerin etkileşimde nasıl kurulduğu",
+            "Hiçbiri: bu bir ekonomi sorusudur"
+          ],
+          "answer": 1,
+          "explain": "Ortak dilin, kuralın ve saygınlık ölçütünün etkileşim içinde kurulması, etkileşimci bakışın konusudur (anlam etkileşimden doğar). İşlevselci soru da sorulabilir, ama o bakış sisteme katkıyı sorar; sahnedeki asıl ilginç ayrıntı anlamın nasıl kurulduğudur."
+        },
+        {
+          "id": "q6c",
+          "prompt": "Bu olaydaki hangi soru mikro düzeyin ötesine, yapı düzeyine geçer?",
+          "options": [
+            "Bir yorumcu, bir başkasının şakasını nasıl anlıyor?",
+            "Yorum bölümü politikalarını belirleyen sahiplik ve reklam geliri düzeni kimin çıkarına işliyor?",
+            "Bir yorumcu, takma adını seçerken neyi göz önünde tutuyor?"
+          ],
+          "answer": 1,
+          "explain": "Sahiplik ve gelir düzeni, bireyler arası etkileşimin dışındaki kurumsal yapıdır; bu soru makro düzeydedir. Öteki iki soru, bireylerin nasıl anlam kurduğuna ve seçim yaptığına bakan mikro sorulardır."
+        }
+      ],
+      "takeaway": "Aynı olay iki soruyu birden doğurur: işlevselci soru “sistem için ne sonuç doğurdu?”, etkileşimci soru “insanlar bunu nasıl anlamlandırıp yeniden kurdu?”; yapı sorusu ise ikisinin de ötesinde bekler."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "Mead’e göre “genelleştirilmiş öteki” nedir?",
+      "options": [
+        "Çocuğun rol oyununda taklit ettiği tek bir yetişkin",
+        "Bireyin benliğine birlik veren örgütlü topluluğun ya da toplumsal grubun tutumu",
+        "Bir insanın içindeki spontane, öngörülemeyen tepki",
+        "Bir kişinin başkalarının gözünde nasıl göründüğünü hayal etmesi"
+      ],
+      "answer": 1,
+      "explain": "Genelleştirilmiş öteki, örgütlü topluluğun ya da toplumsal grubun bütününün bakışıdır. Birinci seçenek rol oyunu aşamasını, üçüncü seçenek “I”yı, dördüncü seçenek ise Cooley’in ayna benliğini anlatıyor; hepsi yakın ama ayrı kavramlardır."
+    },
+    {
+      "id": "q8",
+      "type": "tf",
+      "prompt": "Doğru mu yanlış mı: Goffman’ın dramaturjisine göre arka sahne, izlenimin hazırlandığı ve gösterinin gündelik kirli işlerinin saklandığı yerdir.",
+      "answer": true,
+      "explain": "Doğru. Ön sahne izleyiciye sunulan resmî gösterinin yeridir; arka sahne ise hazırlığın ve saklananın. Yaygın bir yanlış, arka sahneyi “sahte” ve ön sahneyi “gerçek” sanmaktır; Goffman ikisini de gündelik hayatın parçası olarak ele alır."
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "Bir araştırmacı, “medya yapısının izleyicinin yorumunu neredeyse belirsiz bırakan bir güce sahip olduğunu” söylüyor. Hangi eleştiri en çok yerinde?",
+      "options": [
+        "Çalışma mikro ayrıntıya fazla gömülmüş.",
+        "Çalışma yapıyı öne çıkarıp failin (izleyicinin) rolünü yok sayıyor.",
+        "Çalışma açık işlevi gizil işlevden ayıramıyor.",
+        "Çalışma Mead’in “I”sını yanlış tanımlıyor."
+      ],
+      "answer": 1,
+      "explain": "Cümle yapıya neredeyse mutlak belirleyicilik verip izleyicinin yorum ve seçim gücünü yok sayıyor: yapı–fail tartışmasında failin unutulması. Birinci seçenek tersini söylüyor (mikro ayrıntıya gömülme, etkileşimciliğe yönelik bir eleştirinin dili). Üçüncü ve dördüncü seçenekler cümlede geçmeyen kavramlar."
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "Thomas’ın “insanlar durumları gerçek olarak tanımlarsa, o durumlar sonuçlarında gerçektir” cümlesi hangi bakışın anahtar fikridir?",
+      "options": [
+        "Yapısal işlevselcilik: çünkü sistemin dengesini anlatır.",
+        "Sembolik etkileşimcilik: çünkü davranışı, durumun kişiler için taşıdığı anlama bağlar.",
+        "Her ikisi: çünkü iki bakış aynı şeyi söyler.",
+        "Hiçbiri: çünkü cümle sosyolojiyle ilgisizdir."
+      ],
+      "answer": 1,
+      "explain": "Cümle, davranışın durumun kişiler için taşıdığı anlama bağlı olduğunu söyler; bu, Blumer’in birinci önermesiyle de uyumlu ve etkileşimci geleneğin çekirdeğidir. İşlevselci soru olayı sistemin ihtiyacı üzerinden okur; iki bakış aynı şeyi söylemiyor, bu yüzden üçüncü seçenek de yanlış."
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "“Merton’un işlevselciliği, var olan her şeyi haklı çıkarır” yargısı için aşağıdakilerden hangisi en doğru değerlendirmedir?",
+      "options": [
+        "Doğru: çünkü Merton her kurumun vazgeçilmez olduğunu söyledi.",
+        "Kısmen yanlış: çünkü Merton işlevsizlikleri ve işlevsel alternatifleri de hesaba kattı; ama varsayımların pratikte kötüye kullanılması eleştirisi boş değil.",
+        "Tamamen doğru: çünkü Merton siyasi makineyi savundu.",
+        "Tamamen yanlış: çünkü işlevselciliğe hiç eleştiri yöneltilmedi."
+      ],
+      "answer": 1,
+      "explain": "Merton eleştiriyi kendisi ele aldı ve işlevsizlikleri ve alternatifleri sisteme dahil etti; siyasi makine çözümlemesinde de bir aklama yapmadığını yazdı. Ama üç varsayımın işlevselci literatürde sık kullanılması, eleştiriyi tamamen boşa çıkarmaz. Bu yüzden ikinci seçenek ölçülü ve doğrudur; öteki üçü aşırı genellemedir."
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": "“Mikro–makro” ayrımında işlevselcilik ile sembolik etkileşimcilik nasıl yerleştirilir?",
+      "options": [
+        "Her ikisi de makro",
+        "İşlevselcilik makro, etkileşimcilik mikro",
+        "İşlevselcilik mikro, etkileşimcilik makro",
+        "Her ikisi de mikro"
+      ],
+      "answer": 1,
+      "explain": "İşlevselcilik toplumsal sistemlere ve kurumsal yapılara, etkileşimcilik kişilerarası ve etkileşimsel süreçlere odaklanır. Bu ayrım kaba bir yerleştirmedir: Fine gibi yazarlar etkileşimciliğin makro alanlara da uzandığını, Giddens gibi kuramcılar da iki düzeyi bağlamanın yollarını tartışır."
+    }
+  ]
+}

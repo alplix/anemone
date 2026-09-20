@@ -1,0 +1,19 @@
+{
+  "id": "blumer",
+  "born": {
+    "year": 1900
+  },
+  "died": {
+    "year": 1987
+  },
+  "sources": [
+    "encyclopedia-blumer",
+    "wikipedia-blumer",
+    "openlibrary-blumer"
+  ],
+  "works": [
+    "blumer-1933-movies-conduct",
+    "blumer-1937-social-psychology",
+    "blumer-1969-symbolic-interactionism"
+  ]
+}

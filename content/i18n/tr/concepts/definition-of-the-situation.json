@@ -1,0 +1,12 @@
+{
+  "id": "definition-of-the-situation",
+  "lang": "tr",
+  "term": "durumun tanımı",
+  "altTerms": [
+    "Thomas teoremi"
+  ],
+  "slug": "durumun-tanimi",
+  "short": "İnsanlar bir durumu nasıl tanımlarsa ona göre davranır; Thomas’ın ünlü cümlesine göre gerçek sayılan durumlar, sonuçlarında da gerçektir.",
+  "body": "W. I. Thomas ile Dorothy Swaine Thomas’ın 1928 tarihli *The Child in America* kitabında geçen cümle şudur: “If men define situations as real, they are real in their consequences.” Yaklaşık karşılığı: insanlar durumları gerçek olarak tanımlarsa, o durumlar sonuçlarında gerçektir. Kitapta bu cümle, bir hapishane müdürünün anlattığı olayla birlikte verilir: bir mahkûm, sokakta kendi kendine konuşan insanların dudak hareketlerini hakaret sanıp onları öldürmüştür.\n\nMerton 1949’da bu cümleyi “Thomas teoremi” diye anıp toplumbilimin temel önermelerinden saydı: insanlar bir durumun yalnızca nesnel özelliklerine değil, çoğu zaman öncelikle onun kendileri için taşıdığı anlama tepki verir; anlam verildikten sonra davranış ve sonuçlar o anlama göre belirlenir.\n\nKavram etkileşimci geleneğin temelinde durur: anlam, durumun içinde hazır durmaz; insanların onu nasıl tanımladığından doğar.",
+  "example": "“X Bankası batıyor” söylentisine inanan müşterilerin paralarını çekmesi ve bankanın gerçekten zora düşmesi (Merton’un “sosyolojik mesel”inin özeti; hayalî bir örnek)."
+}

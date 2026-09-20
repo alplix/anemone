@@ -1,0 +1,20 @@
+{
+  "id": "cooley",
+  "lang": "tr",
+  "name": "Charles Horton Cooley",
+  "nativeName": "",
+  "slug": "charles-horton-cooley",
+  "short": "ABD’li toplumbilimci (1864–1929). “Ayna benlik” kavramıyla, kişinin kendini başkalarının zihnindeki yargı üzerinden kurduğunu anlattı.",
+  "born": "Ann Arbor, Michigan",
+  "roles": [
+    "toplumbilimci"
+  ],
+  "bio": "Charles Horton Cooley 1864’te Ann Arbor, Michigan’da doğdu, 1929’da öldü. Yaşamı boyunca Michigan Üniversitesi’nde ders verdi: ansiklopedi kaydına göre önce siyaset bilimi ve ekonomi (1892–1904), sonra sosyoloji (1904–1929). Başlıca kitapları *Human Nature and the Social Order* (1902), *Social Organization* (1909) ve *Social Process* (1918).\n\nİki fikirle anılır: ayna benlik ve birincil grup. Ayna benlik, kişinin kendini başkalarının zihninde kendisine biçtiğini sandığı yargı üzerinden kurduğunu söyler; Cooley bunu 1902 kitabında üç öğeyle anlatır: görünüşümüzün karşımızdakine nasıl göründüğünü hayal etmek, onun bu görünüşe ilişkin yargısını hayal etmek ve gurur ya da mahcubiyet gibi bir öz-duygu. Birincil grup ise aile gibi yakın, yüz yüze ilişkilerin oluşturduğu gruptur.\n\nAnsiklopedi kaydı yöntemini “sempatik içebakış” olarak anar; yani Cooley toplumu, dışarıdan ölçmekten çok insanların yaşadığı anlamı içeriden kavrayarak anlamaya çalışan, hümanist bir sosyologdu. Chicago’daki Mead ve Blumer’den ayrı, ama aynı geleneğin bir öncüsü sayılır.",
+  "works": [
+    {
+      "bib": "cooley-1902-human-nature",
+      "note": "Ayna benliğin üç öğesinin anlatıldığı kitap."
+    }
+  ],
+  "inCourse": "[[lesson:functionalism-interactionism]] dersinde ayna benliğin sahibi olarak, etkileşimci kanadın ilk isimlerinden biri."
+}

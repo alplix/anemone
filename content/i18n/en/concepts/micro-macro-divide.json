@@ -1,0 +1,15 @@
+{
+  "id": "micro-macro-divide",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "micro–macro divide",
+  "altTerms": [
+    "structure–agency debate"
+  ],
+  "slug": "micro-macro-divide",
+  "short": "A distinction in sociology by the scale of the phenomenon studied: the macro level covers social systems and institutional structures, the micro level interpersonal and interactional processes.",
+  "body": "The micro–macro distinction looks at the scale of the phenomenon studied. The macro level covers social systems and institutional structures, the micro level interpersonal and interactional processes. Structural functionalism is usually placed at the macro level, symbolic interactionism at the micro level.\n\nUnder this distinction lies another debate: structure or agency? Structure is the network of institutions, norms and forces that influence how people think and behave; agency is individuals’ ability to make their own choices.\n\nIn *The Constitution of Society* (1984) Anthony Giddens tried to link the two through the “duality of structure”: structures are produced by people’s actions and at the same time limit and steer those actions. Authors such as Gary Alan Fine have argued that interactionism extends into macro areas. The distinction is a rough map; good analyses often use both levels together.",
+  "example": "“How does a family interpret the evening news?” is a micro question; “how does media ownership affect the diversity of news?” a macro one."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "structural-functionalism",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "structural functionalism",
+  "altTerms": [
+    "functionalism"
+  ],
+  "slug": "structural-functionalism",
+  "short": "A macro-level approach in sociology that sees society as a system of interdependent parts and explains an institution or practice by what it contributes to the whole’s continuation.",
+  "body": "Structural functionalism holds that every element and institution of a society has a function and that society can work as long as these functions are performed. Its roots lie in Comte, Durkheim and Spencer; in the middle of the twentieth century it reached its most developed form with Talcott Parsons and Robert K. Merton. Its main question is how social order is achieved.\n\nIn the micro–macro distinction it sits on the macro side: it looks at social systems and institutional structures. Parsons’s AGIL scheme and Merton’s distinction between manifest and latent functions and dysfunctions are the tools of this view.\n\nIts criticisms are well known: it is said to be conservative, to protect the status quo, to overlook conflict and change, and to leave the concept of “function” vague; Merton himself took up some of these criticisms.",
+  "example": "Merton’s Hopi rain ceremonial: even if it produces no rain, it may strengthen the community’s identity."
+}

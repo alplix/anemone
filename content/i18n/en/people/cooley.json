@@ -1,0 +1,23 @@
+{
+  "id": "cooley",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "name": "Charles Horton Cooley",
+  "nativeName": "",
+  "slug": "charles-horton-cooley",
+  "short": "American sociologist (1864–1929). With the “looking-glass self” he described how people build a sense of themselves through the judgments they imagine in other minds.",
+  "born": "Ann Arbor, Michigan",
+  "roles": [
+    "sociologist"
+  ],
+  "bio": "Charles Horton Cooley was born in Ann Arbor, Michigan, in 1864 and died in 1929. He taught at the University of Michigan throughout his career: according to an encyclopedia entry first political science and economics (1892–1904), then sociology (1904–1929). His main books are *Human Nature and the Social Order* (1902), *Social Organization* (1909) and *Social Process* (1918).\n\nHe is known for two ideas: the looking-glass self and the primary group. The looking-glass self says that a person builds a sense of self through the judgment they imagine others holding of them; in his 1902 book Cooley describes it with three elements: imagining how our appearance looks to the other person, imagining that person’s judgment of it, and a self-feeling such as pride or mortification. A primary group is one formed by close, face-to-face ties such as the family.\n\nThe encyclopedia entry calls his method “sympathetic introspection”: he tried to understand society less by measuring it from outside than by grasping, from within, the meanings people live by. He is separate from Mead and Blumer in Chicago but counted as a forerunner of the same tradition.",
+  "works": [
+    {
+      "bib": "cooley-1902-human-nature",
+      "note": "The book in which the three elements of the looking-glass self are set out."
+    }
+  ],
+  "inCourse": "In [[lesson:functionalism-interactionism]] he is the owner of the looking-glass self, one of the first names of the interactionist wing."
+}

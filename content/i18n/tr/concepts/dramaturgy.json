@@ -1,0 +1,12 @@
+{
+  "id": "dramaturgy",
+  "lang": "tr",
+  "term": "dramaturji (dramaturjik yaklaşım)",
+  "altTerms": [
+    "dramaturjik çözümleme"
+  ],
+  "slug": "dramaturji",
+  "short": "Goffman’ın gündelik karşılaşmayı tiyatro diliyle çözümleyen yaklaşımı: ön sahne, arka sahne ve izlenim yönetimi.",
+  "body": "Erving Goffman, *The Presentation of Self in Everyday Life* kitabında (1956 monografisi, 1959 ABD baskısı) gündelik etkileşimi bir sahne gibi ele aldı. İnsanlar başkalarına kendilerini sunar ve bıraktıkları izlenimi yönetir. Sunum “ön sahne”de, yani resmî tanımların gösterildiği yerde yapılır; “arka sahne”de ise izlenimin hazırlığı yapılır ve gösterinin gündelik kirli işleri saklanır.\n\nGoffman’a göre karşındaki hakkında bilgi edinmek, durumu tanımlamana yarar. Bu yüzden dramaturji, Thomas’ın durumun tanımıyla ve Mead’in benlik anlayışıyla akrabadır.\n\nDramaturji bir metafordur: hayatın tiyatro olduğunu değil, tiyatro sözlüğünün gündelik hayatı anlamaya yaradığını ileri sürer. Medyada Meyrowitz elektronik medyanın ön ve arka sahne sınırlarını bulanıklaştırdığını, sosyal medya çalışmaları ise izleyici ve sunum sorunlarını bu sözlükle tartışmıştır.",
+  "example": "Mutfağa girer girmez müşteriler hakkında espri yapan, salona çıkarken yüz ifadesini değiştiren bir garson: mutfak arka sahne, salon ön sahnedir (bizim örneğimiz)."
+}

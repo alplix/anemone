@@ -1,0 +1,30 @@
+{
+  "id": "blumer",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "name": "Herbert Blumer",
+  "nativeName": "",
+  "slug": "herbert-blumer",
+  "short": "American sociologist (1900–1987). He coined “symbolic interactionism” in 1937 and summed the approach up in three premises in 1969.",
+  "roles": [
+    "sociologist"
+  ],
+  "bio": "Herbert Blumer was born in 1900 and died in 1987. He took his doctorate at the University of Chicago, where he was a student of Mead; later he became the founding chair of the sociology department at Berkeley. In 1983 he received the American Sociological Association’s Career of Distinguished Scholarship Award.\n\nHe coined the term “symbolic interactionism” in 1937, in a general essay on social psychology written for *Man and Society*, edited by Schmidt; he set the approach out in 1969 in *Symbolic Interactionism: Perspective and Method* through three premises: people act toward things on the basis of the meanings the things have for them; these meanings arise from interaction with others; and meanings are handled and modified through an interpretive process.\n\nWhile at Chicago he also took part in media research: in *Movies and Conduct* (1933), written for the Payne Fund series, he asked hundreds of people to write down their movie experiences in their own words. He is often called “Mead’s interpreter”; that is, what Blumer drew from Mead and Mead’s own thought are not necessarily the same.",
+  "works": [
+    {
+      "bib": "blumer-1933-movies-conduct",
+      "note": "The Payne Fund study: movie autobiographies."
+    },
+    {
+      "bib": "blumer-1937-social-psychology",
+      "note": "The essay in which the term “symbolic interactionism” was coined."
+    },
+    {
+      "bib": "blumer-1969-symbolic-interactionism",
+      "note": "The book containing the three premises and the discussion of method."
+    }
+  ],
+  "inCourse": "In [[lesson:functionalism-interactionism]] he is the owner of the term and the theorist of the three premises; his 1933 movie study is the media example."
+}

@@ -1,0 +1,20 @@
+{
+  "id": "goffman",
+  "lang": "tr",
+  "name": "Erving Goffman",
+  "nativeName": "",
+  "slug": "erving-goffman",
+  "short": "Kanada doğumlu toplumbilimci (1922–1982). Gündelik karşılaşmaları tiyatro diliyle çözümledi: ön sahne, arka sahne, izlenim yönetimi.",
+  "born": "Alberta, Kanada",
+  "roles": [
+    "toplumbilimci"
+  ],
+  "bio": "Erving Goffman 1922’de Alberta, Kanada’da doğdu, 1982’de öldü. Chicago Üniversitesi’nde 1953’te doktorasını yaptı; Shetland Adaları’nda yaptığı alan araştırması kuramsal çerçevesini besledi.\n\nBaşlıca kitabı *The Presentation of Self in Everyday Life*, önce 1956’da Edinburgh’da bir monografi olarak, 1959’da da Doubleday’in ABD baskısıyla yayımlandı. Gündelik karşılaşmayı tiyatro diliyle çözümledi: insanlar başkalarına kendilerini sunar ve bıraktıkları izlenimi yönetir; sunum “ön sahne”de, yani resmî tanımların gösterildiği yerde yapılır, “arka sahne”de ise izlenimin hazırlığı yapılır. Goffman’a göre bir kişi hakkında edinilen bilgi, başkalarının durumu tanımlamasına yarar.\n\nSembolik etkileşimcilikle anılır ama kendisini bir okula bağlamaktan uzak durdu. Eleştirmenler, makro kaygıları, örneğin sınıfı ve ekonomik yapıyı ihmal ettiğini söyler. Dramaturji bir metafordur: hayatın tiyatro olduğunu değil, tiyatro sözlüğünün gündelik hayatı anlamaya yaradığını ileri sürer.",
+  "works": [
+    {
+      "bib": "goffman-1959-presentation-of-self",
+      "note": "Dramaturjinin kurucu kitabı (1956 monografisi, 1959 ABD baskısı)."
+    }
+  ],
+  "inCourse": "[[lesson:functionalism-interactionism]] dersinde kısa bir köprü olarak: Mead’den medyada sahne kavramına."
+}

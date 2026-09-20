@@ -1,0 +1,13 @@
+{
+  "id": "dysfunction",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "dysfunction",
+  "altTerms": [],
+  "slug": "dysfunction",
+  "short": "In Merton’s terms, observed consequences that lessen a system’s adjustment or persistence.",
+  "body": "According to Merton, functions are observed consequences that contribute to a system’s adjustment; dysfunctions are consequences that lessen that adjustment. There may also be irrelevant consequences that do not touch the system at all.\n\nA pattern usually has both functional and dysfunctional consequences, so the real work is to work out their net balance. Consequences are also always assessed for a unit: the same pattern may be functional for one subgroup and dysfunctional for another.\n\nA dysfunction may be manifest or latent. The best-known example in media studies is Lazarsfeld and Merton’s idea of the “narcotizing dysfunction”: a flood of information may push people to settle for being informed instead of acting.",
+  "example": "If a news site’s comment restrictions reduce hate speech but also lead to a “censorship” row, that second consequence may be an unintended dysfunction."
+}

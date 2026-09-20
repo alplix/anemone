@@ -1,0 +1,13 @@
+{
+  "id": "agil-scheme",
+  "lang": "tr",
+  "term": "AGIL şeması",
+  "altTerms": [
+    "dört işlev paradigması",
+    "işlevsel gereklilikler"
+  ],
+  "slug": "agil-semasi",
+  "short": "Parsons’ın, bir sistemin ayakta kalmak için karşılaması gereken dört gerekliliği (uyum, amaca ulaşma, bütünleşme, gizil örüntü sürdürme) sıraladığı şema.",
+  "body": "AGIL, Parsons’ın bir toplumsal sistemin sürmesi için karşılanması gereken dört işlevsel gerekliliğin baş harfleridir: **A**daptation (uyum: çevreden kaynak sağlama), **G**oal attainment (amaca ulaşma: hedef koyma ve kaynakları ona yöneltme), **I**ntegration (bütünleşme: parçaların uyumunu ve çatışma yönetimini sağlama) ve **L**atency ya da pattern maintenance (gizil örüntü sürdürme: değerleri ve motivasyonu koruma, aktarma).\n\nToplum düzeyinde uyum işi ekonomiye, amaca ulaşma işi siyasete benzetilir. Şema 1950’lerde biçimlendi ve ayrıntılı hâlini 1956’da aldı.\n\nTürkçe kaynaklarda harfler “uyum, amaca ulaşma, bütünleşme, gizil örüntü sürdürme” olarak, bazılarında ise “gaye ulaştırma” ve “içerileme” gibi adlarla geçer.",
+  "example": "Bizim örneğimiz: küçük bir yerel gazetede reklam geliri (A), tiraj hedefleri (G), editör–muhabir kuralları (I) ve ilkelerin yeni gelenlere aktarılması (L)."
+}

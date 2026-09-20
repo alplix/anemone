@@ -1,0 +1,12 @@
+{
+  "id": "dysfunction",
+  "lang": "tr",
+  "term": "işlevsizlik (disfonksiyon)",
+  "altTerms": [
+    "disfonksiyon"
+  ],
+  "slug": "islevsizlik",
+  "short": "Merton’un dilinde, bir sistemin uyumunu ya da ayakta kalmasını zayıflatan gözlenmiş sonuçlar.",
+  "body": "Merton’a göre işlevler, bir sistemin uyumuna katkı yapan gözlenmiş sonuçlardır; işlevsizlikler ise aynı sistemin uyumunu zayıflatan sonuçlardır. Bunların yanında, sisteme hiç dokunmayan ilgisiz sonuçlar da olabilir.\n\nBir örüntünün genellikle hem işlevli hem işlevsiz sonuçları vardır; bu yüzden asıl iş, sonuçların net bilançosunu çıkarmaktır. Ayrıca sonuçlar hep bir birime göre değerlendirilir: aynı örüntü bir alt grup için işlevli, bir başkası için işlevsiz olabilir.\n\nİşlevsizlik de açık ya da gizil olabilir. Medya çalışmalarında en bilinen örnek, Lazarsfeld ile Merton’un “uyuşturan işlevsizlik” fikridir: bilgi bolluğunun, insanı eyleme geçirmek yerine bilgiyle yetinmeye itmesi.",
+  "example": "Bir haber sitesinin yorum kısıtlaması nefret söylemini azaltırken “sansür” tartışmasına yol açıyorsa, bu ikinci sonuç amaçlanmamış bir işlevsizlik olabilir."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "agil-scheme",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "AGIL scheme",
+  "altTerms": [
+    "four-function paradigm",
+    "functional imperatives"
+  ],
+  "slug": "agil-scheme",
+  "short": "Parsons’s scheme of the four requirements a system must meet to persist: adaptation, goal attainment, integration and latency (pattern maintenance).",
+  "body": "AGIL stands for the four functional requirements that, in Parsons’s account, a social system must meet in order to persist: **A**daptation (securing resources from the environment), **G**oal attainment (setting goals and directing resources to them), **I**ntegration (keeping the parts in harmony and managing conflict) and **L**atency or pattern maintenance (preserving and transmitting values and motivation).\n\nAt the level of society, adaptation is likened to the economy and goal attainment to politics. The scheme took shape in the 1950s and reached its detailed form in 1956.",
+  "example": "Our own example: at a small local newspaper, advertising income (A), circulation targets (G), editor–reporter rules (I) and passing the paper’s principles to newcomers (L)."
+}

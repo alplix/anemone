@@ -1,0 +1,27 @@
+{
+  "id": "parsons",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "name": "Talcott Parsons",
+  "nativeName": "",
+  "slug": "talcott-parsons",
+  "short": "American sociologist (1902–1979). The leading name of structural functionalism, which treats society as a system; the theorist of the AGIL scheme.",
+  "roles": [
+    "sociologist",
+    "theorist of social action"
+  ],
+  "bio": "Talcott Parsons was born in 1902 and died in 1979; he spent most of his career at Harvard University. According to encyclopedia entries he began there in 1927 as an instructor in economics, turned to sociology, and became a professor of sociology in 1944.\n\nHis first major book was *The Structure of Social Action* (1937), his second *The Social System* (1951). He built society as a system of institutions with complementary functions; in the 1950s he systematised the four requirements a system must meet to persist (adaptation, goal attainment, integration and latent pattern maintenance) as the AGIL scheme.\n\nHis name is usually attached to “structural functionalism”; yet he himself preferred to call his theory action theory and was associated with that label only for a short period. That is an argument put forward by interpreters such as Helmut Staubmann, and it is contested. C. Wright Mills criticised him in 1959 as the example of “grand theory”; his defenders say the criticism was one-sided. Merton was among his students at Harvard.",
+  "works": [
+    {
+      "bib": "parsons-1937-structure-social-action",
+      "note": "The first major book: a theory of social action."
+    },
+    {
+      "bib": "parsons-1951-social-system",
+      "note": "The main book that builds society as a system; the chief target of Mills’s “grand theory” critique."
+    }
+  ],
+  "inCourse": "In this lesson ([[lesson:functionalism-interactionism]]) he is the core of the AGIL scheme and of structural functionalism."
+}

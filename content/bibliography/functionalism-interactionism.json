@@ -1,0 +1,482 @@
+{
+  "_comment": "Verified sources for the lesson functionalism-interactionism. Every entry has verified.status ok; the note says what was actually opened. Entries already present in other bibliography files (merton-1949, lasswell-1948, wright-1960, cole-2004-merton, columbia-c250-merton) are reused by id and NOT redefined here.",
+
+  "cooley-1902-human-nature": {
+    "type": "book",
+    "authors": ["Cooley, Charles Horton"],
+    "year": 1902,
+    "title": "Human nature and the social order",
+    "publisher": "Charles Scribner's Sons", "place": "New York",
+    "verified": { "status": "ok", "methods": ["source-itself", "open-library"], "date": "2026-09-20", "note": "Full text of the first edition read (Internet Archive scan of the University of Toronto copy: title page 'Published, September, 1902', author 'Instructor in Sociology at the University of Michigan'). The looking-glass passage (the couplet, the three elements, the boastful man and the man ashamed before the straightforward one) was read in the text itself. Open Library lists 1902 Scribner's editions." }
+  },
+
+  "mead-1934-mind-self-society": {
+    "type": "book",
+    "authors": ["Mead, George Herbert"],
+    "year": 1934,
+    "title": "Mind, self, and society from the standpoint of a social behaviorist (edited, with introduction, by Charles W. Morris)",
+    "publisher": "University of Chicago Press", "place": "Chicago",
+    "verified": { "status": "ok", "methods": ["source-itself", "open-library"], "date": "2026-09-20", "note": "Read in a Delhi University Library scan of the University of Chicago Press book (title page 'Published 1934', fourteenth impression 1967; editor Charles W. Morris). Checked in the text: the Preface (compiled from stenographic student notes of the 1927 and 1930 courses plus manuscripts; lectures delivered without notes; Mead never systematised his position in a longer work), section 20 (play, game, generalized other) and section 22 (the 'I' and the 'me'). Open Library lists the 1934 Chicago edition; the Stanford Encyclopedia entry (sep-mead) and EBSCO say the same about the compilation." }
+  },
+
+  "thomas-thomas-1928-child-in-america": {
+    "type": "book",
+    "authors": ["Thomas, William I.", "Thomas, Dorothy Swaine"],
+    "year": 1928,
+    "title": "The child in America: Behavior problems and programs",
+    "publisher": "Alfred A. Knopf", "place": "New York",
+    "verified": { "status": "ok", "methods": ["source-itself", "open-library"], "date": "2026-09-20", "note": "Full text read (Internet Archive scan, University of Florida copy; title page 'New York, Alfred A. Knopf, MCMXXVIII', copyright 1928). The sentence 'If men define situations as real, they are real in their consequences' and the Dannemora warden anecdote were found in the text (near the end of the chapter on the case-study method; the OCR does not give a page number, so none is cited). Merton 1949 (chapter VII) quotes the same sentence and credits W. I. Thomas. Open Library lists the 1928 Knopf edition." }
+  },
+
+  "blumer-1933-movies-conduct": {
+    "type": "book",
+    "authors": ["Blumer, Herbert"],
+    "year": 1933,
+    "title": "Movies and conduct",
+    "publisher": "Macmillan", "place": "New York",
+    "verified": { "status": "ok", "methods": ["source-itself", "open-library"], "date": "2026-09-20", "note": "Full text read (Internet Archive scan, Prelinger Library copy; title page 'Herbert Blumer, Associate Professor of Sociology, University of Chicago, New York, The Macmillan Company, 1933'; series 'Motion Pictures and Youth: The Payne Fund Studies'). Checked in the text: the sample counts in the chapter 'Procedure' (634 university students, 481 college students, 583 high-school students, 67 office workers, 58 factory workers), the instructions for the autobiographies, the caution that the counts are not conclusive, the omission of sex conduct, the 458 high-school autobiographies with 62 / 16 / 22 per cent on imitation of dress and mannerisms, and the 15-year-old respondent quoted in the lesson. The Payne Fund committee list in the Chairman's Preface names Blumer. Open Library lists the 1933 Macmillan edition; Wikipedia's Payne Fund article gives the same 1,823 total." }
+  },
+
+  "blumer-1937-social-psychology": {
+    "type": "chapter",
+    "authors": ["Blumer, Herbert"],
+    "year": 1937,
+    "title": "Social psychology",
+    "editors": ["Schmidt, Emerson P."],
+    "bookTitle": "Man and society: A substantive introduction to the social science",
+    "publisher": "Prentice-Hall", "place": "New York",
+    "verified": { "status": "ok", "methods": ["open-library", "encyclopedia-entries"], "date": "2026-09-20", "note": "The chapter itself was NOT opened and no page range is given. The book record (Man and Society, ed. Emerson P. Schmidt, Prentice-Hall, 1937) is in Open Library. That Blumer coined the term 'symbolic interactionism' in this chapter in 1937 is stated by Encyclopedia.com (Blumer entry and Symbolic Interactionism entry) and, for the year, by Wikipedia (Blumer); search-engine summaries also relay Blumer's own remark in the 1969 preface that he coined it in an offhand way here (that remark is not used in the lesson)." }
+  },
+
+  "blumer-1969-symbolic-interactionism": {
+    "type": "book",
+    "authors": ["Blumer, Herbert"],
+    "year": 1969,
+    "title": "Symbolic interactionism: Perspective and method",
+    "publisher": "Prentice-Hall", "place": "Englewood Cliffs, N.J.",
+    "verified": { "status": "ok", "methods": ["library-catalogue-record", "open-library"], "date": "2026-09-20", "note": "The book text could not be opened (lending-library scan only). Bibliographic record matched in the Internet Archive catalogue (Blumer, Herbert, 1900-1987; Englewood Cliffs, N.J., Prentice-Hall, 1969) and in Open Library (1969 Prentice-Hall; later Berkeley: University of California Press, 1986). The three premises are taken from Encyclopedia.com (two entries) and Wikipedia, which quote them; the lesson paraphrases them." }
+  },
+
+  "goffman-1959-presentation-of-self": {
+    "type": "book",
+    "authors": ["Goffman, Erving"],
+    "year": 1959,
+    "originalYear": 1956,
+    "title": "The presentation of self in everyday life",
+    "publisher": "Doubleday", "place": "Garden City, N.Y.",
+    "verified": { "status": "ok", "methods": ["open-library", "library-catalogue-record", "source-itself"], "date": "2026-09-20", "note": "Open Library lists a 1956 University of Edinburgh Social Sciences Research Centre monograph and the 1959 Doubleday edition; the Internet Archive catalogue lists 'Garden City, N.Y., Doubleday, 1959'; Wikipedia's article on the book says it first appeared as a 1956 Scottish monograph. Only a reader excerpt of the book (the opening pages of chapter 1, reproduced from the 1959 Doubleday text) was read: it says information about a person helps others define the situation. The front-stage/back-stage terms are taken from Encyclopedia.com and Wikipedia, not from the book text." }
+  },
+
+  "parsons-1937-structure-social-action": {
+    "type": "book",
+    "authors": ["Parsons, Talcott"],
+    "year": 1937,
+    "title": "The structure of social action",
+    "publisher": "McGraw-Hill", "place": "New York",
+    "verified": { "status": "ok", "methods": ["open-library", "secondary-citations"], "date": "2026-09-20", "note": "Open Library lists the 1937 McGraw-Hill edition. The title and year are also given by Encyclopedia.com (Parsons entry), by Staubmann 2021 and by Wikipedia (Action theory). The book itself was not opened." }
+  },
+
+  "parsons-1951-social-system": {
+    "type": "book",
+    "authors": ["Parsons, Talcott"],
+    "year": 1951,
+    "title": "The social system",
+    "publisher": "Free Press", "place": "Glencoe, Ill.",
+    "verified": { "status": "ok", "methods": ["open-library", "secondary-citations"], "date": "2026-09-20", "note": "Open Library lists the 1951 first publication (Free Press of Glencoe; Routledge & Kegan Paul in London). The title and year are also given by Encyclopedia.com (Parsons entry) and by Staubmann 2021, which discusses its chapters on change. The book itself was not opened." }
+  },
+
+  "mills-1959-sociological-imagination": {
+    "type": "book",
+    "authors": ["Mills, C. Wright"],
+    "year": 1959,
+    "title": "The sociological imagination",
+    "publisher": "Oxford University Press", "place": "New York",
+    "verified": { "status": "ok", "methods": ["open-library", "secondary-citations"], "date": "2026-09-20", "note": "Open Library lists Oxford University Press editions (its earliest listed edition year is 1967, so the 1959 first-edition year rests on the citations below). 1959 is given by Encyclopedia.com (Parsons entry, criticisms) and by Staubmann 2021, which discusses the chapter on 'grand theory' and quotes Mills's definition. The book was not opened; only what Staubmann reports is used." }
+  },
+
+  "staubmann-2021-mills-parsons": {
+    "type": "article",
+    "authors": ["Staubmann, Helmut"],
+    "year": 2021,
+    "title": "C. Wright Mills' The Sociological Imagination and the construction of Talcott Parsons as a conservative grand theorist",
+    "container": "The American Sociologist", "volume": "52", "issue": "1", "pages": "178-193",
+    "doi": "10.1007/s12108-020-09463-z",
+    "verified": { "status": "ok", "methods": ["crossref", "source-itself"], "date": "2026-09-20", "note": "Crossref record matched (online 2020, print March 2021, vol. 52(1), pp. 178-193). The open-access PDF was read (abstract, introduction, the sections on Mills's 'grand theory' chapter): Mills's critique of The Social System, the claim that Parsons was not the 'structural-functionalist' of textbooks, the two chapters on change, the ISA 1997 remark. The author argues for a revisionist reading of Parsons; the lesson presents it as one scholar's argument." }
+  },
+
+  "lazarsfeld-merton-1948-mass-communication": {
+    "type": "chapter",
+    "authors": ["Lazarsfeld, Paul F.", "Merton, Robert K."],
+    "year": 1948,
+    "title": "Mass communication, popular taste and organized social action",
+    "editors": ["Bryson, Lyman"],
+    "bookTitle": "The Communication of Ideas: A Series of Addresses",
+    "publisher": "Institute for Religious and Social Studies", "place": "New York",
+    "verified": { "status": "ok", "methods": ["library-catalogue-record", "open-library", "crossref"], "date": "2026-09-20", "note": "The essay text could not be opened (lending-library scan only). The Internet Archive catalogue record of the book (New York, Institute for Religious and Social Studies, distributed by Harper, 1948; 'based principally on lectures delivered Nov. 1946-Feb. 1947') lists the chapter 'Mass communication, popular taste and organized social action, by P.F. Lazarsfeld and R.K. Merton'; Open Library lists the book; a 2024 Routledge chapter (Ross, Classics in Media Theory, Crossref DOI 10.4324/9781003432272-5) carries the same title with the date 1948. The idea of the 'narcotizing dysfunction' is taken from Wikipedia's article on it and from other secondary summaries, not from the essay. Wikipedia elsewhere dates it 1946 (the lecture series began in November 1946); the lesson says 1948, the publication year." }
+  },
+
+  "giddens-1984-constitution-of-society": {
+    "type": "book",
+    "authors": ["Giddens, Anthony"],
+    "year": 1984,
+    "title": "The constitution of society: Outline of the theory of structuration",
+    "publisher": "Polity Press", "place": "Cambridge",
+    "verified": { "status": "ok", "methods": ["open-library", "secondary-citations"], "date": "2026-09-20", "note": "Open Library lists the 1984 first edition (Polity Press, Cambridge; University of California Press, Berkeley). EBSCO Research Starters (Structuration theory) gives 1984 and the duality of structure. The book was not opened; the subtitle is taken from the standard record and not shown on the site beyond this entry." }
+  },
+
+  "fine-1993-sad-demise": {
+    "type": "article",
+    "authors": ["Fine, Gary Alan"],
+    "year": 1993,
+    "title": "The sad demise, mysterious disappearance, and glorious triumph of symbolic interactionism",
+    "container": "Annual Review of Sociology", "volume": "19", "pages": "61-87",
+    "doi": "10.1146/annurev.so.19.080193.000425",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract"], "date": "2026-09-20", "note": "Crossref record matched (vol. 19, pp. 61-87, 1993). The abstract (OpenAlex) was read in full; the article itself was not. The lesson uses only what the abstract says." }
+  },
+
+  "carter-fuller-2016-symbols-meaning-action": {
+    "type": "article",
+    "authors": ["Carter, Michael J.", "Fuller, Celene"],
+    "year": 2016,
+    "title": "Symbols, meaning, and action: The past, present, and future of symbolic interactionism",
+    "container": "Current Sociology", "volume": "64", "issue": "6", "pages": "931-961",
+    "doi": "10.1177/0011392116638396",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract"], "date": "2026-09-20", "note": "Crossref record matched (vol. 64(6), pp. 931-961). The abstract (OpenAlex) was read in full; the article itself was not. The lesson uses only what the abstract says (three trajectories: Blumer / Chicago, Kuhn / Iowa, Stryker / Indiana)." }
+  },
+
+  "marwick-boyd-2011-imagined-audience": {
+    "type": "article",
+    "authors": ["Marwick, Alice E.", "boyd, danah"],
+    "year": 2011,
+    "title": "I tweet honestly, I tweet passionately: Twitter users, context collapse, and the imagined audience",
+    "container": "New Media & Society", "volume": "13", "issue": "1", "pages": "114-133",
+    "doi": "10.1177/1461444810365313",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract"], "date": "2026-09-20", "note": "Crossref record matched (published online July 2010, print February 2011, vol. 13(1), pp. 114-133; the print year is used). The abstract (OpenAlex) was read in full; the article itself was not. The lesson uses only what the abstract says (context collapse, imagined audience, techniques: targeting audiences, concealing subjects, maintaining authenticity)." }
+  },
+
+  "hogan-2010-presentation-of-self": {
+    "type": "article",
+    "authors": ["Hogan, Bernie"],
+    "year": 2010,
+    "title": "The presentation of self in the age of social media: Distinguishing performances and exhibitions online",
+    "container": "Bulletin of Science, Technology & Society", "volume": "30", "issue": "6", "pages": "377-386",
+    "doi": "10.1177/0270467610385893",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract"], "date": "2026-09-20", "note": "Crossref record matched (vol. 30(6), pp. 377-386, December 2010). The abstract (OpenAlex) was read in full; the article itself was not. The lesson uses only what the abstract says (performances in synchronous situations vs. exhibitions in asynchronous settings; the 'curator')." }
+  },
+
+  "meyrowitz-1985-no-sense-of-place": {
+    "type": "book",
+    "authors": ["Meyrowitz, Joshua"],
+    "year": 1985,
+    "title": "No sense of place: The impact of electronic media on social behavior",
+    "publisher": "Oxford University Press", "place": "New York",
+    "verified": { "status": "ok", "methods": ["open-library", "secondary-citations"], "date": "2026-09-20", "note": "Open Library lists the 1985 Oxford University Press edition; the subtitle appears in the Crossref titles of two contemporary reviews (Library Quarterly 1986; Contemporary Sociology 1988). That the book combines Goffman's dramaturgical approach with McLuhan's media theory is stated in the abstract of Serra 2024 and on Wikipedia's Joshua Meyrowitz page. The book itself was not opened." }
+  },
+
+  "serra-2024-meyrowitz": {
+    "type": "article",
+    "authors": ["Serra, Marcello"],
+    "year": 2024,
+    "title": "Para hacer un clásico, usa dos. No sense of place de Joshua Meyrowitz, entre Goffman y McLuhan",
+    "container": "Anuario ThinkEPI", "volume": "18",
+    "doi": "10.3145/thinkepi.2024.e18a36",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract"], "date": "2026-09-20", "note": "Crossref record matched (Anuario ThinkEPI, vol. 18, article e18a36, December 2024). The Spanish abstract (OpenAlex) was read: the book combines McLuhan's thinking with Goffman's dramaturgical conception. The article itself was not read." }
+  },
+
+  "sep-mead": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2026,
+    "title": "George Herbert Mead",
+    "publisher": "Stanford Encyclopedia of Philosophy",
+    "url": "https://plato.stanford.edu/entries/mead/",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page read (through a page-fetch summary). Used for: Mead 1863-1931, at the University of Chicago from 1894 after a short time at Michigan; Mind, Self, and Society (1934) compiled from student notes and manuscripts and edited by Charles W. Morris; the 'I' and 'me' as functional distinctions; the generalized other as the organised community or social group that gives the individual his unity of self; play vs. game; Mead classed with James, Peirce and Dewey among the classical pragmatists." }
+  },
+
+  "sep-pragmatism": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2026,
+    "title": "Pragmatism",
+    "publisher": "Stanford Encyclopedia of Philosophy",
+    "url": "https://plato.stanford.edu/entries/pragmatism/",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page read (through a page-fetch summary). Used for: pragmatism starting around 1870 in the Harvard 'Metaphysical Club' (Peirce, James); Dewey extending it to social improvement and education; Dewey assuming the philosophy chair at Chicago in 1894; Mead classed among the pragmatists with contributions to the social sciences." }
+  },
+
+  "ebsco-micro-macro": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2026,
+    "title": "Micro and macro level processes",
+    "publisher": "EBSCO Research Starters",
+    "url": "https://www.ebsco.com/research-starters/social-sciences-and-humanities/micro-and-macro-level-processes",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page read (through a page-fetch summary). Used for: the micro/macro distinction as the scope of the phenomena studied (institutional structures vs. interpersonal and interactional processes); structural functionalism listed as macro, symbolic interactionism as micro; the criticism that functionalism is conservative, cannot explain change and conflict." }
+  },
+
+  "ebsco-structuration": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2026,
+    "title": "Structuration theory",
+    "publisher": "EBSCO Research Starters",
+    "url": "https://www.ebsco.com/research-starters/sociology/structuration-theory/",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page read (through a page-fetch summary). Used for: Giddens's structuration theory, The Constitution of Society (1984), the duality of structure ('two sides of the same coin'), and the definitions of structure and agency it gives." }
+  },
+
+  "ebsco-mead-role-taking": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2026,
+    "title": "George Herbert Mead: Taking the role of the other",
+    "publisher": "EBSCO Research Starters",
+    "url": "https://www.ebsco.com/research-starters/social-sciences-and-humanities/george-herbert-mead-taking-role-other",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page read (through a page-fetch summary). Used for: play vs. game (baseball), the generalized other as the attitude of the whole group, the 'I' as spontaneous and the 'me' as reflecting social expectations, and the compilation of Mind, Self, and Society from notes and lectures." }
+  },
+
+  "encyclopedia-parsons": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2026,
+    "title": "Talcott Parsons",
+    "publisher": "Encyclopedia.com",
+    "url": "https://www.encyclopedia.com/people/social-sciences-and-law/sociology-biographies/talcott-parsons",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page read (through a page-fetch summary). Used for: Parsons 1902-1979; Harvard; The Structure of Social Action (1937), The Social System (1951); the four functional prerequisites (adaptation, goal attainment, integration, latency or pattern-maintenance); the criticisms by Mills (1959) and Gouldner (1970)." }
+  },
+
+  "encyclopedia-blumer": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2026,
+    "title": "Herbert Blumer",
+    "publisher": "Encyclopedia.com",
+    "url": "https://www.encyclopedia.com/people/social-sciences-and-law/sociology-biographies/herbert-blumer",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page read (through a page-fetch summary). Used for: Blumer 1900-1987; doctorate at Chicago; founding chair of the Berkeley sociology department; the coining of 'symbolic interactionism' in 1937 for an overview article in Man and Society; the three premises (quoted on the page); Cooley's 'sympathetic introspection'; the 1983 ASA Career of Distinguished Scholarship Award." }
+  },
+
+  "encyclopedia-symbolic-interactionism": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2026,
+    "title": "Symbolic interactionism",
+    "publisher": "Encyclopedia.com",
+    "url": "https://www.encyclopedia.com/social-sciences-and-law/sociology-and-social-reform/sociology-general-terms-and-concepts/symbolic-interactionism",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page read (through a page-fetch summary). Used for: definition; roots in Mead, pragmatism and Chicago sociology; the term coined by Blumer in 1937; the three premises; the 1970s criticism of neglecting social structure, power and historical context, and Stryker's reformulation." }
+  },
+
+  "encyclopedia-goffman": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2026,
+    "title": "Erving Goffman",
+    "publisher": "Encyclopedia.com",
+    "url": "https://www.encyclopedia.com/people/social-sciences-and-law/sociology-biographies/erving-goffman",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page read (through a page-fetch summary). Used for: born 1922 in Alberta; PhD Chicago 1953; fieldwork in the Shetland Islands; the dramaturgical perspective with frontstage and backstage regions; the criticism of neglecting macrosociological concerns. The page gives 1983 as the death year, which conflicts with Wikipedia and Open Library (1982); the lesson uses 1982 (see the research notes)." }
+  },
+
+  "encyclopedia-cooley": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2026,
+    "title": "Charles Horton Cooley",
+    "publisher": "Encyclopedia.com",
+    "url": "https://www.encyclopedia.com/people/social-sciences-and-law/sociology-biographies/charles-horton-cooley",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page read (through a page-fetch summary). Used for: born 17 August 1864 in Ann Arbor, died 1929; taught at the University of Michigan (1892-1929); Human Nature and the Social Order (1902), Social Organization (1909), Social Process (1918); the looking-glass self; the primary group; 'sympathetic introspection'." }
+  },
+
+  "wikipedia-blumer": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2026,
+    "title": "Herbert Blumer",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Herbert_Blumer",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page read (through a page-fetch summary). Used only as a second source for: Blumer 1900-1987; study under Mead at Chicago; the term devised in 1937; Movies and Conduct (1933); the three premises. Chicago and Berkeley dates differ between sources and are not used." }
+  },
+
+  "wikipedia-goffman": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2026,
+    "title": "Erving Goffman",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Erving_Goffman",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page read (through a page-fetch summary). Used only as a second source for: Goffman 1922-1982; fieldwork on the Scottish island of Unst; dramaturgical analysis; associated with symbolic interactionism but keeping his distance from formal schools." }
+  },
+
+  "wikipedia-agil": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2026,
+    "title": "AGIL paradigm",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/AGIL_paradigm",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page read (through a page-fetch summary). Used only as a second source for: the four functions; AGIL created in the 1950s and first elaborate form in 1956; adaptation matched with the economy and goal attainment with the political system. The page's label for the subsystem of the fourth function ('Judiciary system') disagrees with other summaries ('fiduciary system'), so the lesson does not state the subsystem for L and I." }
+  },
+
+  "wikipedia-presentation-of-self": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2026,
+    "title": "The Presentation of Self in Everyday Life",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Presentation_of_Self_in_Everyday_Life",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page read (through a page-fetch summary). Used only as a second source for: first a 1956 Scottish monograph, then the 1959 Doubleday edition; fieldwork in Shetland; front stage and back stage; impression management." }
+  },
+
+  "wikipedia-payne-fund": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2026,
+    "title": "Payne Fund Studies",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Payne_Fund_Studies",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page read (through a page-fetch summary). Used only as a second source for: thirteen studies, published 1933-1936; funded by the Payne Fund; Blumer's Movies and Conduct built on movie autobiographies from about 1,823 participants. The page's year '1929' for Blumer's study is not used." }
+  },
+
+  "wikipedia-meyrowitz": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2026,
+    "title": "Joshua Meyrowitz",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Joshua_Meyrowitz",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page read (through a page-fetch summary). Used only as a second source for: No Sense of Place (1985) combining Goffman's front-stage/back-stage approach with McLuhan's media theory; television blurring boundaries between social groups." }
+  },
+
+  "wikipedia-symbolic-interactionism": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2026,
+    "title": "Symbolic interactionism",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Symbolic_interactionism",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page read (through a page-fetch summary). Used only as a second source for: Blumer as student and interpreter of Mead; the three premises; the Chicago / Iowa / Indiana strands; the criticisms (impressionistic method, framework rather than testable theory, neglect of macro-level structure)." }
+  },
+
+  "wikipedia-action-theory": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2026,
+    "title": "Action theory (sociology)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Action_theory_(sociology)",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page read (through a page-fetch summary). Used only as a second source (with Staubmann 2021) for: Parsons calling his own theory action theory and not using the word functionalism for it; AGIL as the four basic characteristics of social action." }
+  },
+
+  "wikipedia-narcotizing-dysfunction": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2026,
+    "title": "Narcotizing dysfunction",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Narcotizing_dysfunction",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page read (through a page-fetch summary). Used only for the one-line definition (media saturation on an issue leads to apathy, knowledge substituted for action) and the attribution to Lazarsfeld and Merton. The page dates the essay 1946 in its text and 1948 in its reference; see the note on lazarsfeld-merton-1948-mass-communication." }
+  },
+
+  "tubitak-yapisal-islevselcilik": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2026,
+    "title": "Yapısal işlevselcilik",
+    "publisher": "TÜBİTAK Ansiklopedi",
+    "url": "https://ansiklopedi.tubitak.gov.tr/ansiklopedi/yapisal_islevselcilik",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page read (through a page-fetch summary; author not shown in the summary). Used for the Turkish terms (açık işlevler, gizli işlevler; the AGIL letters as 'uyum, gaye ulaştırma, içerileme, latent pattern maintenance'), Parsons (d. 1979), Merton (d. 2003), the emphasis on empirical verifiability in Merton, and criticism in the 1970s." }
+  },
+
+  "tubitak-islevselcilik-sosyoloji": {
+    "type": "web",
+    "authors": ["Yücedağ, İbrahim"],
+    "year": 2026,
+    "title": "İşlevselcilik (Sosyoloji)",
+    "publisher": "TÜBİTAK Ansiklopedi",
+    "url": "https://ansiklopedi.tubitak.gov.tr/ansiklopedi/islevselcilik_sosyoloji",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page read (through a page-fetch summary; author İbrahim Yücedağ as shown by the summary). Used for: the main question of contemporary functionalism (how social order is achieved); the AGIL terms in Turkish (uyum, amaca ulaşma, bütünleşme, gizil örüntü sürdürme); 'gizil ve açık işlev'; the list of criticisms (over-macro, passive individual, misses conflict and change, vague function concept, conservative, ahistorical)." }
+  },
+
+  "tubitak-sembolik-etkilesimcilik": {
+    "type": "web",
+    "authors": ["Özalp, Ahmet"],
+    "year": 2026,
+    "title": "Sembolik etkileşimcilik",
+    "publisher": "TÜBİTAK Ansiklopedi",
+    "url": "https://ansiklopedi.tubitak.gov.tr/ansiklopedi/sembolik_etkilesimcilik",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page read (through a page-fetch summary; author Ahmet Özalp as shown by the summary). Used for: the Turkish term 'sembolik etkileşimcilik' as a micro-sociological orientation; Mead, Blumer and W. I. Thomas ('durumun tanımı') as key figures; the criticism of lagging behind in conflict and macro-scale analyses." }
+  },
+
+  "openlibrary-parsons": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2026,
+    "title": "Talcott Parsons (author record)",
+    "publisher": "Open Library",
+    "url": "https://openlibrary.org/authors/OL671923A",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Author record read through the Open Library search API: Talcott Parsons, born 1902-12-13, died 1979-05-08 (only the years are used)." }
+  },
+
+  "openlibrary-cooley": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2026,
+    "title": "Charles Horton Cooley (author record)",
+    "publisher": "Open Library",
+    "url": "https://openlibrary.org/authors/OL209514A",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Author record read through the Open Library search API: Charles Horton Cooley, 1864-1929." }
+  },
+
+  "openlibrary-mead": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2026,
+    "title": "George Herbert Mead (author record)",
+    "publisher": "Open Library",
+    "url": "https://openlibrary.org/authors/OL390786A",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Author record read through the Open Library search API: George Herbert Mead, 1863-1931." }
+  },
+
+  "openlibrary-blumer": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2026,
+    "title": "Herbert Blumer (author record)",
+    "publisher": "Open Library",
+    "url": "https://openlibrary.org/authors/OL33918A",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Author record read through the Open Library search API: Herbert Blumer, 1900-1987." }
+  },
+
+  "openlibrary-goffman": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2026,
+    "title": "Erving Goffman (author record)",
+    "publisher": "Open Library",
+    "url": "https://openlibrary.org/authors/OL536172A",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Author record read through the Open Library search API: Erving Goffman, 1922-1982." }
+  }
+}

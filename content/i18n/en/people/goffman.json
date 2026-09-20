@@ -1,0 +1,23 @@
+{
+  "id": "goffman",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "name": "Erving Goffman",
+  "nativeName": "",
+  "slug": "erving-goffman",
+  "short": "Canadian-born sociologist (1922–1982). He analysed everyday encounters in the language of theatre: front stage, back stage, impression management.",
+  "born": "Alberta, Canada",
+  "roles": [
+    "sociologist"
+  ],
+  "bio": "Erving Goffman was born in Alberta, Canada, in 1922 and died in 1982. He took his doctorate at the University of Chicago in 1953; his field research in the Shetland Islands fed his theoretical framework.\n\nHis best-known book, *The Presentation of Self in Everyday Life*, first appeared in 1956 as a monograph published in Edinburgh, and in 1959 as Doubleday’s American edition. He analysed everyday encounters in the language of theatre: people present themselves to others and manage the impression they make; the presentation is given on the “front stage”, where the official definitions are shown, while the “back stage” is where the impression is prepared. On Goffman’s account, the information gained about a person helps others define the situation.\n\nHe is associated with symbolic interactionism but kept his distance from any one school. Critics say he neglected macro concerns such as class and economic structure. Dramaturgy is a metaphor: it does not claim that life is theatre but that the vocabulary of theatre helps us understand everyday life.",
+  "works": [
+    {
+      "bib": "goffman-1959-presentation-of-self",
+      "note": "The founding book of dramaturgy (1956 monograph, 1959 American edition)."
+    }
+  ],
+  "inCourse": "In [[lesson:functionalism-interactionism]] as a short bridge: from Mead to the idea of the stage in the media."
+}

@@ -1,0 +1,851 @@
+{
+  "id": "functionalism-interactionism",
+  "lang": "en",
+  "translation": {
+    "status": "machine",
+    "date": "2026-09-20"
+  },
+  "title": "Functionalism and Symbolic Interactionism",
+  "slug": "functionalism-and-symbolic-interactionism",
+  "description": "Is society a system or a constantly rebuilt conversation? Functionalism and interactionism, from Parsons to Goffman, and what they mean for media.",
+  "claim": "Structural functionalism sees society as a system whose parts are explained by what they contribute to the whole’s continuation (macro); symbolic interactionism sees it as a process continually rebuilt in interaction through shared meanings (micro). Applied to media, the first asks “what job does the media do for society?”, the second “how do people make sense of media and present themselves through it?”. Each is half a view on its own, so they should be read side by side.",
+  "keywords": [
+    "structural functionalism",
+    "symbolic interactionism",
+    "Parsons",
+    "AGIL scheme",
+    "Merton",
+    "manifest and latent functions",
+    "dysfunction",
+    "Cooley",
+    "looking-glass self",
+    "Mead",
+    "generalized other",
+    "Blumer",
+    "Goffman",
+    "dramaturgy",
+    "definition of the situation",
+    "micro–macro",
+    "structure–agency"
+  ],
+  "updated": "2026-09-20",
+  "timeline": {
+    "cooley-looking-glass": "Cooley, Human Nature and the Social Order: the looking-glass self",
+    "thomas-child-in-america": "W. I. Thomas and D. S. Thomas, The Child in America: the “definition of the situation” sentence",
+    "blumer-movies-conduct": "Blumer, Movies and Conduct: movie autobiographies",
+    "mead-mind-self-society": "Mead, Mind, Self, and Society (posthumous, compiled from student notes)",
+    "blumer-coins-term": "Blumer coins the term “symbolic interactionism”",
+    "lasswell-lazarsfeld-merton": "The Bryson volume: Lasswell’s three functions and the Lazarsfeld–Merton chapter",
+    "merton-social-theory": "Merton, Social Theory and Social Structure: manifest and latent functions",
+    "parsons-social-system": "Parsons, The Social System",
+    "goffman-presentation": "Goffman, The Presentation of Self in Everyday Life (American edition; first published as a 1956 monograph)",
+    "mills-grand-theory": "Mills, The Sociological Imagination: the “grand theory” critique",
+    "blumer-si-book": "Blumer, Symbolic Interactionism: Perspective and Method",
+    "giddens-structuration": "Giddens, The Constitution of Society: the duality of structure",
+    "meyrowitz-no-sense": "Meyrowitz, No Sense of Place: electronic media and the boundaries of the stage",
+    "marwick-boyd-imagined": "Marwick and boyd: context collapse and the imagined audience"
+  },
+  "cards": [
+    {
+      "id": "ctx-rain",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "Why is a rain ceremony that brings no rain still performed?",
+      "body": "An outsider can easily dismiss the Hopi rain ceremonies as “superstition”. In 1949, in the first edition of *Social Theory and Social Structure*, Robert K. Merton takes aim at exactly this reflex: calling something “superstition” is not an explanation, it is sticking on a label. Meteorologists agree that the ceremony does not produce rain. But for Merton the question does not end there, because a practice’s stated purpose and its actual consequences need not be the same thing. [[cite:merton-1949]]\n\nMerton asks a different question of the ceremony: what does it do for those who perform it, and for the community? A candidate answer: by regularly bringing scattered people together in a common activity it may strengthen the group’s identity. [[cite:merton-1949]] This is a **functionalist** question: it tries to understand a phenomenon through its contribution to the continuation of the whole.\n\nNow ask the same ceremony one more thing: what does it mean to the participants? Which gesture, which word produces the feeling “we are calling the rain”, and how do children learn it, and from whom? That is an **interactionist** question: it looks at how meaning is built between people. (This second question is not Merton’s; we added it to put the two views side by side.)\n\nThis lesson introduces the two questions to each other. Both will come knocking when we study media.",
+      "question": {
+        "id": "ctx-rain-q",
+        "type": "mcq",
+        "prompt": "A neighbourhood association holds a big picnic once a year in the name of “development”; the picnic contributes nothing to development. Which of the following is a functionalist question?",
+        "options": [
+          "What do people say to each other at the picnic, and what meaning do they give the phrase “our neighbourhood”?",
+          "Even if the picnic does not reach its stated aim, does it bring members together and strengthen the group’s bond?",
+          "Is the picnic permitted and legal?",
+          "How should a survey measuring how happy participants are at the end of the picnic be designed?"
+        ],
+        "answer": 1,
+        "explain": "The functionalist question probes a practice through its contribution to the whole (here, the neighbourhood), regardless of its stated aim; that is exactly the move in Merton’s rain-ceremony example. The first option asks how meaning is built, so it is interactionist. The third is a legal question and the fourth a measurement question; neither asks about a practice’s social consequences."
+      }
+    },
+    {
+      "id": "ctx-why-media",
+      "section": "context",
+      "layer": "core",
+      "kind": "text",
+      "title": "Why does media theory start with sociology?",
+      "body": "When you read a communication theory you meet two kinds of question. The first: *what job does the media do for society?* The second: *what do people do when they meet the media, and what meaning do they give it?*\n\nThe first question comes from the functionalist tradition. In 1948 [[person:lasswell|Harold Lasswell]] said that communication does three jobs in society: surveying the environment, correlating the parts of society in their response to it, and transmitting the heritage. [[cite:lasswell-1948]] (More in the concept [[concept:communication-functions]].) In the same collected volume there was a chapter signed by Paul Lazarsfeld and Robert Merton that carried Merton’s language of “function” and “dysfunction” over to the media. [[cite:lazarsfeld-merton-1948-mass-communication]]\n\nThe second question comes from the interactionist tradition. In 1933, in his research on the movies, Herbert Blumer asked people to write about their experiences of the cinema in their own words: he looked for meaning in people’s own accounts. [[cite:blumer-1933-movies-conduct]]\n\nSo when you talk today about “the functions of the media” or “media and identity”, you are continuing two sociological inheritances. This lesson introduces that inheritance; the lessons [[lesson:functions-of-media]] and [[lesson:social-construction-of-reality]] will continue from these two veins.\n\nFrom here on you can test every concept with two questions: *what does it add to the system?* and *what does it mean, and to whom?*",
+      "question": {
+        "id": "ctx-why-media-q",
+        "type": "mcq",
+        "prompt": "A researcher asks hundreds of people for long written answers, in their own words, to “what did you experience with the cinema?”. Which view does this choice sit closer to?",
+        "options": [
+          "Functionalist: because it measures the job the cinema does for society.",
+          "Interactionist: because it tries to capture meaning through people’s own accounts.",
+          "Functionalist: because a written answer is always objective data.",
+          "Neither: written accounts do not count as scientific data."
+        ],
+        "answer": 1,
+        "explain": "Having people narrate in their own words rests on capturing meaning from the actor’s point of view, which is the distinctive move of the interactionist view. The first and third options tie the method to the wrong view: the functionalist question asks “what job does it do for society?”, and a written account speaks of meaning, not of that. The last option is wrong too: such accounts are legitimate data in qualitative research; they are just not suited to exact counting."
+      }
+    },
+    {
+      "id": "deep-pragmatism",
+      "section": "context",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: the road from Chicago pragmatism to interactionism",
+      "body": "Symbolic interactionism was a philosophical milieu before it was a school of sociology. Pragmatism was born around 1870 in a discussion group at Harvard (the Metaphysical Club) around Peirce and James; Dewey carried the line toward social improvement and education, and in 1894 took over the philosophy chair at the University of Chicago. [[cite:sep-pragmatism]] Mead was in Chicago from 1894 as well (after a short spell at Michigan) and worked there until his death in 1931; he is counted with Peirce, James and Dewey among the important names of classical pragmatism. [[cite:sep-mead]] His thinking took shape in the “Social Psychology” course he taught from 1900. [[cite:mead-1934-mind-self-society]]\n\nCooley, by contrast, was not in Chicago but at the University of Michigan. [[cite:encyclopedia-cooley]] So the interactionist ideas were not born on one campus; they were brought together later. The person who did the bringing together was Blumer: he was Mead’s student in Chicago and coined the name “symbolic interactionism” in 1937. [[cite:wikipedia-blumer]] [[cite:encyclopedia-blumer]] Since Mead died in 1931, the name came six years after his death; Mead never used it.\n\nThe practical consequence: when you say “Mead’s symbolic interactionism” you are using a retrospective label. Moreover, Blumer is remembered as Mead’s interpreter as well as his student. [[cite:wikipedia-symbolic-interactionism]] So “what did Mead say?” and “what did Blumer draw from Mead?” may not be the same question; in this lesson we try to keep the two apart."
+    },
+    {
+      "id": "people-cast",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "text",
+      "title": "Who is who? Six names, two wings",
+      "body": "First a look at the cast. (W. I. Thomas will also turn up in passing; he belongs to another lesson.)\n\n**The functionalist wing**\n- [[person:parsons|Talcott Parsons]] (1902–1979), Harvard. The great theorist who built society as a system; *The Structure of Social Action* (1937) and *The Social System* (1951). [[cite:parsons-1937-structure-social-action]] [[cite:parsons-1951-social-system]]\n- [[person:merton|Robert K. Merton]] (1910–2003), Columbia. Studied under Parsons at Harvard; brought functionalism closer to testable research and drew the manifest/latent distinction in *Social Theory and Social Structure* (1949); he is also the person behind the middle-range theory idea you met in the previous lesson ([[lesson:what-is-theory]]). [[cite:merton-1949]] [[cite:cole-2004-merton]] [[cite:tubitak-yapisal-islevselcilik]]\n\n**The interactionist wing**\n- [[person:cooley|Charles Horton Cooley]] (1864–1929), Michigan. The “looking-glass self.” [[cite:cooley-1902-human-nature]]\n- [[person:mead|George Herbert Mead]] (1863–1931), Chicago. The self, the “I” and the “me”, the generalized other. [[cite:mead-1934-mind-self-society]]\n- [[person:blumer|Herbert Blumer]] (1900–1987). The person who named “symbolic interactionism” in 1937. [[cite:blumer-1937-social-psychology]]\n- [[person:goffman|Erving Goffman]] (1922–1982). Analysed everyday life in the language of the stage. [[cite:goffman-1959-presentation-of-self]]\n\nLook at the calendar: Cooley’s book came out in 1902, Mead’s compilation in 1934, Parsons’s first major book in 1937. Both traditions took book form in the first half of the same century; in the coming sections you will see how they parted.",
+      "question": {
+        "id": "people-cast-q",
+        "type": "match",
+        "prompt": "Match the names with their best-remembered contributions.",
+        "pairs": [
+          [
+            "Talcott Parsons",
+            "The AGIL scheme"
+          ],
+          [
+            "Robert K. Merton",
+            "The manifest/latent function distinction"
+          ],
+          [
+            "Charles H. Cooley",
+            "The looking-glass self"
+          ],
+          [
+            "George H. Mead",
+            "The generalized other"
+          ],
+          [
+            "Herbert Blumer",
+            "The person who named “symbolic interactionism”"
+          ],
+          [
+            "Erving Goffman",
+            "Everyday life in the language of the stage"
+          ]
+        ],
+        "explain": "The pairs most often confused are Cooley and Mead (the looking-glass self is Cooley’s; the “I”, the “me” and the generalized other are Mead’s) and Mead and Blumer: we tie the theory’s foundation to Mead’s thought, but the name was given by Blumer six years after Mead’s death. Parsons and Merton get confused too: the AGIL scheme is Parsons’s, the manifest/latent function distinction Merton’s."
+      }
+    },
+    {
+      "id": "people-mead-notes",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "story",
+      "title": "Mead’s masterpiece was not written by Mead",
+      "body": "The book that carries the name of the man who changed social psychology did not actually come from his hand. When Mead died in 1931 he had published many papers but had not gathered his thinking in one long book; the book’s editor, Charles W. Morris, says so plainly in the preface. [[cite:mead-1934-mind-self-society]]\n\nMead’s thinking lived in the classroom, and he lectured without notes. A student, George Anagnos, sensed the value of these lectures; with the means provided by Alvin Carus, stenographers were hired and the lectures were taken down word for word. [[cite:mead-1934-mind-self-society]]\n\n*Mind, Self, and Society* (1934) was compiled from these records: the stenographic record of the 1927 course was taken as the base; student notes from 1930, the last year the course was given in its complete form, and selections from unpublished manuscripts were added; repetitions were pruned, the style corrected, and the headings supplied by the editor. Morris’s own assessment is that this is not a court record, but one of the most faithful records left of a great thinker’s last years. [[cite:mead-1934-mind-self-society]]\n\nWhat this teaches: when you see “Mead says”, you are often reading an edited student record. That does not invalidate his ideas; it just shows that you need to know how far to trust the source.",
+      "question": {
+        "id": "people-mead-notes-q",
+        "type": "tf",
+        "prompt": "True or false: *Mind, Self, and Society* is the posthumous printing of a manuscript Mead had prepared before his death.",
+        "answer": false,
+        "explain": "False. The book was compiled by the editor Charles W. Morris mainly from student and stenographic notes of Mead’s lectures, plus some unpublished manuscripts. The mistake is natural: the author’s name is on the cover, but the book itself is a compilation, not an author’s book."
+      }
+    },
+    {
+      "id": "claim-two",
+      "section": "claim",
+      "layer": "core",
+      "kind": "text",
+      "title": "Two views, two questions",
+      "body": "Put the two claims side by side: [[concept:structural-functionalism|structural functionalism]] and [[concept:symbolic-interactionism|symbolic interactionism]].\n\n**Structural functionalism** sees society as a system made of interdependent parts. To understand an institution or a habit, it asks: what does it contribute to the system’s continuation? Its main question is how social order is achieved. [[cite:tubitak-islevselcilik-sosyoloji]] This is a **macro** view: it looks at social systems and institutional structures. [[cite:ebsco-micro-macro]]\n\n**Symbolic interactionism** sees society as a process arising from people’s actions toward one another, the meanings they share and the continual interpretation of those meanings. Encyclopedia entries classify it as a micro-level orientation, one that focuses on interpersonal and interactional processes. [[cite:tubitak-sembolik-etkilesimcilik]] [[cite:ebsco-micro-macro]]\n\nApplied to media: the first asks “what does the media add to society’s order?”; the second “what do people do when they meet the media, and what do they take it to be?”. Imagine the evening news: to a functionalist eye it is “a habit that brings society together around a common agenda”, to an interactionist eye “the half hour that fills the silence between me and my father”. Both are correct but different readings of the same scene. Neither view is right and the other wrong: which question you ask decides which detail of the scene you will see.",
+      "question": {
+        "id": "claim-two-q",
+        "type": "mcq",
+        "prompt": "Which of the following research questions is interactionist rather than functionalist?",
+        "options": [
+          "How do news bulletins help society stay informed about dangers?",
+          "As a family watches the evening news, what do they say to each other and what meaning do they interpret the news with?",
+          "How does advertising revenue keep the media system going?",
+          "Which functional requirements of society does the media system meet?"
+        ],
+        "answer": 1,
+        "explain": "The interactionist question looks at how people build meaning as they meet each other and something else; the second option asks exactly that. The other three options look at the system’s or society’s needs, contribution and continuity: these are functionalist questions."
+      }
+    },
+    {
+      "id": "con-agil",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "AGIL: four exams for a system",
+      "body": "According to [[person:parsons|Parsons]], a social system must meet four functional requirements to persist. Their initials give the name of the [[concept:agil-scheme|AGIL scheme]]: **AGIL**. [[cite:tubitak-islevselcilik-sosyoloji]] [[cite:encyclopedia-parsons]]\n\n- **A – Adaptation:** securing resources from the environment and adjusting to changing conditions.\n- **G – Goal attainment:** setting goals and directing resources toward them.\n- **I – Integration:** keeping the parts in harmony and regulating conflict.\n- **L – Latency (pattern maintenance):** preserving values and motivation and passing them on across generations; institutions like the family and the school come in here.\n\nAt the level of society, the adaptation job is likened to the economy and the goal-attainment job to politics. [[cite:wikipedia-agil]] The scheme took shape in the 1950s; it reached its detailed form in 1956. [[cite:wikipedia-agil]]\n\n*Imagine (our own example, not Parsons’s):* a small local newspaper. Advertising and subscription income keeps it alive (A). Circulation and news targets give it direction (G). Editor and reporter agreeing on the rules holds it together (I). Passing the paper’s principles on to newcomers makes it “the same paper” (L). AGIL is a ready-made checklist for asking what an institution is for.",
+      "question": {
+        "id": "con-agil-q",
+        "type": "mcq",
+        "prompt": "A university runs an orientation programme to teach new faculty members its academic values and traditions. Which AGIL letter does this job fall under?",
+        "options": [
+          "A – Adaptation",
+          "G – Goal attainment",
+          "I – Integration",
+          "L – Latency (pattern maintenance)"
+        ],
+        "answer": 3,
+        "explain": "Preserving values and motivation and passing them on to newcomers is the job of pattern maintenance (L). The most tempting wrong answer is “I”: orientation does bring people together, but I is about coordinating the parts and managing conflict; the real aim here is for values to pass from generation to generation. A concerns resources and adjusting to the environment, G setting goals and moving toward them."
+      }
+    },
+    {
+      "id": "con-merton",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Merton’s fine-tuning: function, dysfunction, manifest and latent",
+      "body": "[[person:merton|Merton]] tidied up functionalism’s conceptual toolkit in 1949; the first chapter of his book is devoted to exactly this. [[cite:merton-1949]] Four terms are enough:\n\n- **Function:** observed consequences that contribute to a system’s adjustment.\n- **Dysfunction:** consequences that lessen the same system’s adjustment.\n- **Manifest function:** functional consequences that were intended.\n- **Latent function:** functional consequences that were unintended and unrecognised. [[cite:merton-1949]]\n\n(Some Turkish sources say “gizli” instead of “gizil” for “latent”. [[cite:tubitak-yapisal-islevselcilik]] Concept pages: [[concept:manifest-latent-functions|manifest and latent functions]], [[concept:dysfunction|dysfunction]].) There can also be consequences that are neither functional nor dysfunctional, simply irrelevant to the system. [[cite:merton-1949]]\n\nTwo points to watch. First, you cannot call consequences functional or dysfunctional without asking “for which unit?”: an item may be functional for one section and dysfunctional for another; Merton stresses that a cultural item usually has both kinds of consequence. [[cite:merton-1949]] Second, “latent” does not mean a secret plot: it only means nobody intended or noticed it.\n\nThe appeal of the latent function is this: before you stamp “stupidity” on an apparently “absurd” habit, it makes you stop and ask: the stated aim may not be met, but what else does it do?",
+      "question": {
+        "id": "con-merton-q",
+        "type": "mcq",
+        "prompt": "Imagine: a company bans social media use during working hours (aim: productivity). As a result employees start chatting face to face during lunch breaks and trust in the team grows; neither management intended this nor noticed it. In Merton’s language, what is this consequence?",
+        "options": [
+          "A manifest function",
+          "A latent function",
+          "A dysfunction",
+          "A consequence irrelevant to the system (neither functional nor dysfunctional)"
+        ],
+        "answer": 1,
+        "explain": "The consequence contributes to the system (the team), but nobody intended or noticed it: that is the definition of a latent function. A manifest function would have to be intended (the ban’s aim was productivity, not trust). It is not a dysfunction, because team cohesion is not weakened but increased. And it is not “irrelevant” either: the rise in trust touches how the team works."
+      }
+    },
+    {
+      "id": "con-looking",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "story",
+      "title": "The looking-glass self: you in someone else’s mind",
+      "body": "In 1902 [[person:cooley|Charles Horton Cooley]] describes a shame we all know: we are ashamed to seem evasive before a straightforward man, cowardly before a brave one, coarse in the eyes of a refined one. A man will boast to one person of a sharp piece of business and be ashamed to own to it before another. [[cite:cooley-1902-human-nature]] The same behaviour feels different depending on who is in front of you: pride and shame are not only inside you, they sit where you imagine the other person has put you in their mind.\n\nCooley calls this the [[concept:looking-glass-self|“looking-glass self”]] and names three elements: (1) imagining how our appearance looks to the other person, (2) imagining that person’s judgment of that appearance, (3) a self-feeling such as pride or mortification. [[cite:cooley-1902-human-nature]] The key is the second: Cooley writes that the mirror comparison hardly suggests this element, though the imagined judgment is essential. What moves us is not the reflection itself but the feeling we *assume* goes on in the other’s mind in response to it. [[cite:cooley-1902-human-nature]]\n\nSo the looking-glass self is not only about “how you appear” but about “how you think you appear”: you can be wrong. (The idea that being wrong can have real consequences is our own link; you will meet it in a moment in Thomas’s sentence.)",
+      "question": {
+        "id": "con-looking-q",
+        "type": "mcq",
+        "prompt": "Imagine: after a presentation a student sees the teacher frown and thinks “I was awful”, while the teacher was actually thinking about a sore back. Which of Cooley’s three elements produces the student’s mortification?",
+        "options": [
+          "What the teacher actually thinks",
+          "Imagining the teacher’s judgment of them",
+          "The real quality of the presentation",
+          "The mechanical reflection of the teacher’s facial expression, like a mirror"
+        ],
+        "answer": 1,
+        "explain": "According to Cooley, what drives us is the imagined judgment: the student assumes the teacher holds a judgment of them. What the teacher really thinks (the first option) is out of play: the student does not know it. The fourth option is the most tempting, since the word “mirror” leads there; but Cooley says the opposite: what produces the feeling is not the mechanical reflection but the attributed sentiment."
+      }
+    },
+    {
+      "id": "con-mead-game",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "From play to team to society: the generalized other",
+      "body": "[[person:mead|Mead]] describes how a child builds the self in two stages. The first stage is *play*: the child becomes mother, teacher or police officer, moving from one role to another as the whim takes them. They take the standpoint of one particular other at a time. [[cite:mead-1934-mind-self-society]]\n\nThe second stage is the *game*, and Mead’s example is the baseball team: the child in the team has to carry the responses of every position within their own position; they keep in mind both the one who will throw the ball and the one who will catch it, and these roles are tied to each other in a definite relationship. [[cite:mead-1934-mind-self-society]] The question is no longer “what will that person say to me?” but “what does the team as a whole expect?”.\n\nMead calls the standpoint of this organised whole the [[concept:generalized-other|“generalized other”]]: the organised community or social group that gives the individual their unity of self. [[cite:sep-mead]] On Mead’s account society influences an individual’s behaviour and thinking in this form; even in abstract thought a person takes the attitude of the generalized other. [[cite:mead-1934-mind-self-society]] [[cite:ebsco-mead-role-taking]]\n\nA check on your own life (our example): when you ask “what will people say if I do this?”, who exactly are those “people”?",
+      "question": {
+        "id": "con-mead-game-q",
+        "type": "mcq",
+        "prompt": "Imagine: a child playing “doctor” is a patient one minute and the doctor the next, ignoring turns and rules. Which of Mead’s stages does this correspond to?",
+        "options": [
+          "Play (role-play)",
+          "The game (organised game)",
+          "Taking the attitude of the generalized other",
+          "The “I” stage"
+        ],
+        "answer": 0,
+        "explain": "Arbitrary switching from role to role and the standpoint of one particular other are the marks of Mead’s play stage. In the organised game the child has to take into account, at the same time, everyone’s role on the team and how the roles relate (the baseball example). The generalized other is beyond even that: the standpoint of the organised community. The “I” belongs on a different axis, the spontaneity of the response."
+      }
+    },
+    {
+      "id": "con-mead-i-me",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "“I” and “me”: the self as both order and surprise",
+      "body": "For Mead the self has two faces. The “me” is the organised set of others’ attitudes that a person takes on: the part of you that knows what your teammates expect. The “I” is the response to those attitudes. [[cite:mead-1934-mind-self-society]] (Mead puts the distinction not as a metaphysical split but as a functional distinction within conduct. [[cite:sep-mead]])\n\nThe baseball example helps again: the player knows what the team expects (the “me”). But exactly what they will do on the field neither they nor anyone else knows: perhaps a brilliant play, perhaps an error. That uncertain response is the “I”. [[cite:mead-1934-mind-self-society]] Mead also writes that the “I” is hard to catch: when we turn to look at ourselves we see a “me”; the “I” appears after the act, in memory, as “the me of a second ago”. That is why, in Mead’s words, we can surprise ourselves by our own action. [[cite:mead-1934-mind-self-society]]\n\nWhy does it matter? The “me” is where social order enters the self; the “I” is the source of spontaneity and novelty. [[cite:sep-mead]] [[cite:ebsco-mead-role-taking]] Recall the tension from the first section: the functionalist view puts order first, the interactionist view puts being rebuilt first. Mead’s self keeps both inside one person.",
+      "question": {
+        "id": "con-mead-i-me-q",
+        "type": "mcq",
+        "prompt": "Imagine: a student who always stays quiet in class starts the discussion, to everyone’s surprise, and the next day says “how did I do that?”. In Mead’s framework, how is this surprise best explained?",
+        "options": [
+          "Because the “me” produced a new generalized other.",
+          "The “I”’s response cannot be known in advance; the person sees it only afterwards, as a “me”.",
+          "Because the self consists only of the “me”, and the “me” behaves randomly.",
+          "Because the student has gone back from the organised game to the play stage."
+        ],
+        "answer": 1,
+        "explain": "Mead’s “I” is the response to organised expectations, and it cannot be known in advance; the person catches it only afterwards, in memory, as a “me”. The first option confuses the concepts: the “me” carries expectations, it does not produce a new other. The third makes the “me” random, when the “me” is the carrier of order. The fourth mixes developmental stages with the “I”/“me” distinction."
+      }
+    },
+    {
+      "id": "con-defsit",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "story",
+      "title": "If people define a situation as real, it is real in its consequences",
+      "body": "In 1928 William I. Thomas and Dorothy Swaine Thomas report a startling incident in *The Child in America*. The warden of Dannemora prison had refused to obey a court order to send an inmate outside the walls, on the ground that the man was too dangerous. The man had killed several people who had the habit of talking to themselves on the street: from the movement of their lips he imagined they were calling him names, and behaved accordingly. [[cite:thomas-thomas-1928-child-in-america]] (The authors tell the incident anonymously; we rely only on the book’s account.)\n\nThe insults were not real. But for the man they were, and the consequences were terribly real. In the same passage of the book comes the sentence: “If men define situations as real, they are real in their consequences.” [[cite:thomas-thomas-1928-child-in-america]]\n\nThis is called the [[concept:definition-of-the-situation|“definition of the situation”]]: people respond not only to the objective features of a situation but to the meaning it has for them. In his 1949 book Merton refers to the sentence as the “Thomas theorem” and counts it among the basic propositions of the social sciences. [[cite:merton-1949]] For the interactionist tradition it is a key idea: meaning does not sit ready-made in the situation; it comes from how people define it. [[cite:tubitak-sembolik-etkilesimcilik]]",
+      "question": {
+        "id": "con-defsit-q",
+        "type": "mcq",
+        "prompt": "Imagine: a rumour spreads that “Bank X is failing”. The bank is in fact sound, but customers rush to withdraw their money and the bank really does get into trouble. How does Thomas’s sentence explain this?",
+        "options": [
+          "The rumour was true; that is why the bank failed.",
+          "The rumour was false, but customers took the situation as real; their reactions produced real consequences.",
+          "The bank’s capital was inadequate anyway; the event was a coincidence.",
+          "The customers were passive; the outcome was the bank’s own decision."
+        ],
+        "answer": 1,
+        "explain": "This is exactly what Thomas’s sentence says: even if the situation is not really so, if people define it so and act accordingly, the consequences are real. The first and third options assume the rumour was true or the bank was already in trouble; the scenario sets up the opposite. The fourth ignores the customers’ actions."
+      }
+    },
+    {
+      "id": "deep-thomas",
+      "section": "concepts",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: whose sentence is it? The Thomas theorem, Merton and the failing bank",
+      "body": "The sentence appears in 1928 in *The Child in America*; the book’s authors are William I. Thomas and Dorothy Swaine Thomas. [[cite:thomas-thomas-1928-child-in-america]] In the literature the sentence is mostly credited to “W. I. Thomas”, and Merton does so too. We could not tell from these sources which author wrote which part of the book, so when we use the name “Thomas theorem” we note that it is a tradition.\n\nMerton opens the chapter “The Self-Fulfilling Prophecy” of his 1949 book with this sentence: people respond not only to the objective features of a situation but often first of all to the meaning it has for them; once they have assigned a meaning, behaviour and some of its consequences are determined by it. [[cite:merton-1949]] To make the abstraction concrete he builds a “sociological parable”: in 1932, an imaginary bank with sound assets; when a rumour of insolvency is believed by enough people, the bank really does become insolvent. [[cite:merton-1949]] (The parable is Merton’s invention, not a documented event.)\n\nThe chain the parable teaches is: the definition of the situation shapes behaviour, and behaviour produces the real outcome. Read as a theory, this is the core of the interactionist view: meaning determines outcome. The functionalist view, looking at the same event, would ask “why was the system’s (the bank’s) balance upset?”. One scene, two different questions."
+    },
+    {
+      "id": "con-goffman",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Goffman: is life a stage? (Briefly)",
+      "body": "[[person:goffman|Erving Goffman]], drawing on his field research in the Shetland Islands, analysed everyday encounters in the language of theatre. [[cite:encyclopedia-goffman]] The result was *The Presentation of Self in Everyday Life*: first a 1956 monograph published in Edinburgh, then in 1959 Doubleday’s American edition. [[cite:goffman-1959-presentation-of-self]] [[cite:wikipedia-presentation-of-self]]\n\nThe basic idea: people present themselves to others and manage the impression they leave. The presentation is given on the “front stage”, where the official definitions are shown; on the “back stage” the impression is prepared and the everyday dirty work of the show is hidden. [[cite:encyclopedia-goffman]] [[cite:wikipedia-presentation-of-self]] According to Goffman, gaining information about the person in front of you helps you define the situation: we look for clues to what we can expect from whom. [[cite:goffman-1959-presentation-of-self]] (Notice the kinship with Thomas’s “definition of the situation”?)\n\nIn this lesson we take Goffman only as a bridge: he brings Mead’s “the self is built in others’ eyes” down to observable behaviour (gesture, clothing, setting). He is associated with interactionism, but Goffman kept his distance from binding himself to a school. [[cite:wikipedia-goffman]] [[concept:dramaturgy|Dramaturgy]] is a metaphor: it does not say life is theatre, only that the vocabulary of theatre helps us understand everyday life.",
+      "question": {
+        "id": "con-goffman-q",
+        "type": "mcq",
+        "prompt": "Imagine: a waiter jokes about customers as soon as he enters the kitchen and changes his expression as he steps out into the dining room. In Goffman’s language, what is the kitchen?",
+        "options": [
+          "Front stage",
+          "Back stage",
+          "The generalized other",
+          "The looking-glass self"
+        ],
+        "answer": 1,
+        "explain": "The kitchen is where the audience (the customer) does not see, where the impression is prepared and the “dirty work” of the show is hidden: the back stage. The most tempting wrong answer is “front stage”: the waiter works there too, but the front stage is where the performance is given to the audience (the dining room). The generalized other and the looking-glass self are other theorists’ concepts and describe a mental process, not a place."
+      }
+    },
+    {
+      "id": "ass-blumer",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Blumer’s three premises: where does meaning live?",
+      "body": "In 1969, in *Symbolic Interactionism: Perspective and Method*, [[person:blumer|Blumer]] reduced [[concept:symbolic-interactionism|symbolic interactionism]] to three premises. [[cite:blumer-1969-symbolic-interactionism]] In our own words:\n\n1. **People act toward things on the basis of the meanings those things have for them.** A “thing” may be an object (a phone), a person (a teacher) or a situation (an exam).\n2. **These meanings arise from interaction with others.** Meaning does not sit ready-made in the object; it comes out of what people say to each other about the thing and how they behave toward it.\n3. **Meanings are handled and modified through an interpretive process.** In dealing with what they meet, a person uses the meaning but at the same time reinterprets it. [[cite:encyclopedia-blumer]] [[cite:encyclopedia-symbolic-interactionism]] [[cite:wikipedia-symbolic-interactionism]]\n\nImagine a group of teenagers watching the trailer of a new series. By the first premise, the one who says “weird” and the one who says “just my thing” will act differently. By the second, these judgments take shape in talk among friends. By the third, when the second episode comes out, the judgments may change.\n\nBeneath these three premises lies an assumption: to understand society you have to look at what people interpret before they act.",
+      "question": {
+        "id": "ass-blumer-q",
+        "type": "mcq",
+        "prompt": "Which of the following statements contradicts Blumer’s second premise?",
+        "options": [
+          "The meaning of an advertisement takes shape together with the reactions of those who watch it.",
+          "The meaning of a symbol stays fixed in the object itself and is the same for everyone.",
+          "What friends say to each other affects what a song expresses.",
+          "The same word can carry different meanings in different communities."
+        ],
+        "answer": 1,
+        "explain": "The second premise says that meaning does not sit ready-made in the object but arises from interaction; the second option claims the opposite. The other three say that meaning is shaped by the community, by conversation and by context: in other words, they are consistent with the premise."
+      }
+    },
+    {
+      "id": "ass-func",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "text",
+      "title": "Functionalism’s quiet assumptions (and Merton’s objection)",
+      "body": "In 1949 Merton says that most functional analyses (chiefly in anthropology) rested on three interconnected assumptions, and he finds them “debatable and unnecessary”. [[cite:merton-1949]] In turn:\n\n1. **Functional unity:** all parts of society work together in harmony. Merton points out that this is not an assumption but a hypothesis to be tested, that the degree of integration actually varies, and that an item may be functional for one section and dysfunctional for another.\n2. **Universal functionalism:** every existing cultural item performs a positive function. Merton says we must be ready to find that persisting items also carry dysfunctional consequences.\n3. **Indispensability:** only a particular institution can perform a given function. Here Merton shows that two claims are being mixed up (some functions are indispensable; some forms are indispensable) and in place of the second proposes the concept of “functional alternatives”: other structures can meet the same need. [[cite:merton-1949]]\n\nSo Merton’s functionalism is not a view that says “everything is in its place”. You will see this shortly in the debate over whether functionalism defends the status quo.",
+      "question": {
+        "id": "ass-func-q",
+        "type": "tf",
+        "prompt": "True or false: Merton adopted as a principle the “indispensability” assumption often used by functionalists and rejected the idea of functional alternatives.",
+        "answer": false,
+        "explain": "False; quite the opposite. Merton found the indispensability assumption debatable and put forward the concept of “functional alternatives”, which says the same need can be met by other structures too. This distinction opens the door both to the “whatever exists is justified” criticism and to debates about reform."
+      }
+    },
+    {
+      "id": "deep-postulates",
+      "section": "assumptions",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: from Radcliffe-Brown to Malinowski, Merton’s three postulates",
+      "body": "Merton does not just list the three postulates; in his book he shows where each comes from. [[cite:merton-1949]]\n\n**Functional unity.** He quotes Radcliffe-Brown’s definition: the parts of a social system work together with enough harmony not to produce persistent conflicts that can be neither resolved nor regulated. Merton adds a detail: Radcliffe-Brown himself presents this unity as a hypothesis that requires testing. The trouble is that in practice the hypothesis turns into an assumption.\n\n**Universal functionalism.** In its most extreme form in Malinowski: “every custom, material object, idea and belief fulfills some vital function” (as quoted by Merton). Merton says this diverts attention from consequences that are not functional but are theoretically and practically important.\n\n**Indispensability.** There is an example in the book: Davis and Moore speak of the indispensability of religion; but on looking closely Merton sees that what is regarded as indispensable is not the institution itself but the function it is supposed to perform.\n\nMerton’s closing warning cuts both ways: the lay observer who dismisses foreign customs as “superstition” is one extreme; the functionalist who quickly finds functional value in everything is the other. Both overlook the real question: which other ways of acting does a practice rule out? [[cite:merton-1949]]"
+    },
+    {
+      "id": "ass-micro-macro",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "text",
+      "title": "The micro–macro divide and the “structure or agency?” debate",
+      "body": "In sociology the [[concept:micro-macro-divide|micro–macro distinction]] looks at the scale of the phenomenon studied: the macro level covers social systems and institutional structures, the micro level interpersonal and interactional processes. Functionalism is mostly placed on the macro side, symbolic interactionism on the micro side. [[cite:ebsco-micro-macro]]\n\nUnder this distinction lies a deeper debate: **structure or agency?** Structure is the network of institutions, norms and forces that influence how people think and behave; agency is the ability of individuals to make their own choices. [[cite:ebsco-structuration]] At the two extremes there are two problems: stress structure too much and the person becomes a puppet; stress agency too much and society shrinks to the sum of individuals’ intentions. (The puppet and sum images are ours.)\n\nIn *The Constitution of Society* (1984) Anthony Giddens builds the two as two sides of one coin: the “duality of structure”, meaning that structures are made up of people’s actions and also limit and steer those actions. [[cite:giddens-1984-constitution-of-society]] [[cite:ebsco-structuration]]\n\nFrom now on, when you hear a functionalist or interactionist sentence, you can put two questions to it: *at what scale is it speaking, and how much freedom does it grant people?*",
+      "question": {
+        "id": "ass-micro-macro-q",
+        "type": "mcq",
+        "prompt": "Which of the following sentences stresses structure and almost ignores agency?",
+        "options": [
+          "The audience reinterprets the message in light of their own experience.",
+          "Institutional structure is so determining that the audience’s choices hardly change the outcome.",
+          "Structures are produced by people’s actions and also limit those actions.",
+          "People can make choices even within the limits of institutions."
+        ],
+        "answer": 1,
+        "explain": "The second option reduces the individual’s choices to a detail that hardly changes the outcome, giving structure near-absolute determining power: it ignores agency. The first and fourth options stress the effect of agency. The third is close to Giddens’s “duality of structure”: it ties the two together and does not reduce one to the other."
+      }
+    },
+    {
+      "id": "how-func-steps",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "How does a functional analysis proceed?",
+      "body": "You can draw a practical sequence from Merton’s concepts. (The order is our arrangement; Merton does not give it as a single recipe, but all its parts are in his book. [[cite:merton-1949]])\n\n1. **Name the pattern.** What exactly is the habit, ceremony, institution or media practice under study?\n2. **Specify the unit.** For whom? A person, a subgroup, the whole system? Whether consequences are “functional” or “dysfunctional” is always relative to a unit.\n3. **List the consequences, not the motives.** Write down the functional, dysfunctional and irrelevant consequences separately.\n4. **Separate manifest from latent.** Which consequences were intended, and which were unintended and unrecognised?\n5. **Work out the net balance and ask about alternatives.** What is the total effect? Could another structure meet the same need? [[cite:merton-1949]]\n\nMerton applied this logic to an institution nobody likes, the political machines of American cities; you will see how it works in a later section. For now, take this: the steps are there not to stamp a habit “good” or “bad” but to make visible why it is needed.",
+      "question": {
+        "id": "how-func-steps-q",
+        "type": "mcq",
+        "prompt": "In the second step (“specify the unit”), why is it necessary to stop and ask “for whom?”",
+        "options": [
+          "Because the same pattern can be functional for one subgroup and dysfunctional for another.",
+          "Because functions are defined only for individuals.",
+          "Because there is no such thing as a function at the level of society.",
+          "Because if this step is skipped, latent functions turn into manifest ones."
+        ],
+        "answer": 0,
+        "explain": "Merton’s emphasis is exactly this: a cultural item usually has both functional and dysfunctional consequences, and these fall differently on different units. The second and third options are wrong: functions can be defined for individuals, subgroups or the whole system. The fourth confuses the manifest/latent distinction with the unit."
+      }
+    },
+    {
+      "id": "how-lab",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Exercise: one movie memory from 1933, two questions",
+      "body": "This is an exercise; the two readings below are ours, not Blumer’s.\n\n**The document.** Blumer’s 1933 book includes the movie memory of a fifteen-year-old high-school girl. She watched the “pretty girls” in romantic films: how they did their hair, how they sat at a table in a café, how they conversed and danced; in the end she wanted to fix her hair nicely and “act nice” in front of her boyfriends. [[cite:blumer-1933-movies-conduct]]\n\n**Attempt 1: the functionalist question.** What is the habit of going to the movies doing for young people? What was intended (entertainment?), what was not (a kind of lesson in manners and dress?) For whom is it functional, for whom dysfunctional (parents, for example)? Is there another source that could meet the same need?\n\n**Attempt 2: the interactionist question.** What do “the pretty girls in the café” mean to the girl? With whom, and in what settings, did she build that meaning; did she try it out and change it if she did not like it? How does her boyfriends’ reaction shape the way she sees herself? (Remember Cooley’s looking-glass self.)\n\nThen compare the two rounds: which question made which detail visible, and which never saw it?",
+      "question": {
+        "id": "how-lab-q",
+        "type": "mcq",
+        "prompt": "If in the first round of the exercise you write “the cinema gives young people a lesson in manners and dress that nobody intended”, which of Merton’s concepts does this correspond to?",
+        "options": [
+          "Manifest function",
+          "Latent function",
+          "Dysfunction",
+          "The definition of the situation"
+        ],
+        "answer": 1,
+        "explain": "A consequence that contributes to the system (young people’s socialisation) but was unintended and unrecognised: a latent function. A manifest function would mean the cinema was made and watched for that purpose. A dysfunction means harm; the sentence speaks of a contribution. “The definition of the situation” is Thomas’s concept and the subject of the interactionist round. (A reminder: this reading is our exercise; Blumer did not say so.)"
+      }
+    },
+    {
+      "id": "evid-machine",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "story",
+      "title": "Why does the most condemned institution not die? Merton’s analysis of the political machine",
+      "body": "Merton’s 1949 book contains a striking example: the political machines of American cities. A “boss” and his neighbourhood representatives win elections in the precinct through a network woven of personal relations. What public opinion condemns is well known: patronage, bribery, “protection” for crime. People think machines are immoral and expect reform to make them disappear; yet Merton writes that machines rise again from their ashes, that is, they show a striking vitality. [[cite:merton-1949]] His question: if it is so condemned, why does it carry on?\n\nHe looks for the answer in a list of consequences:\n- Because the constitutional order disperses power so widely, there is no centre that can get things done; the boss fills this gap from outside.\n- In poor and immigrant neighbourhoods the machine personalises help: food baskets, jobs, legal advice, support for those in minor trouble; the feeling of “one of us” against the cold, probing manner of official aid agencies.\n- It provides political privileges to business, and opens an alternative channel of mobility for groups whose routes to social advancement are closed. [[cite:merton-1949]]\n\nMerton writes explicitly that this is not an apology: a functional outlook gives a firmer basis for changing or eliminating the machine, provided other arrangements are set up to meet the same needs. [[cite:merton-1949]] This is the concrete form of his own answer to the criticism that “functionalism is conservative”.",
+      "question": {
+        "id": "evid-machine-q",
+        "type": "mcq",
+        "prompt": "In listing the political machine’s latent functions, what is Merton doing?",
+        "options": [
+          "Defending the machine on moral grounds.",
+          "Looking at consequences beyond its stated purpose, and saying the machine will persist unless those needs are met in other ways.",
+          "Proving that all machines perform exactly the same functions.",
+          "Arguing that reform is unnecessary."
+        ],
+        "answer": 1,
+        "explain": "Merton’s move is to understand why a condemned institution persists through its consequences, and to show that it will not go away unless other arrangements meet those needs. The first option is the most tempting wrong answer, but Merton states explicitly that he is not offering an apology. The third is wrong too: Merton does not claim that all machines perform the same functions to the same degree. The fourth is the opposite of what he wrote."
+      }
+    },
+    {
+      "id": "evid-payne",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "story",
+      "title": "Blumer’s “tell me” method in 1933",
+      "body": "The Payne Fund studies were a series of investigations designed to examine the influence of the movies on children and young people; one of them was *Movies and Conduct* (1933) by Herbert Blumer of the University of Chicago. [[cite:blumer-1933-movies-conduct]] [[cite:wikipedia-payne-fund]] (The story of the series is in [[lesson:payne-fund-mars]].)\n\nThe method is interesting: Blumer’s main reliance was not an experiment but written life histories; he asked people to write down, in narrative form, what they had experienced with the movies. Accounts were collected from 634 university students, 481 women’s-college students, 583 high-school students (from ten public high schools in Chicago), 67 office workers and 58 factory workers. [[cite:blumer-1933-movies-conduct]] That comes to more than 1,800 “movie autobiographies” (we did the addition; Wikipedia gives 1,823). [[cite:wikipedia-payne-fund]]\n\nOne finding as an example: in the autobiographies of 458 high-school students, 62 per cent write that they imitated dress and manners from films; 16 per cent are unaware of any such imitation; 22 per cent give no basis for a conclusion. [[cite:blumer-1933-movies-conduct]]\n\nBlumer himself writes that the counts should not be taken as conclusive: since nobody was asked to write in a particular direction, the tallies are not exact. [[cite:blumer-1933-movies-conduct]] This is research of the “actor’s own account” kind; the term was coined only in 1937 and did not yet exist in 1933, but the question ran along the same line (our interpretation).",
+      "question": {
+        "id": "evid-payne-q",
+        "type": "mcq",
+        "prompt": "What is the limit of the “62 per cent imitation” finding in Blumer’s study?",
+        "options": [
+          "It rests on people’s own written accounts; there is no control group and it does not prove that the cinema produced the imitation.",
+          "62 per cent is so high that it settles that the cinema produced the imitation.",
+          "It covers only factory workers.",
+          "Blumer never put the figure into numbers."
+        ],
+        "answer": 0,
+        "explain": "The finding rests on people mentioning imitation in their own accounts, and Blumer’s own caution is that the counts should not be taken as conclusive. The second option mistakes a high percentage for proof of causation; that is a logical error. The third contradicts the sample (this figure comes from high-school students) and the fourth the numbers given in the text."
+      }
+    },
+    {
+      "id": "deep-blumer-1933",
+      "section": "evidence",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: how Blumer’s 1933 data were collected, and what was left out",
+      "body": "The “procedure” chapter of Blumer’s book says three things.\n\n**How the instructions came about.** The work began with free accounts from two university classes, written in a “natural and truthful” manner, outside class, over six to eight weeks. Recurrent experiences were picked out of these, and a guidance sheet was drawn up for later autobiographies (in the book’s Appendix A). [[cite:blumer-1933-movies-conduct]]\n\n**The value of the counts.** Blumer does not treat the counts as conclusive, but says that because people were not forced to write in a particular way they may be worth more than a formal questionnaire would give. The main body of the book is selected accounts, so that readers can judge for themselves whether the author’s interpretations are reasonable. [[cite:blumer-1933-movies-conduct]]\n\n**What was left out.** Blumer writes that the influence of the movies on sex conduct proved considerable in the materials collected, but that he found it inadvisable to include it, and that the omission is not to be taken as meaning the influence is absent. The influence of the movies is also not compared with that of newspapers, fiction or the theatre. [[cite:blumer-1933-movies-conduct]]\n\nThese details help later, when you look at debates on “do movies affect young people?”: reading a study through the limits it writes for itself is a strong habit."
+    },
+    {
+      "id": "crit-fun",
+      "section": "critique",
+      "layer": "core",
+      "kind": "myth",
+      "title": "Myth: “Functionalism justifies whatever exists”",
+      "body": "**What people assume.** Functionalism justifies an institution the moment it says “it works”, that is, it protects the status quo; and it rests on a “teleological” logic that puts the result (usefulness) in the place of the cause. The list of criticisms in encyclopedias gives the same impression: a conservative approach that protects the status quo, overlooks conflict and change, and leaves the concept of “function” vague. [[cite:tubitak-islevselcilik-sosyoloji]] [[cite:ebsco-micro-macro]]\n\n**What the sources say.** Merton takes up this criticism in his 1949 book under a heading of its own: the charge that functional analysis is inevitably “conservative”, even “reactionary”; in one critic’s words, describing institutions by their functions leads to “a conservative teleology”. Merton’s answer: that follows only if you adopt the three assumptions (functional unity, universal functionalism, indispensability) without question. An analysis that takes dysfunctions and functional alternatives into account is not doomed to that conclusion. Merton also cites voices arguing that functionalism is in fact critical and pragmatic. To mock teleology he gives an example he attributes to Franklin: God made the joints of the arm just long enough to carry a glass to the mouth, so let us adore, glass in hand. [[cite:merton-1949]]\n\n**Conclusion.** The criticism is not empty: the three assumptions were often used in practice. But the generalisation “functionalism justifies whatever exists” contradicts what Merton himself wrote.",
+      "question": {
+        "id": "crit-fun-q",
+        "type": "mcq",
+        "prompt": "According to Merton’s 1949 answer, when does functional analysis risk sliding into a “conservative teleology”?",
+        "options": [
+          "When it lists functions and dysfunctions together.",
+          "When it adopts the assumptions of functional unity, universal functionalism and indispensability without question.",
+          "When it separates manifest from latent functions.",
+          "When it searches for an institution’s alternatives."
+        ],
+        "answer": 1,
+        "explain": "For Merton the criticism rests on these three assumptions: if everything is in harmony, every item is functional and every form is indispensable, there is no way left but to defend the existing order. The other three options are all tools Merton proposed to avoid this trap: seeing dysfunctions, separating latent functions, looking for alternatives."
+      }
+    },
+    {
+      "id": "crit-int",
+      "section": "critique",
+      "layer": "core",
+      "kind": "text",
+      "title": "Interactionism’s blind spot: where is structure?",
+      "body": "If functionalism’s question is “system”, it risks turning people into puppets; if interactionism’s question is “meaning”, it risks overlooking structure.\n\nIn the 1970s researchers criticised symbolic interactionism for neglecting social structure, power relations and historical context; theorists such as Sheldon Stryker answered with a version that takes structure into account. [[cite:encyclopedia-symbolic-interactionism]] [[cite:carter-fuller-2016-symbols-meaning-action]] The Turkish encyclopedia entry likewise says the theory lags behind in social conflict and macro-scale analyses. [[cite:tubitak-sembolik-etkilesimcilik]] The same criticism was made of Goffman: he was said to neglect macro concerns such as class and economic structure. [[cite:encyclopedia-goffman]]\n\nOn method there are objections too: the approach was found “too impressionistic”, more a framework than a theory, and hard to test. [[cite:wikipedia-symbolic-interactionism]]\n\nWhat did defenders reply? In 1993 Gary Alan Fine described interactionism’s place in the micro/macro and structure/agency debates and its extensions into areas such as “macro-interactionism”. [[cite:fine-1993-sad-demise]] So the debate is not closed: interactionists try to see structure too; critics ask whether that is enough.",
+      "question": {
+        "id": "crit-int-q",
+        "type": "mcq",
+        "prompt": "A researcher describes in fine detail how editors in a newsroom bargain over the meaning of a story, but never asks about the concentration of media ownership or the distribution of advertising revenue. Which criticism fits best?",
+        "options": [
+          "The study is too quantitative; qualitative method should be dropped.",
+          "The study leaves social structure and power relations out.",
+          "The study depicts the individual as a passive puppet.",
+          "The study confuses manifest function with latent function."
+        ],
+        "answer": 1,
+        "explain": "The classic criticism of interactionism is that it describes micro detail skilfully while structure and power (here ownership and the revenue order) stay outside. The first option takes a qualitative study for a “quantitative” one. The third is the criticism directed at functionalism; and the manifest/latent distinction does not appear in this study at all."
+      }
+    },
+    {
+      "id": "deep-mills-parsons",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: Mills’s “grand theory” and Parsons’s “straw man”?",
+      "body": "In *The Sociological Imagination* (1959) C. Wright Mills devoted a chapter titled “grand theory” to Parsons; the main target was *The Social System* (1951). [[cite:mills-1959-sociological-imagination]] [[cite:staubmann-2021-mills-parsons]] Mills defines “grand theory” roughly as “the associating and dissociating of concepts”. Helmut Staubmann reports that among Mills’s expressions are phrases such as “drunk on syntax, blind to semantics”. [[cite:staubmann-2021-mills-parsons]]\n\nStaubmann’s thesis is this: Mills’s reading was one-sided, and Mills had a large share in establishing the image of “the conservative grand theorist” that reached the textbooks. In his account, two chapters of *The Social System* were devoted to dynamic processes and change; and Parsons was linked with the label “structural functionalism” only briefly in the early 1950s, and later kept away from it. [[cite:staubmann-2021-mills-parsons]] An encyclopedia entry likewise says that Parsons called his own theory action theory, not functionalism. [[cite:wikipedia-action-theory]]\n\nA caution: this is an interpretation defending Parsons; Mills’s own reply and other critics’ objections are not in this card. So the debate over “who was the real Parsons?” is open. What matters for an exam is to know the content of the classic criticisms (conservatism, failing to explain change and conflict) and also to know that they are contested."
+    },
+    {
+      "id": "deep-schools",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: Chicago, Iowa, Indiana: the three roads of interactionism",
+      "body": "Symbolic interactionism is not a single block. Carter and Fuller (2016) count three main trajectories: Herbert Blumer’s Chicago School, Manford Kuhn’s Iowa School and Sheldon Stryker’s Indiana School, each set apart by its own research method. [[cite:carter-fuller-2016-symbols-meaning-action]] In general summaries the Chicago tradition is associated with process-oriented, qualitative methods and the Iowa line with more structural and quantitative ones; Stryker’s “structural symbolic interactionism” is listed as one of the lines. [[cite:wikipedia-symbolic-interactionism]]\n\nA caution: this Manford Kuhn is not the Thomas Kuhn known for the concept of the paradigm; mixing up the two Kuhns is a common mistake in exams.\n\nGary Alan Fine drew attention in 1993 to an interesting paradox: while the discipline largely adopted interactionists’ core concepts, interactionists as an intellectual community became more scattered; the article’s title (“the sad demise, mysterious disappearance, and glorious triumph”) alludes to that paradox. [[cite:fine-1993-sad-demise]]\n\nSo when you hear “symbolic interactionism says this”, ask: from which trajectory, and by which method? That is another face of the structure debate: Stryker’s version brings structure in, while Blumer’s leans on the process of interpretation."
+    },
+    {
+      "id": "today-func",
+      "section": "today",
+      "layer": "core",
+      "kind": "text",
+      "title": "The functions of media: from Lasswell to the “narcotizing dysfunction”",
+      "body": "There are classic examples of asking the functionalist question of the media. In 1948 Lasswell listed communication’s three functions in society: surveillance, correlation, transmission. [[cite:lasswell-1948]] In 1960 Charles Wright added entertainment to this list as a fourth function. [[cite:wright-1960]]\n\nMerton’s function/dysfunction language also works the other way round in the media: in their 1948 chapter Lazarsfeld and Merton argued that the media can produce not only functions but dysfunctions for society. According to the idea known as the “narcotizing dysfunction”, people flooded with information on an issue may settle for the information instead of acting: following the news takes the place of feeling that one has done something. [[cite:lazarsfeld-merton-1948-mass-communication]] [[cite:wikipedia-narcotizing-dysfunction]]\n\nToday you can debate this through the notification feed, but note: “does social media narcotize people?” is not a claim we present evidence for in this lesson; it is an example of how the functionalist question is built. The questions are ready-made: for which unit (user, publisher, democracy)? Which consequences were intended, which not? What is latent? More in the lesson [[lesson:functions-of-media]].\n\nYou can read the three names along one line (our own summary): Lasswell listed three social functions, Wright added entertainment to the list, and Lazarsfeld and Merton brought up the dysfunction in the shadow of function.",
+      "question": {
+        "id": "today-func-q",
+        "type": "mcq",
+        "prompt": "A news app sends notifications constantly. Users read them, feel “I followed the agenda, I did my part”, and take none of the action the news called for. According to Lazarsfeld and Merton’s idea, how can this be read?",
+        "options": [
+          "The app’s manifest function: getting the user to act.",
+          "A narcotizing dysfunction: an abundance of information takes the place of action.",
+          "Latent pattern maintenance: values passed from generation to generation.",
+          "The definition of the situation: the notification is a rumour."
+        ],
+        "answer": 1,
+        "explain": "Settling for the information and not moving to action is the essence of the narcotizing dysfunction. (This is a reading, not an empirical claim.) The first option counts action as the manifest function, but in the scenario there is no action. The third is a concept from Parsons’s AGIL and has nothing to do with the topic. The fourth uses Thomas’s concept in the wrong place."
+      }
+    },
+    {
+      "id": "today-int",
+      "section": "today",
+      "layer": "core",
+      "kind": "text",
+      "title": "Front stage, back stage and the screen: interactionism in the media",
+      "body": "In *No Sense of Place* (1985) Joshua Meyrowitz combined Goffman’s dramaturgy with McLuhan’s media theory. [[cite:meyrowitz-1985-no-sense-of-place]] [[cite:serra-2024-meyrowitz]] The gist: as electronic media remove the informational barriers between different social groups, the boundaries of front and back stage blur as well. [[cite:wikipedia-meyrowitz]]\n\nFor social media there are two current contributions. In 2010 Bernie Hogan argued that Goffman’s stage applies to synchronous “situations”, while social media has asynchronous “exhibitions” (status updates, sets of photos) and a virtual “curator” who manages and redistributes them. [[cite:hogan-2010-presentation-of-self]] In interviews with Twitter users, Alice Marwick and danah boyd showed that social media collapses many audiences into a single context (“context collapse”) and that users design an “imagined audience” and post for it; techniques such as targeting particular audiences, concealing certain subjects and maintaining authenticity came out of this. [[cite:marwick-boyd-2011-imagined-audience]]\n\nOur own link (an interpretation): the “imagined audience” idea resembles Mead’s generalized other. In both, a person takes a standpoint even without a real person in front of them. Take this as a suggestion for reading, not a claim.",
+      "question": {
+        "id": "today-int-q",
+        "type": "mcq",
+        "prompt": "A user’s account is followed at the same time by family, colleagues and close friends, and because of this the user hesitates to make a joke. In Marwick and boyd’s language, what is this situation called?",
+        "options": [
+          "Narcotizing dysfunction",
+          "Context collapse",
+          "Latent pattern maintenance",
+          "Play (role-play)"
+        ],
+        "answer": 1,
+        "explain": "Many different audiences gathered in a single context, forcing the user to adjust what they post, is “context collapse”. The narcotizing dysfunction is Lazarsfeld and Merton’s idea of media dysfunction; latent pattern maintenance is the L in Parsons’s AGIL; play is Mead’s childhood stage. None of them is the name of this situation."
+      }
+    },
+    {
+      "id": "today-lab",
+      "section": "today",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Exercise: one post, two views (and a missing question)",
+      "body": "This is an exercise; the scenario below is hypothetical.\n\n**Imagine:** a university student posts from a single account that is followed by relatives, classmates and the people who may hire them in future. Before posting a photo they think three times; some posts they open only to a “close friends” list.\n\n**The documentary basis:** the users Marwick and boyd interviewed also describe similar techniques: targeting different audiences, concealing certain subjects, trying to maintain authenticity. [[cite:marwick-boyd-2011-imagined-audience]]\n\n**The functionalist round.** For whom is this practice, and what does it do? (For the user, reputation management; for families, keeping the bond going; for the platform, the flow of content.) For whom might it be dysfunctional (for example constant tension for the user)? What are the intended and unintended consequences?\n\n**The interactionist round.** Who is the student’s “imagined audience”? What do they count as “appropriate”, and by whose standard? How does a friend’s comment change the way they post? In which interactions are these meanings built?\n\n**A third question.** Does either round ask whether it is the platform’s design and business model that decide which audience groups meet in a single context? If not, at what scale is a question missing?",
+      "question": {
+        "id": "today-lab-q",
+        "type": "mcq",
+        "prompt": "At what level does the “third question” at the end of the exercise show a question needs to be asked?",
+        "options": [
+          "Micro level: the meaning of a conversation between two people.",
+          "Structural level: how do the platform’s design and business model bring audiences together?",
+          "Psychological level: how anxious is the student?",
+          "Historical level: how did people talk before social media?"
+        ],
+        "answer": 1,
+        "explain": "The third question asks about the design and business model that determine the audience context: this is a structural-level question and fills the gap the two rounds left at the micro scale. The first option is already the subject of the interactionist round. The third and fourth options may be reasonable questions, but they are not the missing question this exercise points to."
+      }
+    },
+    {
+      "id": "exam-patterns",
+      "section": "exam",
+      "layer": "core",
+      "kind": "text",
+      "title": "This is how exams ask it",
+      "body": "**Frequent patterns**\n\n- “Who developed the AGIL scheme?” → Talcott Parsons. Letters: adaptation, goal attainment, integration, latency (pattern maintenance).\n- “Who drew the manifest/latent function distinction?” → Robert K. Merton (*Social Theory and Social Structure*, 1949).\n- “The looking-glass self?” → Charles H. Cooley (1902). “The generalized other, the I and the me?” → G. H. Mead.\n- “Who coined the term ‘symbolic interactionism’?” → Herbert Blumer (1937). “The dramaturgical approach?” → Erving Goffman.\n- “The definition of the situation / the Thomas theorem?” → W. I. Thomas.\n- “Micro–macro”: functionalism is linked with the macro level, interactionism with the micro level.\n\n**Tempting wrong answers**\n\n- Treating Mead as the person who coined the term: Blumer named it, after Mead’s death.\n- Mixing up Cooley and Mead: the looking-glass self is Cooley’s; the “I”, the “me” and the generalized other are Mead’s.\n- Reading “latent” as “secret plot”: latent means unintended and unrecognised.\n- Lumping Parsons and Merton together: AGIL is Parsons’s; manifest/latent function is Merton’s.\n- Confusing Manford Kuhn (the Iowa line) with Thomas Kuhn (the paradigm).\n\n**Alternative names**\n\n- The AGIL letters appear in Turkish sources also as “gaye ulaştırma” (goal attainment) and “içerileme” (integration); some write “latent” instead of “gizil”. [[cite:tubitak-yapisal-islevselcilik]] [[cite:tubitak-islevselcilik-sosyoloji]]\n- “Gizli işlev” is also used for “gizil işlev” (latent function). You may also meet “sembolik etkileşim kuramı” for symbolic interactionism and “yapısal-fonksiyonel yaklaşım” for structural functionalism.\n\nExam questions were written from general patterns; whichever source you read, match each name with its concept and each concept with its own level (micro/macro).",
+      "question": {
+        "id": "exam-patterns-q",
+        "type": "mcq",
+        "prompt": "An exam question: “Which of the following matches is wrong?” Which is the correct answer?",
+        "options": [
+          "Cooley: the looking-glass self",
+          "Mead: the generalized other",
+          "Cooley: the “I” and the “me”",
+          "Blumer: the person who coined “symbolic interactionism”"
+        ],
+        "answer": 2,
+        "explain": "The “I” and the “me” are Mead’s concepts; Cooley’s concept is the looking-glass self. Exam writers often swap these two names. The other three matches are right: Cooley the looking-glass self, Mead the generalized other, and Blumer the person who introduced the term in 1937."
+      }
+    },
+    {
+      "id": "summary",
+      "section": "summary",
+      "layer": "core",
+      "kind": "summary",
+      "title": "Summary card",
+      "body": "- **Structural functionalism** sees society as a system (macro): it explains a pattern by its contribution to the whole’s continuation. Parsons’s AGIL scheme lists four requirements: adaptation, goal attainment, integration, latency (pattern maintenance).\n- **Merton** distinguished function from dysfunction and manifest from latent function; he added the question “for whom?” and functional alternatives. The Hopi rain ceremonial and the political machine examples show the logic.\n- **Symbolic interactionism** sees society as a process in which meaning is built in interaction (micro). Cooley’s looking-glass self, Mead’s “I”/“me” and generalized other, Thomas’s definition of the situation and Blumer’s three premises are the stones of this view; Blumer coined the term in 1937.\n- **Goffman** in brief: front stage, back stage, impression management.\n- The **micro–macro** and **structure–agency** debate is the two views’ shared accounting; Giddens tried to tie them together with the “duality of structure”.\n- **Criticism:** functionalism met the charges of conservatism and teleology (Merton took these up himself; Mills’s “grand theory” criticism is contested); interactionism was accused of overlooking structure and power.\n- **In the media**, the functionalist question is “what job does the media do for society?” (Lasswell, Wright, Lazarsfeld–Merton); the interactionist question is “how do people make sense of media and present themselves through it?” (Blumer 1933, Meyrowitz, Marwick–boyd).",
+      "question": {
+        "id": "summary-q",
+        "type": "tf",
+        "prompt": "True or false: for Merton a “latent function” is a secret aim hidden with bad intent.",
+        "answer": false,
+        "explain": "False. For Merton a latent function is an unintended and unrecognised consequence, not a plan somebody conceals. Example: a ceremony may bring no rain and yet strengthen the community’s identity; none of the participants need have intended that consciously."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "In Merton’s language, what does it mean for a consequence to be “latent”?",
+      "options": [
+        "That it was concealed with bad intent",
+        "That it was unintended and unrecognised",
+        "That it is only negative",
+        "That it cannot be measured"
+      ],
+      "answer": 1,
+      "explain": "For Merton the latent is what was neither intended nor recognised. So it is not a secret plan (first option). A latent function is a positive consequence (that is, a function); if it were negative it would be called a latent dysfunction (the third option wipes out that difference). Measurability is a separate problem."
+    },
+    {
+      "id": "q2",
+      "type": "tf",
+      "prompt": "True or false: Blumer first used the term “symbolic interactionism” in his 1969 book.",
+      "answer": false,
+      "explain": "False. Blumer coined the term in 1937, in an essay in *Man and Society*, edited by Schmidt; the 1969 *Symbolic Interactionism: Perspective and Method* set the approach out at length. “1969” is a tempting wrong answer in exams, because the book’s title carries the term."
+    },
+    {
+      "id": "q3",
+      "type": "match",
+      "prompt": "Match the books with their authors.",
+      "pairs": [
+        [
+          "Human Nature and the Social Order",
+          "Cooley"
+        ],
+        [
+          "Mind, Self, and Society",
+          "Mead"
+        ],
+        [
+          "The Social System",
+          "Parsons"
+        ],
+        [
+          "Social Theory and Social Structure",
+          "Merton"
+        ],
+        [
+          "The Presentation of Self in Everyday Life",
+          "Goffman"
+        ],
+        [
+          "Symbolic Interactionism: Perspective and Method",
+          "Blumer"
+        ]
+      ],
+      "explain": "*Mind, Self, and Society* is known under Mead’s name but is a book compiled from student notes; Cooley’s book is *Human Nature and the Social Order*, written by his own hand in 1902. *The Social System* is Parsons’s, and the manifest/latent function distinction is in Merton’s *Social Theory and Social Structure*. Goffman’s book analyses everyday life in the language of theatre, and Blumer’s gathers interactionism into three premises."
+    },
+    {
+      "id": "q4",
+      "type": "order",
+      "prompt": "Put the works and events in chronological order (oldest to newest).",
+      "items": [
+        "Cooley: Human Nature and the Social Order (1902)",
+        "W. I. Thomas and D. S. Thomas: The Child in America (1928)",
+        "Mead: Mind, Self, and Society (1934)",
+        "Blumer coins the term “symbolic interactionism” (1937)",
+        "Merton: Social Theory and Social Structure (1949)",
+        "Blumer: Symbolic Interactionism: Perspective and Method (1969)"
+      ],
+      "explain": "The order is 1902, 1928, 1934, 1937, 1949, 1969. Points that get mixed up: Mead died in 1931, his book came out in 1934, after his death, and the term was coined in 1937; so the name comes after Mead’s book. Merton’s book came out in 1949 and Blumer’s systematic book on the approach in 1969."
+    },
+    {
+      "id": "q5",
+      "type": "cloze",
+      "prompt": "Fill in the blanks.",
+      "text": "In Parsons’s AGIL scheme, {{1}} describes the system securing resources from the environment, while {{2}} describes values and motivation being preserved and passed across generations.",
+      "blanks": [
+        {
+          "options": [
+            "adaptation",
+            "goal attainment",
+            "integration"
+          ],
+          "answer": 0
+        },
+        {
+          "options": [
+            "integration",
+            "latency (pattern maintenance)",
+            "goal attainment"
+          ],
+          "answer": 1
+        }
+      ],
+      "explain": "Securing resources from the environment is adaptation (A); preserving and transmitting values is latency, or pattern maintenance (L). Integration (I) means harmony among the parts, and goal attainment (G) setting goals and directing resources to them; neither fits these definitions."
+    },
+    {
+      "id": "q6",
+      "type": "case",
+      "scenario": "Imagine: a news site puts its comment section under strict moderation to reduce hate speech. A few months later readers start calling the site “censorious” on social media, and the site becomes the focus of that debate. Meanwhile, some of the former commenters set up a new community on another platform under their own pseudonyms and develop their own internal rules, jokes and a language that decides “who counts as respected”.",
+      "parts": [
+        {
+          "id": "q6a",
+          "prompt": "The row over “censorship” is an unintended and unnoticed negative result of the moderation. In Merton’s language, what is it?",
+          "options": [
+            "A manifest function",
+            "A latent function (positive contribution)",
+            "A latent dysfunction"
+          ],
+          "answer": 2,
+          "explain": "The result is unintended and unrecognised (latent) and harms the system (dysfunction): a latent dysfunction. A manifest function would be intended; a latent function would be a positive contribution."
+        },
+        {
+          "id": "q6b",
+          "prompt": "The former commenters building their own language, rules and standards of reputation on the new platform is closer to the question of which view?",
+          "options": [
+            "Functionalist: how the system meets its four requirements",
+            "Interactionist: how meanings and identities are built in interaction",
+            "Neither: it is a question of economics"
+          ],
+          "answer": 1,
+          "explain": "The building of a shared language, rule and standard of respect within interaction is the subject of the interactionist view (meaning arises from interaction). A functionalist question can be asked too, but that view asks about contribution to the system; the interesting detail on the stage is how meaning is built."
+        },
+        {
+          "id": "q6c",
+          "prompt": "Which question in this event moves beyond the micro level to the structural level?",
+          "options": [
+            "How does one commenter understand another’s joke?",
+            "In whose interest does the order of ownership and advertising revenue that sets comment policy operate?",
+            "What does a commenter take into account in choosing a pseudonym?"
+          ],
+          "answer": 1,
+          "explain": "The order of ownership and revenue is an institutional structure outside interaction between individuals; this question is at the macro level. The other two are micro questions about how individuals build meaning and make choices."
+        }
+      ],
+      "takeaway": "One event gives rise to two questions at once: the functionalist one, “what consequence did it have for the system?”, and the interactionist one, “how did people make sense of it and rebuild it?”; the structural question waits beyond both."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "According to Mead, what is the “generalized other”?",
+      "options": [
+        "A single adult a child imitates in role-play",
+        "The attitude of the organised community or social group that gives the individual a unity of self",
+        "The spontaneous, unpredictable response inside a person",
+        "A person’s imagining of how they look in other people’s eyes"
+      ],
+      "answer": 1,
+      "explain": "The generalized other is the standpoint of the organised community or social group as a whole. The first option describes the play stage, the third the “I”, and the fourth Cooley’s looking-glass self; they are all close but separate concepts."
+    },
+    {
+      "id": "q8",
+      "type": "tf",
+      "prompt": "True or false: in Goffman’s dramaturgy the back stage is where the impression is prepared and the everyday dirty work of the show is hidden.",
+      "answer": true,
+      "explain": "True. The front stage is the place of the official performance given to the audience; the back stage is that of preparation and what is hidden. A common mistake is to think of the back stage as “fake” and the front stage as “real”; Goffman treats both as parts of everyday life."
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "A researcher says “the media structure has such power that it leaves the audience’s interpretation almost indeterminate”. Which criticism fits best?",
+      "options": [
+        "The study is buried too deep in micro detail.",
+        "The study puts structure first and ignores the role of the agent (the audience).",
+        "The study cannot separate manifest from latent function.",
+        "The study defines Mead’s “I” wrongly."
+      ],
+      "answer": 1,
+      "explain": "The sentence gives structure near-absolute determining power and ignores the audience’s power to interpret and choose: in the structure–agency debate, the agent is forgotten. The first option says the opposite (being buried in micro detail is the language of a criticism aimed at interactionism). The third and fourth options are concepts that do not appear in the sentence."
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "Thomas’s sentence, “if men define situations as real, they are real in their consequences”, is the key idea of which view?",
+      "options": [
+        "Structural functionalism: because it describes the system’s equilibrium.",
+        "Symbolic interactionism: because it ties behaviour to the meaning a situation has for people.",
+        "Both: because the two views say the same thing.",
+        "Neither: because the sentence has nothing to do with sociology."
+      ],
+      "answer": 1,
+      "explain": "The sentence says that behaviour depends on the meaning a situation has for people; this is also consistent with Blumer’s first premise and is the core of the interactionist tradition. The functionalist question reads the event through the system’s need; the two views do not say the same thing, so the third option is wrong as well."
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "Which of the following is the most accurate assessment of the claim “Merton’s functionalism justifies whatever exists”?",
+      "options": [
+        "True: because Merton said that every institution is indispensable.",
+        "Partly wrong: because Merton took dysfunctions and functional alternatives into account; but the criticism that the assumptions were misused in practice is not empty.",
+        "Entirely true: because Merton defended the political machine.",
+        "Entirely wrong: because no criticism was ever directed at functionalism."
+      ],
+      "answer": 1,
+      "explain": "Merton took up the criticism himself and built dysfunctions and alternatives into the system; in his political-machine analysis he wrote that he was not offering an apology. But the frequent use of the three assumptions in the functionalist literature does not make the criticism void. So the second option is measured and correct; the other three are over-generalisations."
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": "In the “micro–macro” distinction, how are functionalism and symbolic interactionism placed?",
+      "options": [
+        "Both macro",
+        "Functionalism macro, interactionism micro",
+        "Functionalism micro, interactionism macro",
+        "Both micro"
+      ],
+      "answer": 1,
+      "explain": "Functionalism focuses on social systems and institutional structures, interactionism on interpersonal and interactional processes. The placement is a rough one: authors such as Fine argue that interactionism extends into macro areas too, and theorists such as Giddens discuss ways of linking the two levels."
+    }
+  ]
+}

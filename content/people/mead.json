@@ -1,0 +1,16 @@
+{
+  "id": "mead",
+  "born": {
+    "year": 1863
+  },
+  "died": {
+    "year": 1931
+  },
+  "sources": [
+    "sep-mead",
+    "openlibrary-mead"
+  ],
+  "works": [
+    "mead-1934-mind-self-society"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "manifest-latent-functions",
+  "lang": "tr",
+  "term": "açık ve gizil işlev",
+  "altTerms": [
+    "açık işlev",
+    "gizil (gizli) işlev"
+  ],
+  "slug": "acik-ve-gizil-islev",
+  "short": "Merton’un ayrımı: açık işlev, bir sistemin uyumuna katkı yapan ve amaçlanmış sonuçtur; gizil işlev, aynı türden ama amaçlanmamış ve fark edilmemiş sonuçtur.",
+  "body": "Merton 1949’da, bir örüntünün sistem için doğurduğu sonuçları iki gruba ayırdı. **Açık işlevler**, bir birimin (kişi, alt grup, sistem) uyumuna ya da ayakta kalmasına katkı yapan ve öyle amaçlanmış sonuçlardır. **Gizil işlevler** ise aynı türden ama amaçlanmamış ve fark edilmemiş sonuçlardır.\n\nAyrım özellikle, ilan edilen amacına ulaşmayan ama sürüp giden uygulamaları anlamada işe yarar: onlara “boş inanç” ya da “atalet” demeden önce “başka ne işe yarıyor?” diye sorduran budur. Merton’un örnekleri Hopi yağmur töreni ve Amerikan kentlerindeki siyasi makinelerdir.\n\n“Gizil”, gizli komplo demek değildir; yalnızca kimsenin amaçlamadığı ve fark etmediği demektir. Türkçede “gizli işlev” de yazılır.",
+  "example": "Yağmur getirmeyen bir tören (amaç: yağmur) topluluğu bir araya getirip kimliğini pekiştiriyorsa, bu gizil bir işlevdir."
+}

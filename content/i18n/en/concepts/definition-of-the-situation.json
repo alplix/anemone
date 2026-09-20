@@ -1,0 +1,15 @@
+{
+  "id": "definition-of-the-situation",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "definition of the situation",
+  "altTerms": [
+    "Thomas theorem"
+  ],
+  "slug": "definition-of-the-situation",
+  "short": "People act according to how they define a situation; in Thomas’s famous sentence, situations defined as real are real in their consequences.",
+  "body": "The sentence comes from W. I. Thomas and Dorothy Swaine Thomas’s 1928 book *The Child in America*: “If men define situations as real, they are real in their consequences.” In the book it is given together with an incident told by a prison warden: an inmate had killed people who talked to themselves in the street, taking the movement of their lips for insults.\n\nIn 1949 Merton called the sentence the “Thomas theorem” and counted it among the basic propositions of the social sciences: people respond not only to the objective features of a situation but often first of all to the meaning it has for them; once a meaning is assigned, behaviour and its consequences follow that meaning.\n\nThe concept lies at the base of the interactionist tradition: meaning is not ready-made in the situation; it comes from how people define it.",
+  "example": "Customers who believe a rumour that “Bank X is failing” withdraw their money, and the bank really does get into trouble (a summary of Merton’s “sociological parable”; a hypothetical example)."
+}

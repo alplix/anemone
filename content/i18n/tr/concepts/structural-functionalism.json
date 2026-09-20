@@ -1,0 +1,13 @@
+{
+  "id": "structural-functionalism",
+  "lang": "tr",
+  "term": "yapısal işlevselcilik",
+  "altTerms": [
+    "işlevselcilik",
+    "yapısal-fonksiyonel yaklaşım"
+  ],
+  "slug": "yapisal-islevselcilik",
+  "short": "Toplumu birbirine bağlı parçaların oluşturduğu bir sistem olarak gören ve bir kurumu ya da alışkanlığı bütünün sürmesine katkısıyla açıklayan, makro düzeyde bir sosyoloji yaklaşımı.",
+  "body": "Yapısal işlevselcilik, bir toplumun her unsurunun ve kurumunun işlev taşıdığını ve bu işlevler yerine getirildiği sürece toplumun işleyebildiğini savunur. Kökleri Comte, Durkheim ve Spencer’a dayanır; 20. yüzyılın ortasında Talcott Parsons ve Robert K. Merton’la en olgun hâlini aldı. Ana sorusu, toplumsal düzenin nasıl sağlandığıdır.\n\nMikro–makro ayrımında makro tarafa yerleştirilir: toplumsal sistemlere ve kurumsal yapılara bakar. Parsons’ta AGIL şeması, Merton’da açık/gizil işlev ve işlevsizlik ayrımı bu bakışın araçlarıdır.\n\nEleştirileri de bilinir: muhafazakâr olduğu, statükoyu koruduğu, çatışma ve değişimi gözden kaçırdığı, “işlev” kavramının muğlak kaldığı söylenir; Merton bu eleştirilerin bir kısmını kendisi ele almıştır.",
+  "example": "Merton’un Hopi yağmur töreni örneği: tören yağmur getirmese de topluluğun kimliğini pekiştiriyor olabilir."
+}

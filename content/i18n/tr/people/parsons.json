@@ -1,0 +1,24 @@
+{
+  "id": "parsons",
+  "lang": "tr",
+  "name": "Talcott Parsons",
+  "nativeName": "",
+  "slug": "talcott-parsons",
+  "short": "ABD’li toplumbilimci (1902–1979). Toplumu bir sistem olarak kuran yapısal işlevselciliğin en büyük adı; AGIL şemasının kuramcısı.",
+  "roles": [
+    "toplumbilimci",
+    "toplumsal eylem kuramcısı"
+  ],
+  "bio": "Talcott Parsons 1902’de doğdu, 1979’da öldü; kariyerinin büyük bölümünü Harvard Üniversitesi’nde geçirdi. Ansiklopedi kayıtlarına göre 1927’de Harvard’da ekonomi eğitmeni olarak başladı, sonra sosyolojiye yöneldi ve 1944’te sosyoloji profesörü oldu.\n\nİlk büyük kitabı *The Structure of Social Action* (1937), ikincisi *The Social System* (1951). Toplumu, birbirini tamamlayan işlevleri olan kurumların oluşturduğu bir sistem olarak kurdu; 1950’lerde bu sistemin sürmesi için karşılanması gereken dört gerekliliği, yani uyumu, amaca ulaşmayı, bütünleşmeyi ve gizil örüntü sürdürmeyi AGIL şeması olarak sistemleştirdi.\n\nAdı çoğu zaman “yapısal işlevselcilik”le birlikte anılır; oysa kendisi kuramını eylem kuramı diye adlandırmayı tercih etti ve bu etiketle yalnızca kısa bir dönem anıldı: bu, Helmut Staubmann gibi bir yorumcunun öne sürdüğü, tartışmalı bir okuma. C. Wright Mills onu 1959’da “büyük kuram”ın örneği sayarak eleştirdi; savunucuları bu eleştirinin tek yanlı olduğunu söyler. Merton Harvard’da onun öğrencileri arasındaydı.",
+  "works": [
+    {
+      "bib": "parsons-1937-structure-social-action",
+      "note": "İlk büyük kitap: toplumsal eylemin kuramı."
+    },
+    {
+      "bib": "parsons-1951-social-system",
+      "note": "Toplumu sistem olarak kuran temel kitap; Mills’in “büyük kuram” eleştirisinin ana hedefi."
+    }
+  ],
+  "inCourse": "Bu derste ([[lesson:functionalism-interactionism]]) AGIL şemasının ve yapısal işlevselciliğin çekirdeği olarak yer alır."
+}

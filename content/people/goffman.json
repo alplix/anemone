@@ -1,0 +1,16 @@
+{
+  "id": "goffman",
+  "born": {
+    "year": 1922
+  },
+  "died": {
+    "year": 1982
+  },
+  "sources": [
+    "wikipedia-goffman",
+    "openlibrary-goffman"
+  ],
+  "works": [
+    "goffman-1959-presentation-of-self"
+  ]
+}

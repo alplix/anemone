@@ -1,0 +1,27 @@
+{
+  "id": "blumer",
+  "lang": "tr",
+  "name": "Herbert Blumer",
+  "nativeName": "",
+  "slug": "herbert-blumer",
+  "short": "ABD’li toplumbilimci (1900–1987). “Sembolik etkileşimcilik” adını 1937’de koydu ve bakışı 1969’da üç önermeyle özetledi.",
+  "roles": [
+    "toplumbilimci"
+  ],
+  "bio": "Herbert Blumer 1900’de doğdu, 1987’de öldü. Doktorasını Chicago Üniversitesi’nde yaptı, orada Mead’in öğrencisiydi; sonradan Berkeley’de sosyoloji bölümünün kurucu başkanı oldu. 1983’te Amerikan Sosyoloji Derneği’nin Seçkin Bilimsel Kariyer Ödülü’nü aldı.\n\n“Sembolik etkileşimcilik” terimini 1937’de, Schmidt’in derlediği *Man and Society* için yazdığı genel bir sosyal psikoloji yazısında ortaya attı; yaklaşımı 1969’da *Symbolic Interactionism: Perspective and Method* kitabında üç önermeyle sundu: insanlar şeylere onların kendileri için taşıdığı anlama göre davranır; bu anlamlar başkalarıyla etkileşimden doğar; anlamlar bir yorumlama süreciyle işlenir ve değiştirilir.\n\nChicago’da çalıştığı yıllarda medya araştırmasına da katıldı: Payne Fund serisi için yazdığı *Movies and Conduct* (1933) kitabında yüzlerce kişiden sinemayla yaşadıklarını kendi sözleriyle yazmalarını istedi. Adı sık sık “Mead’in yorumcusu” olarak da anılır; yani Blumer’in Mead’den çıkardığı ile Mead’in kendi düşüncesi aynı olmayabilir.",
+  "works": [
+    {
+      "bib": "blumer-1933-movies-conduct",
+      "note": "Payne Fund çalışması: sinema otobiyografileri."
+    },
+    {
+      "bib": "blumer-1937-social-psychology",
+      "note": "“Sembolik etkileşimcilik” teriminin ortaya atıldığı yazı."
+    },
+    {
+      "bib": "blumer-1969-symbolic-interactionism",
+      "note": "Üç önermenin ve yöntem tartışmasının yer aldığı kitap."
+    }
+  ],
+  "inCourse": "[[lesson:functionalism-interactionism]] dersinde terimin sahibi ve üç önermenin kuramcısı; 1933 sinema araştırması medya örneği."
+}
