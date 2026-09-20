@@ -1,0 +1,64 @@
+{
+  "_comment": "Terms used or chosen for the lesson what-is-communication. status: ok = attested in a Turkish source I opened (TDK Güncel Türkçe Sözlük, TÜBİTAK Sosyal Bilimler Ansiklopedisi 'İletişim' by Yusuf Adıgüzel, 2022); chosen = my own choice among plausible renderings; check = weakly attested or translated by me, needs a Turkish-language reviewer.",
+  "communication": {
+    "en": "communication", "tr": "iletişim", "status": "ok",
+    "alt": ["haberleşme", "komünikasyon", "bildirişim", "muhabere"],
+    "note": "TDK (iletişim: meaning 1 and 2) lists bildirişim, haberleşme, komünikasyon, and muhabere for meaning 2; TÜBİTAK entry lists haberleşme, bildirişim, komünikasyon, muhabere. TDK: komünikasyon = French 'communication'."
+  },
+  "intrapersonal-communication": {
+    "en": "intrapersonal communication", "tr": "kişi içi iletişim", "status": "check",
+    "alt": ["iç iletişim", "içsel iletişim"],
+    "note": "TÜBİTAK uses 'iç iletişim'. 'Kişi içi' is my preferred rendering (parallel with 'kişilerarası'); not confirmed in a source I opened."
+  },
+  "interpersonal-communication": {
+    "en": "interpersonal communication", "tr": "kişilerarası iletişim", "status": "check",
+    "alt": ["bireyler arası iletişim"],
+    "note": "TÜBİTAK uses 'bireyler arası iletişim'. 'Kişilerarası' is the common one-word form in Turkish writing but I did not confirm it in a source I opened."
+  },
+  "group-communication": {
+    "en": "group communication", "tr": "grup iletişimi", "status": "ok",
+    "alt": ["grup içi iletişim"],
+    "note": "TÜBİTAK: 'grup içi iletişim'."
+  },
+  "organizational-communication": {
+    "en": "organizational communication", "tr": "örgütsel iletişim", "status": "ok",
+    "note": "TÜBİTAK: 'örgütsel iletişim'."
+  },
+  "mass-communication": {
+    "en": "mass communication", "tr": "kitle iletişimi", "status": "ok",
+    "note": "TÜBİTAK: 'kitle iletişimi'. The course title 'Kitle İletişim Kuramları' uses the same stem."
+  },
+  "source": { "en": "source", "tr": "kaynak", "status": "ok", "note": "TÜBİTAK element list." },
+  "message": { "en": "message", "tr": "ileti", "status": "ok", "alt": ["mesaj"], "note": "TÜBİTAK uses 'ileti'; 'mesaj' is the everyday synonym and is used in prose." },
+  "channel": { "en": "channel", "tr": "kanal", "status": "ok", "note": "TÜBİTAK element list." },
+  "receiver": { "en": "receiver / target", "tr": "alıcı (hedef)", "status": "check", "alt": ["hedef kitle"], "note": "TÜBİTAK: 'hedef / hedef kitle'. 'Alıcı' is the usual counterpart of 'kaynak/gönderici' in prose." },
+  "code": { "en": "code", "tr": "kod", "status": "ok", "note": "TÜBİTAK element list ('kod'). Encoding/decoding rendered 'kodlama' / 'kod açma'." },
+  "feedback": { "en": "feedback", "tr": "geri bildirim", "status": "ok", "note": "TÜBİTAK element list." },
+  "noise": { "en": "noise", "tr": "gürültü", "status": "ok", "note": "TÜBİTAK element list." },
+  "frame-of-reference": { "en": "frame of reference", "tr": "referans çerçevesi", "status": "ok", "note": "TÜBİTAK element list." },
+  "transmission-view": {
+    "en": "transmission view", "tr": "aktarım görüşü", "status": "check",
+    "alt": ["iletim görüşü"],
+    "note": "My translation of Carey's 'transmission view'; no Turkish source opened. The course title for the later lesson uses 'ritüel görüşü'."
+  },
+  "ritual-view": {
+    "en": "ritual view", "tr": "ritüel görüşü", "status": "ok",
+    "note": "Title of the planned lesson 'İletişimin Ritüel Görüşü: Carey' in course.json (project owner's list)."
+  },
+  "nonverbal-communication": {
+    "en": "nonverbal communication", "tr": "sözsüz iletişim", "status": "check",
+    "alt": ["sözel olmayan iletişim", "beden dili (gündelik)"],
+    "note": "Both 'sözsüz' and 'sözel olmayan' are common in Turkish writing; neither confirmed in a source I opened. 'Beden dili' is used only as a popular label."
+  },
+  "kinesics": { "en": "kinesics", "tr": "kinesik", "status": "check", "note": "Loan form; no Turkish source opened." },
+  "axiom": { "en": "axiom", "tr": "aksiyom", "status": "check", "note": "Standard Turkish loan; Turkish writing on Watzlawick may also say 'temel önerme' or 'varsayım' (not confirmed)." },
+  "metacommunication": { "en": "metacommunication", "tr": "üstiletişim", "status": "check", "alt": ["meta-iletişim"], "note": "My choice; the prefix 'üst-' parallels 'üstdil'. Not confirmed in a Turkish communication source." },
+  "punctuation": { "en": "punctuation (of communicational sequences)", "tr": "noktalama (iletişim dizilerinin)", "status": "check", "note": "My literal rendering of Watzlawick et al.'s 'punctuation'." },
+  "digital-analogic": { "en": "digital and analogic communication", "tr": "sayısal ve analojik iletişim", "status": "check", "note": "'Digital' in the axiom means discrete, defined elements (mostly words); 'analogic' means communication by resemblance (gesture, tone). Turkish rendering is mine." },
+  "symmetrical-complementary": { "en": "symmetrical and complementary", "tr": "simetrik ve tamamlayıcı", "status": "check", "note": "My rendering of the fifth axiom's pair." },
+  "conduit-metaphor": { "en": "conduit metaphor", "tr": "kanal (boru hattı) metaforu", "status": "check", "note": "Reddy's 'conduit metaphor'; the Turkish rendering is mine. To be kept apart from 'kanal' as channel in the process model." },
+  "mass-self-communication": { "en": "mass self-communication", "tr": "kitlesel öziletişim", "status": "check", "note": "Castells's term; Turkish rendering is mine." },
+  "masspersonal-communication": { "en": "masspersonal communication", "tr": "kitlekişisel iletişim", "status": "check", "note": "O'Sullivan & Carr's term; Turkish rendering is mine (an alternative would be 'kitle-kişilerarası iletişim')." },
+  "dispersed-audience": { "en": "dispersed audience", "tr": "dağınık izleyici kitlesi", "status": "check", "note": "Maletzke's 'disperses Publikum'; Turkish rendering is mine." },
+  "para-feedback": { "en": "para-feedback", "tr": "yarı geri bildirim", "status": "check", "note": "Term reported by Ioni & Pstae 2017 for Maletzke; the Turkish rendering is mine and is used sparingly in the lesson (the card speaks of 'zayıf geri bildirim')." }
+}

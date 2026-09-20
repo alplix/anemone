@@ -1,0 +1,350 @@
+{
+  "dance-1970": {
+    "type": "article",
+    "authors": ["Dance, Frank E. X."],
+    "year": 1970,
+    "title": "The “concept” of communication",
+    "container": "Journal of Communication", "volume": "20", "issue": "2", "pages": "201-210",
+    "doi": "10.1111/j.1460-2466.1970.tb00877.x",
+    "verified": { "status": "ok", "methods": ["crossref", "publisher-page", "second-source"], "date": "2026-09-20", "note": "Crossref record matched. The OUP abstract page was opened: 15 main themes in the definitions, three of which split the definitions critically. Littlejohn & Foss 2008 (ch. 1) describe the three splits (level of observation, intentionality, normative judgment). Full text not read." }
+  },
+  "dance-larson-1976": {
+    "type": "book",
+    "authors": ["Dance, Frank E. X.", "Larson, Carl E."],
+    "year": 1976,
+    "title": "The functions of human communication: A theoretical approach",
+    "publisher": "Holt, Rinehart and Winston", "place": "New York",
+    "verified": { "status": "ok", "methods": ["open-library", "second-source"], "date": "2026-09-20", "note": "Open Library record (Holt, Rinehart and Winston, New York, 1976). The figure of 126 definitions (Appendix A) is stated in Littlejohn & Foss 2008, ch. 1, note 3, and in Nastasia & Rakow 2005. The book itself was not opened." }
+  },
+  "littlejohn-foss-2008": {
+    "type": "book",
+    "authors": ["Littlejohn, Stephen W.", "Foss, Karen A."],
+    "year": 2008,
+    "title": "Theories of human communication",
+    "publisher": "Thomson Wadsworth", "place": "Belmont, CA", "edition": "9th ed.",
+    "verified": { "status": "ok", "methods": ["source-itself", "open-library"], "date": "2026-09-20", "note": "Chapter 1 (Communication Theory and Scholarship, pp. 1-4 and notes) read in a copy of the sample chapter; its copyright page gives ISBN 978-0-495-09587-3, Thomson Wadsworth. Open Library lists Thomson Wadsworth editions of the title." }
+  },
+  "nastasia-rakow-2005": {
+    "type": "report",
+    "authors": ["Nastasia, Diana", "Rakow, Lana"],
+    "year": 2005,
+    "title": "What is communication? Unsettling a priori and a posteriori approaches",
+    "container": "Paper submitted to the International Communication Association, Philosophy of Communication Division (1 November 2005)",
+    "url": "http://www.irfanerdogan.com/intro2com/communicationas.pdf",
+    "verified": { "status": "ok", "methods": ["source-itself", "second-source"], "date": "2026-09-20", "note": "Full text read (title page carries no author line). Authorship (Diana Nastasia and Lana Rakow) taken from the AllAcademic conference-paper citation listing shown in search results, which could not be opened directly. Quotations of Carey (1989), Berelson & Steiner (1964) and the 126-definition figure are second-hand through this paper and checked against Littlejohn & Foss 2008." }
+  },
+  "etymonline-communicate": {
+    "type": "web",
+    "authors": [],
+    "title": "communicate (v.)",
+    "publisher": "Online Etymology Dictionary",
+    "url": "https://www.etymonline.com/word/communicate",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Entry read: Latin communicare 'to share, communicate, impart, inform', literally 'to make common', related to communis 'common, public, general'. Second source: Peters (1999) as quoted in Nastasia & Rakow 2005 ('to impart, share or make common')." }
+  },
+  "carey-1989": {
+    "type": "book",
+    "authors": ["Carey, James W."],
+    "year": 1989,
+    "title": "Communication as culture: Essays on media and society",
+    "publisher": "Unwin Hyman", "place": "Boston",
+    "verified": { "status": "ok", "methods": ["open-library", "second-source"], "date": "2026-09-20", "note": "Open Library: Unwin Hyman, 1989 (later Routledge editions). Reference list of Nastasia & Rakow 2005 gives the same place and publisher. The book itself was not opened; the transmission/ritual passages are used through Nastasia & Rakow 2005 (with the book's page numbers) and the EBSCO Research Starters summary." }
+  },
+  "ebsco-ritual-view": {
+    "type": "web",
+    "authors": [],
+    "title": "Ritual view of communication",
+    "publisher": "EBSCO Research Starters (Communication and Mass Media)",
+    "url": "https://www.ebsco.com/research-starters/communication-and-mass-media/ritual-view-communication",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page read: Carey's transmission and ritual views; reading a newspaper as attending a mass. Its statement that the idea appears in Communication as Culture is consistent with Nastasia & Rakow 2005. (The page's own date for the book, 1988, differs from the 1989 of the catalogue record; 1989 is used.)" }
+  },
+  "watzlawick-et-al-1967": {
+    "type": "book",
+    "authors": ["Watzlawick, Paul", "Beavin, Janet Helmick", "Jackson, Don D."],
+    "year": 1967,
+    "title": "Pragmatics of human communication: A study of interactional patterns, pathologies, and paradoxes",
+    "publisher": "W. W. Norton", "place": "New York",
+    "verified": { "status": "ok", "methods": ["open-library", "second-source"], "date": "2026-09-20", "note": "Open Library (Norton, 1967) and the Internet Archive catalogue record; the family-authorised obituary of Watzlawick lists it with the same place and publisher. Janet Beavin later published as Janet Beavin Bavelas. The book itself could not be opened (lending-restricted); the wording and page numbers of the axioms come from Lutterer 2007, who quotes them with pages." }
+  },
+  "lutterer-2007": {
+    "type": "article",
+    "authors": ["Lutterer, Wolfram"],
+    "year": 2007,
+    "title": "The two beginnings of communication theory",
+    "container": "Kybernetes", "volume": "36", "issue": "7/8", "pages": "1022-1025",
+    "doi": "10.1108/03684920710777793",
+    "verified": { "status": "ok", "methods": ["crossref", "source-itself"], "date": "2026-09-20", "note": "Crossref record matched; author's copy read. It quotes the five axioms of Watzlawick, Beavin & Jackson 1967 with their pages (pp. 51, 54, 59, 66-67, 70). Other secondary accounts word the axioms slightly differently; the lesson paraphrases and quotes only the four-word first axiom." }
+  },
+  "motley-1990": {
+    "type": "article",
+    "authors": ["Motley, Michael T."],
+    "year": 1990,
+    "title": "On whether one can(not) not communicate: An examination via traditional communication postulates",
+    "container": "Western Journal of Speech Communication", "volume": "54", "issue": "1", "pages": "1-20",
+    "doi": "10.1080/10570319009374322",
+    "verified": { "status": "ok", "methods": ["crossref", "eric"], "date": "2026-09-20", "note": "Crossref record matched; ERIC record EJ404989 opened (abstract: four postulates, each said to contradict the axiom). Full text not read." }
+  },
+  "bavelas-1990": {
+    "type": "article",
+    "authors": ["Bavelas, Janet Beavin"],
+    "year": 1990,
+    "title": "Behaving and communicating: A reply to Motley",
+    "container": "Western Journal of Speech Communication", "volume": "54", "issue": "4", "pages": "593-602",
+    "doi": "10.1080/10570319009374362",
+    "verified": { "status": "ok", "methods": ["crossref"], "date": "2026-09-20", "note": "Crossref record matched (existence, authorship, place of publication). The content of the reply was NOT opened (publisher page returned 403); the lesson states only that it exists." }
+  },
+  "andersen-1991": {
+    "type": "article",
+    "authors": ["Andersen, Peter A."],
+    "year": 1991,
+    "title": "When one cannot not communicate: A challenge to Motley’s traditional communication postulates",
+    "container": "Communication Studies", "volume": "42", "issue": "4", "pages": "309-325",
+    "doi": "10.1080/10510979109368346",
+    "verified": { "status": "ok", "methods": ["crossref", "second-source"], "date": "2026-09-20", "note": "Crossref record matched; also cited in Littlejohn & Foss 2008, ch. 1, note 13. Only its existence and stance (a challenge to Motley) are used." }
+  },
+  "mehrabian-wiener-1967": {
+    "type": "article",
+    "authors": ["Mehrabian, Albert", "Wiener, Morton"],
+    "year": 1967,
+    "title": "Decoding of inconsistent communications",
+    "container": "Journal of Personality and Social Psychology", "volume": "6", "issue": "1", "pages": "109-114",
+    "doi": "10.1037/h0024532",
+    "verified": { "status": "ok", "methods": ["crossref", "second-source"], "date": "2026-09-20", "note": "Crossref record matched; named as one of the two studies behind the 7-38-55 figures in Lapakko 2007. Full text not read." }
+  },
+  "mehrabian-ferris-1967": {
+    "type": "article",
+    "authors": ["Mehrabian, Albert", "Ferris, Susan R."],
+    "year": 1967,
+    "title": "Inference of attitudes from nonverbal communication in two channels",
+    "container": "Journal of Consulting Psychology", "volume": "31", "issue": "3", "pages": "248-252",
+    "doi": "10.1037/h0024648",
+    "verified": { "status": "ok", "methods": ["crossref", "second-source"], "date": "2026-09-20", "note": "Crossref record matched; design details (37 female psychology majors, the single word “maybe”) come from Lapakko 2007, who describes it. Full text not read." }
+  },
+  "lapakko-2007": {
+    "type": "article",
+    "authors": ["Lapakko, David"],
+    "year": 2007,
+    "title": "Communication is 93% nonverbal: An urban legend proliferates",
+    "container": "Communication and Theater Association of Minnesota Journal", "volume": "34", "pages": "7-19",
+    "url": "https://cornerstone.lib.mnsu.edu/ctamj/vol34/iss1/2/",
+    "verified": { "status": "ok", "methods": ["source-itself", "library-repository"], "date": "2026-09-20", "note": "Full text read (repository PDF). Volume/issue from the repository record (vol. 34, iss. 1; issue dated Summer 2007); pages 7-19 also given in a citation listing." }
+  },
+  "mehrabian-silent-messages-page": {
+    "type": "web",
+    "authors": ["Mehrabian, Albert"],
+    "title": "“Silent Messages” — description and ordering information",
+    "publisher": "kaaj.com (page maintained by Albert Mehrabian)",
+    "url": "https://kaaj.com/psych/smorder.html",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page read. It states the 7%/38%/55% liking equation and adds that unless a communicator is talking about feelings or attitudes the equations are not applicable. Independent confirmation of the same caveat: Lapakko 2007." }
+  },
+  "ekman-friesen-1969": {
+    "type": "article",
+    "authors": ["Ekman, Paul", "Friesen, Wallace V."],
+    "year": 1969,
+    "title": "The repertoire of nonverbal behavior: Categories, origins, usage, and coding",
+    "container": "Semiotica", "volume": "1", "issue": "1", "pages": "49-98",
+    "doi": "10.1515/semi.1969.1.1.49",
+    "verified": { "status": "ok", "methods": ["crossref", "second-source"], "date": "2026-09-20", "note": "Crossref record matched; the five categories are taken from the Kinesics entry (Padula 2009), cross-checked against a public-speaking open textbook that lists four of them. Original not opened." }
+  },
+  "padula-2009": {
+    "type": "chapter",
+    "authors": ["Padula, Alessandra"],
+    "year": 2009,
+    "title": "Kinesics",
+    "editors": ["Littlejohn, Stephen W.", "Foss, Karen A."],
+    "bookTitle": "Encyclopedia of communication theory",
+    "publisher": "Sage", "place": "Thousand Oaks, CA",
+    "pages": "582-584",
+    "doi": "10.4135/9781412959384.n217",
+    "verified": { "status": "ok", "methods": ["crossref", "source-itself", "open-library"], "date": "2026-09-20", "note": "Entry text read (its own citation line gives author, title, Sage 2009, pp. 582-584). Crossref lists the reference entry; Open Library lists the Encyclopedia of Communication Theory (Littlejohn & Foss, Sage, 2009)." }
+  },
+  "shannon-1948": {
+    "type": "article",
+    "authors": ["Shannon, Claude E."],
+    "year": 1948,
+    "title": "A mathematical theory of communication",
+    "container": "Bell System Technical Journal", "volume": "27", "issue": "3", "pages": "379-423",
+    "doi": "10.1002/j.1538-7305.1948.tb01338.x",
+    "verified": { "status": "ok", "methods": ["crossref", "source-itself"], "date": "2026-09-20", "note": "Crossref record matched (part 1, pp. 379-423; part 2 is pp. 623-656 of the same volume). Text of the corrected reprint read: the sentence that the semantic aspects of communication are irrelevant to the engineering problem." }
+  },
+  "weaver-1949": {
+    "type": "chapter",
+    "authors": ["Weaver, Warren"],
+    "year": 1949,
+    "title": "Recent contributions to the mathematical theory of communication",
+    "bookTitle": "The mathematical theory of communication (with Claude E. Shannon)",
+    "publisher": "University of Illinois Press", "place": "Urbana",
+    "verified": { "status": "ok", "methods": ["source-itself", "open-library"], "date": "2026-09-20", "note": "Text of the essay read in a course-reader copy (dated September 1949): Levels A, B and C and the notion of semantic noise. Open Library lists the book (Shannon & Weaver, University of Illinois Press, Urbana, 1949)." }
+  },
+  "maletzke-1963": {
+    "type": "book",
+    "authors": ["Maletzke, Gerhard"],
+    "year": 1963,
+    "title": "Psychologie der Massenkommunikation: Theorie und Systematik",
+    "publisher": "Verlag Hans-Bredow-Institut", "place": "Hamburg",
+    "verified": { "status": "ok", "methods": ["crossref", "second-source"], "date": "2026-09-20", "note": "Crossref record of a 1964 book review (Bergsma, Gazette 10(2), 185-187) gives title, Hamburg, Hans Bredow Institut, 1963, 311 pp.; Ioni & Pstae 2017 cite it in the same form. Book not opened; the definition is used through the German Wikipedia article on Massenkommunikation and Ioni & Pstae 2017." }
+  },
+  "ioni-pstae-2017": {
+    "type": "article",
+    "authors": ["Ioniță, Mirela", "Păstae, Veronica"],
+    "year": 2017,
+    "title": "Gerhard Maletzke’s model of mass communication from the social communication perspective",
+    "container": "Bulletin of “Carol I” National Defence University", "pages": "48-53",
+    "url": "https://revista.unap.ro/index.php/bulletin/article/download/48-53/472/2283",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Full text read (June 2017 issue). Surnames reconstructed from the e-mail addresses printed on the first page because the extracted byline lost its diacritics. Used for Maletzke's definition in English, for the comparison of interpersonal and mass communication, for institutionalisation/professionalism and for his term para-feedback (letters to the editor as poor feedback). Definition independently confirmed by the German Wikipedia article." }
+  },
+  "wikipedia-de-massenkommunikation": {
+    "type": "web",
+    "authors": [],
+    "title": "Massenkommunikation",
+    "publisher": "Wikipedia (German edition)",
+    "url": "https://de.wikipedia.org/wiki/Massenkommunikation",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Article read: it quotes Maletzke's (1963) definition (public, by technical means of dissemination, indirect, one-sided, to a dispersed audience). Used only as the German-language cross-check of Ioni & Pstae 2017." }
+  },
+  "castells-2007": {
+    "type": "article",
+    "authors": ["Castells, Manuel"],
+    "year": 2007,
+    "title": "Communication, power and counter-power in the network society",
+    "container": "International Journal of Communication", "volume": "1", "pages": "238-266",
+    "url": "https://ijoc.org/index.php/ijoc/article/download/46/35",
+    "verified": { "status": "ok", "methods": ["source-itself", "second-source"], "date": "2026-09-20", "note": "Full text read: pp. 247-248 (industrial-society media as one-way mass distribution from one to many; mass self-communication as potentially global in reach and self-generated, self-directed and self-selected). Second-hand confirmation in Nechita 2012." }
+  },
+  "nechita-2012": {
+    "type": "article",
+    "authors": ["Nechita, Alina"],
+    "year": 2012,
+    "title": "Mass self-communication",
+    "container": "Journal of Media Research", "issue": "3(14)", "pages": "29-44",
+    "url": "https://www.mrjournal.ro/docs/R2/14MR4.pdf",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Full text read; it presents Castells's mass self-communication as a form between mass and interpersonal communication (citing Castells, Communication Power, 2009). Used only as the independent confirmation of Castells 2007." }
+  },
+  "osullivan-carr-2018": {
+    "type": "article",
+    "authors": ["O’Sullivan, Patrick B.", "Carr, Caleb T."],
+    "year": 2018,
+    "title": "Masspersonal communication: A model bridging the mass-interpersonal divide",
+    "container": "New Media & Society", "volume": "20", "issue": "3", "pages": "1161-1180",
+    "doi": "10.1177/1461444816686104",
+    "verified": { "status": "ok", "methods": ["crossref", "second-source"], "date": "2026-09-20", "note": "Crossref record matched (online 16 Jan 2017, print March 2018; abstract read: two dimensions, perceived message accessibility and message personalization). Second-hand description in Chen & Liu 2025." }
+  },
+  "chen-liu-2025": {
+    "type": "article",
+    "authors": ["Chen, Jun-Yi", "Liu, Ting-Ting"],
+    "year": 2025,
+    "title": "Intertwining social, affective, and digital dynamics: a masspersonal communication model to analyze home language maintenance",
+    "container": "Frontiers in Psychology", "volume": "16",
+    "doi": "10.3389/fpsyg.2025.1639079",
+    "verified": { "status": "ok", "methods": ["crossref", "source-itself"], "date": "2026-09-20", "note": "Crossref record matched; open-access full text opened at PMC: describes the masspersonal model of O'Sullivan and Carr as combining the public reach of mass media with the specificity of personal messages. Used only as the independent confirmation of O'Sullivan & Carr 2018." }
+  },
+  "reddy-1979": {
+    "type": "chapter",
+    "authors": ["Reddy, Michael J."],
+    "year": 1993,
+    "originalYear": 1979,
+    "title": "The conduit metaphor: A case of frame conflict in our language about language",
+    "editors": ["Ortony, Andrew"],
+    "bookTitle": "Metaphor and thought (2nd ed.)",
+    "publisher": "Cambridge University Press",
+    "pages": "164-201",
+    "doi": "10.1017/CBO9781139173865.012",
+    "verified": { "status": "ok", "methods": ["crossref", "second-source"], "date": "2026-09-20", "note": "Crossref record is the second-edition reprint (1993); the original appeared in 1979 (Grady's paper refers to 'Reddy's (1979) original presentation'). Original not opened; its content is used as summarised by Grady." }
+  },
+  "grady-conduit": {
+    "type": "web",
+    "authors": ["Grady, Joe"],
+    "title": "The “conduit metaphor” revisited: A reassessment of metaphors for communication",
+    "publisher": "author's paper hosted at terpconnect.umd.edu",
+    "url": "https://terpconnect.umd.edu/~israel/Grady_Conduits.pdf",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Six-page paper read: Reddy's account of the conduit metaphor with examples, and Reddy's concern that it puts too much responsibility on the speaker and too little on the listener. Publication venue and year of the paper itself not confirmed (hence a web entry)." }
+  },
+  "heath-heath-2007": {
+    "type": "book",
+    "authors": ["Heath, Chip", "Heath, Dan"],
+    "year": 2007,
+    "title": "Made to stick: Why some ideas survive and others die",
+    "publisher": "Random House", "place": "New York",
+    "verified": { "status": "ok", "methods": ["open-library", "excerpt-page", "second-source"], "date": "2026-09-20", "note": "Open Library lists the title (Random House, 2007 audio and print editions). Numbers of Elizabeth Newton's tapping study (25-song list, 120 songs tapped, 3 guessed, tappers predicted 50%) read in a consultant's page that reproduces the book's passage and in a second page (Temple University law library blog) giving the same figures. Newton's 1990 doctoral thesis is cited as 'The rocky road from actions to intentions'; not opened." }
+  },
+  "tdk-iletisim": {
+    "type": "web",
+    "authors": [],
+    "title": "iletişim; haberleşme; komünikasyon; bildirişim (Güncel Türkçe Sözlük maddeleri)",
+    "publisher": "Türk Dil Kurumu, Güncel Türkçe Sözlük",
+    "url": "https://sozluk.gov.tr/",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself", "second-source"], "date": "2026-09-20", "note": "Dictionary entries queried through the dictionary's own search service: iletişim (1. feelings, thoughts or information being conveyed to others by any means; 2. exchange of information carried on through telephone, telegraph, television, radio etc.; synonyms bildirişim, haberleşme, komünikasyon, muhabere); komünikasyon (French communication; see iletişim); haberleşme; bildirişim. Synonym list cross-checked against the TÜBİTAK encyclopedia entry." }
+  },
+  "tubitak-iletisim-2022": {
+    "type": "web",
+    "authors": ["Adıgüzel, Yusuf"],
+    "year": 2022,
+    "title": "İletişim",
+    "publisher": "TÜBİTAK Sosyal Bilimler Ansiklopedisi",
+    "url": "https://ansiklopedi.tubitak.gov.tr/ansiklopedi/iletisim",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Entry read: definition (conveying or sharing information by speech, writing, gesture and all other means), Turkish alternatives (haberleşme, bildirişim, komünikasyon, muhabere), five levels (iç iletişim, bireyler arası, grup içi, örgütsel, kitle iletişimi) and the list of elements (kaynak, ileti, hedef/hedef kitle; kanal, kod, geri bildirim, gürültü, referans çerçevesi). Author and year as printed on the page." }
+  },
+  "lardbucket-communication-in-context": {
+    "type": "web",
+    "authors": [],
+    "year": 2012,
+    "title": "Communication in context (section 1.3), from An Introduction to Group Communication (v. 0.0, open textbook)",
+    "publisher": "2012books.lardbucket.org (archived open textbook, CC BY-NC-SA 3.0)",
+    "url": "https://2012books.lardbucket.org/books/an-introduction-to-group-communication/s03-03-communication-in-context.html",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Section read: names five contexts (intrapersonal, interpersonal, group, public, mass communication) with everyday examples; a draft-status open textbook. Used only to show that textbooks draw the list of levels differently." }
+  },
+  "boston-carey-2006": {
+    "type": "web",
+    "authors": [],
+    "year": 2006,
+    "title": "Journalism scholar and teacher James Carey dies",
+    "publisher": "Boston.com (The Boston Globe)",
+    "url": "http://archive.boston.com/news/education/higher/articles/2006/05/24/journalism_scholar_and_teacher_james_carey_dies/",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Obituary read: died 23 May 2006 in South Kingstown, Rhode Island, aged 71; dean of the College of Communications at Illinois for 13 years; CBS Professor of International Journalism at Columbia from 1990; born in Providence." }
+  },
+  "pew-carey-2006": {
+    "type": "web",
+    "authors": [],
+    "year": 2006,
+    "title": "Remembering James Carey",
+    "publisher": "Pew Research Center (Journalism)",
+    "url": "https://www.pewresearch.org/journalism/2006/05/26/remembering-james-carey/",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page read: died May 2006 aged 71; taught at Illinois and Columbia; influenced by Dewey and William James; 'communication as culture'; his 1989 book as his best-known work." }
+  },
+  "encyclopedia-watzlawick": {
+    "type": "web",
+    "authors": [],
+    "title": "Watzlawick, Paul 1921-2007",
+    "publisher": "Encyclopedia.com",
+    "url": "https://www.encyclopedia.com/arts/educational-magazines/watzlawick-paul-1921-2007",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page read: born 25 July 1921 in Villach, Austria; died 31 March 2007 in Palo Alto; doctorate Venice 1949; Jung Institute Zurich 1954; Mental Research Institute from 1960; Stanford from 1967." }
+  },
+  "ndb-watzlawick": {
+    "type": "web",
+    "authors": [],
+    "title": "Watzlawick, Paul (Deutsche Biographie, NDB-online index entry)",
+    "publisher": "Deutsche Biographie (Bayerische Staatsbibliothek / Historische Kommission)",
+    "url": "https://www.deutsche-biographie.de/sfz139189.html",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page read: born 25 July 1921 Villach, died 31 March 2007 Palo Alto; philosopher, psychotherapist, communication scientist; lists Pragmatics of Human Communication (1967)." }
+  },
+  "ray-2007-watzlawick": {
+    "type": "web",
+    "authors": ["Ray, Wendel A."],
+    "year": 2007,
+    "title": "Obituary statement authorized by the Watzlawick family: Paul Watzlawick, PhD, dies, philosopher-family therapy pioneer was 85",
+    "publisher": "European Family Therapy Association (PDF)",
+    "url": "https://europeanfamilytherapy.eu/wp-content/uploads/Watzlawick.pdf",
+    "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Statement read: died 31 March 2007 at home in Palo Alto aged 85; doctorate 1949 (Venice); trained at the Jung Institute in Zurich; at the Mental Research Institute from November 1960; professor emeritus at Stanford; selected bibliography incl. Pragmatics of Human Communication (1967), Change (1974), How Real Is Real? (1976). (A local memorial page gives 1922 as birth year and 24 March as death date; the family statement, Encyclopedia.com and the NDB entry agree on 1921 and 31 March 2007, which are used.)" }
+  }
+}

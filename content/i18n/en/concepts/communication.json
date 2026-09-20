@@ -1,0 +1,8 @@
+{
+  "id": "communication", "lang": "en",
+  "translation": { "status": "machine" },
+  "term": "communication", "altTerms": [], "slug": "communication",
+  "short": "The process in which people try to convey or share meaning through symbols. It has no single definition: some definitions stress the transmission of a message, others the building of shared meaning.",
+  "body": "Communication is such an everyday word that it is surprising how contested its definition is. Researchers in the field have produced well over a hundred definitions, and they differ above all on three points: how broadly they draw the term, whether they require conscious intent, and whether they build success or accuracy into the definition.\n\nThe Latin root of the word means “to make common, to share”. In modern use, however, it is often understood as “sending something from one place to another”. These two senses lie behind the two views of communication, the ritual view and the transmission view.\n\nIn Turkish, the words iletişim, haberleşme, komünikasyon and bildirişim are all used for the same thing. In this course we treat communication as a context-bound process in which people try to build or share meaning through symbols; this is our own working definition, not one taken from a book.",
+  "example": "When you text a friend “Okay.”, you send both a piece of information (I agree) and a piece of relationship information (am I annoyed, am I relaxed); the receiver interprets both."
+}

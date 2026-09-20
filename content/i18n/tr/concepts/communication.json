@@ -1,0 +1,7 @@
+{
+  "id": "communication", "lang": "tr",
+  "term": "iletişim", "altTerms": ["haberleşme", "komünikasyon", "bildirişim"], "slug": "iletisim",
+  "short": "İnsanların simgeler aracılığıyla anlam aktarmaya ya da paylaşmaya çalıştığı süreç. Tek bir tanımı yoktur: kimi tanımlar mesajın aktarılmasını, kimileri ortak anlamın kurulmasını öne çıkarır.",
+  "body": "İletişim, gündelik hayatta o kadar sık kullanılan bir sözcüktür ki tanımının ne kadar tartışmalı olduğu şaşırtır. Alandaki araştırmacılar yüzden fazla farklı tanım üretmiş; tanımlar özellikle üç noktada ayrılmıştır: ne kadar geniş kapsadıkları, bilinçli niyet arayıp aramadıkları ve başarıyı ya da doğruluğu tanıma dâhil edip etmedikleri.\n\nSözcüğün Latincedeki kökü “ortak kılmak, paylaşmak” anlamına gelir. Modern kullanımda ise sık sık “bir şeyi bir yerden başka bir yere göndermek” gibi anlaşılır. Bu iki anlam, iletişimin iki ayrı görüşünün, yani ritüel ve aktarım görüşünün temelini oluşturur.\n\nTürkçede aynı şey için iletişim, haberleşme, komünikasyon ve bildirişim sözcükleri kullanılır. Bu derste iletişimi, simgeler aracılığıyla anlam kurmaya ya da paylaşmaya çalışan, bağlama bağlı bir süreç olarak ele alıyoruz; bu bizim çalışma tanımımızdır, bir kitaptan alınmamıştır.",
+  "example": "Bir arkadaşına “Tamam.” yazdığında hem bir bilgi (kabul ettim) hem de bir ilişki bilgisi (canım sıkkın mı, rahat mıyım) gönderirsin; alıcı ikisini de yorumlar."
+}

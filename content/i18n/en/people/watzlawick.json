@@ -1,0 +1,17 @@
+{
+  "id": "watzlawick",
+  "lang": "en",
+  "translation": { "status": "machine" },
+  "name": "Paul Watzlawick",
+  "nativeName": "",
+  "slug": "paul-watzlawick",
+  "short": "Austrian-born American psychologist and communication theorist (1921–2007). Worked at the Mental Research Institute in Palo Alto; known for the five axioms that include “one cannot not communicate”.",
+  "born": "Villach, Austria",
+  "died": "Palo Alto, California, USA",
+  "roles": ["psychologist", "psychotherapist", "communication theorist"],
+  "bio": "Paul Watzlawick was born in 1921 in Villach, Austria. In 1949 he completed a doctorate in philosophy and modern languages at the University of Venice and then trained at the C. G. Jung Institute in Zurich. From November 1960 he worked at the Mental Research Institute (MRI) in Palo Alto, and from 1967 he also taught psychiatry at Stanford.\n\nIn *Pragmatics of Human Communication* (1967), written with Janet Beavin and Don D. Jackson, Watzlawick drew on Gregory Bateson’s ideas about communication and dedicated the book to him; he looked at communication between people less in terms of what we say and more in terms of what we do to each other. The five axioms put forward in the book became some of the most quoted statements in the communication literature, the best known being “one cannot not communicate”.\n\nHis work was not limited to communication. He also became known in brief therapy, in applying cybernetics to human relationships, and in constructivist philosophy. His books include *Change* (1974), *How Real Is Real?* (1976) and, as editor, *The Invented Reality* (1990). He died at his home in Palo Alto on 31 March 2007, aged 85.",
+  "works": [
+    { "bib": "watzlawick-et-al-1967", "note": "The book in which the five axioms of communication appear." }
+  ],
+  "inCourse": "Appears in this course through the five axioms, which bring in the relationship aspect of communication and the idea that “one cannot not communicate”; see [[lesson:what-is-communication]]."
+}
