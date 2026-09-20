@@ -17,6 +17,6 @@
     "naver": "",
     "baidu": ""
   },
-  "apiBase": "",
+  "apiBase": "https://anemone-api.alplix.workers.dev",
   "lastUpdatedFrom": "content"
 }
