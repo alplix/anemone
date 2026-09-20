@@ -19,11 +19,13 @@ node smoke-test.mjs https://anemone-api.<subdomain>.workers.dev https://alplix.g
 ```
 then put the URL into `site.config.json` -> `apiBase`, rebuild (`node scripts/build.mjs`), commit + push. To undo everything: `npx wrangler delete` and `npx wrangler d1 delete anemone`.
 
-## In progress
-- 3 English-translation agents (agenda-setting, cultivation, spiral-of-silence + their people/concepts). While they write, `content/i18n/en` may be incomplete/invalid. `content/languages.json` has `en` status **planned** (flip to `published` when `ANEMONE_PUBLISH=en node scripts/validate.mjs` is green).
+## Live (2026-09-20)
+- Repo https://github.com/alplix/anemone (public), Pages from main /docs: **https://alplix.github.io/anemone/** (TR source + EN machine translation; 3 lessons, 14 people, 21 concepts, 288 pages, 92 indexable).
+- Live checks: Lighthouse mobile 100/100/100/100 on TR lesson, EN lesson and home; desktop perf 89-95 (lab, simulated throttling); Playwright e2e passes on the live URL; axe 0 violations (6 themes, local build); check-site: hreflang reciprocity, sitemap match, links, JSON-LD all clean.
+- Everything unverified is listed in notes/to-verify.md.
 
 ## Next
-1. Integrate EN, flip en to published, build to docs/, commit (Co-Authored-By trailer), create repo alplix/anemone, push, enable Pages (main /docs), verify live (check-site + Lighthouse on live URLs).
+1. Deploy the Worker (Alp, see above), set apiBase, rebuild, push.
 2. Scale content by priority (AUZEF track first); languages phase 2/3 with quality gates.
 3. Ask Alp: real-screen-reader test (guide/accessibility-checklist.md), an academic reviewer, "Türkiye" example sources.
 
