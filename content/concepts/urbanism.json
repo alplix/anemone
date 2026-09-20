@@ -1,0 +1,17 @@
+{
+  "id": "urbanism",
+  "family": "society",
+  "introducedBy": [
+    "wirth"
+  ],
+  "related": [
+    "chicago-school",
+    "human-ecology",
+    "social-laboratory"
+  ],
+  "sources": [
+    "wirth-1938-urbanism",
+    "fischer-1975-subcultural-urbanism",
+    "kure-chicago-sociology-2025"
+  ]
+}

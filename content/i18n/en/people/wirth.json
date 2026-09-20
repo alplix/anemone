@@ -1,0 +1,25 @@
+{
+  "id": "wirth",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "name": "Louis Wirth",
+  "nativeName": "",
+  "slug": "louis-wirth",
+  "short": "German-born American sociologist (1897–1952), known for his 1938 article defining the city as the way of life of a large, dense and heterogeneous population.",
+  "born": "Gemünden, Germany",
+  "died": "Buffalo, New York, USA",
+  "roles": [
+    "sociologist",
+    "urban sociologist"
+  ],
+  "bio": "Louis Wirth was born on 28 August 1897 in Gemünden, Germany, and died on 3 May 1952 in Buffalo, New York. He took his bachelor’s (1919), master’s (1925) and doctoral (1926) degrees at the University of Chicago; his teachers included Robert Park, Ernest Burgess and W. I. Thomas. His doctoral work, *The Ghetto* (1928), studies how Jewish immigrants adjusted to city life.\n\nHis best-known piece is “Urbanism as a Way of Life” (1938), published in the *American Journal of Sociology*. Wirth defines the city as a settlement of relatively large, dense, permanent and socially heterogeneous individuals and derives urbanism from those three criteria. The article also touches on the media: it says that schools, movies, radio and newspapers act as levelling influences because of their mass clientele, and that the masses of the city can be steered by symbols managed by those who control the instruments of communication from afar. In 1948 he published “Consensus and Mass Communication” in the *American Sociological Review*. He was president of the American Sociological Society in 1947 and later the first president of the International Sociological Association.\n\nWirth’s city adds a counter-tone to Park’s hopeful thinking about news: the city’s media both bind and steer.",
+  "works": [
+    {
+      "bib": "wirth-1938-urbanism",
+      "note": "The article that builds urbanism on size, density and heterogeneity."
+    }
+  ],
+  "inCourse": "Appears in this lesson with his theory of urbanism and his concern about the media. [[lesson:chicago-school]]"
+}

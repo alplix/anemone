@@ -1,0 +1,38 @@
+{
+  "id": "park",
+  "lang": "tr",
+  "name": "Robert E. Park",
+  "nativeName": "",
+  "slug": "robert-park",
+  "short": "Amerikalı sosyolog (1864–1944); önce muhabir, sonra Chicago Okulu’nun öncüsü. Göçmen basını, haber ve kent üzerine çalıştı; kenti bir araştırma laboratuvarı olarak gördü.",
+  "born": "Harveyville, Pennsylvania, ABD",
+  "died": "Nashville, Tennessee, ABD",
+  "roles": [
+    "sosyolog",
+    "eski gazeteci"
+  ],
+  "bio": "Robert Ezra Park, 14 Şubat 1864’te Pennsylvania’nın Harveyville kasabasında doğdu; büyüdüğü yer, ailesinin taşındığı Minnesota’nın Red Wing kentiydi. Michigan Üniversitesi’nde felsefe okudu; hocalarından biri John Dewey’di. 1887’den 1898’e kadar Minneapolis, Detroit, Denver, New York ve Chicago gazetelerinde muhabirlik yaptı. Sonra akademiye döndü: 1899’da Harvard’da yüksek lisansını bitirdi, Berlin’de Georg Simmel’in derslerini izledi, 1904’te Heidelberg’de *Masse und Publikum* (Kalabalık ve Kamu) başlıklı tezle doktorasını aldı. Ardından Tuskegee Enstitüsü’nde Booker T. Washington’ın yanında halkla ilişkiler işinde çalıştı.\n\n1914’te Chicago Üniversitesi sosyoloji bölümüne katıldı ve kenti araştırma laboratuvarı olarak kullanan “insan ekolojisi” yaklaşımını geliştirdi. Ernest Burgess’le birlikte yazdığı *Introduction to the Science of Sociology* (1921) ve *The City* (1925), Chicago Okulu’nun temel metinleri arasındadır. İletişim açısından en dikkat çeken yazıları göçmen basınını inceleyen *The Immigrant Press and Its Control* (1922), “The Natural History of the Newspaper” (1923) ve haberi bir bilgi biçimi olarak ele alan “News as a Form of Knowledge” (1940) makalesidir. Chicago’dan ayrıldıktan sonra Nashville’de Fisk Üniversitesi’nde ders verdi ve 1944’te orada öldü. Kaynaklar Park’ın Tuskegee ve Chicago görevinin bitiş yıllarında birbirini tutmadığı için bu yıllar yazılmadı.",
+  "works": [
+    {
+      "bib": "park-1915-city-suggestions",
+      "note": "Kent bir “laboratuvar ya da klinik”; gazete kentin büyük iletişim aracı."
+    },
+    {
+      "bib": "park-1922-immigrant-press",
+      "note": "Göçmen basını: asimilasyonda fren mi, gaz pedalı mı? Cevap içeriğe bağlı."
+    },
+    {
+      "bib": "park-1923-natural-history-newspaper",
+      "note": "Modern gazete kent yaşamının ürünüdür."
+    },
+    {
+      "bib": "park-1940-news-knowledge",
+      "note": "Haber, tanışıklık ile resmî bilgi arasındaki sürekliliğin üzerinde kendine özgü bir bilgi biçimidir."
+    },
+    {
+      "bib": "park-burgess-1921-intro-sociology",
+      "note": "Chicago Okulu’nun ders kitabı; Dewey’in iletişim tanımını da içerir."
+    }
+  ],
+  "inCourse": "Bu dersin başkişisi: göçmen basını, “bilgi biçimi olarak haber” ve kentin bir laboratuvar sayılması. [[lesson:chicago-school]]"
+}

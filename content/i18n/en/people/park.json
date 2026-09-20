@@ -1,0 +1,41 @@
+{
+  "id": "park",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "name": "Robert E. Park",
+  "nativeName": "",
+  "slug": "robert-park",
+  "short": "American sociologist (1864–1944); first a reporter, then a pioneer of the Chicago School. He studied the immigrant press, news and the city, and saw the city as a research laboratory.",
+  "born": "Harveyville, Pennsylvania, USA",
+  "died": "Nashville, Tennessee, USA",
+  "roles": [
+    "sociologist",
+    "former journalist"
+  ],
+  "bio": "Robert Ezra Park was born on 14 February 1864 in Harveyville, Pennsylvania, and grew up in Red Wing, Minnesota, where his family had moved. He studied philosophy at the University of Michigan, where one of his teachers was John Dewey. From 1887 to 1898 he worked as a reporter on newspapers in Minneapolis, Detroit, Denver, New York and Chicago. Then he turned to academia: he took a master’s degree at Harvard in 1899, attended Georg Simmel’s lectures in Berlin, and in 1904 earned his doctorate at Heidelberg with a thesis titled *Masse und Publikum* (Crowd and Public). After that he worked in public relations for Booker T. Washington at the Tuskegee Institute.\n\nIn 1914 he joined the sociology department of the University of Chicago and developed a “human ecology” approach that used the city as a research laboratory. *Introduction to the Science of Sociology* (1921, with Ernest Burgess) and *The City* (1925) are among the Chicago School’s basic texts. His most striking writings for communication studies are *The Immigrant Press and Its Control* (1922), “The Natural History of the Newspaper” (1923) and the article “News as a Form of Knowledge” (1940). After leaving Chicago he taught at Fisk University in Nashville and died there in 1944. Sources disagree about the years in which his Tuskegee and Chicago posts ended, so those years are not given.",
+  "works": [
+    {
+      "bib": "park-1915-city-suggestions",
+      "note": "The city as a “laboratory or clinic”; the newspaper as the city’s great medium of communication."
+    },
+    {
+      "bib": "park-1922-immigrant-press",
+      "note": "The immigrant press: a brake or an accelerator of assimilation? The answer depends on content."
+    },
+    {
+      "bib": "park-1923-natural-history-newspaper",
+      "note": "The modern newspaper is a product of city life."
+    },
+    {
+      "bib": "park-1940-news-knowledge",
+      "note": "News as a form of knowledge with its own place on the continuum between acquaintance and formal knowledge."
+    },
+    {
+      "bib": "park-burgess-1921-intro-sociology",
+      "note": "The Chicago School’s textbook; it includes Dewey’s definition of communication."
+    }
+  ],
+  "inCourse": "The lead figure of this lesson: the immigrant press, “news as a form of knowledge” and the city as a laboratory. [[lesson:chicago-school]]"
+}

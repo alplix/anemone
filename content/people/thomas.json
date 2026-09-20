@@ -1,0 +1,17 @@
+{
+  "id": "thomas",
+  "born": {
+    "year": 1863
+  },
+  "died": {
+    "year": 1947
+  },
+  "sources": [
+    "encyclopedia-thomas",
+    "wikipedia-thomas"
+  ],
+  "works": [
+    "thomas-znaniecki-1918-polish-peasant",
+    "thomas-thomas-1928-child-in-america"
+  ]
+}

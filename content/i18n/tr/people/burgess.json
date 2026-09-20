@@ -1,0 +1,26 @@
+{
+  "id": "burgess",
+  "lang": "tr",
+  "name": "Ernest W. Burgess",
+  "nativeName": "",
+  "slug": "ernest-burgess",
+  "short": "Kanada doğumlu Amerikalı sosyolog (1886–1966); Park’ın Chicago’daki yakın çalışma arkadaşı. Kentin merkezden dışa doğru genişleyen halkalarla büyüdüğünü savunan modelle anılır.",
+  "born": "Tilbury, Ontario, Kanada",
+  "died": "Chicago, Illinois, ABD",
+  "roles": [
+    "sosyolog",
+    "kent sosyoloğu"
+  ],
+  "bio": "Ernest W. Burgess, 16 Mayıs 1886’da Kanada’nın Ontario eyaletindeki Tilbury kasabasında doğdu. Lisansını Oklahoma’daki Kingfisher College’da, doktorasını Chicago Üniversitesi’nde (1913) yaptı; 1916’da Chicago’da öğretmenliğe başladı ve 1927’de profesör oldu. Robert Park’la birlikte yazdığı *Introduction to the Science of Sociology* (1921), Chicago sosyolojisinin ilk kuşak ders kitabıdır. *The City* (1925) kitabındaki bölümü, kentin merkezdeki iş bölgesinden dışa doğru halkalarla büyüdüğünü gösteren “eş merkezli halkalar” modeliyle tanınır; model Chicago gözleminden doğdu ve sonraları Amerikan kentlerine özgü ve fazla basit olduğu gerekçesiyle eleştirildi.\n\nBurgess ayrıca ailenin sosyolojik incelenmesinde ve evlilikte uyumun öngörülmesinde öncü çalışmalar yaptı. Chicago Okulu’nun iletişim düşüncesiyle bağı, Park’la ortak ders kitabı ve *The City* üzerinden kuruluyor; Park’ın gazete ve haber yazıları ise, bizim okumamızla, halka modelinin iletişim tarafını tamamlar. 1966’da Chicago’da öldü.",
+  "works": [
+    {
+      "bib": "park-burgess-1921-intro-sociology",
+      "note": "Park’la ortak ders kitabı."
+    },
+    {
+      "bib": "park-burgess-1925-the-city",
+      "note": "Kentin halkalarla büyümesi modeli."
+    }
+  ],
+  "inCourse": "Bu derste kentin ekolojik okumasının, yani halka modelinin sahibi olarak geçer. [[lesson:chicago-school]]"
+}

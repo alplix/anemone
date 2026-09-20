@@ -1,0 +1,15 @@
+{
+  "id": "immigrant-press",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "immigrant press",
+  "altTerms": [
+    "foreign-language press"
+  ],
+  "slug": "immigrant-press",
+  "short": "Newspapers and magazines that immigrants publish in their own languages; for Park, depending on content, it can either speed up or slow down assimilation.",
+  "body": "The immigrant press consists of newspapers and magazines that immigrants publish in their own languages. Robert Park’s *The Immigrant Press and Its Control* (1922) studies the foreign-language press in the United States and asks: is this press a brake or an accelerator of assimilation? For Park the answer depends on content: the press can turn the immigrant’s interest back to the home country, but it can also introduce America to the immigrant and give him material on which to build a new attachment.\n\nPark’s explanation is that news is, for the immigrant, urgent information used for adjusting. One chapter of the book describes how this press came under state control during the First World War, when foreign-language newspapers had to file translations with the post office. The Chicago Foreign Language Press Survey, begun in 1936, produced about 120,000 pages of translations from this press. In today’s debates the concept can be related to diaspora media and local community media (our interpretation).",
+  "example": "In a survey of 312 readers by a Russian-language paper in New York, only 16 had read newspapers regularly at home; in America all of them read Russian papers."
+}

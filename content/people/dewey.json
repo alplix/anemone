@@ -1,0 +1,17 @@
+{
+  "id": "dewey",
+  "born": {
+    "year": 1859
+  },
+  "died": {
+    "year": 1952
+  },
+  "sources": [
+    "sep-dewey",
+    "wikipedia-dewey"
+  ],
+  "works": [
+    "dewey-1916-democracy-education",
+    "dewey-1927-public-problems"
+  ]
+}

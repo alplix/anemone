@@ -1,0 +1,26 @@
+{
+  "id": "dewey",
+  "lang": "tr",
+  "name": "John Dewey",
+  "nativeName": "",
+  "slug": "john-dewey",
+  "short": "Amerikalı filozof ve eğitimci (1859–1952); pragmatizmin öncülerinden. İletişimi topluluğun kurucu unsuru sayan görüşü Park’ı ve Chicago Okulu’nu etkiledi.",
+  "born": "Burlington, Vermont, ABD",
+  "died": "New York, ABD",
+  "roles": [
+    "filozof",
+    "eğitimci"
+  ],
+  "bio": "John Dewey, 20 Ekim 1859’da Vermont’un Burlington kentinde doğdu ve 1 Haziran 1952’de New York’ta öldü. Michigan Üniversitesi’nde ders verdi; genç Robert Park’ın hocalarından biriydi. 1894–1904 arasında Chicago Üniversitesi’nde felsefe bölümüne başkanlık etti ve deneysel Laboratuvar Okulu’nu kurdu. William James ve Charles Sanders Peirce’le birlikte Amerikan pragmatizminin öncülerinden sayılır.\n\n*Democracy and Education* (1916) kitabında toplumun aktarım ve iletişimin “içinde” var olduğunu, topluluk, ortak ve iletişim sözcükleri arasında yalnızca dilsel değil kavramsal bir bağ bulunduğunu yazdı. Park ve Burgess bu pasajı 1921 tarihli ders kitaplarına aldı. *The Public and Its Problems* (1927) kitabında aynı fikri siyasete taşıdı: sanayi çağının “Büyük Toplumu” bir “Büyük Topluluk”a dönüşmedikçe kamu tutulma içinde kalır ve bunu yalnızca iletişim sağlayabilir. Kitapta haber üzerine de düşünür ve Walter Lippmann’a borcunu açıkça belirtir.\n\nDewey Chicago’da 1904’te ayrılmıştı; Park ise 1914’te geldi. İkisinin bağı bu yüzden kişisel ve düşünsel bir bağdır: Park, Michigan’da Dewey’in öğrencisiydi ve Dewey’in tanıştırdığı Franklin Ford’la bir gazete tasarladı.",
+  "works": [
+    {
+      "bib": "dewey-1916-democracy-education",
+      "note": "Toplum iletişimin içinde vardır; common–community–communication."
+    },
+    {
+      "bib": "dewey-1927-public-problems",
+      "note": "“Büyük Toplum” ve “Büyük Topluluk”; iletişimin siyasal rolü."
+    }
+  ],
+  "inCourse": "Bu derste Chicago Okulu’nun iletişim düşüncesinin felsefi kaynağı olarak geçer. [[lesson:chicago-school]]"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "thomas-theorem",
+  "family": "society",
+  "introducedBy": [
+    "thomas"
+  ],
+  "related": [
+    "chicago-school"
+  ],
+  "sources": [
+    "thomas-thomas-1928-child-in-america",
+    "merton-1948-self-fulfilling-prophecy",
+    "thomas-znaniecki-1918-polish-peasant"
+  ]
+}

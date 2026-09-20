@@ -1,0 +1,18 @@
+{
+  "id": "immigrant-press",
+  "family": "news",
+  "introducedBy": [],
+  "related": [
+    "chicago-school",
+    "news-as-knowledge",
+    "public-opinion",
+    "mass-media"
+  ],
+  "sources": [
+    "park-1922-immigrant-press",
+    "park-1923-natural-history-newspaper",
+    "uchicago-cflps-finding-aid",
+    "mki-wisc-trading-enemy-act",
+    "newberry-flps"
+  ]
+}

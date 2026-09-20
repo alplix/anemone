@@ -1,0 +1,280 @@
+{
+  "id": "chicago-school",
+  "people": [
+    "park",
+    "burgess",
+    "thomas",
+    "wirth",
+    "dewey",
+    "lippmann",
+    "merton",
+    "lazarsfeld"
+  ],
+  "concepts": [
+    "chicago-school",
+    "human-ecology",
+    "thomas-theorem",
+    "immigrant-press",
+    "urbanism",
+    "news-as-knowledge",
+    "social-laboratory",
+    "public-opinion",
+    "ritual-view"
+  ],
+  "sources": [
+    {
+      "bib": "park-1923-natural-history-newspaper",
+      "role": "primary"
+    },
+    {
+      "bib": "park-1922-immigrant-press",
+      "role": "primary"
+    },
+    {
+      "bib": "census-gibson-1998-largest-places",
+      "role": "reference"
+    },
+    {
+      "bib": "wbez-2014-native-numbers",
+      "role": "reference"
+    },
+    {
+      "bib": "americanyawp-industrial-america",
+      "role": "reference"
+    },
+    {
+      "bib": "iehs-cflps-teaching",
+      "role": "archive"
+    },
+    {
+      "bib": "uchicago-small-finding-aid",
+      "role": "reference"
+    },
+    {
+      "bib": "encyclopedia-small",
+      "role": "reference"
+    },
+    {
+      "bib": "bulmer-1984-chicago-school",
+      "role": "review"
+    },
+    {
+      "bib": "park-1915-city-suggestions",
+      "role": "primary"
+    },
+    {
+      "bib": "dewey-1916-democracy-education",
+      "role": "primary"
+    },
+    {
+      "bib": "thomas-znaniecki-1918-polish-peasant",
+      "role": "primary"
+    },
+    {
+      "bib": "park-burgess-1921-intro-sociology",
+      "role": "primary"
+    },
+    {
+      "bib": "park-burgess-1925-the-city",
+      "role": "primary"
+    },
+    {
+      "bib": "dewey-1927-public-problems",
+      "role": "primary"
+    },
+    {
+      "bib": "thomas-thomas-1928-child-in-america",
+      "role": "primary"
+    },
+    {
+      "bib": "wirth-1938-urbanism",
+      "role": "primary"
+    },
+    {
+      "bib": "park-1940-news-knowledge",
+      "role": "primary"
+    },
+    {
+      "bib": "illinois-polish-newspapers",
+      "role": "archive"
+    },
+    {
+      "bib": "tubitak-chicago-okulu",
+      "role": "turkish-reference"
+    },
+    {
+      "bib": "wikipedia-park",
+      "role": "reference"
+    },
+    {
+      "bib": "ebsco-park",
+      "role": "reference"
+    },
+    {
+      "bib": "encyclopedia-park-iess",
+      "role": "reference"
+    },
+    {
+      "bib": "park-1938-communication-culture",
+      "role": "primary"
+    },
+    {
+      "bib": "park-1936-human-ecology",
+      "role": "primary"
+    },
+    {
+      "bib": "merton-1948-self-fulfilling-prophecy",
+      "role": "primary"
+    },
+    {
+      "bib": "cooley-1909-social-organization",
+      "role": "primary"
+    },
+    {
+      "bib": "mki-wisc-trading-enemy-act",
+      "role": "archive"
+    },
+    {
+      "bib": "todayinclh-trading-enemy-act",
+      "role": "archive"
+    },
+    {
+      "bib": "sep-dewey",
+      "role": "reference"
+    },
+    {
+      "bib": "wikipedia-dewey",
+      "role": "reference"
+    },
+    {
+      "bib": "lippmann-1922",
+      "role": "primary"
+    },
+    {
+      "bib": "james-1890-principles-psychology",
+      "role": "primary"
+    },
+    {
+      "bib": "transportgeography-burgess",
+      "role": "reference"
+    },
+    {
+      "bib": "uchicago-cflps-finding-aid",
+      "role": "archive"
+    },
+    {
+      "bib": "newberry-flps",
+      "role": "archive"
+    },
+    {
+      "bib": "wikipedia-chicago-school",
+      "role": "reference"
+    },
+    {
+      "bib": "fischer-1975-subcultural-urbanism",
+      "role": "study"
+    },
+    {
+      "bib": "goldthorpe-2021-chicago-columbia",
+      "role": "review"
+    },
+    {
+      "bib": "blumer-1956-variable",
+      "role": "primary"
+    },
+    {
+      "bib": "jerabek-2022-lazarsfeld-methods",
+      "role": "study"
+    },
+    {
+      "bib": "wahl-jorgensen-2004-founding-field",
+      "role": "review"
+    },
+    {
+      "bib": "wahl-jorgensen-2012-chicago-media",
+      "role": "review"
+    },
+    {
+      "bib": "ball-rokeach-kim-matei-2001-storytelling",
+      "role": "study"
+    },
+    {
+      "bib": "encyclopedia-blumer",
+      "role": "reference"
+    },
+    {
+      "bib": "wikipedia-blumer",
+      "role": "reference"
+    },
+    {
+      "bib": "blumer-1933-movies-conduct",
+      "role": "primary"
+    },
+    {
+      "bib": "kure-chicago-sociology-2025",
+      "role": "turkish-reference"
+    },
+    {
+      "bib": "tr-wikipedia-chicago-okulu",
+      "role": "turkish-reference"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1892,
+      "id": "small-department"
+    },
+    {
+      "year": 1915,
+      "id": "park-city"
+    },
+    {
+      "year": 1916,
+      "id": "dewey-democracy"
+    },
+    {
+      "year": 1918,
+      "id": "polish-peasant"
+    },
+    {
+      "year": 1921,
+      "id": "intro-sociology"
+    },
+    {
+      "year": 1922,
+      "id": "immigrant-press"
+    },
+    {
+      "year": 1923,
+      "id": "natural-history"
+    },
+    {
+      "year": 1925,
+      "id": "the-city"
+    },
+    {
+      "year": 1927,
+      "id": "dewey-public"
+    },
+    {
+      "year": 1928,
+      "id": "child-in-america"
+    },
+    {
+      "year": 1938,
+      "id": "wirth-urbanism"
+    },
+    {
+      "year": 1940,
+      "id": "park-news"
+    },
+    {
+      "year": 1948,
+      "id": "merton-prophecy"
+    },
+    {
+      "year": 1956,
+      "id": "blumer-variable"
+    }
+  ]
+}

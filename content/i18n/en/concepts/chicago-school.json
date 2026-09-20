@@ -1,0 +1,15 @@
+{
+  "id": "chicago-school",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "Chicago School",
+  "altTerms": [
+    "Chicago School of sociology"
+  ],
+  "slug": "chicago-school",
+  "short": "The community of sociologists at the University of Chicago, roughly 1915–1935, who studied the city, migration and social order through fieldwork; it treats communication as constitutive of society.",
+  "body": "The Chicago School is the name given to the community of social scientists in the University of Chicago’s sociology department who, roughly between 1915 and 1935, pioneered empirical research and a variety of qualitative and quantitative methods. The department had been founded in 1892 under Albion Small as the first sociology department in the United States. Its best-known names include Robert Park, Ernest Burgess, W. I. Thomas and Louis Wirth.\n\nThe school’s shared question was what holds society together in a rapidly growing city filling with immigrants. The answers included an ecological reading of the city (human ecology), the use of documents such as immigrants’ letters and newspapers, the idea of the “definition of the situation”, and the constitutive role of communication in society. The school’s place in the history of media research is told in two ways, a story of triumph and a story of loss; both are true. In Turkish sources it appears as “Chicago Okulu”, “Şikago Okulu” and “Chicago Sosyoloji Ekolü”.",
+  "example": "Park’s discussion of the newspaper habits of Russian readers in New York and Thomas’s use of immigrants’ letters as data are two examples of the school’s document-based approach."
+}
