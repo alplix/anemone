@@ -1,0 +1,17 @@
+{
+  "id": "stereotype",
+  "family": "audience",
+  "introducedBy": [
+    "lippmann"
+  ],
+  "related": [
+    "pseudo-environment",
+    "public-opinion",
+    "suggestibility"
+  ],
+  "sources": [
+    "lippmann-1922",
+    "etymonline-stereotype",
+    "vilinbakhova-2013-stereotype"
+  ]
+}

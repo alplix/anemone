@@ -1,0 +1,13 @@
+{
+  "id": "stereotype",
+  "lang": "tr",
+  "term": "stereotip",
+  "altTerms": [
+    "kalıp yargı",
+    "stereotype"
+  ],
+  "slug": "stereotip",
+  "short": "Lippmann’ın sosyal-psikolojik anlamda yaygınlaştırdığı terim: karmaşık dünyayı tanımadan önce zihnimizde hazır bulunan, kültürün bize verdiği kalıp. Önce tanımlar, sonra görürüz.",
+  "body": "Stereotip sözcüğü matbaadan gelir: 18. yüzyılın sonunda “bir levhadan baskı yapma yöntemi” demekti; “değişmeden sürdürülen imge” anlamı 1850’ye kadar, “bir kişi ya da grup hakkında önceden kurulmuş, fazla basit tasarım” anlamı ise 1922’de Lippmann’ın *Public Opinion*’ında belgelenir [[cite:etymonline-stereotype]] [[cite:vilinbakhova-2013-stereotype]].\n\nLippmann’a göre çoğu zaman önce görüp sonra tanımlamayız; önce tanımlar, sonra görürüz. Dış dünyanın “vızıldayan, çiçek açan karmaşası” içinden kültürün bize önceden tanımladığını seçer ve onu kültürün bize verdiği kalıp biçiminde algılarız [[cite:lippmann-1922]]. Kalıplar bir çaba tasarrufu sağlar; ama ikinci bir nedenle de sarılırız onlara: kalıplar kişinin toplumdaki konumunu ve kendine saygısını savunur, bu yüzden onları sarsan her şey “bizim evrenimize” saldırı gibi hissedilir [[cite:lippmann-1922]].\n\nLippmann’da stereotip, doğrulanmadan gerçeğin yerine geçen kalıptır; her kalıbın kötü niyetli ya da yanlış olduğu anlamına gelmez. Sözde çevre kavramıyla ilişkisi: sözde çevre resmin kendisi, stereotip ise o resmi dolduran hazır parçadır.",
+  "example": "(Lippmann’ın kendi örneği.) Paris Barış Konferansı’ndaki Clemenceau için şunu sorar: kafasında 1919’un Almanları mı vardı, yoksa 1871’den beri öğrendiği “Alman tipi” mi? [[cite:lippmann-1922]]"
+}

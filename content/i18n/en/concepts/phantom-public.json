@@ -1,0 +1,16 @@
+{
+  "id": "phantom-public",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "the phantom public",
+  "altTerms": [
+    "The Phantom Public",
+    "hayalet kamu"
+  ],
+  "slug": "phantom-public",
+  "short": "Lippmann’s claim in his 1925 book: the idea of a public that steers the course of events is an abstraction; the real public is a changing set of people who join an affair only by taking sides with or against the actors.",
+  "body": "*The Phantom Public* (1925) is the more pessimistic book Lippmann published three years after *Public Opinion* [[cite:lippmann-1925-phantom-public]]. Its opening image: the private citizen is like a deaf spectator in the back row who ought to keep his mind on the mystery on stage but cannot stay awake [[cite:lippmann-1925-phantom-public]]. In the sixth chapter he writes plainly: the belief in a public that directs the course of events is mistaken; this public is “a mere phantom”. The public is not a fixed body of individuals but those persons who are interested in an affair and can affect it only by supporting or opposing the actors [[cite:lippmann-1925-phantom-public]].\n\nThe public’s job is not to write policy but to intervene occasionally in the actors’ work; Dewey described the book as “a statement of faith in a pruned and temperate democratic theory” (as Schudson quotes him) [[cite:schudson-2008-lippmann-dewey]]. Dewey’s 1927 book answers this phantom with “eclipse”: it does not say there is no public, it says the public is in eclipse [[cite:dewey-1927-public-problems]]. For the later debate see [[concept:lippmann-dewey-debate]].",
+  "example": "(Hypothetical example.) A voter says she will not vote for the governing party, influenced only by corruption stories, without knowing the technical details of a municipal tender: Lippmann’s public judges the actors, not the details."
+}

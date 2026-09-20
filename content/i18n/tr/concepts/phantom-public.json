@@ -1,0 +1,13 @@
+{
+  "id": "phantom-public",
+  "lang": "tr",
+  "term": "hayalet kamu",
+  "altTerms": [
+    "The Phantom Public",
+    "salt bir hayalet olarak kamu"
+  ],
+  "slug": "hayalet-kamu",
+  "short": "Lippmann’ın 1925 kitabındaki savı: olayların gidişini yönlendiren bir kamu fikri bir soyutlamadır; gerçek kamu, bir işe yalnızca aktörlerin yanında ya da karşısında yer alarak katılan, değişken bir topluluktur.",
+  "body": "*The Phantom Public* (1925), Lippmann’ın *Public Opinion*’dan üç yıl sonra yayımladığı, daha kötümser kitaptır [[cite:lippmann-1925-phantom-public]]. Açılış imgesi: özel yurttaş, arka sırada oturan sağır bir seyirci gibidir; sahnedeki gizemi izlemesi gerekir ama uyanık kalamaz [[cite:lippmann-1925-phantom-public]]. Altıncı bölümde ise açıkça yazar: olayların gidişini yönlendiren bir kamu olduğu inancı yanlıştır; bu kamu “a mere phantom”, yani salt bir hayalettir. Kamu sabit bir insan grubu değil, bir işle ilgilenen ve ona ancak aktörlerin yanında ya da karşısında yer alarak etki edebilen kişilerdir [[cite:lippmann-1925-phantom-public]].\n\nKamunun görevi politika yazmak değil, aktörlerin işine zaman zaman müdahale etmektir; Dewey de kitabı “a statement of faith in a pruned and temperate democratic theory” diye niteledi (Schudson’un aktardığı biçimiyle) [[cite:schudson-2008-lippmann-dewey]]. Dewey’nin 1927 kitabı ise bu hayalete “tutulma” diye yanıt verir: kamu yoktur demez, tutulma içindedir der [[cite:dewey-1927-public-problems]]. Sonraki tartışma için [[concept:lippmann-dewey-debate]].",
+  "example": "(Varsayımsal örnek.) Bir seçmen, belediye ihalesinin teknik ayrıntılarını bilmeden yalnızca “yolsuzluk” haberlerinin etkisiyle iktidara oy vermeyeceğini söyler: Lippmann’ın kamusu ayrıntıyı değil, aktörleri yargılar."
+}

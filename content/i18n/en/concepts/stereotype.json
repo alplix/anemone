@@ -1,0 +1,16 @@
+{
+  "id": "stereotype",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "stereotype",
+  "altTerms": [
+    "stereotip",
+    "kalıp yargı"
+  ],
+  "slug": "stereotype",
+  "short": "The term Lippmann popularised in its social-psychological sense: the ready-made pattern, supplied by culture, that we have in mind before we know the complicated world. We define first and see afterwards.",
+  "body": "The word stereotype comes from printing: in the late eighteenth century it meant “method of printing from a plate”; the sense “image perpetuated without change” is recorded by 1850, and the sense “preconceived and oversimplified notion of characteristics typical of a person or group” is documented in 1922 in Lippmann’s *Public Opinion* [[cite:etymonline-stereotype]] [[cite:vilinbakhova-2013-stereotype]].\n\nAccording to Lippmann, we do not usually see first and then define; we define first and then see. Out of the great blooming, buzzing confusion of the outer world we pick out what our culture has already defined for us, and we perceive it in the form our culture has stereotyped [[cite:lippmann-1922]]. Stereotypes save effort; but there is a second reason we cling to them: they defend a person’s position in society and self-respect, so whatever shakes them feels like an attack on “our universe” [[cite:lippmann-1922]].\n\nIn Lippmann a stereotype is a pattern that replaces reality without being checked; it does not mean that every pattern is hostile or wrong. Its relation to the pseudo-environment: the pseudo-environment is the picture itself, the stereotype the ready-made piece that fills it.",
+  "example": "(Lippmann’s own example.) About Clemenceau at the Paris Peace Conference he asks: did he have in his mind the Germans of 1919, or the “German type” he had learned to see since 1871? [[cite:lippmann-1922]]"
+}

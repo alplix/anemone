@@ -1,0 +1,17 @@
+{
+  "id": "phantom-public",
+  "family": "normative",
+  "introducedBy": [
+    "lippmann"
+  ],
+  "related": [
+    "public-opinion",
+    "lippmann-dewey-debate",
+    "pseudo-environment"
+  ],
+  "sources": [
+    "lippmann-1925-phantom-public",
+    "dewey-1927-public-problems",
+    "schudson-2008-lippmann-dewey"
+  ]
+}

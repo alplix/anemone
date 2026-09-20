@@ -1,0 +1,235 @@
+{
+  "lippmann-1925-phantom-public": {
+    "type": "book",
+    "authors": ["Lippmann, Walter"],
+    "year": 1925,
+    "title": "The phantom public",
+    "publisher": "Harcourt, Brace and Company",
+    "place": "New York",
+    "edition": "1st",
+    "verified": {
+      "status": "ok",
+      "methods": ["open-library", "full-text", "review-record"],
+      "date": "2026-09-20",
+      "note": "Open Library lists The phantom public, Harcourt, Brace, 1925 (median 205 pages). The full text of a scan of a 1925 copy (Internet Archive id phantompublic0000walt, title page: 'New York, Harcourt, Brace and Company; Copyright 1925') was read: contents (13 chapters in three parts; chapter I 'The Disenchanted Man' p. 13, chapter VI 'The Question Aristotle Asked' p. 77), the opening image of the 'deaf spectator in the back row' (chapter I), the passage on the public arriving 'in the middle of the third act' (chapter V, running head p. 65) and 'I hold that this public is a mere phantom. It is an abstraction.' (chapter VI, p. 77). The APSR review record 'The Phantom Public. By Walter Lippman. (New York: Harcourt, Brace and Company. 1925. Pp. 205.)' (American Political Science Review 20(1), 1926, 199-201) agrees on publisher, place, year and length. Lasswell's 1927 bibliography (read in two scans) and Dewey's 1927 footnote also list the title with New York, 1925 / the title itself. Page numbers come from OCR running heads; they are not used in the lesson text."
+    }
+  },
+  "schudson-2008-lippmann-dewey": {
+    "type": "article",
+    "authors": ["Schudson, Michael"],
+    "year": 2008,
+    "title": "The “Lippmann-Dewey debate” and the invention of Walter Lippmann as an anti-democrat 1986-1996",
+    "container": "International Journal of Communication",
+    "volume": "2",
+    "pages": "1031-1042",
+    "url": "https://ijoc.org/index.php/ijoc/article/view/343/229",
+    "verified": {
+      "status": "ok",
+      "methods": ["source-itself", "publisher-page"],
+      "date": "2026-09-20",
+      "note": "The open-access PDF from ijoc.org was read in full (header: International Journal of Communication 2 (2008), 1031-1042, 1932-8036/20081031; the article's own title line reads '1986-1996', while the journal page title reads '1985-1996'; the PDF's wording is used). No DOI exists in Crossref. Used for: the 'debate' consisting of Dewey's favourable New Republic reviews (1922, 1925) and his lectures of 1926 published in 1927, with no reply by Lippmann; its 'invention' as a debate in the 1980s-90s (Carey and others); Lippmann's proposals for intelligence bureaus serving decision-makers; Dewey's 1925 wording quoted by Schudson; Lippmann on outsiders. Corroborated independently by Jansen 2009 (Crossref record and abstract)."
+    }
+  },
+  "jansen-2009-phantom-conflict": {
+    "type": "article",
+    "authors": ["Jansen, Sue Curry"],
+    "year": 2009,
+    "title": "Phantom conflict: Lippmann, Dewey, and the fate of the public in modern society",
+    "container": "Communication and Critical/Cultural Studies",
+    "volume": "6",
+    "issue": "3",
+    "pages": "221-245",
+    "doi": "10.1080/14791420903049751",
+    "verified": {
+      "status": "ok",
+      "methods": ["crossref", "openalex-abstract"],
+      "date": "2026-09-20",
+      "note": "Crossref record matched (issued 2009-09; vol. 6, issue 3, pp. 221-245). Abstract read via OpenAlex: Dewey and Lippmann 'were not adversaries in a great public debate' in the 1920s; the exchange was 'reframed as a conflict in the early 1980s'; the reframing 'rests on a casual rhetorical trope, not historical documentation'. Full text not read (publisher page returned 403); only abstract-level statements are used."
+    }
+  },
+  "tell-2013-reinventing-lippmann": {
+    "type": "article",
+    "authors": ["Tell, Dave"],
+    "year": 2013,
+    "title": "Reinventing Walter Lippmann: Communication and cultural studies",
+    "container": "Review of Communication",
+    "volume": "13",
+    "issue": "2",
+    "pages": "108-126",
+    "doi": "10.1080/15358593.2013.789120",
+    "verified": {
+      "status": "ok",
+      "methods": ["crossref", "openalex-abstract"],
+      "date": "2026-09-20",
+      "note": "Crossref record matched (issued 2013-04; vol. 13, issue 2, pp. 108-126). Abstract read via OpenAlex: the 1980s 'invention of Walter Lippmann as an anti-democrat' played a constitutive role in a communication-centred cultural studies; a recent 'reinvention' of Lippmann may help rethink expertise, democracy and communication. Full text not read (publisher page returned 403); only abstract-level statements are used."
+    }
+  },
+  "bernays-1947-engineering-consent": {
+    "type": "article",
+    "authors": ["Bernays, Edward L."],
+    "year": 1947,
+    "title": "The engineering of consent",
+    "container": "The ANNALS of the American Academy of Political and Social Science",
+    "volume": "250",
+    "issue": "1",
+    "pages": "113-120",
+    "doi": "10.1177/000271624725000116",
+    "verified": {
+      "status": "ok",
+      "methods": ["crossref", "transcript", "second-source"],
+      "date": "2026-09-20",
+      "note": "Crossref record matched (issued 1947-03; vol. 250, issue 1, pp. 113-120). The publisher page returned 403, so the wording was checked in an online transcription of the article (bsahely.com, 15 Feb 2019: opening sentence on 'the right of persuasion'; 'The engineering of consent is the very essence of the democratic process, the freedom to persuade and suggest.') and in the Wikipedia article 'The Engineering of Consent' (first published in the Annals in March 1947; expanded 1955 book by Bernays and Cutler, University of Oklahoma Press; Open Library agrees on the 1955 Oklahoma edition). Neither transcription contains the words 'manufacture of consent' or the name Lippmann. Only the short quoted fragment and the year are used."
+    }
+  },
+  "herman-chomsky-1988-manufacturing-consent": {
+    "type": "book",
+    "authors": ["Herman, Edward S.", "Chomsky, Noam"],
+    "year": 1988,
+    "title": "Manufacturing consent: The political economy of the mass media",
+    "publisher": "Pantheon Books",
+    "place": "New York",
+    "verified": {
+      "status": "ok",
+      "methods": ["open-library", "second-source"],
+      "date": "2026-09-20",
+      "note": "Open Library work record: Manufacturing consent, first published 1988, Pantheon Books among the publishers. The Wikipedia article gives the same author order, subtitle, publisher and year and says the title derives from Lippmann's 'manufacture of consent' (Public Opinion, 1922). The Turkish translation is titled 'Rızanın İmalatı: Kitle Medyasının Ekonomi Politiği' (see gadimov-2015-riza-imalati). The book itself was not opened; only title, subtitle, authors, publisher and year are used, as a pointer (the propaganda model belongs to another lesson)."
+    }
+  },
+  "chomsky-1989-manufacturing-consent-talk": {
+    "type": "web",
+    "authors": ["Chomsky, Noam"],
+    "year": 1989,
+    "title": "Manufacturing Consent: The Political Economy of the Mass Media (talk of 15 March 1989, transcript)",
+    "publisher": "chomsky.info",
+    "url": "https://chomsky.info/19890315/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": ["source-itself"],
+      "date": "2026-09-20",
+      "note": "Transcript page opened and read (a talk given on 15 March 1989). It says that Lippmann 'is the man who invented the phrase manufacture of consent', calls it 'a self-conscious art and a regular organ of popular government', and adds that Lippmann thought it 'a worthwhile revolution'. The first two phrases are checked against Lippmann's own text (chapter XV, section 4, Gutenberg ebook 6456); the third is Chomsky's reading, used only as a reading to be compared with the text. Speaker's wording is spoken-language transcription."
+    }
+  },
+  "gadimov-2015-riza-imalati": {
+    "type": "article",
+    "authors": ["Gadimov, Javanshir"],
+    "year": 2015,
+    "title": "Herman ve Chomsky’nin Propaganda Modeli: Rızanın İmalatı: Kitle Medyasının Ekonomi Politiği",
+    "container": "İlef Dergisi",
+    "volume": "2",
+    "issue": "2",
+    "pages": "215-226",
+    "doi": "10.24955/ilef.305326",
+    "verified": {
+      "status": "ok",
+      "methods": ["crossref"],
+      "date": "2026-09-20",
+      "note": "Crossref record matched (issued 2015-11-30; vol. 2, issue 2, pp. 215-226; DergiPark/Ankara-hosted journal). Used only for the Turkish title of Herman and Chomsky's book as it appears in the article title. Web search snippets from other Turkish articles and book listings (translator Ender Abadoğlu, several publishers and dates) agree on the title 'Rızanın İmalatı'; publisher and date of the Turkish editions were not settled and are not used."
+    }
+  },
+  "iess-lippmann": {
+    "type": "web",
+    "authors": ["Encyclopedia.com (International Encyclopedia of the Social Sciences)"],
+    "year": 2018,
+    "title": "Lippmann, Walter",
+    "publisher": "Encyclopedia.com",
+    "url": "https://www.encyclopedia.com/people/literature-and-arts/journalism-and-publishing-biographies/walter-lippmann",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": ["archived-page"],
+      "date": "2026-09-20",
+      "note": "Page opened (entry from the International Encyclopedia of the Social Sciences, page dated 14 May 2018): executive secretary of the postwar planning group known as the House Inquiry; 'received a commission as captain in military intelligence to conduct propaganda on the western front'; memorandum on Wilson's Fourteen Points with Frank Cobb; completed Public Opinion in 1922 and then invited to become an editorial writer for the World; head of the editorial page after Cobb's death in 1923; editor in 1929. The EBSCO Research Starters entry (ebsco-lippmann) independently gives the Inquiry and the captaincy in military intelligence in France; only the propaganda assignment rests on the encyclopedia entry alone plus Lippmann's own remarks."
+    }
+  },
+  "etymonline-stereotype": {
+    "type": "web",
+    "authors": ["Online Etymology Dictionary"],
+    "year": 2026,
+    "title": "stereotype (n.)",
+    "publisher": "Online Etymology Dictionary",
+    "url": "https://www.etymonline.com/word/stereotype",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": ["source-itself"],
+      "date": "2026-09-20",
+      "note": "Entry opened: 1798 'method of printing from a plate' (French stéréotype, Greek stereos 'solid' + French type); figurative 'image perpetuated without change' by 1850; the sense 'preconceived and oversimplified notion of characteristics typical of a person or group' recorded in 1922 (Lippmann, Public Opinion). Second source: Vilinbakhova 2013. Note that Vilinbakhova dates Didot's first use to 1796; the lesson therefore says only 'late 18th century'."
+    }
+  },
+  "vilinbakhova-2013-stereotype": {
+    "type": "web",
+    "authors": ["Vilinbakhova, Elena L."],
+    "year": 2013,
+    "title": "The notion of stereotype in language study",
+    "publisher": "History and Philosophy of the Language Sciences",
+    "url": "https://hiphilangsci.net/2013/05/22/the-notion-of-stereotype-in-language-study/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": ["source-itself"],
+      "date": "2026-09-20",
+      "note": "Post opened (22 May 2013, academic blog of the HiPhiLaS project): stereotype first used as a typographical term by the French printer Firmin Didot (dated 1796 here), later 'introduced into the social, cultural and psychological studies by the American writer Walter Lippmann in his book Public Opinion' (1922). A blog post, so used only together with etymonline-stereotype and Lippmann's own text."
+    }
+  },
+  "nara-rg63-cpi": {
+    "type": "web",
+    "authors": ["National Archives and Records Administration"],
+    "year": 2026,
+    "title": "Records of the Committee on Public Information",
+    "publisher": "National Archives (Guide to Federal Records, Record Group 63)",
+    "url": "https://www.archives.gov/research/guide-fed-records/groups/063.html",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": ["archived-page"],
+      "date": "2026-09-20",
+      "note": "Page opened: the Committee on Public Information was established as an independent agency by Executive Order 2594 of 13 April 1917, with George Creel as chairman and the Secretaries of State, War and the Navy as ex officio members; terminated by Executive Order 3154 of 21 August 1919. Wikipedia's article 'Committee on Public Information' gives the same dates and chairman."
+    }
+  },
+  "wikipedia-committee-public-information-ppo": {
+    "type": "web",
+    "authors": ["Wikipedia contributors"],
+    "year": 2026,
+    "title": "Committee on Public Information",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Committee_on_Public_Information",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": ["source-itself"],
+      "date": "2026-09-20",
+      "note": "Article read for the creation date (13 April 1917, Executive Order 2594, President Wilson), chairman (George Creel) and abolition (21 August 1919, Executive Order 3154); agrees with the National Archives page. Used only for these three facts."
+    }
+  },
+  "tdk-sozluk-2026": {
+    "type": "web",
+    "authors": ["Türk Dil Kurumu"],
+    "year": 2026,
+    "title": "Güncel Türkçe Sözlük (entries: kamuoyu, kanaat, rıza, propagandacı)",
+    "publisher": "Türk Dil Kurumu",
+    "url": "https://sozluk.gov.tr/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": ["source-itself"],
+      "date": "2026-09-20",
+      "note": "Entries queried through the dictionary's own search service and read: kamuoyu = 'Bir konuyla ilgili halkın genel düşüncesi' with the older synonyms halkoyu, amme efkârı, umumi efkâr, efkârıumumiye; kanaat = four senses (contentment/'yetinme'; trust in someone or something; and, as sense 4, 'görüş'), of Arabic origin; rıza = 'Razı olma, bir şeyi yapmayı isteme; onam'; propagandacı = 'Propaganda yapan kimse; propagandist'."
+    }
+  },
+  "kitapyurdu-kamuoyu-lippmann": {
+    "type": "web",
+    "authors": ["Kitapyurdu"],
+    "year": 2020,
+    "title": "Kamuoyu (Walter Lippmann), catalogue page",
+    "publisher": "Kitapyurdu (bookseller)",
+    "url": "https://www.kitapyurdu.com/kitap/kamuoyu/567383.html",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": ["source-itself"],
+      "date": "2026-09-20",
+      "note": "Bookseller catalogue page opened: Turkish edition titled 'Kamuoyu' by Walter Lippmann, publisher Kabalcı, dated 28.12.2020, 417 pages; the description lists the terms 'Stereotip', 'Sahte Çevre' (pseudo-environment) and 'Sahte Gerçek'. A second bookseller page (idefix.com) repeats the same description text; the translator is given differently across listings ('Kolektif' vs a named translator), so no translator is named. Used only to show which Turkish wordings for Lippmann's terms circulate; status of the terms: check."
+    }
+  }
+}

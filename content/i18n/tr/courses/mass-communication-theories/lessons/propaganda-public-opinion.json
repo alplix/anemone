@@ -1,0 +1,658 @@
+{
+  "id": "propaganda-public-opinion",
+  "lang": "tr",
+  "translation": {
+    "status": "source",
+    "date": "2026-09-20"
+  },
+  "title": "Propaganda ve Kamuoyu: Lippmann ve Lasswell",
+  "slug": "propaganda-ve-kamuoyu",
+  "description": "Lippmann’ın sözde çevre ve stereotip fikri, Lasswell’ın propaganda tekniği, Dewey’nin yanıtı ve “rızanın imalatı”: iki kurucu kitabı yan yana okuyoruz.",
+  "claim": "Lippmann (1922) insanların dünyaya değil kafalarındaki resimlere (sözde çevre) yanıt verdiğini, Lasswell (1927) propagandanın bu resimleri anlamlı simgelerle yönetmeye çalışan bir teknik olduğunu anlatır; Dewey ikisine kamuyu küçültmek yerine iletişimi düzeltmek gerektiği yanıtını verir; “Lippmann–Dewey tartışması” ise 1920’lerde değil 1980–90’larda kurulmuş bir hikâyedir.",
+  "keywords": [
+    "Lippmann",
+    "Public Opinion",
+    "sözde çevre",
+    "stereotip",
+    "rızanın imalatı",
+    "Lasswell",
+    "Propaganda Technique in the World War",
+    "hayalet kamu",
+    "Dewey",
+    "kamuoyu"
+  ],
+  "updated": "2026-09-20",
+  "timeline": {
+    "cpi-founded": "ABD’de Committee on Public Information kurulur (13 Nisan)",
+    "tribune-acids": "New York Tribune propagandacının işini “asit damlatma” benzetmesiyle anlatır (12 Temmuz)",
+    "dewey-lectures": "Dewey, The Public and Its Problems’in konferanslarını verir (Ocak)",
+    "manufacturing-consent": "Herman ve Chomsky: Manufacturing Consent",
+    "schudson-debate": "Schudson: “Lippmann–Dewey tartışması”nın 1980–90’larda kurulduğunu gösterir"
+  },
+  "cards": [
+    {
+      "id": "ctx-acids",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "Kâsedeki kabuklular ve “kamuoyu”",
+      "body": "12 Temmuz 1918’de bir New York gazetesi, propagandacının işini şöyle anlattı: eğitimli bir propagandacı için kamuoyunun zihni, içine sözcüklerin ve düşüncelerin “asit gibi” damlatıldığı bir havuzdur; tepkiler de önceden bellidir. Tıpkı Profesör Loeb’in bir kâseye bir damla kimyasal katıp bin kabuklu canlının başıboş yüzmesini bitirmesi ve hepsini ışığa doğru koşturması gibi [[cite:lasswell-1927-propaganda]].\n\nBu sahneyi bugün okuyabiliyoruz, çünkü [[person:lasswell|Lasswell]] onu 1927 tarihli *Propaganda Technique in the World War* kitabında alıntılıyor; ABD Askerî İstihbaratı’nın bir kitapçığından aktarıyor. Ama alıntıyı kendi kuramı diye sunmuyor. Onu, bir gazetenin propagandacıya yakıştırdığı “her şeyi önceden bilme” hâli olarak anıyor ve ancak yayılmadan önce sınama yöntemleri bulunursa propagandacının o hâle biraz yaklaşabileceğini yazıyor [[cite:lasswell-1927-propaganda]]. Yani kitabın kendisi, karikatürün gerçeğe ne kadar uzak olduğunu biliyor.\n\nBu ders iki kitabı yan yana okuyor. Biri [[person:lippmann|Walter Lippmann]]’ın *Public Opinion*’ı (1922): insanların kafasındaki resimler dünyaya neden uymuyor? Öteki Lasswell’ınki (1927): birileri o resimlere nasıl el atıyor? Yolun sonunda ikisine verilmiş bir yanıt da var: [[person:dewey|John Dewey]]’nin 1927 kitabı.",
+      "question": {
+        "id": "ctx-acids-q",
+        "type": "mcq",
+        "prompt": "Lasswell, gazetenin “kamuoyu bir havuzdur, propagandacı içine asit damlatır” benzetmesini kitabında nasıl kullanıyor?",
+        "options": [
+          "Kendi kuramının özeti olarak; propagandacının kitleyi tam bir denetimle yönettiğini savunmak için.",
+          "Propagandacıya yakıştırılan “her şeyi önceden bilme” imgesi olarak aktarıyor; ona yaklaşılabilmesi için önceden sınama yöntemleri geliştirilmesi gerektiğini söylüyor.",
+          "Propagandanın hiçbir işe yaramadığının kanıtı olarak.",
+          "Lippmann’ın kitabına verilmiş bir yanıt olarak."
+        ],
+        "answer": 1,
+        "explain": "Lasswell alıntıyı, propagandacıya bir zamanlar atfedilmiş her şeyi bilme hâlini göstermek için getirir ve yalnızca önceden sınama yöntemleri bulunabilirse propagandacının ona biraz daha yaklaşacağını yazar. Birinci şık cazip, çünkü benzetme ders kitaplarındaki “şırınga” anlatısına çok benziyor; ama alıntı bir kuram özeti değil, aktarılmış bir gazete imgesidir. Üçüncü şık ters uca gider: Lasswell propagandayı üç ana araçtan biri sayar, “işe yaramaz” demez. Dördüncü şık tarihe de uymaz: alıntı, Lippmann’ın kitabından yıllar önceki bir 1918 gazetesinden."
+      }
+    },
+    {
+      "id": "ctx-war",
+      "section": "context",
+      "layer": "core",
+      "kind": "text",
+      "title": "Savaş bitti, sözcük kaldı",
+      "body": "Lasswell’ın kitabının ilk sayfalarından biri, dönemin ruh hâlini tek cümlede yakalar: ortaya bir sözcük çıkmıştır ve birçok zihinde “an ominous clang”, yani uğursuz bir çınlama yapmaktadır: propaganda. İnsanlar, kendilerini aldatıp alçalttığını sandıkları bilinmez bir kurnazlıktan huzursuzdur [[cite:lasswell-1927-propaganda]].\n\nBu huzursuzluğun devletteki karşılığı, ABD’de Committee on Public Information’dı (Halkı Bilgilendirme Komitesi). Başkan kararnamesiyle 13 Nisan 1917’de kuruldu, başında George Creel vardı ve 21 Ağustos 1919’da kaldırıldı [[cite:nara-rg63-cpi]] [[cite:wikipedia-committee-public-information-ppo]]. Ayrıntısını [[lesson:propaganda-history]] dersinde göreceksin.\n\nİki yazarın da savaşla bağı belgeli. Lippmann savaş yıllarında, Wilson’ın On Dört Madde’sine zemin hazırlayan gizli araştırma grubunun (Inquiry) yürütücü sekreteriydi; ayrıca askerî istihbaratta yüzbaşı olarak, Batı Cephesi’nde propaganda yürütmek üzere görevlendirildi [[cite:iess-lippmann]] [[cite:ebsco-lippmann]]. Lasswell ise bir kitap boyu savaş propagandasını inceledi. Giriş sayfalarında, propaganda ya da “tanıtım” (publicity) mesleğinin yeni mensuplarının kendi uygulamalarını yazıya dökmeye başladığını, Bernays ile Wilder ve Buell’in kitaplarının bu yöndeki öncüler olduğunu söyler [[cite:lasswell-1927-propaganda]]. (Bernays ve Creel’i başka derslerde daha yakından tanıyacaksın.)\n\nKısacası: 1922 ve 1927 kitapları, propagandanın hem korkulan hem de meslekleşen bir şey olduğu bir dünyada yazıldı.",
+      "question": {
+        "id": "ctx-war-q",
+        "type": "mcq",
+        "prompt": "Aşağıdakilerden hangisi bu derste dayandığımız kaynaklarla desteklenen bir bağlantıdır?",
+        "options": [
+          "Lippmann, Committee on Public Information’ın başkan yardımcısıydı.",
+          "Lasswell, 1927 kitabında propaganda ya da tanıtım mesleğinin yeni mensuplarından söz eder ve kaynakçasında Bernays’in 1923 tarihli kitabını listeler.",
+          "Lasswell, Committee on Public Information’ın başkanıydı.",
+          "Lasswell ile Lippmann savaş sırasında aynı propaganda birimini yürüttü."
+        ],
+        "answer": 1,
+        "explain": "Lasswell’ın kitabının giriş sayfaları yeni propaganda/tanıtım mesleğinden ve Bernays ile Wilder–Buell’in kitaplarından söz eder; kaynakça notunda da Bernays’in *Crystallizing Public Opinion* (1923) kitabı yer alır. Öbür şıklar kulağa makul gelir ama dayanacak kaynak yok: komitenin başkanı George Creel’di; Lippmann askerî istihbaratta görevliydi ve komitede bir görevi için kaynak bulamadık; Lasswell ise savaş yıllarında henüz gençti (1902 doğumlu) ve iki yazarın ortak bir birimi için de kaynak yok."
+      }
+    },
+    {
+      "id": "who-when",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "text",
+      "title": "Kimler, hangi yıl?",
+      "body": "Üç yazarı ve dört tarihi aklında tut.\n\n- **Walter Lippmann** (1889–1974): gazeteci ve yorumcu [[cite:ebsco-lippmann]]. *Public Opinion* (1922) ve *The Phantom Public* (1925) [[cite:lippmann-1922]] [[cite:lippmann-1925-phantom-public]].\n- **Harold Lasswell** (1902–1978): siyaset bilimci [[cite:encyclopedia-lasswell-historians]]. *Propaganda Technique in the World War* (1927) [[cite:lasswell-1927-propaganda]].\n- **John Dewey** (1859–1952): filozof [[cite:sep-dewey]]. *The New Republic*’te Lippmann’ın iki kitabına olumlu incelemeler (1922 ve 1925) yazdı; 1926’da verdiği konferans dizisi 1927’de *The Public and Its Problems* olarak yayımlandı [[cite:schudson-2008-lippmann-dewey]] [[cite:dewey-1927-public-problems]].\n\nDoğum yılları da sırayı toparlar: Dewey, Lippmann’dan otuz yıl önce (1859’da), Lasswell ise ondan on üç yıl sonra (1902’de) doğdu; yani üç yazar arasında kırk üç yıllık bir aralık var.\n\n**Hafıza kancası:** 1922 *resim*, 1925 *hayalet*, 1927 *teknik* ve *yanıt*.\n\nSonraki adlar: Bernays’in “engineering of consent” makalesi 1947’de [[cite:bernays-1947-engineering-consent]]; Herman ile Chomsky’nin *Manufacturing Consent*’i 1988’de [[cite:herman-chomsky-1988-manufacturing-consent]]; “Lippmann–Dewey tartışması”nı sorgulayan Schudson’un makalesi 2008’de [[cite:schudson-2008-lippmann-dewey]]. Bernays, Herman ve Chomsky bu derste yalnızca birer ad olarak geçer.",
+      "question": {
+        "id": "who-when-q",
+        "type": "tf",
+        "prompt": "Dewey’nin *The Public and Its Problems* kitabı, Lippmann’ın *The Phantom Public* kitabından önce yayımlandı.",
+        "answer": false,
+        "explain": "*The Phantom Public* 1925’te, Dewey’nin kitabı 1927’de çıktı. Tuzak: Dewey’nin *The New Republic* incelemeleri (1922, 1925) ve konferansları (1926) gerçekten daha erken; ama soruda kitap soruluyor ve onun basılı hâli 1927’de, Lippmann’ın iki kitabından sonra çıktı. “Yanıt”, sıra olarak “sonra” demektir."
+      }
+    },
+    {
+      "id": "deep-citations",
+      "section": "people-time",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Kim kimi kaynakçasına yazdı?",
+      "body": "Bu kitaplar birbirinden habersiz değildi. Üç belge, küçük bir zincir kuruyor (üçünün metnini de açıp okuduk):\n\n- **Lasswell’ın 1927 kitabı.** Sondaki kaynakça notunda, “genel kamuoyu ve propaganda çalışmaları” başlığı altında Lippmann’ın *Public Opinion* (1922) ve *The Phantom Public* (1925) kitapları ile Bernays’in *Crystallizing Public Opinion* (1923) kitabı listelenir. Taranmış iki metinde Lippmann’ın adına kaynakça dışında rastlamadık: bu bir okuma listesidir, bir tartışma değil [[cite:lasswell-1927-propaganda]].\n- **Dewey’nin 1927 kitabı.** Bir dipnot Lippmann’ın iki kitabını anar ve Dewey’nin bu kitaplara yalnızca o nokta için değil, fikirler için de borç duyduğunu söyler [[cite:dewey-1927-public-problems]].\n- **McCombs ve Shaw (1972).** Makalenin taranmış metninde Lippmann’ın adına rastlamadık; ama terimi orada: medyada yansıyan “pseudo-environment”, kampanyanın kusursuz bir temsili değildir [[cite:mccombs-shaw-1972]]. Iyengar, Peters ve Kinder (1982) ise deneylerinin Lippmann’ın “yarım yüzyıl önceki” şüphesini desteklediğini yazar [[cite:iyengar-peters-kinder-1982]]. Türkçe bir çalışma da gündem belirleme yazınının ilk kaynak olarak genellikle Lippmann’ın *Kamuoyu*’na atıf yaptığını belirtir [[cite:hazar-sbouh-2020]].\n\nBu zincirin son halkalarını [[lesson:agenda-setting]] dersinde daha ayrıntılı bulabilirsin."
+    },
+    {
+      "id": "claim-lippmann",
+      "section": "claim",
+      "layer": "core",
+      "kind": "myth",
+      "title": "Resim, dünyanın yerine geçer",
+      "body": "**Sanılan.** Kamuoyu, insanların dünyayı olduğu gibi görüp ona göre edindiği düşüncelerin toplamıdır.\n\n**Lippmann’ın hamlesi.** Tek cümlede kurabilirsin: siyaset dünyası “out of reach, out of sight, out of mind”, yani erişimimizin, görüşümüzün ve aklımızın dışındadır; keşfedilmesi, haber verilmesi ve hayal edilmesi gerekir [[cite:lippmann-1922]]. Biz de ona kafamızdaki resimle yanıt veririz. (Adalıların 1914 sahnesini ve “kafamızdaki resimler” başlığını [[lesson:agenda-setting]] dersinde okudun; burada tekrarlamıyoruz.)\n\nSonra bir ayrım yapar: insanların kendileri, başkaları, ihtiyaçları, amaçları ve ilişkileri hakkında kafalarındaki resimler, onların *kamuoyları*dır. Bu resimlerden gruplarca ya da grup adına hareket eden bireylerce eyleme dökülenler ise “Public Opinion with capital letters”, yani büyük harflerle Kamuoyu’dur [[cite:lippmann-1922]]. Yani Lippmann kamuoyunu bir anket toplamı ya da halkın iradesi diye değil, *eyleme dönüşmüş resimler* diye tanımlar. **Bizim yorumumuz:** bu ayrım işe yarar, çünkü “halk ne düşünüyor?” sorusu iki ayrı şeyi karıştırabilir: insanların kafasındaki resimleri mi soruyorsun, yoksa eyleme dönenleri mi?\n\nKitabın büyük kaygısı buradan çıkar: demokrasi kuramı, özgün biçimiyle, kafalardaki resimlerin dışarıdaki dünyayla kendiliğinden örtüşmediği sorunuyla hiç ciddi biçimde yüzleşmemiştir [[cite:lippmann-1922]]. Türkçe çalışmalar kitabı *Kamuoyu* adıyla anar [[cite:hazar-sbouh-2020]].",
+      "question": {
+        "id": "claim-lippmann-q",
+        "type": "mcq",
+        "prompt": "Bir mahallede herkes “otopark ücretli olacak” söylentisi hakkında kafasında kendi resmini taşıyor. Yüzlerce kişi aynı resme dayanarak belediyeye toplu dilekçe veriyor. Lippmann’ın ayrımıyla, dilekçeye dönüşen resimler için ne denir?",
+        "options": [
+          "Küçük harfli kamuoyları; çünkü herkesin kafasındaki resim ayrıdır.",
+          "Büyük harfli Kamuoyu; çünkü grup adına eyleme dökülmüş resimlerdir.",
+          "Sözde çevre değil, gerçek çevredir; çünkü insanlar harekete geçmiştir.",
+          "Kamuoyu değildir; çünkü bir anket yapılmamıştır."
+        ],
+        "answer": 1,
+        "explain": "Lippmann’a göre kişilerin kafasındaki resimler onların kamuoyları, gruplarca eyleme dökülenler ise büyük harfli Kamuoyu’dur. İlk şık, resimlerin herkeste ayrı olduğunu doğru görür ama eyleme dönme ölçütünü atlar. Üçüncü şık, eylemi çevrenin gerçekliğiyle karıştırır: resim harekete geçirse de resim olarak kalır, sonuç gerçek çevrede ortaya çıkar. Dördüncü şıkta ölçüt olarak ankete bakılıyor; Lippmann’ın tanımında böyle bir ölçüt yok."
+      }
+    },
+    {
+      "id": "claim-lasswell",
+      "section": "claim",
+      "layer": "core",
+      "kind": "myth",
+      "title": "Propaganda her tür baskı değildir",
+      "body": "**Sanılan.** Propaganda, savaşta bir toplumu yola getirmek için yapılan her şeydir: kısıtlama, yasak, hatta yemek payı.\n\n**Lasswell’ın 1927 kitabındaki tanım.** Propaganda “the control of opinion by significant symbols” işidir; daha somut ve daha az kesin konuşulursa hikâyeler, söylentiler, haberler, resimler ve öteki toplumsal iletişim biçimleriyle yapılır. Kanaat ve tutumları, çevredeki ya da bedendeki koşulları değiştirerek değil, toplumsal telkinin doğrudan yönlendirilmesiyle yönetmektir [[cite:lasswell-1927-propaganda]]. Sınırı bilerek çizer: sigara payını artırmak ya da yemeğin kimyasal bileşimini değiştirmek gibi nesnel koşulları değiştirerek morali yükseltmek propaganda sayılmaz [[cite:lasswell-1927-propaganda]]. Moral sorununun yalnızca bir parçasının propaganda sorunu olduğunu da yazar: propaganda, başvurulacak pek çok araçtan biridir ve kapsamı “limited though important”, yani sınırlı ama önemlidir [[cite:lasswell-1927-propaganda]].\n\nPropaganda ayrıca tek araç değildir. Lasswell düşmana karşı üç ana araç sayar: askerî baskı, ekonomik baskı ve propaganda [[cite:lasswell-1927-propaganda]]. “Propagandanın Sonuçları” bölümünde savaşın üç cephede (askerî, ekonomik, propaganda) yürütüldüğünü söyler ve propagandayı “a passive and contributory weapon”, yani edilgen ve katkı sağlayan bir silah diye niteler; asıl işlevi düşmanın savaşma isteğini yıkmaktır [[cite:lasswell-1927-propaganda]].",
+      "question": {
+        "id": "claim-lasswell-q",
+        "type": "mcq",
+        "prompt": "Bir komutan cepheyi ziyaret edip askerlerin sigara ve yemek payını artırıyor, moral yükseliyor. Lasswell’ın tanımına göre bu nedir?",
+        "options": [
+          "Propagandadır; çünkü morali yükseltmiştir.",
+          "Propaganda değildir; nesnel koşulu değiştirmiştir, propaganda ise anlamlı simgelerle kanaati yönetir.",
+          "Yalnızca sigara payı propagandadır.",
+          "Askerî baskıdır."
+        ],
+        "answer": 1,
+        "explain": "Lasswell, tam da bu örneği dışarıda bırakır: sigara payı ya da yemeğin bileşimi gibi nesnel koşulları değiştirerek morali yükseltmek propaganda değildir; propaganda simgelerle, hikâyelerle, haberlerle ve resimlerle kanaati yönetir. İlk şık “etkiliyorsa propagandadır” sezgisine dayanır; Lasswell etkinin kendisini değil, aracın türünü ölçüt yapar. Dördüncü şıkta askerî baskı, kara, deniz ve hava kuvvetlerinin zorlayıcı gücü demektir; ikram bu sınıfa girmez."
+      }
+    },
+    {
+      "id": "concepts-glossary",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Kavramlar sözlüğü: yalan değil, resim",
+      "body": "- **Sözde çevre** [[concept:pseudo-environment]]: insanla gerçek çevre arasına giren, davranışın yanıt verdiği temsil. Lippmann uyarır: “By fictions I do not mean lies”, yani kurgu yalan demek değildir [[cite:lippmann-1922]].\n- **Stereotip** [[concept:stereotype]]: dünyayı önce tanımlayıp sonra görmemizi sağlayan, kültürün verdiği kalıp.\n- **Kamuoyları ve büyük harfli Kamuoyu**: kafalardaki resimler ve gruplarca eyleme dökülenler. (Noelle-Neumann’ın kamuoyu anlayışı için [[concept:public-opinion]].)\n- **Her şeyi bilen yurttaş (omnicompetent citizen)**: demokrasi kuramının varsaydığı, her konuda yetkin ve ilgili yurttaş. Lippmann’a göre bu kabul en fazla küçük bir köyde kabaca doğrudur [[cite:lippmann-1922]].\n- **Örgütlü istihbarat (organized intelligence)**: Lippmann’ın çözüm önerisi: karar vericilere görünmeyen olguları gösteren bağımsız uzman büroları [[cite:lippmann-1922]].\n- **Rızanın imalatı** [[concept:manufacture-of-consent]]: Lippmann’ın 1922’de kullandığı ifade; sonraki kullanımları ayrı bir hikâye.\n- **Hayalet kamu** [[concept:phantom-public]]: Lippmann’ın 1925’te, olayları yönlendiren bir kamu fikrine verdiği ad.\n- **Teknisyen propagandacı** [[concept:propagandist-technician]]: bu dersin kısaltması; Lasswell’ın kendi terimi değil.\n- **Lippmann–Dewey tartışması** [[concept:lippmann-dewey-debate]]: 1980’lerde kurulmuş bir hikâye.\n- Başka derslerin kavramları: [[concept:magic-bullet]], [[concept:powerful-effects]], [[concept:lasswell-formula]] (1948’in konusu; bu derste yok).\n\n**Tuzak:** sözde çevre, “medyanın uydurduğu yalanlar” demek değildir.",
+      "question": {
+        "id": "concepts-glossary-q",
+        "type": "match",
+        "prompt": "Kavramı tanımıyla eşleştir.",
+        "pairs": [
+          [
+            "Sözde çevre",
+            "İnsanla gerçek çevre arasına giren ve davranışın yanıt verdiği temsil"
+          ],
+          [
+            "Stereotip",
+            "Dünyayı önce tanımlatıp sonra gördüren, kültürün verdiği kalıp"
+          ],
+          [
+            "Büyük harfli Kamuoyu",
+            "Gruplarca ya da grup adına eyleme dökülen resimler"
+          ],
+          [
+            "Örgütlü istihbarat",
+            "Karar vericilere görünmeyen olguları gösteren bağımsız uzman büroları"
+          ]
+        ],
+        "explain": "Sözde çevre bir temsildir, yalan değil; stereotip o temsili dolduran hazır kalıptır. Büyük harfli Kamuoyu, resimlerin *eyleme dönmüş* hâlidir. Örgütlü istihbarat ise Lippmann’ın çözümüdür: uzmanlar yönetmez, karar vericilere olguları gösterir. En sık karışan çift, sözde çevre ile stereotip: biri çerçeve, öteki çerçeveyi dolduran kalıptır."
+      }
+    },
+    {
+      "id": "deep-book-map",
+      "section": "concepts",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Public Opinion’ın haritası",
+      "body": "Kitap sekiz kısım ve yirmi sekiz bölümden oluşur; başlıklar içindekiler dizininden [[cite:lippmann-1922]]:\n\n1. **Giriş** (I): “The World Outside and the Pictures in Our Heads”.\n2. **Dış dünyaya yaklaşımlar** (II–V): sansür ve gizlilik; temas ve fırsat; zaman ve dikkat; hız, sözcükler ve açıklık. Bunlar, dünyanın kafamıza damla damla gelmesinin dış sınırlarıdır.\n3. **Stereotipler** (VI–X): stereotipler; savunma olarak stereotipler; kör noktalar; kodlar ve düşmanları; stereotiplerin saptanması.\n4. **Çıkarlar** (XI–XII).\n5. **Ortak iradenin oluşumu** (XIII–XV): “rızanın imalatı” ifadesi bu kısmın son bölümünde, XV’te geçer.\n6. **Demokrasi imgesi** (XVI–XX): geleneksel demokrasi kuramının ve İngiliz lonca sosyalizminin (Guild Socialism) eleştirisi.\n7. **Gazeteler** (XXI–XXIV).\n8. **Örgütlü istihbarat** (XXV–XXVIII): çözüm önerisi; son bölümün adı “The Appeal to Reason”.\n\nİlk beş kısım kitabın betimleyici bölümüdür; demokrasi kuramının çözümlemesi bunun ardından gelir. Bunu Lippmann girişte kendisi söyler [[cite:lippmann-1922]]. Yani “rızanın imalatı” cümlesini bir teşhis olarak okuyorsan, ilaç kitabın son kısmındadır."
+    },
+    {
+      "id": "deep-stereotype-word",
+      "section": "concepts",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: “Stereotip” bir matbaa sözcüğüydü",
+      "body": "Stereotip sözcüğü matbaadan gelir: Yunanca *stereos* (katı) ile Fransızca *type*’tan türeyen sözcük, 18. yüzyılın sonunda “bir levhadan baskı yapma yöntemi” anlamıyla kayda geçer. “Değişmeden sürdürülen imge” anlamı 1850’ye kadar kaydedilir; “bir kişi ya da grup hakkında önceden kurulmuş, fazla basit tasarım” anlamı ise 1922’de Lippmann’ın *Public Opinion*’ında belgelenir [[cite:etymonline-stereotype]]. Bir dil bilimci de kavramın sosyal ve psikolojik çalışmalara Lippmann’ın bu kitabıyla girdiğini yazar [[cite:vilinbakhova-2013-stereotype]]. (Kaynaklar tarihte ayrışıyor: biri Fransız matbaacı Firmin Didot’nun sözcüğü 1796’da kullandığını yazıyor, öteki 1798 tarihli bir kayıt veriyor; biz yalnızca “18. yüzyılın sonu” diyoruz.)\n\nBir ayrıntı: Lippmann’ın metninde, okuduğumuz kadarıyla, matbaa kökenine açıkça değinen bir cümle yok; sözcüğü doğrudan, kültürün bize “kalıp hâline getirdiği” şeyler için kullanıyor [[cite:lippmann-1922]]. Matbaa bağlantısı Lippmann’dan değil, sözcüğün tarihinden geliyor. **Bizim yorumumuz:** benzetme yine de anlamlı: bir levha bir kez dökülür, sonra aynı imgeyi durmadan basar, tıpkı doğrulanmadan yinelenen bir kalıp gibi."
+    },
+    {
+      "id": "assump-lippmann",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "myth",
+      "title": "Lippmann “halk aptaldır” demedi",
+      "body": "**Sanılan.** Lippmann, halkı beceriksiz sayan ve yönetimi uzmanlara devretmek isteyen bir elitisttir.\n\n**Kayıtlar ne söylüyor?** Kitabın kendi cümlesi: “every one of us is an outsider”, yani hepimiz, modern yaşamın birkaç yönü dışında, dışarıdan bakanlarız; dışarıdakinin ne zamanı, ne dikkati, ne ilgisi, ne de özel bir yargı için donanımı vardır [[cite:lippmann-1922]]. Schudson’un okumasıyla “yetersizlik” kişinin özelliği değil, bir *konumun* özelliğidir; asıl hedef, yurttaşı her konuda yetkin sayan *omnicompetent citizen* öğretisidir [[cite:schudson-2008-lippmann-dewey]]. Lippmann bu öğretinin köy için, pratikte doğru olduğunu bile kabul eder; sorun, köyün resminin karmaşık uygarlığa uygulanmasıdır [[cite:lippmann-1922]].\n\nÇözüm önerisi de “uzmanlar yönetsin” değil. İstihbarat büroları karar vericilere görünmeyen olguları gösterir; amaç, uzman yükünü her yurttaşın omzuna yüklemek değil, bu yükü “push that burden away from him towards the responsible administrator”, yani sorumlu yöneticiye doğru itmektir [[cite:lippmann-1922]]. Ama Schudson da Lippmann’ın uzmanlara fazla güvendiğini kabul eder: “Yes, of course” [[cite:schudson-2008-lippmann-dewey]].",
+      "question": {
+        "id": "assump-lippmann-q",
+        "type": "mcq",
+        "prompt": "Bir doktor, tıp dışındaki konularda, örneğin uluslararası ticaret anlaşmalarında, yalnızca haberlerden fikir edinebiliyor. Lippmann’ın “hepimiz dışarıdakiyiz” cümlesine göre bu doktorun durumu nedir?",
+        "options": [
+          "Zekâ eksikliğidir; doktor bu konularda eğitimsizdir.",
+          "Konum meselesidir: doktor bu alanda da dışarıdakidir; zamanı, dikkati ve özel donanımı sınırlıdır.",
+          "Yalnızca gazete okumayanlar için geçerlidir.",
+          "Uzmanların halkı yönetmesi gerektiğinin kanıtıdır."
+        ],
+        "answer": 1,
+        "explain": "Lippmann’a göre dışarıdakilik kişisel bir kusur değil, konuma bağlı bir sınırdır: herkes çoğu alanda dışarıdakidir, doktor da. İlk şık tam “halk aptaldır” okumasıdır ve metne uymaz. Üçüncü şık sınırı gazete okumaya bağlar; oysa sınır zaman, dikkat ve donanımdan gelir. Dördüncü şık Lippmann’ı elitizme çeker; oysa önerdiği uzmanlar yönetmez, karar vericilere olgu sağlar."
+      }
+    },
+    {
+      "id": "assump-phantom",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "text",
+      "title": "Üçüncü perdenin ortasında gelen seyirci",
+      "body": "1925’te Lippmann daha da ileri gitti. *The Phantom Public*’in açılış imgesinde özel yurttaş, arka sırada oturan sağır bir seyirciye benzer: sahnedeki gizeme kulak vermesi gerekir ama uyanık kalamaz [[cite:lippmann-1925-phantom-public]]. Altıncı bölümde net konuşur: olayların gidişini yönlendiren bir kamu olduğu inancına “a mere phantom”, yani salt bir hayalet der. Kamu sabit bir insan topluluğu değildir; bir işle ilgilenen ve ona ancak aktörlerin yanında ya da karşısında yer alarak etki edebilen kişilerdir [[cite:lippmann-1925-phantom-public]].\n\nBu kamuyu nasıl hayal ettiğine bak: kamu üçüncü perdenin ortasında gelir, son perde inmeden ayrılır; kimin kahraman, kimin kötü adam olduğuna karar verecek kadar kalır [[cite:lippmann-1925-phantom-public]]. Yani kamunun işi politika yazmak ya da ayrıntıyı yargılamak değil, aktörlerin işine ara sıra müdahale etmek; yandaş ya da karşıt olmaktır.\n\nBu, demokrasiden vazgeçmek değil. Dewey, kitabı bir “statement of faith in a pruned and temperate democratic theory” diye niteledi; yani budanmış, ölçülü bir demokrasi kuramına inanç açıklaması (Schudson’un aktardığı biçimiyle) [[cite:schudson-2008-lippmann-dewey]]. Lippmann demokrasiyi bırakmıyor; ondan *beklediğimizi* küçültüyor.",
+      "question": {
+        "id": "assump-phantom-q",
+        "type": "mcq",
+        "prompt": "Bir seçmen, belediye ihalesinin teknik ayrıntılarını bilmeden, yalnızca “yolsuzluk” haberlerinin etkisiyle iktidara oy vermeyeceğini söylüyor. *The Phantom Public*’teki kamu anlayışına göre bu davranış nasıl okunur?",
+        "options": [
+          "Kamunun ihaleyi ayrıntılı biçimde denetlemesinin örneğidir.",
+          "Kamunun aktörlerin yanında ya da karşısında yer alması, yani aktörlere dışarıdan müdahale etmesidir.",
+          "Kamunun politika yazmasının örneğidir.",
+          "Kamunun yok olduğunun kanıtıdır."
+        ],
+        "answer": 1,
+        "explain": "Lippmann’ın kamusu ayrıntıyı değil, sahnedeki aktörleri değerlendirir; bir aktörün yanında ya da karşısında yer alır ve aktörlere dışarıdan müdahale eder. Birinci ve üçüncü şık, kamuya Lippmann’ın onu dışında bıraktığı işleri (ayrıntı denetimi, politika yazma) yükler. Dördüncü şık “hayalet” sözünü sözcük sözcük alır: Lippmann kamunun hiçbir şey yapmadığını değil, olayları yönlendiren sabit bir kamu olmadığını söyler."
+      }
+    },
+    {
+      "id": "how-lippmann",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Bir olay kafamıza nasıl varır? (Lippmann’a göre)",
+      "body": "1. **Olay uzaktadır.** Siyaset dünyası “out of reach, out of sight, out of mind”. Keşfedilmesi, haber verilmesi ve hayal edilmesi gerekir [[cite:lippmann-1922]].\n2. **Erişim daralır.** Lippmann girişte sınırları sayar: yapay sansürler, sınırlı toplumsal temas, gün içinde az zaman ve dikkat, olayların çok kısa mesajlara sıkışması, karmaşık bir dünyayı küçük bir sözcük dağarcığıyla anlatma güçlüğü ve yerleşik düzeni tehdit eden olguları görme korkusu (II–V. bölümler bunları açar) [[cite:lippmann-1922]].\n3. **Damla damla haber gelir.** Dışarıdan gelen, Lippmann’ın deyişiyle “trickle of messages”, yani ince bir mesaj sızıntısıdır.\n4. **Kalıplar boşluğu doldurur.** Önce tanımlar, sonra görürüz; eksik parçayı kültürün verdiği kalıp tamamlar (VI. bölüm).\n5. **Kalıplar çıkarla birleşir.** Kalıplardan oluşan desen, kişinin kendi çıkarlarıyla özdeşleşir (kitabın “çıkarlar” kısmı, XI–XII).\n6. **Grup resme göre davranır.** Davranışın sonuçları, resmin bulunduğu sözde çevrede değil, eylemin gerçekleştiği gerçek çevrede ortaya çıkar.\n7. **Çarpışma.** Resim ile dünya arasındaki uyumsuzluk sonunda “butting one’s head against a stone wall”, yani bir taş duvara kafa atma duygusu yaratır: hatanın bedeli gerçek çevrede ödenir [[cite:lippmann-1922]].\n\nBu bir enjeksiyon değil: mesajın önünde erişim sınırları, ardında kalıplar ve çıkarlar, sonunda gerçek çevre var.",
+      "question": {
+        "id": "how-lippmann-q",
+        "type": "order",
+        "prompt": "Lippmann’ın anlatısındaki halkaları sıraya koy.",
+        "items": [
+          "Uzak bir olay hakkında erişim sınırlı olur",
+          "Gelen kısa mesajlar, kafadaki kalıplarla tamamlanır",
+          "Tamamlanan resim, kişinin kendi çıkarlarıyla özdeşleşir",
+          "Kişi ya da grup resme göre davranır",
+          "Sonuçlar gerçek çevrede ortaya çıkar ve uyumsuzluk hissedilir"
+        ],
+        "explain": "Sıra: önce erişim sınırları, sonra kalıplarla tamamlama, sonra çıkarla özdeşleşme, sonra resme göre davranış, en sonda gerçek çevrede çarpışma. En sık yapılan hata sonuçları başa almak: Lippmann’a göre davranış sözde çevreden yönlendirilir, ama sonuç gerçek çevrede ödenir; bu yüzden hata, çoğu zaman en sonda görünür."
+      }
+    },
+    {
+      "id": "how-propaganda",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Lasswell’ın tramvayı",
+      "body": "Lasswell propagandanın nasıl işlediğini soyut bir “etki” olarak değil, bir *iş listesi* olarak anlatır. Kitapta izlediğimiz adımlar şunlar [[cite:lasswell-1927-propaganda]]:\n\n1. **Hedefi seç.** Dört stratejik amaç var: düşmana karşı nefreti seferber etmek; müttefiklerin dostluğunu korumak; tarafsızların dostluğunu ve mümkünse işbirliğini kazanmak; düşmanı moralsizleştirmek.\n2. **Kitleyi tanı.** Her özel grup savaşı kendi imgesine göre yeniden kurar; propagandacının işi çoğu kez “to facilitate, rather than to fabricate”, yani kolaylaştırmaktır, uydurmak değil.\n3. **Öneriyi gruba uydur.** Protestanlara savaşın büyük bir Protestan haçlı seferi olduğunu, Katoliklere büyük bir Katolik hareketi olduğunu söylemek mümkündür; ama aynı izleyiciye ikisini birden söylemek saçmadır. Aynı bağlamda çelişkiden kaçınılır.\n4. **Taşıyıcıyı bul.** Bir tramvaydaki yolcular iç panolardan, hat boyundaki ilanlardan, okudukları gazetelerden, kulak misafiri oldukları konuşmalardan, ellerine tutuşturulan bildirilerden ve duraklardaki gösterilerden etkilenebilir.\n5. **Kendini kitlenin yerine koy.** En sağlam yöntem, hayalinde etkilenecek kişilerin yerine geçmek ve dikkatlerine giden bütün yolları taramaktır; bunun ardından her durum, kendi olanakları açısından sınanır.",
+      "question": {
+        "id": "how-propaganda-q",
+        "type": "mcq",
+        "prompt": "Bir propaganda bürosu aynı fabrika işçilerine sabah “savaş zenginlerin işidir”, akşam “savaş bütün sınıfların ortak davasıdır” diyen iki bildiri dağıtıyor. Lasswell’ın kitabındaki hangi ilke çiğneniyor?",
+        "options": [
+          "Dört stratejik amaçtan birini seçme ilkesi.",
+          "Aynı bağlamda, aynı ya da birbirine yakın gruplara çelişkili mesaj vermeme ilkesi.",
+          "Taşıyıcı olarak tramvayı kullanma ilkesi.",
+          "Düşmanın morali üzerine çalışma ilkesi."
+        ],
+        "answer": 1,
+        "explain": "Lasswell, propagandanın aynı bağlamda, aynı gruba ya da birbirine yakın gruplara seslenirken kendi kendisiyle çelişmemesi gerektiğini yazar; Protestan ve Katolik örneği tam buna dayanır. Bildiriler aynı işçilere gittiği için ikinci şık doğrudur. Birinci şık dikkat çeker ama sorun amacın seçilmemesi değil, aynı kitleye iki karşıt mesajın verilmesi. Üçüncü ve dördüncü şıklar, örnekle ilgisiz ayrıntılardır."
+      }
+    },
+    {
+      "id": "deep-technician",
+      "section": "how-it-works",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Lasswell’ın “teknisyen” propagandacısı",
+      "body": "“Teknisyen propagandacı” bu dersin kısaltmasıdır, Lasswell’ın kendi terimi değil [[concept:propagandist-technician]]. Arkasındaki cümleler ise onun: kitabın adı zaten *Propaganda Technique* ve giriş sayfaları, yeni bir meslekten söz eder [[cite:lasswell-1927-propaganda]].\n\n- “Propaganda has become a profession”, der; modern dünyanın, yalnızca zihinleri değiştirmenin ya da zihinleri kendi inançlarına bağlamanın yollarını inceleyen bir uzmanlar kadrosu geliştirmekle meşgul olduğunu yazar; devletlerin giderek bu meslekten propagandacılara başvuracağını öngörür.\n- Bir yazarın (Wreford’un) “uzman propagandacı” tarifini alıntılar: hangi kesimin, temsil ettiği çıkarlara sempatiyle bakacağını seçer; o çıkarların hangi yanı bu kesimin eğilimlerine hitap eder, onu belirler; sonra bunları çekici sunar.\n- “The working propagandist”, yani çalışan propagandacı, reklam yazınının afişlerin renk ve boyutları üzerindeki ayrıntılı bilgisine ihtiyaç duyar; ama Lasswell bunu vazgeçilmez ve aynı zamanda ikincil (“ancillary”) sayar.\n\nBu bir teknik bakıştır; ama kitap yalnızca bir kılavuz değil. Sonlara doğru Lasswell, propagandanın mekanizmalarını aydınlatmanın, egemenlik, demokrasi ve bireysel kanaatin kutsallığı gibi “yaygın dogmaları” eleştiriye açacağını yazar; hatta propaganda çalışmasının, Anatole France’ın demokrasinin (ve tüm toplumun) “is run by an unseen engineer”, yani görünmez bir mühendis tarafından yönetildiği sözünü artık doğru bırakmayabileceğini söyler [[cite:lasswell-1927-propaganda]].\n\n**Bizim yorumumuz:** “teknisyen” okuması, kitabın araçsal yüzünü öne çıkarır; “eleştirel” okuması ise ikinci yüzünü. İkisi de metinde var."
+    },
+    {
+      "id": "ev-goettingen",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "story",
+      "title": "Kırk uzman, yirmi saniye",
+      "body": "Lippmann, kalıpların gözü nasıl doldurduğunu göstermek için, başka bir yazarın aktardığı Fransızca bir kitaptan aldığı bir deneyi anlatır. Göttingen’de bir psikoloji kongresi toplanmış. Salonun yakınındaki bir yerde maskeli bir eğlence var. Birden kapı açılır: bir palyaço çılgınca içeri dalar, peşinde silahlı bir adam. Salonun ortasında boğuşurlar, palyaço düşer, adam ateş eder, ikisi de dışarı fırlar. Olay yaklaşık yirmi saniye sürer [[cite:lippmann-1922]].\n\nBaşkan, bir soruşturma olacağı için herkesten hemen bir rapor yazmasını ister. Kırk rapor gelir. Bunlardan yalnızca biri temel olgularda yüzde 20’den az hata içerir; on dördü yüzde 20–40, on ikisi yüzde 40–50, on üçü yüzde 50’den fazla. Yirmi dört raporda ayrıntıların yaklaşık yüzde 10’u düpedüz uydurmadır; on raporda bu oran daha yüksek, altısında daha düşüktür. Sonra sürpriz: sahnenin tamamı önceden kurulmuş, hatta fotoğraflanmıştır [[cite:lippmann-1922]].\n\nLippmann’ın yorumu: Bu kişiler yalan söylemiyor; görmedikleri bir sahneyi *gördüler*, çünkü kafalarında hazır bir kavga kalıbı vardı ve o görüntüler gözlerinin önünde titreşti [[cite:lippmann-1922]]. Stereotipten kastı budur.\n\nBir sınır: bu, ikinci elden aktarılan, tek bir sahnelenmiş olay. Lippmann onu bir ölçüm olarak değil, kavramı canlandıran bir örnek olarak kullanıyor. Biz de öyle okuyalım.",
+      "question": {
+        "id": "ev-goettingen-q",
+        "type": "mcq",
+        "prompt": "Göttingen anlatısının kanıt gücü hakkında en makul değerlendirme hangisi?",
+        "options": [
+          "Gözlemciler bilerek yalan söyledi; anlatı insanların ahlaksızlığını gösterir.",
+          "Lippmann gözlemcilerin kendi kalıplarını gördüğünü savunur; ama anlatı ikinci elden aktarılan tek bir sahnelenmiş olaydır: kavramı canlandırır, genellenebilirliğini kanıtlamaz.",
+          "Deney, eğitimli gözlemcilerin hiçbir zaman güvenilir olamayacağını kanıtlar.",
+          "Sahne önceden kurulduğu için deneyin hiçbir değeri yoktur."
+        ],
+        "answer": 1,
+        "explain": "Lippmann yorumunu kalıp kavramına dayandırır; ama elimizdeki, bir Fransız kaynaktan aktarılan tek bir olaydır, dolayısıyla bir örnektir, ölçüm değil. İlk şık niyet varsayar; Lippmann tam tersini söyler: gözlemciler yalan söylemiyor, görmedikleri şeyi gördü. Üçüncü şık tek olaydan mutlak bir sonuç çıkarır. Dördüncü şık da yanlış: olayı önceden kurmak, raporları bilinen bir gerçekle karşılaştırabilmenin yoludur; deneyi değersiz kılmaz."
+      }
+    },
+    {
+      "id": "ev-records",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "text",
+      "title": "İki kitap, iki tür malzeme",
+      "body": "İki kitap da bir laboratuvarda yazılmadı; malzemeleri farklı.\n\n**Lippmann.** Örnekler, tanık psikolojisine dipnotlar ve tarihten sahneler. Paris’te barışı görüşen büyük adamlardan biri olan Clemenceau için şunu sorar: Kafasında 1919’un Avrupa’sının imgeleri mi vardı, yoksa 1871’den beri öğrendiği “Alman tipi” mi? [[cite:lippmann-1922]]. Yani kanıt, genellemeyi ölçen bir veri değil, okuyucuyu kalıbı tanımaya çağıran bir vaka.\n\n**Lasswell.** Belgeler. Kitabın kaynakça notu malzemeyi başlıklara ayırır; “savaş sırasında ve sonrasında uluslararası tutumları etkileme tekniği” başlığı altında anılar, savaş dönemi yayınları ve Senato duruşmaları sıralanır: Bernstorff’un ve Ludendorff’un anıları, Creel’in *How We Advertised America* (1920) kitabı ve ABD Askerî İstihbaratı’nın 1919 tarihli *Propaganda in its Military and Legal Aspects* kitapçığı gibi. (Bu kitapçık, dersin ilk kartındaki “asit” alıntısının da aktarıldığı yayın.) [[cite:lasswell-1927-propaganda]] Metinde ise “önceden sınama yöntemleri” bulunabilirse propagandacının daha isabetli olacağı yazılır; bu, sınamanın henüz olmadığına işaret eder (bizim okumamız) [[cite:lasswell-1927-propaganda]].\n\n**Sonradan.** Lippmann’ın şüphesini sınayan sonraki çalışmalar var: McCombs ve Shaw’ın 1972 makalesi terimini kullandı, Iyengar ve arkadaşlarının 1982 deneyleri şüpheyi desteklediğini bildirdi [[cite:mccombs-shaw-1972]] [[cite:iyengar-peters-kinder-1982]]. Ayrıntı [[lesson:agenda-setting]] dersinde.",
+      "question": {
+        "id": "ev-records-q",
+        "type": "tf",
+        "prompt": "Lasswell 1927 kitabında izleyicilere uygulanan anketlerle propagandanın etkisini ölçmüştür.",
+        "answer": false,
+        "explain": "Kitabın kaynakça notu, dayanılan malzemenin basılı belgeler, anılar ve duruşmalar olduğunu gösterir; metinde de “önceden sınama yöntemleri” bulunabilirse sonucun iyileşeceği yazılır. Yani kitap belge çözümlemesidir, izleyici ölçümü değil. Tuzak, “propaganda” konulu her klasik kitabın izleyici deneyi içerdiğini varsaymak."
+      }
+    },
+    {
+      "id": "crit-debate",
+      "section": "critique",
+      "layer": "core",
+      "kind": "myth",
+      "title": "Hiç yapılmamış bir düello",
+      "body": "**Sanılan.** 1920’lerde Lippmann ile Dewey karşılıklı yazılarla kapışan iki rakipti: biri elitist, öteki demokrat.\n\n**Kayıtlar ne söylüyor?** Schudson’a göre “tartışma” şunlardan ibaret: Dewey’nin *The New Republic*’te Lippmann’ın *Public Opinion* (1922) ve *The Phantom Public* (1925) kitapları için yazdığı olumlu incelemeler ile 1926’da verilip 1927’de yayımlanan *The Public and Its Problems*. Lippmann, Schudson’un bildiği kadarıyla, sonradan Dewey’e yanıt vermedi; çağdaşlar da incelemeleri önemli bir çatışma diye okumadı [[cite:schudson-2008-lippmann-dewey]]. “Tartışma”yı sonradan kuranlar, demokrasiden umut kesilen bir dönemde köken hikâyesi arayan 1980’ler ve 1990’ların liberal aydınlarıydı; James Carey’in etkisi büyüktü [[cite:schudson-2008-lippmann-dewey]]. Jansen de aynı şeyi söyler: ikisi büyük bir kamusal tartışmanın karşıt tarafları değildi; “hayalet” kamu üzerine bu konuşma 1980’lerin başında çatışma diye yeniden çerçevelendi ve bu çerçeve belgeye değil, hafif bir retorik eğretilemeye dayanıyor [[cite:jansen-2009-phantom-conflict]].\n\nDewey’nin kendi tavrı da düello değildi: 1922’de kitabı över; 1925’te *The Phantom Public*’i olumlu ama eleştirel karşılar ve Lippmann’ın karşı çıktığı demokrasi kuramının bir karikatür olabileceğini ima eder [[cite:schudson-2008-lippmann-dewey]].",
+      "question": {
+        "id": "crit-debate-q",
+        "type": "mcq",
+        "prompt": "Schudson’un 2008 makalesine göre “Lippmann–Dewey tartışması” hakkında en doğru cümle hangisi?",
+        "options": [
+          "1920’lerde iki yazar karşılıklı yazılar yayımlayarak açık bir tartışma yürüttü.",
+          "Tartışma, Dewey’nin incelemeleri ve 1927 kitabından ibaretti; Lippmann yanıt vermedi ve “tartışma” çerçevesi 1980–90’larda kuruldu.",
+          "Dewey Lippmann’ın kitaplarını yalnızca eleştirdi.",
+          "Tartışma, 1980’lerde bulunan mektuplara dayanır."
+        ],
+        "answer": 1,
+        "explain": "Schudson’un tespiti: “tartışma” Dewey’nin olumlu incelemeleri ile 1927 kitabından oluşur, Lippmann yanıt vermemiştir ve çerçeve 1980–90’ların ürünüdür. İlk şık tam bu çerçevenin kendisidir. Üçüncü şık, Dewey’nin incelemelerinin olumlu olduğunu atlar. Dördüncü şık uydurmadır: mektuplara dayanan bir hikâye değil, sonradan kurulan bir anlatı söz konusu."
+      }
+    },
+    {
+      "id": "crit-dewey",
+      "section": "critique",
+      "layer": "core",
+      "kind": "text",
+      "title": "Dewey’nin yanıtı: hayalet değil, tutulma",
+      "body": "Dewey Lippmann’ı reddetmedi; ona borcunu yazdı. 1927 kitabındaki bir dipnot, Lippmann’ın iki kitabına, yalnızca bir nokta için değil, fikirler için de minnettar olduğunu söyler [[cite:dewey-1927-public-problems]]. Teşhisi paylaşır: kamu kayıp, “certainly bewildered”, yani kesinlikle şaşkındır. Ama adı farklıdır: kamu hayalet değil, tutulma içindedir: “the Public will remain in eclipse” ve çıkış yolu, “Communication can alone create a great community” [[cite:dewey-1927-public-problems]]. Yani çare kamuyu küçültmek değil, iletişimi düzeltmek.\n\nUzmanlar konusunda iki adam sanıldığından yakın. Dewey uzmanlığın işini politika yapmak ve yürütmek diye değil, kararların dayandığı olguları “discovering and making known”, yani bulmak ve bilinir kılmak diye tanımlar [[cite:dewey-1927-public-problems]]. Lippmann’ın istihbarat büroları da olgu üretir, politika değil. Fark, olguların *kime* gideceğinde: Lippmann’da karar vericilere. Dewey’de asıl ihtiyaç, “the improvement of the methods and conditions of debate, discussion and persuasion”, yani tartışma, görüşme ve ikna yöntemlerinin ve koşullarının iyileştirilmesidir; “kamunun sorunu” budur [[cite:dewey-1927-public-problems]]. Herkesin araştırma yapması gerekmez; uzmanların sağladığı bilginin kendi kaygılarına etkisini yargılayabilmesi yeter.\n\nOrtak: ikisi de kamuoyunu kendiliğinden bilgili saymaz. Ayrılık: biri çözümü *içerdekilerin* işini iyileştirmekte, öteki *kamuya ulaşan bilgiyi* iyileştirmekte arar.",
+      "question": {
+        "id": "crit-dewey-q",
+        "type": "mcq",
+        "prompt": "Bir kent, su kalitesi ölçümlerini yalnızca kararı verecek meclis üyelerine sunan bir uzman bürosu kuruyor (A). Başka bir kent ise aynı ölçümleri sade raporlarla yayımlayıp yurttaşların tartışabileceği açık toplantılar düzenliyor (B). Hangi düzen Dewey’nin vurgusuna daha yakın?",
+        "options": [
+          "A; çünkü uzmanlar karar vermelidir.",
+          "B; çünkü asıl ihtiyaç, tartışma ve ikna koşullarını iyileştirmek ve yurttaşın bulguların etkisini yargılayabilmesidir.",
+          "İkisi de; çünkü Dewey uzmanlara hiç yer vermez.",
+          "Hiçbiri; çünkü Dewey kamunun bir hayalet olduğunu savunur."
+        ],
+        "answer": 1,
+        "explain": "Dewey uzmanlardan olgu bekler ve kamunun bu olguların kendi kaygılarına etkisini yargılayabilmesini ister; bunun yolu da tartışma ve ikna koşullarının iyileşmesi. A, Lippmann’ın istihbarat bürosuna daha yakın: olgular karar vericilere gider. Üçüncü şık Dewey’nin uzmanlara yer vermediğini varsayar; oysa uzmanı olgu bulucu olarak kabul eder. Dördüncü şık, “hayalet” sözünü Dewey’e atfeder; o söz Lippmann’ındır, Dewey’nin cevabı “tutulma”dır."
+      }
+    },
+    {
+      "id": "crit-frame",
+      "section": "critique",
+      "layer": "core",
+      "kind": "myth",
+      "title": "İki kitap, “şırınga” hikâyesine nasıl bağlanıyor?",
+      "body": "**Sanılan.** [[lesson:magic-bullet]] dersinde gördüğün gibi, ders kitapları 1920–30’ları “önce herkes medyayı çok güçlü sandı” diye anlatır ve Lippmann ile Lasswell bu anlatının sık verilen iki örneğidir: medya alıcıya doğrudan işler.\n\n**Kayıtlar ne söylüyor?** Bunu burada tekrarlamıyoruz; yalnızca iki kitabın *içinden* çıkan üç şeyi ekliyoruz.\n\n1. **Lippmann’ın mekanizması enjeksiyon değil.** Mesajın önünde erişim sınırları, ardında kalıplar ve çıkarlar, sonunda gerçek çevre var: insanlar sözde çevreye göre davranır ama sonuçlar gerçek çevrede ortaya çıkar [[cite:lippmann-1922]].\n2. **Lasswell’ın silahı “passive and contributory”.** Propagandacının işi çoğu kez grubun mevcut eğilimlerini kolaylaştırmaktır [[cite:lasswell-1927-propaganda]].\n3. **Yine de “propaganda çok güçlü” imgesi gerçekten dolaşımdaydı.** Kâsedeki kabuklular gibi. Parsons’a göre telkin öğretisi savaş öncesinde medya etkisinin baskın kuramlarından biriydi [[cite:parsons-2021]]; Pooley “güçlüden sınırlıya” hikâyesini “textbook boilerplate” diye niteler [[cite:pooley-2006]]; Sproule ise savaşlar arası propaganda eleştirmenlerinin “sihirli mermi” diye okunmasının tarihsel olarak yanlış olduğunu inceler [[cite:sproule-1989]].\n\n**Bizim yorumumuz (belgelenmiş değil):** “kurucu kitaplar” etiketi geriye bakınca yapışır; iki kitabın kendi cümleleri güçlü ama koşullu bir etkiyi anlatıyor.",
+      "question": {
+        "id": "crit-frame-q",
+        "type": "tf",
+        "prompt": "Lippmann’ın anlatısındaki mekanizma, mesajın doğrudan ve engelsiz biçimde alıcıya işlemesidir.",
+        "answer": false,
+        "explain": "Lippmann’ın anlatısında mesaj, erişim sınırlarından ve kalıplardan geçer, kişinin çıkarlarıyla birleşir ve sonuçları gerçek çevrede sınanır. “Doğrudan ve engelsiz” işleyiş, ders kitaplarının çizdiği şırınga karikatürüdür; Lippmann’ın kitabının kendi mantığı değildir."
+      }
+    },
+    {
+      "id": "deep-reputation",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Lippmann’ın değişen itibarı",
+      "body": "Lippmann’ın ününün kendi grafiği var; bunu Schudson ve iki başka çalışma sayesinde çıkarabiliyoruz [[cite:schudson-2008-lippmann-dewey]] [[cite:jansen-2009-phantom-conflict]] [[cite:tell-2013-reinventing-lippmann]].\n\n- **Kurucu kitap.** Carey 1982’de *Public Opinion*’ı “the founding book in American media studies” diye anar (Schudson’un aktardığı gibi) [[cite:schudson-2008-lippmann-dewey]].\n- **Baş sanık.** Carey’in 1987 tarihli yazısında Lippmann, kamunun “kavramsal olarak boşaltıldığı” hikâyenin baş örneğidir; Schudson’a göre Bender (1987), Lasch (1990) ve Fallows (1996) Lippmann’ı benzer biçimde okur [[cite:schudson-2008-lippmann-dewey]].\n- **İtiraz.** Schudson (2008), Lippmann’ın elitizminin onu anti-demokrat yapmadığını, uzmanları karar verici değil karar vericilerin danışmanı olarak gördüğünü savunur; ama uzmanlara fazla güvendiğini de kabul eder [[cite:schudson-2008-lippmann-dewey]].\n- **Folklor.** Jansen (2009) “Lippmann–Dewey tartışması”nı “disciplinary folklore”, yani disiplinin kendi folkloru olarak niteler [[cite:jansen-2009-phantom-conflict]]. Tell (2013) ise Lippmann’ın 1980’lerdeki “anti-demokrat” icadının, iletişim merkezli bir kültürel çalışmalar hikâyesini kurduğunu, yakın zamanda ise bir “yeniden icat”ın uzmanlık, demokrasi ve iletişim üzerine düşünmeye yardım edebileceğini yazar [[cite:tell-2013-reinventing-lippmann]].\n\nBir uyarı: Jansen ve Tell’in metinlerinin yalnızca özetlerini okuduk; tam metinlerine ulaşamadık. Schudson ise tam okundu."
+    },
+    {
+      "id": "deep-consent-phrase",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: “Rıza” üç fiil, üç yazar",
+      "body": "İki ifade kolayca karışır: “rızanın imalatı” ile “rızanın mühendisliği”. Bernays’ın “rızanın imalatı”nı önce kullandığı fikrini doğrulayamadık; kayıtlar şunu söylüyor:\n\n- **Lippmann, 1922.** “The manufacture of consent” ifadesi, okuduğumuz metinde bir kez, XV. bölümün dördüncü kesiminde geçer; aynı paragraf “creation of consent” ve “create consent” da der [[cite:lippmann-1922]].\n- **Bernays, 1947.** *The Annals* dergisindeki makalesinin başlığı “The Engineering of Consent”; “the very essence of the democratic process”, yani demokratik sürecin özü der [[cite:bernays-1947-engineering-consent]]. Okuduğumuz çevrimiçi dökümlerde “manufacture of consent” ya da Lippmann’ın adı yok. (Bernays’in 1923 kitabını ve 1928 tarihli *Propaganda*’sını tek tek taramadık; o yüzden onun bu ifadeyi hiç kullanmadığını da söylemiyoruz.)\n- **Herman ve Chomsky, 1988.** Kitaplarının adı *Manufacturing Consent* [[cite:herman-chomsky-1988-manufacturing-consent]]; Chomsky 1989’da bir konuşmasında ifadeyi icat edenin Lippmann olduğunu söyler [[cite:chomsky-1989-manufacturing-consent-talk]]. Türkçede kitap *Rızanın İmalatı* adıyla bilinir [[cite:gadimov-2015-riza-imalati]].\n\nYani sıra: imalat (Lippmann) → mühendislik (Bernays) → imalat (Herman ve Chomsky). **Bizim okumamız:** “imalat” fabrikayı, “mühendislik” bir mesleği çağrıştırır; ikisi de rızayı bir ürün gibi ele alır. Bu farkı, sınavda değil, tartışmada kullan."
+    },
+    {
+      "id": "today-feeds",
+      "section": "today",
+      "layer": "core",
+      "kind": "text",
+      "title": "Kaydırdığın ekran da bir çevre",
+      "body": "Lippmann’ın çerçevesini bugüne taşımak, “sosyal medya kötüdür” demek değildir; üç soruyu yeniden sormaktır: Uzak olayı kim bildiriyor? Erişimi hangi sınırlar daraltıyor? Kafadaki hangi kalıp boşluğu dolduruyor?\n\nBelgelenmiş iki bilgi var. Birincisi: Iyengar, Peters ve Kinder’in iki deneyi, televizyon haberlerinin izleyicilerin hangi sorunları önemli bulduğunu derinden etkilediğini gösterdi; yazarlar bunu Lippmann’ın yarım yüzyıl önceki şüphesinin desteklenmesi olarak sundu [[cite:iyengar-peters-kinder-1982]]. İkincisi: Twitter üzerinde 4.262 trend konuyu inceleyen bir çalışma, konuların yüzde 85’inden fazlasının “headline news” ya da “persistent news”, yani haber niteliğinde olduğunu buldu [[cite:kwak-et-al-2010]]. Yani ekranındaki gündemin büyük bölümü, başka birinin çizdiği haber resminin yankısı.\n\n(Varsayımsal deneme.) Akışında uzak bir kentteki bir olayı gösteren on saniyelik bir video var. Üç soruyu sor: Videoyu kim çekti, sen nereden biliyorsun? Görmediğin hangi bağlam eksik? Bu görüntüyü hangi hazır kalıba yerleştirdin?\n\n**Bizim yorumumuz (belgelenmiş değil):** akış algoritması, Lippmann’ın saydığı sınırlara (zaman, dikkat, hız) bir seçici daha ekliyor. O yüzden sözde çevre ile gerçek çevre arasındaki aralık kendiliğinden daralmıyor; yalnızca resmi *kimin çizdiği* değişiyor olabilir.",
+      "question": {
+        "id": "today-feeds-q",
+        "type": "mcq",
+        "prompt": "Bir çalışmada Twitter “trend” listesindeki konuların yüzde 85’inden fazlasının haber niteliğinde olduğu bulunuyor. Lippmann’ın çerçevesiyle en temkinli okuma hangisi?",
+        "options": [
+          "Twitter’ın haberi ortadan kaldırdığını gösterir.",
+          "Ekrandaki gündemin büyük bölümü haber üretiminin çizdiği resmin dolaşımı olabilir; yeni bir sözde çevre yaratmak yerine eskisini çoğaltıyor olabilir (bizim çıkarımımız, kanıtlanmış değil).",
+          "Kullanıcıların haberlere inanmadığını gösterir.",
+          "Kalıp yargıların bittiğini gösterir."
+        ],
+        "answer": 1,
+        "explain": "Bulgu, trend konuların büyük çoğunluğunun haber kaynaklı olduğunu söyler; bundan “ekran haber resminin yankısıdır” çıkarımı makul ama bizim yorumumuzdur, çalışmanın sonucu değil. İlk şık bulguyu tersine çevirir: konular haber kaynaklı çıkmış. Üçüncü şık inanç hakkında konuşur; bulgu inançla ilgili değil. Dördüncü şık, kalıpların bittiğini söyler; bulgu kalıplara dair bir şey söylemez."
+      }
+    },
+    {
+      "id": "today-lab-news",
+      "section": "today",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Lab: Mars “paniği”nde sözde çevre",
+      "body": "Belgelenmiş bir haber vakasına Lippmann’ın gözlüğünü tak: [[lesson:magic-bullet]] dersinde okuduğun 1938 Mars yayını. Üç soru sor.\n\n1. **Resim neydi?** Ertesi günkü gazetelerin “panik” anlatısı. Pooley ve Socolow’a göre gazeteler bu hikâyeyi radyoya karşı kullanmakta çıkar sahibiydi [[cite:pooley-socolow-2013-slate]].\n2. **Gerçek çevre neydi?** Aynı kaynağa göre Hooper’ın ulusal ölçümünde 5.000 hanenin yalnızca yüzde 2’si programı dinliyordu; New York’taki altı hastane, yayın nedeniyle getirilmiş bir vaka kaydı olmadığını bildirmişti [[cite:pooley-socolow-2013-slate]].\n3. **Hangi kalıp boşluğu doldurdu?** **Bizim yorumumuz:** “radyodan korkup paniğe kapılan kalabalık” kalıbı. Bir haber okuru bu kalıba yerleştirmiyorsa daha az “haber” gibi görünebilir.\n\nSonra kendine sor: Aynı kalıp bugün hangi vakada işliyor? (Kendi seçtiğin belgelenmiş bir vakayla dene; iki bağımsız kaynak bul.)\n\n**Neyi kanıtlamaz?** Bu egzersiz insanların hiç korkmadığını söylemez; magic-bullet dersinde gördüğün gibi bazı dinleyiciler gerçekten korktu. Sözde çevre ile gerçek çevre arasındaki aralığı *göstermek*, aralığın nedenini kanıtlamak değildir; gazetelerin bilerek uydurduğunu da kanıtlamaz: Lippmann’ın uyarısıyla, kurgu yalan demek değildir.",
+      "question": {
+        "id": "today-lab-news-q",
+        "type": "mcq",
+        "prompt": "Lab’da bir arkadaşın “gazeteler panik uydurdu” yazıyor. Lippmann’ın “kurgu yalan değildir” uyarısına göre en isabetli düzeltme hangisi?",
+        "options": [
+          "Aynen bırak; gazeteler her zaman yalan söyler.",
+          "Gazetelerin kurduğu resim gerçeği eksik yansıtıyor olabilir; bu, bilerek uydurma anlamına gelmek zorunda değil, niyet için ayrı bir kanıt gerekir.",
+          "Panik hiç olmadı diye yaz.",
+          "Kalıp yargılar yalnızca gazetelerde olur diye ekle."
+        ],
+        "answer": 1,
+        "explain": "Sözde çevre bir temsildir; eksik, yanlı ya da geç olabilir ve bunun bilerek yapıldığını göstermek ayrı bir iddiadır. İlk şık niyeti varsayar. Üçüncü şık aşırı: bazı dinleyiciler korktu. Dördüncü şık kalıpları gazetelere hapseder; Lippmann’a göre kalıp herkesin kafasındadır."
+      }
+    },
+    {
+      "id": "today-lab-consent",
+      "section": "today",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Lab: “Rıza imalatı” kimin cümlesi?",
+      "body": "Elinde üç kısa kaynak var.\n\n1. **Lippmann’ın 1922 paragrafı** (XV. bölüm, dördüncü kesim): “the manufacture of consent is capable of great refinements”. Rıza yaratmak eski bir sanattır ama artık çözümlemeye dayanır; ikna “a self-conscious art and a regular organ of popular government” olmuştur. Sonuçlarını ise “None of us begins to understand” diye bitirir [[cite:lippmann-1922]].\n2. **Chomsky’nin 1989 konuşması:** ifadeyi Lippmann’ın icat ettiğini söyler ve onun bunu “a worthwhile revolution” saydığını anlatır [[cite:chomsky-1989-manufacturing-consent-talk]].\n3. **Herman ve Chomsky (1988):** aynı ifadeyi kitabının başlığı yaptı; kitabın propaganda modelini [[lesson:propaganda-model]] dersinde göreceksin [[cite:herman-chomsky-1988-manufacturing-consent]].\n\n**Egzersiz (15 dakika).**\n- a) Lippmann paragrafını yavaş oku (*Public Opinion*’ın metni açık erişimlidir); her cümlenin yanına “betimleme” ya da “öneri” yaz.\n- b) Chomsky’nin özetini yanına koy: “değerli devrim” bu paragrafta geçiyor mu? Kitabın öbür yerlerindeki çözüm (örgütlü istihbarat, XXV–XXVIII) bu okumayı destekliyor mu, zorluyor mu?\n- c) Kendi cümlenle yaz: Lippmann rıza imalatını bir *uyarı* olarak mı, bir *reçete* olarak mı yazdı?\n\n**Bizim okumamız (tartışmaya açık):** paragraf ağırlıkla betimleyici; “harika” da, “felaket” de demiyor. Ama Lippmann’ın uzmanlara güveni de gerçek (Schudson’un uyarısı). Doğru cevap yok, belge var.",
+      "question": {
+        "id": "today-lab-consent-q",
+        "type": "tf",
+        "prompt": "Lippmann, 1922 paragrafında “rıza yaratma”nın sonuçlarını kimsenin henüz kavrayamadığını da yazar.",
+        "answer": true,
+        "explain": "Paragrafta “None of us begins to understand the consequences” cümlesi var: Lippmann bir devrim olduğunu söylüyor ama sonuçlarının anlaşılmadığını da ekliyor. Yanlış cevabı seçtiren düşünce, paragrafın bir övgü ya da bir tavsiye olduğu varsayımı; metnin kendisi bu iki şeyi açıkça yapmıyor."
+      }
+    },
+    {
+      "id": "exam-patterns",
+      "section": "exam",
+      "layer": "core",
+      "kind": "text",
+      "title": "Sınavda böyle sorulur",
+      "body": "**Sık çıkan kalıplar**\n\n- “Kafamızdaki resimler ve sözde çevre kime aittir?” → Lippmann, *Public Opinion*, 1922.\n- “Rızanın imalatı ifadesi nerede geçer?” → Lippmann, 1922. Kitap adı olarak: Herman ve Chomsky, 1988 (*Rızanın İmalatı*).\n- “Propagandayı anlamlı simgelerle kanaat yönetimi diye tanımlayan?” → Lasswell, 1927.\n- “Kamu bir hayalet mi, tutulma içinde mi?” → Lippmann 1925 / Dewey 1927.\n\n**Cazip yanlışlar**\n\n- Lippmann’ı gündem belirlemenin kurucusu saymak → o, fikri zemindir ([[lesson:agenda-setting]]).\n- 1927 kitabı ile 1948 makalesini karıştırmak → *Propaganda Technique* 1927; “kim, ne, hangi kanaldan…” formülü 1948 ([[concept:lasswell-formula]]).\n- “Engineering of consent”i Lippmann’a vermek → Bernays, 1947.\n- Lasswell’ın 1927’de “şırınga” deyimini kullandığını sanmak → [[lesson:magic-bullet]].\n- “Propaganda modeli” adı iki yerde geçer: Türkçe kaynaklarda şırınga modelinin de bir adıdır [[cite:yaylagul-2006]]; Herman ve Chomsky’nin propaganda modeli ise başka bir şeydir ([[lesson:propaganda-model]]).\n\n**Yıllar:** 1922 Public Opinion; 1925 Phantom Public; 1927 Lasswell ve Dewey; 1947 Bernays; 1988 Herman ve Chomsky.\n\n**Alternatif adlar:** kamuoyu; sözde çevre (bir tanıtım metninde sahte çevre); stereotip (kalıp yargı); rızanın imalatı (rıza üretimi). Kaynağın kullandığı adı sınavda aynen yaz.",
+      "question": {
+        "id": "exam-patterns-q",
+        "type": "mcq",
+        "prompt": "Bir sınavda “Aşağıdakilerden hangisi Lippmann’a ait DEĞİLDİR?” sorusunun şıkları şöyle: sözde çevre; stereotip; the manufacture of consent; the engineering of consent. Doğru şık hangisidir?",
+        "options": [
+          "Sözde çevre",
+          "Stereotip",
+          "The manufacture of consent",
+          "The engineering of consent"
+        ],
+        "answer": 3,
+        "explain": "“Engineering of consent” Bernays’in 1947 tarihli makalesinin başlığıdır. Diğer üçü Lippmann’ın 1922 kitabındadır. En sık yapılan hata, “manufacture” ile “engineering” fiillerini karıştırmak; ilki Lippmann, ikincisi Bernays."
+      }
+    },
+    {
+      "id": "deep-turkish-terms",
+      "section": "exam",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Türkçede kamuoyu, kanaat, rıza",
+      "body": "Bu dersin sözcükleri Türkçede sürpriz saklıyor.\n\n- **Kamuoyu.** Türk Dil Kurumu sözlüğü “bir konuyla ilgili halkın genel düşüncesi” der ve eski karşılıkları olarak halkoyu, amme efkârı, umumi efkâr, efkârıumumiye’yi sıralar [[cite:tdk-sozluk-2026]]. Sorun: Lippmann’ın İngilizcesi *public opinions* (çoğul, küçük harfli) ile *Public Opinion* (büyük harfli) ayrımını yapar; Türkçe *kamuoyu* toplu bir tekil olduğundan ayrım kaybolur. Bizim çözümümüz: “kamuoyları” ve “büyük harfli Kamuoyu” demek.\n- **Kanaat.** Sözlükteki ilk anlamı “elindekinden hoşnut olma”dır; dördüncü anlamı “görüş” [[cite:tdk-sozluk-2026]]. Bu derslerde *kanaat önderi* opinion leader’ın karşılığıdır; Kutlu (2019) climate of opinion için *kanaat iklimi*ni kullanır [[cite:kutlu-2019]]. Yani kanaat bir yandan “yetinme”, bir yandan “görüş”tür.\n- **Rıza.** Sözlükte “razı olma; onam” [[cite:tdk-sozluk-2026]]. Kitap adı *Rızanın İmalatı* [[cite:gadimov-2015-riza-imalati]]; “rıza üretimi”ne de rastlıyoruz ama aynı düzeyde yerleşik olduğunu doğrulayamadık.\n- **Sözde çevre / sahte çevre, stereotip.** Bu derste “sözde çevre” yazıyoruz (dersler arasında tutarlılık için); Türkçe baskının bir tanıtım metni ise “sahte çevre” ve “stereotip” diyor [[cite:kitapyurdu-kamuoyu-lippmann]].\n- **Propagandacı.** Sözlükte “propaganda yapan kimse; propagandist” [[cite:tdk-sozluk-2026]]. “Teknisyen propagandacı” bizim kısaltmamız.\n- **Hayalet kamu.** *The Phantom Public* için bulduğumuz bir Türkçe karşılık yok; “hayalet kamu” bizim çevirimiz (*kamu* = *the public*, Dewey’nin metinlerinde kullandığımız gibi)."
+    },
+    {
+      "id": "summary",
+      "section": "summary",
+      "layer": "core",
+      "kind": "summary",
+      "title": "Özet kartı",
+      "body": "- **İki kitap, iki soru:** Lippmann (1922): kafamızdaki resimler dünyaya neden uymuyor? Lasswell (1927): birileri o resimleri nasıl yönetiyor?\n- **Lippmann:** sözde çevre (yalan değil, kurgu), stereotip (önce tanımlar, sonra görürüz), büyük harfli Kamuoyu (eyleme dönmüş resimler), “manufacture of consent” (XV. bölüm), örgütlü istihbarat (çözüm).\n- **Hayalet kamu (1925):** kamu sabit bir topluluk değil; aktörlerin yanında ya da karşısında yer alır, ara sıra müdahale eder.\n- **Lasswell:** propaganda = anlamlı simgelerle kanaat yönetimi; nesnel koşulları değiştirmek değil; üç araçtan biri (askerî, ekonomik, propaganda); “passive and contributory”; “propaganda has become a profession” (teknisyen propagandacı bizim kısaltmamız).\n- **Dewey (1927):** kamu hayalet değil, tutulma içinde; çare iletişim ve tartışma koşullarını iyileştirmek; uzmanlar olguları bulur, politikayı yapmaz.\n- **“Lippmann–Dewey tartışması”:** Dewey’nin incelemeleri ve 1927 kitabı; Lippmann yanıt vermedi; çerçeve 1980–90’larda kuruldu (Schudson, Jansen).\n- **Etki:** iki kitapta da koşullu, güçlü ama enjeksiyon olmayan bir etki var; “şırınga” etiketi sonradan geldi ([[lesson:magic-bullet]]).\n- **Sınav:** 1922 / 1925 / 1927 / 1947 / 1988; manufacture (Lippmann) ≠ engineering (Bernays); sözde çevre ≠ stereotip.",
+      "question": {
+        "id": "summary-q",
+        "type": "tf",
+        "prompt": "Bu dersin iki kitabında da izleyici, mesajı deri altına alan edilgen bir hedef olarak tarif edilir.",
+        "answer": false,
+        "explain": "İki kitapta da izleyici kalıplarla, çıkarlarla ve mevcut grup eğilimleriyle donanmıştır: Lippmann’da mesaj kalıplardan ve erişim sınırlarından geçer ve gerçek çevrede sınanır; Lasswell’da propagandacı çoğu kez grubun mevcut eğilimlerini kolaylaştırır. “Edilgen hedef” anlatısı ders kitaplarının karikatürüdür."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q-match",
+      "type": "match",
+      "prompt": "Kavramı ya da ifadeyi kaynağıyla eşleştir.",
+      "pairs": [
+        [
+          "Sözde çevre ve kafamızdaki resimler",
+          "Lippmann, 1922"
+        ],
+        [
+          "Kamu “salt bir hayalettir”",
+          "Lippmann, 1925"
+        ],
+        [
+          "Propaganda: anlamlı simgelerle kanaat yönetimi",
+          "Lasswell, 1927"
+        ],
+        [
+          "Kamu “tutulma içindedir”",
+          "Dewey, 1927"
+        ],
+        [
+          "Rızanın mühendisliği (engineering of consent)",
+          "Bernays, 1947"
+        ]
+      ],
+      "explain": "Resim ve sözde çevre Lippmann’ın 1922 kitabına; hayalet kamu onun 1925 kitabına; propaganda tanımı Lasswell’ın 1927 kitabına; tutulma imgesi Dewey’nin 1927 kitabına; “engineering of consent” Bernays’in 1947 makalesine aittir. En sık karışan çiftler: hayalet (Lippmann) ile tutulma (Dewey) ve manufacture (Lippmann) ile engineering (Bernays)."
+    },
+    {
+      "id": "q-order",
+      "type": "order",
+      "prompt": "Bu yayınları yayın yılına göre eskiden yeniye sırala.",
+      "items": [
+        "Lippmann: Public Opinion",
+        "Lippmann: The Phantom Public",
+        "Lasswell: Propaganda Technique in the World War",
+        "Bernays: “The Engineering of Consent”",
+        "Herman ve Chomsky: Manufacturing Consent"
+      ],
+      "explain": "Sıra: Public Opinion (1922), The Phantom Public (1925), Propaganda Technique in the World War (1927), “The Engineering of Consent” (1947), Manufacturing Consent (1988). Hafıza kancası: resim, hayalet, teknik; sonra iki “rıza” adı: Bernays Lippmann’dan 25, Herman ve Chomsky 66 yıl sonra."
+    },
+    {
+      "id": "q-cloze",
+      "type": "cloze",
+      "prompt": "Boşlukları doldur.",
+      "text": "Lippmann’a göre insan, gerçek çevreye değil, kafasındaki {{1}} yanıt verir; bu temsilin adı {{2}} çevredir. Lasswell’a göre propaganda, {{3}} yoluyla kanaat ve tutumların yönetilmesidir.",
+      "blanks": [
+        {
+          "options": [
+            "resme",
+            "yasaya",
+            "ölçüme"
+          ],
+          "answer": 0
+        },
+        {
+          "options": [
+            "sözde",
+            "doğal",
+            "ekonomik"
+          ],
+          "answer": 0
+        },
+        {
+          "options": [
+            "anlamlı simgelerin doğrudan yönlendirilmesi",
+            "nesnel koşulların değiştirilmesi",
+            "askerî baskı"
+          ],
+          "answer": 0
+        }
+      ],
+      "explain": "Lippmann’da davranış, çevrenin kendisine değil, kafadaki resme (sözde çevreye) yanıttır. Lasswell’ın tanımında propaganda simgelerle kanaati yönetir; nesnel koşulları değiştirmek ya da askerî baskı başka araçlardır. Tuzak, üçüncü boşlukta “nesnel koşulların değiştirilmesi”ni seçmek: Lasswell bunu propagandanın dışında bırakır."
+    },
+    {
+      "id": "q-tf",
+      "type": "tf",
+      "prompt": "“Manufacture of consent” ifadesi ilk kez Herman ve Chomsky’nin 1988 tarihli kitabında kullanıldı.",
+      "answer": false,
+      "explain": "İfade Lippmann’ın 1922 tarihli *Public Opinion* kitabında geçer; Herman ve Chomsky onu kitaplarının başlığı yaptı ve Chomsky ifadeyi icat edenin Lippmann olduğunu söyledi. Tuzak, kitap başlığının ifadeyi doğurduğunu sanmak. (Bernays’in 1947’deki ifadesi ise farklıdır: “engineering of consent”.)"
+    },
+    {
+      "id": "q-case",
+      "type": "case",
+      "scenario": "Bir ilçe gazetesi, uzaktaki bir baraj projesini üç gün boyunca “yıkıcı sel riski” başlığıyla veriyor; tek kaynak, belediyenin kısa bir açıklaması. Okurlar hızla dilekçe imzalıyor. Bir hafta sonra bağımsız bir kurumun raporu riskin düşük olduğunu gösteriyor. (Varsayımsal senaryo.)",
+      "parts": [
+        {
+          "prompt": "Dilekçe verenlerin dayandığı resim, Lippmann’ın kavramlarıyla nedir?",
+          "options": [
+            "Sözde çevre",
+            "Gerçek çevre",
+            "Hayalet kamu"
+          ],
+          "answer": 0,
+          "explain": "Okurlar, haberin çizdiği resme, yani sözde çevreye yanıt verdi; sonuç (dilekçe) gerçek çevrede ortaya çıktı, rapor ise gerçek çevreyi gösterdi. “Gerçek çevre” şıkkı, resmi olayın kendisiyle karıştırır; “hayalet kamu” ise kamu kavramıdır, resim değil."
+        },
+        {
+          "prompt": "Lippmann’ın 1922’deki çözüm önerisine en yakın adım hangisi?",
+          "options": [
+            "Gazeteyi yasaklamak",
+            "Karar vericilere olguları gösteren bağımsız bir istihbarat/uzman bürosu kurmak",
+            "Her yurttaştan baraj mühendisliğini öğrenmesini beklemek"
+          ],
+          "answer": 1,
+          "explain": "Lippmann’ın önerisi, karar vericilere görünmeyen olguları gösteren bağımsız uzman büroları; hedef, uzman yükünü her yurttaşa yüklemek değil. Üçüncü şık, “omnicompetent citizen” varsayımıdır: Lippmann’ın eleştirdiği şey. Birinci şık, Lippmann’da hiç yer almayan bir önlemdir."
+        },
+        {
+          "prompt": "Dewey’nin vurgusu bu senaryoya nasıl uygulanır?",
+          "options": [
+            "Kararı yalnızca bürodaki uzmanlar versin",
+            "Bulguların yurttaşların tartışıp yargılayabileceği biçimde dolaşıma girmesi ve iletişimin iyileştirilmesi gerekir",
+            "Kamu zaten yoktur, dilekçenin anlamı yoktur"
+          ],
+          "answer": 1,
+          "explain": "Dewey uzmanı olgu bulucu sayar ve asıl ihtiyacın tartışma, görüşme ve ikna koşullarının iyileştirilmesi olduğunu yazar; yurttaş, bilginin kendi kaygılarına etkisini yargılayabilmelidir. Birinci şık Lippmann’a daha yakın okumadır; üçüncü şık ise Lippmann’ın “hayalet” savını Dewey’e atfeder."
+        }
+      ],
+      "takeaway": "Sözde çevre kötü niyet gerektirmez; eksik bir resim yeter. Lippmann çareyi karar vericilere görünmeyen olguları göstermekte, Dewey ise o olguların kamuya ulaşma koşullarını iyileştirmekte arar."
+    },
+    {
+      "id": "q-lasswell-goals",
+      "type": "mcq",
+      "prompt": "Aşağıdakilerden hangisi Lasswell’ın 1927 kitabında sıraladığı savaş propagandası hedeflerinden biri DEĞİLDİR?",
+      "options": [
+        "Düşmana karşı nefreti seferber etmek",
+        "Müttefiklerin dostluğunu korumak",
+        "Tarafsızların dostluğunu ve mümkünse işbirliğini kazanmak",
+        "İç siyasi muhalefeti yasalarla susturmak"
+      ],
+      "answer": 3,
+      "explain": "Lasswell dört hedef sayar: düşmana karşı nefreti seferber etmek, müttefiklerin dostluğunu korumak, tarafsızların dostluğunu ve mümkünse işbirliğini kazanmak, düşmanı moralsizleştirmek. Yasalarla muhalefeti susturmak, hukuki bir baskı biçimidir ve Lasswell’ın “simgelerle kanaat yönetimi” tanımının dışında kalır. “DEĞİLDİR” sorularında doğru gibi görünen cümleyi işaretlemek en sık yapılan hatadır."
+    },
+    {
+      "id": "q-stereotype",
+      "type": "mcq",
+      "prompt": "Lippmann’a göre stereotiplerin dirençli olmasının bir nedeni hangisidir?",
+      "options": [
+        "Yalnızca tembellik: insanlar düşünmek istemez.",
+        "Kişinin toplumdaki konumunu ve kendine saygısını koruyan bir savunma olmaları; onları sarsan şey “dünyanın temellerine saldırı” gibi hissedilir.",
+        "Gazetelerin onları her gün yeniden üretmesi.",
+        "Kanunla korunmaları."
+      ],
+      "answer": 1,
+      "explain": "Lippmann VII. bölümde, çaba tasarrufunun yanında ikinci bir neden ekler: stereotipler kişinin konumunu, kendine saygısını ve geleneğini savunur; bu yüzden onları sarsmak “bizim evrenimize” saldırı gibi hissedilir. Birinci şık yalnızca çaba tasarrufunu görür, ikincisini kaçırır. Üçüncü ve dördüncü şıklar, bu bölümde savunulan nedenler değildir."
+    },
+    {
+      "id": "q-phantom",
+      "type": "tf",
+      "prompt": "Lippmann’a göre kamu, olayların gidişini yönlendiren sabit bir yurttaş topluluğudur.",
+      "answer": false,
+      "explain": "*The Phantom Public*’te Lippmann bunun tersini yazar: böyle bir kamu “a mere phantom”, bir soyutlamadır; kamu, bir işe ilgi duyan ve ona ancak aktörlerin yanında ya da karşısında yer alarak etki edebilen değişken kişilerdir. Tuzak, “hayalet”i “kamu hiçbir şey yapmaz” diye okumak."
+    },
+    {
+      "id": "q-dewey",
+      "type": "mcq",
+      "prompt": "Dewey’nin 1927 kitabındaki tavır hakkında hangisi doğrudur?",
+      "options": [
+        "Uzmanlara hiçbir rol tanımadı.",
+        "Kamunun tutulma içinde olduğunu, çarenin iletişimin ve tartışma-ikna koşullarının iyileştirilmesinde yattığını söyledi; uzmanların işini olguları bulmak ve bilinir kılmak diye tanımladı.",
+        "Kamunun hayalet olduğunu Lippmann’dan önce yazdı.",
+        "Lippmann’ın kitaplarına hiç atıf yapmadı."
+      ],
+      "answer": 1,
+      "explain": "Dewey uzmanı politikayı yapan değil, olguları bulup bilinir kılan kişi olarak görür ve çareyi iletişimin iyileştirilmesinde arar. Birinci şık uzman rolünü yok sayar. Üçüncü şık “hayalet”i Lippmann’ın yerine Dewey’e yazar; oysa o söz Lippmann’ındır. Dördüncü şık yanlış: Dewey bir dipnotla Lippmann’ın iki kitabına borcunu belirtir."
+    }
+  ]
+}

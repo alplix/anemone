@@ -1,0 +1,658 @@
+{
+  "id": "propaganda-public-opinion",
+  "lang": "en",
+  "translation": {
+    "status": "machine",
+    "date": "2026-09-20"
+  },
+  "title": "Propaganda and Public Opinion: Lippmann and Lasswell",
+  "slug": "propaganda-and-public-opinion",
+  "description": "Lippmann’s pseudo-environment and stereotype, Lasswell’s propaganda technique, Dewey’s reply and the “manufacture of consent”: two founding books read side by side.",
+  "claim": "Lippmann (1922) argues that people respond not to the world but to the pictures in their heads (the pseudo-environment), and Lasswell (1927) describes propaganda as a technique that tries to manage those pictures through significant symbols; Dewey replies that the answer is to repair communication rather than shrink the public; and the “Lippmann–Dewey debate” is a story built in the 1980s–90s, not in the 1920s.",
+  "keywords": [
+    "Lippmann",
+    "Public Opinion",
+    "pseudo-environment",
+    "stereotype",
+    "manufacture of consent",
+    "Lasswell",
+    "Propaganda Technique in the World War",
+    "phantom public",
+    "Dewey",
+    "public opinion"
+  ],
+  "updated": "2026-09-20",
+  "timeline": {
+    "cpi-founded": "The Committee on Public Information is set up in the United States (13 April)",
+    "tribune-acids": "The New York Tribune describes the propagandist’s job with the “dropping acids” image (12 July)",
+    "dewey-lectures": "Dewey delivers the lectures behind The Public and Its Problems (January)",
+    "manufacturing-consent": "Herman and Chomsky: Manufacturing Consent",
+    "schudson-debate": "Schudson shows that the “Lippmann–Dewey debate” was built in the 1980s–90s"
+  },
+  "cards": [
+    {
+      "id": "ctx-acids",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "Crustaceans in a bowl, and “public opinion”",
+      "body": "On 12 July 1918 a New York newspaper described the propagandist’s job like this: to the trained propagandist, the public mind is a pool into which words and thoughts are dropped “like acids”, with the reactions known in advance. Just as Professor Loeb can drop a little chemical into a bowl, stop a thousand crustaceans swimming aimlessly and make them all rush towards the light [[cite:lasswell-1927-propaganda]].\n\nWe can read that scene today because [[person:lasswell|Lasswell]] quotes it in his 1927 book *Propaganda Technique in the World War*, taking it from a booklet of the US Military Intelligence. But he does not present it as his own theory. He cites it as the “all-knowing” quality a newspaper had imputed to the propagandist, and writes that only if methods of testing before circulation can be devised will the propagandist come somewhat closer to it [[cite:lasswell-1927-propaganda]]. In other words, the book itself knows how far the caricature is from reality.\n\nThis lesson reads two books side by side. One is [[person:lippmann|Walter Lippmann]]’s *Public Opinion* (1922): why do the pictures in people’s heads not fit the world? The other is Lasswell’s (1927): how does somebody get his hands on those pictures? At the end of the road there is also an answer to both: [[person:dewey|John Dewey]]’s 1927 book.",
+      "question": {
+        "id": "ctx-acids-q",
+        "type": "mcq",
+        "prompt": "How does Lasswell use the newspaper’s image (“the public mind is a pool, the propagandist drops acids into it”) in his book?",
+        "options": [
+          "As a summary of his own theory, to argue that the propagandist steers the masses with total control.",
+          "He reports it as an image of “all-knowing” foresight imputed to the propagandist; he says that to approach it, methods of testing beforehand would have to be developed.",
+          "As proof that propaganda is useless.",
+          "As a reply to Lippmann’s book."
+        ],
+        "answer": 1,
+        "explain": "Lasswell brings the quotation in to show the all-knowing quality once imputed to the propagandist, and writes that the propagandist will come somewhat closer to it only if methods of prior testing can be found. The first option is tempting because the image looks very much like the textbook “hypodermic” story; but the quotation is a reported newspaper image, not a summary of theory. The third option goes to the other extreme: Lasswell counts propaganda among the three chief instruments, he does not call it useless. The fourth option does not fit the dates either: the quotation comes from a 1918 newspaper, years before Lippmann’s book."
+      }
+    },
+    {
+      "id": "ctx-war",
+      "section": "context",
+      "layer": "core",
+      "kind": "text",
+      "title": "The war ended, the word stayed",
+      "body": "One of the first pages of Lasswell’s book catches the mood of the time in a single sentence: a word has appeared, and it has come to have “an ominous clang” in many minds: propaganda. People are uneasy about an unknown cunning that seems to have duped and degraded them [[cite:lasswell-1927-propaganda]].\n\nThe state’s counterpart of that unease, in the United States, was the Committee on Public Information. It was set up by executive order on 13 April 1917, chaired by George Creel, and abolished on 21 August 1919 [[cite:nara-rg63-cpi]] [[cite:wikipedia-committee-public-information-ppo]]. You will meet the details in [[lesson:propaganda-history]].\n\nBoth authors’ ties to the war are documented. During the war Lippmann was executive secretary of the secret research group (the Inquiry) that prepared the ground for Wilson’s Fourteen Points; he was also commissioned as a captain in military intelligence to carry out propaganda on the western front [[cite:iess-lippmann]] [[cite:ebsco-lippmann]]. Lasswell devoted a whole book to war propaganda. In his opening pages he says that the newcomers to the propaganda, or “publicity”, profession have begun to write down their own practices, and that the books by Bernays and by Wilder and Buell are pioneers in this direction [[cite:lasswell-1927-propaganda]]. (You will get to know Bernays and Creel better in other lessons.)\n\nIn short: the books of 1922 and 1927 were written in a world where propaganda was both feared and turning into a profession.",
+      "question": {
+        "id": "ctx-war-q",
+        "type": "mcq",
+        "prompt": "Which of the following is a connection supported by the sources we rely on in this lesson?",
+        "options": [
+          "Lippmann was deputy chairman of the Committee on Public Information.",
+          "In his 1927 book Lasswell mentions the newcomers to the propaganda or publicity profession and lists Bernays’s 1923 book in his bibliography.",
+          "Lasswell was chairman of the Committee on Public Information.",
+          "Lasswell and Lippmann ran the same propaganda unit during the war."
+        ],
+        "answer": 1,
+        "explain": "The opening pages of Lasswell’s book speak of the new propaganda/publicity profession and of the books by Bernays and by Wilder and Buell; his note on bibliography also lists Bernays’s *Crystallizing Public Opinion* (1923). The other options sound plausible, but there is no source to rest them on: the committee’s chairman was George Creel; Lippmann served in military intelligence and we found no source for a post of his in the committee; Lasswell was still young during the war (born 1902), and there is no source for a joint unit either."
+      }
+    },
+    {
+      "id": "who-when",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "text",
+      "title": "Who, and when?",
+      "body": "Keep three authors and four dates in mind.\n\n- **Walter Lippmann** (1889–1974): journalist and commentator [[cite:ebsco-lippmann]]. *Public Opinion* (1922) and *The Phantom Public* (1925) [[cite:lippmann-1922]] [[cite:lippmann-1925-phantom-public]].\n- **Harold Lasswell** (1902–1978): political scientist [[cite:encyclopedia-lasswell-historians]]. *Propaganda Technique in the World War* (1927) [[cite:lasswell-1927-propaganda]].\n- **John Dewey** (1859–1952): philosopher [[cite:sep-dewey]]. He wrote favourable reviews of Lippmann’s two books in *The New Republic* (1922 and 1925); the lectures he gave in 1926 were published in 1927 as *The Public and Its Problems* [[cite:schudson-2008-lippmann-dewey]] [[cite:dewey-1927-public-problems]].\n\nThe birth years also help fix the order: Dewey was born thirty years before Lippmann (1859), Lasswell thirteen years after him (1902); so there is a span of forty-three years among the three authors.\n\n**Memory hook:** 1922 *picture*, 1925 *phantom*, 1927 *technique* and *reply*.\n\nLater names: Bernays’s article “The Engineering of Consent” in 1947 [[cite:bernays-1947-engineering-consent]]; Herman and Chomsky’s *Manufacturing Consent* in 1988 [[cite:herman-chomsky-1988-manufacturing-consent]]; Schudson’s article questioning the “Lippmann–Dewey debate” in 2008 [[cite:schudson-2008-lippmann-dewey]]. In this lesson Bernays, Herman and Chomsky appear only as names.",
+      "question": {
+        "id": "who-when-q",
+        "type": "tf",
+        "prompt": "Dewey’s *The Public and Its Problems* was published before Lippmann’s *The Phantom Public*.",
+        "answer": false,
+        "explain": "*The Phantom Public* came out in 1925, Dewey’s book in 1927. The trap: Dewey’s *New Republic* reviews (1922, 1925) and his lectures (1926) really are earlier; but the question asks about the book, and its printed form appeared in 1927, after both of Lippmann’s books. “Reply” means “later” in order."
+      }
+    },
+    {
+      "id": "deep-citations",
+      "section": "people-time",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: who put whom in the bibliography?",
+      "body": "These books were not unaware of one another. Three documents form a small chain (we opened and read all three texts):\n\n- **Lasswell’s 1927 book.** In the note on bibliography at the end, under “general studies of public opinion and propaganda”, Lippmann’s *Public Opinion* (1922) and *The Phantom Public* (1925) are listed, together with Bernays’s *Crystallizing Public Opinion* (1923). In the two scans we read, Lippmann’s name does not occur outside the bibliography: this is a reading list, not an argument [[cite:lasswell-1927-propaganda]].\n- **Dewey’s 1927 book.** A footnote names Lippmann’s two books and says Dewey owes them a debt not only on that one point but for ideas as well [[cite:dewey-1927-public-problems]].\n- **McCombs and Shaw (1972).** In the scanned text of the article we did not find Lippmann’s name; but his term is there: the “pseudo-environment” reflected in the media is not a perfect representation of the campaign [[cite:mccombs-shaw-1972]]. Iyengar, Peters and Kinder (1982) write that their experiments sustain Lippmann’s suspicion “advanced a half century ago” [[cite:iyengar-peters-kinder-1982]]. A Turkish study also notes that agenda-setting literature usually cites Lippmann’s *Kamuoyu* (the Turkish title of *Public Opinion*) as its first source [[cite:hazar-sbouh-2020]].\n\nYou can find the last links of this chain in more detail in the lesson [[lesson:agenda-setting]]."
+    },
+    {
+      "id": "claim-lippmann",
+      "section": "claim",
+      "layer": "core",
+      "kind": "myth",
+      "title": "The picture takes the world’s place",
+      "body": "**What people assume.** Public opinion is the sum of what people think after seeing the world as it is.\n\n**Lippmann’s move.** You can state it in one sentence: the political world is “out of reach, out of sight, out of mind”; it has to be explored, reported and imagined [[cite:lippmann-1922]]. So we respond to it with the picture in our heads. (You read the islanders’ 1914 scene and the chapter title “the pictures in our heads” in [[lesson:agenda-setting]]; we do not repeat them here.)\n\nThen he draws a distinction: the pictures people carry in their heads about themselves, about others, about their needs, purposes and relationships are their *public opinions*. Those pictures that are acted upon by groups, or by individuals acting in the name of groups, are “Public Opinion with capital letters” [[cite:lippmann-1922]]. So Lippmann defines public opinion not as a poll total or the will of the people, but as *pictures turned into action*. **Our interpretation:** the distinction is useful because the question “what does the public think?” can mix up two different things: are you asking about the pictures in people’s heads, or about the ones that turn into action?\n\nThe book’s big worry comes from here: democratic theory, in its original form, never seriously faced the problem that the pictures in our heads do not automatically correspond with the world outside [[cite:lippmann-1922]]. Turkish studies refer to the book as *Kamuoyu* [[cite:hazar-sbouh-2020]].",
+      "question": {
+        "id": "claim-lippmann-q",
+        "type": "mcq",
+        "prompt": "In a neighbourhood everyone carries their own picture of the rumour that “parking will become paid”. Hundreds of people, acting on the same picture, file a joint petition with the municipality. In Lippmann’s distinction, what do we call the pictures that turned into the petition?",
+        "options": [
+          "Public opinions in small letters, because everyone’s picture is different.",
+          "Public Opinion in capital letters, because they are pictures turned into action in the name of a group.",
+          "Not a pseudo-environment but the real environment, because people acted.",
+          "Not public opinion at all, because no poll was taken."
+        ],
+        "answer": 1,
+        "explain": "For Lippmann the pictures in people’s heads are their public opinions, and those acted upon by groups are Public Opinion with capital letters. The first option correctly sees that pictures differ from person to person but skips the test of turning into action. The third option confuses action with the reality of the environment: a picture that moves people is still a picture, and its consequences show up in the real environment. The fourth option uses a poll as the criterion; Lippmann’s definition has no such criterion."
+      }
+    },
+    {
+      "id": "claim-lasswell",
+      "section": "claim",
+      "layer": "core",
+      "kind": "myth",
+      "title": "Propaganda is not every kind of pressure",
+      "body": "**What people assume.** Propaganda is everything done in wartime to bring a society into line: restrictions, bans, even food rations.\n\n**The definition in Lasswell’s 1927 book.** Propaganda is a matter of “the control of opinion by significant symbols”; to put it more concretely and less accurately, of stories, rumours, reports, pictures and other forms of social communication. It is the management of opinions and attitudes by the direct manipulation of social suggestion, rather than by altering conditions in the environment or in the organism [[cite:lasswell-1927-propaganda]]. He draws the boundary deliberately: raising morale by changing objective conditions, such as increasing the cigarette ration or changing the chemical composition of food, is not counted as propaganda [[cite:lasswell-1927-propaganda]]. He also writes that the problem of maintaining morale is only in part a problem of propaganda: propaganda is but one of many devices, and its scope is “limited though important” [[cite:lasswell-1927-propaganda]].\n\nNor is propaganda the only instrument. Lasswell names three chief instruments against an enemy: military pressure, economic pressure and propaganda [[cite:lasswell-1927-propaganda]]. In the chapter on the results of propaganda he says the war is fought on three fronts (military, economic, propaganda) and calls propaganda “a passive and contributory weapon”; its chief function is to demolish the enemy’s will to fight [[cite:lasswell-1927-propaganda]].",
+      "question": {
+        "id": "claim-lasswell-q",
+        "type": "mcq",
+        "prompt": "A commander visits the front, increases the soldiers’ cigarette and food rations, and morale rises. According to Lasswell’s definition, what is this?",
+        "options": [
+          "Propaganda, because it raised morale.",
+          "Not propaganda: it changes an objective condition, whereas propaganda manages opinion through significant symbols.",
+          "Only the cigarette ration is propaganda.",
+          "Military pressure."
+        ],
+        "answer": 1,
+        "explain": "Lasswell leaves out exactly this example: raising morale by changing objective conditions such as the cigarette supply or the composition of food is not propaganda; propaganda manages opinion through symbols, stories, reports and pictures. The first option rests on the intuition “if it influences, it is propaganda”; Lasswell takes the kind of means, not the fact of influence, as his criterion. In the fourth option, military pressure means the coercive power of land, sea and air forces; a treat does not belong in that class."
+      }
+    },
+    {
+      "id": "concepts-glossary",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Glossary: pictures, not lies",
+      "body": "- **Pseudo-environment** [[concept:pseudo-environment]]: the representation that comes between a person and the real environment, and to which behaviour responds. Lippmann warns: “By fictions I do not mean lies” [[cite:lippmann-1922]].\n- **Stereotype** [[concept:stereotype]]: the ready-made pattern our culture supplies, which lets us define first and see afterwards.\n- **Public opinions and Public Opinion in capital letters**: the pictures in heads, and those acted upon by groups. (For Noelle-Neumann’s notion of public opinion see [[concept:public-opinion]].)\n- **The omnicompetent citizen**: the citizen democratic theory presupposes, competent and interested in every question. For Lippmann this assumption is roughly true, at most, in a small village [[cite:lippmann-1922]].\n- **Organized intelligence**: Lippmann’s proposed remedy: independent expert bureaus that show decision-makers the facts they cannot see [[cite:lippmann-1922]].\n- **Manufacture of consent** [[concept:manufacture-of-consent]]: the phrase Lippmann used in 1922; its later uses are a separate story.\n- **The phantom public** [[concept:phantom-public]]: Lippmann’s name, in 1925, for the idea of a public that steers events.\n- **The propagandist as technician** [[concept:propagandist-technician]]: this lesson’s shorthand; not Lasswell’s own term.\n- **The Lippmann–Dewey debate** [[concept:lippmann-dewey-debate]]: a story constructed in the 1980s.\n- Concepts from other lessons: [[concept:magic-bullet]], [[concept:powerful-effects]], [[concept:lasswell-formula]] (the subject of 1948; not in this lesson).\n\n**Trap:** a pseudo-environment does not mean “lies invented by the media”.",
+      "question": {
+        "id": "concepts-glossary-q",
+        "type": "match",
+        "prompt": "Match each concept with its definition.",
+        "pairs": [
+          [
+            "Pseudo-environment",
+            "The representation between a person and the real environment, to which behaviour responds"
+          ],
+          [
+            "Stereotype",
+            "The pattern supplied by culture that lets us define first and see afterwards"
+          ],
+          [
+            "Public Opinion in capital letters",
+            "Pictures acted upon by groups or in the name of groups"
+          ],
+          [
+            "Organized intelligence",
+            "Independent expert bureaus showing decision-makers the facts they cannot see"
+          ]
+        ],
+        "explain": "A pseudo-environment is a representation, not a lie; a stereotype is the ready-made piece that fills that representation. Capital-letter Public Opinion is the *acted-upon* form of pictures. Organized intelligence is Lippmann’s remedy: experts do not rule, they show decision-makers the facts. The pair most often confused is pseudo-environment and stereotype: one is the frame, the other the pattern that fills it."
+      }
+    },
+    {
+      "id": "deep-book-map",
+      "section": "concepts",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: a map of Public Opinion",
+      "body": "The book has eight parts and twenty-eight chapters; the titles come from its table of contents [[cite:lippmann-1922]]:\n\n1. **Introduction** (I): “The World Outside and the Pictures in Our Heads”.\n2. **Approaches to the world outside** (II–V): censorship and privacy; contact and opportunity; time and attention; speed, words and clearness. These are the external limits on how the world reaches our heads drop by drop.\n3. **Stereotypes** (VI–X): stereotypes; stereotypes as defense; blind spots; codes and their enemies; the detection of stereotypes.\n4. **Interests** (XI–XII).\n5. **The making of a common will** (XIII–XV): the phrase “manufacture of consent” occurs in the last chapter of this part, XV.\n6. **The image of democracy** (XVI–XX): a critique of traditional democratic theory and of English Guild Socialism.\n7. **Newspapers** (XXI–XXIV).\n8. **Organized intelligence** (XXV–XXVIII): the proposed remedy; the last chapter is called “The Appeal to Reason”.\n\nThe first five parts are the descriptive section of the book; the analysis of democratic theory comes after it. Lippmann says so himself in the introduction [[cite:lippmann-1922]]. So if you read the “manufacture of consent” sentence as a diagnosis, the medicine is in the last part of the book."
+    },
+    {
+      "id": "deep-stereotype-word",
+      "section": "concepts",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: “stereotype” was a printing word",
+      "body": "The word stereotype comes from printing: formed from Greek *stereos* (solid) and French *type*, it is recorded in the late eighteenth century with the meaning “method of printing from a plate”. The sense “image perpetuated without change” is recorded by 1850, and the sense “preconceived and oversimplified notion of characteristics typical of a person or group” is documented in 1922 in Lippmann’s *Public Opinion* [[cite:etymonline-stereotype]]. A linguist likewise writes that the concept entered social and psychological studies through this book by Lippmann [[cite:vilinbakhova-2013-stereotype]]. (The sources differ on the date: one says the French printer Firmin Didot used the word in 1796, the other gives a record from 1798; we say only “the late eighteenth century”.)\n\nOne detail: in Lippmann’s text, as far as we read it, no sentence openly mentions the printing origin; he uses the word directly for what our culture has “stereotyped” for us [[cite:lippmann-1922]]. The printing link comes from the word’s history, not from Lippmann. **Our interpretation:** the metaphor is meaningful all the same: a plate is cast once and then prints the same image again and again, like a pattern repeated without checking."
+    },
+    {
+      "id": "assump-lippmann",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "myth",
+      "title": "Lippmann did not say “the people are stupid”",
+      "body": "**What people assume.** Lippmann was an elitist who thought the people incompetent and wanted to hand government over to experts.\n\n**What the record says.** The book’s own sentence: “every one of us is an outsider”, that is, except in a few aspects of modern life; the outsider has neither time, nor attention, nor interest, nor the equipment for specific judgment [[cite:lippmann-1922]]. In Schudson’s reading, “incompetence” is a property of a *position*, not of a person; the real target is the doctrine of the *omnicompetent citizen*, which treats the citizen as competent in every matter [[cite:schudson-2008-lippmann-dewey]]. Lippmann even grants that this doctrine is, for practical purposes, true for the village; the problem is applying the village’s picture to a complicated civilisation [[cite:lippmann-1922]].\n\nHis remedy is not “let the experts rule” either. Intelligence bureaus show decision-makers the facts they cannot see; the aim is not to load expert opinion onto every citizen’s shoulders but to “push that burden away from him towards the responsible administrator” [[cite:lippmann-1922]]. But Schudson also admits that Lippmann trusted experts too much: “Yes, of course” [[cite:schudson-2008-lippmann-dewey]].",
+      "question": {
+        "id": "assump-lippmann-q",
+        "type": "mcq",
+        "prompt": "A doctor can form views on matters outside medicine, for example international trade agreements, only from the news. According to Lippmann’s sentence “every one of us is an outsider”, what is the doctor’s situation?",
+        "options": [
+          "A lack of intelligence: the doctor is uneducated on these matters.",
+          "A matter of position: on this subject the doctor too is an outsider, with limited time, attention and specialist equipment.",
+          "It applies only to people who do not read newspapers.",
+          "It proves that experts should govern the people."
+        ],
+        "answer": 1,
+        "explain": "For Lippmann, being an outsider is not a personal defect but a limit tied to position: everyone is an outsider in most fields, doctors included. The first option is exactly the “the people are stupid” reading and does not fit the text. The third option ties the limit to newspaper reading, while it comes from time, attention and equipment. The fourth option drags Lippmann towards elitism, but the experts he proposes do not govern; they supply facts to decision-makers."
+      }
+    },
+    {
+      "id": "assump-phantom",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "text",
+      "title": "The spectator who arrives in the middle of the third act",
+      "body": "In 1925 Lippmann went further. In the opening image of *The Phantom Public* the private citizen is like a deaf spectator in the back row, who ought to keep his mind on the mystery on stage but cannot manage to stay awake [[cite:lippmann-1925-phantom-public]]. In the sixth chapter he speaks plainly: the belief in a public that directs the course of events he answers with “a mere phantom”. The public is not a fixed body of individuals; it is those persons who are interested in an affair and can affect it only by supporting or opposing the actors [[cite:lippmann-1925-phantom-public]].\n\nLook at how he imagines this public: it arrives in the middle of the third act and leaves before the last curtain, staying just long enough to decide who is the hero and who the villain [[cite:lippmann-1925-phantom-public]]. So the public’s job is not to write policy or judge the details but to intervene occasionally in the actors’ work: to take sides for or against.\n\nThis is not giving up on democracy. Dewey described the book as “a statement of faith in a pruned and temperate democratic theory” (as Schudson quotes him) [[cite:schudson-2008-lippmann-dewey]]. Lippmann does not abandon democracy; he lowers what we *expect* of it.",
+      "question": {
+        "id": "assump-phantom-q",
+        "type": "mcq",
+        "prompt": "A voter says she will not vote for the governing party, influenced only by corruption stories, without knowing the technical details of a municipal tender. How does the notion of the public in *The Phantom Public* read this behaviour?",
+        "options": [
+          "As an example of the public scrutinising the tender in detail.",
+          "As the public taking sides for or against the actors, that is, intervening from outside.",
+          "As an example of the public writing policy.",
+          "As proof that the public has disappeared."
+        ],
+        "answer": 1,
+        "explain": "Lippmann’s public judges the actors on stage, not the details: it takes sides for or against an actor and intervenes from outside. The first and third options load onto the public jobs Lippmann leaves out of its remit (detailed scrutiny, writing policy). The fourth option takes the word “phantom” literally: Lippmann does not say the public does nothing, he says there is no fixed public steering events."
+      }
+    },
+    {
+      "id": "how-lippmann",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "How does an event reach our heads? (according to Lippmann)",
+      "body": "1. **The event is far away.** The political world is “out of reach, out of sight, out of mind”. It has to be explored, reported and imagined [[cite:lippmann-1922]].\n2. **Access narrows.** In the introduction Lippmann lists the limits: artificial censorships, limited social contact, the small amount of time and attention in a day, events compressed into very short messages, the difficulty of making a small vocabulary express a complicated world, and the fear of facing facts that threaten the established routine (chapters II–V unpack these) [[cite:lippmann-1922]].\n3. **News arrives drop by drop.** What comes from outside is, in Lippmann’s phrase, a “trickle of messages”: a thin leak of messages.\n4. **Stereotypes fill the gap.** We define first and see afterwards; the stereotype our culture supplies completes the missing piece (chapter VI).\n5. **Stereotypes fuse with interests.** The pattern of stereotypes is identified with the person’s own interests (the “interests” part of the book, XI–XII).\n6. **The group acts on the picture.** The consequences of behaviour appear not in the pseudo-environment where the picture is, but in the real environment where the action takes place.\n7. **Collision.** The mismatch between picture and world ends in the sensation of “butting one’s head against a stone wall”: the price of the error is paid in the real environment [[cite:lippmann-1922]].\n\nThis is not an injection: in front of the message there are limits of access, behind it stereotypes and interests, and at the end the real environment.",
+      "question": {
+        "id": "how-lippmann-q",
+        "type": "order",
+        "prompt": "Put the links of Lippmann’s account in order.",
+        "items": [
+          "Access to a distant event is limited",
+          "The short messages that arrive are completed by stereotypes in the head",
+          "The completed picture fuses with the person’s own interests",
+          "The person or group acts on the picture",
+          "The consequences appear in the real environment and the mismatch is felt"
+        ],
+        "explain": "The order: first the limits of access, then completion by stereotypes, then fusion with interests, then acting on the picture, and finally the collision in the real environment. The most common mistake is to put the consequences first: for Lippmann behaviour is steered from the pseudo-environment, but the consequences are paid in the real environment; that is why the error is usually visible last."
+      }
+    },
+    {
+      "id": "how-propaganda",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Lasswell’s streetcar",
+      "body": "Lasswell describes how propaganda works not as an abstract “effect” but as a *to-do list*. The steps we follow in the book are these [[cite:lasswell-1927-propaganda]]:\n\n1. **Choose the aim.** There are four strategic aims: to mobilise hatred against the enemy; to preserve the friendship of allies; to preserve the friendship and, if possible, procure the co-operation of neutrals; to demoralise the enemy.\n2. **Know the audience.** Every special group tends to make the war over in its own image; the propagandist’s task is usually “to facilitate, rather than to fabricate”.\n3. **Fit the suggestion to the group.** You can tell Protestants that the war is a great Protestant crusade and Catholics that it is a great Catholic movement; but to mix the two appeals to the same audience would be absurd. Self-contradiction in the same context is avoided.\n4. **Find the carrier.** People riding a streetcar can be influenced by placards inside the car, by posters on billboards along the track, by the newspapers they read, by conversations they overhear, by leaflets slipped into their hands and by street demonstrations at halting places.\n5. **Put yourself in the audience’s place.** The soundest method is to identify yourself imaginatively with the people to be influenced and to explore every avenue of approach to their attention; after that each situation is tested for its own possibilities.",
+      "question": {
+        "id": "how-propaganda-q",
+        "type": "mcq",
+        "prompt": "A propaganda bureau hands the same factory workers two leaflets: one in the morning saying “the war is the rich men’s business”, one in the evening saying “the war is the common cause of all classes”. Which principle in Lasswell’s book is broken?",
+        "options": [
+          "The principle of choosing one of the four strategic aims.",
+          "The principle of not giving contradictory messages, in the same context, to the same or closely connected groups.",
+          "The principle of using the streetcar as a carrier.",
+          "The principle of working on the enemy’s morale."
+        ],
+        "answer": 1,
+        "explain": "Lasswell writes that propaganda must avoid self-contradiction in the same context when addressed to the same group or to groups in close contact; the Protestant and Catholic example rests on exactly this. Since the leaflets go to the same workers, the second option is correct. The first option catches the eye, but the problem is not that no aim was chosen; it is that two opposed messages reach the same audience. The third and fourth options are details unrelated to the example."
+      }
+    },
+    {
+      "id": "deep-technician",
+      "section": "how-it-works",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: Lasswell’s “technician” propagandist",
+      "body": "“Propagandist as technician” is this lesson’s shorthand, not Lasswell’s own term [[concept:propagandist-technician]]. The sentences behind it are his, though: the book’s very title is *Propaganda Technique*, and its opening pages speak of a new profession [[cite:lasswell-1927-propaganda]].\n\n- “Propaganda has become a profession”, he says; he writes that the modern world is busy developing a corps of men who do nothing but study the ways and means of changing minds or binding minds to their convictions, and he expects governments to rely increasingly on professional propagandists.\n- He quotes one author’s (Wreford’s) description of the “expert propagandist”: he decides which public is likely to be sympathetic to the interests he represents, selects the aspects of those interests best calculated to appeal to that public, and then presents them attractively.\n- “The working propagandist” needs the precise information the advertising literature holds on the colours and sizes of posters; but Lasswell calls it at once indispensable and “ancillary”.\n\nThis is a technical view; but the book is not only a manual. Towards the end Lasswell writes that illuminating the mechanisms of propaganda will expose our prevailing dogmas of sovereignty, democracy, honesty and the sanctity of individual opinion to the most searching criticism; he even says that the study of propaganda may make it no longer possible for an Anatole France to observe with truth that democracy (and, indeed, all society) “is run by an unseen engineer” [[cite:lasswell-1927-propaganda]].\n\n**Our interpretation:** the “technician” reading brings out the instrumental side of the book, the “critical” reading its second side. Both are in the text."
+    },
+    {
+      "id": "ev-goettingen",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "story",
+      "title": "Forty experts, twenty seconds",
+      "body": "To show how stereotypes fill the eye, Lippmann tells of an experiment he takes from a French book cited by another author. A congress of psychologists is meeting in Göttingen. Somewhere near the hall there is a masked ball. Suddenly the door flies open: a clown rushes in, madly pursued by a man with a revolver. They fight in the middle of the room, the clown falls, the man fires, and both rush out. The whole incident lasts about twenty seconds [[cite:lippmann-1922]].\n\nThe president asks everyone to write a report at once, since there will certainly be a judicial inquiry. Forty reports come in. Only one contains less than 20 per cent of mistakes on the principal facts; fourteen have 20 to 40 per cent, twelve 40 to 50, thirteen more than 50. In twenty-four accounts about 10 per cent of the details are pure invention; in ten accounts the proportion is higher, in six lower. Then the surprise: the whole scene had been arranged and even photographed in advance [[cite:lippmann-1922]].\n\nLippmann’s reading: these people are not lying; they *saw* a scene that did not take place, because they had a ready-made pattern of a brawl in their heads and those images flickered before their eyes [[cite:lippmann-1922]]. That is what he means by a stereotype.\n\nOne limit: this is a single staged event, reported at second hand. Lippmann uses it not as a measurement but as an example that brings the concept to life. Let us read it that way too.",
+      "question": {
+        "id": "ev-goettingen-q",
+        "type": "mcq",
+        "prompt": "Which is the most reasonable assessment of how strong the Göttingen account is as evidence?",
+        "options": [
+          "The observers deliberately lied; the account shows people’s dishonesty.",
+          "Lippmann argues that the observers saw their own stereotypes; but the account is a single staged event reported at second hand: it brings the concept to life without proving it generalises.",
+          "The experiment proves that trained observers can never be reliable.",
+          "Because the scene was staged in advance, the experiment is worthless."
+        ],
+        "answer": 1,
+        "explain": "Lippmann bases his reading on the concept of the stereotype; but what we have is one event reported from a French source, so it is an example, not a measurement. The first option assumes intent; Lippmann says the opposite: the observers were not lying, they saw what did not happen. The third option draws an absolute conclusion from one event. The fourth is wrong too: staging the event is how the reports can be compared with a known reality; it does not make the experiment worthless."
+      }
+    },
+    {
+      "id": "ev-records",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "text",
+      "title": "Two books, two kinds of material",
+      "body": "Neither book was written in a laboratory; their materials differ.\n\n**Lippmann.** Examples, footnotes on the psychology of witnesses, and scenes from history. About Clemenceau, one of the great men who gathered in Paris to settle the peace, he asks: did he have in his mind images of the Europe of 1919, or the “German type” he had learned to see since 1871? [[cite:lippmann-1922]]. So the evidence is not data that measures a generalisation, but a case that invites the reader to recognise the stereotype.\n\n**Lasswell.** Documents. The note on bibliography divides the material into headings; under “the technique of influencing international attitudes, during and since the war” it lists memoirs, wartime publications and Senate hearings: the memoirs of Bernstorff and Ludendorff, Creel’s *How We Advertised America* (1920) and the 1919 US Military Intelligence booklet *Propaganda in its Military and Legal Aspects* (the publication from which the “acid” quotation of the first card is taken). [[cite:lasswell-1927-propaganda]] In the text he writes that if “methods of prior testing” can be devised the propagandist will be more accurate; this points to the fact that such testing did not yet exist (our reading) [[cite:lasswell-1927-propaganda]].\n\n**Afterwards.** Later studies did test Lippmann’s suspicion: McCombs and Shaw’s 1972 article used his term, and Iyengar and colleagues’ 1982 experiments reported that they supported the suspicion [[cite:mccombs-shaw-1972]] [[cite:iyengar-peters-kinder-1982]]. Details in [[lesson:agenda-setting]].",
+      "question": {
+        "id": "ev-records-q",
+        "type": "tf",
+        "prompt": "In his 1927 book Lasswell measured the effect of propaganda with surveys of audiences.",
+        "answer": false,
+        "explain": "The book’s note on bibliography shows that the material was printed documents, memoirs and hearings; and in the text he writes that the result would improve if methods of prior testing could be devised. So the book is an analysis of documents, not a measurement of audiences. The trap is to assume that every classic book about “propaganda” contains audience experiments."
+      }
+    },
+    {
+      "id": "crit-debate",
+      "section": "critique",
+      "layer": "core",
+      "kind": "myth",
+      "title": "A duel that never took place",
+      "body": "**What people assume.** In the 1920s Lippmann and Dewey were two rivals locked in an exchange of articles: one an elitist, the other a democrat.\n\n**What the record says.** According to Schudson, the “debate” consists of the following: Dewey’s favourable reviews in *The New Republic* of Lippmann’s *Public Opinion* (1922) and *The Phantom Public* (1925), and *The Public and Its Problems*, delivered as lectures in 1926 and published in 1927. To Schudson’s knowledge Lippmann never replied to Dewey afterwards, and contemporaries did not read the reviews as a notable confrontation [[cite:schudson-2008-lippmann-dewey]]. Those who made it a “debate” afterwards were the liberal intellectuals of the 1980s and 1990s, looking for an origin story at a time of disillusion with democracy; James Carey’s influence was large [[cite:schudson-2008-lippmann-dewey]]. Jansen says the same: the two were not opposing sides in a great public debate; the conversation about the “phantom” public was reframed as a conflict in the early 1980s, and that frame rests on a casual rhetorical trope, not on documentation [[cite:jansen-2009-phantom-conflict]].\n\nDewey’s own attitude was not a duel either: in 1922 he praises the book; in 1925 he receives *The Phantom Public* favourably but critically, and hints that the democratic theory Lippmann attacked may be a caricature [[cite:schudson-2008-lippmann-dewey]].",
+      "question": {
+        "id": "crit-debate-q",
+        "type": "mcq",
+        "prompt": "According to Schudson’s 2008 article, which is the most accurate statement about the “Lippmann–Dewey debate”?",
+        "options": [
+          "In the 1920s the two authors conducted an open debate by publishing replies to each other.",
+          "The “debate” consisted of Dewey’s reviews and his 1927 book; Lippmann did not reply, and the “debate” frame was constructed in the 1980s–90s.",
+          "Dewey only criticised Lippmann’s books.",
+          "The debate rests on letters discovered in the 1980s."
+        ],
+        "answer": 1,
+        "explain": "Schudson’s finding: the “debate” consists of Dewey’s favourable reviews plus the 1927 book, Lippmann did not respond, and the frame is a product of the 1980s–90s. The first option is exactly that frame. The third option leaves out that Dewey’s reviews were favourable. The fourth is invented: what we have is not a story based on letters but a narrative constructed later."
+      }
+    },
+    {
+      "id": "crit-dewey",
+      "section": "critique",
+      "layer": "core",
+      "kind": "text",
+      "title": "Dewey’s reply: not a phantom, an eclipse",
+      "body": "Dewey did not reject Lippmann; he acknowledged his debt. A footnote in his 1927 book says he owes Lippmann’s two books a debt not only on one point but for ideas [[cite:dewey-1927-public-problems]]. He shares the diagnosis: the public seems to be lost, it is “certainly bewildered”. But the name he gives it differs: the public is not a phantom, it is in eclipse: “the Public will remain in eclipse”, and the way out is “Communication can alone create a great community” [[cite:dewey-1927-public-problems]]. So the remedy is not to shrink the public but to repair communication.\n\nOn experts the two men are closer than you might think. Dewey defines the job of expertise not as making and executing policy but as “discovering and making known” the facts on which decisions depend [[cite:dewey-1927-public-problems]]. Lippmann’s intelligence bureaus also produce facts, not policy. The difference is in *who* receives the facts: in Lippmann, the decision-makers. In Dewey the essential need is “the improvement of the methods and conditions of debate, discussion and persuasion”; that is “the problem of the public” [[cite:dewey-1927-public-problems]]. Not everyone has to do research; it is enough that people can judge the bearing of the knowledge experts supply on their own concerns.\n\nWhat they share: neither takes public opinion to be knowledgeable by itself. Where they part: one looks for the solution in improving the work of the *insiders*, the other in improving *the information that reaches the public*.",
+      "question": {
+        "id": "crit-dewey-q",
+        "type": "mcq",
+        "prompt": "One city sets up an expert bureau that presents water-quality measurements only to the council members who will decide (A). Another city publishes the same measurements in plain reports and holds open meetings where citizens can discuss them (B). Which arrangement is closer to Dewey’s emphasis?",
+        "options": [
+          "A, because experts should decide.",
+          "B, because the essential need is to improve the conditions of debate and persuasion, and citizens must be able to judge the bearing of the findings.",
+          "Both, because Dewey gives experts no role at all.",
+          "Neither, because Dewey argues that the public is a phantom."
+        ],
+        "answer": 1,
+        "explain": "Dewey expects facts from experts and wants the public to be able to judge how those facts bear on its own concerns; the way to that is better conditions of discussion and persuasion. A is closer to Lippmann’s intelligence bureau: the facts go to decision-makers. The third option assumes Dewey gives experts no role, but he accepts them as finders of facts. The fourth attributes the word “phantom” to Dewey; that word is Lippmann’s, and Dewey’s answer is “eclipse”."
+      }
+    },
+    {
+      "id": "crit-frame",
+      "section": "critique",
+      "layer": "core",
+      "kind": "myth",
+      "title": "How do the two books connect to the “hypodermic” story?",
+      "body": "**What people assume.** As you saw in [[lesson:magic-bullet]], textbooks tell the 1920s–30s as “first everyone thought the media very powerful”, and Lippmann and Lasswell are two of the examples most often given for that story: the media act directly on the receiver.\n\n**What the record says.** We do not repeat the bullet story here; we only add three things that come from *inside* the two books.\n\n1. **Lippmann’s mechanism is not an injection.** In front of the message there are limits of access, behind it stereotypes and interests, and at the end the real environment: people act on the pseudo-environment but the consequences appear in the real environment [[cite:lippmann-1922]].\n2. **Lasswell’s weapon is “passive and contributory”.** The propagandist’s job is usually to facilitate the group’s existing inclinations [[cite:lasswell-1927-propaganda]].\n3. **Even so, the image of “propaganda is very powerful” really was in circulation.** Like the crustaceans in the bowl. According to Parsons, the suggestion doctrine was one of the dominant theories of media influence before the war [[cite:parsons-2021]]; Pooley calls the “powerful to limited” story “textbook boilerplate” [[cite:pooley-2006]]; Sproule examines why reading the interwar propaganda critics as “magic bullet” theorists is historically mistaken [[cite:sproule-1989]].\n\n**Our interpretation (not documented):** the label “founding books” sticks in hindsight; the two books’ own sentences describe a strong but conditional effect.",
+      "question": {
+        "id": "crit-frame-q",
+        "type": "tf",
+        "prompt": "The mechanism in Lippmann’s account is that the message acts directly and unobstructed on the receiver.",
+        "answer": false,
+        "explain": "In Lippmann’s account the message passes through limits of access and stereotypes, fuses with the person’s interests and has its consequences tested in the real environment. “Direct and unobstructed” operation is the hypodermic caricature drawn by textbooks; it is not the logic of Lippmann’s own book."
+      }
+    },
+    {
+      "id": "deep-reputation",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: Lippmann’s shifting reputation",
+      "body": "Lippmann’s fame has a curve of its own; we can trace it thanks to Schudson and two other studies [[cite:schudson-2008-lippmann-dewey]] [[cite:jansen-2009-phantom-conflict]] [[cite:tell-2013-reinventing-lippmann]].\n\n- **Founding book.** In 1982 Carey calls *Public Opinion* “the founding book in American media studies” (as Schudson quotes him) [[cite:schudson-2008-lippmann-dewey]].\n- **Chief exhibit.** In Carey’s 1987 essay Lippmann is the chief example in the story of how the public was “conceptually evacuated”; according to Schudson, Bender (1987), Lasch (1990) and Fallows (1996) read Lippmann in a similar way [[cite:schudson-2008-lippmann-dewey]].\n- **Objection.** Schudson (2008) argues that Lippmann’s elitism did not make him anti-democratic, that he saw experts as advisers to decision-makers rather than decision-makers themselves; but he also admits that Lippmann trusted experts too much [[cite:schudson-2008-lippmann-dewey]].\n- **Folklore.** Jansen (2009) calls the “Lippmann–Dewey debate” “disciplinary folklore”, the discipline’s own folklore [[cite:jansen-2009-phantom-conflict]]. Tell (2013) writes that the 1980s invention of Lippmann as an anti-democrat helped build a communication-centred cultural studies, and that a recent “reinvention” may help us rethink expertise, democracy and communication [[cite:tell-2013-reinventing-lippmann]].\n\nA caution: of Jansen and Tell we read only the abstracts; we could not reach the full texts. Schudson we read in full."
+    },
+    {
+      "id": "deep-consent-phrase",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: “consent”, three verbs, three authors",
+      "body": "Two phrases are easily confused: “manufacture of consent” and “engineering of consent”. We could not confirm the idea that Bernays used “manufacture of consent” earlier; the record says this:\n\n- **Lippmann, 1922.** In the text we read, the phrase “the manufacture of consent” occurs once, in the fourth section of chapter XV; the same paragraph also says “creation of consent” and “create consent” [[cite:lippmann-1922]].\n- **Bernays, 1947.** The title of his article in *The Annals* is “The Engineering of Consent”; he calls it “the very essence of the democratic process” [[cite:bernays-1947-engineering-consent]]. In the online transcriptions we read, neither “manufacture of consent” nor Lippmann’s name appears. (We did not go through Bernays’s 1923 book or his 1928 *Propaganda* line by line, so we do not claim he never used the phrase.)\n- **Herman and Chomsky, 1988.** Their book is called *Manufacturing Consent* [[cite:herman-chomsky-1988-manufacturing-consent]]; in a talk in 1989 Chomsky says that Lippmann invented the phrase [[cite:chomsky-1989-manufacturing-consent-talk]]. In Turkish the book is known as *Rızanın İmalatı* [[cite:gadimov-2015-riza-imalati]].\n\nSo the order is: manufacture (Lippmann) → engineering (Bernays) → manufacturing (Herman and Chomsky). **Our reading:** “manufacture” suggests a factory, “engineering” a profession; both treat consent like a product. Use this difference in discussion, not in an exam."
+    },
+    {
+      "id": "today-feeds",
+      "section": "today",
+      "layer": "core",
+      "kind": "text",
+      "title": "The screen you scroll is also an environment",
+      "body": "Carrying Lippmann’s framework to the present does not mean saying “social media is bad”; it means asking three questions again: Who is reporting the distant event? Which limits narrow your access? Which stereotype in your head is filling the gap?\n\nThere are two documented pieces of information. First: Iyengar, Peters and Kinder’s two experiments showed that television news profoundly affects which problems viewers take to be important; the authors presented this as sustaining Lippmann’s suspicion of half a century earlier [[cite:iyengar-peters-kinder-1982]]. Second: a study of 4,262 trending topics on Twitter found that more than 85 per cent of the topics were “headline news” or “persistent news”, that is, news-related [[cite:kwak-et-al-2010]]. So most of the agenda on your screen is an echo of a news picture drawn by somebody else.\n\n(A hypothetical try-out.) In your feed there is a ten-second video of an event in a distant city. Ask the three questions: Who filmed it, and how do you know? Which context can you not see? Into which ready-made pattern did you place the footage?\n\n**Our interpretation (not documented):** the feed algorithm adds one more selector to the limits Lippmann listed (time, attention, speed). So the gap between the pseudo-environment and the real environment does not narrow by itself; it may be only *who draws the picture* that changes.",
+      "question": {
+        "id": "today-feeds-q",
+        "type": "mcq",
+        "prompt": "A study finds that more than 85 per cent of the topics on Twitter’s “trending” list are news-related. What is the most cautious reading in Lippmann’s framework?",
+        "options": [
+          "It shows that Twitter has abolished news.",
+          "Much of the agenda on the screen may be the circulation of a picture drawn by news production; it may be multiplying the old pseudo-environment rather than creating a new one (our inference, not proven).",
+          "It shows that users do not believe the news.",
+          "It shows that stereotypes have ended."
+        ],
+        "answer": 1,
+        "explain": "The finding says that most trending topics come from news; the inference “the screen is an echo of the news picture” is reasonable but it is our interpretation, not the study’s result. The first option turns the finding upside down: the topics turned out to be news-based. The third option speaks about belief, and the finding is not about belief. The fourth says stereotypes ended; the finding says nothing about stereotypes."
+      }
+    },
+    {
+      "id": "today-lab-news",
+      "section": "today",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Lab: the pseudo-environment in the Mars “panic”",
+      "body": "Put on Lippmann’s glasses for a documented news case: the 1938 Mars broadcast you read about in [[lesson:magic-bullet]]. Ask three questions.\n\n1. **What was the picture?** The newspapers’ “panic” story the next day. According to Pooley and Socolow, the papers had a stake in using that story against radio [[cite:pooley-socolow-2013-slate]].\n2. **What was the real environment?** According to the same source, in Hooper’s national survey only 2 per cent of 5,000 households were listening to the programme; six hospitals in New York reported no case brought in because of the broadcast [[cite:pooley-socolow-2013-slate]].\n3. **Which stereotype filled the gap?** **Our interpretation:** the stereotype of “the crowd that hears the radio and panics”. A news report that does not place the reader in that pattern may look less like “news”.\n\nThen ask yourself: In which case is the same pattern at work today? (Try it with a documented case of your own choosing; find two independent sources.)\n\n**What does it not prove?** The exercise does not say that people were never frightened; as you saw in the magic-bullet lesson, some listeners really were frightened. *Showing* the gap between pseudo-environment and real environment is not proving the gap’s cause; nor does it prove that the papers invented anything on purpose: in Lippmann’s words, fiction does not mean lies.",
+      "question": {
+        "id": "today-lab-news-q",
+        "type": "mcq",
+        "prompt": "In the lab a friend writes “the papers made up the panic”. Given Lippmann’s warning that “fictions are not lies”, which is the most accurate correction?",
+        "options": [
+          "Leave it as it is; newspapers always lie.",
+          "The picture the papers drew may misrepresent reality; that need not mean deliberate invention, and intent needs separate evidence.",
+          "Write that there was no panic at all.",
+          "Add that stereotypes occur only in newspapers."
+        ],
+        "answer": 1,
+        "explain": "A pseudo-environment is a representation; it can be incomplete, slanted or late, and showing that it was made on purpose is a separate claim. The first option assumes intent. The third is excessive: some listeners were frightened. The fourth locks stereotypes into newspapers; for Lippmann a stereotype is in everybody’s head."
+      }
+    },
+    {
+      "id": "today-lab-consent",
+      "section": "today",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Lab: whose sentence is “manufacture of consent”?",
+      "body": "You have three short sources.\n\n1. **Lippmann’s 1922 paragraph** (chapter XV, fourth section): “the manufacture of consent is capable of great refinements”. Creating consent is an old art, but it now rests on analysis; persuasion has become “a self-conscious art and a regular organ of popular government”. He ends the point with “None of us begins to understand” the consequences [[cite:lippmann-1922]].\n2. **Chomsky’s 1989 talk:** he says Lippmann invented the phrase and describes him as considering it “a worthwhile revolution” [[cite:chomsky-1989-manufacturing-consent-talk]].\n3. **Herman and Chomsky (1988):** they made the same phrase the title of their book; you will meet the book’s propaganda model in [[lesson:propaganda-model]] [[cite:herman-chomsky-1988-manufacturing-consent]].\n\n**The exercise (15 minutes).**\n- a) Read Lippmann’s paragraph slowly (the text of *Public Opinion* is openly available); next to each sentence write “description” or “recommendation”.\n- b) Put Chomsky’s summary beside it: does “a worthwhile revolution” appear in the paragraph? Do the remedy elsewhere in the book (organized intelligence, XXV–XXVIII) support this reading or strain it?\n- c) Write in your own sentence: did Lippmann write the manufacture of consent as a *warning* or as a *prescription*?\n\n**Our reading (open to debate):** the paragraph is mainly descriptive; it says neither “wonderful” nor “disaster”. But Lippmann’s trust in experts is real too (Schudson’s caution). There is no right answer, only the document.",
+      "question": {
+        "id": "today-lab-consent-q",
+        "type": "tf",
+        "prompt": "In the 1922 paragraph Lippmann also writes that nobody yet grasps the consequences of “creating consent”.",
+        "answer": true,
+        "explain": "The paragraph contains the sentence “None of us begins to understand the consequences”: Lippmann says a revolution is taking place but adds that its consequences are not understood. The thought that would lead you to the wrong answer is that the paragraph is praise or a recommendation; the text itself does neither openly."
+      }
+    },
+    {
+      "id": "exam-patterns",
+      "section": "exam",
+      "layer": "core",
+      "kind": "text",
+      "title": "This is how exams ask it",
+      "body": "**Typical question patterns**\n\n- “Who owns the pictures in our heads and the pseudo-environment?” → Lippmann, *Public Opinion*, 1922.\n- “Where does ‘manufacture of consent’ occur?” → Lippmann, 1922. As a book title: Herman and Chomsky, 1988 (Turkish: *Rızanın İmalatı*).\n- “Who defined propaganda as managing opinion through significant symbols?” → Lasswell, 1927.\n- “Is the public a phantom, or in eclipse?” → Lippmann 1925 / Dewey 1927.\n\n**Tempting wrong answers**\n\n- Counting Lippmann as the founder of agenda-setting → he is the intellectual ground ([[lesson:agenda-setting]]).\n- Mixing the 1927 book with the 1948 article → *Propaganda Technique* is 1927; the “who, what, in which channel…” formula is 1948 ([[concept:lasswell-formula]]).\n- Giving “engineering of consent” to Lippmann → Bernays, 1947.\n- Thinking Lasswell used the “hypodermic needle” phrase in 1927 → [[lesson:magic-bullet]].\n- The name “propaganda model” occurs in two places: in Turkish sources it is also a name for the hypodermic needle model [[cite:yaylagul-2006]]; Herman and Chomsky’s propaganda model is something else ([[lesson:propaganda-model]]).\n\n**Years:** 1922 Public Opinion; 1925 Phantom Public; 1927 Lasswell and Dewey; 1947 Bernays; 1988 Herman and Chomsky.\n\n**Alternative names (in Turkish sources):** kamuoyu (public opinion); sözde çevre (pseudo-environment; sahte çevre in one publisher’s blurb); stereotip (kalıp yargı); rızanın imalatı (rıza üretimi). In an exam, write the name exactly as your source uses it.",
+      "question": {
+        "id": "exam-patterns-q",
+        "type": "mcq",
+        "prompt": "In an exam the question “Which of the following does NOT belong to Lippmann?” has these options: pseudo-environment; stereotype; the manufacture of consent; the engineering of consent. Which is the correct option?",
+        "options": [
+          "Pseudo-environment",
+          "Stereotype",
+          "The manufacture of consent",
+          "The engineering of consent"
+        ],
+        "answer": 3,
+        "explain": "“Engineering of consent” is the title of Bernays’s 1947 article. The other three are in Lippmann’s 1922 book. The most common mistake is to mix up the verbs “manufacture” and “engineering”: the first is Lippmann’s, the second Bernays’s."
+      }
+    },
+    {
+      "id": "deep-turkish-terms",
+      "section": "exam",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: kamuoyu, kanaat, rıza in Turkish",
+      "body": "The words of this lesson hide surprises in Turkish.\n\n- **Kamuoyu.** The Turkish Language Association’s dictionary defines it as “the general opinion of the people about a subject” and lists the older equivalents halkoyu, amme efkârı, umumi efkâr and efkârıumumiye [[cite:tdk-sozluk-2026]]. The catch: Lippmann’s English distinguishes *public opinions* (plural, small letters) from *Public Opinion* (capital letters); Turkish *kamuoyu* is a collective singular, so the distinction disappears. Our solution: say “kamuoyları” and “büyük harfli Kamuoyu” (public opinions and Public Opinion in capital letters).\n- **Kanaat.** The dictionary’s first sense is “being content with what one has”; the fourth is “opinion” (görüş) [[cite:tdk-sozluk-2026]]. In these lessons *kanaat önderi* corresponds to opinion leader; Kutlu (2019) uses *kanaat iklimi* for climate of opinion [[cite:kutlu-2019]]. So *kanaat* is at once “contentment” and “opinion”.\n- **Rıza.** In the dictionary: “consenting; onam” [[cite:tdk-sozluk-2026]]. The book title is *Rızanın İmalatı* [[cite:gadimov-2015-riza-imalati]]; we also come across “rıza üretimi” but could not confirm that it is established at the same level.\n- **Sözde çevre / sahte çevre, stereotip.** In this course we write “sözde çevre” (for consistency across lessons); a blurb for the Turkish edition says “sahte çevre” and “stereotip” [[cite:kitapyurdu-kamuoyu-lippmann]].\n- **Propagandacı.** In the dictionary: “a person who does propaganda; propagandist” [[cite:tdk-sozluk-2026]]. “Teknisyen propagandacı” (propagandist as technician) is our own shorthand.\n- **Hayalet kamu.** We found no Turkish rendering of *The Phantom Public*; “hayalet kamu” is our own translation (*kamu* = *the public*, as we use it for Dewey’s texts)."
+    },
+    {
+      "id": "summary",
+      "section": "summary",
+      "layer": "core",
+      "kind": "summary",
+      "title": "Summary card",
+      "body": "- **Two books, two questions:** Lippmann (1922): why do the pictures in our heads not fit the world? Lasswell (1927): how does somebody manage those pictures?\n- **Lippmann:** the pseudo-environment (fiction, not lies), the stereotype (we define first and see afterwards), Public Opinion in capital letters (pictures turned into action), “manufacture of consent” (chapter XV), organized intelligence (the remedy).\n- **The phantom public (1925):** the public is not a fixed body; it takes sides for or against the actors and intervenes occasionally.\n- **Lasswell:** propaganda = managing opinion through significant symbols; not changing objective conditions; one of three instruments (military, economic, propaganda); “passive and contributory”; “propaganda has become a profession” (the propagandist as technician is our shorthand).\n- **Dewey (1927):** the public is not a phantom but in eclipse; the remedy is to improve communication and the conditions of debate; experts find the facts, they do not make the policy.\n- **The “Lippmann–Dewey debate”:** Dewey’s reviews and his 1927 book; Lippmann did not reply; the frame was constructed in the 1980s–90s (Schudson, Jansen).\n- **Effect:** both books describe a conditional effect, strong but not an injection; the “hypodermic” label came later ([[lesson:magic-bullet]]).\n- **Exam:** 1922 / 1925 / 1927 / 1947 / 1988; manufacture (Lippmann) ≠ engineering (Bernays); pseudo-environment ≠ stereotype.",
+      "question": {
+        "id": "summary-q",
+        "type": "tf",
+        "prompt": "In both books of this lesson the audience is described as a passive target that takes in the message like an injection.",
+        "answer": false,
+        "explain": "In both books the audience is equipped with stereotypes, interests and existing group inclinations: in Lippmann the message passes through stereotypes and limits of access and is tested in the real environment; in Lasswell the propagandist usually facilitates a group’s existing inclinations. The “passive target” story is the textbooks’ caricature."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q-match",
+      "type": "match",
+      "prompt": "Match each concept or phrase with its source.",
+      "pairs": [
+        [
+          "Pseudo-environment and the pictures in our heads",
+          "Lippmann, 1922"
+        ],
+        [
+          "The public is “a mere phantom”",
+          "Lippmann, 1925"
+        ],
+        [
+          "Propaganda: managing opinion through significant symbols",
+          "Lasswell, 1927"
+        ],
+        [
+          "The public is “in eclipse”",
+          "Dewey, 1927"
+        ],
+        [
+          "The engineering of consent",
+          "Bernays, 1947"
+        ]
+      ],
+      "explain": "The picture and the pseudo-environment belong to Lippmann’s 1922 book; the phantom public to his 1925 book; the definition of propaganda to Lasswell’s 1927 book; the image of eclipse to Dewey’s 1927 book; “engineering of consent” to Bernays’s 1947 article. The pairs most often confused: phantom (Lippmann) and eclipse (Dewey), and manufacture (Lippmann) and engineering (Bernays)."
+    },
+    {
+      "id": "q-order",
+      "type": "order",
+      "prompt": "Put these publications in order of publication, oldest first.",
+      "items": [
+        "Lippmann: Public Opinion",
+        "Lippmann: The Phantom Public",
+        "Lasswell: Propaganda Technique in the World War",
+        "Bernays: “The Engineering of Consent”",
+        "Herman and Chomsky: Manufacturing Consent"
+      ],
+      "explain": "The order: Public Opinion (1922), The Phantom Public (1925), Propaganda Technique in the World War (1927), “The Engineering of Consent” (1947), Manufacturing Consent (1988). Memory hook: picture, phantom, technique; then two “consent” names: Bernays 25 years after Lippmann, Herman and Chomsky 66 years after."
+    },
+    {
+      "id": "q-cloze",
+      "type": "cloze",
+      "prompt": "Fill in the blanks.",
+      "text": "According to Lippmann, a person responds not to the real environment but to the {{1}} in his head; this representation is called the {{2}} environment. According to Lasswell, propaganda is the management of opinions and attitudes through {{3}}.",
+      "blanks": [
+        {
+          "options": [
+            "picture",
+            "law",
+            "measurement"
+          ],
+          "answer": 0
+        },
+        {
+          "options": [
+            "pseudo",
+            "natural",
+            "economic"
+          ],
+          "answer": 0
+        },
+        {
+          "options": [
+            "the direct manipulation of significant symbols",
+            "changing objective conditions",
+            "military pressure"
+          ],
+          "answer": 0
+        }
+      ],
+      "explain": "In Lippmann behaviour responds to the picture in the head (the pseudo-environment), not to the environment itself. In Lasswell’s definition propaganda manages opinion through symbols; changing objective conditions or military pressure are other instruments. The trap is to choose “changing objective conditions” in the third blank: Lasswell leaves that outside propaganda."
+    },
+    {
+      "id": "q-tf",
+      "type": "tf",
+      "prompt": "The phrase “manufacture of consent” was first used in Herman and Chomsky’s 1988 book.",
+      "answer": false,
+      "explain": "The phrase occurs in Lippmann’s 1922 *Public Opinion*; Herman and Chomsky made it the title of their book, and Chomsky said Lippmann invented the phrase. The trap is to think the book title gave birth to the phrase. (Bernays’s 1947 phrase is different: “engineering of consent”.)"
+    },
+    {
+      "id": "q-case",
+      "type": "case",
+      "scenario": "A district newspaper reports on a distant dam project for three days under the headline “destructive flood risk”; its only source is a short statement from the municipality. Readers quickly sign petitions. A week later a report by an independent body shows that the risk is low. (Hypothetical scenario.)",
+      "parts": [
+        {
+          "prompt": "In Lippmann’s terms, what is the picture the petitioners acted on?",
+          "options": [
+            "A pseudo-environment",
+            "The real environment",
+            "A phantom public"
+          ],
+          "answer": 0,
+          "explain": "The readers responded to the picture the report drew, that is, to a pseudo-environment; the result (the petition) appeared in the real environment, and the report then showed the real environment. The “real environment” option confuses the picture with the event itself; “phantom public” is a concept about the public, not the picture."
+        },
+        {
+          "prompt": "Which step is closest to Lippmann’s 1922 remedy?",
+          "options": [
+            "Banning the newspaper",
+            "Setting up an independent intelligence/expert bureau that shows decision-makers the facts",
+            "Expecting every citizen to learn dam engineering"
+          ],
+          "answer": 1,
+          "explain": "Lippmann’s proposal is independent expert bureaus that show decision-makers the facts they cannot see; the aim is not to load expert work onto every citizen. The third option is the “omnicompetent citizen” assumption, the very thing Lippmann criticises. The first option is a measure that has no place in Lippmann."
+        },
+        {
+          "prompt": "How does Dewey’s emphasis apply to this scenario?",
+          "options": [
+            "Only the experts in the bureau should decide",
+            "The findings should circulate in a form citizens can discuss and judge, and communication needs to be improved",
+            "There is no public, so the petition is meaningless"
+          ],
+          "answer": 1,
+          "explain": "Dewey sees the expert as a finder of facts and says the essential need is to improve the conditions of debate, discussion and persuasion; citizens must be able to judge how the knowledge bears on their concerns. The first option is closer to Lippmann’s reading; the third attributes Lippmann’s “phantom” claim to Dewey."
+        }
+      ],
+      "takeaway": "A pseudo-environment needs no bad faith; an incomplete picture is enough. Lippmann looks for the remedy in showing decision-makers the facts they cannot see; Dewey looks for it in improving the conditions under which those facts reach the public."
+    },
+    {
+      "id": "q-lasswell-goals",
+      "type": "mcq",
+      "prompt": "Which of the following is NOT one of the wartime propaganda aims listed in Lasswell’s 1927 book?",
+      "options": [
+        "To mobilise hatred against the enemy",
+        "To preserve the friendship of allies",
+        "To preserve the friendship and, if possible, procure the co-operation of neutrals",
+        "To silence domestic political opposition by law"
+      ],
+      "answer": 3,
+      "explain": "Lasswell lists four aims: to mobilise hatred against the enemy, to preserve the friendship of allies, to preserve the friendship and if possible procure the co-operation of neutrals, and to demoralise the enemy. Silencing opposition by law is a form of legal coercion and falls outside Lasswell’s definition of managing opinion through symbols. In “NOT” questions the most common mistake is to tick a sentence that merely looks right."
+    },
+    {
+      "id": "q-stereotype",
+      "type": "mcq",
+      "prompt": "Which is one reason, according to Lippmann, why stereotypes are so resistant?",
+      "options": [
+        "Simply laziness: people do not want to think.",
+        "They are a defence of the person’s position in society and self-respect; whatever shakes them feels like an attack on “the foundations of the universe”.",
+        "Newspapers reproduce them every day.",
+        "They are protected by law."
+      ],
+      "answer": 1,
+      "explain": "In chapter VII, besides economy of effort, Lippmann adds a second reason: stereotypes defend the person’s position, self-respect and tradition; that is why shaking them feels like an attack on “our universe”. The first option sees only economy of effort and misses the second reason. The third and fourth options are not reasons argued in that chapter."
+    },
+    {
+      "id": "q-phantom",
+      "type": "tf",
+      "prompt": "According to Lippmann, the public is a fixed body of citizens that steers the course of events.",
+      "answer": false,
+      "explain": "In *The Phantom Public* Lippmann writes the opposite: such a public is “a mere phantom”, an abstraction; the public is a changing set of people who are interested in an affair and can affect it only by supporting or opposing the actors. The trap is to read “phantom” as “the public does nothing”."
+    },
+    {
+      "id": "q-dewey",
+      "type": "mcq",
+      "prompt": "Which is true of Dewey’s stance in his 1927 book?",
+      "options": [
+        "He gave experts no role at all.",
+        "He said the public is in eclipse and the remedy lies in improving communication and the conditions of debate and persuasion; he defined the experts’ job as discovering and making known the facts.",
+        "He wrote before Lippmann that the public is a phantom.",
+        "He never cited Lippmann’s books."
+      ],
+      "answer": 1,
+      "explain": "Dewey sees the expert not as the maker of policy but as the person who finds the facts and makes them known, and he looks for the remedy in better communication. The first option erases the experts’ role. The third gives Dewey the “phantom” instead of Lippmann, but that word is Lippmann’s. The fourth is wrong: in a footnote Dewey acknowledges his debt to both of Lippmann’s books."
+    }
+  ]
+}

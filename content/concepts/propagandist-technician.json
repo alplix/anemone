@@ -1,0 +1,14 @@
+{
+  "id": "propagandist-technician",
+  "family": "effects",
+  "introducedBy": [],
+  "related": [
+    "lasswell-formula",
+    "magic-bullet",
+    "powerful-effects"
+  ],
+  "sources": [
+    "lasswell-1927-propaganda",
+    "tdk-sozluk-2026"
+  ]
+}
