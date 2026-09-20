@@ -78,7 +78,7 @@ let lastPush = 0;
 export async function pushNow(courseOfLesson, opts = {}) {
   if (!enabled() || !getAuth()) return { skipped: true };
   const now = Date.now();
-  if (!opts.force && now - lastPush < 180000) return { skipped: true };
+  if (now - lastPush < 22000) return { skipped: true };
   lastPush = now;
   await call("PUT", "/api/sync", summary(courseOfLesson), { keepalive: opts.keepalive });
   const text = store.exportSave();

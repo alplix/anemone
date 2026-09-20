@@ -93,7 +93,7 @@ export function lessonPage(cx, course, lesson) {
   const url = lessonUrl(cx, course, lesson.id);
   const citeMap = new Map();
   const missing = [];
-  const mdc = { courseId: course.id, citeMap, missing };
+  const mdc = { courseId: course.id, citeMap, missing, noCite: true };
   const tocItems = [];
   let bodyHtml = "";
   let current = null;
@@ -116,12 +116,6 @@ export function lessonPage(cx, course, lesson) {
   }
   closeSection();
 
-  // references
-  const cited = [...citeMap.entries()].sort((a, b) => a[1] - b[1]);
-  const citedIds = new Set(cited.map(([id]) => id));
-  const refsHtml = cited.map(([id, n]) => `<li id="ref-${n}">${formatBib(model.bib[id])}</li>`).join("");
-  const also = (meta.sources || []).filter((s) => !citedIds.has(s.bib)).map((s) => `<li>${formatBib(model.bib[s.bib])}</li>`).join("");
-
   // prerequisites, pager
   const prereqLinks = (lesson.prereq || []).map((p) => `<a href="${esc(lessonUrl(cx, course, p))}">${esc(info.lessons[p].title)}</a>`).join(", ");
   const idx = lesson.index;
@@ -133,7 +127,7 @@ export function lessonPage(cx, course, lesson) {
   const conceptLinks = (meta.concepts || []).map((id) => L.concepts[id] ? `<li><a class="ref ref-concept" data-ref="concept:${id}" href="${esc(cx.url(cx.seg("url.glossary"), L.concepts[id].slug))}">${esc(L.concepts[id].term)}</a></li>` : "").join("");
 
   const listInline = (items) => `<ul>${items}</ul>`;
-  const infobox = `<aside class="infobox" aria-labelledby="ib-h"><h2 id="ib-h">${esc(t("lesson.in-lesson"))}</h2><dl>${prereqLinks ? `<dt>${esc(t("lesson.prereqs"))}</dt><dd>${prereqLinks}</dd>` : ""}${peopleLinks ? `<dt>${esc(t("lesson.people"))}</dt><dd>${listInline(peopleLinks)}</dd>` : ""}${conceptLinks ? `<dt>${esc(t("lesson.concepts"))}</dt><dd>${listInline(conceptLinks)}</dd>` : ""}<dt>${esc(t("lesson.references"))}</dt><dd><a href="#references">${esc(t("lesson.jump-refs"))}</a></dd></dl></aside>`;
+  const infobox = `<aside class="infobox" aria-labelledby="ib-h"><h2 id="ib-h">${esc(t("lesson.in-lesson"))}</h2><dl>${prereqLinks ? `<dt>${esc(t("lesson.prereqs"))}</dt><dd>${prereqLinks}</dd>` : ""}${peopleLinks ? `<dt>${esc(t("lesson.people"))}</dt><dd>${listInline(peopleLinks)}</dd>` : ""}${conceptLinks ? `<dt>${esc(t("lesson.concepts"))}</dt><dd>${listInline(conceptLinks)}</dd>` : ""}</dl></aside>`;
   const tocHtml = `<details class="toc"><summary>${esc(t("lesson.toc"))}</summary><ol>${tocItems.map((i) => `<li><a href="#c-${esc(i.id)}">${esc(plainText(i.title))}</a>${i.layer === "deep" ? ` <span class="small muted">(${esc(t("kind.deep"))})</span>` : ""}</li>`).join("")}</ol></details>`;
 
   const payload = buildLessonPayload(cx, course, lesson, text);
@@ -158,17 +152,12 @@ ${tocHtml}
 <div id="lesson-body">
 ${bodyHtml}
 </div>
-<section id="references" aria-labelledby="refs-h"><h2 id="refs-h">${esc(t("lesson.references"))}</h2>
-<ol class="reference-list">${refsHtml}</ol>
-${also ? `<h3>${esc(t("lesson.also-consulted"))}</h3><ul>${also}</ul>` : ""}
-</section>
 <p class="small muted">${esc(t("lesson.method-note"))} <a href="${esc(cx.url(cx.seg("url.about")))}">${esc(t("footer.how"))}</a></p>
 ${practice}
 ${pager}
 </article>
 </div>`;
 
-  const bibForLd = (meta.sources || []).map((s) => model.bib[s.bib]).filter(Boolean);
   const ld = [
     bc.ld,
     {
@@ -191,7 +180,6 @@ ${pager}
       isPartOf: { "@type": "Course", name: info.title, url: cx.abs(courseUrl(cx, course)) },
       teaches: (meta.concepts || []).map((id) => L.concepts[id]?.term).filter(Boolean),
       about: (meta.concepts || []).map((id) => L.concepts[id] && ({ "@type": "DefinedTerm", name: L.concepts[id].term, url: cx.abs(cx.url(cx.seg("url.glossary"), L.concepts[id].slug)) })).filter(Boolean),
-      citation: bibForLd.map((b) => ({ "@type": "CreativeWork", name: b.title, datePublished: String(b.originalYear && b.type === "book" ? b.year : b.year), author: (b.authors || []).map((a) => ({ "@type": "Person", name: a })) })),
     },
   ];
   return {
@@ -312,7 +300,6 @@ export function personPage(cx, id) {
   const uses = lessonsUsing(cx, "person", id);
   const usesHtml = uses.map(({ course, lesson }) => `<li><a href="${esc(lessonUrl(cx, course, lesson.id))}">${esc(L.courses[course.id].info.lessons[lesson.id].title)}</a></li>`).join("");
   const works = (pt.works || []).map((w) => `<li>${formatBib(model.bib[w.bib])}${w.note ? ` — ${esc(plainText(w.note))}` : ""}</li>`).join("");
-  const sources = (pf.sources || []).map((s) => `<li>${formatBib(model.bib[s])}</li>`).join("");
   const concepts = Object.values(model.concepts).filter((c) => (c.introducedBy || []).includes(id) && L.concepts[c.id]).map((c) => `<li><a href="${esc(cx.url(cx.seg("url.glossary"), L.concepts[c.id].slug))}">${esc(L.concepts[c.id].term)}</a></li>`).join("");
   const life = lifespan(cx, pf);
   const places = [pt.born && t("person.born-in", { place: pt.born }), pt.died && t("person.died-in", { place: pt.died })].filter(Boolean).join(" · ");
@@ -326,7 +313,6 @@ ${inCourse ? `<section aria-labelledby="inc-h"><h2 id="inc-h">${esc(t("person.in
 ${works ? `<section aria-labelledby="works-h"><h2 id="works-h">${esc(t("person.works"))}</h2><ul>${works}</ul></section>` : ""}
 ${usesHtml ? `<section aria-labelledby="uses-h"><h2 id="uses-h">${esc(t("person.lessons"))}</h2><ul class="panel-lessons">${usesHtml}</ul></section>` : ""}
 ${concepts ? `<section aria-labelledby="c-h"><h2 id="c-h">${esc(t("person.concepts"))}</h2><ul>${concepts}</ul></section>` : ""}
-<section aria-labelledby="src-h"><h2 id="src-h">${esc(t("person.sources"))}</h2><ul>${sources}</ul></section>
 </article></div>`;
   const ld = [bc.ld, {
     "@context": "https://schema.org", "@type": "ProfilePage", url: cx.abs(url), inLanguage: lang.code, name: pt.name,
@@ -347,7 +333,6 @@ export function conceptPage(cx, id) {
   const usesHtml = uses.map(({ course, lesson }) => `<li><a href="${esc(lessonUrl(cx, course, lesson.id))}">${esc(L.courses[course.id].info.lessons[lesson.id].title)}</a></li>`).join("");
   const by = (cf.introducedBy || []).filter((p) => L.people[p]).map((p) => `<li><a class="ref ref-person" data-ref="person:${p}" href="${esc(cx.url(cx.seg("url.people"), L.people[p].slug))}">${esc(L.people[p].name)}</a></li>`).join("");
   const rel = (cf.related || []).filter((r) => L.concepts[r]).map((r) => `<li><a class="ref ref-concept" data-ref="concept:${r}" href="${esc(cx.url(cx.seg("url.glossary"), L.concepts[r].slug))}">${esc(L.concepts[r].term)}</a></li>`).join("");
-  const sources = (cf.sources || []).map((s) => `<li>${formatBib(model.bib[s])}</li>`).join("");
   const bc = crumbs(cx, [{ name: t("bc.home"), url: cx.url() }, { name: t("glossary.title"), url: cx.url(cx.seg("url.glossary")) }, { name: ct.term, url }]);
   const enTerm = model.i18n.en?.concepts?.[id]?.term;
   const body = `<div class="container reading">${bc.html}
@@ -358,7 +343,6 @@ ${example ? `<section aria-labelledby="ex-h"><h2 id="ex-h">${esc(t("concept.exam
 ${by ? `<section aria-labelledby="by-h"><h2 id="by-h">${esc(t("concept.introduced-by"))}</h2><ul>${by}</ul></section>` : ""}
 ${usesHtml ? `<section aria-labelledby="l-h"><h2 id="l-h">${esc(t("concept.lessons"))}</h2><ul class="panel-lessons">${usesHtml}</ul></section>` : ""}
 ${rel ? `<section aria-labelledby="r-h"><h2 id="r-h">${esc(t("concept.related"))}</h2><ul>${rel}</ul></section>` : ""}
-${sources ? `<section aria-labelledby="s-h"><h2 id="s-h">${esc(t("concept.sources"))}</h2><ul>${sources}</ul></section>` : ""}
 </article></div>`;
   const ld = [bc.ld, { "@context": "https://schema.org", "@type": "DefinedTerm", name: ct.term, description: plainText(ct.short), inLanguage: lang.code, url: cx.abs(url), inDefinedTermSet: { "@type": "DefinedTermSet", name: t("glossary.title"), url: cx.abs(cx.url(cx.seg("url.glossary"))) } }];
   return { key: `concept:${id}`, kind: "concept", lang, path: url, title: t("concept.title", { term: ct.term, name: cx.config.name }), description: plainText(ct.short).slice(0, 200), robots: "index", body, pageType: "concept", ld, nav: "glossary", translationStatus: ct.translation?.status || (lang.status === "source" ? "source" : "machine"), missing };

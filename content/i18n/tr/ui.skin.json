@@ -3,8 +3,6 @@
   "theme.terminal": "Terminal (yeşil)",
   "theme.amber": "Amber",
   "theme.ice": "Buz",
-  "theme.cycle": "Renk temasını değiştir",
-  "theme.short": "Tema",
   "theme.now": "Tema: {name}",
   "hud.line": "Sv {level} {rank} · {xp} XP · seri {streak}",
   "lesson.jump-refs": "Kaynakçaya git",
@@ -19,5 +17,12 @@
   "idx.stats": "İsabet, çalışma süresi, zayıf konular",
   "idx.settings": "Tema, yazı boyutu, okuma modu, kayıt dosyası",
   "idx.account": "İsteğe bağlı hesap: eşitleme ve skor tabloları",
-  "idx.about": "İçerik nasıl hazırlandı ve denetlendi"
+  "idx.about": "İçerik nasıl hazırlandı ve denetlendi",
+  "tools.language": "Dil",
+  "tools.theme": "Tema",
+  "nav.account": "Hesap",
+  "sync.guest": "Misafirsin: ilerleme yalnızca bu tarayıcıda. Veritabanında saklamak için Hesap'a gir.",
+  "sync.pending": "Kaydediliyor…",
+  "sync.saved": "Veritabanına kaydedildi",
+  "sync.failed": "Kaydedilemedi, yeniden denenecek"
 }

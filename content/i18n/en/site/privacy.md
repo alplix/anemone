@@ -1,31 +1,28 @@
 ---
 title: Privacy
-description: What Anemone stores about you (only on your own device), what it does not collect, and your rights. Written in plain language; not legal advice.
+description: What Anemone stores and where, the difference between guest and account use, and how you can download and delete your data. Written in plain language.
 updated: 2026-09-20
 ---
-**Short version:** Anemone does not collect personal data. Your progress lives on your own device.
+**Short version:** As a guest your progress stays in this browser only. With an account it is stored in the database. No email, no cookies, no adverts, no trackers.
 
-## What is stored, and where
+## Guest
 
-- **On your device only.** Your progress, XP, badges, statistics, review boxes, settings and study times are saved in your browser's local storage (keys starting with `anemone.`). They never leave your device unless you export a save file yourself. You can export or delete everything on the Settings page, or by clearing your browser data.
-- **No accounts, no cookies, no analytics, no trackers, no adverts.** The site sets no cookies and loads no third-party scripts or fonts.
-- **Offline copies.** If you use offline mode, lesson files are kept in your browser's cache.
+- Nothing is sent to a server. Progress, XP, badges, statistics, review boxes, settings and study times stay in your browser's local storage (keys starting with `anemone.`).
+- You can export or delete them on the Settings page; clearing your browser data does the same.
 
-## Hosting
+## Account
 
-The site is served by GitHub Pages. As any web host does, GitHub may process technical data such as your IP address when you request a page, under GitHub's own privacy statement. We do not receive that data.
+- Only a username and a password are asked for; no email. Your password is turned into a key on your device and the password itself never reaches the server.
+- The server (Cloudflare Workers and a D1 database) stores: your username, a verifier of the key derived on your device, your progress save (cards, questions, review boxes, XP, badges, settings, study times) and summary numbers.
+- Profile fields (display name, age range and so on) are optional and private by default. No photos are uploaded. Joining leaderboards and having a profile is your choice.
+- On the Account page you can download everything, or delete your account and all its records from the database, at any time.
+- The name and free text of people under 18 are never shown publicly. Offensive names and texts are blocked and can be reported.
 
-## Optional accounts (not switched on yet)
+## In every case
 
-Accounts, public profiles and leaderboards are planned as an optional extra. When they are switched on, this page will be updated first. The plan: username and password only, no email; the password never leaves your device; every profile field optional and private by default; no photo upload; the server stores only what is needed (a key derived on your device, the display name, and summary progress numbers); you can export and delete everything; offensive names and texts are blocked and can be reported. Nothing personal is ever written into the static pages.
-
-## Children
-
-Nothing is collected. If profiles are introduced, people under 18 will not have their name or free text shown publicly.
-
-## Your data stays with you
-
-Because we hold no data about you, there is nothing to request from us; your data is on your device and you control it. You can export or delete it at any time on the Settings page. This text is plain-language information.
+- The site sets no cookies, uses no analytics or adverts and loads no third-party scripts or fonts. Nothing personal is written into the static pages.
+- If you use offline mode, lesson files are kept in your browser's cache.
+- The site is served by GitHub Pages. As any web host does, GitHub may process technical data such as your IP address when you request a page, under GitHub's own privacy statement; we do not receive that data.
 
 ## Contact
 

@@ -39,6 +39,7 @@ export function mdContext(cx, opts = {}) {
   const citeMap = opts.citeMap; // Map bibId -> number (built as we go)
   const missing = opts.missing || [];
   return {
+    noCite: !!opts.noCite,
     ref(kind, id, label) {
       if (kind === "person") {
         const t = L.people?.[id];
@@ -78,6 +79,8 @@ export const md = (cx, text, opts) => renderMd(text, mdContext(cx, opts));
 // ---------------------------------------------------------------------------
 // bibliography formatting
 // ---------------------------------------------------------------------------
+const THEME_ORDER = ["console", "terminal", "amber", "ice", "light", "sepia", "cvd", "contrast", "paper"];
+
 export function formatBib(b, { html = true } = {}) {
   const I = (s) => (html ? `<i>${esc(s)}</i>` : s);
   const E = (s) => (html ? esc(s) : s);
@@ -147,7 +150,9 @@ export function layout(cx, page, assets) {
     ? trail.map((it, i) => `<li><span class="sep" aria-hidden="true">/</span>${i < trail.length - 1 ? `<a href="${esc(it.href)}">${esc(it.name)}</a>` : `<span aria-current="page">${esc(it.name)}</span>`}</li>`).join("")
     : "";
   const brand = trail.length ? `<a class="user" href="${esc(cx.url())}">${esc(config.name.toLowerCase())}</a>` : `<span class="user" aria-current="page">${esc(config.name.toLowerCase())}</span>`;
-  const others = (page.langLinks || []).filter((l) => !l.current).slice(0, 2).map((l) => `<a class="btn" href="${esc(l.href)}" hreflang="${esc(l.code)}" lang="${esc(l.code)}" title="${esc(l.name)}">${esc(l.code.toUpperCase())}</a>`).join("");
+  const langOpts = (page.langLinks || []).map((l) => `<option value="${esc(l.href)}" lang="${esc(l.code)}"${l.current ? " selected" : ""}>${esc(l.name)}</option>`).join("");
+  const themeOpts = THEME_ORDER.map((n) => `<option value="${n}"${n === "console" ? " selected" : ""}>${esc(t("theme." + n))}</option>`).join("");
+  const others = `<label class="sel js-only"><span>${esc(t("tools.language"))}</span><select id="lang-select" data-lang-select>${langOpts}</select></label>`;
   const langLinks = (page.langLinks || []).map((l) => `<li><a href="${esc(l.href)}" hreflang="${esc(l.code)}" lang="${esc(l.code)}"${l.current ? ' aria-current="true"' : ""}>${esc(l.name)}</a></li>`).join("");
   const bodyAttrs = Object.entries({ "data-page": page.pageType || "", "data-lang": lang.code, "data-base": base, "data-lang-path": lang.path, "data-build": assets.version, "data-api": config.apiBase || "", ...(page.dataAttrs || {}) })
     .map(([k, v]) => `${k}="${esc(v)}"`).join(" ");
@@ -189,13 +194,13 @@ ${ldScripts(page.ld)}
 <a class="skip-link" href="#main">${esc(t("skip"))}</a>
 <header class="topbar"><div class="container">
 <nav class="prompt" aria-label="${esc(t("nav.breadcrumb"))}"><ol><li>${BRAND_MARK}${brand}</li>${promptItems}<li><span class="dollar" aria-hidden="true">$</span></li></ol></nav>
-<div class="tools">${others}<button type="button" class="btn js-only" id="theme-cycle" aria-label="${esc(t("theme.cycle"))}"><span aria-hidden="true">◐</span> <span id="theme-name">${esc(t("theme.short"))}</span></button></div>
+<div class="tools">${others}<label class="sel js-only"><span>${esc(t("tools.theme"))}</span><select id="theme-select">${themeOpts}</select></label><a class="btn" href="${esc(cx.url("app", "settings"))}">${esc(t("nav.settings"))}</a><a class="btn" href="${esc(cx.url("app", "account"))}">${esc(t("nav.account"))}</a></div>
 </div></header>
 <main id="main" tabindex="-1">
 ${page.body}
 </main>
 <footer class="status"><div class="container">
-<p class="hud" id="hud"><a href="${esc(cx.url("app", "study"))}">${esc(t("nav.study"))}</a><a href="${esc(cx.url("app", "settings"))}">${esc(t("nav.settings"))}</a></p>
+<p class="hud" id="hud"><a href="${esc(cx.url("app", "study"))}">${esc(t("nav.study"))}</a><span class="small" id="sync-state" role="status"></span></p>
 ${trans}
 <p class="small">${esc(credit)} <a href="${esc(cx.url(cx.seg("url.about")))}">${esc(t("footer.how"))}</a></p>
 ${updated}

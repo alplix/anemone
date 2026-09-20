@@ -3,8 +3,6 @@
   "theme.terminal": "Terminal (green)",
   "theme.amber": "Amber",
   "theme.ice": "Ice",
-  "theme.cycle": "Change the colour theme",
-  "theme.short": "Theme",
   "theme.now": "Theme: {name}",
   "hud.line": "Lv {level} {rank} · {xp} XP · streak {streak}",
   "lesson.jump-refs": "Jump to the references",
@@ -19,5 +17,12 @@
   "idx.stats": "Accuracy, study time, weak topics",
   "idx.settings": "Theme, text size, reading mode, save file",
   "idx.account": "Optional account: sync and leaderboards",
-  "idx.about": "How the content is made and checked"
+  "idx.about": "How the content is made and checked",
+  "tools.language": "Language",
+  "tools.theme": "Theme",
+  "nav.account": "Account",
+  "sync.guest": "Guest: progress stays in this browser. Open Account to store it in the database.",
+  "sync.pending": "Saving…",
+  "sync.saved": "Saved to the database",
+  "sync.failed": "Could not save, will retry"
 }

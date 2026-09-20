@@ -1,7 +1,7 @@
 {
  "name": "Anemone – çalışma uygulaması",
  "short_name": "Anemone",
- "description": "Kısa kartlar, düşündüren sorular, sınavlar, aralıklı tekrar ve kendi cihazında saklanan ilerleme. Ücretsiz, erişilebilir ve çevrimdışı da çalışır.",
+ "description": "Kısa kartlar, düşündüren sorular, sınavlar, aralıklı tekrar ve hesabınla veritabanında saklanan ilerleme. Ücretsiz, erişilebilir; misafir olarak da girebilirsin.",
  "lang": "tr",
  "dir": "ltr",
  "start_url": "/anemone/tr/app/study/",

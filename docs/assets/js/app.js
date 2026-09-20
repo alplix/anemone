@@ -14,6 +14,7 @@ async function main() {
   applySettings();
   store.on((what) => { if (what === "settings") applySettings(); });
   await loadUi();
+  await pullOnce();
   initChrome();
   time.start();
   initPanel();
@@ -45,16 +46,18 @@ const THEMES = ["console", "terminal", "amber", "ice", "light", "sepia", "cvd", 
 
 // theme cycle button and the status line (level, XP, streak) that replace a menu
 function initChrome() {
-  const btn = $("#theme-cycle"), name = $("#theme-name");
+  const sel = $("#theme-select");
   const cur = () => (THEMES.includes(store.getSettings().theme) ? store.getSettings().theme : "console");
-  const label = () => { if (name) name.textContent = t("theme." + cur()); };
-  label();
-  btn?.addEventListener("click", () => {
-    const next = THEMES[(THEMES.indexOf(cur()) + 1) % THEMES.length];
-    store.setSetting("theme", next);
-    applySettings(); label();
-    announce(t("theme.now", { name: t("theme." + next) }));
-  });
+  if (sel) {
+    sel.value = cur();
+    sel.addEventListener("change", () => {
+      store.setSetting("theme", sel.value);
+      applySettings();
+      announce(t("theme.now", { name: t("theme." + sel.value) }));
+    });
+  }
+  const label = () => { if (sel && sel.value !== cur()) sel.value = cur(); };
+  $("#lang-select")?.addEventListener("change", (e) => { location.href = e.target.value; });
   store.on((what) => { if (what === "settings") label(); });
   const hud = $("#hud a");
   const draw = () => {
@@ -66,15 +69,44 @@ function initChrome() {
   let tm; store.on((what) => { if (what === "state") { clearTimeout(tm); tm = setTimeout(draw, 400); } });
 }
 
-// optional cloud sync (only when an account service is configured AND the user signed in)
+// Progress lives in the database when the reader is signed in (the browser copy is only a cache); guests keep it in this browser.
+const syncEl = () => $("#sync-state");
+const setSync = (key) => { const el = syncEl(); if (el) el.textContent = key ? t(key) : ""; };
+
+async function pullOnce() {
+  try {
+    if (sessionStorage.getItem("anemone.pulled")) return;
+    const api = await import("./api.js");
+    if (!api.enabled() || !api.getAuth()) return;
+    sessionStorage.setItem("anemone.pulled", "1");
+    await Promise.race([api.pullAndMerge(), new Promise((_, no) => setTimeout(no, 4000))]);
+  } catch { /* offline or slow: the browser copy is used and pushed later */ }
+}
+
 async function startSync() {
   const api = await import("./api.js");
-  if (!api.enabled() || !api.getAuth()) return;
+  if (!api.enabled()) return;
+  if (!api.getAuth()) { setSync("sync.guest"); return; }
   const acc = await import("./account.js");
-  const push = async (keepalive) => { try { await api.pushNow(await acc.courseOfLesson(), { keepalive }); } catch { /* try later */ } };
-  setTimeout(() => push(false), 15000);
-  setInterval(() => { if (document.visibilityState === "visible") push(false); }, 180000);
+  let dirty = false, timer = null;
+  const later = (ms) => { clearTimeout(timer); timer = setTimeout(() => push(false), ms); };
+  const push = async (keepalive) => {
+    if (!dirty) return;
+    try {
+      const r = await api.pushNow(await acc.courseOfLesson(), { keepalive });
+      if (r.skipped) { later(25000); return; }
+      dirty = false; setSync("sync.saved");
+    } catch { setSync("sync.failed"); later(45000); }
+  };
+  store.on((what) => {
+    if (what !== "state") return;
+    dirty = true; setSync("sync.pending");
+    later(30000);
+  });
+  setSync("sync.saved");
+  setInterval(() => { if (document.visibilityState === "visible") push(false); }, 60000);
   document.addEventListener("visibilitychange", () => { if (document.visibilityState === "hidden") push(true); });
+  addEventListener("pagehide", () => push(true));
 }
 
 function registerWorker() {

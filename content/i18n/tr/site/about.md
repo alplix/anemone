@@ -1,6 +1,6 @@
 ---
 title: Anemone hakkında ve içerik nasıl hazırlandı
-description: Anemone'yi kim yaptı; dersler nasıl araştırılıp yapay zekâ desteğiyle yazıldı ve denetlendi, kaynaklar neler, neler henüz doğrulanmadı.
+description: Anemone'yi kim yaptı; dersler nasıl araştırılıp yapay zekâ desteğiyle yazıldı ve denetlendi, neler henüz doğrulanmadı.
 updated: 2026-09-20
 ---
 **Anemone** (Yunanca *anemos*, "rüzgâr": mesajların rüzgâr gibi yayılması), üniversite öğrencileri için ücretsiz bir ders sistemidir. İlk dersi *Kitle İletişim Kuramları*dır. Dersler; kısa kartlar, sorular, sınavlar, aralıklı tekrar ve yalnızca kendi cihazında saklanan ilerlemeden oluşur.
@@ -27,7 +27,7 @@ Anlatım özgündür. Metin kitaplardan kopyalanmaz: olgular, adlar, tarihler ve
 
 ## Kaynaklar ve "son güncelleme" tarihi
 
-Her ders kaynakçasıyla biter, her kişi ve kavram sayfası kaynaklarını listeler. Her sayfa en son ne zaman güncellendiğini gösterir. Hazırlanmakta olan dersler "Yakında" diye işaretlidir ve arama motorlarına indekslettirilmez.
+Sayfalarda uzun kaynakça listeleri yoktur; kaynaklar, doğrulama durumlarıyla birlikte projenin açık deposunda tutulur. Her sayfa en son ne zaman güncellendiğini gösterir. Hazırlanmakta olan dersler "Yakında" diye işaretlidir ve arama motorlarına indekslettirilmez.
 
 ## Çeviriler
 

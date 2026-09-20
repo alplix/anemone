@@ -1,6 +1,6 @@
 {
   "app.review.title": "Sorular",
-  "app.review.desc": "Okuduklarına göre sana seçilen sorular: tekrarlar, hatalar ve yeni sorular (özel, bu cihazda saklanır).",
+  "app.review.desc": "Okuduklarına göre sana seçilen sorular: tekrarlar, hatalar ve yeni sorular.",
   "idx.review": "İlerlemene göre sana seçilen sorular",
   "review.intro": "Sorular derslerin içinde değildir. Bu alan onları okuduklarına göre sana sunar: önce zamanı gelen tekrarlar, sonra hataların, sonra okuduğun kartlardan yeni sorular.",
   "q.smart-title": "Sana özel sorular",

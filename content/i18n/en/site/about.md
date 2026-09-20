@@ -1,6 +1,6 @@
 ---
 title: About Anemone and how the content is made
-description: Who made Anemone, how the lessons are researched, written with AI assistance and checked, what the sources are, and what is not yet verified.
+description: Who made Anemone, how the lessons are researched, written with AI assistance and checked, and what is not yet verified.
 updated: 2026-09-20
 ---
 **Anemone** (Greek *anemos*, "wind": the way messages travel like the wind) is a free course system for university students. Its first course is *Mass Communication Theories*. Lessons are short cards with questions, exams, spaced review and progress that stays on your own device.
@@ -27,7 +27,7 @@ The wording is original. Text is not copied from books: facts, names, dates and 
 
 ## Sources and the "last updated" date
 
-Every lesson ends with its references, and every person and concept page lists its sources. Each page shows when it was last updated. Lessons that are still being prepared are marked "Coming soon" and are not indexed by search engines.
+Pages carry no long reference lists; the sources are kept, with their verification status, in the project's open repository. Each page shows when it was last updated. Lessons that are still being prepared are marked "Coming soon" and are not indexed by search engines.
 
 ## Translations
 

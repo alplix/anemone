@@ -1,7 +1,7 @@
 {
  "name": "Anemone – study app",
  "short_name": "Anemone",
- "description": "Short cards, questions that make you think, exams, spaced review and progress that is saved on your own device. Free, accessible and works offline.",
+ "description": "Short cards, questions that make you think, exams, spaced review and progress stored in the database with your account. Free and accessible; you can also join as a guest.",
  "lang": "en",
  "dir": "ltr",
  "start_url": "/anemone/en/app/study/",

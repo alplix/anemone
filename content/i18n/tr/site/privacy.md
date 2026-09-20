@@ -1,32 +1,29 @@
 ---
 title: Gizlilik
-description: Anemone senin hakkında neyi saklar (yalnızca kendi cihazında), neyi toplamaz ve haklarının neler olduğu. Sade bir dille yazıldı; hukuki danışmanlık değildir.
+description: Anemone neyi, nerede saklar; misafir ve hesaplı kullanım arasındaki fark ve verini nasıl indirip silebileceğin. Sade dille yazıldı.
 updated: 2026-09-20
 ---
-**Kısaca:** Anemone kişisel veri toplamaz. İlerlemen kendi cihazında yaşar.
+**Kısaca:** Misafir olarak girersen ilerleme yalnızca bu tarayıcıda kalır. Hesap açarsan ilerleme veritabanında saklanır. E-posta, çerez, reklam ve izleyici yok.
 
-## Ne saklanır, nerede?
+## Misafir
 
-- **Yalnızca cihazında.** İlerlemen, XP'n, rozetlerin, istatistiklerin, tekrar kutuların, ayarların ve çalışma sürelerin tarayıcının yerel depolamasında saklanır (`anemone.` ile başlayan anahtarlar). Sen kendin bir kayıt dosyası dışa aktarmadıkça cihazından hiç çıkmaz. Hepsini Ayarlar sayfasından dışa aktarabilir ya da silebilirsin; tarayıcı verilerini temizlemek de aynı işi görür.
-- **Hesap, çerez, analitik, izleyici, reklam yok.** Site çerez bırakmaz, üçüncü taraf betik ya da yazı tipi yüklemez.
-- **Çevrimdışı kopyalar.** Çevrimdışı modu kullanırsan ders dosyaları tarayıcının önbelleğinde tutulur.
+- Hiçbir şey sunucuya gönderilmez. İlerleme, XP, rozetler, istatistikler, tekrar kutuları, ayarlar ve çalışma süreleri tarayıcının yerel depolamasında durur (`anemone.` ile başlayan anahtarlar).
+- Bunları Ayarlar sayfasından dışa aktarabilir ya da silebilirsin; tarayıcı verilerini temizlemek de aynı işi görür.
 
-## Barındırma
+## Hesap
 
-Site GitHub Pages ile sunulur. Her web barındırıcısı gibi GitHub, bir sayfa istediğinde IP adresin gibi teknik verileri kendi gizlilik bildirimi çerçevesinde işleyebilir. Bu verileri biz almayız.
+- Yalnızca kullanıcı adı ve şifre istenir; e-posta yok. Şifren cihazında bir anahtara dönüştürülür, şifrenin kendisi sunucuya hiç gitmez.
+- Sunucu (Cloudflare Workers ve D1 veritabanı) şunları saklar: kullanıcı adı, cihazında türetilen anahtarın doğrulaması, ilerleme kaydın (kartlar, sorular, tekrar kutuları, XP, rozetler, ayarlar, çalışma süreleri) ve özet sayılar.
+- Profil alanları (görünen ad, yaş aralığı vb.) isteğe bağlıdır ve varsayılan olarak gizlidir. Fotoğraf yüklenmez. Skor tablolarına ve profile girmek senin seçimindir.
+- Hesap sayfasından her şeyi indirebilir ya da hesabını ve veritabanındaki tüm kayıtlarını istediğin an silebilirsin.
+- 18 yaş altındakilerin adı ve serbest metinleri herkese açık gösterilmez. Sakıncalı ad ve metinler engellenir ve bildirilebilir.
 
-## İsteğe bağlı hesaplar (henüz açık değil)
+## Her durumda
 
-Hesap, herkese açık profil ve skor tabloları isteğe bağlı ek olarak planlanıyor. Açıldıklarında bu sayfa önce güncellenecek. Plan: yalnızca kullanıcı adı ve şifre, e-posta yok; şifre cihazından hiç çıkmaz; tüm profil alanları isteğe bağlı ve varsayılan olarak gizli; fotoğraf yükleme yok; sunucu yalnızca gerekeni saklar (cihazında türetilen bir anahtar, görünen ad ve özet ilerleme sayıları); her şeyi dışa aktarıp silebilirsin; sakıncalı ad ve metinler engellenir ve bildirilebilir. Statik sayfalara asla kişisel veri yazılmaz.
-
-## Çocuklar
-
-Hiçbir şey toplanmaz. Profiller getirilirse 18 yaş altındakilerin adı ve serbest metinleri herkese açık gösterilmez.
-
-## Verilerin sende
-
-Senin hakkında veri tutmadığımız için bizden talep edebileceğin bir şey yok; verin cihazında ve denetim sende. İstediğin an Ayarlar sayfasından dışa aktarabilir ya da silebilirsin. Bu metin sade dille bilgilendirmedir.
+- Site çerez bırakmaz, analitik ya da reklam kullanmaz, üçüncü taraf betik veya yazı tipi yüklemez. Statik sayfalara kişisel veri yazılmaz.
+- Çevrimdışı modu kullanırsan ders dosyaları tarayıcının önbelleğinde tutulur.
+- Site GitHub Pages ile sunulur. Her web barındırıcısı gibi GitHub, sayfa istediğinde IP adresin gibi teknik verileri kendi gizlilik bildirimi çerçevesinde işleyebilir; bu verileri biz almayız.
 
 ## İletişim
 
-Gizlilik soruları için İletişim sayfasına bak.
+Gizlilikle ilgili sorular için İletişim sayfasına bak.
