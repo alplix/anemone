@@ -1,0 +1,13 @@
+{
+  "id": "sampling",
+  "lang": "tr",
+  "term": "örnekleme",
+  "altTerms": [
+    "örneklem",
+    "evren ve örneklem"
+  ],
+  "slug": "ornekleme",
+  "short": "Hakkında konuşmak istediğin bütün topluluktan (evren), gerçekte ölçtüğün kesimi (örneklem) seçme işi; temsil gücünü büyüklük değil seçilme biçimi belirler.",
+  "body": "Evren, hakkında konuşmak istediğin bütün topluluktur; örneklem, gerçekte ölçtüğün bölümdür; örnekleme çerçevesi ise evrene ulaşmak için elindeki listedir. Olasılıklı örneklemede herkesin hesaplanabilir bir seçilme şansı vardır; kolayda örneklemede eline ilk geçene ulaşırsın. Temsil gücünü örneklemin büyüklüğü değil, nasıl seçildiği belirler.\n\nLiterary Digest’in 1936’daki yaklaşık 2,4 milyon yanıtı bunun klasik örneğidir: liste ağırlıklı olarak telefon rehberi ve otomobil kayıtlarından derlenmişti, yanıt oranı da yaklaşık yüzde 24’tü. Deney araştırmasında ise sorun genellikle kimlerin çalışmaya alındığıdır: Sears sosyal psikolojinin üniversite öğrencilerine, Henrich ve arkadaşları davranış bilimlerinin “WEIRD” toplumlara dayandığını eleştirdi. Bkz. [[concept:survey-research]], [[concept:validity]].",
+  "example": "Bir video platformunda yayımlanan gönüllü anketin sonuçlarını “bütün gençler” için söylemek."
+}

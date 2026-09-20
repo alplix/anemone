@@ -1,0 +1,16 @@
+{
+  "id": "experiment-method",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "experiment (research method)",
+  "altTerms": [
+    "experiment",
+    "random assignment"
+  ],
+  "slug": "experiment-method",
+  "short": "A method in which the researcher changes a condition and randomly assigns participants to groups to test the cause of a difference; strong internal validity, external validity to be questioned separately.",
+  "body": "In an experiment the researcher changes a condition (for example the form of a news item), splits participants into groups by **random assignment**, and compares the outcome. Because the lottery makes the groups similar at the start, it is reasonable to attribute the difference to the condition: this is **internal validity**. The price is the problem of **external validity**, which depends on who was taken into the study and on whether the setting resembles real life.\n\nA **laboratory experiment** increases control but makes the setting artificial; a **field experiment** is run in real life (such as the randomly distributed newspaper subscriptions of Gerber and colleagues). In communication, experiments run from the Payne Fund’s before-and-after measurements to Iyengar, Peters and Kinder’s television-news experiments, and on to the 689,003-person study on Facebook. See [[concept:validity]], [[concept:correlation-causation]].",
+  "example": "Giving households a newspaper subscription or nothing at random, then comparing political knowledge and turnout after the election."
+}

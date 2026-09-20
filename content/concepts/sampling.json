@@ -1,0 +1,15 @@
+{
+  "id": "sampling",
+  "family": "method",
+  "introducedBy": [],
+  "related": [
+    "survey-research",
+    "validity"
+  ],
+  "sources": [
+    "lohr-brick-2017-literary-digest",
+    "squire-1988-literary-digest",
+    "henrich-heine-norenzayan-2010",
+    "sears-1986-college-sophomores"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "reliability",
+  "lang": "tr",
+  "term": "güvenirlik",
+  "altTerms": [
+    "güvenilirlik",
+    "kodlayıcılar arası güvenirlik"
+  ],
+  "slug": "guvenirlik",
+  "short": "Aynı koşulda tekrar ölçünce ölçümün aynı sonucu verme derecesi; tutarlılık. Tutarlı olmak doğru olmak demek değildir.",
+  "body": "Güvenirlik, bir ölçümün tutarlılığıdır: aynı koşulda tekrar ölçüldüğünde aynı sonucu vermesi. Türkçe kaynaklar bunu ölçüm değerlerinin kararlılığının göstergesi olarak anlatır. Güvenirlik geçerliğin önkoşuludur ama garantisi değildir: her seferinde aynı yanlış sayıyı veren bir ölçüm tutarlı ama doğru değildir.\n\nİçerik çözümlemesinde en önemli türü **kodlayıcılar arası güvenirliktir**: iki ya da daha çok kodlayıcı aynı içeriği birbirinden bağımsız kodlar ve uyumları hesaplanır. Yüzde uyum tesadüfi uyumu da sayar; Hayes ve Krippendorff, sayı ve ölçüm düzeyi ne olursa olsun kullanılabilen Krippendorff alfasını standart olarak önerdi. Lombard ve arkadaşları, yayımlanmış içerik çözümlemelerinde güvenirliğin çoğu zaman ölçülmediğini ya da raporlanmadığını buldu. Bkz. [[concept:validity]].",
+  "example": "İki kodlayıcının aynı 100 haberi ayrı ayrı sınıflaması ve uyumlarının hesaplanması."
+}

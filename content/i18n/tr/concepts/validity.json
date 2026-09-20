@@ -1,0 +1,14 @@
+{
+  "id": "validity",
+  "lang": "tr",
+  "term": "geçerlik",
+  "altTerms": [
+    "geçerlilik",
+    "iç geçerlik",
+    "dış geçerlik"
+  ],
+  "slug": "gecerlik",
+  "short": "Bir ölçümün ölçmek istediğini gerçekten ölçme derecesi; iç geçerlik farkın nedenine, dış geçerlik bulgunun başka bağlamlara uzanmasına bakar.",
+  "body": "Geçerlik, bir ölçümün ölçmek istediğini gerçekten ölçme derecesidir. Türkçe kaynaklar bunu, ölçmeyi amaçladığı özelliği doğru ölçebilme derecesinin göstergesi olarak anlatır. Güvenirlik tutarlılığı, geçerlik doğruluğu arar: her seferinde aynı şişkin sayıyı veren bir anket güvenilirdir ama geçerli olmayabilir. Prior, anketlerdeki haber izleme beyanlarının bağımsız izleme ölçümlerinden ortalama üç kat yüksek çıktığını gösterdi; Parry ve arkadaşları öz bildirilen ve kaydedilen dijital medya kullanımının yalnızca orta düzeyde ilişkili olduğunu buldu.\n\nÇalışma düzeyinde ikiye ayrılır: **iç geçerlik**, farkın gerçekten incelenen nedenden gelip gelmediğini; **dış geçerlik**, bulgunun başka insanlara, ortamlara ve zamanlara uzanıp uzanmadığını sorar. Nitel araştırma bu ölçütlerin kendi karşılıklarını geliştirdi. Bkz. [[concept:reliability]].",
+  "example": "Haber izleme süresini yalnızca kişinin kendi beyanıyla ölçmek."
+}

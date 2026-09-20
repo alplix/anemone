@@ -1,0 +1,14 @@
+{
+  "id": "experiment-method",
+  "lang": "tr",
+  "term": "deney yöntemi",
+  "altTerms": [
+    "deney",
+    "deneysel yöntem",
+    "rastgele atama"
+  ],
+  "slug": "deney-yontemi",
+  "short": "Araştırmacının bir koşulu değiştirip katılımcıları kurayla gruplara atayarak farkın nedenini sınadığı yöntem; iç geçerliği güçlüdür, dış geçerliği ayrıca sorgulanır.",
+  "body": "Deneyde araştırmacı bir koşulu (örneğin bir haberin biçimini) değiştirir, katılımcıları **rastgele atama** ile gruplara böler ve sonucu karşılaştırır. Kura, grupların baştan benzer olmasını sağladığı için farkı uygulanan koşula bağlamak makuldür: buna **iç geçerlik** denir. Bedeli, kimlerin çalışmaya alındığına ve ortamın gerçek hayata benzeyip benzemediğine bağlı olan **dış geçerlik** sorunudur.\n\n**Laboratuvar deneyi** denetimi artırır ama ortamı yapay kılar; **alan deneyi** gerçek hayatta yapılır (Gerber ve arkadaşlarının kurayla dağıttığı gazete abonelikleri gibi). İletişimde deney, Payne Fund’ın film öncesi–sonrası ölçümlerinden Iyengar, Peters ve Kinder’in televizyon haberi deneylerine, oradan Facebook üzerindeki 689.003 kişilik çalışmaya uzanır. Bkz. [[concept:validity]], [[concept:correlation-causation]].",
+  "example": "Hanelerin kurayla bir gazete aboneliği ya da hiçbir abonelik almaması ve seçimden sonra siyasal bilgi ile katılımın karşılaştırılması."
+}

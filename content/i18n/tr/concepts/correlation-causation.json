@@ -1,0 +1,13 @@
+{
+  "id": "correlation-causation",
+  "lang": "tr",
+  "term": "ilişki ve nedensellik",
+  "altTerms": [
+    "korelasyon ve nedensellik",
+    "üçüncü değişken"
+  ],
+  "slug": "iliski-ve-nedensellik",
+  "short": "İki şeyin birlikte değişmesi (ilişki), birinin öbürüne yol açtığını göstermez; ters yön, üçüncü değişken ve zaman sırası hesaba katılmalıdır.",
+  "body": "İki şeyin birlikte değişmesi, birinin öbürüne yol açtığı anlamına gelmez. Bir ilişkiyi gördüğünde üç açıklama var: X, Y’ye yol açıyor; Y, X’e yol açıyor; ya da bir **üçüncü değişken** ikisine birden yol açıyor. Nedenselliği güçlendiren araçlar: rastgele atama, üçüncü değişkenleri denetleme ve zaman içinde aynı kişileri izleme.\n\nDoob ve Macdonald’ın Toronto çalışmasında televizyon izleme ile korku arasındaki ilişki, mahallenin gerçek suç düzeyi sabitlenince ortadan kalktı. Payne Fund’da Shuttleworth ve May sık ve seyrek film izleyen çocukları denkleştirmiş, yine de kesin deneysel denetimden yoksun kaldıklarını yazmıştı. Şiddet izleme ve saldırganlık tartışmasında “etki” ve “seçilim” hipotezleri, Slater’ın karşılıklı pekiştirme sarmalları fikriyle birlikte düşünülür. Bkz. [[concept:experiment-method]].",
+  "example": "Televizyonu çok izleyenlerin dünyayı daha tehlikeli bulması: televizyon mu korkutuyor, yoksa yaşanan mahalle mi ikisini birden etkiliyor?"
+}

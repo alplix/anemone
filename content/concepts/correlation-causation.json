@@ -1,0 +1,17 @@
+{
+  "id": "correlation-causation",
+  "family": "method",
+  "introducedBy": [],
+  "related": [
+    "experiment-method",
+    "validity",
+    "effect-size"
+  ],
+  "sources": [
+    "doob-macdonald-1979",
+    "shuttleworth-may-1933-payne",
+    "slater-2007-reinforcing-spirals",
+    "hopf-huber-weiss-2008-media-violence",
+    "huesmann-et-al-2003-tv-violence"
+  ]
+}

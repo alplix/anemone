@@ -1,0 +1,16 @@
+{
+  "id": "replication-crisis",
+  "family": "method",
+  "introducedBy": [],
+  "related": [
+    "meta-analysis",
+    "effect-size"
+  ],
+  "sources": [
+    "osc-2015-reproducibility",
+    "simmons-nelson-simonsohn-2011",
+    "john-loewenstein-prelec-2012",
+    "matthes-et-al-2015-qrp-communication",
+    "nosek-et-al-2018-preregistration"
+  ]
+}

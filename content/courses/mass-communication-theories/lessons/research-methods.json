@@ -1,0 +1,282 @@
+{
+  "id": "research-methods",
+  "people": [
+    "lazarsfeld",
+    "merton",
+    "gerbner"
+  ],
+  "concepts": [
+    "survey-research",
+    "sampling",
+    "experiment-method",
+    "content-analysis",
+    "qualitative-research",
+    "validity",
+    "reliability",
+    "effect-size",
+    "correlation-causation",
+    "meta-analysis",
+    "replication-crisis",
+    "message-system-analysis"
+  ],
+  "sources": [
+    {
+      "bib": "lohr-brick-2017-literary-digest",
+      "role": "primary"
+    },
+    {
+      "bib": "squire-1988-literary-digest",
+      "role": "primary"
+    },
+    {
+      "bib": "blumer-1933-movies-conduct",
+      "role": "primary"
+    },
+    {
+      "bib": "lazarsfeld-berelson-gaudet-1944",
+      "role": "primary"
+    },
+    {
+      "bib": "merton-kendall-1946-focused-interview",
+      "role": "primary"
+    },
+    {
+      "bib": "berelson-1952-content-analysis",
+      "role": "textbook"
+    },
+    {
+      "bib": "gerbner-1969",
+      "role": "primary"
+    },
+    {
+      "bib": "glass-1976-meta-analysis",
+      "role": "primary"
+    },
+    {
+      "bib": "rosenthal-1979-file-drawer",
+      "role": "primary"
+    },
+    {
+      "bib": "iyengar-peters-kinder-1982",
+      "role": "study"
+    },
+    {
+      "bib": "simmons-nelson-simonsohn-2011",
+      "role": "primary"
+    },
+    {
+      "bib": "osc-2015-reproducibility",
+      "role": "study"
+    },
+    {
+      "bib": "peterson-thurstone-1933-payne",
+      "role": "primary"
+    },
+    {
+      "bib": "shuttleworth-may-1933-payne",
+      "role": "primary"
+    },
+    {
+      "bib": "ercan-kan-2004-guvenirlik-gecerlik",
+      "role": "turkish-study"
+    },
+    {
+      "bib": "lincoln-guba-1988-criteria",
+      "role": "reference"
+    },
+    {
+      "bib": "lincoln-guba-1985-naturalistic-inquiry",
+      "role": "textbook"
+    },
+    {
+      "bib": "morley-1992-television-audiences",
+      "role": "study"
+    },
+    {
+      "bib": "martino-2023-lazarsfeld-voting",
+      "role": "review"
+    },
+    {
+      "bib": "cup-peoples-choice-legacy-edition",
+      "role": "reference"
+    },
+    {
+      "bib": "rugg-1941-wording",
+      "role": "primary"
+    },
+    {
+      "bib": "bradburn-2000-questionnaire-design",
+      "role": "reference"
+    },
+    {
+      "bib": "frankovic-2007-forbid-allow",
+      "role": "reference"
+    },
+    {
+      "bib": "gerber-karlan-bergan-2009",
+      "role": "study"
+    },
+    {
+      "bib": "shanahan-morgan-1999",
+      "role": "textbook"
+    },
+    {
+      "bib": "hayes-krippendorff-2007-alpha",
+      "role": "reference"
+    },
+    {
+      "bib": "lombard-et-al-2002-intercoder-reliability",
+      "role": "study"
+    },
+    {
+      "bib": "livingstone-das-2013-reception",
+      "role": "review"
+    },
+    {
+      "bib": "ang-1985-watching-dallas",
+      "role": "study"
+    },
+    {
+      "bib": "lee-2010-focus-groups",
+      "role": "review"
+    },
+    {
+      "bib": "prior-2009-inflated-news-audience",
+      "role": "study"
+    },
+    {
+      "bib": "doob-macdonald-1979",
+      "role": "study"
+    },
+    {
+      "bib": "kramer-et-al-2014",
+      "role": "study"
+    },
+    {
+      "bib": "asa-2016-pvalue-release",
+      "role": "reference"
+    },
+    {
+      "bib": "wasserstein-lazar-2016-p-values",
+      "role": "reference"
+    },
+    {
+      "bib": "funder-ozer-2019-effect-size",
+      "role": "reference"
+    },
+    {
+      "bib": "hermann-morgan-shanahan-2023",
+      "role": "review"
+    },
+    {
+      "bib": "morgan-shanahan-1997",
+      "role": "review"
+    },
+    {
+      "bib": "scharkow-bachl-2017-measurement-error",
+      "role": "study"
+    },
+    {
+      "bib": "john-loewenstein-prelec-2012",
+      "role": "study"
+    },
+    {
+      "bib": "matthes-et-al-2015-qrp-communication",
+      "role": "study"
+    },
+    {
+      "bib": "nosek-et-al-2018-preregistration",
+      "role": "review"
+    },
+    {
+      "bib": "scharkow-2016-self-reported-internet-use",
+      "role": "study"
+    },
+    {
+      "bib": "hopf-huber-weiss-2008-media-violence",
+      "role": "study"
+    },
+    {
+      "bib": "huesmann-et-al-2003-tv-violence",
+      "role": "study"
+    },
+    {
+      "bib": "slater-2007-reinforcing-spirals",
+      "role": "study"
+    },
+    {
+      "bib": "sears-1986-college-sophomores",
+      "role": "review"
+    },
+    {
+      "bib": "henrich-heine-norenzayan-2010",
+      "role": "review"
+    },
+    {
+      "bib": "mccombs-shaw-1972",
+      "role": "study"
+    },
+    {
+      "bib": "verma-2014-expression-of-concern",
+      "role": "reference"
+    },
+    {
+      "bib": "parry-et-al-2021-logged-self-report",
+      "role": "review"
+    },
+    {
+      "bib": "metin-unal-2022-icerik-analizi",
+      "role": "turkish-study"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1933,
+      "id": "payne-fund-volumes"
+    },
+    {
+      "year": 1936,
+      "id": "literary-digest-poll"
+    },
+    {
+      "year": 1940,
+      "id": "erie-county-panel"
+    },
+    {
+      "year": 1946,
+      "id": "focused-interview"
+    },
+    {
+      "year": 1952,
+      "id": "berelson-content-analysis"
+    },
+    {
+      "year": 1969,
+      "id": "gerbner-cultural-indicators"
+    },
+    {
+      "year": 1976,
+      "id": "glass-meta-analysis"
+    },
+    {
+      "year": 1979,
+      "id": "file-drawer"
+    },
+    {
+      "year": 1982,
+      "id": "iyengar-experiments"
+    },
+    {
+      "year": 2011,
+      "id": "false-positive-psychology"
+    },
+    {
+      "year": 2014,
+      "id": "emotional-contagion"
+    },
+    {
+      "year": 2015,
+      "id": "reproducibility-project"
+    }
+  ]
+}

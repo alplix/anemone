@@ -1,0 +1,12 @@
+{
+  "id": "content-analysis",
+  "lang": "tr",
+  "term": "içerik çözümlemesi",
+  "altTerms": [
+    "içerik analizi"
+  ],
+  "slug": "icerik-cozumlemesi",
+  "short": "Medya mesajlarının görünen içeriğini kod kitabı ve kodlayıcılarla düzenli biçimde kategorilere ayırıp sayan; insanlara değil mesajlara soran yöntem.",
+  "body": "İçerik çözümlemesi insanlara değil mesajlara sorar. Berelson’un klasik tanımı onu iletişimin görünen içeriğinin nesnel, düzenli ve sayısal betimlenmesi olarak koyar. Adımlar: soruyu daraltmak, örneği seçmek, sayım birimini belirlemek, kod kitabı yazmak, kodlayıcıları eğitmek, **kodlayıcılar arası güvenirliği** ölçmek, saymak ve yorumlamak.\n\nYüzde uyum kolaydır ama tesadüfi uyumu da sayar; Hayes ve Krippendorff Krippendorff alfasını önerdi. Lombard ve arkadaşları 200 içerik çözümlemesini inceleyip güvenirliğin çoğu zaman ölçülmediğini ya da raporlanmadığını gösterdi. Gerbner’in [[concept:message-system-analysis]] çözümlemesi bu yöntemin ünlü bir uygulamasıdır. Türkçe kaynaklarda yöntem bazen nitel araştırmanın bir tekniği olarak sunulur; ad aynı, yapılan iş farklı olabilir.",
+  "example": "Bir haftalık akşam bültenlerinde suç haberlerinin payını iki kodlayıcıyla ayrı ayrı saymak ve uyumlarını hesaplamak."
+}

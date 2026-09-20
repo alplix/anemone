@@ -1,0 +1,15 @@
+{
+  "id": "content-analysis",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "content analysis",
+  "altTerms": [
+    "message analysis"
+  ],
+  "slug": "content-analysis",
+  "short": "A method that sorts the manifest content of media messages into categories and counts them, using a codebook and coders; it asks messages, not people.",
+  "body": "Content analysis asks messages, not people. Berelson’s classic definition treats it as the objective, systematic and quantitative description of the manifest content of communication. The steps: narrow the question, choose the sample, define the unit of counting, write a codebook, train coders, measure **intercoder reliability**, count and interpret.\n\nPercent agreement is easy but also counts agreement by chance; Hayes and Krippendorff proposed Krippendorff’s alpha. Lombard and colleagues examined 200 content analyses and showed that reliability was often not assessed or not reported. Gerbner’s [[concept:message-system-analysis]] is a famous application of the method. In Turkish sources the method is sometimes presented as a technique within qualitative research; the name is the same, the work done can differ.",
+  "example": "Counting the share of crime stories in a week of evening news bulletins with two independent coders and computing their agreement."
+}

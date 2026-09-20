@@ -1,0 +1,12 @@
+{
+  "id": "meta-analysis",
+  "lang": "tr",
+  "term": "meta-analiz",
+  "altTerms": [
+    "üst çözümleme"
+  ],
+  "slug": "meta-analiz",
+  "short": "Benzer çalışmaların etki büyüklüklerini istatistiksel olarak birleştirip ortak bir tahmin ve farkların nedenlerini çıkaran yöntem; dosya çekmecesi sorununa ve ölçüm hatasına duyarlıdır.",
+  "body": "Meta-analiz, benzer soruları soran çok sayıda çalışmanın etki büyüklüklerini istatistiksel olarak birleştirip ortak bir tahmin çıkarır ve farkların nedenlerini (moderatörleri) arar. Terimi 1976’da Gene Glass ortaya attı. Adımlar: soruyu ve arama kurallarını yazmak, çalışmaları toplamak (yayımlanmamışlar dahil), her birinden etki büyüklüğü çıkarmak, birleştirmek, farkları açıklamak ve yanlılığı sınamak.\n\nİki tuzağı vardır: Rosenthal’ın adlandırdığı **dosya çekmecesi** sorunu (anlamlı çıkmayan çalışmalar yayımlanmaz) ve kötü ölçümün birleştirmeyle düzelmemesi. Örnek: kültivasyon ve sosyal medya üzerine 2023 meta-analizi, 66 bağımsız örneklemden 460 etki büyüklüğünü birleştirip genel etkiyi .123 buldu; 1997’deki kültivasyon meta-analizi ortalama etkiyi .09 bulmuştu. Bkz. [[concept:effect-size]], [[concept:replication-crisis]].",
+  "example": "Sosyal medya kullanımı ile dünya algısı arasındaki ilişkiyi ölçen 66 örneklemden 460 etki büyüklüğünü birleştirmek."
+}

@@ -1,0 +1,19 @@
+{
+  "id": "qualitative-research",
+  "family": "method",
+  "introducedBy": [],
+  "related": [
+    "content-analysis",
+    "validity",
+    "sampling"
+  ],
+  "sources": [
+    "merton-kendall-1946-focused-interview",
+    "lee-2010-focus-groups",
+    "lincoln-guba-1988-criteria",
+    "lincoln-guba-1985-naturalistic-inquiry",
+    "morley-1992-television-audiences",
+    "ang-1985-watching-dallas",
+    "livingstone-das-2013-reception"
+  ]
+}

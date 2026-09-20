@@ -1,0 +1,17 @@
+{
+  "id": "experiment-method",
+  "family": "method",
+  "introducedBy": [],
+  "related": [
+    "validity",
+    "correlation-causation",
+    "sampling"
+  ],
+  "sources": [
+    "gerber-karlan-bergan-2009",
+    "peterson-thurstone-1933-payne",
+    "iyengar-peters-kinder-1982",
+    "kramer-et-al-2014",
+    "sears-1986-college-sophomores"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "qualitative-research",
+  "lang": "tr",
+  "term": "nitel araştırma",
+  "altTerms": [
+    "nitel yöntemler",
+    "derinlemesine görüşme",
+    "odak grup"
+  ],
+  "slug": "nitel-arastirma",
+  "short": "Görüşme, odak grup, gözlem ve metin okuma gibi araçlarla insanların dünyayı nasıl anlamlandırdığını anlamaya çalışan; sayı yerine yorum üreten yöntem ailesi.",
+  "body": "Nitel araştırma “bu insanlar için bunun anlamı ne?” sorusunu sorar. Araçları: derinlemesine görüşme, odak grup görüşmesi, etnografi ve metin ya da söylem çözümlemesi. Ortak yanları küçük ve bilerek seçilmiş gruplar, açık uçlu veri ve yorumlamadır; bedeli, “yüzde kaç?” sorusuna yanıt verememesidir.\n\nNitel gelenek kendi ölçütlerini geliştirdi: Lincoln ve Guba inandırıcılık, aktarılabilirlik, tutarlılık ve teyit edilebilirlik ölçütlerini önerdi. İletişimde örnekleri arasında Morley’in *Nationwide* izleyicileriyle yaptığı 29 grup görüşmesi ve Ien Ang’ın kırk iki izleyici mektubunu okuduğu *Watching Dallas* vardır. Merton ve Kendall’ın 1946’daki “odaklı görüşme” makalesi, bugünkü odak grupların tarihine karışır. Bkz. [[concept:content-analysis]].",
+  "example": "Yaşlı izleyicilerle akşam haberinin günlük yaşamlarında ne anlama geldiğini konuşmak."
+}

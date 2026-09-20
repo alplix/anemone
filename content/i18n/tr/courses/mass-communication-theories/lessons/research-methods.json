@@ -1,0 +1,827 @@
+{
+  "id": "research-methods",
+  "lang": "tr",
+  "translation": {
+    "status": "source",
+    "date": "2026-09-20"
+  },
+  "title": "Araştırma Yöntemleri",
+  "slug": "arastirma-yontemleri",
+  "description": "Anket, deney, içerik çözümlemesi ve nitel yöntemler nasıl çalışır? Örneklem, geçerlik, nedensellik ve tekrar sorunlarıyla bir çalışmayı eleştirel okumayı öğren.",
+  "claim": "Bir araştırma bulgusu yalnızca onu üreten yöntemin izin verdiği kadar güçlüdür; bu yüzden bir çalışmayı okurken “ne buldular?” diye sormadan önce “kimden, neyle ölçerek, neyle karşılaştırarak buldular?” diye sormak gerekir.",
+  "keywords": [
+    "araştırma yöntemleri",
+    "anket",
+    "örneklem",
+    "panel",
+    "deney",
+    "rastgele atama",
+    "iç geçerlik",
+    "dış geçerlik",
+    "içerik çözümlemesi",
+    "nitel araştırma",
+    "güvenirlik",
+    "geçerlik",
+    "nedensellik",
+    "etki büyüklüğü",
+    "meta-analiz",
+    "tekrarlanabilirlik",
+    "Literary Digest",
+    "Erie County",
+    "Payne Fund"
+  ],
+  "updated": "2026-09-20",
+  "timeline": {
+    "payne-fund-volumes": "Payne Fund çalışmalarının ilk ciltleri Macmillan’dan çıktı (Peterson–Thurstone, Shuttleworth–May, Blumer)",
+    "literary-digest-poll": "Literary Digest anketi: yaklaşık 2,4 milyon yanıt, yanlış tahmin",
+    "erie-county-panel": "Erie County seçmen paneli: 600 kişiyle aylık görüşmeler (Mayıs–Kasım 1940)",
+    "focused-interview": "Merton ve Kendall: “odaklı görüşme” makalesi",
+    "berelson-content-analysis": "Berelson, Content Analysis in Communication Research",
+    "gerbner-cultural-indicators": "Gerbner: “Toward Cultural Indicators” makalesi",
+    "glass-meta-analysis": "Glass: “meta-analiz” terimi",
+    "file-drawer": "Rosenthal: “dosya çekmecesi” sorunu",
+    "iyengar-experiments": "Iyengar, Peters ve Kinder: televizyon haberi deneyleri",
+    "false-positive-psychology": "Simmons ve arkadaşları: “False-Positive Psychology”",
+    "emotional-contagion": "Kramer ve arkadaşları: 689.003 kişilik Facebook deneyi",
+    "reproducibility-project": "Açık Bilim İş Birliği: 100 psikoloji çalışmasının tekrarı"
+  },
+  "cards": [
+    {
+      "id": "ctx-digest",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "2,4 milyon yanıt, yanlış kazanan",
+      "body": "Ekim 1936. ABD başkanlık seçimine haftalar var ve *Literary Digest* dergisi kimin kazanacağını öğrenmek için yaklaşık 10 milyon kişiye posta oyu pusulası göndermiş. Yaklaşık 2,4 milyonu geri dönmüş: bugünkü hiçbir anketin hayal bile edemeyeceği bir sayı. Dergi, Cumhuriyetçi aday Alfred Landon’ın oyların yüzde 54’ünü alarak kazanacağını duyurdu. [[cite:lohr-brick-2017-literary-digest]]\n\nSeçimi Franklin Roosevelt kazandı: oyların yüzde 60’ından fazlasını ve 523 seçmen oyunu aldı. [[cite:lohr-brick-2017-literary-digest]]\n\nNe olmuştu? Adres listesi ağırlıklı olarak telefon rehberlerinden ve otomobil kayıtlarından derlenmişti; Gallup’un teşhisi, bu listenin varlıklıları fazla temsil ettiği yönündeydi. Üstelik pusulaların yalnızca yaklaşık yüzde 24’ü geri dönmüştü. [[cite:lohr-brick-2017-literary-digest]] Sonraki incelemeler işin öbür yüzünü de gösterdi: Squire’a göre hem örneklem hem de kimin yanıt verdiği çarpıktı ve ikisi birleşince tahmin fırlamıştı. Ama herkes yanıt verseydi bile dergi en azından kazananı doğru bilirdi. [[cite:squire-1988-literary-digest]]\n\nDerse bu hikâyeyle başlıyoruz, çünkü bütün yöntem dersi tek bir soruya çıkar: *bu sayı nereden geldi?* İletişim araştırmalarında okuduğun her yüzde, her “etki”, her manşet bir yöntemin ürünü. Yöntemi anlamadan sonucu okumak, tarifi görmeden yemeğe puan vermeye benziyor.",
+      "question": {
+        "id": "ctx-digest-q",
+        "type": "mcq",
+        "prompt": "Hayal et: bir haber sitesi, mobil uygulamasında açılan bir pop-up ile 200 bin kullanıcıdan “Yerel seçimde hangi adayı destekliyorsun?” sorusuna yanıt topluyor ve sonucu “şehrin görüşü” diye duyuruyor. Literary Digest hikâyesine göre en büyük risk hangisi?",
+        "options": [
+          "200 bin kişi, bir şehir için yeterince büyük bir sayı değil.",
+          "Soru çok kısa olduğu için anlaşılmamış olabilir.",
+          "Anketler seçim sonuçlarını hiçbir zaman öngöremez.",
+          "Yanıt verenler uygulamayı kullanan ve pop-up’a tıklamayı kendileri seçen bir grup; büyük sayı bu çarpıklığı düzeltmez."
+        ],
+        "answer": 3,
+        "explain": "Digest’in 2,4 milyon yanıtı bile, yanlış kesimden geldiği ve yanıt verenler kendilerini seçtiği için yetmedi: sayı büyüklüğü, seçilme biçiminin eksiğini kapatmaz. “200 bin kişi yetmez” yanıtı tam da bu yanılgıyı yapıyor (“daha çok kişi = daha doğru”). Sorunun kısa olması olası bir sorun ama bu vakanın dersi değil; “anketler asla öngöremez” savı ise aşırı genelleme, çünkü iyi kurulmuş anketler öngörü yapabilir."
+      }
+    },
+    {
+      "id": "people-milestones",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "text",
+      "title": "Yöntemlerin takvimi: bir avuç dönüm noktası",
+      "body": "Yöntemler gökten inmedi; her biri bir öncekinin körlüğüne verilmiş bir cevap. Bu dersin iskeleti şu:\n\n- **1933:** Payne Fund çalışmalarının ilk ciltleri yayımlandı; filmlerin çocuklara etkisi üç ayrı tasarımla incelendi (bir sonraki kart). [[cite:blumer-1933-movies-conduct]]\n- **1936:** *Literary Digest* anketi, büyük ama çarpık örneklemin simgesi oldu. [[cite:lohr-brick-2017-literary-digest]]\n- **1940:** Erie County seçmen paneli: 600 kişiyle Mayıs’tan Kasım’a aylık görüşmeler. Yöneten [[person:lazarsfeld|Paul Lazarsfeld]]; kitap 1944’te çıktı. [[cite:lazarsfeld-berelson-gaudet-1944]]\n- **1946:** [[person:merton|Robert K. Merton]] ile Patricia Kendall’ın “odaklı görüşme” makalesi. [[cite:merton-kendall-1946-focused-interview]]\n- **1952:** Bernard Berelson’un *Content Analysis in Communication Research* kitabı. [[cite:berelson-1952-content-analysis]]\n- **1969:** [[person:gerbner|George Gerbner]], “Kültürel Göstergeler” programını ve mesaj sistemlerinin çözümlenmesini ortaya koydu. [[cite:gerbner-1969]]\n- **1976:** Gene Glass “meta-analiz” terimini ortaya attı. [[cite:glass-1976-meta-analysis]] **1979:** Robert Rosenthal, “dosya çekmecesi” sorununa karşı ne kadar sıfır sonuç gerektiğini hesaplayan yöntemler önerdi. [[cite:rosenthal-1979-file-drawer]]\n- **1982:** Iyengar, Peters ve Kinder’in televizyon haberi deneyleri, siyasal iletişimde deneyin geri çağrılmasını savundu. [[cite:iyengar-peters-kinder-1982]]\n- **2011–2015:** Simmons ve arkadaşlarının yanlış pozitif uyarısı (2011) ve 100 çalışmayı yeniden yapan Açık Bilim İş Birliği (2015). [[cite:simmons-nelson-simonsohn-2011]] [[cite:osc-2015-reproducibility]]\n\nTarih ezberlemek yerine sırayı hatırla: önce “kimi seçtin” (örneklem), sonra “neyle karşılaştırdın” (tasarım), en sonda “buna güvenebilir miyiz” (tekrar, meta-analiz).",
+      "question": {
+        "id": "people-milestones-q",
+        "type": "mcq",
+        "prompt": "Bir arkadaşın “meta-analiz terimini Rosenthal 1979’da icat etti” diyor. Aşağıdakilerden hangisi doğru düzeltmedir?",
+        "options": [
+          "Terimi 1940’ta Lazarsfeld’in Erie County ekibi ortaya attı.",
+          "Terim Merton ve Kendall’ın 1946 makalesinden geliyor.",
+          "Terimi 1976’da Gene Glass ortaya attı; Rosenthal (1979) ise “dosya çekmecesi” sorunuyla ilgilendi.",
+          "Terimi Berelson 1952’de kitabında kullandı."
+        ],
+        "answer": 2,
+        "explain": "Glass 1976’da benzer çalışmaların sonuçlarını istatistiksel olarak sentezlemek için “meta-analiz” dedi; Rosenthal’ın 1979 makalesi ise yayımlanmayan (dosya çekmecesindeki) sıfır sonuçlara karşı bir bulguyu ne kadar sağlam saymamız gerektiğini hesaplayan yöntemlerle ilgiliydi. Diğer seçenekler tarihleri ve adları birbirine karıştırıyor: Erie County paneldir, Merton–Kendall odaklı görüşmedir, Berelson içerik çözümlemesidir."
+      }
+    },
+    {
+      "id": "people-payne",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "story",
+      "title": "1933: Üç tasarım, bir soru, dürüst bir itiraf",
+      "body": "1928’de Motion Picture Research Council’ın yöneticisi William H. Short, üniversitelerden psikolog, sosyolog ve eğitimcileri toplayıp o günün büyük sorusunu ortaya attı: sinema çocuklara ne yapıyor? Çalışma başkanı W. W. Charters’ın önsözüne göre o güne kadar kimse bunun cevabını genel ve kişisel olmayan biçimde bilmiyordu; herkes kendi anekdotunu anlatıyordu. Payne Fund’ın parasıyla 1929–1932 arasında dört yıl çalışıldı ve sonuç, Macmillan’ın ciltler hâlinde yayımladığı on iki çalışma oldu; ilk ciltler 1933’te çıktı. [[cite:peterson-thurstone-1933-payne]]\n\nBu on iki çalışmanın üçü, üç ayrı yöntem dersi gibi okunabilir:\n\n- **Deney (Peterson ve Thurstone).** Öğrencilere bir tutum ölçeği verilir, sonra bir film izlenir, ertesi sabah ölçek tekrarlanır. Soru: *tek bir film tutumu oynatır mı?* [[cite:peterson-thurstone-1933-payne]]\n- **Karşılaştırmalı anket (Shuttleworth ve May).** Sık film izleyen çocuklar seyrek izleyenlerle kıyaslanır; gruplar yaş, sınıf, cinsiyet ve aile arka planı bakımından denkleştirilir. Soru: *film alışkanlığı hangi davranışlarla birlikte görülüyor?* [[cite:shuttleworth-may-1933-payne]]\n- **Yaşam öyküleri (Blumer).** Gençler ve çalışanlar “sinema otobiyografisi” yazar: 634 üniversite öğrencisi, 481 kolej öğrencisi, 583 lise öğrencisi, 67 büro ve 58 fabrika çalışanı. Soru: *filmler yaşamlarına nasıl giriyor?* [[cite:blumer-1933-movies-conduct]]\n\nDürüst itiraf da metinlerin içinde. Shuttleworth ve May, karşılaştırmalı tasarımın kesin deneysel denetimden yoksun kaldığını, gözlenen farkın ne kadarının filmlere bağlanacağını söylemenin güç olduğunu yazıyor. [[cite:shuttleworth-may-1933-payne]] Blumer ise kendi saydığı sıklıkların kesin sayılmaması gerektiğini belirtiyor. [[cite:blumer-1933-movies-conduct]] Yöntemin sınırını bilen araştırmacı, sonucu da o sınırın içinde konuşturur.",
+      "question": {
+        "id": "people-payne-q",
+        "type": "mcq",
+        "prompt": "Shuttleworth ve May’ın “sık film izleyen çocuklar, seyrek izleyenlerden şu açılardan farklı” bulgusu neden tek başına “filmler onları böyle yaptı” sonucunu doğrulamaz?",
+        "options": [
+          "Çünkü o dönemde tutum ölçmek mümkün değildi.",
+          "Çünkü karşılaştırmada film izlemeyen hiç çocuk yoktu.",
+          "Çünkü filme sık gitmeyi çocuklar kendileri seçiyor: fark filmden de gelebilir, filme gitmeyi seçen çocuk tipinden de.",
+          "Çünkü örneklem kesinlikle çok küçüktü."
+        ],
+        "answer": 2,
+        "explain": "Karşılaştırmalı tasarımda gruplar kendiliğinden oluşur; yaş, sınıf ve aile arka planı denkleştirilse bile, filme gitmeyi seçen çocukların başka bir yönden farklı olması mümkün kalır. Bu, kendini seçme sorunudur. “Tutum ölçmek mümkün değildi” yanıtı yanlış: aynı ciltte tutum ölçekleri kullanılıyordu. “Karşılaştırmada film izlemeyen çocuk yoktu” yanıtı yanlış: karşılaştırma tam da seyrek izleyenlerle yapılıyordu. “Örneklem çok küçüktü” ise dayanaksız bir varsayım."
+      }
+    },
+    {
+      "id": "deep-payne",
+      "section": "people-time",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Payne Fund’da bir deney nasıl kuruldu (Hyde Park Lisesi, Nisan 1929)",
+      "body": "Peterson ve Thurstone’un ilk deneyi Nisan 1929’da Chicago’da, Hyde Park Lisesi ile bir sinema salonunun iş birliğiyle yapıldı. Amaç, filmlerin ırk ve milliyet tutumlarına etkisini görmekti. Öğrencilere 23 milliyetin yer aldığı, 237 ikili karşılaştırmadan oluşan bir liste verildi; her ikilide hangisiyle daha çok bir arada olmak istedikleri soruldu. Ardından tatil haftasında dört film gösterildi (*The Jazz Singer*, *Michael Strogoff*, *Four Sons* ve *The Emden*) ve liste 6 Mayıs Pazartesi günü yeniden uygulandı. [[cite:peterson-thurstone-1933-payne]]\n\nSonraki deneylerin genel planı şuydu: öğrencilere bir tutum ölçeği verilir ve bir süre sonra yeniden uygulanacağı söylenir; ilk uygulama filmden yaklaşık iki hafta önce, ikincisi filmi izlediklerinin ertesi sabahı yapılır. Deney grubuna yalnızca filme gelip hem önceki hem sonraki ölçeği dolduranlar alınır (bu bir eleme adımıdır; bizim yorumumuz). Filmler 600–800 film arasından, dağıtımcıların basın föylerine bakılarak elenmişti. Yazarlar tek filmin etkisini, iki filmin birikimli etkisini, farklı yaş gruplarını ve etkinin kalıcılığını ayrı ayrı inceledi. [[cite:peterson-thurstone-1933-payne]]\n\nShuttleworth ve May bu deney çizgisini şöyle özetler: Thurstone ve arkadaşları tek bir filmin tutumları belirli yönde değiştirebileceğini oldukça kesin deneysel yöntemlerle göstermişti; örneğin bir film Çinlilere karşı tutumu olumlu, bir başkası olumsuz yönde oynatmıştı. Ama asıl soru, çocuğun *bütün* film deneyiminin genel etkisiydi ve bunun için deneysel yöntemi bırakıp anket yöntemine geçtiler. [[cite:shuttleworth-may-1933-payne]] Yani yöntemi sorunun büyüklüğü belirler: tek bir film denenebilir, bir çocukluk denenemez."
+    },
+    {
+      "id": "claim-core",
+      "section": "claim",
+      "layer": "core",
+      "kind": "text",
+      "title": "Temel iddia: bulgu, yöntemin izin verdiği kadar güçlüdür",
+      "body": "Bu dersin iddiası şu: **bir araştırma bulgusu, yalnızca onu üreten yöntemin izin verdiği kadar güçlüdür; bu yüzden bir çalışmayı okurken “ne buldular?” sorusundan önce “kimden, neyle ölçerek, neyle karşılaştırarak buldular?” diye sormak gerekir.**\n\nÜç soru bütün dersin omurgası:\n\n1. **Kimden?** Yanıt verenler ya da incelenen mesajlar, konuşulan bütünü temsil ediyor mu? ([[concept:sampling]]; Literary Digest.)\n2. **Neyle ölçerek?** Ölçüm, ölçtüğünü sandığı şeyi ölçüyor mu, her seferinde aynı sonucu veriyor mu? ([[concept:validity]], [[concept:reliability]].)\n3. **Neyle karşılaştırarak?** Fark gerçekten incelenen nedenden mi geliyor, yoksa başka bir şeyden mi? ([[concept:correlation-causation]].)\n\nÖnceki derste ([[lesson:what-is-theory]]) kuramların sınanabilir olması gerektiğini konuştuk. Sınamanın kendisi burada başlıyor: bir hipotez bir yöntemle veriye dönüşmezse dilek olarak kalır. Sonraki derslerin çoğu bir çalışma anlatıyor; örneğin [[lesson:payne-fund-mars]], [[lesson:voting-studies]] ve [[lesson:agenda-setting]]. Hepsinde bu üç soruyu sorabileceksin.\n\nBir uyarı: yöntem bilmek şüpheci olmak demek, alaycı olmak değil. Hiçbir yöntem kusursuz değil; iyi araştırmacı kusurunu bilen ve sonucu o kusurun izin verdiği kadar iddialı söyleyendir. Bu ders bir yöntemin “kötü” olduğunu söylemiyor; her birinin neyi gördüğünü ve neyi göremediğini gösteriyor.",
+      "question": {
+        "id": "claim-core-q",
+        "type": "tf",
+        "prompt": "Doğru mu yanlış mı: Bir yöntemin “iyi” ya da “kötü” olduğu, cevaplanmak istenen sorudan bağımsız olarak söylenebilir.",
+        "answer": false,
+        "explain": "Yanlış. Yöntem sorudan doğar: “yüzde kaç?” sorusuna anket, “neden?” sorusuna deney, “ne anlama geliyor?” sorusuna görüşme uygundur. Deney nedensellik için güçlüdür ama “kaç kişi?” sorusunu yanıtlamaz; anket geniş kesimlere ulaşır ama nedeni kesinleştiremez. Her yöntem bir şeyi görür, bir şeyi göremez."
+      }
+    },
+    {
+      "id": "concepts-glossary",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Yöntem dili: on başlıkta sözlük",
+      "body": "Yöntem tartışmaları birkaç sözcüğün etrafında döner. Sözlüğün:\n\n- **Evren ve örneklem** ([[concept:sampling]]): evren, hakkında konuşmak istediğin bütün topluluk; örneklem, gerçekte ölçtüğün bölüm. Temsil gücünü büyüklük değil, seçilme biçimi belirler.\n- **Değişken:** farklı değerler alan şey (izlenen dakika, haber türü, korku puanı).\n- **İşlemselleştirme:** soyut bir kavramı ölçülebilir hâle getirmek. “Haber maruziyeti” = son yedi günde akşam haberini izlediğin gün sayısı, gibi.\n- **Güvenirlik** ([[concept:reliability]]): ölçümün tutarlılığı; Türkçe kaynaklar bunu ölçüm değerlerinin kararlılığının göstergesi olarak anlatır. [[cite:ercan-kan-2004-guvenirlik-gecerlik]]\n- **Geçerlik** ([[concept:validity]]): ölçmek istediğini gerçekten ölçme derecesi. [[cite:ercan-kan-2004-guvenirlik-gecerlik]] **İç geçerlik:** fark gerçekten incelediğin nedenden mi geliyor? **Dış geçerlik:** bulgu başka insanlara, ortamlara ve zamanlara uzanır mı?\n- **Karıştırıcı (üçüncü) değişken:** iki şeyin birlikte değişmesine yol açan üçüncü etken ([[concept:correlation-causation]]).\n- **Etki büyüklüğü** ([[concept:effect-size]]): farkın ya da ilişkinin *ne kadar büyük* olduğu. **İstatistiksel anlamlılık** ise yalnızca “tesadüf olabilir mi?” sorusunu yanıtlar.\n- **Meta-analiz** ([[concept:meta-analysis]]): çok sayıda çalışmanın sonuçlarını birleştirmek.\n- **Tekrar (replikasyon)** ([[concept:replication-crisis]]): aynı çalışmayı yeniden yapıp aynı sonucun çıkıp çıkmadığına bakmak.\n- **Deney, anket, içerik çözümlemesi, nitel yöntem:** dört ana yöntem ailesi; yeri geldikçe göreceksin ([[concept:experiment-method]], [[concept:survey-research]], [[concept:content-analysis]], [[concept:qualitative-research]]).",
+      "question": {
+        "id": "concepts-glossary-q",
+        "type": "mcq",
+        "prompt": "Hayal et: bir araştırmacı 100 bin tweet toplayıp “Türkiye’nin siyasal eğilimi” hakkında konuşuyor. Bu cümlede evren ve örneklem nedir?",
+        "options": [
+          "Evren de örneklem de o 100 bin tweet’tir.",
+          "Evren, hakkında konuşmak istediği topluluk (Türkiye’deki seçmenler); örneklem, gerçekte ölçtüğü kesim (tweet atan ve toplanabilen hesaplar).",
+          "Evren, Twitter’daki bütün hesaplar; örneklem, Türkiye’deki seçmenlerdir.",
+          "Evren ile örneklem aynı kavramın iki adıdır."
+        ],
+        "answer": 1,
+        "explain": "Evren, hakkında konuşmak istediğin bütündür; örneklem, gerçekte ölçtüğün parçadır. Buradaki kritik soru, örneklemin evreni temsil edip etmediği: tweet atanlar Türkiye’deki seçmenlerin küçük ve farklı bir kesimi olabilir. Üçüncü seçenek tanımları ters çeviriyor; birinci ve dördüncü seçenek ise sorunun tam da sorduğu ayrımı siliyor."
+      }
+    },
+    {
+      "id": "concepts-families",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Mini laboratuvar: soruya yöntem seç",
+      "body": "Elinde dört alet ve dört soru var. Aletleri tanı:\n\n- **Anket** ([[concept:survey-research]]): bir kitleye aynı soruları sorar. Cevapladığı soru: *ne kadar, kaç kişi, hangi gruplarda?*\n- **Deney** ([[concept:experiment-method]]): koşulu sen değiştirirsin, insanları kurayla gruplara bölersin, farkı izlersin. Cevapladığı soru: *neden, bu şey ona yol açıyor mu?*\n- **İçerik çözümlemesi** ([[concept:content-analysis]]): insanlara değil mesajlara sorar. Cevapladığı soru: *ne sıklıkta, nasıl, kimlerle?*\n- **Nitel yöntemler** ([[concept:qualitative-research]]): görüşme, gözlem, metin okuma. Cevapladığı soru: *nasıl, hangi anlamda?*\n\nŞimdi sorular (hepsi hayalî):\n\n1. Bir haber sitesinin manşetlerinde “şok” sözcüğü son beş yılda sıklaştı mı?\n2. Gençlerin yüzde kaçı haberi öncelikle telefondan izliyor?\n3. Yanlış haberin altına düzeltme notu koymak, ona inanmayı azaltır mı?\n4. Yaşlı bir izleyici için akşam haberi günlük yaşamda ne anlama geliyor?\n\nKural: her sorunun “en uygun” bir aleti var, ama başka bir alet de yan bilgi verebilir. Asıl alışkanlık şu: bir çalışmayı okurken önce sorunun türünü, sonra yöntemin ona uyup uymadığını sor.",
+      "question": {
+        "id": "concepts-families-q",
+        "type": "match",
+        "prompt": "Her soruyu, cevaplamaya en uygun yöntemle eşleştir.",
+        "pairs": [
+          [
+            "Manşetlerde “şok” sözcüğü son beş yılda sıklaştı mı?",
+            "İçerik çözümlemesi"
+          ],
+          [
+            "Gençlerin yüzde kaçı haberi öncelikle telefondan izliyor?",
+            "Anket"
+          ],
+          [
+            "Düzeltme notu, yanlış habere inanmayı azaltır mı?",
+            "Deney"
+          ],
+          [
+            "Yaşlı bir izleyici için akşam haberinin anlamı ne?",
+            "Derinlemesine görüşme"
+          ]
+        ],
+        "explain": "Sıklık sayımı mesaj düzeyinde bir sorudur: içerik çözümlemesi. “Yüzde kaç?” bir kitleye aynı soruyu sorup oranları çıkarmayı gerektirir: anket. “Bu şey şuna yol açıyor mu?” sorusu kurayla atanan gruplarla en temiz biçimde yanıtlanır: deney. “Ne anlama geliyor?” sorusu ise sayıdan çok yorum ister: görüşme. En sık karışan çift anket ile deney: ikisi de insanlara sorar ama biri oranı, öteki nedeni araştırır."
+      }
+    },
+    {
+      "id": "assumptions-myth",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "myth",
+      "title": "“Nitel araştırma keyfî yorumdur” mu?",
+      "body": "**İnsanlar ne sanır.** Sayı yoksa bilim de yoktur; görüşme, gözlem ve metin okuma “sadece yorum”dur, araştırmacı ne isterse onu bulur.\n\n**Kanıtlar ne diyor.** Nitel gelenek bu itirazı ciddiye aldı ve kendi güvenilirlik ölçütlerini yazdı. Yvonna Lincoln ve Egon Guba, nitel (doğalcı) araştırma için inandırıcılık (credibility), aktarılabilirlik (transferability), tutarlılık (dependability) ve teyit edilebilirlik (confirmability) ölçütlerini önerdi; bunlar sırasıyla iç geçerlik, dış geçerlik, güvenirlik ve nesnellik gibi geleneksel ölçütlerin karşılıkları olarak düşünüldü. [[cite:lincoln-guba-1988-criteria]] [[cite:lincoln-guba-1985-naturalistic-inquiry]] Yani soru “ölçüt var mı?” değil, “hangi ölçüt, hangi soruya uygun?”.\n\nKendi sınırını yazan nitel araştırmacıya örnek: David Morley, *Nationwide* adlı televizyon programının izleyicileriyle yaptığı 29 grup görüşmesinde bireysel görüşme yerine grup görüşmesini seçmişti; çünkü bireysel görüşmelerin çoğu insanı toplumsal bağlamından kopuk bir birey gibi ele alıyordu. Sonradan kendi eksiğini de not etti: gruplarla okul gibi ortak yerlerde konuşmuştu, yani televizyonun normalde izlendiği evde değil. [[cite:morley-1992-television-audiences]]\n\n**Bizim yorumumuz:** sayılar da varsayım taşır. “Günde iki saat televizyon izliyorum” cümlesi bir ölçümdür ve doğruluğu ayrıca sınanmalıdır (ölçüm kartına bak). Nitel–nicel ayrımı “bilimsel–bilimsel olmayan” ayrımı değil, farklı soruların ayrımıdır; [[lesson:what-is-theory]] dersindeki “yorumlayıcı paradigma” tam da bu soruları soran gelenekti.",
+      "question": {
+        "id": "assumptions-myth-q",
+        "type": "mcq",
+        "prompt": "Lincoln ve Guba’nın “aktarılabilirlik” (transferability) ölçütü, geleneksel hangi ölçütün nitel araştırmadaki karşılığı olarak önerildi?",
+        "options": [
+          "Güvenirlik",
+          "İç geçerlik",
+          "Nesnellik",
+          "Dış geçerlik"
+        ],
+        "answer": 3,
+        "explain": "Aktarılabilirlik, bulgunun başka bağlamlara uzanıp uzanamayacağını soran ölçüttür; geleneksel dış geçerliğin karşılığıdır. İnandırıcılık iç geçerliğe, tutarlılık güvenirliğe, teyit edilebilirlik nesnelliğe karşılık gelir. En sık karışan çift, aktarılabilirlik ile tutarlılıktır: biri “başka yere uzanır mı?”, öteki “süreç izlenebilir ve tutarlı mı?” diye sorar."
+      }
+    },
+    {
+      "id": "how-survey",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Anket, adım adım: nerede “Literary Digest” olunur?",
+      "body": "1. **Evreni tanımla.** Kim hakkında konuşacaksın: “üniversite öğrencileri” mi, “18–29 yaşındaki herkes” mi? Evren bulanıksa örneklem de bulanık olur.\n2. **Örneklem çerçevesini bul.** Evrenin ulaşılabilir bir listesi lazım. 1936’da bu liste ağırlıklı olarak telefon rehberleri ve otomobil kayıtlarıydı; çerçeve evrenden eksik kalınca örneklem baştan çarpık başlar. [[cite:lohr-brick-2017-literary-digest]]\n3. **Örneklemi seç.** Herkesin hesaplanabilir bir seçilme şansı olan rastgele seçim ile eline ilk geçenlere sormak (kolayda örnekleme) aynı şey değil. Sayı büyüklüğü, seçilme biçiminin eksiğini kapatmaz.\n4. **Soruyu yaz ve dene.** Sözcük seçimi cevabı oynatır (derin karta bak). Soruyu birkaç kişiyle önceden dene.\n5. **Alana çık ve yanıt oranını izle.** Kimler yanıt vermiyor? Digest’te yanıt oranı yaklaşık yüzde 24’tü. [[cite:lohr-brick-2017-literary-digest]]\n6. **Yanıtsızlığı düzelt, ama abartma.** Lohr ve Brick, Digest’in 1932 oylarına dair topladığı bilgiyle ağırlıklandırma yapılsaydı Roosevelt’in kazanacağının görüleceğini, ama yanlılığın yine de çok büyük kalacağını gösterdi. [[cite:lohr-brick-2017-literary-digest]]\n7. **Sınırı yaz.** “Bu sonuç şu evren, şu dönem, şu yanıt oranı için geçerli.”\n\nBir tasarım seçimi daha var. **Kesit** araştırma herkese bir kez sorar ve bir anın fotoğrafını verir. **Panel** araştırma aynı kişilere tekrar döner ve *kimin fikri nasıl değişti* sorusunu yanıtlar (derin kart: Erie County paneli). [[concept:survey-research]]",
+      "question": {
+        "id": "how-survey-q",
+        "type": "mcq",
+        "prompt": "Bir araştırmacı, yanıt oranı düşük bir anketi “ağırlıklandırarak” düzeltmeyi öneriyor. Lohr ve Brick’in 1936 çözümlemesinden çıkan ders hangisi?",
+        "options": [
+          "Doğru bilgiyle ağırlıklandırma tahmini Roosevelt lehine çevirirdi, ama yanlılık yine de çok büyük kalırdı; sorun yalnızca onarılmamalı, önlenmeye çalışılmalı.",
+          "Ağırlıklandırma, yanıtsızlık yanlılığını tamamen ortadan kaldırır.",
+          "Ağırlıklandırma yalnızca telefon anketlerinde işe yarar.",
+          "Yanıt oranı ne olursa olsun sonuç değişmez."
+        ],
+        "answer": 0,
+        "explain": "Lohr ve Brick, 1932 oylarıyla ağırlıklandırılsaydı Digest’in kazananı doğru bulacağını ama tahminlerdeki yanlılığın yine çok büyük kalacağını gösterdi: düzeltme yardımcı olur, sihir değildir. “Ağırlıklandırma yanlılığı tamamen ortadan kaldırır” yanıtı tam da bu abartıyı yapıyor. “Yalnızca telefon anketlerinde işe yarar” savı dayanaksız; “yanıt oranı ne olursa olsun sonuç değişmez” savı ise yanıt oranının önemini yok sayıyor."
+      }
+    },
+    {
+      "id": "deep-erie",
+      "section": "how-it-works",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Erie County paneli, aynı insanlara geri dönmek",
+      "body": "1940’ta Columbia Üniversitesi’nden bir ekip, Rockefeller Vakfı desteğiyle Ohio’nun küçük Erie ilçesine gitti. Soru, o günden bugüne her seçimde sorulan soruydu: insan neye göre oy veriyor, gazete ve radyo etkili mi? Ekip yalnızca bir kez anket yapmayı yetersiz buldu, çünkü anket kimin nasıl oy verdiğini söyler ama *neden* ve *ne zaman* fikir değiştirdiğini söylemez. Çözüm panel oldu: Mayıs’tan Kasım 1940’a kadar, aynı 600 kişiyle her ay yeniden görüşüldü. [[cite:martino-2023-lazarsfeld-voting]] [[cite:cup-peoples-choice-legacy-edition]] [[cite:lazarsfeld-berelson-gaudet-1944]]\n\nPanelin gücü küçük bir hayalle görünür (bizim örneğimiz): bir kesit anket iki ayda da “yüzde 50 A, yüzde 50 B” bulsun. Bu, “hiçbir şey değişmedi” diye okunur. Panel ise aynı kişilere döndüğü için, belki yüzde 10’un A’dan B’ye, yüzde 10’un B’den A’ya geçtiğini gösterir: net etki sıfır olabilir, hareket sıfır değildir. Kampanya araştırmalarında kimin, neyle karşılaştıktan sonra fikir değiştirdiğini yakalamak için panele ihtiyaç bu yüzden doğar.\n\nBedeli de var: aynı insanları aylarca bulmak zor ve pahalıdır, bazıları çekilebilir, sürekli sorulan biri sorulmayan gibi davranmayabilir (bu iki uyarı genel yöntem bilgisidir, bizim eklememiz).\n\nÇalışmanın bilinen sonucu, kişisel ilişkilerin ve aktif, bilgili “kanaat önderlerinin” medyadan bile etkili görünmesiydi. [[cite:martino-2023-lazarsfeld-voting]] Ayrıntısı [[lesson:voting-studies]] ve [[lesson:two-step-flow]] derslerinde."
+    },
+    {
+      "id": "deep-wording",
+      "section": "how-it-works",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: “Yasaklamak” ile “izin vermemek” aynı soru mu?",
+      "body": "1941’de Donald Rugg, iki ayrı gruba birbirinin aynası gibi görünen iki soru sordu. Birinde: “Sizce ABD, demokrasiye karşı halka açık konuşmalara *izin vermeli* mi?” Ötekinde: “…demokrasiye karşı halka açık konuşmaları *yasaklamalı* mı?” Bradburn’un aktardığına göre konuşma özgürlüğünden yana olanların oranı ilk soruda yüzde 21, ikincisinde yüzde 39 çıktı. [[cite:rugg-1941-wording]] [[cite:bradburn-2000-questionnaire-design]] CBS’in sunumunda aynı sonuç, fikri olanlar arasında şöyle geçiyor: yüzde 75 “izin verilmesin” derken yalnızca yüzde 54 “yasaklansın” diyor. [[cite:frankovic-2007-forbid-allow]] (İki sunum, fikri olmayanların hesaba katılıp katılmamasına göre farklı yüzdeler veriyor; ama aynı şeyi söylüyor.)\n\nSonraki hikâye de ilginç: Frankovic, 1989’daki bir Genel Toplumsal Araştırma deneyinde (“itiraf etmiş bir komünist”in konuşması) “yasaklamak” ile “izin vermemek” arasında fark kalmadığını, yüzde 34’e karşı yüzde 35 çıktığını aktarıyor. [[cite:frankovic-2007-forbid-allow]] Yani sözcük etkisi her zaman, her konuda aynı büyüklükte değil.\n\nDers: anket sorusu nötr bir pencere değildir. Yarısına bir sözcükle, yarısına ötekiyle sormak, sözcük etkisini görmenin en basit yollarından biri. Ve bir anket sonucunu okurken sorunun *tam metnini* aramak, en ucuz denetimdir. [[concept:survey-research]]"
+    },
+    {
+      "id": "how-experiment",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "story",
+      "title": "Kapıya bedava gazete geldi",
+      "body": "2005 sonbaharı, Virginia. Araştırmacılar, Washington’a 25 mil kadar uzaklıktaki Prince William ilçesinde yaşayan ve *Washington Post*’a da *Washington Times*’a da abone olmadığını söyleyen 3.347 haneyi seçti. Sonra bir kura çekildi: kimine Post, kimine Times on hafta ücretsiz gönderilecek; üçüncü grup hiçbir şey almayacaktı. Gazetelerden biri görece liberal, öbürü muhafazakâr sayılıyordu. Soru: gazete okumak insanı değiştirir mi? [[cite:gerber-karlan-bergan-2009]]\n\nSeçimden bir hafta sonra yapılan görüşme ve devlet kayıtları şunu gösterdi: iki gazete de siyasal bilgiyi, açıklanan görüşleri ya da katılımı ölçülebilir biçimde değiştirmedi. Ama hangisini alırsa alsın, gazete alan haneler Demokrat adaya biraz daha fazla destek verdi. Yazarlar bunu, gazetenin çizgisinden çok gazeteyle karşılaşmanın kendisine bağlıyor. [[cite:gerber-karlan-bergan-2009]]\n\nBu, **deneyin** mantığı: kura (rastgele atama) hanelerin baştan birbirine benzemesini sağlar; artık farkı yalnızca gazete açıklayabilir. Bu güvenceye **iç geçerlik** diyoruz. Bedeli de var: çalışma yalnızca gazete almayan hanelerde, tek ilçede yapıldı ve son görüşmeye 3.347 haneden 1.081’i yanıt verdi. [[cite:gerber-karlan-bergan-2009]] Bulgunun *başka insanlara, başka yerlere* uzanıp uzanmadığı (**dış geçerlik**) ayrı bir soru. Alan deneyi (gerçek hayatta, kurayla) bu yüzden değerli; laboratuvar deneyi denetimi artırır ama ortamı yapay kılar. [[concept:experiment-method]]",
+      "question": {
+        "id": "how-experiment-q",
+        "type": "mcq",
+        "prompt": "Bu çalışmada haneler gazeteyi kendileri seçip abone olsaydı (kura olmasaydı), hangi güvence kaybolurdu?",
+        "options": [
+          "Örneklemin büyük olması.",
+          "Gazete abonelerinin siyasi görüşünün bilinmesi.",
+          "Grupların baştan benzer olması; yani farkı gazeteye bağlayabilme güvencesi (iç geçerlik).",
+          "Sonuçların başka ilçelere uzanabilmesi (dış geçerlik)."
+        ],
+        "answer": 2,
+        "explain": "Kura, gruplar arasındaki baştan farkları dengeler; kendi seçimleriyle abone olanlar zaten siyasete daha ilgili ya da farklı görüşlü olabilir ve fark gazeteden mi kişilerden mi geliyor, bilinemezdi. Dördüncü seçenek cazip ama yanlış: kura dış geçerliği zaten garanti etmiyor; bu çalışmanın da dış geçerliği kurayla değil, kimlerin çalışmaya alındığıyla sınırlı."
+      }
+    },
+    {
+      "id": "how-content",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "İçerik çözümlemesi: insanlara değil mesajlara sor",
+      "body": "Anket ve deney kişilere sorar; **içerik çözümlemesi** mesajın kendisine. Berelson’un 1952 tarihli klasik tanımı bunu, iletişimin *görünen* (yüzeydeki) içeriğini nesnel, düzenli ve sayısal biçimde betimleyen bir teknik olarak koyar. [[cite:berelson-1952-content-analysis]] Yani “dizi ne anlatıyor?” değil, “bu dizilerde kadın karakterlerin oranı ne, kimin kime zarar verdiği kaç sahnede var?”.\n\n1. **Soruyu daralt.** “Haberler şiddet dolu mu?” değil; “akşam bültenlerinde suç haberlerinin payı yıllar içinde nasıl değişti?”.\n2. **Örneği seç.** Hangi kanal, hangi dönem? Kültürel Göstergeler’de her yıl seçilen birer haftalık yayın kaydedilir. [[concept:message-system-analysis]] [[cite:shanahan-morgan-1999]]\n3. **Sayım birimini belirle.** Haber mi, paragraf mı, sahne mi, karakter mi sayacaksın?\n4. **Kod kitabı yaz.** Her kategori öyle net olmalı ki iki kişi aynı kararı versin.\n5. **Kodlayıcıları eğit, önce bir deneme yap.**\n6. **Kodlayıcılar arası güvenirliği ölç.** İki kişi aynı içeriği birbirinden bağımsız kodlar, uyumları hesaplanır. Yüzde uyum kolaydır ama tesadüfen tutan uyumu da “uyum” sayar; Hayes ve Krippendorff, Krippendorff alfasını standart ölçü olarak önerdi. [[cite:hayes-krippendorff-2007-alpha]]\n7. **Say ve yorumla.** [[concept:content-analysis]]\n\nLombard ve arkadaşları, 1994–1998 arasında yayımlanmış 200 içerik çözümlemesini inceleyince kodlayıcılar arası güvenirliğin çoğu zaman ölçülmediğini ya da raporlanmadığını, yüzde uyumun sık kullanıldığını buldu; yazarlar bu ölçüyü aşırı cömert (liberal) bir ölçüt sayıyor. [[cite:lombard-et-al-2002-intercoder-reliability]]",
+      "question": {
+        "id": "how-content-q",
+        "type": "mcq",
+        "prompt": "İki kodlayıcı, iki kategorili bir işte 100 haberin 92’sinde aynı kategoriyi seçiyor. Ancak haberlerin 95’i zaten “A” kategorisine giriyor. Yüzde 92 uyum neden tek başına güven vermez?",
+        "options": [
+          "İki kodlayıcı olduğu için hiçbir uyum ölçüsü kullanılamaz.",
+          "Yüzde uyum her zaman 100’e yakın çıkar.",
+          "İçerik çözümlemesinde uyum ölçülmez.",
+          "Neredeyse her haber “A” olduğu için, kodlayıcılar rastgele bile davransa yüksek uyum çıkar; tesadüfi uyumu hesaba katan (alfa gibi) bir ölçü gerekir."
+        ],
+        "answer": 3,
+        "explain": "İki kodlayıcı da körlemesine yüzde 95 “A” dese tesadüfen yaklaşık yüzde 90 uyum çıkar (0,95 × 0,95 + 0,05 × 0,05 ≈ 0,905); 92 bunun pek üstünde değil. Krippendorff alfası gibi ölçüler tesadüfi uyumu düşer. Birinci ve ikinci seçenek yanlış genellemeler; üçüncüsü de tersini söylüyor: güvenirlik ölçümü içerik çözümlemesinin merkezinde."
+      }
+    },
+    {
+      "id": "how-qual",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "text",
+      "title": "Nitel yöntemler: aynı odaya dört kapı",
+      "body": "Sayıların yanıtlayamadığı soru şu: *bu insanlar için bunun anlamı ne?* Nitel yöntemler bunun için var ([[concept:qualitative-research]]). Dört kapı:\n\n- **Derinlemesine görüşme:** tek kişiyle, önceden hazırlanmış ama esnek sorularla uzun uzun konuşmak. Kimsenin aklına gelmeyen bir cevap çıkabilir; karşılığında az kişiyle çalışırsın.\n- **Odak grup görüşmesi:** birkaç kişiyi birlikte konuşturmak. Merton ve Kendall’ın 1946 tarihli “odaklı görüşme” makalesi, araştırmacının önceden çözümlediği bir duruma (örneğin bir radyo programına) maruz kalmış kişilerin tepkilerini belirlemek için tasarlanmış bir görüşmeyi anlatır. [[cite:merton-kendall-1946-focused-interview]] Morley’in *Nationwide* izleyicileriyle yaptığı 29 grup görüşmesi de buna yakın bir mantık izler (bizim yorumumuz). [[cite:morley-1992-television-audiences]]\n- **Etnografi:** kendini bir topluluğun gündelik yaşamına uzun süre koyup gözlemlemek. Medya çalışmalarında izleyici etnografisi, 1980’lerden itibaren alıcı araştırmalarının önemli bir koluna dönüştü. [[cite:livingstone-das-2013-reception]]\n- **Metin ve söylem çözümlemesi:** bir metni (haber, mektup, dizi) yakından okuyup nasıl anlam kurduğuna bakmak. Ien Ang’ın *Watching Dallas* kitabı, kendi verdiği ilana cevap olarak yazılan kırk iki izleyici mektubunu okuyarak yapılmış bir çözümlemedir. [[cite:livingstone-das-2013-reception]] [[cite:ang-1985-watching-dallas]]\n\nOrtak yanları: küçük ve bilerek seçilmiş gruplar, açık uçlu veri, yorumlama. Ayıran şey ne incelediğin: görüşme *söylenen*i, etnografi *yapılan*ı, metin çözümlemesi *bırakılmış izi*. Bedeli de aynı: “yüzde kaç?” sorusuna yanıt veremezsin. Mektup yazanlar kendini seçmiş kişilerdir; çalışma “kaç kişi”yi değil “nasıl bir anlam”ı gösterir (bizim yorumumuz).",
+      "question": {
+        "id": "how-qual-q",
+        "type": "mcq",
+        "prompt": "Bir araştırmacı, 12 yaşlı izleyiciyle uzun görüşmeler yaparak akşam haberinin günlük yaşamlarında ne anlama geldiğini araştırıyor. Bu çalışmadan hangi sonuç çıkarılamaz?",
+        "options": [
+          "Türkiye’deki yaşlıların yüzde kaçının haberi hangi anlamla izlediği.",
+          "İzleyicilerin haberi hangi anlamlarla ilişkilendirdiği.",
+          "Araştırmacının hiç beklemediği bir yorum biçiminin varlığı.",
+          "Haberin bazı izleyiciler için günün ritmini belirleyen bir alışkanlık olabileceği."
+        ],
+        "answer": 0,
+        "explain": "Az sayıda kişiyle yapılan derinlemesine görüşme anlamı ve yorum biçimlerini gösterir ama oran ya da yaygınlık tahmini vermez: bunun için olasılıklı örneklem ve anket gerekir. Diğer üç seçenek tam da nitel yöntemin güçlü olduğu alanlar: anlam, beklenmedik yorum ve gündelik pratik."
+      }
+    },
+    {
+      "id": "deep-focus",
+      "section": "how-it-works",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: “Odak grup” terimi Merton’un değildi",
+      "body": "Odak grup görüşmesi bugün pazarlamadan sağlık araştırmasına kadar her yerde. Kökeni ise beklenmedik bir dolambaç.\n\nMerton ve Kendall 1946’da “odaklı görüşme”yi anlattı: araştırmacının önceden çözümlediği bir duruma maruz kalmış kişilerin tepkilerini belirlemek için tasarlanmış bir görüşme. Makaleye göre işlevlerinden biri, beklenen ve gerçekleşen etkiler arasındaki tutarsızlıkları, bir diğeri de sapan alt grupların tepkilerini bulmaktır. [[cite:merton-kendall-1946-focused-interview]]\n\nRaymond Lee’nin tarihçesine göre “odak grup” sosyal araştırmada 1980’lerde yaygınlaştı. Merton, 1987’de yazdığı bir makalede hatırladığı kadarıyla kendilerinin “odak grup” terimini hiç kullanmadığını söylüyordu; savaş yıllarında Uygulamalı Toplumsal Araştırmalar Bürosu’nda geliştirilen odaklı görüşme ile sonraki odak grup arasında hem süreklilik hem kopukluk görüyordu. Yöntem, pazarlama araştırmasında alınıp değiştirilerek yayıldı ve sosyolojiye “odak grup” adıyla geri döndü. [[cite:lee-2010-focus-groups]]\n\nÖğrenci için ders: bir yöntemin adı değişince içeriği de kayar. Sınavda “odak grup kim, ne zaman buldu?” diye sorulursa, iki adın tam örtüşmediğini hatırla; 1946 tarihi “odaklı görüşme” makalesinindir."
+    },
+    {
+      "id": "how-measure",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "myth",
+      "title": "“Sorarsan söyler” mi? Ölçümün iki sınavı",
+      "body": "**İnsanlar ne sanır.** Bir kişinin ne kadar haber izlediğini öğrenmenin en doğru yolu ona sormaktır.\n\n**Kanıtlar ne diyor.** Markus Prior, anketlerdeki haber izleme beyanlarını Nielsen ölçümleriyle karşılaştırdı; Nielsen, kişinin kendi bildirimine dayanmayan bir ölçüm. Anket tahminleri ulusal ağların haber bültenlerinin izlenmesini ortalama üç kat, bazı gruplarda sekiz kata kadar şişiriyordu. [[cite:prior-2009-inflated-news-audience]] Prior’un vardığı sonuç rahatsız edici: görünürdeki “medya etkileri”, gerçek maruziyet farkından değil, insanların maruziyeti ne kadar doğru bildirdiğindeki bilinmeyen farklardan doğabilir. [[cite:prior-2009-inflated-news-audience]]\n\nBir ölçümün iki sınavı var:\n\n- **Güvenirlik:** aynı koşulda tekrar ölçünce aynı sonuç çıkıyor mu? [[concept:reliability]]\n- **Geçerlik:** ölçtüğüm şey, ölçmek istediğim şey mi? [[concept:validity]]\n\nÖlçüm merdiveni de şöyle: soyut **kavram** (haber maruziyeti) → **işlemsel tanım** (son yedi günde akşam haberi izlenen gün sayısı) → **madde** (“son hafta kaç akşam haber izledin?”) → **puan**. Her basamakta bir şey kaybolabilir. Güvenirlik geçerliği garanti etmez: her seferinde aynı şişkin sayıyı veren bir anket çok güvenilirdir ve yine de yanlıştır.\n\nBu, öz bildirimin işe yaramadığı anlamına gelmiyor; anlamı, her soru için hangi ölçümün yettiğine bakman gerektiği.",
+      "question": {
+        "id": "how-measure-q",
+        "type": "mcq",
+        "prompt": "Bir anket “geçen hafta kaç saat haber izledin?” diye soruyor. Aynı kişiler iki gün sonra tekrar sorulunca yine hemen hemen aynı sayıyı veriyor; ama bağımsız izleme kayıtları çok daha az izlediklerini gösteriyor. Ölçüm için en doğru teşhis hangisi?",
+        "options": [
+          "Güvenirliği de geçerliği de düşüktür, çünkü kayıtlarla uyuşmuyor.",
+          "Yalnızca güvenirlik sorunu var; kişiler yanıtlarını unutuyor.",
+          "Tutarlı (güvenilir) ama doğruyu ölçmüyor (geçerliği şüpheli): kişiler her seferinde aynı şişkin sayıyı veriyor.",
+          "Sorun yok: iki ölçüm aynı sonucu verdiği için ölçüm doğrudur."
+        ],
+        "answer": 2,
+        "explain": "Aynı sayının tekrar çıkması güvenirliği gösterir; kayıtlarla uyuşmaması geçerliği zedeler. Dördüncü seçenek tutarlılığı doğrulukla karıştırıyor. Birinci seçenek güvenirliğin de düşük olduğunu söylüyor ama yanıtlar tutarlı; ikinci seçenek ise tersini varsayıyor: unutsaydılar iki gün sonraki sayı da değişirdi."
+      }
+    },
+    {
+      "id": "how-design",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Mini laboratuvar: tek sayfalık çalışma tasarla",
+      "body": "Hayal et: bir üniversitenin öğrenci gazetesi merak ediyor: *kısa video özetleri, uzun haberden daha çok bilgi bırakır mı?* Kâğıda ya da zihnine beş kutu çiz:\n\n1. **Evren ve örneklem.** Kimi merak ediyorsun: bütün öğrencileri mi, yalnızca gazetenin okurlarını mı? Kimleri çağırabilirsin?\n2. **Yöntem.** Anket mi, deney mi? Nedensellik soruyorsan hangisi?\n3. **Ölçüm.** “Bilgi bırakmak” ne demek? Beş soruluk bir test mi? Testin güvenirliğini ve geçerliğini nasıl gözlersin?\n4. **Karşılaştırma.** Videoyu ve metni kim, nasıl görecek? Gruplara kim, nasıl atanacak?\n5. **Tehditler.** Sonucu bozabilecek üç şey yaz.\n\nBir ipucu: gönüllülerin kendi seçtiği biçimi karşılaştırırsan, farkın nedeni biçim değil, o biçimi seçen insanlar olabilir; kurayla atarsan bu sorun kalkar. Testi çok kolay kurarsan herkes tam puan alır ve fark görünmez. Grupları tek bir sınıftan alırsan, sonucun başka öğrencilere uzanıp uzanmadığını bilemezsin.\n\nBir cevap anahtarı yok. İyi tasarımın iki işareti var: soruyla yöntemin uyumu ve sınırlarının açıkça yazılmış olması.",
+      "question": {
+        "id": "how-design-q",
+        "type": "mcq",
+        "prompt": "Öğrenci gazetesi, kısa videoyu kendi Instagram takipçilerine, uzun haberi web sitesi okurlarına gösterip bilgi testi puanlarını karşılaştırıyor. Bu tasarımın en büyük sorunu nedir?",
+        "options": [
+          "Gruplar kendi seçimleriyle oluşuyor: fark biçimden değil, o biçimi ve o kanalı seçen insanlardan gelebilir.",
+          "Bilgi testi yazılı olduğu için deney geçersiz olur.",
+          "Video ile metin hiçbir koşulda karşılaştırılamaz.",
+          "Karşılaştırma için mutlaka üçüncü bir grup gerekir."
+        ],
+        "answer": 0,
+        "explain": "Instagram takipçileri ile site okurları baştan farklı insanlardır; puan farkı biçimden mi kişilerden mi geliyor, ayrılamaz. Kurayla atama bu sorunu çözerdi. İkinci ve üçüncü seçenekler dayanaksız kısıtlar getiriyor; dördüncüsü de gereksiz bir koşul: iki karşılaştırma grubuyla da temiz bir deney kurulabilir."
+      }
+    },
+    {
+      "id": "evid-correlation",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "story",
+      "title": "Televizyon mu korkutuyor, mahalle mi?",
+      "body": "Bir bulgu düşün: televizyonu çok izleyenler dünyayı daha tehlikeli buluyor. Akla gelen ilk açıklama, televizyonun korkuttuğu. İki araştırmacı, Anthony Doob ve Glenn Macdonald, sıkıcı ama akıllıca bir soru sordu: bu insanlar gerçekten suç oranı farklı mahallelerde mi yaşıyor? [[cite:doob-macdonald-1979]]\n\nToronto’da kapı kapı anket yaptılar. Şehir merkezinde ve banliyöde birer yüksek, birer düşük suç oranlı bölge seçtiler. Katılımcılar medya kullanımlarını ve kendilerinin şiddet mağduru olma ihtimalini nasıl gördüklerini bildirdi. Dört bölge birlikte havuzlandığında önceki bulgu tekrarlandı: çok televizyon izleyen daha çok korkuyordu. Ama bölge içinde bakıldığında ortalama ilişki anlamsızdı; yani mahallenin gerçek suç düzeyi sabit tutulunca televizyon izleme ile korku arasında genel bir ilişki kalmıyordu. [[cite:doob-macdonald-1979]]\n\nBir ilişki gördüğünde üç açıklama var ([[concept:correlation-causation]]):\n\n- X, Y’ye yol açıyor (televizyon korkutuyor);\n- Y, X’e yol açıyor (örneğin korkanlar evde oturup daha çok televizyon izliyor);\n- bir **üçüncü şey** ikisine birden yol açıyor (yaşadığın mahalle).\n\nDoob ve Macdonald’ın verisi üçüncü açıklamayı öne çıkarıyor, ama bu tek bir çalışma ve kültivasyon kuramının tartışması ayrı bir derste ([[lesson:mainstreaming-critique]]). Asıl alışkanlık şu: bir ilişkiyi “kanıt” diye kabul etmeden önce “başka ne olabilir?” diye sormak. Payne Fund araştırmacıları da 1933’te aynı sorunun farkındaydı; sık film izleyen çocukları aile arka planı gibi etkenlerde denkleştirmeleri bu yüzdendi. [[cite:shuttleworth-may-1933-payne]]",
+      "question": {
+        "id": "evid-correlation-q",
+        "type": "mcq",
+        "prompt": "Bir anket, uygulamada çok vakit geçirenlerin daha yalnız olduğunu buluyor. Toronto çalışmasından sonra ilk sorman gereken soru hangisi?",
+        "options": [
+          "Anketi kaç kişi yanıtladı?",
+          "Hangi uygulama olduğu önemli değil mi?",
+          "Uygulamanın etkisi mi büyük, yalnızlığın mı?",
+          "Hem uygulama süresini hem yalnızlığı etkileyen üçüncü bir şey (örneğin işsizlik, yaşanılan yer) var mı; ilişki o şey sabitlenince de sürüyor mu?"
+        ],
+        "answer": 3,
+        "explain": "Toronto’da ilişki, mahallenin suç düzeyi sabitlenince kayboldu: üçüncü değişken sorusu bir ilişkiyi okumanın ilk adımıdır. Örneklem büyüklüğü de önemli ama bir ilişkinin nedensel olup olmadığını söylemez. “Etkisi hangisinde büyük?” sorusu ise cevabı soruya gömüyor: nedensellik yönü henüz kanıtlanmadan böyle sormak, zaten yaşanan bir etkiyi varsayar."
+      }
+    },
+    {
+      "id": "evid-effect-size",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "text",
+      "title": "“Anlamlı” ile “önemli” aynı şey değil",
+      "body": "Ocak 2012, bir hafta boyunca. Facebook üzerinde yürütülen bir deneyde 689.003 kullanıcının haber akışı kurayla değiştirildi: bir grupta olumlu paylaşımların, öbüründe olumsuzların bir kısmı gösterilmedi. Sonra kullanıcıların kendi paylaşımlarına bakıldı. Duygular “bulaşıyor” muydu? [[cite:kramer-et-al-2014]]\n\nEvet, istatistiksel olarak: olumlu paylaşımlar azaltılınca kişilerin kendi paylaşımlarındaki olumlu sözcüklerin payı da biraz düştü ve bazı karşılaştırmalarda p < 0,001 çıktı. Ama etki büyüklüğü minikti: Cohen d, dört karşılaştırmada 0,001 ile 0,02 arasındaydı. Yazarlar kendileri de etkilerin küçük olduğunu, ama bu ölçekte önemli olabileceğini savundu. [[cite:kramer-et-al-2014]]\n\nOlay şu: **istatistiksel anlamlılık** “bu fark tesadüf olabilir mi?” sorusunu yanıtlar ve örnek büyüdükçe çok küçük farklar bile “anlamlı” çıkar. **Etki büyüklüğü** ise “fark ne kadar büyük?” sorusunu yanıtlar ([[concept:effect-size]]). Amerikan İstatistik Derneği’nin 2016 açıklaması da bunu söyler: p değeri ya da istatistiksel anlamlılık, etkinin büyüklüğünü ya da bulgunun önemini ölçmez. [[cite:asa-2016-pvalue-release]] [[cite:wasserstein-lazar-2016-p-values]]\n\nPeki “küçük” ne kadar küçük? Funder ve Ozer, korelasyon türü etki büyüklüğü (r) için şu çerçeveyi önerir: .05 tek tek olaylar için çok küçük ama zamanla sonuç doğurabilir; .10 küçük; .20 orta; .30 büyük; .40 ve üstü psikoloji araştırmalarında çoğu zaman abartılı bir tahmin. [[cite:funder-ozer-2019-effect-size]]\n\nBir haberde “anlamlı bir etki bulundu” görürsen, ilk sorun “ne kadar?” olsun.",
+      "question": {
+        "id": "evid-effect-size-q",
+        "type": "mcq",
+        "prompt": "Hayal et: bir uygulama 5 milyon kullanıcıyla kura deneyi yapıyor; bildirim metnini değiştirmek tıklamayı artırıyor (p < 0,001; Cohen d = 0,01). Bu sonuç için en yerinde yorum hangisi?",
+        "options": [
+          "Büyük bir etki bulundu, çünkü p değeri çok küçük.",
+          "Etki yok, çünkü d 1’in altında.",
+          "İstatistiksel olarak anlamlı ama etki çok küçük; önemli olup olmadığı ölçeğe ve maliyete bağlı (Facebook deneyinde olduğu gibi).",
+          "Deney kurayla yapıldığı için etki büyük olmak zorundadır."
+        ],
+        "answer": 2,
+        "explain": "Milyonlarca kişiyle çok küçük farklar bile anlamlı çıkar; p değeri etkinin büyüklüğünü söylemez. d = 0,01 küçüktür ama sıfır değildir; bu ölçekte anlamlı olabilir. “Büyük etki” yorumu anlamlılıkla önemi karıştırıyor. “Etki yok” yorumu küçük etkiyi “yok” sayıyor. “Kura olduğu için büyük” yorumu kurayı etki büyüklüğüyle karıştırıyor: kura, farkın nedenini güvence altına alır, büyüklüğünü değil."
+      }
+    },
+    {
+      "id": "evid-meta",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Meta-analiz: çalışmaların çalışması",
+      "body": "Tek çalışma bir tanık ifadesidir; meta-analiz bütün tanıkları dinleyip ortak sesi çıkarmaya çalışır. Terimi 1976’da Gene Glass, benzer çalışmaların sonuçlarını istatistiksel olarak sentezlemek için ortaya attı. [[cite:glass-1976-meta-analysis]] Adımlar ([[concept:meta-analysis]]):\n\n1. **Soruyu ve arama kurallarını yaz.** Hangi çalışmalar girer, hangi tarih ve veri tabanları taranır?\n2. **Topla.** Yayımlanmamışları da ara.\n3. **Her çalışmadan bir etki büyüklüğü çıkar.** Böylece farklı ölçekler karşılaştırılabilir olur.\n4. **Birleştir.** Ortalama etki büyüklüğünü hesapla.\n5. **Farkları açıkla.** Hangi koşulda etki büyük, hangisinde küçük?\n6. **Yanlılığı sına.** Eksik kalan sonuçlar var mı?\n\nÖrnek: sosyal medya kullanımını inançlarla ilişkilendiren kültivasyon çalışmalarını birleştiren 2023 meta-analizi, 66 bağımsız örneklemden 460 etki büyüklüğü topladı ve genel etkiyi .123 buldu; belirli içeriğe maruz kalmaya bakan çalışmalarda, gençlerde ve Asya örneklemlerinde etki daha yüksek, aktif kullanım ölçüldüğünde daha düşüktü. [[cite:hermann-morgan-shanahan-2023]] Kültivasyon araştırmalarını derleyen 1997 tarihli meta-analiz ortalama etkiyi .09 bulmuştu. [[cite:morgan-shanahan-1997]]\n\nİki tuzak var. **Dosya çekmecesi:** Rosenthal, dergilerin belki de yalnızca anlamlı çıkan çalışmalarla dolu olduğunu, anlamlı çıkmayanların çekmecelerde kaldığını, bunun ne kadar zarar verdiğini tahmin etmek için yöntemler önerdi. [[cite:rosenthal-1979-file-drawer]] **Kötü ölçüm:** Scharkow ve Bachl’a göre içerik çözümlemesindeki ve öz bildirimdeki ölçüm hatası etki tahminlerini aşağı çeker [[cite:scharkow-bachl-2017-measurement-error]]; hatalı çalışmaları birleştirmek hatayı da birleştirir (bu son cümle bizim yorumumuz).",
+      "question": {
+        "id": "evid-meta-q",
+        "type": "mcq",
+        "prompt": "Bir meta-analiz yalnızca hakemli dergilerde yayımlanmış çalışmaları topluyor. En olası sorun hangisi?",
+        "options": [
+          "Çalışma sayısı arttığı için etki küçülür.",
+          "Meta-analiz yalnızca deneyleri birleştirebilir.",
+          "Etki büyüklüğü hesaplanamaz.",
+          "Anlamlı çıkmayan çalışmalar çekmecede kaldıysa, ortalama etki olduğundan büyük görünebilir (dosya çekmecesi sorunu)."
+        ],
+        "answer": 3,
+        "explain": "Yayımlanmamış sonuçlar eksikse birleştirilen çalışmalar yanlı bir örnek olur ve ortalama etki şişebilir; Rosenthal’ın kaygısı buydu. Birinci seçenek keyfî bir iddia; ikincisi yanlış: meta-analiz anket ve ilişkisel çalışmaları da birleştirir (kültivasyon meta-analizleri gibi); üçüncüsü de yanlış: etki büyüklüğü çalışmalardan çıkarılır."
+      }
+    },
+    {
+      "id": "evid-replication",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "story",
+      "title": "Bir şarkı seni genç yaptı mı?",
+      "body": "Bir çalışmada 20 Pennsylvania Üniversitesi öğrencisi, Beatles’ın “When I’m Sixty-Four” şarkısını ya da “Kalimba” adlı bir enstrümantali dinledi. Sonra doğum tarihlerini yazdılar. Sonuç: birinci şarkıyı dinleyenler istatistiksel olarak yaklaşık bir buçuk yıl daha gençti (düzeltilmiş ortalamalar 20,1 ve 21,5 yaş; p = 0,040). [[cite:simmons-nelson-simonsohn-2011]]\n\nBu bir şaka değil ama şakanın ardındaki tespit ciddi. Joseph Simmons ve arkadaşları bilerek imkânsız bir sonucu “kanıtladı”; makale, her şeyin gerçekten yaşandığını ve amacın, veri toplama ve çözümlemedeki esnekliklerin yanlış pozitifi ne kadar kolaylaştırdığını göstermek olduğunu söylüyor. Böyle dört esnekliği bir araya getirmek yanlış pozitif oranını yüzde 61’e çıkarabiliyor (derin kart). [[cite:simmons-nelson-simonsohn-2011]]\n\nSonra sorun ölçüldü. Açık Bilim İş Birliği, üç psikoloji dergisinden 100 deneysel ve ilişkisel çalışmayı yeniden yaptı: özgün çalışmaların yüzde 97’si anlamlı sonuç vermişti; tekrarların yalnızca yüzde 36’sı anlamlıydı ve tekrar etkileri özgünlerin yaklaşık yarısı kadardı. [[cite:osc-2015-reproducibility]] John ve arkadaşlarının 2.000’den fazla psikologa yaptığı anket, “şüpheli araştırma uygulamalarının” şaşırtıcı ölçüde yaygın olduğunu, bazılarının norm hâline gelmiş olabileceğini düşündürdü. [[cite:john-loewenstein-prelec-2012]] İletişim araştırmalarına bakan Matthes ve arkadaşları, dört önde gelen dergideki deneylerde küçük ve gerekçesiz örneklemler, raporlanmayan etki büyüklükleri ve p = .05’in hemen altında yığılma gibi işaretler buldu. [[cite:matthes-et-al-2015-qrp-communication]] ([[concept:replication-crisis]])\n\nDikkat: tekrarlanamamak sahtekârlık demek değil; çoğu zaman esnek analiz, küçük örneklem ve yayın yanlılığı bir araya geliyor.",
+      "question": {
+        "id": "evid-replication-q",
+        "type": "mcq",
+        "prompt": "Hayal et: 24 kişilik bir deney “kısa videolar dikkat süresini kısaltıyor” diyor (p = 0,04) ve araştırmacı bunu manşet yapmak istiyor. Bu dersten sonra en sağlıklı tepki hangisi?",
+        "options": [
+          "Yayımla; p değeri 0,05’in altında.",
+          "Büyük bir iddia kurmadan önce etki büyüklüğüne, önceden belirlenmiş bir analiz planına ve daha büyük bir örneklemle tekrarına bak.",
+          "Sonuç yanlıştır, çünkü örneklem 24 kişi.",
+          "Bu tür bir sonucu hiç yayımlama."
+        ],
+        "answer": 1,
+        "explain": "Küçük örneklemli, p’si sınıra yakın bir sonuç “yanlış” değil, “henüz kanıtlanmamış”tır; Simmons ve arkadaşlarının ve Açık Bilim İş Birliği’nin gösterdiği gibi böyle sonuçların tekrarında etki çoğu zaman küçülüyor. İlk seçenek p değerine fazla yükleniyor; üçüncü seçenek de sonucu baştan mahkûm ediyor; dördüncüsü ise bilimin işleyişine ters: yayımlanmayan sonuçlar dosya çekmecesini doldurur."
+      }
+    },
+    {
+      "id": "deep-rdof",
+      "section": "evidence",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Dört küçük serbestlik, yüzde 61 yanlış pozitif",
+      "body": "Simmons ve arkadaşları “araştırmacı serbestlik dereceleri”ni sayıya döktü. Bilgisayar simülasyonlarıyla dört yaygın esnekliği incelediler: (a) birkaç bağımlı değişkenden birini seçmek, (b) örneklem büyüklüğüne sonradan karar vermek (sonuç anlamlı değilse biraz daha veri toplamak), (c) ortak değişken (örneğin cinsiyet) eklemek, (d) koşulların bir alt kümesini raporlamak. Birbirine r = .50 ile bağlı iki bağımlı değişkene bakmak bile yanlış pozitif olasılığını neredeyse iki katına çıkarıyor. Dördünü birlikte kullanan bir araştırmacı, gerçekte hiçbir etki yokken, yüzde 61 olasılıkla “anlamlı bir etki” buluyor. [[cite:simmons-nelson-simonsohn-2011]] Yani “p < .05” gerçekte yüzde 5 değil, çok daha sık yanlış alarm verebilir.\n\nÇare arayışı: yazarlar basit bir açıklama listesi önerdi (makale, yazarlar için altı, hakemler için dört kural sayıyor). Sonraki yıllarda öne çıkan çare **ön kayıt**: araştırma sorusunu ve çözümleme planını sonuçları görmeden önce tanımlamak. Nosek ve arkadaşları bunun tahmin (önceden söylenen) ile sonradan yorum arasındaki ayrımı koruduğunu, dolayısıyla bulguların inandırıcılığını artırdığını savunur. [[cite:nosek-et-al-2018-preregistration]]\n\nİletişim alanı için: Matthes ve arkadaşlarının 1980–2013 arasındaki dört dergide yayımlanmış deneyler üzerine taraması, p değerlerinin .05’in hemen altında yığılması ve doğrulanan hipotez payının artması gibi işaretler saptadı. [[cite:matthes-et-al-2015-qrp-communication]] Bu, bir suçlama değil, bir araştırma alışkanlığının fotoğrafı; alışkanlıklar değişebilir."
+    },
+    {
+      "id": "crit-media",
+      "section": "critique",
+      "layer": "core",
+      "kind": "text",
+      "title": "Medya etkisi araştırmasının üç özel derdi",
+      "body": "Örneklem, ölçüm ve karşılaştırma sorunları her alanda var. Medya etkisi araştırmasında üçü özellikle keskin:\n\n**1. İnsanlar ne izleyeceklerini kendileri seçer.** Haber izleyenler, izlemeyenlerden başka türden insanlardır: farkı izlemeye mi, izleyen kişiye mi bağlayacaksın? Gerber ve arkadaşlarının kurayla dağıttığı gazeteler tam bu yüzden değerli: seçimi ortadan kaldırırlar. [[cite:gerber-karlan-bergan-2009]]\n\n**2. Maruz kalmayı ölçmek zor.** Prior’un çalışmasında beyanlar üç kat şişiyordu. [[cite:prior-2009-inflated-news-audience]] Scharkow, internet kullanımı için öz bildirimlerin kayıt verileriyle yalnızca orta düzeyde ilişkili olduğunu, hataların rastgele değil sistematik (özellikle olduğundan fazla bildirme yönünde) olduğunu buldu. [[cite:scharkow-2016-self-reported-internet-use]] Scharkow ve Bachl’ın simülasyonu, içerik ve maruz kalma ölçümündeki hatanın etki tahminlerini aşağı çektiğini, bunun da “minimal etki” bulgularının bir kısmını yapay üretebileceğini savunuyor. [[cite:scharkow-bachl-2017-measurement-error]] Yani “sınırlı etkiler” tartışmasında yöntem, sonucun bir parçası olabilir (bizim çıkarımımız).\n\n**3. Zaman sırası.** Şiddet içerikli yayınları çok izleyenler mi saldırgan oluyor, yoksa saldırgan olanlar mı bunları seçiyor? İkisine “etki” ve “seçilim” hipotezi deniyor; zaman içinde aynı kişileri izleyen (boylamsal) çalışmalar ikisini ayırmak için var (derin kart). [[cite:hopf-huber-weiss-2008-media-violence]]\n\nÜçünü bir arada görünce hem bir medya etkisi çalışmasına neden temkinle bakılması gerektiğini, hem de neden yine de boş vermemek gerektiğini anlarsın: bunlar tanınabilen, çoğu zaman çözülebilen sorunlar.",
+      "question": {
+        "id": "crit-media-q",
+        "type": "mcq",
+        "prompt": "Bir anket, siyasî haber programlarını çok izleyenlerin oy verme oranının daha yüksek olduğunu buluyor. Aşağıdakilerden hangisi “kendini seçme” itirazını doğru kurar?",
+        "options": [
+          "Zaten siyasete ilgili insanlar hem haber izliyor hem oy veriyor olabilir; fark haberden değil, ilgiden gelebilir.",
+          "Bu sonuç, haber izlemenin oy vermeyi artırdığını kanıtlar.",
+          "Örneklem yeterince büyük olmadığı için bulgu geçersizdir.",
+          "Bu soru anketle değil, yalnızca deneyle sorulabilir."
+        ],
+        "answer": 0,
+        "explain": "Kendini seçme sorunu, izleyici olma kararının kendisinin oy vermeyle ilişkili bir özelliğe (siyasî ilgiye) bağlı olabileceğini söyler. “Bu sonuç haber izlemenin oy vermeyi artırdığını kanıtlar” yanıtı itirazın kendisi değil, itiraz edilen iddia. “Örneklem yeterince büyük değil” yanıtı büyüklüğe kayıyor, oysa sorun seçilme biçiminde. “Yalnızca deneyle sorulabilir” yanıtı da fazla kesin: deney nedenselliği güçlendirir ama anketler de üçüncü değişkenleri denetleyerek ve zaman içinde tekrarlanarak ilerleyebilir."
+      }
+    },
+    {
+      "id": "deep-spirals",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Etki mi, seçilim mi? “Karşılıklı pekiştirme” fikri",
+      "body": "Medya etkisi tartışmasında sık sorulan soru şu: şiddet içerikli yapımlar saldırganlığı mı artırıyor, yoksa saldırgan kişiler mi bu yapımları seçiyor? Hopf, Huber ve Weiß’ın girişine göre ilkine “etki hipotezi”, ikincisine “seçilim hipotezi” deniyor; ikincisi, Huesmann ve arkadaşlarının 2003 tarihli makalesinden aktarılan bir cümleyle, saldırgan davranışın ya da onunla ilişkili bir şeyin şiddete maruz kalmayı uyardığını söyler. [[cite:hopf-huber-weiss-2008-media-violence]] Boylamsal çalışmalar zamanı işin içine katar: aynı çocuklar farklı yaşlarda ölçülür. Huesmann ve arkadaşlarının 1977–1992 çalışması, 6–10 yaşında televizyon şiddeti izlemenin yaklaşık 15 yıl sonra yetişkin saldırganlığını öngördüğünü, ilişkinin sosyoekonomik durum, zekâ ve ebeveynlik etkenleri denetlendiğinde de sürdüğünü bildirdi. [[cite:huesmann-et-al-2003-tv-violence]]\n\nMichael Slater ise ikisinin birbirini dışlamadığını savundu: medya kullanımının sonuçları sonraki medya seçimini de etkileyebilir; ortaya karşılıklı pekiştirme sarmalları çıkar ve bunları yakalamak boylamsal modelleme gerektirir. [[cite:slater-2007-reinforcing-spirals]] Örneğin (bizim örneğimiz): şiddet içerikli yapımlar kişiyi biraz daha saldırgan yapar, saldırgan kişi bu yapımları daha çok seçer, seçim etkiyi biraz daha büyütür.\n\nÇıkarım: “hangisi doğru?” yerine “hangisi, ne kadar, hangi süreçte?” diye sormak. Zaman sırası bilgisi olmayan bir kesit anket bu soruyu yanıtlayamaz. (Bu kartın sarmalı suskunluk sarmalıyla karıştırılmasın: o, farklı bir kuram.)"
+    },
+    {
+      "id": "crit-gold",
+      "section": "critique",
+      "layer": "core",
+      "kind": "myth",
+      "title": "“Deney altın standarttır” mı?",
+      "body": "**İnsanlar ne sanır.** Nedensellik için tek yol deneydir; anketler ve gözlemler ancak ön çalışmadır.\n\n**Kanıtlar ne diyor.** Deney iç geçerlik için en güçlü araçlardan biri, ama bedelini dış geçerlikten öder. David Sears 1986’da, sosyal psikolojinin 1960’tan beri ağırlıkla üniversite öğrencileriyle akademik laboratuvarlarda çalıştığını, bu dar veri tabanının disiplinin insan doğası portresini çarpıtmış olabileceğini yazdı. [[cite:sears-1986-college-sophomores]] Henrich, Heine ve Norenzayan 2010’da davranış bilimlerindeki iddiaların çoğunlukla Batılı, eğitimli, sanayileşmiş, zengin, demokratik (WEIRD) toplumlardan örneklemlere dayandığını ve bu insanların türün geri kalanına kıyasla sık sık uç değer olduğunu savundu. [[cite:henrich-heine-norenzayan-2010]] Gerber ve arkadaşlarının alan deneyi de gazeteye zaten abone olmayanlarla sınırlıydı. [[cite:gerber-karlan-bergan-2009]]\n\nÖte yandan anketler geniş ve çeşitli gruplara ulaşır ama nedeni kesinleştiremez. Gündem belirleme araştırmalarının öyküsü bunu iyi gösterir: Chapel Hill’de kararsız seçmenlerin önemli saydığı konularla medya içeriğini karşılaştıran çalışma ([[lesson:agenda-setting]]) ilişkiyi gösterdi [[cite:mccombs-shaw-1972]]; Iyengar, Peters ve Kinder’in deneyleri ise televizyon haberlerinin izleyicilerin hangi sorunları önemli bulduğunu etkilediğini gösterdi. [[cite:iyengar-peters-kinder-1982]]\n\nSonuç: “en iyi yöntem” yok; birbirini tamamlayan yöntemler var. Kuramlar tek çalışmayla değil, farklı yöntemlerin aynı yönü göstermesiyle sağlamlaşır.",
+      "question": {
+        "id": "crit-gold-q",
+        "type": "tf",
+        "prompt": "Doğru mu yanlış mı: Rastgele atama, bir deneyin bulgularının başka kişilere ve ortamlara da uzanacağını (dış geçerlik) garanti eder.",
+        "answer": false,
+        "explain": "Yanlış. Rastgele atama grupların baştan benzer olmasını sağlar (iç geçerlik); bulgunun kimlere uzandığı ise kimlerin çalışmaya alındığına bağlıdır. Gerber ve arkadaşlarının deneyi mükemmel bir kura kullandı ama yalnızca gazeteye abone olmayan hanelerde, tek ilçede yapıldı."
+      }
+    },
+    {
+      "id": "today-platform",
+      "section": "today",
+      "layer": "core",
+      "kind": "text",
+      "title": "Platformlar: yeni fırsatlar, eski sorular",
+      "body": "Sosyal medya araştırmacılara iki hediye verdi: devasa iz verileri ve platform içinde kura yapabilme imkânı. Kramer ve arkadaşlarının deneyi ikincisinin örneği: katılımcılar kullanıcı kimliğine göre rastgele seçildi ve toplam 689.003 kişiye ulaşıldı. [[cite:kramer-et-al-2014]] Ama makale yayımlandıktan yaklaşık bir ay sonra PNAS’ın editörü “endişe notu” yayımladı: bilgilendirilmiş onam ve çıkma imkânına dair sorular gündeme gelmişti. Yazarlar deneyin Facebook’un veri kullanım politikasıyla tutarlı olduğunu ve bunun onam sayıldığını yazmıştı; not ise Facebook özel bir şirket olarak ilgili kurallara uymak zorunda olmasa da, veri toplamanın onam ilkeleriyle tam örtüşmemiş olabilmesini “endişe verici” buluyordu. [[cite:verma-2014-expression-of-concern]] Yani ölçek, etiği ortadan kaldırmıyor.\n\nİz verileri (kayıtlar) ise öz bildirimin eksiğini kapatma vaadiyle geliyor. Parry ve arkadaşlarının meta-analizi, 106 etki büyüklüğüne dayanarak öz bildirilen ile kaydedilen dijital medya kullanımı arasındaki ilişkiyi r = .38 buldu; ortalama kullanım miktarını karşılaştıran 49 karşılaştırmanın yalnızca üçünde öz bildirim doğruydu. [[cite:parry-et-al-2021-logged-self-report]] Ama kayıt “ne kadar”ı söyler; “neden”i, “ne anlamda”yı söylemez. Ve platform kullanıcıları bütün nüfus değildir.\n\nKural: yeni veri türü eski üç soruyu ortadan kaldırmaz; “kimden, neyle ölçerek, neyle karşılaştırarak?” sorusunu yalnızca yeni bir yere taşır.",
+      "question": {
+        "id": "today-platform-q",
+        "type": "mcq",
+        "prompt": "Bir platform, kullanıcı kayıtlarından “ortalama günlük ekran süresi”ni hesaplıyor. Kayıt verisinin tek başına çözemeyeceği soru hangisi?",
+        "options": [
+          "Anket beyanı ile gerçek kullanım süresi arasındaki fark ne kadar?",
+          "Kullanıcılar platformda ortalama kaç dakika geçiriyor?",
+          "O sürenin kullanıcılar için ne anlama geldiği (dinlenme mi, kaçış mı, iş mi)?",
+          "Kullanım süresi hafta içinden hafta sonuna nasıl değişiyor?"
+        ],
+        "answer": 2,
+        "explain": "Kayıt, davranışın miktarını ve zaman desenini yakalar; anlamını yakalamaz. Anlam için görüşme, gözlem ya da anket gibi başka yöntemler gerekir. Diğer üç seçenek kayıtla ya da kayıt ile anketin karşılaştırılmasıyla yanıtlanabilir."
+      }
+    },
+    {
+      "id": "today-lab",
+      "section": "today",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Mini laboratuvar: bir manşeti sorgula",
+      "body": "Hayal et: bir haber sitesinde şu manşeti görüyorsun: **“Araştırma: Gençlerin yüzde 70’i haberleri artık yalnızca kısa videolardan alıyor.”** (Manşet ve sayı uydurma; yalnızca alıştırma için.) Ders boyunca öğrendiklerinle altı soru sor:\n\n1. **Kimden?** “Gençler” kim? Nasıl seçildiler? Kaç kişi, kaçta kaçı yanıt verdi? (Örneklem, yanıt oranı; Literary Digest.)\n2. **Nasıl soruldu?** “Yalnızca” nasıl tanımlandı? Sözcük seçimi cevabı oynatabilir. (Rugg.)\n3. **Neyle ölçüldü?** Kişilerin beyanı mı, kayıtlar mı? (Prior, Parry.)\n4. **Neyle karşılaştırıldı?** “Artık” diyor: kime göre, ne zamana göre? Aynı kişiler zaman içinde mi izlendi?\n5. **Ne kadar büyük, ne kadar kesin?** Yüzde 70 bir tahmin; hata payı var mı?\n6. **Başka ne olabilir?** Başlık bir neden ima ediyor mu (“videolar haberi bitirdi”)?\n\n**Yapılacak:** altı sorudan ikisini seç; her biri için cevabın çalışmanın raporunda *nerede* yazması gerektiğini düşün. Rapor bunları yazmıyorsa, bu sonuca güvenmen için bir neden eksik demektir; güvenmemen için bir neden değil. Kanıt eksikliği ile kanıt çürütmesi ayrı şeyler.",
+      "question": {
+        "id": "today-lab-q",
+        "type": "mcq",
+        "prompt": "Manşetin dayandığı çalışma, bir video platformunda yayımlanan gönüllü ankettir. En temel çekince hangisi?",
+        "options": [
+          "Manşet çok kısa.",
+          "Yüzde 70 çok yüksek bir sayı.",
+          "Anket yerine mutlaka deney yapılmalıydı.",
+          "Yanıt verenler zaten o platformu kullanan ve ankete kendini seçen kişiler; sonuç “gençler” evrenine uzanmayabilir."
+        ],
+        "answer": 3,
+        "explain": "Bir video platformundaki gönüllü anket, hem platform kullanıcılarının hem de yanıt vermeyi seçenlerin çarpık örneklemidir: Literary Digest dersinin küçük bir kopyası. Yüzde 70’in yüksek olması tek başına çarpıklık kanıtı değildir. Deney önerisi de soruyla uyumsuz: “yüzde kaç?” bir deneyle değil, iyi kurulmuş bir örneklemle yanıtlanır."
+      }
+    },
+    {
+      "id": "turkey-terms",
+      "section": "turkey",
+      "layer": "core",
+      "kind": "text",
+      "title": "Türkçe yazında yöntem sözlüğü ve bir sınıflama kargaşası",
+      "body": "Türkçe yazın aynı kavramlara birden çok ad veriyor; bunu bilmek kaynak okurken zaman kazandırır.\n\n- **Güvenirlik ve geçerlik.** Ercan ve Kan (2004), bir ölçeğin iki temel özelliğini şöyle anlatır: güvenirlik, ölçüm değerlerinin kararlılığının göstergesi; geçerlik, ölçmeyi amaçladığı özelliği doğru ölçebilme derecesinin göstergesi. [[cite:ercan-kan-2004-guvenirlik-gecerlik]] Başka Türkçe metinlerde “güvenilirlik” ve “geçerlilik” biçimleri de görülür.\n- **İçerik analizi / içerik çözümlemesi.** Metin ve Ünal (2022), yöntemi nesnel, ölçülebilir, doğrulanabilir bilgiye ulaşmak için belgeleri, metinleri örnekleme, kodlama ve kategori gibi kurallarla çözümleyen, *nitel araştırma içinde bir teknik* olarak tanıtır. Makale, 2013–2021 arasında sosyoloji ve iletişim bilimlerinde bu tekniği kullanan 32 doktora tezi saptayıp 16’sını (sekizer) inceledi; iletişim tezlerinde tekniğin yardımcı bir yöntem olarak kullanılmadığını ve kategori ile kod oluşturmaya özen gösterildiğini bildirir. [[cite:metin-unal-2022-icerik-analizi]]\n\nİkinci madde ilginç: Berelson’un klasik tanımı içerik çözümlemesini *sayısal* betimleme sayar ([[concept:content-analysis]]). [[cite:berelson-1952-content-analysis]] Türkçe makale ise onu nitel araştırma içinde anıyor. Bu, bir kavga gibi görünüyor ama çoğu zaman bir ad meselesi: aynı sözcük hem kategorileri sayan bir çalışmayı hem metni yorumlayan bir çalışmayı kapsayabiliyor (bizim yorumumuz). Sınavda soru hangi çerçeveyi kullanıyorsa onun diliyle yanıtla; ama kavramın ne yaptığını bil.",
+      "question": {
+        "id": "turkey-terms-q",
+        "type": "mcq",
+        "prompt": "Bir Türkçe kaynak içerik analizini “nitel araştırma içinde bir teknik” olarak anlatırken, Berelson’un klasik tanımı onu nesnel ve sayısal bir betimleme sayıyor. En yerinde okuma hangisi?",
+        "options": [
+          "Kaynaklardan biri yanlıştır; içerik analizi yalnızca nicel olabilir.",
+          "Aynı ad, kategorileri sayan çalışmaları da metni yorumlayan çalışmaları da kapsayabilir; önemli olan çalışmanın gerçekte ne yaptığına bakmak.",
+          "İçerik analizi ile içerik çözümlemesi tamamen farklı yöntemlerdir.",
+          "İçerik analizi izleyicilerin görüşünü ölçtüğü için nitel sayılır."
+        ],
+        "answer": 1,
+        "explain": "Aynı ad iki ayrı geleneği çatabildiği için sınıflama kaynaktan kaynağa değişebilir; ezberlenecek olan etiket değil, yapılan iştir (kategori sayımı mı, yorum mu). Birinci seçenek tek bir tanımı mutlaklaştırıyor. Üçüncü seçenek yalnızca bir çeviri farkını yöntem farkı sanıyor. Dördüncüsü ise yanlış: içerik çözümlemesi izleyiciye değil mesaja sorar."
+      }
+    },
+    {
+      "id": "exam-patterns",
+      "section": "exam",
+      "layer": "core",
+      "kind": "text",
+      "title": "Sınavda böyle sorulur",
+      "body": "**Sık çıkan kalıplar**\n\n- “Örneklem büyüklüğü temsil gücünü garanti eder mi?” → Hayır; seçilme biçimi ve yanıt oranı belirleyici (Literary Digest, 1936).\n- “Rastgele atama neyi sağlar?” → Grupların baştan benzer olmasını, yani **iç geçerliği**; genellenebilirliği (dış geçerlik) değil.\n- “Güvenirlik ile geçerlik” → tutarlı olmak doğru olmak değildir.\n- “İlişki nedensellik midir?” → değildir; üçüncü değişken, ters yön, zaman sırası.\n- “İstatistiksel anlamlılık ile etki büyüklüğü” → anlamlı olan büyük demek değildir.\n- “Meta-analiz nedir, dosya çekmecesi sorunu nedir?”\n- “Panel ile kesit araştırma” → aynı kişilere tekrar dönmek (Erie County, 1940) ile tek seferlik fotoğraf.\n\n**Cazip yanlışlar**\n\n- Güvenirlik ile geçerliği yer değiştirmek.\n- Rastgele atama ile rastgele örneklemi karıştırmak: biri gruplara *bölmeyi*, öteki evrenden *seçmeyi* anlatır.\n- İçerik çözümlemesinin “izleyiciye etkiyi” ölçtüğünü sanmak: yalnızca mesajı sayar.\n- Tekrarlanamayan bir çalışmayı hemen “sahte” saymak.\n\n**Ad–yıl çiftleri**\n\n- Berelson (1952): içerik çözümlemesi. Merton ve Kendall (1946): odaklı görüşme. Glass (1976): meta-analiz. Lazarsfeld ve ekibi: Erie County, 1940. Lincoln ve Guba: nitel araştırmanın güvenilirlik ölçütleri.\n\n**Alternatif adlar**\n\n- güvenirlik / güvenilirlik; geçerlik / geçerlilik; içerik analizi / içerik çözümlemesi; odaklı görüşme (1946) ile odak grup görüşmesi (sonraki ad) yakın ama özdeş değil. [[cite:lee-2010-focus-groups]]\n\nSınav tipi genel örüntülere göre yazıldı; hangi kaynağı okursan oku, soruyu “kimden, neyle ölçerek, neyle karşılaştırarak?” filtresinden geçir.",
+      "question": {
+        "id": "exam-patterns-q",
+        "type": "mcq",
+        "prompt": "Bir sınav sorusu soruyor: “Deneysel bir çalışmada katılımcıların deney ve kontrol gruplarına rastgele atanması neyi güvence altına alır?” Doğru cevap hangisi?",
+        "options": [
+          "Bulguların bütün topluma genellenmesini",
+          "Ölçümün güvenirliğini",
+          "Örneklemin evreni temsil etmesini",
+          "Grupların baştan benzer olmasını, yani farkı uygulanan koşula bağlayabilmeyi (iç geçerlik)"
+        ],
+        "answer": 3,
+        "explain": "Rastgele atama, gruplar arasındaki baştan farkları dengeler ve farkı uygulanan koşula bağlamayı mümkün kılar. Genellenebilirlik ve temsil, kimlerin çalışmaya alındığıyla ilgilidir (örnekleme); ölçümün güvenirliği ise ölçme aracının özelliğidir. Rastgele atama ile rastgele örneklemi karıştırmak, sınavda en sık düşülen tuzaktır."
+      }
+    },
+    {
+      "id": "summary",
+      "section": "summary",
+      "layer": "core",
+      "kind": "summary",
+      "title": "Özet kartı: bir çalışmayı okumak için beş soru",
+      "body": "- **Ana fikir:** bulgu, yöntemin izin verdiği kadar güçlüdür. Sor: kimden, neyle ölçerek, neyle karşılaştırarak?\n- **Örneklem:** büyüklük değil seçilme biçimi ve yanıt oranı belirler (Literary Digest, 2,4 milyon yanıt, yanlış tahmin).\n- **Anket:** oranı verir; panel aynı kişilere dönüp değişimi yakalar (Erie County, 600 kişi); soru sözcüğü cevabı oynatır (Rugg).\n- **Deney:** rastgele atama iç geçerlik verir, dış geçerlik ayrı bir sorudur (Gerber ve arkadaşları: 3.347 hane; Sears, WEIRD).\n- **İçerik çözümlemesi:** mesajı sayar; kod kitabı ve kodlayıcılar arası güvenirlik şart (alfa; yüzde uyum yanıltabilir).\n- **Nitel yöntemler:** anlamı arar; kendi güvenilirlik ölçütleri var (Lincoln ve Guba); “yüzde kaç?” sorusuna cevap vermez.\n- **Ölçüm:** güvenirlik (tutarlılık) ≠ geçerlik (doğruluk); öz bildirim şişebilir (Prior: üç kat).\n- **İlişki ≠ nedensellik:** üçüncü değişken, ters yön, zaman sırası (Toronto; etki/seçilim hipotezi).\n- **Anlamlı ≠ önemli:** büyük örneklemde minik etki de anlamlı çıkar (Kramer: d 0,001–0,02); etki büyüklüğünü sor.\n- **Meta-analiz ve tekrar:** çalışmaları birleştirir, ama dosya çekmecesi ve kötü ölçüm tuzakları var; Açık Bilim İş Birliği’nde tekrarların yüzde 36’sı anlamlıydı.\n- **Sınav tuzağı:** güvenirlik–geçerlik, rastgele atama–rastgele örneklem, anlamlılık–büyüklük, panel–kesit.",
+      "question": {
+        "id": "summary-q",
+        "type": "tf",
+        "prompt": "Doğru mu yanlış mı: Bir çalışmada p < 0,001 çıkması, etkinin büyük olduğunu gösterir.",
+        "answer": false,
+        "explain": "Yanlış. p değeri, farkın tesadüf olup olmadığına dair bir ölçüdür; büyüklüğü hakkında bilgi vermez. Çok büyük örneklemlerde çok küçük farklar bile p < 0,001 verebilir (Facebook deneyinde Cohen d’nin 0,02’yi geçmemesi gibi)."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Literary Digest’in 1936 tahmininin başarısızlığını en iyi hangi cümle özetler?",
+      "options": [
+        "Örneklem çok küçüktü.",
+        "Sorular yanlış yazılmıştı.",
+        "Landon aslında kazanmıştı ama oylar yanlış sayıldı.",
+        "Adres listesi ve yanıt veren kesim çarpıktı; 2,4 milyonluk büyüklük bu çarpıklığı düzeltmedi."
+      ],
+      "answer": 3,
+      "explain": "Digest’in örneklemi büyüktü ama telefon rehberi ve otomobil kayıtlarından derlenen liste varlıklıları fazla temsil ediyordu; üstüne yalnızca yaklaşık yüzde 24’ü yanıt verdi ve yanıt verenler de çarpıktı. “Örneklem çok küçüktü” yanıtı tam da bu dersin çürüttüğü sezgi: küçük örneklem değil, çarpık örneklem sorundu. Diğer iki yanıt dayanaksız."
+    },
+    {
+      "id": "q2",
+      "type": "tf",
+      "prompt": "Doğru mu yanlış mı: Yüksek güvenirliğe sahip bir ölçüm, otomatik olarak geçerlidir.",
+      "answer": false,
+      "explain": "Yanlış. Güvenirlik tutarlılıktır, geçerlik doğruluk. Her seferinde aynı şişkin haber izleme sayısını veren bir anket çok güvenilirdir ve yine de yanıltıcıdır: Prior, beyanların bağımsız izleme ölçümlerine göre ortalama üç kat şiştiğini buldu."
+    },
+    {
+      "id": "q3",
+      "type": "match",
+      "prompt": "Çalışmayı, temsil ettiği yöntemle eşleştir.",
+      "pairs": [
+        [
+          "Gerber, Karlan ve Bergan (2009): kurayla dağıtılan gazete abonelikleri",
+          "Alan deneyi"
+        ],
+        [
+          "Lazarsfeld ve ekibi (1940): Erie County’de aynı 600 kişiyle aylık görüşmeler",
+          "Panel"
+        ],
+        [
+          "Berelson (1952): iletişimin görünen içeriğini sayısal betimleme",
+          "İçerik çözümlemesi"
+        ],
+        [
+          "Merton ve Kendall (1946): önceden çözümlenmiş bir duruma maruz kalanlarla görüşme",
+          "Odaklı görüşme"
+        ],
+        [
+          "Glass (1976): benzer çalışmaların sonuçlarını istatistiksel olarak birleştirme",
+          "Meta-analiz"
+        ]
+      ],
+      "explain": "Gerber ve arkadaşları rastgele atama kullandığı için deneydir, gerçek hayatta yapıldığı için de alan deneyi. Erie County’nin ayırt edici yanı aynı kişilere tekrar dönmesidir: panel. Berelson içerik çözümlemesinin klasik tanımını verdi. Merton ve Kendall’ın makalesi odaklı görüşmeyi, Glass ise meta-analizi adlandırdı. En sık karışan çift, panel ile kesit araştırma ve odaklı görüşme ile bugünkü odak grup görüşmesidir."
+    },
+    {
+      "id": "q4",
+      "type": "order",
+      "prompt": "Bu gelişmeleri eskiden yeniye sırala.",
+      "items": [
+        "Payne Fund çalışmalarının ilk ciltleri yayımlandı (1933)",
+        "Erie County seçmen paneli (1940)",
+        "Berelson’un içerik çözümlemesi kitabı (1952)",
+        "Glass’ın “meta-analiz” terimi (1976)",
+        "Açık Bilim İş Birliği’nin 100 çalışmayı tekrarı (2015)"
+      ],
+      "explain": "Sıra 1933, 1940, 1952, 1976, 2015. Payne Fund ilk ciltleri deneysel ve karşılaştırmalı tasarımları erken gösterdi; Erie County paneli seçmen araştırmasını dönüştürdü; Berelson içerik çözümlemesini kurumsallaştırdı; Glass çalışmaları birleştirmeyi adlandırdı; 2015’teki tekrar çalışması ise alanın kendi bulgularına dönüp baktığı andı."
+    },
+    {
+      "id": "q5",
+      "type": "cloze",
+      "prompt": "Boşlukları doldur.",
+      "text": "İstatistiksel {{1}}, farkın tesadüf olup olmadığını; {{2}} ise farkın ne kadar büyük olduğunu söyler. Kramer ve arkadaşlarının 689.003 kişilik Facebook deneyinde Cohen d en fazla {{3}} idi.",
+      "blanks": [
+        {
+          "options": [
+            "anlamlılık",
+            "geçerlik",
+            "güvenirlik"
+          ],
+          "answer": 0
+        },
+        {
+          "options": [
+            "etki büyüklüğü",
+            "örneklem",
+            "evren"
+          ],
+          "answer": 0
+        },
+        {
+          "options": [
+            "0,02",
+            "0,5",
+            "1,2"
+          ],
+          "answer": 0
+        }
+      ],
+      "explain": "Anlamlılık “tesadüf olabilir mi?” sorusuna, etki büyüklüğü “ne kadar?” sorusuna cevap verir. Facebook deneyinde d değerleri 0,001 ile 0,02 arasındaydı: çok büyük örneklemde minik etkiler de anlamlı çıkar. Geçerlik ve güvenirlik ölçümün özellikleri; örneklem ve evren ise kimlerin çalışmaya alındığıyla ilgili. Bu üç şık başka bir kavram grubuna ait."
+    },
+    {
+      "id": "q6",
+      "type": "case",
+      "scenario": "Hayal et: bir üniversite, öğrencilerinin haberi nereden izlediğini öğrenmek için kampüs uygulamasında bir pop-up anketi yayınlıyor; 6.000 kişi yanıtlıyor. Sonuç: “öğrencilerin yüzde 80’i haberi telefondan izliyor.” Bir haber sitesi bunu manşet yapıyor.",
+      "parts": [
+        {
+          "id": "q6a",
+          "prompt": "En büyük çekince nedir?",
+          "options": [
+            "6.000 kişi hiçbir üniversite için yeterli değildir.",
+            "Yanıt verenler kampüs uygulamasını kullanan ve pop-up’a yanıt vermeyi seçen öğrencilerdir; zaten telefonla haber izleyenlerin fazla temsil edilmesi olasıdır.",
+            "Pop-up anketler yasaktır."
+          ],
+          "answer": 1,
+          "explain": "Uygulama kullanıcısı ve gönüllü yanıt veren, evrenin (bütün öğrenciler) çarpık bir kesitidir; telefonu bol kullananlar bu gruba dahil olmaya daha yatkındır. Birinci seçenek büyüklüğe takılıyor (Digest dersi); üçüncüsü dayanaksız."
+        },
+        {
+          "id": "q6b",
+          "prompt": "Temsil gücünü artırmak için ne yapılabilirdi?",
+          "options": [
+            "Anketi daha çok pop-up ile yaymak.",
+            "Öğrenci listesinden rastgele bir örneklem seçip yanıt vermeyenlerin peşine düşmek.",
+            "Yalnızca haber sitesi okurlarına sormak."
+          ],
+          "answer": 1,
+          "explain": "Evrenin listesinden rastgele seçim ve yanıtsızların takibi, seçilme biçimini kontrol altına alır. Daha çok pop-up aynı çarpıklığı büyütür; haber sitesi okurları ise bambaşka bir seçilmiş gruptur."
+        },
+        {
+          "id": "q6c",
+          "prompt": "“Telefonla haber izlemek öğrencileri daha bilgili yapıyor” demek için hangi tasarım gerekir?",
+          "options": [
+            "Aynı anketi daha çok öğrenciye vermek.",
+            "Kurayla atanan gruplarla deney ya da en azından üçüncü değişkenleri denetleyen ve zaman sırasını izleyen bir tasarım.",
+            "Yanıt verenlerin yüzde 80’inin telefon kullandığını tekrar hatırlatmak."
+          ],
+          "answer": 1,
+          "explain": "Nedensel iddia için ilişkinin yönünü ve üçüncü değişkenleri sınamak gerekir: kura, panel ya da denetimli çözümleme. Daha çok anket yalnızca ilişkiyi güçlendirir; nedeni göstermez."
+        }
+      ],
+      "takeaway": "Manşetteki sayı, ancak kimin yanıtladığı, nasıl seçildiği ve neyin neyle karşılaştırıldığı biliniyorsa okunabilir."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "Doob ve Macdonald’ın Toronto çalışmasından çıkan doğru ders hangisidir?",
+      "options": [
+        "Televizyon izlemek korkuyu hiçbir koşulda artırmaz.",
+        "Kapı kapı anket yöntemi geçersizdir.",
+        "Dört bölge havuzlanınca televizyon ile korku arasında ilişki görüldü, ama mahallenin gerçek suç düzeyi sabit tutulunca ortalama ilişki anlamsız kaldı: ilişki üçüncü bir değişkenden gelebilir.",
+        "Korku, televizyon izlemenin nedenidir."
+      ],
+      "answer": 2,
+      "explain": "Çalışma, tek bir ilişkinin altında bir üçüncü değişken (mahallenin suç düzeyi) olabileceğini gösteriyor. “Televizyon korkuyu hiçbir koşulda artırmaz” yanıtı fazla kesin: tek bir çalışma kuramı çürütmez. “Kapı kapı anket geçersizdir” yanıtı yanlış: yöntem geçerliydi, yorumlanan şey ilişkiydi. “Korku, televizyon izlemenin nedenidir” yanıtı ters yönü kanıtlanmış gibi sunuyor."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Bir meta-analizin sonuçlarını okurken hangi soru en az yerindedir?",
+      "options": [
+        "Yayımlanmamış çalışmalar da tarandı mı?",
+        "Etki büyüklükleri nasıl birleştirildi?",
+        "Meta-analiz olduğuna göre tek tek çalışmalardaki ölçüm hataları önemsizdir, değil mi?",
+        "Farklı koşullarda etki büyüklüğünün değiştiği görüldü mü?"
+      ],
+      "answer": 2,
+      "explain": "Meta-analiz kötü ölçümü iyileştirmez: Scharkow ve Bachl’a göre ölçüm hatası etki tahminlerini aşağı çeker ve hatalı çalışmaları birleştirmek hatayı da birleştirir. Bu yüzden üçüncü soru bir tuzak. Diğer üçü iyi meta-analiz sorularıdır: dosya çekmecesi, birleştirme yöntemi ve moderatörler."
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "Simmons ve arkadaşlarının “When I’m Sixty-Four” deneyi neyi göstermek için yapıldı?",
+      "options": [
+        "Müzik dinlemenin insanı gençleştirdiğini.",
+        "Veri toplama ve çözümlemedeki esnekliklerin, imkânsız bir sonucu bile “anlamlı” gösterebileceğini.",
+        "Öğrencilerin doğum tarihini yanlış yazdığını.",
+        "Beatles şarkılarının etkisini."
+      ],
+      "answer": 1,
+      "explain": "Makale, deneyin doğru yapılıp doğru raporlandığını ama amacın, esnekliklerin yanlış pozitifi ne kadar kolaylaştırdığını göstermek olduğunu söylüyor. Birinci seçenek şakayı gerçek sanıyor; üçüncü ve dördüncü seçenekler ise dayanaksız."
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "Açık Bilim İş Birliği’nin 100 psikoloji çalışmasını yeniden yaptığı proje hakkında hangisi doğrudur?",
+      "options": [
+        "Tekrarların çoğu özgün sonuçları aynen doğruladı.",
+        "Özgün çalışmaların yüzde 97’si, tekrarların yüzde 36’sı anlamlı sonuç verdi ve tekrar etkileri özgünlerin yaklaşık yarısı kadardı.",
+        "Sonuçlar, psikolojide hiçbir bulgunun güvenilir olmadığını kanıtladı.",
+        "Proje yalnızca iletişim dergilerini inceledi."
+      ],
+      "answer": 1,
+      "explain": "Proje üç psikoloji dergisinden 100 çalışmayı yeniden yaptı ve tekrarlarda anlamlılık ve etki büyüklüğü belirgin biçimde düştü. Bu, bulguların “yanlış” olduğunu değil, özgün sonuçların kırılgan ve şişkin olabileceğini gösterir. Birinci seçenek tersini söylüyor; üçüncüsü aşırı; dördüncüsü de yanlış: çalışmalar iletişim değil psikoloji dergilerindendi."
+    },
+    {
+      "id": "q11",
+      "type": "case",
+      "scenario": "Hayal et: bir haber uygulaması, 5 milyon kullanıcıya kurayla iki farklı bildirim metni gösteriyor. B metni tıklamayı A’ya göre artırıyor (p < 0,001; Cohen d = 0,01).",
+      "parts": [
+        {
+          "id": "q11a",
+          "prompt": "Bu sonuç için en yerinde yorum hangisi?",
+          "options": [
+            "Büyük bir etki: p çok küçük.",
+            "İstatistiksel olarak anlamlı ama çok küçük bir etki; önemi ölçeğe ve maliyete bağlı.",
+            "Etki yok: p değeri kanıtlamaz."
+          ],
+          "answer": 1,
+          "explain": "Devasa örneklemde çok küçük farklar bile anlamlı çıkar; d = 0,01 küçüktür ama sıfır değildir. Birinci seçenek anlamlılığı büyüklükle karıştırıyor, üçüncüsü küçük etkiyi yok sayıyor."
+        },
+        {
+          "id": "q11b",
+          "prompt": "Bu deneyin güçlü yanı nedir?",
+          "options": [
+            "Kura sayesinde gruplar baştan benzerdir; farkı bildirim metnine bağlamak makuldür (iç geçerlik).",
+            "Sonuç bütün insanlara ve bütün uygulamalara genellenir.",
+            "Ölçüm hatası olamaz."
+          ],
+          "answer": 0,
+          "explain": "Rastgele atama iç geçerlik sağlar. Genellenebilirlik, kullanıcıların ve uygulamanın özelliklerine bağlıdır; ölçüm (tıklama) ise bir başka sorudur."
+        }
+      ],
+      "takeaway": "Kura, farkın nedenini güvence altına alır; anlamlılık farkın tesadüf olmadığını; büyüklük ise farkın önemini ayrıca değerlendirmeyi gerektirir."
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": "Ien Ang’ın, kendi verdiği ilana yazılan kırk iki izleyici mektubunu inceleyen çalışması için en yerinde değerlendirme ölçütü hangisidir?",
+      "options": [
+        "Bulguların bütün izleyicilere yüzdelerle genellenmesi.",
+        "Örneklemin rastgele seçilmesi.",
+        "Yorumun mektupların içeriğiyle desteklenmesi ve okurun sonuçların başka bağlamlara uzanıp uzanmadığına kendisinin karar verebilmesi (inandırıcılık, aktarılabilirlik).",
+        "Yanıt oranının yüzde 60’ı geçmesi."
+      ],
+      "answer": 2,
+      "explain": "Mektup yazanlar kendini seçmiş kişilerdir; çalışma “kaç kişi”yi değil “nasıl bir anlam”ı gösterir ve nitel araştırmanın kendi ölçütleriyle (Lincoln ve Guba: inandırıcılık, aktarılabilirlik) değerlendirilir (bu değerlendirme bizim yorumumuz). Diğer seçenekler nicel anket ölçütleridir."
+    }
+  ]
+}

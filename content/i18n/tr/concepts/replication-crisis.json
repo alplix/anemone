@@ -1,0 +1,14 @@
+{
+  "id": "replication-crisis",
+  "lang": "tr",
+  "term": "tekrarlanabilirlik krizi",
+  "altTerms": [
+    "yinelenebilirlik krizi",
+    "replikasyon krizi",
+    "şüpheli araştırma uygulamaları"
+  ],
+  "slug": "tekrarlanabilirlik-krizi",
+  "short": "Birçok yayımlanmış bulgunun yeniden yapıldığında aynı sonucu vermemesi ve bunun nedenlerinden biri olarak esnek analiz ve seçici raporlamanın tartışılması.",
+  "body": "Tekrarlanabilirlik krizi, yayımlanmış çalışmaların önemli bir bölümünün yeniden yapıldığında aynı sonucu vermemesi ve bunun nedenlerinin tartışılmasıdır. Açık Bilim İş Birliği (2015), üç psikoloji dergisinden 100 çalışmayı yeniden yaptı: özgün çalışmaların yüzde 97’si, tekrarların yüzde 36’sı anlamlı sonuç verdi ve tekrar etkileri özgünlerin yaklaşık yarısıydı.\n\nNedenlerden biri **şüpheli araştırma uygulamalarıdır**: Simmons ve arkadaşları, veri toplama ve çözümlemedeki esnekliklerin yanlış pozitif oranını dramatik biçimde artırdığını gösterdi; John ve arkadaşlarının 2.000’den fazla psikologa yaptığı anket bu uygulamaları şaşırtıcı ölçüde yaygın buldu; Matthes ve arkadaşları iletişim deneylerinde benzer işaretler saptadı. Çözüm arayışları arasında **ön kayıt** (soru ve analiz planını sonuçları görmeden yazmak) vardır. Tekrarlanamamak tek başına sahtekârlık demek değildir. Bkz. [[concept:meta-analysis]], [[concept:effect-size]].",
+  "example": "Bir 20 kişilik deneyde “şarkı dinleyenler daha genç oldu” bulgusunun, esnek analizle anlamlı çıkarılabilmesi."
+}

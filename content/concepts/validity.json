@@ -1,0 +1,17 @@
+{
+  "id": "validity",
+  "family": "method",
+  "introducedBy": [],
+  "related": [
+    "reliability",
+    "sampling",
+    "correlation-causation"
+  ],
+  "sources": [
+    "ercan-kan-2004-guvenirlik-gecerlik",
+    "prior-2009-inflated-news-audience",
+    "scharkow-2016-self-reported-internet-use",
+    "parry-et-al-2021-logged-self-report",
+    "lincoln-guba-1988-criteria"
+  ]
+}
