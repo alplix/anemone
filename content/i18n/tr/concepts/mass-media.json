@@ -1,0 +1,12 @@
+{
+  "id": "mass-media",
+  "lang": "tr",
+  "term": "kitle iletişim araçları",
+  "altTerms": [
+    "medya"
+  ],
+  "slug": "kitle-iletisim-araclari",
+  "short": "Aynı iletiyi aynı anda çok sayıda, birbirini tanımayan ve dağınık kişiye ulaştıran basılı, elektronik ve dijital iletişim kanalları.",
+  "body": "“Kitle iletişim araçları” dendiğinde akla gelen şey bir makinedir; ama ders bağlamında asıl ilginç olan makine değil, üç ilişkidir: kim konuşabiliyor (üretim), iletiye kaç kişi ulaşıyor (dağıtım) ve alıcılar birbirini tanıyor mu, geri bildirim verebiliyor mu (alımlama). Matbaa, gazete, telgraf, fotoğraf, sinema, radyo, televizyon ve dijital ağlar bu üç ilişkiyi farklı biçimlerde değiştirdi.\n\nBu tanım kasıtlı olarak geniştir: tek bir “kitle iletişim aracı”nın tarihi yoktur, birbirini tamamlayan, çoğu zaman eskiyi ortadan kaldırmayan araçların tarihi vardır. Örneğin ABD’de yetişkinlerin dörtte biri bugün bile en azından ara sıra basılı yayından haber alır [[cite:pew-news-platform-2025]]. Ders boyunca “araç”ı tek başına bir neden olarak değil, siyaset, ekonomi ve alışkanlıklarla birlikte etkili bir ortam olarak ele alacağız [[cite:schudson-1978]].",
+  "example": "(Varsayımsal örnek.) Bir gazete sayfası, bir radyo yayını ve bir sosyal medya akışı, üç farklı zamanda üretim, dağıtım ve alımlama ilişkilerini farklı kurar."
+}

@@ -1,0 +1,410 @@
+{
+  "_comment": "Bibliography for the lesson mass-media-history. Every entry was opened or matched (Crossref / Open Library / the page itself) on 2026-09-20. Several large reference sites (Britannica, Senate.gov, Library of Congress item pages, British Library, Project MUSE) blocked automated access and were NOT used as sources.",
+
+  "weber-2006": {
+    "type": "article", "authors": ["Weber, Johannes"], "year": 2006,
+    "title": "Strassburg, 1605: The origins of the newspaper in Europe",
+    "container": "German History", "volume": "24", "issue": "3", "pages": "387-412",
+    "doi": "10.1191/0266355406gh380oa",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract"], "date": "2026-09-20", "note": "Crossref record matched; abstract read via OpenAlex (printing technique + regular public postal relay + network of correspondents around 1600; first periodical news sheet Strassburg 1605; newspapers widely read by 1620s and most widely read secular material in the second half of the 17th century). Full text not read." }
+  },
+  "dittmar-2011": {
+    "type": "article", "authors": ["Dittmar, Jeremiah E."], "year": 2011,
+    "title": "Information technology and economic change: The impact of the printing press",
+    "container": "The Quarterly Journal of Economics", "volume": "126", "issue": "3", "pages": "1133-1172",
+    "doi": "10.1093/qje/qjr035",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract"], "date": "2026-09-20", "note": "Crossref record matched; abstract read (cities with presses in the 1400s grew 60% faster 1500-1600 than similar cities; distance from Mainz used as instrument). Full text not read; only abstract-level claims are used." }
+  },
+  "rubin-2014": {
+    "type": "article", "authors": ["Rubin, Jared"], "year": 2014,
+    "title": "Printing and Protestants: An empirical test of the role of printing in the Reformation",
+    "container": "The Review of Economics and Statistics", "volume": "96", "issue": "2", "pages": "270-286",
+    "doi": "10.1162/rest_a_00368",
+    "verified": { "status": "ok", "methods": ["crossref", "abstract"], "date": "2026-09-20", "note": "Crossref record with abstract matched (cities with a press by 1500 at least 29 percentage points more likely to be Protestant by 1600; distance from Mainz as instrument). Full text not read." }
+  },
+  "stromberg-2004": {
+    "type": "article", "authors": ["Strömberg, David"], "year": 2004,
+    "title": "Radio's impact on public spending",
+    "container": "The Quarterly Journal of Economics", "volume": "119", "issue": "1", "pages": "189-221",
+    "doi": "10.1162/003355304772839560",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract"], "date": "2026-09-20", "note": "Crossref record matched (Crossref lists the author as 'Stromberg, D.'); abstract read (US counties with many radio listeners received more New Deal relief funds, controlling for poverty and unemployment). Full text not read." }
+  },
+  "gentzkow-2006": {
+    "type": "article", "authors": ["Gentzkow, Matthew"], "year": 2006,
+    "title": "Television and voter turnout",
+    "container": "The Quarterly Journal of Economics", "volume": "121", "issue": "3", "pages": "931-972",
+    "doi": "10.1162/qjec.121.3.931",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract"], "date": "2026-09-20", "note": "Crossref record matched; abstract read (timing of TV's arrival across markets; effect on turnout negative, a quarter to a half of the decline since the 1950s; substitution away from newspapers and radio). Full text not read." }
+  },
+  "poettker-2003": {
+    "type": "article", "authors": ["Pöttker, Horst"], "year": 2003,
+    "title": "News and its communicative quality: the inverted pyramid - when and why did it appear?",
+    "container": "Journalism Studies", "volume": "4", "issue": "4", "pages": "501-511",
+    "doi": "10.1080/1461670032000136596",
+    "verified": { "status": "ok", "methods": ["crossref", "openalex-abstract"], "date": "2026-09-20", "note": "Crossref record matched (Crossref shows the surname as 'Po¨ttker'); abstract read (content analysis of New York Herald and New York Times: inverted pyramid became commonplace about two decades after the Civil War, not during it). Full text not read." }
+  },
+  "blair-2003": {
+    "type": "article", "authors": ["Blair, Ann"], "year": 2003,
+    "title": "Reading strategies for coping with information overload ca. 1550-1700",
+    "container": "Journal of the History of Ideas", "volume": "64", "issue": "1", "pages": "11-28",
+    "doi": "10.1353/jhi.2003.0014",
+    "verified": { "status": "ok", "methods": ["crossref", "open-access-fulltext"], "date": "2026-09-20", "note": "Crossref record matched; the open-access author copy (Harvard DASH) was opened and gives Gessner's 1545 complaint as 'confusing and harmful abundance of books' in translation, and the reference tools scholars devised in response." }
+  },
+  "schwartz-2017": {
+    "type": "article", "authors": ["Schwartz, Kathryn A."], "year": 2017,
+    "title": "Did Ottoman sultans ban print?",
+    "container": "Book History", "volume": "20", "pages": "1-39",
+    "doi": "10.1353/bh.2017.0000",
+    "verified": { "status": "ok", "methods": ["crossref", "full-text-read"], "date": "2026-09-20", "note": "Crossref record matched (Book History 20, 2017, pp. 1-39; issue 1). Full text read from the author-supplied PDF: no one has claimed to have seen the firmans of Bayezid II and Selim I; the ban story is first published by André Thevet in 1584; Ahmed III's 1727 firman and the fatwa of Sheikh al-Islam Yenişehirli Abdullah Efendi were printed at the front of Müteferrika's first book (1729). The article gives Müteferrika's dates as 1675-1745, which other sources contradict, so his dates are not used." }
+  },
+  "eisenstein-2002": {
+    "type": "article", "authors": ["Eisenstein, Elizabeth L."], "year": 2002,
+    "title": "An unacknowledged revolution revisited",
+    "container": "The American Historical Review", "volume": "107", "issue": "1", "pages": "87-105",
+    "doi": "10.1086/ahr/107.1.87",
+    "verified": { "status": "ok", "methods": ["crossref"], "date": "2026-09-20", "note": "Crossref record matched (AHR Forum). Only the existence, authorship and place of the exchange are used; full text not read." }
+  },
+  "johns-2002": {
+    "type": "article", "authors": ["Johns, Adrian"], "year": 2002,
+    "title": "How to acknowledge a revolution",
+    "container": "The American Historical Review", "volume": "107", "issue": "1", "pages": "106-125",
+    "doi": "10.1086/ahr/107.1.106",
+    "verified": { "status": "ok", "methods": ["crossref"], "date": "2026-09-20", "note": "Crossref record matched (AHR Forum reply to Eisenstein). Only existence and authorship are used; full text not read." }
+  },
+  "deniz-2019": {
+    "type": "article", "authors": ["Deniz, Ümit"], "year": 2019,
+    "title": "İstanbul Radyosu'nun ilk dönemindeki (1927) müzik yayınları",
+    "container": "Eurasian Journal of Music and Dance", "volume": "14", "pages": "63-88",
+    "doi": "10.31722/ejmd.584362",
+    "verified": { "status": "ok", "methods": ["journal-page"], "date": "2026-09-20", "note": "DergiPark journal page opened: it states that Istanbul Radio began scheduled and regular broadcasts on 6 May 1927, run by the Turkish Wireless Telephone Company as a private enterprise, and gives this citation. Only the 6 May 1927 date is used." }
+  },
+
+  "schudson-1978": {
+    "type": "book", "authors": ["Schudson, Michael"], "year": 1978,
+    "title": "Discovering the news: A social history of American newspapers",
+    "publisher": "Basic Books", "place": "New York",
+    "verified": { "status": "ok", "methods": ["open-library", "review-page"], "date": "2026-09-20", "note": "Open Library record (Basic Books, New York, first published 1978) matched; the argument (penny press tied to a 'democratic market society', not to technology or literacy alone) was checked against a published review (Kirkus) and a chapter summary. The book itself was not read." }
+  },
+  "eisenstein-1979": {
+    "type": "book", "authors": ["Eisenstein, Elizabeth L."], "year": 1979,
+    "title": "The printing press as an agent of change: Communications and cultural transformations in early-modern Europe",
+    "publisher": "Cambridge University Press", "place": "Cambridge",
+    "verified": { "status": "ok", "methods": ["open-library", "second-source"], "date": "2026-09-20", "note": "Open Library record (Cambridge University Press, 1979) matched; the thesis (dissemination, standardization, preservation) is checked against an encyclopedic summary. The book itself was not read." }
+  },
+  "johns-1998": {
+    "type": "book", "authors": ["Johns, Adrian"], "year": 1998,
+    "title": "The nature of the book: Print and knowledge in the making",
+    "publisher": "University of Chicago Press", "place": "Chicago",
+    "isbn": "9780226401218",
+    "verified": { "status": "ok", "methods": ["open-library", "publisher-page"], "date": "2026-09-20", "note": "Open Library record and the publisher's page (year 1998, ISBN 9780226401218) matched; publisher blurb says the book shows authors, printers, booksellers and readers competing for power over the printed page in early modern England. The book itself was not read; no page-level claims are made." }
+  },
+  "offenberg-1992": {
+    "type": "chapter", "authors": ["Offenberg, A. K."], "year": 1992,
+    "title": "The first printed book produced at Constantinople (Jacob ben Asher's Arba'ah Tûrîm, December 13, 1493)",
+    "editors": [], "bookTitle": "A Choice of Corals", "publisher": "Brill",
+    "doi": "10.1163/9789004615236_008",
+    "verified": { "status": "ok", "methods": ["crossref"], "date": "2026-09-20", "note": "Crossref chapter record matched (title with the date 13 December 1493, issued 1992 as given by Crossref; pages not used). Only the title's date and work are used; chapter text not read." }
+  },
+
+  "battlefields-new-orleans": {
+    "type": "web", "authors": [], "year": 2026, "title": "New Orleans battle facts and summary",
+    "publisher": "American Battlefield Trust", "url": "https://www.battlefields.org/learn/war-1812/battles/new-orleans", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: treaty signed 24 December 1814; battle on 8 January 1815; neither the armies nor Congress knew of the treaty; ratified in February 1815." }
+  },
+  "constitutioncenter-war-1812": {
+    "type": "web", "authors": [], "year": 2026, "title": "America's 'forgotten war' ended on this day, and few people knew",
+    "publisher": "National Constitution Center", "url": "https://constitutioncenter.org/blog/americas-forgotten-war-ended-on-this-day-and-few-people-knew", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: treaty signed 24 December 1814, news arrived in January 1815, battle 8 January 1815; Americans often learned of peace and battle at about the same time. The two sources differ by a day on the ratification date (15 vs 16 February), so only 'February 1815' is used." }
+  },
+  "smithsonian-diamond-sutra": {
+    "type": "web", "authors": [], "year": 2026, "title": "Five things to know about the Diamond Sutra, the world's oldest dated printed book",
+    "publisher": "Smithsonian Magazine", "url": "https://www.smithsonianmag.com/smart-news/Five-things-to-know-about-diamond-sutra-worlds-oldest-dated-printed-book-180959052/", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: date 11 May 868 (13th of the 4th moon, 9th year of Xiantong), made for free distribution by Wang Jie for his parents, woodblock, found at Dunhuang around 1900, obtained by Aurel Stein in 1907, now British Library." }
+  },
+  "lindahall-diamond-sutra": {
+    "type": "web", "authors": [], "year": 2026, "title": "The Diamond Sutra (Scientist of the Day)",
+    "publisher": "Linda Hall Library", "url": "https://www.lindahall.org/about/news/scientist-of-the-day/the-diamond-sutra/", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: 11 May 868, woodblock, seven sheets made into a scroll, sealed in Mogao Cave 17 about 1000 CE, rediscovered about 1900, acquired by Stein in 1907, now British Library." }
+  },
+  "bnf-jikji": {
+    "type": "web", "authors": [], "year": 2026, "title": "'Jikji', a treasure of the world of printing",
+    "publisher": "Bibliothèque nationale de France", "url": "https://www.bnf.fr/en/jikji-treasure-world-printing", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: printed 1377 at Heungdeok-sa temple, Cheongju, with movable cast metal characters; only volume II survives at the BnF; inscribed in UNESCO Memory of the World on 4 September 2001; 78 years before the Gutenberg Bible." }
+  },
+  "unesco-jikji": {
+    "type": "web", "authors": [], "year": 2026, "title": "Baegun hwasang chorok buljo jikji simche yojeol (vol. II), the second volume of 'Anthology of Great Buddhist Priests' Zen Teachings'",
+    "publisher": "UNESCO Memory of the World Programme", "url": "https://www.unesco.org/en/memory-world/baegun-hwasang-chorok-buljo-jikji-simche-yojeol-volii-second-volume-anthology-great-buddhist-priests", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: printed July 1377 at Heungdeok-sa temple, Cheongju, with movable metal types; described as the oldest surviving example of movable metal type printing; inscribed 2001." }
+  },
+  "ebsco-bi-sheng": {
+    "type": "web", "authors": [], "year": 2026, "title": "Bi Sheng (Research Starters)",
+    "publisher": "EBSCO", "url": "https://www.ebsco.com/research-starters/history/bi-sheng", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: baked clay movable type around 1045, described by Shen Kuo (Mengxi bitan, about 1088); movable type not dominant in China because of the large number of characters." }
+  },
+  "columbia-afe-song-printing": {
+    "type": "web", "authors": [], "year": 2026, "title": "Printing technology in Song China (Song Dynasty module)",
+    "publisher": "Asia for Educators, Columbia University", "url": "https://afe.easia.columbia.edu/songdynasty-module/tech-printing.html", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: woodblock printing by the 9th century; Bi Sheng invented movable type in the 11th century using baked clay; movable type never widely used in China because whole-block printing was cheaper." }
+  },
+  "loc-gutenberg-printer": {
+    "type": "web", "authors": [], "year": 2026, "title": "Johannes Gutenberg (c. 1400 - 1468), in: The Gutenberg Bible at the Library of Congress: A resource guide",
+    "publisher": "Library of Congress", "url": "https://guides.loc.gov/gutenberg/the-printer", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: born about 1400 (of age by a 1420 document), died 1468; Strasbourg records from 1434; first Mainz document 1448; Fust lent 800 guilders twice; Helmasperger instrument preserves the dispute; a printer's name is not in the Catholicon colophon." }
+  },
+  "loc-gutenberg-guide": {
+    "type": "web", "authors": [], "year": 2026, "title": "Introduction, in: The Gutenberg Bible at the Library of Congress: A resource guide",
+    "publisher": "Library of Congress", "url": "https://guides.loc.gov/gutenberg", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: printed in Mainz in 1454/1455; perhaps as many as 180 copies, about a quarter on vellum; Piccolomini's letter of 1455 is the first documented reference to European printing, does not name Gutenberg, and was itself printed in 1480." }
+  },
+  "ndl-gutenberg-mystery": {
+    "type": "web", "authors": [], "year": 2026, "title": "Gutenberg, man of mystery, in: Incunabula: Dawn of Western printing",
+    "publisher": "National Diet Library, Japan", "url": "https://www.ndl.go.jp/incunabula/e/chapter1/chapter1_02.html", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: c. 1400-1468; Helmasperger notarial instrument (1455 dispute with Fust, discovered 1734); Gutenberg's name does not appear on the 42-line Bible; the attribution of some other works remains debated, so those are not used." }
+  },
+  "gutenberg-gesellschaft-invention": {
+    "type": "web", "authors": [], "year": 2026, "title": "Gutenberg's invention",
+    "publisher": "Gutenberg-Gesellschaft, Mainz", "url": "https://www.gutenberg-gesellschaft.de/en/johannes-gutenberg/gutenbergs-invention", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: components of the invention (hand mould, composing stick, press, ink); oldest dated print an indulgence of 22 October 1454; Helmasperger instrument 6 November 1455." }
+  },
+  "keio-42-line-bible": {
+    "type": "web", "authors": [], "year": 2026, "title": "The 42-line Bible ([Mainz]: [Printer of the 42-line Bible], c. 1454-55)",
+    "publisher": "Keio University Libraries, Digital Collections of Incunabula", "url": "https://dcollections.lib.keio.ac.jp/en/incunabula/036", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Catalogue page opened: the Latin Bible has neither title page nor colophon; the attribution to Gutenberg (about 1455) is 'now commonly accepted'." }
+  },
+  "jvl-hebrew-printing": {
+    "type": "web", "authors": [], "year": 2026, "title": "Hebrew printing (Encyclopaedia Judaica text)",
+    "publisher": "Jewish Virtual Library", "url": "https://jewishvirtuallibrary.org/hebrew-printing", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: Hebrew printing introduced in Constantinople in 1493 by exiles from Spain and Portugal." }
+  },
+  "pressgazette-400-years": {
+    "type": "web", "authors": [], "year": 2005, "title": "400 years of newspapers",
+    "publisher": "Press Gazette", "url": "https://pressgazette.co.uk/archive-content/400-years-of-newspapers/", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Archive article opened: Carolus sold handwritten newsletters, bought a printing shop in 1604, switched to printing in summer 1605; the World Association of Newspapers accepted documentary evidence (Gutenberg Museum, Mainz) making 2005 the 400th anniversary." }
+  },
+  "museumofoxford-gazette": {
+    "type": "web", "authors": [], "year": 2026, "title": "How Oxford became the home of the oldest surviving English newspaper",
+    "publisher": "Museum of Oxford", "url": "https://museumofoxford.org/how-oxford-became-the-home-of-the-oldest-surviving-english-newspaper/", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: first issue 7 November 1665; court in Oxford because of the plague; courtiers feared contagion from London papers; Henry Muddiman; renamed London Gazette when the court returned (early 1666)." }
+  },
+  "historyhit-london-gazette": {
+    "type": "web", "authors": [], "year": 2026, "title": "The first British newspaper (The London Gazette)",
+    "publisher": "History Hit", "url": "https://www.historyhit.com/first-edition-london-gazette/", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: Oxford Gazette of 7 November 1665; plague; the Gazette was distributed by post to subscribers rather than sold publicly; rival claims (Stamford Mercury) depend on the definition of 'newspaper'." }
+  },
+  "ebsco-penny-press": {
+    "type": "web", "authors": [], "year": 2026, "title": "Birth of the penny press (Research Starters)",
+    "publisher": "EBSCO", "url": "https://www.ebsco.com/research-starters/history/birth-penny-press/", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: The Sun launched 3 September 1833 by Benjamin H. Day at one cent; street sales by newsboys instead of subscriptions; advertising; six-cent dailies with subscriptions of six to ten dollars a year; local and human-interest news; Bennett's Herald 6 May 1835. Circulation figures differ between sources, so none are used." }
+  },
+  "smithsonian-libraries-moon-hoax": {
+    "type": "web", "authors": [], "year": 2013, "title": "The Great Moon Hoax, 1835",
+    "publisher": "Smithsonian Libraries and Archives (blog)", "url": "https://blog.library.si.edu/2013/08/great_moon_hoax_1835", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: series of August 1835 in the Sun credited to Sir John Herschel at the Cape, actually written by Richard Adams Locke; widely reprinted." }
+  },
+  "lindahall-locke": {
+    "type": "web", "authors": [], "year": 2026, "title": "Richard Adams Locke (Scientist of the Day)",
+    "publisher": "Linda Hall Library", "url": "https://www.lindahall.org/about/news/scientist-of-the-day/richard-adams-locke/", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: series began 25 August 1835; falsely credited to Herschel; boosted the paper; Locke admitted the fabrication privately five years later; the Sun never publicly confessed." }
+  },
+  "hoaxes-moon-hoax": {
+    "type": "web", "authors": ["Boese, Alex"], "year": 2026, "title": "The Great Moon Hoax (1835)",
+    "publisher": "Museum of Hoaxes", "url": "https://hoaxes.org/archive/permalink/the_great_moon_hoax", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: six-part serial 25-31 August 1835, ostensibly from the Edinburgh Journal of Science, credited to Herschel; the popular claim that circulation nearly trebled is disputed by the Sun's own reported figures; the Sun never officially admitted it. An amateur-run site, used only as a cross-check; circulation figures are left out." }
+  },
+  "ebsco-first-telegraph": {
+    "type": "web", "authors": [], "year": 2026, "title": "First telegraph message (Research Starters)",
+    "publisher": "EBSCO", "url": "https://www.ebsco.com/research-starters/history/first-telegraph-message", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: 24 May 1844, Morse to Alfred Vail, Washington to Baltimore, 'What hath God wrought'; initial line saw little use; fifty companies within years." }
+  },
+  "teachingamericanhistory-telegraph": {
+    "type": "web", "authors": [], "year": 2026, "title": "The telegraph - What hath God wrought?",
+    "publisher": "Teaching American History (Ashbrook Center)", "url": "https://teachingamericanhistory.org/blog/the-telegraph-what-hath-god-wrought/", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: message of 24 May 1844 sent from the Supreme Court chamber to Vail in Baltimore; two years later newspapers organized a pony express for Mexican War news and telegraphed it on; by the end of the decade wires connected most large American cities." }
+  },
+  "newworld-associated-press": {
+    "type": "web", "authors": [], "year": 2026, "title": "Associated Press",
+    "publisher": "New World Encyclopedia", "url": "https://www.newworldencyclopedia.org/entry/Associated_Press", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself", "second-source"], "date": "2026-09-20", "note": "Page opened: five New York papers pooled resources in May 1846 to share the cost of Mexican War news; Moses Yale Beach of the Sun was the driving force. Cross-checked with a second summary (Daily Cartoonist, 22 May 1846) and Teaching American History. Modest sources; only the year, the cost-sharing purpose and the war are used." }
+  },
+  "encyclopedia-havas": {
+    "type": "web", "authors": [], "year": 2026, "title": "Havas, SA (International Directory of Company Histories)",
+    "publisher": "Encyclopedia.com", "url": "https://www.encyclopedia.com/books/politics-and-business-magazines/havas-sa-0", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: Havas founded 1835 by Charles-Louis Havas; used carrier pigeons and then the electric telegraph; Reuter and Wolff, former employees, set up rival agencies; the three divided European territories by agreement (dated 1869 on this page)." }
+  },
+  "encyclopedia-reuter": {
+    "type": "web", "authors": [], "year": 2026, "title": "Paul Julius Reuter",
+    "publisher": "Encyclopedia.com", "url": "https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/paul-julius-reuter", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: pigeon service Aachen-Belgium 1850; London office on 10 October 1851 sending stock quotations by the Calais-Dover cable; born 1816, died 1899." }
+  },
+  "pressgazette-reuter": {
+    "type": "web", "authors": [], "year": 2016, "title": "Happy 200th birthday to Paul Julius Reuter: journalism innovator who founded a news empire with pigeons",
+    "publisher": "Press Gazette", "url": "https://pressgazette.co.uk/news/happy-200th-birthday-to-paul-julius-reuter-journalism-innovator-who-founded-a-news-empire-with-pigeons/", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: pigeons between Brussels and Aachen in 1850; London office at the Royal Exchange in 1851; birth year 1816. The page's 'death year 1878' is really his retirement, so it is not used." }
+  },
+  "sciencemuseum-transatlantic-cable": {
+    "type": "web", "authors": [], "year": 2026, "title": "How perseverance laid the first transatlantic telegraph cable",
+    "publisher": "Science Museum Group", "url": "https://www.sciencemuseum.org.uk/objects-and-stories/how-perseverance-laid-first-transatlantic-telegraph-cable", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: 1858 cable (Queen Victoria and President Buchanan exchanged greetings) failed within weeks; the Great Eastern laid a permanent cable on 27 July 1866; weeks reduced to under a day." }
+  },
+  "ethw-transatlantic-cable": {
+    "type": "web", "authors": [], "year": 2026, "title": "Milestones: Landing of the transatlantic cable, 1866",
+    "publisher": "Engineering and Technology History Wiki (IEEE)", "url": "https://ethw.org/Milestones:Landing_of_the_Transatlantic_Cable,_1866", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: landing at Heart's Content on 27 July 1866; the 1858 line worked from 5 August to 18 September, about six weeks; transmission time cut from weeks to minutes." }
+  },
+  "eastman-daguerreotype": {
+    "type": "web", "authors": [], "year": 2014, "title": "Daguerre introduced photography 175 years ago",
+    "publisher": "George Eastman Museum", "url": "https://www.eastman.org/blog/daguerre-introduced-photography-175-years-ago", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: Arago presented the process on 19 August 1839; the French government offered it as a gift to the world; first export shipment reached Berlin by 6 September 1839." }
+  },
+  "cameramuseum-daguerre": {
+    "type": "web", "authors": [], "year": 2026, "title": "1839: the invention of Daguerre unveiled to the world",
+    "publisher": "Camera Museum, Vevey", "url": "https://www.cameramuseum.ch/en/discover/permanent-exhibition/the-origins-of-photography/1839-the-invention-of-daguerre-unveiled-to-the-world/", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: process presented on 19 August 1839 to the combined academies by Arago." }
+  },
+  "encyclopedia-mechanical-revolutions": {
+    "type": "web", "authors": [], "year": 2026, "title": "Mechanical revolutions (American Decades)",
+    "publisher": "Encyclopedia.com", "url": "https://www.encyclopedia.com/history/news-wires-white-papers-and-books/mechanical-revolutions", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: Horgan printed the first quality halftone, 'Shantytown', in the New York Daily Graphic in 1880 and adapted halftones to rotary presses in 1897." }
+  },
+  "historyofinformation-shantytown": {
+    "type": "web", "authors": [], "year": 2026, "title": "A Scene in Shantytown, New York (1880)",
+    "publisher": "Jeremy Norman's HistoryofInformation.com", "url": "https://www.historyofinformation.com/image.php?id=1699", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself", "second-source"], "date": "2026-09-20", "note": "Page opened: halftone reproduction in a newspaper dated 4 March 1880, photograph by Henry J. Newton, Horgan. Cross-checked with the Wikipedia article on The Daily Graphic and a Library of Congress catalogue snippet (Daily Graphic, 4 March 1880, page 38)." }
+  },
+  "history-lumiere": {
+    "type": "web", "authors": [], "year": 2026, "title": "First commercial movie screened (28 December 1895)",
+    "publisher": "HISTORY", "url": "https://www.history.com/this-day-in-history/december-28/first-commercial-movie-screened", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself", "second-source"], "date": "2026-09-20", "note": "Page opened: Lumière screening at the Grand Café in Paris on 28 December 1895, short scenes of everyday life. Cross-checked with the Wikipedia article on the Lumière brothers (Salon Indien du Grand Café, paying audience; attendance figures differ across sources, so none are used)." }
+  },
+  "ethw-kdka": {
+    "type": "web", "authors": [], "year": 2026, "title": "KDKA, first commercial radio station (and Milestone: Westinghouse Radio Station KDKA, 1920)",
+    "publisher": "Engineering and Technology History Wiki (IEEE)", "url": "https://ethw.org/KDKA,_First_Commercial_Radio_Station", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Two ETHW pages opened: 2 November 1920 Harding-Cox returns telephoned from the Pittsburgh Post to KDKA; first US broadcasting licence issued to Westinghouse on 27 October 1920; the station was built to sell receivers. The two pages disagree on the broadcast hours, so hours are not used." }
+  },
+  "londonmuseum-bbc": {
+    "type": "web", "authors": [], "year": 2026, "title": "The history of the BBC",
+    "publisher": "London Museum", "url": "https://www.londonmuseum.org.uk/collections/london-stories/history-of-the-bbc/", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself", "second-source"], "date": "2026-09-20", "note": "Page opened: British Broadcasting Company 1922, first radio broadcast 14 November 1922 from 2LO, Royal Charter 1927 under Reith, first TV transmission 1936 from Alexandra Palace. Company formation on 18 October 1922 and charter date 1 January 1927 cross-checked with the Wikipedia article 'BBC'." }
+  },
+  "ebsco-bbc-television": {
+    "type": "web", "authors": [], "year": 2026, "title": "BBC airs the first high-definition television program (Research Starters)",
+    "publisher": "EBSCO", "url": "https://www.ebsco.com/research-starters/communication-and-mass-media/bbc-airs-first-high-definition-television-program", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: 2 November 1936, Alexandra Palace, 405 lines, two hours a day six days a week; Germany had started a regular low-definition (180 lines) service a year earlier." }
+  },
+  "alexandrapalace-bbc": {
+    "type": "web", "authors": [], "year": 2026, "title": "BBC at Alexandra Palace",
+    "publisher": "Alexandra Palace", "url": "https://www.alexandrapalace.com/our-history/bbc-at-the-palace/", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: BBC television service launched 2 November 1936 from Alexandra Palace (Marconi-EMI 405-line system)." }
+  },
+  "etymonline-broadcast": {
+    "type": "web", "authors": [], "year": 2026, "title": "broadcast (etymology)",
+    "publisher": "Online Etymology Dictionary", "url": "https://www.etymonline.com/word/broadcast", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself", "second-source"], "date": "2026-09-20", "note": "Page opened: broad + cast, first of seed scattered by hand (18th century); wide-spread sense later; radio sense recorded 1921-22. Cross-checked with Wiktionary and Dictionary.com (agricultural origin, mid 18th century)." }
+  },
+  "cern-birth-web": {
+    "type": "web", "authors": [], "year": 2026, "title": "The birth of the Web",
+    "publisher": "CERN", "url": "https://home.cern/science/computing/the-birth-of-the-web/", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: Berners-Lee's proposal in March 1989; first website and browser 1990; CERN put the Web software in the public domain on 30 April 1993." }
+  },
+  "cern-web30": {
+    "type": "web", "authors": [], "year": 2026, "title": "Web history (Web at 30)",
+    "publisher": "CERN", "url": "https://web30.web.cern.ch/web-history.html", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: March 1989 proposal; December 1990 first browser/editor, server and website; 30 April 1993 public-domain statement. Same institution as the other CERN page, so not independent of it; used as a second page of the same source." }
+  },
+  "pew-news-platform-2025": {
+    "type": "web", "authors": [], "year": 2025, "title": "News platform fact sheet",
+    "publisher": "Pew Research Center", "url": "https://www.pewresearch.org/journalism/fact-sheet/news-platform-fact-sheet/", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Fact sheet opened; survey of US adults conducted 18-24 August 2025: get news at least sometimes from digital devices 86%, television 64%, radio 44%, print publications 25%; social media 53%." }
+  },
+  "plato-phaedrus-perseus": {
+    "type": "web", "authors": ["Plato"], "year": 2026, "title": "Phaedrus 274c-275b (the story of Theuth and Thamus), English translation",
+    "publisher": "Perseus Digital Library", "url": "https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3Atext%3A1999.01.0174%3Atext%3DPhaedrus%3Asection%3D274c", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself", "second-source"], "date": "2026-09-20", "note": "Passage opened: Socrates tells how Theuth offers writing to King Thamus, who answers that it will produce forgetfulness and the appearance of wisdom. Cross-checked with a secondary discussion of the passage (History of Information, Kanayama)." }
+  },
+  "tdv-muteferrika-matbaasi": {
+    "type": "web", "authors": ["Beydilli, Kemal"], "year": 2006, "title": "Müteferrika Matbaası",
+    "publisher": "TDV İslâm Ansiklopedisi", "url": "https://islamansiklopedisi.org.tr/muteferrika-matbaasi", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Article opened (author Kemal Beydilli): permission in Zilkade 1139 (July 1727); first book Vankulu Lügati; 16-17 works in 22 volumes by 1742; religious books excluded. The year shown for the print volume is not confirmed here." }
+  },
+  "tdv-ibrahim-muteferrika": {
+    "type": "web", "authors": ["Afyoncu, Erhan"], "year": 2000, "title": "İbrâhim Müteferrika",
+    "publisher": "TDV İslâm Ansiklopedisi", "url": "https://islamansiklopedisi.org.tr/ibrahim-muteferrika", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Article opened (author Erhan Afyoncu, DİA vol. 21, 2000): born in Kolozsvár (Cluj) between 1670 and 1674 (uncertain), Unitarian background, converted to Islam; treatise Vesîletü't-tıbâa 1726; permission July 1727; first work early 1729; about 17 books; died 1747 per this article, 1745 per other sources, so his death year is not used." }
+  },
+  "tdv-takvim-i-vekayi": {
+    "type": "web", "authors": ["Yazıcı, Nesimi"], "year": 2011, "title": "Takvîm-i Vekāyi‘",
+    "publisher": "TDV İslâm Ansiklopedisi", "url": "https://islamansiklopedisi.org.tr/takvim-i-vekayi", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Article opened (author Nesimi Yazıcı): first issue 25 Cemâziyelevvel 1247 (given as 1 November 1831), state gazette of Mahmud II, French edition Le Moniteur ottoman four days later, Armenian/Greek/Arabic/Persian editions in 1832, some copies compulsory for state servants. Other Turkish sources give 11 November 1831 for the first issue (Julian/Gregorian and Hijri conversion), so the lesson says only 'November 1831'." }
+  },
+  "journo-first-newspapers": {
+    "type": "web", "authors": [], "year": 2026, "title": "Türkiye'nin ilk gazeteleri: Takvim-i Vekayi, Ceride-i Havadis ve Tercüman-ı Ahval",
+    "publisher": "Journo", "url": "https://journo.com.tr/turkiye-ilk-gazeteler-takvimi-vakayi-ceride", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: Takvim-i Vekayi November 1831, state publication; Ceride-i Havadis 1840, by the Englishman William Churchill, private with state permission; Tercüman-ı Ahval 1860 by Şinasi and Agâh Efendi, the first non-official Turkish-language newspaper by Turkish citizens. Popular-history site, used as a cross-check for the TDV articles." }
+  },
+  "tdv-tercuman-i-ahval": {
+    "type": "web", "authors": ["Çakır, Hamza"], "year": 2011, "title": "Tercümân-ı Ahvâl",
+    "publisher": "TDV İslâm Ansiklopedisi", "url": "https://islamansiklopedisi.org.tr/tercuman-i-ahval", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Article opened (author Hamza Çakır, DİA vol. 40, 2011): first issue 22 October 1860 (6 Rebîülâhir 1277); Âgâh Efendi publisher, Şinâsi chief editor in the early issues; first privately owned Turkish-language newspaper, launched without state funding; Şinâsi's introduction describes a newspaper of thought and discussion." }
+  },
+  "tdv-tasvir-i-efkar": {
+    "type": "web", "authors": ["Yazıcı, Nesimi"], "year": 2011, "title": "Tasvîr-i Efkâr",
+    "publisher": "TDV İslâm Ansiklopedisi", "url": "https://islamansiklopedisi.org.tr/tasvir-i-efkar", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Article opened (author Nesimi Yazıcı, DİA vol. 40, 2011): first issue 27 June 1862, founded by Şinâsi, fourth Turkish-language newspaper of the empire; Nâmık Kemal took over after Şinâsi left for Europe in January 1865; a gathering place for the Young Ottomans. The page's summary line naming a different date for Tercümân-ı Ahvâl is a typo-level inconsistency; the Tercümân-ı Ahvâl article is used for that date." }
+  },
+  "aa-kurulus": {
+    "type": "web", "authors": [], "year": 2020, "title": "Anadolu Ajansı nasıl kuruldu?",
+    "publisher": "Anadolu Ajansı", "url": "https://www.aa.com.tr/tr/arsiv/anadolu-ajansi-nasil-kuruldu/419529", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Agency's own archive article opened: founded 6 April 1920 in Ankara by Yunus Nadi and Halide Edib; purpose to tell the National Struggle to domestic and foreign publics; the name chosen among 'Türk Ajansı', 'Ankara Ajansı', 'Anadolu Ajansı'. Its 'days before parliament' remark is not used." }
+  },
+  "kure-anadolu-ajansi": {
+    "type": "web", "authors": ["Kaya, Meryem Betül"], "year": 2026, "title": "Anadolu Ajansı",
+    "publisher": "KÜRE Ansiklopedi", "url": "https://kureansiklopedi.com/tr/detay/anadolu-ajansi-b4150", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Encyclopedia entry opened: founded 6 April 1920 in Ankara; founders Yunus Nadi and Halide Edib with Mustafa Kemal's support; purpose to counter censorship and give accurate information about the war of independence." }
+  },
+  "trt-tarihce": {
+    "type": "web", "authors": [], "year": 2026, "title": "TRT tarihçe",
+    "publisher": "TRT Radyo", "url": "https://radyo.trt.net.tr/kurumsal/tarihce", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Institution's history page opened: Istanbul Radio's first broadcast 6 May 1927; Ankara Radio officially opened 28 October 1938; TRT established 1 May 1964 by special law; first television test broadcast 31 January 1968 at the Mithatpaşa studio in Ankara; daily television from 1974. It says Ankara Radio started in 1928, other sources say 1927, so that date is not used." }
+  },
+  "trt1-tarihce": {
+    "type": "web", "authors": [], "year": 2026, "title": "TRT 1 tarihçe",
+    "publisher": "TRT 1", "url": "https://www.trt1.com.tr/tarihce", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Page opened: test broadcast 31 January 1968 in Ankara, three days a week, three hours; İzmir 1970, İstanbul 1971; daily broadcasts from 1974; colour from 31 December 1981, fully coloured in 1984." }
+  },
+  "aa-trt-tv-54": {
+    "type": "web", "authors": [], "year": 2022, "title": "TRT televizyon yayıncılığında 54. yılını kutluyor",
+    "publisher": "Anadolu Ajansı", "url": "https://www.aa.com.tr/tr/gundem/trt-televizyon-yayinciliginda-54-yilini-kutluyor/2490077", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "News item opened: television broadcasts began on 31 January 1968 from a basement studio on Mithatpaşa Street, Ankara; opening announcement quoted." }
+  },
+  "kure-ilk-radyo": {
+    "type": "web", "authors": [], "year": 2026, "title": "Türkiye'de ilk radyo yayını",
+    "publisher": "KÜRE Ansiklopedi", "url": "https://kureansiklopedi.com/tr/detay/turkiyede-ilk-radyo-yayini-cecd1", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Entry opened: first radio broadcast 6 May 1927 from the basement of the Sirkeci central post office, relayed by a loudspeaker at the post-office door; TRT established 1 May 1964." }
+  },
+
+  "columbia-day": {
+    "type": "web", "authors": [], "year": 2026, "title": "Day, Benjamin Henry (The Columbia Encyclopedia, 6th ed.)",
+    "publisher": "Encyclopedia.com", "url": "https://www.encyclopedia.com/reference/encyclopedias-almanacs-transcripts-and-maps/day-benjamin-henry", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Entry opened: 1810-1889, printer and journalist, founded the New York Sun in 1833 at one cent, first paper in the city to employ newsboys, sold it in 1838 to Moses Yale Beach, founded Brother Jonathan in 1842." }
+  },
+  "wikipedia-benjamin-day": {
+    "type": "web", "authors": [], "year": 2026, "title": "Benjamin Henry Day",
+    "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Benjamin_Day_(publisher)", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Article opened: born 10 April 1810 in Springfield, Massachusetts, died 21 December 1889 in New York City; founded the Sun 1833, sold it 1838. Used only as a second source for the two years." }
+  },
+  "wikipedia-31-line-indulgence": {
+    "type": "web", "authors": [], "year": 2026, "title": "31-line Indulgence",
+    "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/31-line_Indulgence", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself", "second-source"], "date": "2026-09-20", "note": "Article opened: the earliest known European document with a fixed date printed by movable metal type (year 1454 printed, month and day by hand); attribution to Gutenberg presumed but disputed, other printers worked in Mainz at the time. Cross-checked with the Gutenberg-Gesellschaft page (22 October 1454 as the oldest dated print). Used only for the attribution caveat." }
+  },
+  "wikipedia-eisenstein": {
+    "type": "web", "authors": [], "year": 2026, "title": "Elizabeth Eisenstein",
+    "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Elizabeth_Eisenstein", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Article opened: The Printing Press as an Agent of Change (Cambridge University Press, 1979, two volumes); functions of dissemination, standardization, preservation; Johns's challenge in the American Historical Review debate (agent of change versus vehicle of change). An encyclopedic summary, used for the one-sentence description of the debate only." }
+  },
+  "wikipedia-reuter": {
+    "type": "web", "authors": [], "year": 2026, "title": "Paul Reuter",
+    "publisher": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Paul_Reuter", "accessed": "2026-09-20",
+    "verified": { "status": "ok", "methods": ["source-itself"], "date": "2026-09-20", "note": "Article opened: born 21 July 1816 in Kassel, died 25 February 1899 in Nice; pigeon service between Brussels and Aachen; news agency headquarters near the London Stock Exchange. Used as a cross-check." }
+  }
+}

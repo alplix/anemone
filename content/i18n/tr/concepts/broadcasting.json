@@ -1,0 +1,13 @@
+{
+  "id": "broadcasting",
+  "lang": "tr",
+  "term": "yayıncılık (broadcast)",
+  "altTerms": [
+    "yayın",
+    "radyo-televizyon yayıncılığı"
+  ],
+  "slug": "yayincilik",
+  "short": "Aynı programın bir merkezden çok sayıda alıcıya aynı anda ulaştırılması; radyo ve televizyonun temel biçimi.",
+  "body": "İngilizcedeki *broadcast* sözcüğü “geniş” ve “atmak” sözcüklerinden gelir; önce tohumun tarlaya elle savrularak dağıtılmasını anlatıyordu ve 1920’lerde radyo için kullanılmaya başlandı [[cite:etymonline-broadcast]]. Tohum benzetmesi yerindedir: merkezden yayın, kimin dinlediğini bilmeden herkese aynı içeriği yağdırır.\n\nRadyo ve televizyon yayıncılığını üç özellik belirgin kılar: aynı anda ulaşma (senkron dinleme), evde dinleme (kamusal alan yerine özel alan) ve merkezî program (kim yayına çıkacak, ne yayımlanacak kararı birkaç kurumda toplanır). İlk ticari radyo istasyonlarından KDKA, alıcı cihaz satışını artırmak için kurulmuştu; BBC ise lisans bedeliyle finanse edilen bir kamu yayıncısı olarak yerleşti [[cite:ethw-kdka]][[cite:londonmuseum-bbc]].",
+  "example": "(Varsayımsal örnek.) Belirli bir saatte hem Ankara’da hem Van’da aynı haber bülteninin izlenmesi, yayıncılığın senkron doğasının örneğidir."
+}

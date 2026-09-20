@@ -1,0 +1,14 @@
+{
+  "id": "day",
+  "born": {
+    "year": 1810
+  },
+  "died": {
+    "year": 1889
+  },
+  "sources": [
+    "columbia-day",
+    "wikipedia-benjamin-day"
+  ],
+  "works": []
+}

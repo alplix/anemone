@@ -1,0 +1,16 @@
+{
+  "id": "gutenberg",
+  "lang": "tr",
+  "name": "Johannes Gutenberg",
+  "nativeName": "",
+  "slug": "johannes-gutenberg",
+  "short": "Mainz’lı kuyumcu-matbaacı; Avrupa’da hareketli metal harfle basımın öncüsü olarak anılır, ama hayatı hakkında bilinenler şaşırtıcı biçimde azdır.",
+  "born": "Mainz",
+  "roles": [
+    "kuyumcu",
+    "matbaacı"
+  ],
+  "bio": "Johannes Gutenberg, Avrupa’da hareketli metal harflerle kitap basımının öncüsü sayılır; ama ondan geriye kalan belge sayısı, şöhretine kıyasla şaşırtıcı derecede azdır. Yaklaşık 1400’de Mainz’da doğduğu kabul edilir (kesin doğum yılı bilinmez; 1420 tarihli bir belge, o tarihte reşit olduğunu gösterir) ve 1468’de öldü [[cite:loc-gutenberg-printer]]. Strazburg’da 1434’ten itibaren kuyumcu olarak izlenir; Mainz’a döndükten sonra ilk belge 1448’e aittir [[cite:loc-gutenberg-printer]].\n\nBasım işi için zengin Johann Fust’tan iki kez 800 gulden borç aldı. 1455’te Fust dava açtı; yargılamayı özetleyen noter belgesi, yani Helmasperger Noter Belgesi, 6 Kasım 1455 tarihlidir ve Gutenberg’in basım girişimine dair elimizdeki en önemli çağdaş belgedir [[cite:loc-gutenberg-printer]][[cite:gutenberg-gesellschaft-invention]]. Belge 1734’te keşfedildi [[cite:ndl-gutenberg-mystery]].\n\nEn ünlü ürünü 42 satırlık İncil, 1454–55 dolaylarında Mainz’da basıldı; ama kitapta ne bir kapak sayfası ne de basımevi kaydı (kolofon) vardır, Gutenberg’in adı da geçmez; ona atfedilmesi sonradan yerleşmiş bir kabuldür [[cite:keio-42-line-bible]][[cite:ndl-gutenberg-mystery]]. Elimizdeki belgeler bir işletmeyi, kredileri ve bir davayı gösterir; mucizevi bir dahinin biyografisini değil.",
+  "works": [],
+  "inCourse": "[[lesson:mass-media-history]] dersinde matbaa kartlarında “belgelenen ve efsane olan” ayrımının örneği olarak geçer."
+}

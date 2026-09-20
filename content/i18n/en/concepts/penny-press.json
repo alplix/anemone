@@ -1,0 +1,15 @@
+{
+  "id": "penny-press",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "penny press",
+  "altTerms": [
+    "cheap newspapers"
+  ],
+  "slug": "penny-press",
+  "short": "A type of newspaper that appeared in American cities in the 1830s: sold on the street for one cent, financed by advertising and turning to local and human-interest news.",
+  "body": "The penny press is the name given to the kind of newspaper that began with *The Sun*, published in New York in 1833. The price was one cent, whereas the six-cent party papers relied on yearly subscriptions. The penny press was sold one copy at a time on the street, drew its income from advertising, and targeted working and middle-class readers [[cite:ebsco-penny-press]].\n\nThe content changed too: court and police reports, local events and human stories moved to the front [[cite:ebsco-penny-press]]. According to Michael Schudson this shift cannot be explained only by new technology or literacy; it was a product of what he calls a “democratic market society”, and it settled the very notion of “news” in journalism [[cite:schudson-1978]].",
+  "example": "(Hypothetical example.) If the paper you buy for a cent on your way to work tells you about a case heard in court last night, that is the content logic of the penny press."
+}

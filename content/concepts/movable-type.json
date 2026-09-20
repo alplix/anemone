@@ -1,0 +1,13 @@
+{
+  "id": "movable-type",
+  "family": "technology",
+  "introducedBy": [],
+  "related": [
+    "mass-media"
+  ],
+  "sources": [
+    "ebsco-bi-sheng",
+    "bnf-jikji",
+    "loc-gutenberg-guide"
+  ]
+}

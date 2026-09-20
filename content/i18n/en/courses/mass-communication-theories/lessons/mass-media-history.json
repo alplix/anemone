@@ -1,0 +1,829 @@
+{
+  "id": "mass-media-history",
+  "lang": "en",
+  "translation": {
+    "status": "machine",
+    "date": "2026-09-20"
+  },
+  "title": "A History of Mass Media",
+  "slug": "history-of-mass-media",
+  "description": "A sourced history of mass media from writing and print to telegraph, radio, television and the internet, with myth checks and Ottoman-Turkish examples.",
+  "claim": "The history of mass communication is a history of shifting answers to the questions of production, reach, speed and control, not a history of machines; a medium offers an environment, and the people, institutions and money that use it decide the outcome.",
+  "keywords": [
+    "history of mass media",
+    "printing press",
+    "Gutenberg",
+    "İbrahim Müteferrika",
+    "newspaper",
+    "penny press",
+    "telegraph",
+    "news agency",
+    "radio",
+    "television",
+    "Takvim-i Vekayi",
+    "Anadolu Agency"
+  ],
+  "updated": "2026-09-20",
+  "timeline": {
+    "diamond-sutra": "The Diamond Sutra is printed (11 May 868): the oldest surviving dated printed book",
+    "jikji": "The Jikji is printed in Korea with movable metal type",
+    "helmasperger-instrument": "The Helmasperger Notarial Instrument records the Gutenberg–Fust hearing (6 November 1455)",
+    "carolus-relation": "Carolus’s regular printed news sheet in Strasbourg",
+    "muteferrika-permission": "Müteferrika receives permission for a press (July 1727)",
+    "vankulu-lugati": "The Vankulu Dictionary, first book of Müteferrika’s press",
+    "takvim-i-vekayi": "Takvim-i Vekayi, the Ottoman state gazette (November 1831)",
+    "the-sun": "The one-cent Sun starts the penny press in New York",
+    "daguerreotype-gift": "The daguerreotype is offered as a gift to humanity",
+    "telegraph-first-message": "Morse’s Washington–Baltimore telegraph line",
+    "tercuman-i-ahval": "Tercüman-ı Ahval, a private newspaper issued without state support",
+    "halftone-photograph": "The New York Daily Graphic prints the first halftone photograph",
+    "lumiere-screening": "The Lumière brothers give a paid screening in Paris",
+    "kdka": "KDKA broadcasts election returns over the radio",
+    "anadolu-ajansi": "The Anadolu Agency is founded in Ankara (6 April 1920)",
+    "istanbul-radio": "The first broadcast of Istanbul Radio (6 May 1927)",
+    "bbc-television": "The BBC starts its television service from Alexandra Palace",
+    "trt-television-test": "TRT’s television test broadcast (31 January 1968)",
+    "web-public-domain": "CERN puts the Web software in the public domain (30 April 1993)"
+  },
+  "cards": [
+    {
+      "id": "ctx-new-orleans",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "8 January 1815: The battle fought after the peace",
+      "body": "The peace treaty was signed at Ghent on 24 December 1814. Fifteen days later, on 8 January 1815, Americans and the British fought a major battle outside New Orleans [[cite:battlefields-new-orleans]]. Why? Because neither the armies nor the American Congress knew the treaty had been signed; the news had not yet crossed the Atlantic [[cite:battlefields-new-orleans]]. Some Americans learned of the peace and of the battle at about the same time, within January [[cite:constitutioncenter-war-1812]]. The treaty itself was ratified on the American side in February [[cite:battlefields-new-orleans]].\n\nThink about it: the end of a war is late because of the *travel time* of a piece of news. People are fighting because a sheet of paper is still on its way. Today a message crosses the same distance in seconds; so the real question is what kind of world speed builds.\n\nThis lesson will follow exactly that question: how fast, how cheaply, to how many people and with whose permission can information travel? The answer changed with every new medium, and each of the theories you will meet in this course was born on one stage of that change. From writing to printing, from the newspaper to the telegraph, from radio to the internet, we will tell one story: **as media change, who can speak to whom, and how fast?**",
+      "question": {
+        "id": "ctx-new-orleans-q",
+        "type": "mcq",
+        "prompt": "The Treaty of Ghent had been signed, yet a battle was fought at New Orleans. Which observation explains this best?",
+        "options": [
+          "The commanders knew the peace terms but ignored them.",
+          "The gap between the signing and the news arriving was long enough to decide when the war effectively ended.",
+          "The British army never recognized the treaty.",
+          "At the time nobody was thinking of making a treaty."
+        ],
+        "answer": 1,
+        "explain": "According to the sources the signing was on 24 December 1814, but on 8 January neither the armies nor Congress knew about it; so the issue was not intent but the journey of the news. The first option is tempting because we are used to explaining wars by the will of decision-makers; here the decision had been made, it simply had not arrived. The other two options do not match the sources."
+      }
+    },
+    {
+      "id": "ctx-lens",
+      "section": "context",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Four questions to ask of every medium",
+      "body": "In this lesson we will scan a journey of more than a thousand years with the same four questions. They are not a theory but a working framework I am handing you; still, they help to gather history’s scattered dates:\n\n1. **Production:** Who can publish, and what does it cost?\n2. **Reach:** How many people and how far does the message get?\n3. **Speed:** How much time passes between the event and the news?\n4. **Control and feedback:** Who gives permission, who can cut it off; can the receiver answer back?\n\n**A small experiment.** (Hypothetical example.) In a village, an official reads the announcements aloud in the mosque courtyard every morning. Now a printing press prints the same announcement onto a thousand sheets. Which answers changed? Reach and cost: a thousand sheets instead of one person’s voice. Control too: stopping the official is easy, but gathering the sheets back once they are scattered is hard.\n\nPut on these glasses on every card: most historical “firsts” matter because they changed the answer to one of these four questions. What makes a medium “new” is not its machinery but the shift in these answers. A small rule: if you cannot answer all four questions in one sentence each, you have not understood the medium yet; read the card again.",
+      "question": {
+        "id": "ctx-lens-q",
+        "type": "mcq",
+        "prompt": "A municipal decision is announced only by a paper pinned to a wall. One day the same decision is relayed by telegraph to three different cities the same evening. Which of the four answers changed *most*?",
+        "options": [
+          "Who is able to speak (production cost)",
+          "How far and how fast it gets (reach and speed)",
+          "Whether the receiver can answer back",
+          "Which language the decision text is written in"
+        ],
+        "answer": 1,
+        "explain": "The telegraph carries a message to distant cities the same evening; what changes most is reach and speed. Who can speak may look tempting because the telegraph was costly and few people could use it, but in the example the speaker is the same (the municipality); what changed is the distance. Feedback and language do not change at all in the scenario."
+      }
+    },
+    {
+      "id": "time-ladder",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "text",
+      "title": "The time ladder: seventeen rungs",
+      "body": "Each of the dates below will come up in detail on the cards; here I put only the skeleton. Each date is the version of a “first” claim that rests on reliable sources; whenever someone says “first”, a parenthesis stays open.\n\n- **868:** the oldest dated woodblock-printed book, the Diamond Sutra [[cite:smithsonian-diamond-sutra]]\n- **1377:** the Jikji, printed in Korea with movable metal type [[cite:bnf-jikji]]\n- **1454–55:** the 42-line Bible in Mainz [[cite:loc-gutenberg-guide]]\n- **1605:** the first regularly printed news sheet, in Strasbourg [[cite:weber-2006]]\n- **1727–1729:** permission for Müteferrika’s press and its first book [[cite:schwartz-2017]]\n- **1831:** Takvim-i Vekayi [[cite:tdv-takvim-i-vekayi]]\n- **1833:** the one-cent Sun in New York [[cite:ebsco-penny-press]]\n- **1839:** the daguerreotype offered as a gift to humanity [[cite:eastman-daguerreotype]]\n- **1844:** Morse’s Washington–Baltimore line [[cite:ebsco-first-telegraph]]\n- **1860:** Tercüman-ı Ahval [[cite:tdv-tercuman-i-ahval]]\n- **1895:** the Lumière brothers’ paid screening [[cite:history-lumiere]]\n- **1920:** radio station KDKA broadcasting election returns, and the founding of the Anadolu Agency [[cite:ethw-kdka]][[cite:aa-kurulus]]\n- **1927:** Istanbul Radio [[cite:deniz-2019]]\n- **1936:** the BBC’s television service [[cite:ebsco-bbc-television]]\n- **1968:** TRT’s test broadcast [[cite:trt-tarihce]]\n- **1989–1993:** the proposal for the Web and its release to the public [[cite:cern-birth-web]]",
+      "question": {
+        "id": "time-ladder-q",
+        "type": "order",
+        "prompt": "Put these five events in order, oldest first.",
+        "items": [
+          "The printing of the Diamond Sutra",
+          "The one-cent Sun appears in New York",
+          "The first message on Morse’s telegraph line",
+          "The Lumière brothers’ first paid screening",
+          "KDKA broadcasts election returns"
+        ],
+        "explain": "The order is: Diamond Sutra (868), The Sun (1833), the telegraph (1844), the Lumière screening (1895), KDKA (1920). The trap: thinking of printing as something that “starts with Gutenberg” and placing nothing before the 1450s; yet a dated printed book goes back to 868. And do not confuse the penny press with the telegraph: The Sun came out about ten years before the telegraph."
+      }
+    },
+    {
+      "id": "claim-core",
+      "section": "claim",
+      "layer": "core",
+      "kind": "text",
+      "title": "The lesson’s one-sentence claim",
+      "body": "**The claim:** The history of mass communication is not a history of machines but of shifts in the answers on *production, reach, speed and control*; the machine makes the shift possible but does not determine it alone.\n\nBoth halves of this sentence matter.\n\nFirst: tools really do matter. Cities that had a printing press grew faster in the following century than those that did not, and were more likely to be Protestant; you will see this in two economics studies [[cite:dittmar-2011]][[cite:rubin-2014]]. Even the region-by-region spread of television in the US affected voter turnout [[cite:gentzkow-2006]].\n\nSecond: the same technique gave different results in different societies. Movable type was invented in China but did not become dominant there, because for a script with thousands of characters carving a whole page as one block stayed cheaper [[cite:ebsco-bi-sheng]][[cite:columbia-afe-song-printing]]. For the penny press, too, Michael Schudson finds explanations based only on technology or literacy insufficient; for him what counted was the environment called a “democratic market society” [[cite:schudson-1978]].\n\nSo throughout the course we will carry this pair: **a medium offers an environment; the people, institutions and money that use it decide how things turn out.** The theories in later lessons (for example [[lesson:payne-fund-mars]] for film and children, [[lesson:cultivation]] for television) are readings of this pair with different weights.",
+      "question": {
+        "id": "claim-core-q",
+        "type": "tf",
+        "prompt": "True or false: The invention of a communication technology alone determines what its social outcome will be.",
+        "answer": false,
+        "explain": "False. Movable type was invented in China but did not become dominant there; in Europe the same idea, in a different economic and political environment, gave very different results. What makes “true” tempting is seeing the change that follows an invention and looking for the cause only in the machine."
+      }
+    },
+    {
+      "id": "concepts-glossary",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "A small glossary: words you will meet often in this lesson",
+      "body": "So that you do not stumble on the cards, let us gather the words first:\n\n- **Mass media:** print, electronic and digital channels that carry the same message at the same time to large numbers of receivers who do not know one another [[concept:mass-media]]\n- **Movable type:** a printing technique in which every character is a separate piece; the difference from block printing is that the whole page is not a single mould [[concept:movable-type]]\n- **Colophon:** a note at the beginning or end of a book naming the printer, place and date. The 42-line Bible has none [[cite:keio-42-line-bible]].\n- **Penny press:** the newspaper of the 1830s, sold on the street for one cent and financed by advertising [[concept:penny-press]]\n- **News agency:** an organization that gathers news once and sells it to many newspapers [[concept:news-agency]]\n- **Broadcasting:** sending the same programme from a centre to a large number of receivers at the same time [[concept:broadcasting]]\n- **Firman and fatwa:** the sultan’s written order and the chief mufti’s religious-legal opinion; Müteferrika’s permission for his press came with both [[cite:schwartz-2017]].\n\nA hint: in this lesson you will often see the word “first” in quotation marks. Whether something is first depends on what you count as first, that is, on the definition: the first *typesetting*, the first *dated* print, the first *regular* newspaper are different races.",
+      "question": {
+        "id": "concepts-glossary-q",
+        "type": "match",
+        "prompt": "Match each term with its correct definition.",
+        "pairs": [
+          [
+            "Colophon",
+            "A note naming the printer, place and date"
+          ],
+          [
+            "Firman",
+            "The sultan’s written order"
+          ],
+          [
+            "Fatwa",
+            "The chief mufti’s religious-legal opinion"
+          ],
+          [
+            "News agency",
+            "An organization that gathers news once and sells it to many newspapers"
+          ]
+        ],
+        "explain": "A colophon is a book’s “credits”; the fact that the 42-line Bible lacks one is among the reasons that tying the book to Gutenberg is hard. A firman is the sultan’s order and a fatwa is the chief mufti’s opinion; mixing the two up is a common exam error because in Müteferrika’s permission the two stand side by side. A news agency produces not the newspaper but the news sold to newspapers."
+      }
+    },
+    {
+      "id": "concepts-broadcast",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "story",
+      "title": "“Broadcast”: scattering seed over a field",
+      "body": "In the middle of the 18th century a farmer, instead of sowing seed in rows, scatters it by hand over a wide area. English called this method *broadcast*: a blend of “broad” and “cast” [[cite:etymonline-broadcast]]. Later the word slid into the sense of “widely spread”; its use for radio is recorded around 1921–22 [[cite:etymonline-broadcast]].\n\nThe comparison is surprisingly apt. The person scattering seed does not know the soil one patch at a time, nor where each seed lands. A radio broadcaster likewise “scatters” the same programme to everyone without knowing who is listening. The difference from older media is this: a letter had an address, and a newspaper sold by subscription had a subscriber list; in broadcasting the receiver was a crowd whose faces you could not see.\n\nOne more coincidence: the cultivation theory you will meet in this course is also built on a farming comparison [[lesson:cultivation]]. Broadcasting scatters the seed; cultivation asks what crop comes from the same seeds being sown for years. Put the two comparisons side by side and the “how” of broadcasting and the “what happened” of the theory complete each other. Turkish does the same job with the word “yayın” (broadcast): radio yayını, televizyon yayını. The farming trace is erased in the word; but the verb “yaymak” (to spread) carries the same idea, scattering something over a wide area.",
+      "question": {
+        "id": "concepts-broadcast-q",
+        "type": "cloze",
+        "prompt": "Fill in the blanks.",
+        "text": "The word “broadcast” was first used for {{1}}; its use for radio is recorded around the {{2}}.",
+        "blanks": [
+          {
+            "options": [
+              "scattering seed over a field",
+              "distributing letters",
+              "casting a fishing net"
+            ],
+            "answer": 0
+          },
+          {
+            "options": [
+              "1720s",
+              "1820s",
+              "1920s"
+            ],
+            "answer": 2
+          }
+        ],
+        "explain": "According to etymological records the word is agricultural in origin (seed scattered over a wide area) and the radio sense appears around 1921–22. “Distributing letters” may sound tempting because broadcasting has a counterpart in the paper world too; but the word’s origin is not about letters, it is about sowing. The 1820s option confuses the radio era with the age of the telegraph and the newspaper."
+      }
+    },
+    {
+      "id": "assump-gutenberg",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "myth",
+      "title": "Myth check: “Gutenberg invented printing”",
+      "body": "**What people assume.** Gutenberg invented the printing press in the 1450s; before him the world lived by handwriting; the printed book spread from Europe to the world.\n\n**What the sources say.**\n\n- The oldest surviving dated printed book comes from China: the Diamond Sutra, dated 11 May 868 and printed with woodblocks [[cite:smithsonian-diamond-sutra]][[cite:lindahall-diamond-sutra]].\n- Movable type was tried in East Asia too: Bi Sheng’s baked-clay characters of the 1040s in China, known as far as the scholar Shen Kuo wrote about them [[cite:ebsco-bi-sheng]]. In Korea the Jikji was printed with movable metal type in 1377; according to the BnF, 78 years before the Gutenberg Bible [[cite:bnf-jikji]].\n- The Bible in Mainz was printed around 1454–55 [[cite:loc-gutenberg-guide]]; Gutenberg’s shop is valuable as a pioneer of printing technique in Europe, but not the “first in the world”.\n\n**So what is Gutenberg’s share?** Being among the early and documented pioneers of book production with movable metal type in Europe. Correct the story and Gutenberg does not shrink; the story grows: the idea of printing was tried in East Asia and in Europe, in different environments (any possible links between them are not claimed in this lesson). This goes back to the warning of the first card: a medium offers an environment; the people who use it decide the result.",
+      "question": {
+        "id": "assump-gutenberg-q",
+        "type": "mcq",
+        "prompt": "Which of the following statements is consistent with the lesson’s sources?",
+        "options": [
+          "The oldest surviving book printed with movable metal type is in Europe.",
+          "The oldest dated printed book is the Chinese Diamond Sutra of 868; in Korea a book was also printed with metal type in 1377.",
+          "The colophon of the Gutenberg Bible names the press and the date.",
+          "Movable type did not spread in China because it was never tried there."
+        ],
+        "answer": 1,
+        "explain": "The Diamond Sutra is 868, the Jikji 1377; both are older than the Gutenberg Bible. The first option is the most common myth; the Jikji was printed with metal type 78 years before the Bible. The third is wrong because the 42-line Bible has neither a title page nor a colophon. The fourth is wrong too: movable type was tried in China in the 1040s, and it did not spread there not because it was untried but because block printing stayed cheaper."
+      }
+    },
+    {
+      "id": "deep-east-asia",
+      "section": "assumptions",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: three documents of East Asian printing",
+      "body": "**The Diamond Sutra.** The note at the end of the scroll says the work was commissioned by Wang Jie on behalf of his parents and for free distribution to all. The date: the thirteenth day of the fourth month of the ninth year of the Xiantong era, that is, 11 May 868 [[cite:smithsonian-diamond-sutra]]. The scroll stayed sealed in caves near Dunhuang for about a thousand years; it was found again around 1900, passed to Aurel Stein in 1907 and today is in the British Library [[cite:smithsonian-diamond-sutra]][[cite:lindahall-diamond-sutra]].\n\n**Bi Sheng.** We do not have a book printed with his characters; our knowledge rests on the description in *Mengxi bitan* that Shen Kuo wrote around 1088 [[cite:ebsco-bi-sheng]]. So the “invention” leans on a source written after his death.\n\n**The Jikji.** Only its second volume survives; it is held at the National Library of France in Paris. It is said to have been printed in 1377 at Heungdeok Temple in Cheongju, while a woodblock edition dated 1378 is kept in Korea [[cite:bnf-jikji]][[cite:unesco-jikji]]. It was inscribed in the UNESCO Memory of the World Register in 2001 [[cite:bnf-jikji]]."
+    },
+    {
+      "id": "hiw-gutenberg-docs",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "story",
+      "title": "The document we have is a lawsuit: what is really known about Gutenberg",
+      "body": "6 November 1455: a notary in Mainz writes up the summary of a hearing. Face to face are the wealthy Johann Fust and [[person:gutenberg|Johannes Gutenberg]]. Fust had lent 800 guilders twice; now he wants his money back [[cite:loc-gutenberg-printer]]. This document, written by the notary Helmasperger, has come down to us as the most important contemporary source about Gutenberg’s printing venture; it was found in 1734 [[cite:gutenberg-gesellschaft-invention]][[cite:ndl-gutenberg-mystery]]. We can trace Gutenberg as a goldsmith in Strasbourg from 1434; the first proof of his return to Mainz is also a loan document (1448) [[cite:loc-gutenberg-printer]]. So the documents of his life are mostly documents about money.\n\nNow the surprising part: the famous 42-line Bible has neither a title page nor a colophon, so we have to ask whose book it is [[cite:keio-42-line-bible]]. Gutenberg’s name appears nowhere in the book; today the book is attributed to him by general acceptance [[cite:ndl-gutenberg-mystery]][[cite:keio-42-line-bible]]. The sources estimate that at most 180 copies were printed, a quarter of them on parchment [[cite:loc-gutenberg-guide]].\n\nThis detail matters for our lesson: history writing was a job of answering “who did what, and when?” with documents; where there is no document, “probably” goes in front of the answer. Legend fills that gap with lovely stories. We leave the gap empty.",
+      "question": {
+        "id": "hiw-gutenberg-docs-q",
+        "type": "mcq",
+        "prompt": "Which is the most important contemporary document we have today about Gutenberg’s printing venture?",
+        "options": [
+          "The colophon at the end of the 42-line Bible giving his name and the year",
+          "The Helmasperger Notarial Instrument of 1455 summarizing the hearing between him and Fust",
+          "A letter from Martin Luther to Gutenberg",
+          "A workshop ledger kept in Gutenberg’s own hand"
+        ],
+        "answer": 1,
+        "explain": "According to the sources the main contemporary document is the notarial instrument of 6 November 1455. The colophon option is tempting because we assume “the famous book must have its credits”; but the 42-line Bible has neither a title page nor a colophon. For the other two options there is no basis in the sources."
+      }
+    },
+    {
+      "id": "deep-piccolomini",
+      "section": "how-it-works",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: a letter, an indulgence and the “first date”",
+      "body": "**Piccolomini’s letter.** The sources mention a letter as the first documented reference to printing in Europe: dated 1455, it speaks of the neatness and legibility of the pages but does not mention Gutenberg’s name. The letter itself was printed in 1480 [[cite:loc-gutenberg-guide]].\n\n**The first firm date is not in the Bible.** According to the Gutenberg-Gesellschaft, the oldest dated printed document we have is an indulgence of 22 October 1454; the Bible itself carries no date [[cite:gutenberg-gesellschaft-invention]][[cite:keio-42-line-bible]]. An encyclopedic summary notes that the attribution of this indulgence to Gutenberg rests on assumption and that other printers also worked in Mainz at the time [[cite:wikipedia-31-line-indulgence]]; so we do not tie the document to Gutenberg here.\n\nIn short: what decides the “first” is not invention but *dating*. If nobody puts a date, the historian later gives an approximate range."
+    },
+    {
+      "id": "hiw-newspaper",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "1605: From the handwritten newsletter to the printed newspaper",
+      "body": "The newspaper was born not of a discovery but of a *squeeze*. Step by step:\n\n1. **Newsletters.** Johann Carolus in Strasbourg sold handwritten newsletters to wealthy subscribers [[cite:pressgazette-400-years]].\n2. **The bottleneck.** Copying each newsletter by hand ate up time. Carolus bought a printing shop in 1604 and in the summer of 1605 began printing his newsletters [[cite:pressgazette-400-years]].\n3. **The ground was ready.** According to Johannes Weber, around 1600 everything needed was in place: the technique of book printing, a regular postal relay open to the public, and a network of correspondents around the world [[cite:weber-2006]].\n4. **The newspaper.** In Strasbourg in 1605 the first regular printed news sheet appeared; the World Association of Newspapers accepted this date in 2005 [[cite:weber-2006]][[cite:pressgazette-400-years]].\n5. **Spread.** By the 1620s a variety of newspapers were circulating in central Europe; in the second half of the seventeenth century newspapers were the most widely read secular texts [[cite:weber-2006]]. According to Weber the real result was this: the events and personalities of political life were now regularly made public [[cite:weber-2006]].\n\nCaution: claims of “the first newspaper” depend on how a newspaper is defined: regular, printed, sold to anyone? In England too there are rival claims to the oldest newspaper; which is right changes with the criterion [[cite:historyhit-london-gazette]].",
+      "question": {
+        "id": "hiw-newspaper-q",
+        "type": "mcq",
+        "prompt": "According to Weber, which of the following was *not* among the elements in place around 1600 for the birth of the newspaper?",
+        "options": [
+          "The technique of book printing",
+          "A regular postal line open to the public",
+          "A network of professional correspondents",
+          "Telegraph lines"
+        ],
+        "answer": 3,
+        "explain": "Weber says the newspaper became possible through printing technique, a regular postal relay and a network of correspondents; the telegraph comes two centuries later (1844). The last option is tempting because news and the telegraph are linked in our minds; but the speed of news in 1605 was the speed of the horse and the post."
+      }
+    },
+    {
+      "id": "deep-oxford-gazette",
+      "section": "how-it-works",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: the official gazette born of a plague (1665)",
+      "body": "In the summer of 1665 plague struck London; King Charles II and his court moved to Oxford. Courtiers hesitated to touch newspapers coming from London for fear of contagion; so the king wanted an official publication that would be the court’s own source of news [[cite:museumofoxford-gazette]]. The *Oxford Gazette*, published by Henry Muddiman, brought out its first issue on 7 November 1665 [[cite:museumofoxford-gazette]][[cite:historyhit-london-gazette]].\n\nWhen the court returned to London the name was changed to the *London Gazette* (early 1666) [[cite:museumofoxford-gazette]]. The gazette was sent to subscribers by post rather than sold in the street; that is, it was not a paper sold to the crowd on the street [[cite:historyhit-london-gazette]]. It is reported that in his diary Pepys praised it as a publication full of news and free of idle talk [[cite:historyhit-london-gazette]].\n\nThe lesson: a “newspaper” and a “mass newspaper” are not the same thing. The official gazette of 1665 and the Takvim-i Vekayi of 1831 were both the voice of the state; the one-cent paper sold on the street was a different logic."
+    },
+    {
+      "id": "hiw-penny",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "story",
+      "title": "1833: The one-cent newspaper and the bat-people of the Moon",
+      "body": "3 September 1833, New York. [[person:day|Benjamin Day]] brings out the first issue of *The Sun*: the price is one cent. The papers of the day cost six cents and relied on yearly subscriptions; the Sun was sold one copy at a time on the street, its sellers were “newsboys”, and its income came largely from advertising [[cite:ebsco-penny-press]]. The content changed too: court and police reports, local events, human stories [[cite:ebsco-penny-press]]. It was called the **penny press**.\n\nThe “product” of this new trade was news, and sales depended on how interesting the news was. On 25 August 1835 the Sun began a six-part series: it claimed that through the famous astronomer John Herschel’s huge telescope at the Cape of Good Hope, plants and bat-winged people had been seen on the Moon [[cite:lindahall-locke]][[cite:hoaxes-moon-hoax]]. In reality the series was fiction; its author is known to have been the Sun’s reporter Richard Adams Locke [[cite:smithsonian-libraries-moon-hoax]]. The paper never openly admitted the hoax; Locke acknowledged it only five years later, in a private letter [[cite:lindahall-locke]].\n\nThis story teaches two things. First: news had become a commercial product. Second: Michael Schudson ties the penny press not only to technical innovation but to a “democratic market society”, and argues that the very thing we call “news” settled in this period [[cite:schudson-1978]].",
+      "question": {
+        "id": "hiw-penny-q",
+        "type": "mcq",
+        "prompt": "A new newspaper owner, reasoning that “the more readers, the more advertising income”, decides to sell his paper very cheaply, one copy at a time on the street. Whose logic does this choice resemble in history?",
+        "options": [
+          "The state-issued official gazette (like Takvim-i Vekayi)",
+          "A newsletter copied by hand and sold to wealthy subscribers",
+          "The penny press",
+          "Radio broadcasting"
+        ],
+        "answer": 2,
+        "explain": "Street sales one copy at a time, a low price and advertising income are the business model of the penny press that began with The Sun in 1833. The official gazette was issued for the state and the handwritten newsletter for wealthy subscribers; neither was built on selling to the crowd in the street. Radio broadcasting is another channel and another period."
+      }
+    },
+    {
+      "id": "hiw-wire",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "The telegraph: news makes money and speed becomes a race",
+      "body": "In 1815 a piece of news crossing the Atlantic took weeks. Fifty years later the same distance shrank to minutes. How, step by step?\n\n1. **24 May 1844.** From the Supreme Court chamber in Washington, Samuel Morse sent the message “What hath God wrought” to Alfred Vail in Baltimore. The first line saw little use; but within a few years some fifty telegraph companies were operating [[cite:ebsco-first-telegraph]].\n2. **1846.** Five New York newspapers set up a joint arrangement to share the cost of Mexican War news; it later became the Associated Press [[cite:newworld-associated-press]]. The papers carried the war news by pony express from New Orleans to Charleston and passed it on by telegraph to New York [[cite:teachingamericanhistory-telegraph]].\n3. **Agencies.** Havas was founded in Paris in 1835 and was always looking for the fastest means, from pigeons to the telegraph [[cite:encyclopedia-havas]]. Paul Julius Reuter in 1850 filled the telegraph gap between Aachen and Belgium with pigeons; on 10 October 1851 he opened a telegraph office in London and sent stock prices between London and Paris over the Calais–Dover cable [[cite:encyclopedia-reuter]].\n4. **The ocean.** The transatlantic cable laid in 1858 failed within a few weeks; the cable laid by the Great Eastern on 27 July 1866 was permanent [[cite:sciencemuseum-transatlantic-cable]][[cite:ethw-transatlantic-cable]]. Weeks shrank to a day, even to minutes [[cite:sciencemuseum-transatlantic-cable]][[cite:ethw-transatlantic-cable]].\n\nThe result: news became a product detached from place. In the late 1860s the three big agencies (Havas, Reuters and Wolff) divided their service areas in Europe among themselves [[cite:encyclopedia-havas]]. Newspapers were now publishing the same text on the same day; this is the first stone on the road to the agenda-setting and gatekeeping discussions of later lessons.",
+      "question": {
+        "id": "hiw-wire-q",
+        "type": "tf",
+        "prompt": "True or false: The transatlantic telegraph cable laid in 1858 worked without interruption until the new cable of 1866.",
+        "answer": false,
+        "explain": "False. The 1858 cable worked on 5 August and became unusable on 18 September, so it lasted about six weeks; the permanent link was made on 27 July 1866. “True” is tempting because a historical “first” is often assumed to be lasting; yet a failed first attempt is normal in the history of technology."
+      }
+    },
+    {
+      "id": "hiw-image",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "text",
+      "title": "The image multiplies: photography, halftone and cinema",
+      "body": "Words could be printed; but what about images? Here are three steps.\n\n**1839: A gift from the state.** On 19 August 1839 Arago presented Daguerre’s process to the academies. Instead of patenting it for private profit, the French state opened it to the public and announced it as a gift to humanity [[cite:eastman-daguerreotype]][[cite:cameramuseum-daguerre]]. It spread fast: the first export shipment reached Berlin on 6 September [[cite:eastman-daguerreotype]].\n\n**1880: The photograph enters the newspaper.** Photographs could be taken but could not enter the newspaper press; papers gave images mostly as engravings and woodcuts [[cite:encyclopedia-mechanical-revolutions]]. On 4 March 1880 the New York Daily Graphic printed the image titled “A Scene in Shantytown, New York” with the halftone technique; it is remembered as the first halftone photograph published in a newspaper [[cite:historyofinformation-shantytown]]. Stephen Horgan adapted halftone to rotary presses in 1897; only that made the wide use of photographs in newspapers possible [[cite:encyclopedia-mechanical-revolutions]].\n\n**1895: Watching together in the dark.** On 28 December 1895 the Lumière brothers showed short scenes from everyday French life to paying spectators at the Grand Café in Paris [[cite:history-lumiere]]. Cinema meant watching the same moving image together, at the same moment, in one room; in the language of our four questions, what changed was less reach than the *form of shared experience*.\n\nThe three steps together: the image first spread as a method opened to the public, then entered the newspaper, then gained movement. You will meet the first large studies of children and film in the [[lesson:payne-fund-mars]] lesson.",
+      "question": {
+        "id": "hiw-image-q",
+        "type": "mcq",
+        "prompt": "A historian says, “photography was invented in 1839, so newspapers printed photographs from 1839 on.” What is the biggest problem with this inference?",
+        "options": [
+          "Photography was invented not in 1839 but in 1939.",
+          "Taking a photograph and printing it in a newspaper were not the same technical problem; the halftone technique entered the newspaper only in 1880.",
+          "Newspapers deliberately refused to print photographs.",
+          "Photography spread only in Germany."
+        ],
+        "answer": 1,
+        "explain": "Between the invention of photography and its printing in a newspaper there are some forty years: the first halftone photograph entered a newspaper in 1880, and its adaptation to rotary presses came in 1897. The first option is historically wrong; the third and fourth have no counterpart in the sources. The real lesson: an invention becomes a social event only when it connects to the technique another medium needs."
+      }
+    },
+    {
+      "id": "hiw-broadcast",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Broadcasting enters the home: radio and television",
+      "body": "By the 1920s a way had been found to carry a piece of news to thousands of homes at once. The scenes in order:\n\n1. **2 November 1920, Pittsburgh.** KDKA broadcast the returns of the Harding–Cox presidential election; the results were telephoned to the station from the office of the Pittsburgh Post. The station had been licensed on 27 October 1920 [[cite:ethw-kdka]]. The aim was to raise sales of receivers [[cite:ethw-kdka]].\n2. **Britain, 1922–1927.** The British Broadcasting Company was formed in 1922; the first broadcast went out on 14 November 1922 from the 2LO studio in London. In 1927, under John Reith, it became the British Broadcasting Corporation by royal charter [[cite:londonmuseum-bbc]]. So two models stand side by side: a commercial station founded to sell receivers and a public broadcaster run on a licence fee [[cite:ethw-kdka]][[cite:londonmuseum-bbc]].\n3. **2 November 1936, London.** The BBC began its regular television service from Alexandra Palace: a 405-line picture, two hours a day, six days a week [[cite:ebsco-bbc-television]][[cite:alexandrapalace-bbc]].\n4. **The common result.** The same programme, at the same moment, is heard at home. This is the synchronous and private-space side of the concept of “broadcasting” [[concept:broadcasting]].\n\nCaution: the claim of the “world’s first regular television service” depends on the criterion. Germany had started a regular but 180-line, lower-definition service a year earlier [[cite:ebsco-bbc-television]]. Add the definition to every sentence you build on a “first”.",
+      "question": {
+        "id": "hiw-broadcast-q",
+        "type": "mcq",
+        "prompt": "Why is the BBC’s 1936 television service called “the world’s first regular high-definition television service” rather than simply “the first television service”?",
+        "options": [
+          "Because the BBC broadcast only during the day.",
+          "Because Germany had started a regular but 180-line, low-definition service a year earlier; “first” depends on the criterion.",
+          "Because the BBC broadcast television in colour.",
+          "Because television had actually been invented in 1920, not 1936."
+        ],
+        "answer": 1,
+        "explain": "According to the sources Germany began a regular but 180-line service in 1935; the BBC’s 405 lines meet the high-definition criterion. So the word “first” is right only with a qualifier such as “high-definition”. The colour option may tempt; but colour broadcasting on the BBC began in 1967 on BBC Two, not at the 1936 opening."
+      }
+    },
+    {
+      "id": "evid-print",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "text",
+      "title": "Did printing really change anything? Two economics studies",
+      "body": "“Printing changed Europe” sounds true; but what is the evidence? Two economists tested it city by city.\n\n**Jeremiah Dittmar (2011).** European cities with printing presses in the 1400s grew 60 per cent faster between 1500 and 1600 than similar cities. These cities had no advantage before the press arrived; nor had printers deliberately chosen “auspicious” cities [[cite:dittmar-2011]].\n\n**Jared Rubin (2014).** Cities with at least one press by 1500 were at least 29 percentage points more likely to be Protestant by 1600 [[cite:rubin-2014]].\n\nBoth studies use a similar route: knowing that printing spread outwards from Mainz, they use a city’s distance from Mainz as a tool for explaining how the press came to the city [[cite:dittmar-2011]][[cite:rubin-2014]]. The reason: if cities with presses were already rich and educated, crediting growth to the press would be wrong; distance helps to sift out that confusion.\n\nHere we report what the papers claim in their abstracts. The message is clear: “technology changes things” is not a hunch on paper but a countable claim, and even when counted it shows an *average* relationship; it is not a rule valid for every city.",
+      "question": {
+        "id": "evid-print-q",
+        "type": "mcq",
+        "prompt": "A researcher sees that cities with printing presses grew faster. What would your most basic objection be?",
+        "options": [
+          "The press never reached the cities.",
+          "Printers may simply have chosen rich, crowded cities; so the cause of growth may be the cities’ earlier condition, not the press.",
+          "Growth can only be measured after 1600.",
+          "Protestantism spread the press, the press did not spread Protestantism; so the findings are meaningless."
+        ],
+        "answer": 1,
+        "explain": "The objection is the selection problem (which cities got presses); Dittmar’s study addresses exactly this: cities with presses had no earlier advantage, and distance from Mainz was used as a tool. The last option is tempting because the direction problem is a genuine worry; but we read that Rubin also tackles it with the same tool, so calling the findings “meaningless” goes too far."
+      }
+    },
+    {
+      "id": "deep-evid-method",
+      "section": "evidence",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: why is “distance from Mainz” a good tool?",
+      "body": "Both studies use a method called an instrumental variable. The logic is this: we have cities that got a press and cities that did not, but these two groups may already differ from each other. So we look for something that influences *from outside* whether a press comes to a city, yet does not influence the city’s growth or religion by some other route. Because printing spread from Mainz, distance from Mainz can play that role [[cite:dittmar-2011]][[cite:rubin-2014]].\n\nIn this card we only explain the logic of the method; what the abstracts say is just this: Dittmar writes that he shows the cities with presses had no earlier advantage and that the selection was not made because of “auspicious location”; Rubin, with the same distance tool, finds a difference of at least 29 points [[cite:dittmar-2011]][[cite:rubin-2014]]."
+    },
+    {
+      "id": "evid-broadcast",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "story",
+      "title": "A new medium, a new voter: natural experiments with radio and television",
+      "body": "When a medium suddenly arrives somewhere, an interesting natural experiment appears: you can look before and after, and at places that got it and places that did not.\n\n**Radio and the New Deal (1930s).** David Strömberg looked at a big New Deal relief programme in the years radio was spreading. His main finding: US counties with many radio listeners received more relief funds. Funds went more to poor counties with high unemployment; but even holding these constant, the effect of radio was large and significant [[cite:stromberg-2004]]. The logic of the explanation: a new mass medium changes who is informed and therefore which policies come out.\n\n**Television and the ballot box.** Matthew Gentzkow used the different timing of television’s arrival across markets and found that voter turnout fell; by his estimate it accounted for between a quarter and a half of the decline in turnout since the 1950s [[cite:gentzkow-2006]]. The mechanism he proposes: when television came, people cut their consumption of newspapers and radio, and political knowledge fell too. These effects were largest in off-year congressional elections, which newspapers cover extensively and television hardly at all [[cite:gentzkow-2006]].\n\nThe two findings point in different directions: with radio, the counties with many listeners gained; with television, the shift away from newspapers and radio lowered political knowledge. So “is the new medium good or bad?” is the wrong question; “which old medium did it replace and whose attention did it capture?” is the right one.",
+      "question": {
+        "id": "evid-broadcast-q",
+        "type": "mcq",
+        "prompt": "What is the mechanism Gentzkow proposes for television lowering voter turnout?",
+        "options": [
+          "Television broadcasts openly urged voters not to go to the polls.",
+          "People moved away from the newspapers and radio that carry more politics and turned to television; political knowledge fell.",
+          "The incomes of households that owned televisions fell.",
+          "In its first years television only broadcast election programmes."
+        ],
+        "answer": 1,
+        "explain": "The author shows that television’s arrival coincided with sharp drops in newspaper and radio consumption and in political knowledge; that the effect was greatest in off-year congressional elections, which newspapers cover a lot and television little, supports the mechanism. The “open urging” option is tempting because “the media influenced me” makes us think first of propaganda; here the effect comes through a shift of attention."
+      }
+    },
+    {
+      "id": "crit-fear",
+      "section": "critique",
+      "layer": "core",
+      "kind": "myth",
+      "title": "Myth check: “Every new medium was met with the same empty fear”",
+      "body": "**What people assume.** Today we fear social media; but people have always feared new media and always exaggerated. So the fears are empty.\n\n**What the sources say.** The cycle of fear is real; but “always empty” does not follow.\n\n- In Plato’s *Phaedrus* Socrates tells the story of Theuth, the inventor of writing, and Thamus, the king of Egypt. According to Thamus, writing will create forgetfulness in those who learn it and will give the appearance of wisdom instead of real wisdom [[cite:plato-phaedrus-perseus]].\n- In 1545 Conrad Gessner called the flood of books a “confusing and harmful abundance of books” (in the translation given by Blair) [[cite:blair-2003]].\n- According to Ann Blair, scholars of the 16th and 17th centuries answered this abundance with *new tools* such as the alphabetical index, reference books and note-taking shortcuts [[cite:blair-2003]].\n\nCaution: this historical resemblance does not show that all fears were unjustified. Gentzkow’s television finding shows that a new medium can really reduce newspaper and radio consumption and political knowledge [[cite:gentzkow-2006]]. The lesson of the story: do not hand every fear straight over to history; ask “which old habit is being replaced by what?”. There is a small irony too: we discuss the worry that writing creates forgetfulness today thanks to a text that was written down.",
+      "question": {
+        "id": "crit-fear-q",
+        "type": "mcq",
+        "prompt": "How did the 16th–17th-century scholars whom Ann Blair studied respond to the worry of “too many books”?",
+        "options": [
+          "They banned book printing.",
+          "They stopped reading books and went back to oral tradition.",
+          "They developed tools such as the alphabetical index, reference books and note-taking shortcuts.",
+          "They ignored the worry completely."
+        ],
+        "answer": 2,
+        "explain": "Blair shows that scholars answered the abundance with indexes, reference works and selective reading and note-taking strategies. The banning option is tempting because we think “the first reaction to new technology is a ban”; here the reaction was to produce new tools."
+      }
+    },
+    {
+      "id": "crit-pyramid",
+      "section": "critique",
+      "layer": "core",
+      "kind": "myth",
+      "title": "A lovely explanation, the wrong date: the inverted pyramid",
+      "body": "**What people assume.** The “inverted pyramid” of news writing, which puts the most important information first, was born in the American Civil War (1861–65), because the new telegraph lines were unreliable and the important information had to come first. Other explanations circulate too: the Union’s information policy, or the commercial competition among publishers [[cite:poettker-2003]].\n\n**What the source says.** Horst Pöttker, looking at a content analysis of the New York Herald and the New York Times, finds that the inverted pyramid became commonplace only about twenty years later, in the 1880s [[cite:poettker-2003]]. Between 1880 and 1890 publishers had tried systematically to make their products easier to understand with tools such as headlines and illustrations. Pöttker therefore interprets the inverted pyramid as the result of a professional effort to strengthen the communicative quality of news [[cite:poettker-2003]].\n\nWhy is this card in the course? Because stories of the “technology gave birth to this” kind are seductive: short, memorable, single-cause. The telegraph really was important, but the inverted pyramid shows that the link between a technical cause and history has to be *measured*. Solid knowledge stands not on “everybody says so” but on a counted piece of evidence. The method is simple too: look at the newspapers’ own pages and count how many times a writing pattern was used in which year.",
+      "question": {
+        "id": "crit-pyramid-q",
+        "type": "mcq",
+        "prompt": "A student writes, “the inverted pyramid was born of the telegraph’s unreliability and became standard during the Civil War.” According to Pöttker’s finding, which is the strongest counter-argument?",
+        "options": [
+          "The telegraph was never used in newspapers.",
+          "A content analysis of two major newspapers shows the inverted pyramid became widespread only about twenty years later, in the 1880s.",
+          "No news was written during the Civil War.",
+          "The inverted pyramid was born only in Europe."
+        ],
+        "answer": 1,
+        "explain": "Pöttker’s content analysis shows the inverted pyramid spread not during the Civil War but two decades later; that weakens the telegraph–Civil War explanation historically. “The telegraph was not used” may tempt because ignoring the tool seems an easy way to refute a technology explanation; but the refutation comes not from the tool’s absence but from the date of the phenomenon."
+      }
+    },
+    {
+      "id": "deep-eisenstein-johns",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: the debate “was printing an agent of change?”",
+      "body": "Elizabeth Eisenstein’s two-volume book of 1979, *The Printing Press as an Agent of Change*, put forward a large thesis that through its functions of dissemination, standardization and preservation printing made the Renaissance, the Reformation and the scientific revolution possible [[cite:eisenstein-1979]][[cite:wikipedia-eisenstein]]. A debate arose around the book.\n\nIn *The Nature of the Book*, published in 1998, Adrian Johns looks at early modern England and describes authors, printers, booksellers and readers competing with one another for power over the printed page; that is how the publisher describes the book [[cite:johns-1998]]. According to an encyclopedic summary, Johns questioned whether printing was in itself an “agent of change” or a “vehicle” shaped by outside social forces [[cite:wikipedia-eisenstein]].\n\nThe two historians met in the 2002 discussion section of the *American Historical Review*: Eisenstein replied with “An Unacknowledged Revolution Revisited”, Johns with “How to Acknowledge a Revolution” [[cite:eisenstein-2002]][[cite:johns-2002]]. The inference for this lesson: the same facts (there is printing, then there is change) are open to two readings; one puts the weight on the tool, the other on the practices. This is the academic form of the lesson’s pair. We have not read the details of the debate here; we report only its existence and main axis."
+    },
+    {
+      "id": "today-digital",
+      "section": "today",
+      "layer": "core",
+      "kind": "text",
+      "title": "The Web and after: old media did not die, they piled up",
+      "body": "In March 1989 Tim Berners-Lee, working at CERN, proposed a system for scientists to share information. By 1990 the first site, browser and server were ready. On 30 April 1993 CERN put the Web software in the public domain, so that anyone could use it free of charge [[cite:cern-birth-web]][[cite:cern-web30]].\n\nLet us look with our four questions (these four answers are this lesson’s interpretation, not a measured finding). **Production:** the cost of publishing fell sharply. **Reach:** global. **Speed:** almost instant. **Control:** we meet a new situation; the answer to “who gives permission?” is often no longer a government office or an editor but a platform. You will see the platform discussion in detail in the [[lesson:platform-society]] lesson.\n\nBut a warning: do not fall for the fallacy that “the new medium ends the old”. In Pew Research’s August 2025 survey, 86 per cent of US adults at least sometimes got news from a smartphone, computer or tablet; yet television at 64 per cent, radio at 44 per cent and print publications at 25 per cent were still in the picture. Social media stood at 53 per cent [[cite:pew-news-platform-2025]]. So history works less by “replacement” than by “piling up in layers”. Most of the old media we have met in this lesson are still with us.",
+      "question": {
+        "id": "today-digital-q",
+        "type": "mcq",
+        "prompt": "A student says, “when the internet came, newspapers and television died.” What does Pew Research’s 2025 data say about this claim?",
+        "options": [
+          "It confirms the claim: nobody gets news from television or print any more.",
+          "It weakens the claim: 64 per cent of US adults at least sometimes get news from television and 25 per cent from print publications.",
+          "It weakens the claim: social media is the only platform people get news from.",
+          "The data say nothing about news habits."
+        ],
+        "answer": 1,
+        "explain": "According to Pew’s August 2025 survey digital devices are the most common (86 per cent), but television (64 per cent), radio (44 per cent) and print (25 per cent) are still used. The third option contradicts the fact that social media is at 53 per cent and is not the only platform. Note: this data covers only US adults and “at least sometimes” use; it says nothing about Turkey."
+      }
+    },
+    {
+      "id": "today-lab",
+      "section": "today",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Mini laboratory: a one-day media dig",
+      "body": "Turn your own day into a small archaeological dig. Write in five lines what you saw, read or heard yesterday. Then ask each line the four questions: **Who produced it? How many people does it reach? How fast did it arrive? Who controls it, and can I answer back?**\n\n(Hypothetical example.) A student’s day might go like this: in the morning she reads a news agency text on her phone; at noon she listens to a bulletin on the radio; in the evening she watches a series; at night she watches a video a friend shared and writes a comment; while studying she consults a printed book.\n\nWithin this single day she has lived almost all the time layers of the lesson: the news agency (since 1835), radio (1920s), television-style broadcasting, the network (1990s) and the printed book (from more than a thousand years back). The real question is: in which of them *can you answer back*? In broadcasting the receiver is mostly just a listener; on the network the possibility of answering back has grown.\n\nRepeat this exercise when the lesson is over: this time add to each medium “which theory’s question would I ask about it?”. For the series, for example, [[lesson:cultivation]] comes to mind; for the news feed, agenda-setting ([[lesson:agenda-setting]]).",
+      "question": {
+        "id": "today-lab-q",
+        "type": "mcq",
+        "prompt": "A student reads a news agency text in the morning, listens to a radio bulletin in the afternoon, watches a series in the evening and writes a comment under a video at night. Which main observation of the lesson does this day illustrate?",
+        "options": [
+          "New media completely remove the old.",
+          "Media born in different periods are used together in the same day, layer upon layer.",
+          "Only social media is a source of news.",
+          "Radio and television are widespread only in Turkey."
+        ],
+        "answer": 1,
+        "explain": "In one day a news agency text from the 1835 tradition, the radio of the 1920s, television-style broadcasting and the network are used together; that is layering. The first option is the commonest misconception in media history; even the Pew data show the old media persisting. The other two options do not fit the scenario or the sources."
+      }
+    },
+    {
+      "id": "turkey-ban",
+      "section": "turkey",
+      "layer": "core",
+      "kind": "myth",
+      "title": "Myth check: “The Ottomans banned printing”",
+      "body": "**What people assume.** The Ottoman sultans banned the printing press: Bayezid II in 1485, Selim I in 1515. That is why the first press was set up only in 1727.\n\n**What the source says.** Kathryn Schwartz’s 2017 article traces this narrative back to its source [[cite:schwartz-2017]]:\n\n- According to the author, the first person to publish the ban was apparently the French priest and cosmographer André Thevet: he tells it in a book printed in Paris in 1584 and gives no source.\n- The author says she has come across no one who claims to have seen these firmans; that is, the documents are not there.\n- Even Thevet’s date is inconsistent: he places Bayezid’s firman in 1483, nine years before the Jews came from Spain. Yet the first printers of the Ottoman Empire were precisely those immigrants [[cite:jvl-hebrew-printing]].\n- Count Luigi Marsigli (1658–1730), who had twenty years of contact with the Ottomans, thought the idea that they did not print because printing was forbidden was wrong.\n- In 1493 Jews who had come from Spain set up a press in Istanbul; in the 32 years between the two alleged firmans Jews and Christians opened presses [[cite:offenberg-1992]][[cite:jvl-hebrew-printing]].\n\n**The upshot.** According to Schwartz the available sources do not support the idea that the sultans banned printing; the claim arose as an answer to the question European scholars asked, “why do the Ottomans not print?”. This does not mean that printing spread quickly in the Ottoman world; it means that looking for the reason for the slowness in a ban is not backed by evidence.",
+      "question": {
+        "id": "turkey-ban-q",
+        "type": "mcq",
+        "prompt": "A student writes, “because the Ottomans banned printing, there was no press at all until 1727.” According to Schwartz’s article, which is the strongest counter-argument?",
+        "options": [
+          "There was no press in the Ottoman lands before 1727 either; but there was no ban.",
+          "The ban was first written down in 1584 in a book printed in Paris, without a source; nobody claims to have seen the firmans; and a Jewish press had been working in Istanbul since 1493.",
+          "The ban firmans were found in Topkapı Palace but never published.",
+          "The press came to Istanbul not with Müteferrika but directly with Gutenberg."
+        ],
+        "answer": 1,
+        "explain": "Schwartz traces the ban claim to Thevet, shows that nobody claims to have seen the firmans, and that Jewish and Christian presses worked in the empire. The first option is half right (the Muslim-run press was set up in 1727) but “there was no press at all” is wrong; the question also asks for the argument’s source and grounds. The third option is invented: the article says the firmans have not been seen."
+      }
+    },
+    {
+      "id": "turkey-muteferrika",
+      "section": "turkey",
+      "layer": "core",
+      "kind": "story",
+      "title": "1729: A firman and a fatwa printed at the front of the first book",
+      "body": "Imagine it is 1729 and you pick up the Vankulu Dictionary. Before you enter the dictionary you read something else: a firman and a fatwa printed at the front of the book [[cite:schwartz-2017]]. This is a real practice; the printer seems to have wanted to show everyone that his work was permitted.\n\nThe printer was İbrahim Müteferrika [[person:muteferrika|İbrahim Müteferrika]]. This Ottoman official, born in Transylvania and converted from Unitarian Christianity to Islam, wrote in 1726 a treatise on the benefits of printing, *Vesîletü’t-tıbâa* [[cite:tdv-ibrahim-muteferrika]]. In it he said he wanted to print dictionaries, history, medicine, astronomy, geography, travel books and logic, and that he was leaving out books of jurisprudence, Quranic exegesis, hadith and theology [[cite:schwartz-2017]].\n\nPermission came in two steps. First Sheikh al-Islam Yenişehirli Abdullah Efendi found printing acceptable and asked, as a condition, that learned correctors be appointed. Then the firman of Ahmed III followed [[cite:schwartz-2017]]. The sources date the permission to July 1727 (Zilkade 1139) [[cite:tdv-muteferrika-matbaasi]]. The first book came out in 1729; by 1742 about seventeen works had been printed (16–17 depending on the source) [[cite:tdv-muteferrika-matbaasi]].\n\nWhat is striking: according to Schwartz the firman should be read not as a document that made printing legal but as a trace of the effort Müteferrika spent *promoting* his own project [[cite:schwartz-2017]]. The legitimacy of a new medium is often a job that has to be done before the medium itself.",
+      "question": {
+        "id": "turkey-muteferrika-q",
+        "type": "mcq",
+        "prompt": "Which is correct about the scope of Müteferrika’s printing permission?",
+        "options": [
+          "Only religious books were allowed to be printed.",
+          "Non-religious books such as dictionaries, history, medicine, astronomy and geography could be printed; jurisprudence, exegesis, hadith and theology were left out.",
+          "Every kind of book, the Quran included, could be printed freely.",
+          "Only translations from foreign languages could be printed."
+        ],
+        "answer": 1,
+        "explain": "According to the firman as reported by Schwartz the restriction matches Müteferrika’s own wish in his treatise: non-religious fields. The first option is the opposite error; the commonest confusion is to think “printing was against religion” and to link the permission to religious books. The last is also wrong: although the first book was the Turkish translation of an Arabic dictionary, the permission was not limited to translation."
+      }
+    },
+    {
+      "id": "deep-thevet-chain",
+      "section": "turkey",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: how a rumour became “history” in three centuries",
+      "body": "The chain Schwartz traces works like this [[cite:schwartz-2017]]. In 1584 Thevet writes the ban without giving a source. In 1787 Joseph de Guignes, interpreter for oriental languages at the French Royal Library, writes that Selim I in 1515 renewed his father’s firman and that those who used printed books would be punished with death; but he cites the library’s manuscript notes as his basis, and his account closely resembles Thevet’s. Then Cheikho, writing in Arabic, repeats the same information while describing the beginnings of Ottoman printing.\n\nMeanwhile Ottoman sources such as Ahmed Cevdet say the Ottomans valued printing from the start; this contradicts Guignes’s account. One warning of Schwartz’s also stands out: the question “why did the Ottomans not print?” rests on the assumption that printing was bound to transform society, and this assumption comes from the European experience [[cite:schwartz-2017]]. So the real debate is not about a ban but about this assumption."
+    },
+    {
+      "id": "turkey-press",
+      "section": "turkey",
+      "layer": "core",
+      "kind": "text",
+      "title": "From the state’s gazette to private enterprise: Takvim-i Vekayi, Tercüman-ı Ahval, Tasvir-i Efkâr",
+      "body": "Apply the same four questions to the Ottoman press: who is speaking?\n\n- **Takvim-i Vekayi (November 1831).** The state gazette issued in the reign of Mahmud II. Its aim was to inform domestic and foreign public opinion more regularly and quickly; European examples were the model. Its French edition, *Le Moniteur ottoman*, appeared four days later; Armenian, Greek, Arabic and Persian editions followed in 1832. It is noted that some copies were compulsory for state officials [[cite:tdv-takvim-i-vekayi]].\n- **Ceride-i Havadis (1840).** Issued by the Englishman William Churchill, a private paper published with the state’s permission [[cite:journo-first-newspapers]].\n- **Tercüman-ı Ahval (22 October 1860).** A paper with Âgâh Efendi as publisher and Şinasi running the editorial side in the early issues; it is remembered as the first private newspaper issued by Turks without state support. Şinasi’s introduction describes the paper as a paper of thought and discussion [[cite:tdv-tercuman-i-ahval]].\n- **Tasvir-i Efkâr (27 June 1862).** Founded by Şinasi, the fourth Turkish-language newspaper of the empire; run by Namık Kemal after Şinasi went to Europe in 1865, a meeting place of the Young Ottomans [[cite:tdv-tasvir-i-efkar]].\n\nThe shift in the four questions (this is the lesson’s interpretation): the speaker moved from the state to a foreigner and then to Turkish entrepreneurs; the reader moved from being someone who “receives” news towards being someone invited to discuss.",
+      "question": {
+        "id": "turkey-press-q",
+        "type": "mcq",
+        "prompt": "What is the most important feature that distinguishes Tercüman-ı Ahval from Takvim-i Vekayi?",
+        "options": [
+          "Takvim-i Vekayi was not in Turkish, Tercüman-ı Ahval was.",
+          "Tercüman-ı Ahval was a private newspaper issued without state support; Takvim-i Vekayi was the state’s official gazette.",
+          "Tercüman-ı Ahval was the Ottoman Empire’s first newspaper.",
+          "Tercüman-ı Ahval was founded by a foreigner."
+        ],
+        "answer": 1,
+        "explain": "The difference is ownership and source: Takvim-i Vekayi was the state gazette (1831); Tercüman-ı Ahval was issued by private enterprise without state support (1860). The first option is wrong because Takvim-i Vekayi had started with a Turkish original edition; and those who count Ceride-i Havadis as the “first private paper” overlook its English owner."
+      }
+    },
+    {
+      "id": "turkey-airwaves",
+      "section": "turkey",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Ankara’s agency, Istanbul’s radio, TRT’s screen",
+      "body": "The media history of the Republic begins with a short list of dates; but behind every date there is a “who is speaking?” question.\n\n1. **6 April 1920: the Anadolu Agency.** Yunus Nadi and Halide Edib set up an agency in Ankara to make the National Struggle known to domestic and foreign publics; the name was chosen among “Türk Ajansı”, “Ankara Ajansı” and “Anadolu Ajansı” [[cite:aa-kurulus]][[cite:kure-anadolu-ajansi]]. By analogy: Havas’s logic of 1835, that is, gather the news once and distribute it in many places.\n2. **6 May 1927: Istanbul Radio.** The first broadcast was made from the basement of the Central Post Office in Sirkeci; a loudspeaker at the post office door let the public listen [[cite:kure-ilk-radyo]]. The broadcasts were run by a private company, the Turkish Wireless Telephone Company [[cite:deniz-2019]].\n3. **28 October 1938: Ankara Radio** was officially opened for operation [[cite:trt-tarihce]].\n4. **1 May 1964: TRT.** Radio broadcasts were brought together under the Turkish Radio and Television Corporation, an institution with autonomous legal personality by special law [[cite:trt-tarihce]][[cite:kure-ilk-radyo]].\n5. **31 January 1968: Television.** The first test broadcast was made from the studio on Mithatpaşa Street in Ankara; three days a week, three hours at a time [[cite:trt1-tarihce]][[cite:aa-trt-tv-54]]. Television began in İzmir in 1970 and in Istanbul in 1971; in 1974 broadcasts became every day of the week [[cite:trt1-tarihce]].\n\nA comparison: the BBC had begun its television service in 1936 [[cite:ebsco-bbc-television]]; in Turkey the test broadcast came in 1968. This gap of thirty-two years is a reminder that what we call a “new medium” can be old in one place and new in another.",
+      "question": {
+        "id": "turkey-airwaves-q",
+        "type": "cloze",
+        "prompt": "Fill in the blanks.",
+        "text": "The first radio broadcast in Turkey was made in {{1}} from Istanbul; the first test television broadcast was made in {{2}} from Ankara.",
+        "blanks": [
+          {
+            "options": [
+              "1917",
+              "1927",
+              "1947"
+            ],
+            "answer": 1
+          },
+          {
+            "options": [
+              "1958",
+              "1968",
+              "1978"
+            ],
+            "answer": 1
+          }
+        ],
+        "explain": "Istanbul Radio began broadcasting on 6 May 1927; the first television test broadcast was made on 31 January 1968 from the Mithatpaşa studio in Ankara. The other years match no event; the pair most often confused is TRT’s founding (1964) and the television test broadcast (1968): they are separate events."
+      }
+    },
+    {
+      "id": "exam-patterns",
+      "section": "exam",
+      "layer": "core",
+      "kind": "text",
+      "title": "This is how exams ask it: firsts, date pairs and easy traps",
+      "body": "In a topic like this, exam questions usually fall into three patterns: (1) “which is the first?”, (2) “this event is in this year”, (3) “which of the following is wrong?”. Watch for these traps:\n\n- **Gutenberg or East Asia?** The oldest dated printed book: the Diamond Sutra (868). Movable metal type: the Jikji (1377). The 42-line Bible in Europe: 1454–55. “Printing began with Gutenberg” is the wrong pattern.\n- **Year pairs.** Carolus’s printed newspaper 1605; the Oxford Gazette 1665. The Sun 1833, the telegraph 1844. Havas 1835, Reuters’ London office 1851. The daguerreotype 1839, the first halftone photograph 1880. The Lumière screening 1895, KDKA 1920.\n- **Turkey.** Permission for Müteferrika 1727, first book (Vankulu Dictionary) 1729. Takvim-i Vekayi 1831 (state), Ceride-i Havadis 1840 (English-owned), Tercüman-ı Ahval 1860 (private, without state support), Tasvir-i Efkâr 1862. Anadolu Agency 6 April 1920; Istanbul Radio 1927; TRT 1964; television test broadcast 1968.\n- **Different names in the sources.** In Turkish academic texts “kitle iletişim araçları” (mass communication media) and simply “medya” often describe the same thing (they are sometimes written side by side as “medya (kitle iletişim araçları)”); “haber ajansı” is briefly “ajans”. We could not verify a settled Turkish counterpart for “penny press”; we suggest you use it only with a description (a one-cent newspaper).\n- **The most common traps.** Tying the inverted pyramid to the telegraph; thinking the 1858 cable was permanent; writing that the Ottomans “imposed a ban”; writing the BBC as “the world’s first television” and forgetting the definition.",
+      "question": {
+        "id": "exam-patterns-q",
+        "type": "mcq",
+        "prompt": "Exam question: “Which of the following is the first private newspaper in Turkish press history issued by Turks without state support?”",
+        "options": [
+          "Takvim-i Vekayi",
+          "Ceride-i Havadis",
+          "Tercüman-ı Ahval",
+          "Tasvir-i Efkâr"
+        ],
+        "answer": 2,
+        "explain": "Tercüman-ı Ahval (22 October 1860) is described this way. Takvim-i Vekayi is the state’s gazette (1831). Ceride-i Havadis (1840) is private but belonged to the Englishman William Churchill and was published with state permission; it is the most tempting wrong answer. Tasvir-i Efkâr (1862) is the fourth Turkish-language newspaper and Şinasi’s second venture."
+      }
+    },
+    {
+      "id": "summary",
+      "section": "summary",
+      "layer": "core",
+      "kind": "summary",
+      "title": "Summary card",
+      "body": "- The history of mass communication is not a history of machines but of shifts in the answers on **production, reach, speed and control**. The machine makes the shift possible; it does not determine it.\n- The idea of printing was not tried only in Europe: the Diamond Sutra (868), Bi Sheng’s clay characters (1040s), the Jikji (1377), the Mainz Bible (1454–55). The most solid document we have about Gutenberg is a lawsuit record (6 November 1455).\n- The newspaper is the product of a squeeze: in 1605 Carolus moved from a handwritten newsletter to a printed news sheet. The penny press (1833) turned news into a commercial product.\n- The telegraph (1844), the agencies (Havas 1835, Reuters 1851) and the cable (1866) tore news loose from place. The 1858 cable failed within weeks.\n- Photography (1839), halftone (1880) and cinema (1895) multiplied the image; radio (1920) and television (1936) brought simultaneous listening at home. Add a definition to everything you call “first”.\n- The evidence: cities with presses grew faster and were more Protestant; TV lowered turnout. But attractive technology explanations such as the inverted pyramid story can be wrong when they are not tested against evidence.\n- Turkey: Müteferrika 1727–1729; the “ban” claim is a rumour without a source. Takvim-i Vekayi (1831) → Tercüman-ı Ahval (1860) → Anadolu Agency (1920) → Istanbul Radio (1927) → TRT (1964) → television (1968).\n- Today the old media did not die, they piled up in layers: in 2025 in the US 64 per cent of adults still get news from television and 25 per cent from print publications.",
+      "question": {
+        "id": "summary-q",
+        "type": "tf",
+        "prompt": "True or false: According to this lesson’s main idea, the invention of a new communication technology alone determines its social outcome and old media disappear when a new one comes.",
+        "answer": false,
+        "explain": "False: the lesson argues that a technology offers an environment but the outcome is decided by the users and institutions, and that old media often do not vanish, they pile up. What makes “true” tempting is the brevity of the “technology is destiny” story."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Which is the oldest surviving dated printed book?",
+      "options": [
+        "Gutenberg’s 42-line Bible",
+        "The Diamond Sutra (868)",
+        "The Jikji (1377)",
+        "The first issue of Takvim-i Vekayi"
+      ],
+      "answer": 1,
+      "explain": "The Diamond Sutra is dated 11 May 868 and printed with woodblocks. Gutenberg’s Bible is the tempting answer because the “printing = Gutenberg” pattern is widespread; yet even the Jikji (1377) is 78 years older than the Bible, and the 42-line Bible carries no date."
+    },
+    {
+      "id": "q2",
+      "type": "tf",
+      "prompt": "True or false: At the end of the 42-line Bible there is a colophon giving the printer’s name and the date.",
+      "answer": false,
+      "explain": "False. Catalogues note that the book has neither a title page nor a colophon, and that the attribution to Gutenberg rests today on general acceptance. What makes “true” tempting is the expectation that a famous book must have its “credits”."
+    },
+    {
+      "id": "q3",
+      "type": "match",
+      "prompt": "Match each event with its year.",
+      "pairs": [
+        [
+          "Carolus’s printed news sheet (Strasbourg)",
+          "1605"
+        ],
+        [
+          "The launch of The Sun (New York)",
+          "1833"
+        ],
+        [
+          "Morse’s Washington–Baltimore message",
+          "1844"
+        ],
+        [
+          "The Lumière brothers’ paid screening",
+          "1895"
+        ],
+        [
+          "KDKA broadcasting election returns",
+          "1920"
+        ]
+      ],
+      "explain": "1605 (newspaper), 1833 (penny press), 1844 (telegraph), 1895 (cinema), 1920 (radio broadcasting). The pair most often confused is The Sun and the telegraph: the penny press appeared about ten years before the telegraph; so the “street sale” that the penny press produced is an order that predates the telegraph."
+    },
+    {
+      "id": "q4",
+      "type": "order",
+      "prompt": "Put these six events in Turkey in order, oldest first.",
+      "items": [
+        "The publication of Müteferrika’s first book, the Vankulu Dictionary",
+        "The launch of Takvim-i Vekayi",
+        "The launch of Tercüman-ı Ahval",
+        "The founding of the Anadolu Agency",
+        "The first broadcast of Istanbul Radio",
+        "The first test broadcast of TRT television"
+      ],
+      "explain": "The order is: the Vankulu Dictionary (1729), Takvim-i Vekayi (1831), Tercüman-ı Ahval (1860), the Anadolu Agency (1920), Istanbul Radio (1927), the television test broadcast (1968). The commonest mistake is to place Müteferrika at 1727 (the year of permission) or after Takvim-i Vekayi; the first book came out in 1729, that is, before both."
+    },
+    {
+      "id": "q5",
+      "type": "cloze",
+      "prompt": "Fill in the blanks.",
+      "text": "According to Weber the first regular printed news sheet appeared in {{1}} in the year {{2}}.",
+      "blanks": [
+        {
+          "options": [
+            "Strasbourg",
+            "London",
+            "Venice"
+          ],
+          "answer": 0
+        },
+        {
+          "options": [
+            "1505",
+            "1605",
+            "1705"
+          ],
+          "answer": 1
+        }
+      ],
+      "explain": "Johann Carolus’s Relation appeared in Strasbourg in 1605. The London option is tempting because the Oxford Gazette, issued there in 1665, became a symbol of English journalism; but that comes a century later and it was an official gazette posted to subscribers, not one sold in the street."
+    },
+    {
+      "id": "q6",
+      "type": "case",
+      "scenario": "(Hypothetical scenario.) In a presentation a student makes two sentences: (a) “The inverted pyramid was born of the telegraph’s unreliability during the Civil War.” (b) “The printing press made Europe Protestant, because cities with presses became more Protestant.”",
+      "parts": [
+        {
+          "prompt": "What is the strongest source against sentence (a)?",
+          "options": [
+            "Morse’s first telegraph message in 1844",
+            "Pöttker’s content analysis of the New York Herald and the New York Times: the inverted pyramid became widespread about twenty years later, in the 1880s",
+            "Reuters’ London office in 1851"
+          ],
+          "answer": 1,
+          "explain": "Pöttker shows that the inverted pyramid became widespread not in the Civil War but in the decades after. The other two options show that the telegraph existed; but they do not refute the telegraph story, because the question is not whether the tool existed but *when* the phenomenon became widespread."
+        },
+        {
+          "prompt": "What is the most balanced assessment of sentence (b)?",
+          "options": [
+            "Rubin’s finding proves that the press alone created Protestantism.",
+            "Rubin found cities with presses at least 29 points more likely to be Protestant and used distance from Mainz as a tool; this is a strong association, but saying “is associated with and may have contributed to” is safer than “created it alone”.",
+            "The finding shows there is no relationship between the press and Protestantism."
+          ],
+          "answer": 1,
+          "explain": "Rubin’s study reports a strong association; but one study does not license a single-cause verdict. The first option turns an association into a single cause; the third says the opposite of the finding."
+        }
+      ],
+      "takeaway": "Technology stories are seductive; ask two questions: is the date right, and at what level is the evidence?"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "Which pairing is correct for Müteferrika’s press?",
+      "options": [
+        "1727: first book; 1729: permission",
+        "1727: permission; 1729: first book (the Vankulu Dictionary)",
+        "1831: permission; 1727: first book",
+        "1729: Takvim-i Vekayi; 1727: permission"
+      ],
+      "answer": 1,
+      "explain": "The sources give the permission as July 1727 and the first book as 1729. The first option reverses the two; in exams the “year of permission” and the “year of the first book” are often confused. The third and fourth options mix Takvim-i Vekayi (1831) up with Müteferrika."
+    },
+    {
+      "id": "q8",
+      "type": "tf",
+      "prompt": "True or false: The firmans by which the Ottoman sultans banned printing in 1485 and 1515 have survived.",
+      "answer": false,
+      "explain": "False. Schwartz writes that she has come across no one who claims to have seen these firmans; the ban claim comes from an account Thevet wrote in 1584 without giving a source. What makes “true” tempting is that the claim has been repeated for centuries: repetition does not replace a document."
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "On what date and with what basic aim was the Anadolu Agency founded?",
+      "options": [
+        "6 April 1920; to make the National Struggle known to domestic and foreign publics",
+        "23 April 1920; to print parliamentary minutes",
+        "1 May 1964; to unify radio broadcasts",
+        "28 October 1938; to open Ankara Radio"
+      ],
+      "answer": 0,
+      "explain": "The agency was founded in Ankara on 6 April 1920 by Yunus Nadi and Halide Edib to make the National Struggle known to domestic and foreign publics. The other dates belong to other institutions: 1964 TRT, 1938 Ankara Radio; 23 April is not the agency’s founding date."
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "What is the main finding of Strömberg’s study of radio in the 1930s?",
+      "options": [
+        "US counties with many radio listeners received more New Deal relief funds, even holding poverty and unemployment constant.",
+        "Radio spread only in rich counties.",
+        "Radio lowered voter turnout.",
+        "Radio had no political consequences."
+      ],
+      "answer": 0,
+      "explain": "Strömberg finds that counties with many radio listeners received more relief and explains this by a new mass medium changing who is informed. The third option is tempting because the “turnout fell” finding belongs to television (Gentzkow)."
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "According to Pew Research’s 2025 survey, which of the following has the lowest share among the platforms from which US adults at least sometimes get news?",
+      "options": [
+        "Television",
+        "Radio",
+        "Print publications",
+        "Social media"
+      ],
+      "answer": 2,
+      "explain": "The shares: television 64 per cent, radio 44 per cent, social media 53 per cent, print publications 25 per cent. Print publications are the lowest; but not zero, so the sentence “the newspaper died” does not fit this data."
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": "According to Dittmar (2011), by how much did European cities that got a printing press in the 1400s grow faster between 1500 and 1600 than similar cities?",
+      "options": [
+        "6 per cent",
+        "60 per cent",
+        "160 per cent",
+        "There was no difference"
+      ],
+      "answer": 1,
+      "explain": "Dittmar finds 60 per cent faster growth; the cities had no advantage before the press. The 6 per cent and 160 per cent options are typical decimal or zero slips when memorizing numbers."
+    }
+  ]
+}

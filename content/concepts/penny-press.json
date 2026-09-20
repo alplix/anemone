@@ -1,0 +1,13 @@
+{
+  "id": "penny-press",
+  "family": "news",
+  "introducedBy": [],
+  "related": [
+    "mass-media",
+    "news-agency"
+  ],
+  "sources": [
+    "ebsco-penny-press",
+    "schudson-1978"
+  ]
+}
