@@ -1,0 +1,7 @@
+{
+  "id": "maletzke",
+  "born": { "year": 1922 },
+  "died": { "year": 2010 },
+  "sources": ["blexkom-maletzke", "wikipedia-de-maletzke", "deutsche-biographie-maletzke", "ioni-pstae-2017"],
+  "works": ["maletzke-1963"]
+}

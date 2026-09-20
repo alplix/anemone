@@ -1,0 +1,178 @@
+{
+  "id": "other-models",
+  "people": [
+    "jakobson",
+    "gerbner",
+    "maletzke"
+  ],
+  "concepts": [
+    "jakobson-functions",
+    "speech-event-factors",
+    "gerbner-model",
+    "perception-in-communication",
+    "maletzke-model",
+    "riley-model",
+    "mass-communication",
+    "communication-functions"
+  ],
+  "sources": [
+    {
+      "bib": "bergsma-1964",
+      "role": "review"
+    },
+    {
+      "bib": "blexkom-maletzke",
+      "role": "reference"
+    },
+    {
+      "bib": "blexkom-maletzke-interview",
+      "role": "reference"
+    },
+    {
+      "bib": "buhler-1934",
+      "role": "primary"
+    },
+    {
+      "bib": "contemporary-authors-gerbner",
+      "role": "reference"
+    },
+    {
+      "bib": "dalak-2021",
+      "role": "review"
+    },
+    {
+      "bib": "gerbner-1956",
+      "role": "primary"
+    },
+    {
+      "bib": "gerbner-1969",
+      "role": "primary"
+    },
+    {
+      "bib": "ioni-pstae-2017",
+      "role": "review"
+    },
+    {
+      "bib": "iplikci-2015",
+      "role": "textbook"
+    },
+    {
+      "bib": "jakobson-1960",
+      "role": "primary"
+    },
+    {
+      "bib": "kulkarni-2014",
+      "role": "review"
+    },
+    {
+      "bib": "lasswell-1948",
+      "role": "primary"
+    },
+    {
+      "bib": "maletzke-1963",
+      "role": "primary"
+    },
+    {
+      "bib": "malinowski-1923",
+      "role": "primary"
+    },
+    {
+      "bib": "mcquail-windahl-1993",
+      "role": "textbook"
+    },
+    {
+      "bib": "nesterova-coskun-2023",
+      "role": "review"
+    },
+    {
+      "bib": "pooley-socolow-2013-ijoc",
+      "role": "review"
+    },
+    {
+      "bib": "pooley-socolow-2013-slate",
+      "role": "reference"
+    },
+    {
+      "bib": "riley-riley-1959",
+      "role": "primary"
+    },
+    {
+      "bib": "semioticon-jakobson-poetic",
+      "role": "reference"
+    },
+    {
+      "bib": "senft-2009",
+      "role": "review"
+    },
+    {
+      "bib": "varenne-jakobson-excerpt",
+      "role": "reference"
+    },
+    {
+      "bib": "wikipedia-de-feldschema",
+      "role": "reference"
+    },
+    {
+      "bib": "wikipedia-organon-model",
+      "role": "reference"
+    },
+    {
+      "bib": "signo-jakobson-functions",
+      "role": "reference"
+    },
+    {
+      "bib": "wikipedia-jakobson-functions",
+      "role": "reference"
+    },
+    {
+      "bib": "yaylagul-2006",
+      "role": "reference"
+    },
+    {
+      "bib": "communicationtheory-riley",
+      "role": "reference"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1923,
+      "id": "malinowski-phatic-communion"
+    },
+    {
+      "year": 1934,
+      "id": "buhler-sprachtheorie"
+    },
+    {
+      "year": 1938,
+      "id": "cbs-mars-broadcast"
+    },
+    {
+      "year": 1948,
+      "id": "lasswell-formula-published"
+    },
+    {
+      "year": 1956,
+      "id": "gerbner-general-model"
+    },
+    {
+      "year": 1958,
+      "id": "style-conference-1958"
+    },
+    {
+      "year": 1959,
+      "id": "riley-riley-chapter"
+    },
+    {
+      "year": 1960,
+      "id": "jakobson-closing-statement"
+    },
+    {
+      "year": 1963,
+      "id": "maletzke-psychologie"
+    },
+    {
+      "year": 2014,
+      "id": "kulkarni-phatic-im"
+    }
+  ]
+}

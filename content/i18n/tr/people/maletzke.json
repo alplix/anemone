@@ -1,0 +1,16 @@
+{
+  "id": "maletzke",
+  "lang": "tr",
+  "name": "Gerhard Maletzke",
+  "nativeName": "",
+  "slug": "gerhard-maletzke",
+  "short": "Alman iletişim bilimci ve psikolog (1922–2010). 1963 tarihli Psychologie der Massenkommunikation kitabında kitle iletişiminin “alan şeması”nı (Feldschema) çizdi.",
+  "born": "Neustettin, Pomeranya",
+  "died": "",
+  "roles": ["iletişim bilimci", "psikolog", "medya araştırmacısı"],
+  "bio": "Gerhard Maletzke 1922’de Pomeranya’daki Neustettin’de doğdu. Hamburg’da psikoloji ve felsefe okudu; ilgisi baştan radyo dinlerken insanın içinde neler olup bittiğindeydi.\n\n1952’den 1964’e kadar Hamburg’daki Hans-Bredow-Institut’ta araştırmacı olarak çalıştı; sonra Berlin’de bir kalkınma politikası enstitüsüne geçti. 1972–1976 arasında Singapur’daki bir Asya kitle iletişimi araştırma merkezinde bulundu; 1978’den 1987’ye kadar Süddeutscher Rundfunk’ta medya araştırmacısıydı. 1983’ten sonra bir üniversitede fahri profesör olarak iletişim bilimi ve gazetecilik dersleri verdi.\n\nAdını duyuran eser, Hans-Bredow-Institut’un yayımladığı Psychologie der Massenkommunikation (1963) oldu; 311 sayfalık bu kitap kısa sürede alanın standart eseri sayıldı. Kitabın çerçevesini oluşturan “alan şeması” (Feldschema der Massenkommunikation), Lasswell’in sık anılan formülünden yola çıkar ve kitle iletişimini psikolojik ve toplumsal etkenlerin iç içe geçtiği bir alan olarak gösterir.\n\nMaletzke sonraki yıllarda bazı sözcüklere daha dikkatli davranması gerektiğini söyledi; örnek olarak “Rezipient” (alıcı) terimini verdi. Kitabının amacını ise Alman araştırmasına kavramsal bir iskelet sağlamak diye anlattı. 2010’da öldü.",
+  "works": [
+    { "bib": "maletzke-1963", "note": "Kitle iletişiminin alan şemasını ve kitle iletişimi tanımını içeren kitap; modelin kaynağı." }
+  ],
+  "inCourse": "Toplumsal alan merkezli model: iletici, ileti, araç, alıcı ve aralarındaki imgeler ile baskılar. Bkz. [[lesson:other-models]] ve [[concept:maletzke-model]]."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "jakobson",
+  "lang": "en",
+  "translation": { "status": "machine" },
+  "name": "Roman Jakobson",
+  "nativeName": "Роман Якобсон",
+  "slug": "roman-jakobson",
+  "short": "Moscow-born linguist (1896–1982), a pioneer of structural linguistics. His 1960 “Closing Statement” with its six factors and six functions of language also entered communication models.",
+  "born": "Moscow",
+  "died": "Cambridge, Massachusetts, USA",
+  "roles": ["linguist", "pioneer of structural linguistics", "poetics scholar"],
+  "bio": "Roman Jakobson was born in Moscow in 1896. His first important scholarly study (1921) dealt with the poetic language of the Russian futurist poet Velimir Khlebnikov. In Prague he was a founding member of the Prague school of linguistics established in 1926. Together with Nikolay Trubetzkoy he contributed to the development of phonology: concepts such as distinctive features and markedness are associated with this work.\n\nDuring the war years he left Europe and reached New York in 1941. From 1949 to 1967 he taught at Harvard, and from 1957 he also held a post at MIT. He died in Cambridge, Massachusetts, in 1982.\n\nIn communication theory courses his name comes up because of “Closing Statement: Linguistics and Poetics”, presented at a conference on style in the United States in 1958 and published as a book chapter in 1960. In it he divides every act of verbal communication into six factors (addresser, addressee, context, message, contact, code) and assigns a function of language to each. The first three functions build on the work of Karl Bühler; Jakobson added the poetic, the phatic (channel-checking) and the metalingual (talking about language) functions.\n\nJakobson’s real concern was not communication research; he wanted to understand language as a whole, above all its poetic use. The model now called the “communication scheme” arose almost as a by-product of that inquiry.",
+  "works": [
+    { "bib": "jakobson-1960", "note": "The paper that introduced the six factors and six functions of language; the “Jakobson model” of the textbooks rests on this text." }
+  ],
+  "inCourse": "The language-centred model: six factors and six functions. See [[lesson:other-models]] and [[concept:jakobson-functions]]."
+}

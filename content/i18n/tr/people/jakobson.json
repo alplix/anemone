@@ -1,0 +1,16 @@
+{
+  "id": "jakobson",
+  "lang": "tr",
+  "name": "Roman Jakobson",
+  "nativeName": "Роман Якобсон",
+  "slug": "roman-jakobson",
+  "short": "Moskova doğumlu dilbilimci (1896–1982). Yapısalcı dilbilimin öncülerinden; 1960 tarihli “Closing Statement” yazısındaki altı etken ve altı işlevle iletişim modellerine de girdi.",
+  "born": "Moskova",
+  "died": "Cambridge, Massachusetts, ABD",
+  "roles": ["dilbilimci", "yapısalcı dilbilimin öncülerinden", "poetika araştırmacısı"],
+  "bio": "Roman Jakobson 1896’da Moskova’da doğdu. İlk önemli bilimsel çalışması (1921), Rus fütürist şair Velimir Hlebnikov’un şiir diline dairdi. Prag’da, 1926’da kurulan Prag dilbilim okulunun kurucu üyelerinden biri oldu. Nikolay Trubetskoy ile birlikte sesbilimin gelişmesine katkı verdi: ayırt edici özellikler ve belirtililik gibi kavramlar bu çalışmalarla anılır.\n\nSavaş yıllarında Avrupa’dan ayrıldı ve 1941’de New York’a vardı. 1949’dan 1967’ye kadar Harvard’da ders verdi; 1957’den itibaren MIT’de de görev aldı. 1982’de Cambridge, Massachusetts’te öldü.\n\nİletişim kuramı derslerinde adı, 1958’de Amerika’daki bir biçem (üslup) konferansında sunduğu ve 1960’ta kitaplaşan “Closing Statement: Linguistics and Poetics” yazısıyla geçer. Yazıda her sözlü iletişim edimini altı etkene (gönderici, alıcı, bağlam, ileti, temas, kod) ayırır ve her etkene bir dil işlevi karşılık getirir. Modelin ilk üç işlevi Karl Bühler’in çalışmasına dayanır; Jakobson ona şiirsel, kanal denetleyen (fatik) ve dil hakkında konuşan (üstdilsel) işlevleri ekledi.\n\nJakobson’un asıl derdi iletişim araştırması değildi; dilin bütününü, en çok da şiirsel kullanımını anlamaktı. Bugün “iletişim şeması” diye anılan model bu araştırmanın yan ürünü gibi doğdu.",
+  "works": [
+    { "bib": "jakobson-1960", "note": "Altı etkeni ve altı dil işlevini tanıtan yazı; Türkçede “Jakobson modeli” bu metne dayanır." }
+  ],
+  "inCourse": "Dil merkezli model: altı etken ve altı işlev. Bkz. [[lesson:other-models]] ve [[concept:jakobson-functions]]."
+}

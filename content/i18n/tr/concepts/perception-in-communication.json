@@ -1,0 +1,13 @@
+{
+  "id": "perception-in-communication",
+  "lang": "tr",
+  "term": "iletişimde algı (Gerbner)",
+  "altTerms": [
+    "algısal boyut",
+    "algılama ilişkisi"
+  ],
+  "slug": "iletisimde-algi",
+  "short": "Gerbner’in modelinde iletişim, bir olayın algılanmasıyla başlar: algılayan olayın tamamını değil, seçiciliği, bağlamı ve ulaşabilirliğiyle sınırlı bir görüntüsünü (E1) görür.",
+  "body": "Gerbner için iletişimin ilk adımı söylemek değil, algılamaktır. Bir olay (E) olduğu gibi aktarılamaz, çünkü onu algılayan (M) olayın tümünü değil, bir kısmını görür. Ne göreceği üç şeye bağlıdır: neyi seçtiği, olayın hangi bağlamda bulunduğu ve olaya ne kadar ulaşabildiği. McQuail ve Windahl’ın aktarımına göre Gerbner algılama ilişkisini bir çizgi üzerinde düşünür. Bir uçta algılanan, ağırlıkla algılayanın varsayımlarına, bakış açısına ve deneyimine bağlıdır. Öbür uçta olay kendi başına belirleyicidir ve algı elverişli koşullarda olaya sadık kalır.\n\nBu bakış, iletişim modellerinde bir kaymayı gösterir: iletiyi taşımanın doğruluğundan önce, iletiye konu olan şeyin nasıl görüldüğü de sorulur. Haber, tanıklık ve içerik çözümlemesi gibi işlerde “olay ile onun hakkındaki ifade arasındaki uyum nasıl?” sorusunu açar.",
+  "example": "Bir tanık, bir kazayı kendi bulunduğu yerden ve dikkatiyle görür; ifadesi, kazanın kendisi değil, onun algılanmış hâlidir."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "maletzke",
+  "lang": "en",
+  "translation": { "status": "machine" },
+  "name": "Gerhard Maletzke",
+  "nativeName": "",
+  "slug": "gerhard-maletzke",
+  "short": "German communication scientist and psychologist (1922–2010). His 1963 book Psychologie der Massenkommunikation drew the “field schema” (Feldschema) of mass communication.",
+  "born": "Neustettin, Pomerania",
+  "died": "",
+  "roles": ["communication scientist", "psychologist", "media researcher"],
+  "bio": "Gerhard Maletzke was born in 1922 in Neustettin in Pomerania. He studied psychology and philosophy in Hamburg; from the start his interest lay in what goes on inside people while they listen to the radio.\n\nFrom 1952 to 1964 he worked as a researcher at the Hans-Bredow-Institut in Hamburg, then moved to a development policy institute in Berlin. Between 1972 and 1976 he was at an Asian mass communication research centre in Singapore; from 1978 to 1987 he was a media researcher at Süddeutscher Rundfunk. From 1983 he taught communication science and journalism as an honorary professor at a university.\n\nThe work that made his name was Psychologie der Massenkommunikation (1963), published by the Hans-Bredow-Institut; this 311-page book was soon regarded as the standard work of the field. The framework of the book, the “field schema” (Feldschema der Massenkommunikation), starts from Lasswell’s widely quoted formula and shows mass communication as a field in which psychological and social factors interlock.\n\nIn later years Maletzke said he should have been more careful with some words, giving “Rezipient” (recipient) as an example. He described the aim of his book as giving German research a conceptual framework. He died in 2010.",
+  "works": [
+    { "bib": "maletzke-1963", "note": "The book containing the field schema and his definition of mass communication; the source of the model." }
+  ],
+  "inCourse": "The social-field model: communicator, statement, medium, recipient and the images and pressures between them. See [[lesson:other-models]] and [[concept:maletzke-model]]."
+}

@@ -1,0 +1,16 @@
+{
+  "id": "jakobson-functions",
+  "lang": "tr",
+  "term": "Jakobson’un dil işlevleri",
+  "altTerms": [
+    "Jakobson modeli",
+    "Jakobson’un iletişim modeli",
+    "Jakobson’un iletişim şeması",
+    "dilin altı işlevi",
+    "Jacobson modeli (yazım varyantı)"
+  ],
+  "slug": "jakobson-islevleri",
+  "short": "Roman Jakobson’a göre sözlü bir iletinin altı işlevi vardır: göndergesel, duygusal, çağrı, şiirsel, kanal teyidi (fatik) ve üstdilsel. Her işlev bir iletişim etkenine yönelir; bir iletide çoğu zaman biri baskındır.",
+  "body": "Jakobson (1960) sözlü iletişimin altı etkenini sayar ve her etkene bir dil işlevi karşılık getirir. Bağlama yönelen ileti **göndergesel** işlev görür: dünyadan söz eder. Göndericiye yönelen ileti **duygusal** işlev görür: konuşanın tavrını, duygusunu taşır. Alıcıya yönelen ileti **çağrı** işlevi görür: alıcıyı harekete geçirmek ister. İletinin kendisine, yani nasıl söylendiğine yönelen ileti **şiirsel** işlev görür. Temasa (kanala) yönelen ileti **kanal teyidi (fatik)** işlevi görür: hattın açık olduğunu denetler ya da sohbeti sürdürür. Kodun kendisine yönelen ileti **üstdilsel** işlev görür: dil hakkında konuşur.\n\nJakobson’a göre hiçbir ileti tek işlevli değildir; farklar işlevlerin hiyerarşisindedir. Bir iletide en üstteki işlev, iletinin başat işlevidir. Model dilbilimciden çıkmıştır ve iletinin neyi başarmaya çalıştığını sorar, ne kadar doğru taşındığını değil.",
+  "example": "“Alo, sesim geliyor mu?” kanal teyididir; “Uçak kalkmıştır” göndergesel; “Eyvah, uçak kalkmıştır” aynı olguya duygusal bir katman ekler; “Çıkışa yürüyün” çağrıdır."
+}

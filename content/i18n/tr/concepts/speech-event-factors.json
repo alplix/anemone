@@ -1,0 +1,14 @@
+{
+  "id": "speech-event-factors",
+  "lang": "tr",
+  "term": "sözlü iletişimin altı etkeni",
+  "altTerms": [
+    "Jakobson’un altı öğesi",
+    "iletişim şemasının öğeleri",
+    "constitutive factors of a speech event"
+  ],
+  "slug": "sozlu-iletisimin-etkenleri",
+  "short": "Jakobson’a göre her sözlü iletişim edimi altı etkenden oluşur: gönderici, alıcı, ileti, bağlam, temas (kanal) ve kod. Her etken dilin farklı bir işlevini belirler.",
+  "body": "Jakobson’un şemasında **gönderici** iletiyi **alıcıya** yollar. İletinin işleyebilmesi için üç şey daha gerekir. Birincisi **bağlam**: iletinin sözünü ettiği şey; alıcının kavrayabileceği, sözle ifade edilebilir bir gönderge. İkincisi **kod**: göndericiyle alıcı için en azından kısmen ortak bir işaret dizgesi; yani dil. Üçüncüsü **temas**: göndericiyle alıcı arasındaki fiziksel kanal ve psikolojik bağlantı; ikisinin de iletişime girmesini ve iletişimde kalmasını sağlar. Türkçe kaynaklarda bu etken çoğu zaman “kanal” diye geçer.\n\nAltı etkenin hepsi her iletişimde vardır; ama eşit ağırlıkta değildir. Ağırlığın hangi etkene kaydığı, iletinin başat işlevini belirler.",
+  "example": "Bir telefon görüşmesinde: gönderici ve alıcı iki kişi, kod Türkçe, temas hat ve dinleme isteği, bağlam konuşulan konu, ileti ise söylenenlerin kendisi."
+}

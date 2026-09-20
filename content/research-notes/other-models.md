@@ -1,0 +1,60 @@
+# Research notes: lesson `other-models` (2026-09-20)
+
+Author: Claude (batch: lesson other-models; people jakobson / maletzke; concepts jakobson-functions, speech-event-factors, gerbner-model, perception-in-communication, maletzke-model, riley-model). Bibliography: `content/bibliography/other-models.json` (25 entries, all `verified.status: ok`). Reused existing entries: maletzke-1963, ioni-pstae-2017, lasswell-1948, iplikci-2015, yaylagul-2006 (meta only), gerbner-1969, contemporary-authors-gerbner, pooley-socolow-2013-ijoc, pooley-socolow-2013-slate.
+
+## (a) Could not verify, therefore left out (or explicitly hedged)
+
+**Jakobson 1960 (the central primary source)**
+- **The full text of the paper was never read.** The monoskop scan of *Style in Language* has no text layer (pdftotext returns nothing, no OCR available); the Internet Archive full text is lending-only; the *Language in Literature* PDF at a US university site returned 403; Scribd pages are interface shells. The factors, functions and the "I like Ike" analysis were checked on (1) the Varenne excerpt page (page numbers 353-357 of the 1960 volume as printed there), (2) a lecture text on Semioticon that quotes Jakobson with page numbers, (3) the Signo page, (4) English Wikipedia, (5) the Turkish article by Nesterova Coşkun (2023), which quotes the paper in Turkish translation with page numbers of the 1987 reprint. The lesson does not quote the paper beyond paraphrase; no exact quotation is used.
+- **Page range 350-377**: taken from the Signo page (opened) and a reference listing seen only in search results. Not used in any card.
+- **Conference**: only "1958, Indiana University" is documented (Stanford SearchWorks, Open Library, Nesterova Coşkun). The exact April dates and the number of participants were not verified; the lesson says only "a conference on style in the United States, 1958". The "closing statement = the last talk of the conference" reading rests on the title alone.
+- **Stanislavsky anecdote** ("this evening" said in forty ways): read in Nesterova Coşkun (Turkish, citing Jakobson 1987 p. 67) and seen in a search snippet of the English text, but the primary text was not opened; **left out of the lesson** (it is mentioned in the bib note only as material read).
+- **"I like Ike" and the year of the campaign**: the lesson does not say 1952 (not verified on a page I opened); it says only that the slogan alludes to Eisenhower (Semioticon text). The phonetic description is a paraphrase of the Semioticon lecture's account of Jakobson's analysis (Varenne excerpt confirms the example and that it appears in the paper).
+- **Selection/combination axes, metaphor and metonymy** (Nesterova Coşkun part 2): not used.
+- **Bühler**: the three functions and 1934 are confirmed by English Wikipedia (Organon model), Senft 2009 and Signo; the book itself was not opened, its subtitle is not given, Bühler's life dates (1879-1963) are single-source and not used.
+- **Malinowski 1923**: known through Senft 2009 (which quotes the passage) and catalogue data (Open Library first publication 1923). Page numbers of the 1923 supplement not verified, not used. "Nice day today" is Senft's quotation of Malinowski.
+- **Jakobson biography**: birth day differs between sources (10 or 11 October 1896; Old Style date), death place given as Cambridge, Massachusetts (Wikipedia, New World Encyclopedia) but Boston in a search summary; MIT years differ (1957-1967 vs 1957-1970). The person file gives years only (1896, 1982), Harvard 1949-1967, "MIT from 1957". Britannica was not opened (403).
+
+**Gerbner 1956**
+- **The article itself was not read** (Springer paywall; Scribd copies truncated). Everything about the model comes from McQuail & Windahl 1993 (full text of the 2nd edition read), İplikçi 2015 (Turkish description, read) and study-guide pages (only as cross-check). The exact wording of the ten-part verbal formula differs between sources ("with some consequence" vs "of some consequence(s)"); the lesson paraphrases the ten parts and does not quote it.
+- **Gerbner's labels for the perceptual dimension** ("actional", "psychophysical", "transactional"): McQuail & Windahl's text lost a line in the extraction; not used. The lesson says only that at one end perception depends on the perceiver's assumptions and experience, at the other on the event.
+- **Dissertation**: "Toward a General Theory of Communication" (USC, 1955, best-dissertation award) appears on English Wikipedia (citing the Annenberg archive) and in a search-engine summary of the Gerbner Archive; the archive itself was unreachable (connection refused) and Encyclopedia.com does not mention the title. Not two opened sources, so **left out**.
+- **1964 content-analysis chapter** (Dexter & White): known only as cited by McQuail & Windahl; used with "according to McQuail and Windahl".
+- **Which institution the 1956 article was written at**: not verified; the lesson says only that Gerbner started at a communications research institute in Illinois in 1956 (existing entry contemporary-authors-gerbner).
+- The link "Cultural Indicators as an extension of the 1956 question" is **labelled as our interpretation**.
+
+**Maletzke 1963**
+- **The book was not opened** (no digital copy). Its structure comes from McQuail & Windahl 1993 (ch. 2.6, full text read, which describes the elements and shows the three figures), the German Wikipedia article on the Feldschema (plain-text extract), Ioni & Pstae 2017 (full text read), the *Biografisches Lexikon der Kommunikationswissenschaft* entry and interview (both read). Page count 311 comes from the Crossref title of Bergsma's 1964 review (the review itself not read).
+- **Origin of the schema**: Maletzke himself refers to Lasswell (blexkom, Ioni & Pstae citing a 2002 interview); German Wikipedia derives it from Shannon-Weaver and says "Feld" alludes to field theory (Lewin is not named). **Sources disagree; the lesson reports both** (deep card `deep-origin-maletzke`). Maletzke's own reason for the word "Feld" was not verified.
+- **Left out on purpose or for lack of two sources**: that Maletzke met Gerbner in 1961 (Ioni & Pstae, single source; the blexkom interview only gives a 1961 research stay in Los Angeles); the claims in Ioni & Pstae about his wartime service, a rejected professorial application and the political reasons for it, and that he "never held tenure" (single, sensitive, unchecked); Meyen & Löblich 2011 (*M&K* 59, 563-580) and Löblich, Meyen & Lacasa-Mas (*Communication & Society* 28(2)) were only found in Crossref/search results, not read; Maletzke's later books (*Massenkommunikationstheorien* 1988, *Kommunikationswissenschaft im Überblick* 1998) are named in German Wikipedia and Open Library but not used; the exact wording of his definition of "Kommunikator" (quoted in German Wikipedia) is paraphrased, not quoted; "Dispersum" not used.
+- **German Wikipedia's critical remarks** (Shannon-Weaver transferred "carelessly" by Schramm in 1954; "container model") come from one unsigned article and were **not used**.
+- **Burkart 1997**: reported only as Ioni & Pstae report it ("according to Ioni and Pstae").
+- Maletzke's death place: not in any source I opened; `died` omitted in the person text.
+
+**Riley & Riley 1959**
+- **The chapter was not opened.** Verified: existence and bibliographic data (authors John W. Riley and Matilda White Riley; *Sociology Today: Problems and Prospects*, ed. Merton, Broom, Cottrell, Basic Books, 1959) via Open Library, the Internet Archive catalogue record and the identical reference lists of McQuail & Windahl 1993 and Yaylagül 2006. Content: Yaylagül's description (primary and secondary groups, social structure; communication as a social and institutional activity) plus a study-guide page (communicationtheory.org) that agrees. Page range not confirmed (I have no verified page range); the Rileys' life dates not checked; no person file `riley` was created (would need two biographical sources); the concept `riley-model` is short and says explicitly that details need the original chapter. Yaylagül spells "Mathilda"; Open Library, McQuail & Windahl and others give "Matilda".
+
+**Kulkarni 2014, Dalak 2021, Senft 2009, Nesterova Coşkun 2023**
+- Kulkarni: Crossref abstract only (60 chats, 20 participants, mixed English/Marathi/Hindi, conversation analysis; back-channels, evaluations, expressives, questions). No numbers beyond the abstract.
+- Dalak: the DergiPark PDF was read for the abstract and the introduction of the model; the play analysis was not summarised.
+- Senft 2009: full text read; Hymes's and Crystal's remarks are used second-hand ("according to a source he cites").
+- Nesterova Coşkun: the emoji figures (3,019 emoji in Unicode in March 2019; almost half of Instagram messages contain emoji, citing Bai et al. 2019) are reported with attribution only; not verified against Unicode or Bai et al. The Mevlânâ (*Mesnevi*) example is quoted from her article (she cites Mevlânâ 2007, p. 1); the primary was not opened.
+
+**Semioticon lecture text** (`semioticon-jakobson-poetic`): author and course are not named in the PDF; used for the Baudrillard critique and the observation about underdeveloped examples. Baudrillard's quotation was not checked in *Seduction*.
+
+**CBS "War of the Worlds" lab (Maletzke card)**
+- Date and network: Slate (Pooley & Socolow 2013) and Pooley & Socolow, IJoC 2013 (full text read; "Sunday, October 30, 1938", Stanton's questionnaire the same night, fieldwork the next morning, New York Daily News front page of 31 October). The **2% Hooper figure (5,000 households), the rival Edgar Bergen programme and the news-bulletin format rest on the Slate article alone** (the IJoC text does not contain them). Note that the Hooper *ratings* service (Slate) and Hooper *Holmes*, the interview firm Stanton phoned (IJoC), are different companies; the lesson names only "Hooper" for the ratings survey.
+- **The mapping of these facts to Maletzke's elements is our interpretation** and is labelled as a frame ("yorum çerçevesi"), not a finding. The recipient's image of the medium (radio news credibility) is not asserted for this case.
+- Overlaps with the planned lesson `payne-fund-mars`: only date, network and the two documented feedback items are used; bibliography entries are reused, not redefined.
+
+## (b) Judgement calls
+
+- **Section `turkey` omitted.** Turkish scholarship is used for names and terms (Nesterova Coşkun, Dalak, İplikçi, Yaylagül), but I found no documented Turkish media case tied to these models that I could source twice. Dalak's article analyses a French play.
+- **Riley & Riley** appear in one core line (people-time timeline, claim/exam distractors), a concept and quiz question q10, not as a full card.
+- **Cards under 150 words** (Turkish, counted by whitespace incl. Markdown tokens): several cards are 135-150 words; padding would have needed unverified material. Depth is in the seven deep cards.
+- **Process models** (Schramm, Berlo, Westley–MacLean, Newcomb) are named in plain text without links, as instructed; nothing about their content is claimed beyond İplikçi's grouping.
+- **Universities**: the lesson text names none. It says "a conference on style in the United States" and "a university" in the person files; the US state names Indiana/Illinois appear only as places.
+- **Turkish terms**: main terms and doubts are in `content/terminology/other-models.json`. Flagged `check`: "temas", "fatik" (the transliteration was not seen in the Turkish articles I opened; used in parentheses next to "kanal teyidi"), "iletici", "alan şeması", "zayıf geri bildirim", "araçtan gelen baskı".
+- **Lab design**: the Jakobson lab asks the reader to pick a real message; the worked examples are documented ("I like Ike", the *Mesnevi* opening); the functions assigned besides the poetic one are labelled "our reading".
+- **Timeline** ids are language-independent; the labels avoid naming any university.
+- Course status: `other-models` was switched to "ready" in `course.json` only to run the validator and reverted afterwards.

@@ -1,0 +1,16 @@
+{
+  "id": "speech-event-factors",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "the six factors of verbal communication",
+  "altTerms": [
+    "Jakobson’s six elements",
+    "constitutive factors of a speech event"
+  ],
+  "slug": "factors-of-a-speech-event",
+  "short": "According to Jakobson every act of verbal communication consists of six factors: addresser, addressee, message, context, contact (channel) and code. Each factor determines a different function of language.",
+  "body": "In Jakobson’s scheme the **addresser** sends a message to the **addressee**. For the message to work, three more things are needed. The first is **context**: what the message speaks about, a referent the addressee can grasp and that can be put into words. The second is **code**: a set of signs at least partly shared by addresser and addressee, that is, language. The third is **contact**: the physical channel and psychological connection between addresser and addressee that lets both enter and stay in communication. Turkish sources often call this factor “channel”.\n\nAll six factors are present in every communication, but not with equal weight. Which factor the weight shifts to determines the message’s dominant function.",
+  "example": "In a phone call: addresser and addressee are the two people, the code is Turkish, contact is the line and the willingness to listen, the context is the topic, and the message is what is said."
+}

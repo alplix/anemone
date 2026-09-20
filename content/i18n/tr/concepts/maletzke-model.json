@@ -1,0 +1,15 @@
+{
+  "id": "maletzke-model",
+  "lang": "tr",
+  "term": "Maletzke’nin alan şeması",
+  "altTerms": [
+    "Maletzke modeli",
+    "kitle iletişiminin alan şeması",
+    "Feldschema der Massenkommunikation",
+    "Maletzke’nin kitle iletişimi modeli"
+  ],
+  "slug": "maletzke-modeli",
+  "short": "Gerhard Maletzke’nin 1963 tarihli modeli kitle iletişimini iletici, ileti, araç ve alıcıdan oluşan bir “alan” olarak gösterir; iletici ile alıcının imgeleri, araçtan gelen baskı ve toplumsal çevre bu alanın parçalarıdır.",
+  "body": "Maletzke (1963) Lasswell’in formülünün ilk dört öğesini alır: iletici, ileti, araç ve alıcı; etkiyi ayrı bir kutu olarak çizmez. Asıl katkısı bu dört öğenin etrafını psikolojik ve toplumsal etkenlerle doldurmasıdır. İleticinin kendine dair imgesi, kişilik yapısı, çalıştığı ekip ve kurum, toplumsal çevresi ve kamusal olmanın baskısı, ileticinin neyi nasıl söyleyeceğini belirler. Alıcı tarafında da kendi imgesi, kişiliği, toplumsal çevresi ve izleyici olma durumu, neyi seçip nasıl yaşayacağını belirler.\n\nİki taraf birbirinin imgesini taşır: iletici izleyicisini, alıcı da ileticiyi ve aracı bir imgeyle tasarlar. Araçtan da bir “zorlama” gelir: her araç kendi olanakları ve sınırlarıyla hem ileticiyi hem alıcıyı biçimlendirir. Alıcının tepkisi ise ileticiye ancak zayıf, dolaylı bir geri bildirimle (mektup, telefon, ölçüm) ulaşır. “Alan” sözcüğü, öğelerin birbirine bağlı, iç içe olduğunu anlatır.",
+  "example": "Akşam haber bülteni: sunucunun kendini nasıl gördüğü, editörün izleyiciyi nasıl hayal ettiği, ekranın süre sınırı ve izleyicinin salondaki aile ortamı aynı alanın parçalarıdır."
+}

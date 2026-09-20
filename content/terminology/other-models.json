@@ -1,0 +1,51 @@
+{
+  "_comment": "Turkish terms chosen for the lesson other-models. status: sourced = attested in at least two Turkish scholarly sources I opened; chosen = my own choice among attested variants or my own rendering; check = weakly attested (blogs, translations of McQuail) or my own translation, needs a Turkish-language reviewer. Turkish sources opened: Nesterova Coşkun 2023 (nesterova-coskun-2023), Dalak 2021 (dalak-2021), Karagöz 2007 (a Turkish journal article on the Qur’an’s style and the functions of language, read but not cited), Iplikci 2015, Yaylagul 2006, and a Turkish blog summary of Maletzke (not cited). No term comes from any institution's course text.",
+  "jakobson-functions": {
+    "en": "Jakobson's functions of language",
+    "tr": "Jakobson’un dil işlevleri",
+    "status": "chosen",
+    "alt": ["Jakobson modeli", "Jakobson’un iletişim modeli", "Jakobson’un iletişim şeması", "Jacobson modeli"],
+    "note": "Nesterova Coşkun 2023 says the doctrine is mostly called 'iletişim şeması'; the spelling 'Jacobson' also occurs in Turkish (e.g. in titles) and is listed as a variant."
+  },
+  "speech-event-factors": {
+    "en": "factors of a speech event",
+    "tr": "sözlü iletişimin etkenleri",
+    "status": "chosen",
+    "alt": ["öğeler", "faktörler"],
+    "note": "Nesterova Coşkun 2023 uses 'etken' and 'faktör' side by side."
+  },
+  "addresser": { "en": "addresser", "tr": "gönderici", "status": "sourced", "alt": ["gönderen", "kaynak"], "note": "Nesterova Coşkun 2023: gönderici; Dalak 2021: gönderen." },
+  "addressee": { "en": "addressee", "tr": "alıcı", "status": "sourced", "alt": ["gönderilen", "muhatap"], "note": "Nesterova Coşkun 2023: alıcı, muhatap; Dalak 2021: gönderilen (alıcı)." },
+  "context": { "en": "context (referent)", "tr": "bağlam", "status": "sourced", "alt": ["gönderge"], "note": "Nesterova Coşkun 2023: bağlam (= referent); Dalak 2021 lists the factor as 'gönderge'." },
+  "message": { "en": "message", "tr": "ileti", "status": "sourced", "alt": ["mesaj"] },
+  "contact": { "en": "contact", "tr": "temas (kanal)", "status": "check", "alt": ["kanal", "irtibat"], "note": "Nesterova Coşkun 2023 calls the factor 'kanal' and the function 'kanal teyidi' (also 'irtibat teyidi'); 'temas' is a literal rendering of 'contact' chosen for clarity and flagged for review." },
+  "code": { "en": "code", "tr": "kod", "status": "sourced" },
+  "referential-function": { "en": "referential function", "tr": "göndergesel işlev", "status": "sourced", "alt": ["bağlamsal işlev"], "note": "Nesterova Coşkun 2023; Karagöz 2007 also 'göndergesel işlev'; Dalak 2021: 'gönderge işlevi'." },
+  "emotive-function": { "en": "emotive function", "tr": "duygusal işlev", "status": "sourced", "alt": ["anlatımsal işlev", "duygu işlevi", "heyecan bildirme işlevi"], "note": "Nesterova Coşkun 2023, Karagöz 2007: duygusal; Dalak 2021: duygu." },
+  "conative-function": { "en": "conative function", "tr": "çağrı işlevi", "status": "sourced", "alt": ["alıcıyı harekete geçirme işlevi"], "note": "Nesterova Coşkun 2023, Dalak 2021, Karagöz 2007 all: çağrı." },
+  "poetic-function": { "en": "poetic function", "tr": "şiirsel (poetik) işlev", "status": "sourced", "alt": ["poetik işlev", "sanatsal işlev", "şiir/sanat işlevi"], "note": "Nesterova Coşkun 2023: poetik; Karagöz 2007: sanatsal; Dalak 2021: şiir/sanat." },
+  "phatic-function": { "en": "phatic function", "tr": "kanal teyidi (fatik) işlevi", "status": "sourced", "alt": ["fatik işlev", "ilişki işlevi", "irtibat teyidi işlevi", "kanal denetleme işlevi"], "note": "Nesterova Coşkun 2023: kanal teyidi (also irtibat teyidi); Karagöz 2007 and Dalak 2021: ilişki işlevi. The transliteration 'fatik' was not seen in the Turkish articles I opened; it is my rendering and flagged for review." },
+  "metalingual-function": { "en": "metalingual function", "tr": "üstdilsel (metadil) işlevi", "status": "sourced", "alt": ["metadil işlevi", "üstdil işlevi", "dil ötesi işlev"], "note": "Nesterova Coşkun 2023: metadil; Karagöz 2007 and Dalak 2021: üstdil." },
+  "gerbner-model": {
+    "en": "Gerbner's general model of communication",
+    "tr": "Gerbner’in genel iletişim modeli",
+    "status": "check",
+    "alt": ["Gerbner modeli", "Gerbner Modeli (1956)"],
+    "note": "Iplikci 2015 writes 'Gerbner Modeli (1956)'; 'genel iletişim modeli' is my translation of Gerbner's own title 'a general model of communication'."
+  },
+  "perception-in-communication": { "en": "perception in communication", "tr": "iletişimde algı", "status": "chosen", "alt": ["algısal boyut"] },
+  "maletzke-model": {
+    "en": "Maletzke's field schema",
+    "tr": "Maletzke’nin alan şeması",
+    "status": "check",
+    "alt": ["Maletzke modeli", "Maletzke’nin kitle iletişimi modeli", "kitle iletişiminin alan şeması"],
+    "note": "'Maletzke modeli' is the usual Turkish short form (blogs and lecture notes); 'alan şeması' is my literal rendering of the German 'Feldschema'. I found no Turkish scholarly article that fixes the term, so it is flagged for a Turkish reviewer."
+  },
+  "communicator": { "en": "communicator (Kommunikator)", "tr": "iletici", "status": "check", "alt": ["iletişimci", "gönderici", "kaynak"], "note": "'iletici' was seen in a search snippet of a Turkish translation of McQuail and Windahl (page not opened); a Turkish lecture-notes blog I opened writes 'gönderici'. The lesson uses 'iletici' for Maletzke and 'gönderici' for Jakobson; flagged for a Turkish reviewer." },
+  "statement": { "en": "statement / message (Aussage)", "tr": "ileti", "status": "check", "alt": ["mesaj", "gönderi", "ifade"], "note": "Aussage is 'statement'; Turkish texts use ileti/gönderi." },
+  "recipient": { "en": "recipient (Rezipient)", "tr": "alıcı", "status": "check", "alt": ["izleyici", "alımlayıcı"] },
+  "para-feedback": { "en": "para-feedback (Parafeedback)", "tr": "zayıf (dolaylı) geri bildirim", "status": "check", "alt": ["parafeedback", "yarı geri bildirim"], "note": "Ioni & Pstae 2017 write 'para-feedback'; 'zayıf geri bildirim' is the McQuail-Turkish rendering of 'weak feedback'. Both are flagged for review." },
+  "medium-constraint": { "en": "constraint of the medium (Zwang des Mediums)", "tr": "araçtan gelen baskı (zorlama)", "status": "check", "alt": ["aracın zorlaması", "araç baskısı"], "note": "A Turkish McQuail summary reads 'kitle iletişim aracından gelen baskı veya zorlama'." },
+  "riley-model": { "en": "Riley and Riley model", "tr": "Riley ve Riley modeli", "status": "sourced", "alt": ["Rileylerin modeli", "iletişime sosyolojik yaklaşım"], "note": "Yaylagül 2006 heads the section 'İletişime Sosyolojik Yaklaşım: Riley ve Riley Modeli'." },
+  "primary-group": { "en": "primary group / secondary group", "tr": "birincil grup / ikincil grup", "status": "sourced", "note": "Yaylagül 2006." }
+}
