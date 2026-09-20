@@ -78,6 +78,8 @@ for (const p of Object.values(pages)) {
     try { const j = JSON.parse(m[1]); if (!j["@context"] || !j["@type"]) err(`${w}: JSON-LD without @context/@type`); }
     catch (e) { err(`${w}: invalid JSON-LD (${e.message})`); }
   }
+  if (/\[\[(?:person|concept|lesson|cite):/.test(p.html.replace(/<script[\s\S]*?<\/script>/g, ""))) err(`${w}: unresolved [[reference]] left in the page text`);
+  if (/data-page="lesson"/.test(p.html) && !/class="ref ref-/.test(p.html)) err(`${w}: lesson page has no in-text references (renderer regression?)`);
   if (p.indexable && p.alternates.length && !p.alternates.some((a) => a.hreflang === "x-default")) err(`${w}: hreflang set without x-default`);
   // internal links
   for (const href of p.links) {
