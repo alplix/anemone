@@ -1,0 +1,16 @@
+{
+  "id": "wirth",
+  "born": {
+    "year": 1897
+  },
+  "died": {
+    "year": 1952
+  },
+  "sources": [
+    "encyclopedia-wirth",
+    "wikipedia-wirth"
+  ],
+  "works": [
+    "wirth-1938-urbanism"
+  ]
+}

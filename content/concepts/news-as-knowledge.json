@@ -1,0 +1,20 @@
+{
+  "id": "news-as-knowledge",
+  "family": "news",
+  "introducedBy": [
+    "park"
+  ],
+  "related": [
+    "immigrant-press",
+    "public-opinion",
+    "gatekeeping",
+    "communication"
+  ],
+  "sources": [
+    "park-1940-news-knowledge",
+    "james-1890-principles-psychology",
+    "park-1915-city-suggestions",
+    "park-1922-immigrant-press",
+    "park-1923-natural-history-newspaper"
+  ]
+}

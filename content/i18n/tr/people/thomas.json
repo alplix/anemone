@@ -1,0 +1,26 @@
+{
+  "id": "thomas",
+  "lang": "tr",
+  "name": "William I. Thomas",
+  "nativeName": "",
+  "slug": "william-i-thomas",
+  "short": "Amerikalı sosyolog (1863–1947); Chicago Okulu’nun öncülerinden. “İnsanlar durumları gerçek olarak tanımlarsa, durumlar sonuçları bakımından gerçektir” cümlesiyle ve göçmen mektupları üzerine çalışmasıyla anılır.",
+  "born": "Russell County, Virginia, ABD",
+  "died": "Berkeley, California, ABD",
+  "roles": [
+    "sosyolog",
+    "sosyal psikolog"
+  ],
+  "bio": "William Isaac Thomas, 13 Ağustos 1863’te Virginia’nın Russell County bölgesinde doğdu; 5 Aralık 1947’de Berkeley’de öldü. Tennessee Üniversitesi’nde okudu, Berlin ve Göttingen’de antropoloji ve sosyoloji çalıştı; doktorasını 1896’da Chicago Üniversitesi’nde aldı. Chicago’daki sosyoloji bölümünde yıllarca öğretim üyeliği yaptı; 1918’de bu görevinden ayrıldı. 1927’de Amerikan Sosyoloji Derneği’nin başkanlığını yaptı.\n\nFlorian Znaniecki’yle birlikte yazdığı *The Polish Peasant in Europe and America* (1918–1920), göçmenlerin aile mektuplarını ve başka kişisel belgeleri veri olarak kullanarak Amerikan sosyolojisinde niteliksel araştırmanın temellerinden biri sayılır. Bu çalışmanın yöntem notu, bir toplumsal edimin üç öğesinden biri olarak “durumun tanımı”nı öne çıkarır. Eşi Dorothy Swaine Thomas’la yazdığı *The Child in America* (1928) kitabında ise ünlü cümle ilk kez geçer; Robert K. Merton bu cümleye sonradan “Thomas teoremi” adını verdi.\n\nThomas’ın kuramı, iletişim dersleri için bir köprüdür: söylenti, manşet ve sohbet gibi şeyler, insanlara durumu tanımlatan malzemedir.",
+  "works": [
+    {
+      "bib": "thomas-znaniecki-1918-polish-peasant",
+      "note": "Göçmen mektupları veri olarak; yöntem notunda “durumun tanımı”."
+    },
+    {
+      "bib": "thomas-thomas-1928-child-in-america",
+      "note": "Thomas teoreminin ilk basılı hâli."
+    }
+  ],
+  "inCourse": "Bu derste mektup toplayan sosyolog ve “Thomas teoremi”nin sahibi olarak geçer. [[lesson:chicago-school]]"
+}

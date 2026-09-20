@@ -1,0 +1,1060 @@
+{
+  "_comment": "Sources for the lesson chicago-school. Every entry was opened or matched against an independent database on 2026-09-20; the note says exactly what was read. Entries whose full text was NOT read say so.",
+  "park-1915-city-suggestions": {
+    "type": "article",
+    "authors": [
+      "Park, Robert E."
+    ],
+    "year": 1915,
+    "title": "The city: Suggestions for the investigation of human behavior in the city environment",
+    "container": "American Journal of Sociology",
+    "volume": "20",
+    "issue": "5",
+    "pages": "577-612",
+    "doi": "10.1086/212433",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex",
+        "full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref and OpenAlex give AJS 20(5), March 1915, pp. 577-612. The full text (a scan of the journal issue on the Internet Archive) was read: the closing sentence about the city as a 'laboratory or clinic', the sentence calling the newspaper the great medium of communication within the city (public opinion rests on the information it supplies), and the list of neighbourhood questions that includes 'What is news?'. Page numbers inside the article were not used."
+    }
+  },
+  "park-1922-immigrant-press": {
+    "type": "book",
+    "authors": [
+      "Park, Robert E."
+    ],
+    "year": 1922,
+    "title": "The immigrant press and its control",
+    "publisher": "Harper & Brothers",
+    "place": "New York and London",
+    "edition": "1st ed.",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "worldcat-listing",
+        "full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library and WorldCat list Harper & Brothers, 1922 (Americanization Studies series). The full text (Internet Archive scan) was read: title page (Harper & Brothers, New York and London; 'Americanization Studies', directed by Allen T. Burns; foreword: the volume results from studies funded by the Carnegie Corporation of New York), the opening chapters (Russian readers' questionnaire quoted from Mark Villchur, Russkoye Slovo, 10 June 1919; the sentence on news as urgent information for adjusting to a new environment; face-to-face village life), the passage asking whether the foreign-language press is a brake or an accelerator of assimilation, the wartime chapter (permits, Post Office) and the closing pages. Aggregate periodical counts in the tables were NOT used (the OCR of the tables is unreliable)."
+    }
+  },
+  "park-1923-natural-history-newspaper": {
+    "type": "article",
+    "authors": [
+      "Park, Robert E."
+    ],
+    "year": 1923,
+    "title": "The natural history of the newspaper",
+    "container": "American Journal of Sociology",
+    "volume": "29",
+    "issue": "3",
+    "pages": "273-289",
+    "doi": "10.1086/213596",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex",
+        "full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref and OpenAlex give AJS 29(3), November 1923, pp. 273-289. Full text (Internet Archive scan of the journal article) read: the abstract, the opening argument that the newspaper, like the modern city, is not wholly a rational product, and the passage on Mark Villchur's survey of readers of Russkoye Slovo (312 correspondents; 16 regular newspaper readers in Russia; in America all subscribers or readers of Russian papers). Park's remark about Hearst papers and immigrants is reported by him as hearsay ('It is said that...') and is used only that way."
+    }
+  },
+  "park-1936-human-ecology": {
+    "type": "article",
+    "authors": [
+      "Park, Robert Ezra"
+    ],
+    "year": 1936,
+    "title": "Human ecology",
+    "container": "American Journal of Sociology",
+    "volume": "42",
+    "issue": "1",
+    "pages": "1-15",
+    "doi": "10.1086/217327",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref and OpenAlex (which supplies the journal abstract) agree on AJS 42(1), July 1936, pp. 1-15. Only the abstract was read (human ecology as applying to human interrelations a type of analysis used for plants and animals; symbiosis; competition; the cultural order limiting the biotic order on economic, political and moral levels). The article text was NOT read."
+    }
+  },
+  "park-1938-communication-culture": {
+    "type": "article",
+    "authors": [
+      "Park, Robert E."
+    ],
+    "year": 1938,
+    "title": "Reflections on communication and culture",
+    "container": "American Journal of Sociology",
+    "volume": "44",
+    "issue": "2",
+    "pages": "187-205",
+    "doi": "10.1086/217969",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref and OpenAlex agree on AJS 44(2), September 1938, pp. 187-205. Only the journal abstract (via OpenAlex) was read: communication as an integrating and socializing principle, competition as the principle of individuation, news circulates as far as its message is understood and seems important, the cinema possibly more devastating to local cultures than news. The article text was NOT read."
+    }
+  },
+  "park-1940-news-knowledge": {
+    "type": "article",
+    "authors": [
+      "Park, Robert E."
+    ],
+    "year": 1940,
+    "title": "News as a form of knowledge: A chapter in the sociology of knowledge",
+    "container": "American Journal of Sociology",
+    "volume": "45",
+    "issue": "5",
+    "pages": "669-686",
+    "doi": "10.1086/218445",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract",
+        "second-source"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref and OpenAlex agree on AJS 45(5), March 1940, pp. 669-686; a search-engine listing of the publisher page and of SciSpace carries the same abstract. Only the abstract was read: James's categories ('knowledge about' = formal knowledge; 'acquaintance with' = unsystematic, intuitive knowledge or common sense), news as a point on that continuum with a transient and ephemeral quality, news as 'something that will make people talk', limited to events with sudden and decisive change, and its function of orienting man and society in an actual world. The article text was NOT read; where it puts news on the continuum is therefore not stated in the lesson."
+    }
+  },
+  "park-burgess-1921-intro-sociology": {
+    "type": "book",
+    "authors": [
+      "Park, Robert E.",
+      "Burgess, Ernest W."
+    ],
+    "year": 1921,
+    "title": "Introduction to the science of sociology",
+    "publisher": "University of Chicago Press",
+    "place": "Chicago",
+    "edition": "1st ed.",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library lists University of Chicago Press editions from 1921 on. The Project Gutenberg text (ebook 28496; title page: University of Chicago Press, copyright 1921, published September 1921) was read for: the passage from Dewey's Democracy and Education placed in the chapter on social interaction (footnote: Dewey, Democracy and Education, New York, 1916, p. 5) followed by the authors' remark 'communication as Dewey has defined the term'; the phrase 'In the village everyone knows everything about everyone else'; the presence of a section on the crowd and the public and on human ecology."
+    }
+  },
+  "park-burgess-1925-the-city": {
+    "type": "book",
+    "authors": [
+      "Park, Robert E.",
+      "Burgess, Ernest W."
+    ],
+    "year": 1925,
+    "title": "The city: Suggestions for investigation of human behavior in the urban environment",
+    "publisher": "University of Chicago Press",
+    "place": "Chicago",
+    "edition": "1st ed.",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "reference-work",
+        "second-source"
+      ],
+      "date": "2026-09-20",
+      "note": "Two reference pages agree (Wikipedia article 'The City (Park and Burgess book)' and EBSCO Research Starters 'The City Initiates the Study of Urban Ecology'): University of Chicago Press, 1925; the first edition names Park and Burgess, later editions add R. D. McKenzie; chapter 1 is Park's revised 1915 article; Burgess's chapter proposes the concentric-ring model around the central business district. The book itself was NOT read. Note: the subtitle on the 1925 title page is often quoted differently ('...Human Nature in the Urban Environment'); the form above is the one both reference pages give."
+    }
+  },
+  "thomas-thomas-1928-child-in-america": {
+    "type": "book",
+    "authors": [
+      "Thomas, William I.",
+      "Thomas, Dorothy Swaine"
+    ],
+    "year": 1928,
+    "title": "The child in America: Behavior problems and programs",
+    "publisher": "Alfred A. Knopf",
+    "place": "New York",
+    "edition": "1st ed.",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library lists Knopf, New York, 1928. Full text (University of Florida copy on the Internet Archive; title page: William I. Thomas and Dorothy Swaine Thomas; 'Copyright 1928 by Alfred A. Knopf, Inc.') read: on p. 572 the discussion of the 'definition of the situation', the story of the warden of Dannemora prison who refused to let a dangerous inmate leave the prison, the inmate having killed several people who talked to themselves in the street because he imagined they were insulting him, and directly after it the sentence 'If men define situations as real, they are real in their consequences.'"
+    }
+  },
+  "thomas-znaniecki-1918-polish-peasant": {
+    "type": "book",
+    "authors": [
+      "Thomas, William I.",
+      "Znaniecki, Florian"
+    ],
+    "year": 1918,
+    "title": "The Polish peasant in Europe and America: Monograph of an immigrant group. Volume I: Primary-group organization",
+    "publisher": "Richard G. Badger (The Gorham Press)",
+    "place": "Boston",
+    "edition": "1st ed.",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "reference-work",
+        "full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library lists 1918 editions (Richard G. Badger; also University of Chicago Press); Wikipedia and Encyclopedia.com date the five volumes 1918-1920 (1921 in one encyclopaedia). Full text of volume I (Cornell copy, Internet Archive; title page: Boston, Richard G. Badger, The Gorham Press, copyright 1918) was read: the methodological remarks that name three elements of a social act (objective conditions, pre-existing attitudes, the definition of the situation, called a necessary preliminary to any act of the will), the Osinski series of letters (Nos. 68-138) in which the first two items are replies to a newspaper advertisement, and letters that mention the Polish peasant weekly Gazeta Swiateczna. Only volume I was read."
+    }
+  },
+  "merton-1948-self-fulfilling-prophecy": {
+    "type": "article",
+    "authors": [
+      "Merton, Robert K."
+    ],
+    "year": 1948,
+    "title": "The self-fulfilling prophecy",
+    "container": "The Antioch Review",
+    "volume": "8",
+    "issue": "2",
+    "pages": "193-210",
+    "doi": "10.2307/4609267",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref: Antioch Review 8(2), 1948, first page 193; pp. 193-210 confirmed by the article's own header in the PDF copy that was read (Summer 1948). Text read: the opening paragraph attributing the theorem to W. I. Thomas and calling it 'the Thomas theorem' (Merton notes that essentially the same idea had been set out repeatedly long before Thomas); the Last National Bank parable, set in 1932 with an invented banker, in which a rumour of insolvency believed by enough depositors causes the bank's failure; Merton himself calls it a sociological parable."
+    }
+  },
+  "wirth-1938-urbanism": {
+    "type": "article",
+    "authors": [
+      "Wirth, Louis"
+    ],
+    "year": 1938,
+    "title": "Urbanism as a way of life",
+    "container": "American Journal of Sociology",
+    "volume": "44",
+    "issue": "1",
+    "pages": "1-24",
+    "doi": "10.1086/217913",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref gives AJS 44(1), July 1938, pp. 1-24; the running heads and page counter of the PDF that was read agree. Full text (a PDF hosted on a university course page; the text layer needed decoding) was read: the sociological definition of the city as a relatively large, dense, and permanent settlement of socially heterogeneous individuals; the list of facilities concentrated in cities including the press and radio stations; the remarks that schools, movies, radio and newspapers, by their mass clientele, act as levelling influences and that masses in the city can be manipulated by symbols and stereotypes managed from afar through control of the instruments of communication."
+    }
+  },
+  "dewey-1916-democracy-education": {
+    "type": "book",
+    "authors": [
+      "Dewey, John"
+    ],
+    "year": 1916,
+    "title": "Democracy and education: An introduction to the philosophy of education",
+    "publisher": "Macmillan",
+    "place": "New York",
+    "edition": "1st ed.",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library lists Macmillan, New York, 1916. The Project Gutenberg text (ebook 852) was read: in chapter 1 the sentences that society exists 'in transmission, in communication' and that there is 'more than a verbal tie between the words common, community, and communication'. Park and Burgess (1921) footnote this passage to p. 5 of the 1916 edition."
+    }
+  },
+  "dewey-1927-public-problems": {
+    "type": "book",
+    "authors": [
+      "Dewey, John"
+    ],
+    "year": 1927,
+    "title": "The public and its problems",
+    "publisher": "Henry Holt and Company",
+    "place": "New York",
+    "edition": "1st ed.",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library lists Henry Holt and Company, New York, 1926/1927. Full text (Internet Archive scan of the later Alan Swallow printing, which reproduces the 1927 Holt copyright page and pagination) was read: the end of chapter IV ('Till the Great Society is converted into a Great Community, the Public will remain in eclipse. Communication can alone create a great community.'), the footnote acknowledging debts to Lippmann's Public Opinion and The Phantom Public, and the passage in chapter V on news (its meaning depends on its relation to what it imports, to its social consequences)."
+    }
+  },
+  "james-1890-principles-psychology": {
+    "type": "book",
+    "authors": [
+      "James, William"
+    ],
+    "year": 1890,
+    "title": "The principles of psychology",
+    "publisher": "Henry Holt and Company",
+    "place": "New York",
+    "edition": "1st ed. (2 vols.)",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library lists Henry Holt (New York), 1890, two volumes. The chapter IX text on the Classics in the History of Psychology site (York University) was read: the passage separating knowledge about a thing (knowledge of its relations) from acquaintance with it (limitation to the bare impression). Only chapter IX was consulted; James's other uses of the distinction were not."
+    }
+  },
+  "cooley-1909-social-organization": {
+    "type": "book",
+    "authors": [
+      "Cooley, Charles Horton"
+    ],
+    "year": 1909,
+    "title": "Social organization: A study of the larger mind",
+    "publisher": "Charles Scribner's Sons",
+    "place": "New York",
+    "edition": "1st ed.",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library lists Scribner's, 1909. Full text (University of California copy, Internet Archive; title page: Cooley, Professor of Sociology in the University of Michigan) read: Part II 'Communication', chapter VI, where communication is defined as the mechanism through which human relations exist and develop, including symbols and the means of conveying them through space and preserving them in time (speech, writing, printing, railways, telegraphs, telephones). Used only as a pointer."
+    }
+  },
+  "blumer-1933-movies-conduct": {
+    "type": "book",
+    "authors": [
+      "Blumer, Herbert"
+    ],
+    "year": 1933,
+    "title": "Movies and conduct",
+    "publisher": "Macmillan",
+    "place": "New York",
+    "edition": "1st ed.",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "second-source"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library lists Macmillan, New York, 1933; the Wikipedia articles on Herbert Blumer (Macmillan and Company) and on the Payne Fund Studies (Blumer, University of Chicago, 1933) agree. The book itself was NOT read; used only to say that a Chicago sociologist wrote one of the Payne Fund studies."
+    }
+  },
+  "blumer-1956-variable": {
+    "type": "article",
+    "authors": [
+      "Blumer, Herbert"
+    ],
+    "year": 1956,
+    "title": "Sociological analysis and the \"variable\"",
+    "container": "American Sociological Review",
+    "volume": "21",
+    "issue": "6",
+    "pages": "683-690",
+    "doi": "10.2307/2088418",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "full-text",
+        "second-source"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref gives ASR 21(6), December 1956, first page 683; the JSTOR cover header of a PDF copy hosted on a university course page reads Vol. 21, No. 6 (Dec., 1956), pp. 683-690 (the text layer of that copy is only partly decodable, so the paper was skimmed, not read closely). Wikipedia describes it as his presidential address and as a critique of variable analysis; the readable part of the PDF says that a sociological variable, once converted into the actual group activity it stands for, turns out to be an intricate and inner-moving complex. The lesson states only that the paper criticised variable analysis."
+    }
+  },
+  "wahl-jorgensen-2004-founding-field": {
+    "type": "article",
+    "authors": [
+      "Wahl-Jorgensen, Karin"
+    ],
+    "year": 2004,
+    "title": "How not to found a field: New evidence on the origins of mass communication research",
+    "container": "Journal of Communication",
+    "volume": "54",
+    "issue": "3",
+    "pages": "547-564",
+    "doi": "10.1093/joc/54.3.547",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref lists two DOIs (10.1093/joc/54.3.547 and 10.1111/j.1460-2466.2004.tb02644.x) for the same article, J Commun 54(3), September 2004, pp. 547-564. Only the abstract (via OpenAlex) was read: the earliest US communication programmes were short-lived interdisciplinary committees at the University of Chicago; the article asks why they are unknown in the field's history. The article text was NOT read."
+    }
+  },
+  "wahl-jorgensen-2012-chicago-media": {
+    "type": "chapter",
+    "authors": [
+      "Wahl-Jorgensen, Karin"
+    ],
+    "year": 2012,
+    "title": "The Chicago School of sociology and mass communication research",
+    "bookTitle": "The international encyclopedia of media studies",
+    "publisher": "Wiley-Blackwell",
+    "doi": "10.1002/9781444361506.wbiems027",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref and OpenAlex list the entry (published online 28 December 2012, Wiley). Only the abstract was read: two stories about the school's legacy in media studies, a tale of triumph (normative and empirical influence) and a tale of loss and marginalization (decline of its socially engaged, often qualitative approach). Editors and page numbers were not verified and are omitted. The entry text was NOT read."
+    }
+  },
+  "ball-rokeach-kim-matei-2001-storytelling": {
+    "type": "article",
+    "authors": [
+      "Ball-Rokeach, Sandra J.",
+      "Kim, Yong-Chan",
+      "Matei, Sorin"
+    ],
+    "year": 2001,
+    "title": "Storytelling neighborhood",
+    "container": "Communication Research",
+    "volume": "28",
+    "issue": "4",
+    "pages": "392-428",
+    "doi": "10.1177/009365001028004003",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref lists Communication Research 28(4), August 2001, pp. 392-428; OpenAlex supplies the abstract: seven residential areas in Los Angeles, multilingual data collection, old and new immigrant communities; the most important factor for belonging was an active and integrated storytelling system involving residents, community organizations and local media. The full text was NOT read; the article may carry a longer subtitle that was not checked."
+    }
+  },
+  "fischer-1975-subcultural-urbanism": {
+    "type": "article",
+    "authors": [
+      "Fischer, Claude S."
+    ],
+    "year": 1975,
+    "title": "Toward a subcultural theory of urbanism",
+    "container": "American Journal of Sociology",
+    "volume": "80",
+    "issue": "6",
+    "pages": "1319-1341",
+    "doi": "10.1086/225993",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref and OpenAlex agree on AJS 80(6), May 1975, pp. 1319-1341. Only the abstract was read: Wirth's (1938) theory had been eclipsed by a perspective denying ecological factors; Fischer's model reintroduces population size but differently: concentration produces a diversity of subcultures, strengthens them and fosters diffusion among them. The article text was NOT read."
+    }
+  },
+  "jerabek-2022-lazarsfeld-methods": {
+    "type": "article",
+    "authors": [
+      "Jeřábek, Hynek"
+    ],
+    "year": 2022,
+    "title": "Paul Lazarsfeld's methodological innovations and their importance today",
+    "container": "International Journal of Communication",
+    "volume": "16",
+    "pages": "636-645",
+    "url": "https://ijoc.org/index.php/ijoc/article/viewFile/18733/3666",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "full-text",
+        "journal-site"
+      ],
+      "date": "2026-09-20",
+      "note": "Open-access PDF read (International Journal of Communication 16 (2022), Forum 636-645; author affiliation Charles University). Used for: Lazarsfeld's model of research combining several quantitative and qualitative methods; the remark that much of the literature treats him as a purely quantitative methodologist; reason analysis as a method that starts qualitative and ends quantitative; his first English methodological paper 'The art of asking why' (1935). The exact article title was taken from the running headers and a search listing; no DOI found."
+    }
+  },
+  "bulmer-1984-chicago-school": {
+    "type": "book",
+    "authors": [
+      "Bulmer, Martin"
+    ],
+    "year": 1984,
+    "title": "The Chicago school of sociology: Institutionalization, diversity, and the rise of sociological research",
+    "publisher": "University of Chicago Press",
+    "place": "Chicago",
+    "edition": "1st ed.",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "publisher-page"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library and the University of Chicago Press page agree (1984, ISBN 9780226080055). The publisher's description was read: from 1915 to 1935 the community of social scientists at Chicago pioneered empirical research and a variety of qualitative and quantitative methods. The book itself was NOT read."
+    }
+  },
+  "goldthorpe-2021-chicago-columbia": {
+    "type": "chapter",
+    "authors": [
+      "Goldthorpe, John H."
+    ],
+    "year": 2021,
+    "title": "From Chicago back to Columbia",
+    "bookTitle": "Pioneers of sociological science: Statistical foundations and the theory of action",
+    "publisher": "Cambridge University Press",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "publisher-page"
+      ],
+      "date": "2026-09-20",
+      "note": "Cambridge Core chapter page read (online 15 February 2021): abstract says the chapter examines Stouffer, Lazarsfeld and Merton and their contributions to survey research; Stouffer led the American Soldier study; Lazarsfeld set up Columbia's Office of Radio Research and worked closely with Merton; together they advanced survey design and middle-range theories (reference groups, cross-pressures, the two-step flow). Only the abstract was read; the chapter's judgments (limits of their theorizing) are not used."
+    }
+  },
+  "uchicago-cflps-finding-aid": {
+    "type": "web",
+    "authors": [
+      "University of Chicago Library, Special Collections Research Center"
+    ],
+    "title": "Guide to the Chicago Foreign Language Press Survey records, 1861-1938",
+    "publisher": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/e/scrc/findingaids/view.php?eadid=ICU.SPCL.CFLPS",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Finding aid read: the Survey was set up in 1936 as an Illinois Works Progress Administration project officially sponsored by the Chicago Public Library (with help from the Newberry Library, Chicago Historical Society and John Crerar Library); about 120,000 typewritten pages translated from newspapers of 22 foreign-language communities, 1861-1938; aim: how and why Chicago developed as it did, especially assimilation and cultural diffusion; ended in October 1941 and was published in 1942; historian Bessie Louise Pierce of the University of Chicago helped direct it."
+    }
+  },
+  "iehs-cflps-teaching": {
+    "type": "web",
+    "authors": [
+      "Illinois Labor History Society / IEHS Online"
+    ],
+    "title": "Keywords in translation: The Chicago Foreign-Language Press Survey as archive for teaching labor history",
+    "publisher": "Illinois Economic History Society (IEHS Online)",
+    "url": "https://iehs.org/keywords-in-translation-the-chicago-foreign-language-press-survey-as-archive-for-teaching-labor-history/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read: Survey begun in fall 1936 under the WPA and the Chicago Public Library; nearly 50,000 articles and about 120,000 typed pages from 22 ethnic newspapers; workers collected, transcribed, translated, categorized and catalogued articles under subject codes; the Newberry Library digitized the archive from 2009 with NEH funding. Publisher name of this page was taken from the site's name and is not further verified."
+    }
+  },
+  "newberry-flps": {
+    "type": "web",
+    "authors": [
+      "Newberry Library"
+    ],
+    "title": "Foreign Language Press Survey (online archive)",
+    "publisher": "Newberry Library",
+    "url": "https://flps.newberry.org/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Site read: the Chicago Public Library Omnibus Project of the Illinois WPA published the Survey in 1942; 120,000 typewritten pages translated from newspapers of 22 foreign-language communities; materials indexed by WPA subject codes with categories such as Attitudes, Contributions and Activities, Assimilation, Representative Individuals. The site gives 1855-1938 as the covered period while the University of Chicago finding aid gives 1861-1938; the lesson uses neither start year."
+    }
+  },
+  "illinois-polish-newspapers": {
+    "type": "web",
+    "authors": [
+      "Illinois Newspaper Project, University of Illinois Library"
+    ],
+    "title": "Chicago's historic Polish-language newspapers",
+    "publisher": "University of Illinois Library",
+    "url": "https://www.library.illinois.edu/illinoisnewspaperproject/chicagos-historic-polish-language-newspapers",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read: the Polish National Alliance moved labour coverage from its weekly Zgoda to its daily Dziennik Zwiazkowy in 1908; the page lists Chicago Polish papers such as Dziennik Chicagoski (1890-1971), Telegraf (1892-1939), Zgoda (1881-) and Dziennik Narodowy (1908-1923). Used only to place Dziennik Zwiazkowy as a Chicago Polish daily."
+    }
+  },
+  "census-gibson-1998-largest-places": {
+    "type": "report",
+    "authors": [
+      "U.S. Census Bureau, Population Division"
+    ],
+    "institution": "U.S. Census Bureau",
+    "year": 1998,
+    "title": "Population of the 100 largest urban places, 1890 to 1930 (detailed tables from Working Paper POP-twps0027)",
+    "publisher": "U.S. Census Bureau",
+    "url": "https://www.census.gov/library/working-papers/1998/demo/POP-twps0027.html",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Working paper page (Population Division Working Paper, June 1998) and its data tables 12-16 read on www2.census.gov: Chicago is ranked second with 1,099,850 (1890), 1,698,575 (1900), 2,185,283 (1910), 2,701,705 (1920) and 3,376,438 (1930). The author's name is not shown in the page metadata that was read, so the Census Bureau is given as institutional author."
+    }
+  },
+  "wbez-2014-native-numbers": {
+    "type": "web",
+    "authors": [
+      "WBEZ Chicago (Curious City)"
+    ],
+    "title": "Native numbers: How many Chicagoans were born in the city?",
+    "publisher": "WBEZ Chicago",
+    "url": "https://www.wbez.org/curious-city/2014/02/10/native-numbers-how-many-chicagoans-were-born-in-the-city",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Article read (it cites census data): from 1890 through 1920 about three-fourths of Chicagoans were immigrants or children of immigrants; in 1930 the peak, about 859,000 foreign-born plus 1.3 million children of immigrants, 65 per cent of the city."
+    }
+  },
+  "americanyawp-industrial-america": {
+    "type": "web",
+    "authors": [
+      "The American Yawp (open textbook)"
+    ],
+    "title": "Life in industrial America (chapter 18)",
+    "publisher": "The American Yawp",
+    "url": "https://www.americanyawp.com/text/18-industrial-america/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Chapter read: 'In 1900, nearly 80 percent of Chicago's population was either foreign-born or the children of foreign-born immigrants.'"
+    }
+  },
+  "uchicago-small-finding-aid": {
+    "type": "web",
+    "authors": [
+      "University of Chicago Library, Special Collections Research Center"
+    ],
+    "title": "Guide to the Albion W. Small papers, 1904-1924",
+    "publisher": "University of Chicago Library",
+    "url": "https://www.lib.uchicago.edu/e/scrc/findingaids/view.php?eadid=ICU.SPCL.SMALL",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Biographical note read: Small was professor and head of the Department of Sociology at the University of Chicago from 1892 ('the first department of its kind'), a founder of the American Journal of Sociology and its editor 1895-1926."
+    }
+  },
+  "encyclopedia-small": {
+    "type": "web",
+    "authors": [
+      "Encyclopedia.com (reference entry)"
+    ],
+    "title": "Albion Woodbury Small",
+    "publisher": "Encyclopedia.com",
+    "url": "https://www.encyclopedia.com/people/social-sciences-and-law/sociology-biographies/albion-woodbury-small",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Entry read: Small established the first sociology department in the United States at the new University of Chicago in 1892 and founded the American Journal of Sociology in 1895, editing it for the next 30 years."
+    }
+  },
+  "ebsco-park": {
+    "type": "web",
+    "authors": [
+      "EBSCO Research Starters"
+    ],
+    "title": "Robert Ezra Park",
+    "publisher": "EBSCO",
+    "url": "https://www.ebsco.com/research-starters/history/robert-ezra-park",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read: born 14 February 1864, Harveyville, Pennsylvania; University of Michigan (philosophy, 1887, studied under John Dewey, who introduced him to the journalist Franklin Ford; they planned a paper called Thought News); newspaper work 1887-1898 in Minneapolis, Detroit, Denver, New York and Chicago; Harvard MA 1899; Berlin, Strasbourg and Heidelberg; Tuskegee as publicist for Booker T. Washington; University of Chicago 1914-1933 (retirement year as given there); later Fisk University, Nashville. It gives 1912 as the end of his Tuskegee work, other sources 1914, so no end year is used."
+    }
+  },
+  "encyclopedia-park-iess": {
+    "type": "web",
+    "authors": [
+      "Encyclopedia.com (International Encyclopedia of the Social Sciences)"
+    ],
+    "title": "Robert E. Park",
+    "publisher": "Encyclopedia.com",
+    "url": "https://www.encyclopedia.com/people/social-sciences-and-law/sociology-biographies/robert-e-park",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Entry read: born 14 February 1864 (Harveyville, Pennsylvania), died 7 February 1944 (Nashville, Tennessee); University of Michigan 1887 (philosophy, under John Dewey); reporter 1887-1898 in Minneapolis, Detroit, Denver, New York and Chicago; Harvard MA 1899; studied in Berlin (Georg Simmel) and Heidelberg; PhD 1904 with the dissertation 'Masse und Publikum'; Tuskegee (publicist for Booker T. Washington); Chicago from 1914; Fisk University 1936-1944. It gives 1929 for the end of his full Chicago tenure while other sources say 1933, so no end year is used."
+    }
+  },
+  "wikipedia-park": {
+    "type": "web",
+    "authors": [
+      "Wikipedia contributors"
+    ],
+    "title": "Robert E. Park",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Robert_E._Park",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Article read (used only where it agrees with the two encyclopaedia entries): born 1864 Harveyville, Pennsylvania, died 1944 Nashville; grew up in Red Wing, Minnesota; journalist 1887-1898 in Detroit, Denver, New York, Chicago and Minneapolis; Harvard MA 1899; 1899-1900 in Berlin with Simmel; PhD Heidelberg 1904 ('Masse und Publikum'); Dewey introduced him to Franklin Ford and Thought News, a paper that was never published; Chicago from 1914."
+    }
+  },
+  "wikipedia-burgess": {
+    "type": "web",
+    "authors": [
+      "Wikipedia contributors"
+    ],
+    "title": "Ernest Burgess",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Ernest_Burgess",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Article read: born 16 May 1886 in Tilbury, Ontario; died 27 December 1966 in Chicago; joined the University of Chicago in 1916; co-author with Park of Introduction to the Science of Sociology (1921) and of The City (1925), which introduced the concentric zone model."
+    }
+  },
+  "encyclopedia-burgess": {
+    "type": "web",
+    "authors": [
+      "Encyclopedia.com (reference entry)"
+    ],
+    "title": "Ernest W. Burgess",
+    "publisher": "Encyclopedia.com",
+    "url": "https://www.encyclopedia.com/people/social-sciences-and-law/sociology-biographies/ernest-w-burgess",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Entry read: born 1886 in Ontario, Canada, died 1966; A.B. Kingfisher College 1908, Ph.D. Chicago 1913; joined Chicago in 1916 as a teacher, professor 1927; Introduction to the Science of Sociology (1921) with Park; also studies of the family; mentions concentric zone theory."
+    }
+  },
+  "encyclopedia-thomas": {
+    "type": "web",
+    "authors": [
+      "Encyclopedia.com (reference entry)"
+    ],
+    "title": "William Isaac Thomas",
+    "publisher": "Encyclopedia.com",
+    "url": "https://www.encyclopedia.com/people/social-sciences-and-law/sociology-biographies/william-isaac-thomas",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Entry read: born 13 August 1863, Russell County, Virginia; died 5 December 1947, Berkeley, California; Chicago sociology department 1894-1918 (Wikipedia gives 1895); The Polish Peasant with Florian Znaniecki (1918-1921 in this entry; Wikipedia 1918-1920); the theorem sentence."
+    }
+  },
+  "wikipedia-thomas": {
+    "type": "web",
+    "authors": [
+      "Wikipedia contributors"
+    ],
+    "title": "W. I. Thomas",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/W._I._Thomas",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Article read: born 13 August 1863 (Russell County, Virginia), died 5 December 1947 (Berkeley); The Child in America (1928, with Dorothy Swaine Thomas) as the first verbatim statement of the theorem; dismissed from Chicago in 1918 (a personal scandal, not used in the lesson). Chicago years differ slightly between sources and are not used."
+    }
+  },
+  "encyclopedia-wirth": {
+    "type": "web",
+    "authors": [
+      "Encyclopedia.com (reference entry)"
+    ],
+    "title": "Louis Wirth",
+    "publisher": "Encyclopedia.com",
+    "url": "https://www.encyclopedia.com/people/social-sciences-and-law/sociology-biographies/louis-wirth",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Entry read: born 28 August 1897 in Gemunden, Germany; died 3 May 1952 in Buffalo, New York; degrees at Chicago (BA 1919, MA 1925, PhD 1926) with Park and Burgess among his teachers; The Ghetto (1928); Urbanism as a Way of Life (1938); president of the American Sociological Association in 1947."
+    }
+  },
+  "wikipedia-wirth": {
+    "type": "web",
+    "authors": [
+      "Wikipedia contributors"
+    ],
+    "title": "Louis Wirth",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Louis_Wirth",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Article read: born 28 August 1897 in Gemunden, died 3 May 1952 in Buffalo; three Chicago degrees; advisers included Park, Burgess and W. I. Thomas; The Ghetto (1928); Urbanism as a Way of Life (AJS 1938); Consensus and Mass Communication (1948; not used because its page range was not verified)."
+    }
+  },
+  "sep-dewey": {
+    "type": "web",
+    "authors": [
+      "Stanford Encyclopedia of Philosophy"
+    ],
+    "title": "John Dewey",
+    "publisher": "Stanford Encyclopedia of Philosophy",
+    "url": "https://plato.stanford.edu/entries/dewey/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Entry read: born 20 October 1859, Burlington, Vermont; died 1 June 1952, New York City; ten years at the University of Chicago (1894-1904) where he founded the Laboratory School; Democracy and Education (1916); The Public and Its Problems (1927); emphasis on communication and collaborative inquiry."
+    }
+  },
+  "wikipedia-dewey": {
+    "type": "web",
+    "authors": [
+      "Wikipedia contributors"
+    ],
+    "title": "John Dewey",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/John_Dewey",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Article read: born 20 October 1859 (Burlington, Vermont), died 1 June 1952 (New York City); University of Michigan faculty 1884-1888 and 1889-1894; University of Chicago 1894-1904; Democracy and Education (1916); The Public and Its Problems (1927) described as a response to Lippmann."
+    }
+  },
+  "encyclopedia-blumer": {
+    "type": "web",
+    "authors": [
+      "Encyclopedia.com (reference entry)"
+    ],
+    "title": "Herbert Blumer",
+    "publisher": "Encyclopedia.com",
+    "url": "https://www.encyclopedia.com/people/social-sciences-and-law/sociology-biographies/herbert-blumer",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Entry read: Blumer (1900-1987, one source 1986), PhD Chicago 1928; in 1937, in an overview article on social psychology in the Schmidt-edited volume Man and Society, he coined the term symbolic interactionism."
+    }
+  },
+  "wikipedia-blumer": {
+    "type": "web",
+    "authors": [
+      "Wikipedia contributors"
+    ],
+    "title": "Herbert Blumer",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Herbert_Blumer",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Article read: born 7 March 1900, died 13 April 1987; PhD at Chicago in 1928; devised the term symbolic interaction in 1937; influenced by G. H. Mead at Chicago; Movies and Conduct (1933, Macmillan); 1956 address 'Sociological analysis and the variable' criticising variable analysis."
+    }
+  },
+  "mki-wisc-trading-enemy-act": {
+    "type": "web",
+    "authors": [
+      "Max Kade Institute for German-American Studies, University of Wisconsin-Madison"
+    ],
+    "title": "The Trading with the Enemy Act of 1917 (Die Abendschule archive item)",
+    "publisher": "Max Kade Institute, University of Wisconsin-Madison",
+    "url": "https://mki.wisc.edu/library-archive/scanned-images-from-the-mki-archives/die-abendschule/the-trading-with-the-enemy-act-of-1917/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read: Act of 6 October 1917; its Section 19 concerned prints, newspapers and publications in foreign languages; the German-language paper Die Abendschule carried a notice that a true translation had been filed with the postmaster, as the Act required."
+    }
+  },
+  "todayinclh-trading-enemy-act": {
+    "type": "web",
+    "authors": [
+      "Today in Civil Liberties History"
+    ],
+    "title": "Trading with the Enemy Act passed - used to censor foreign language press",
+    "publisher": "Today in Civil Liberties History",
+    "url": "https://todayinclh.com/?event=trading-with-the-enemy-act-passed",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read: the Act gave the government power to review articles about the war published in foreign languages and to censor or prohibit their publication; publications were censored when the Post Office declared them unmailable."
+    }
+  },
+  "transportgeography-burgess": {
+    "type": "web",
+    "authors": [
+      "The Geography of Transport Systems"
+    ],
+    "title": "The Burgess urban land use model",
+    "publisher": "The Geography of Transport Systems (Hofstra University / J.-P. Rodrigue)",
+    "url": "https://transportgeography.org/contents/chapter8/urban-land-use-transportation/burgess-land-use/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read: 1925 model for American cities with rings from the central business district outwards; criticisms given: too simple for its historical and cultural setting, developed for American cities with limited applicability elsewhere, and dated by the separation of workplace and residence that became general later; no named critics. This page lists six rings (including a factory zone), other sources five, so the lesson does not enumerate the rings."
+    }
+  },
+  "kure-chicago-sociology-2025": {
+    "type": "web",
+    "authors": [
+      "Kayık, Birgül"
+    ],
+    "year": 2025,
+    "title": "Chicago Sosyoloji Ekolü",
+    "publisher": "KURE Ansiklopedi",
+    "url": "https://kureansiklopedi.com/tr/detay/chicago-sosyoloji-ekolu-0ead1",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Turkish encyclopaedia entry read for terminology only: 'Chicago Sosyoloji Ekolu' and 'Chicago Okulu' used interchangeably; 'Insan Ekolojisi'; 'sosyal laboratuvar'; a section 'Bir Yasam Bicimi Olarak Kentlilesme' (Wirth 1938). Not used for any factual claim about the school."
+    }
+  },
+  "tr-wikipedia-chicago-okulu": {
+    "type": "web",
+    "authors": [
+      "Vikipedi katkıcıları"
+    ],
+    "title": "Chicago okulu",
+    "publisher": "Vikipedi",
+    "url": "https://tr.wikipedia.org/wiki/Chicago_okulu",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Turkish Wikipedia article read for terminology only: 'Chicago okulu' and 'Sikago okulu'; alternative names 'Ekoloji okulu' and 'Ekolojik okul'; 'Kent sosyolojisi'; 'Niteliksel sosyoloji'."
+    }
+  },
+  "tubitak-chicago-okulu": {
+    "type": "web",
+    "authors": [
+      "Arlı, Alim"
+    ],
+    "title": "Chicago Okulu",
+    "publisher": "TUBITAK Ansiklopedi",
+    "url": "https://ansiklopedi.tubitak.gov.tr/ansiklopedi/chicago_okulu",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Turkish encyclopaedia entry read: 'Chicago Okulu'; Park and W. I. Thomas as pioneers; Park at Chicago from 1914 with the school's research peak 1915-1935; the 1892 department described as America's first sociology department; 'Insan Ekolojisi'. Used for terminology and as a second reading of the 1915-1935 dates."
+    }
+  },
+  "wikipedia-chicago-school": {
+    "type": "web",
+    "authors": [
+      "Wikipedia contributors"
+    ],
+    "title": "Chicago school (sociology)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Chicago_school_(sociology)",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Article read (used together with the publisher's description of Bulmer 1984): the department is dated to 1892; the 'golden age' 1915-1935; first-wave figures include Burgess, Park, W. I. Thomas, Wirth and Znaniecki; landmark works The Polish Peasant (1918) and The City (1925); the school combined ecological theory with ethnographic fieldwork, spot maps of where specific behaviours occurred and statistical analyses; it also mentions criticisms of an 'overly empiricist and idealized approach'. Used only for the spot-map and statistics remark."
+    }
+  }
+}

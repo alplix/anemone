@@ -1,0 +1,17 @@
+{
+  "id": "human-ecology",
+  "family": "society",
+  "introducedBy": [],
+  "related": [
+    "chicago-school",
+    "urbanism",
+    "social-laboratory"
+  ],
+  "sources": [
+    "park-1936-human-ecology",
+    "park-burgess-1921-intro-sociology",
+    "park-burgess-1925-the-city",
+    "wirth-1938-urbanism",
+    "transportgeography-burgess"
+  ]
+}

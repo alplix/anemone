@@ -1,0 +1,22 @@
+{
+  "id": "wirth",
+  "lang": "tr",
+  "name": "Louis Wirth",
+  "nativeName": "",
+  "slug": "louis-wirth",
+  "short": "Alman doğumlu Amerikalı sosyolog (1897–1952); kenti “büyük, yoğun ve farklılaşmış nüfusun yaşam biçimi” olarak tanımlayan 1938 makalesiyle anılır.",
+  "born": "Gemünden, Almanya",
+  "died": "Buffalo, New York, ABD",
+  "roles": [
+    "sosyolog",
+    "kent sosyoloğu"
+  ],
+  "bio": "Louis Wirth, 28 Ağustos 1897’de Almanya’nın Gemünden kasabasında doğdu ve 3 Mayıs 1952’de New York’un Buffalo kentinde öldü. Chicago Üniversitesi’nde lisans (1919), yüksek lisans (1925) ve doktora (1926) yaptı; hocaları arasında Robert Park, Ernest Burgess ve W. I. Thomas vardı. Doktora çalışması *The Ghetto* (1928), Yahudi göçmenlerin kent yaşamına uyumunu inceler.\n\nEn bilinen yazısı, *American Journal of Sociology*’de yayımlanan “Urbanism as a Way of Life” (1938) makalesidir. Wirth kenti, görece büyük, yoğun, kalıcı ve toplumsal olarak farklılaşmış bireylerin yerleşimi diye tanımlar ve kentliliği bu üç ölçütten türetir. Makale, medyaya da değinir: okulların, sinemanın, radyonun ve gazetelerin kitlesel bir kitleye seslendikleri için düzleştirici etki yaptığını, kentteki kitlelerin ise iletişim araçlarını uzaktan denetleyenlerce sembollerle yönlendirilebildiğini yazar. 1948’de *American Sociological Review*’de “Consensus and Mass Communication” başlıklı bir yazı yayımladı. 1947’de Amerikan Sosyoloji Derneği’nin başkanı, sonra Uluslararası Sosyoloji Derneği’nin ilk başkanı oldu.\n\nWirth’in kenti, Park’ın umutlu haber düşüncesine bir karşı ton getirir: kentin medyası hem bağ kurar hem yönlendirir.",
+  "works": [
+    {
+      "bib": "wirth-1938-urbanism",
+      "note": "Kentliliği büyüklük, yoğunluk ve farklılaşma üzerinden kuran makale."
+    }
+  ],
+  "inCourse": "Bu derste kentlilik kuramı ve medya kaygısıyla geçer. [[lesson:chicago-school]]"
+}

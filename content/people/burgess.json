@@ -1,0 +1,17 @@
+{
+  "id": "burgess",
+  "born": {
+    "year": 1886
+  },
+  "died": {
+    "year": 1966
+  },
+  "sources": [
+    "wikipedia-burgess",
+    "encyclopedia-burgess"
+  ],
+  "works": [
+    "park-burgess-1921-intro-sociology",
+    "park-burgess-1925-the-city"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "id": "dewey",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "name": "John Dewey",
+  "nativeName": "",
+  "slug": "john-dewey",
+  "short": "American philosopher and educator (1859–1952), a pioneer of pragmatism. His view of communication as the constitutive element of community influenced Park and the Chicago School.",
+  "born": "Burlington, Vermont, USA",
+  "died": "New York, USA",
+  "roles": [
+    "philosopher",
+    "educator"
+  ],
+  "bio": "John Dewey was born on 20 October 1859 in Burlington, Vermont, and died on 1 June 1952 in New York. He taught at the University of Michigan and was one of the teachers of the young Robert Park. From 1894 to 1904 he headed the philosophy department at the University of Chicago and founded the experimental Laboratory School. With William James and Charles Sanders Peirce he is counted among the pioneers of American pragmatism.\n\nIn *Democracy and Education* (1916) he wrote that society exists “in” transmission and communication, and that there is more than a verbal tie between the words common, community and communication. Park and Burgess took this passage into their 1921 textbook. In *The Public and Its Problems* (1927) he carried the idea into politics: unless the “Great Society” of the industrial age becomes a “Great Community”, the public remains in eclipse, and only communication can bring that about. The book also reflects on news and openly acknowledges his debt to Walter Lippmann.\n\nDewey had left Chicago in 1904, while Park arrived in 1914. Their link is therefore personal and intellectual: Park was Dewey’s student at Michigan and planned a newspaper with Franklin Ford, whom Dewey had introduced to him.",
+  "works": [
+    {
+      "bib": "dewey-1916-democracy-education",
+      "note": "Society exists in communication; common–community–communication."
+    },
+    {
+      "bib": "dewey-1927-public-problems",
+      "note": "The “Great Society” and the “Great Community”; the political role of communication."
+    }
+  ],
+  "inCourse": "Appears in this lesson as the philosophical source of the Chicago School’s thinking on communication. [[lesson:chicago-school]]"
+}

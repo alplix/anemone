@@ -1,0 +1,690 @@
+{
+  "id": "chicago-school",
+  "lang": "tr",
+  "translation": {
+    "status": "source",
+    "date": "2026-09-20"
+  },
+  "title": "Chicago Okulu ve İletişim",
+  "slug": "chicago-okulu",
+  "description": "Park’ın göçmen basını ve “haber bir bilgi biçimidir” fikri, Thomas teoremi, Wirth ve Dewey: Chicago Okulu’nun kent ve iletişim düşüncesi.",
+  "claim": "Chicago Okulu’na göre toplum, ortak olan şeylerin iletişimle kurulmasıyla var olur: kent bu sürecin laboratuvarı, haber ve göçmen basını onun aracıdır; insanların durumu nasıl tanımladığı (Thomas teoremi) davranışı belirler, ama okulun kavramları kendi tarihsel bağlamında ve sınırlarıyla okunmalıdır.",
+  "keywords": [
+    "Chicago Okulu",
+    "Robert Park",
+    "göçmen basını",
+    "bilgi biçimi olarak haber",
+    "Thomas teoremi",
+    "durumun tanımı",
+    "insan ekolojisi",
+    "Burgess",
+    "Wirth",
+    "kentlilik",
+    "Dewey",
+    "sosyal laboratuvar"
+  ],
+  "updated": "2026-09-20",
+  "timeline": {
+    "small-department": "Albion Small, Chicago’da ABD’nin ilk sosyoloji bölümünü kurar",
+    "park-city": "Park, “Şehir” makalesi: kent bir laboratuvar",
+    "dewey-democracy": "Dewey, Democracy and Education: toplum iletişimin içinde vardır",
+    "polish-peasant": "Thomas ve Znaniecki, The Polish Peasant: mektuplar veri olur",
+    "intro-sociology": "Park ve Burgess, Introduction to the Science of Sociology",
+    "immigrant-press": "Park, The Immigrant Press and Its Control",
+    "natural-history": "Park, “The Natural History of the Newspaper”",
+    "the-city": "Park ve Burgess, The City: halka modeli",
+    "dewey-public": "Dewey, The Public and Its Problems",
+    "child-in-america": "Thomas ve Thomas, The Child in America: Thomas teoremi",
+    "wirth-urbanism": "Wirth, “Urbanism as a Way of Life”",
+    "park-news": "Park, “News as a Form of Knowledge”",
+    "merton-prophecy": "Merton, “The Self-Fulfilling Prophecy”: teoremin adı ve banka benzetmesi",
+    "blumer-variable": "Blumer, “Sociological Analysis and the Variable”"
+  },
+  "cards": [
+    {
+      "id": "ctx-cigarette",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "Memlekette sigara kâğıdı, Amerika’da abonelik",
+      "body": "Haziran 1919. New York’ta çıkan Rusça bir gazetenin, *Russkoye Slovo*’nun editörü Mark Villchur, okurlarına yönelttiği bir anketin sonuçlarını yayımlıyor. Soru basit: eski ülkede gazete okuyor muydun? Gelen 312 yanıttan yalnızca 16’sı “düzenli” diyor. On kişi ara sıra köyün idari merkezinde gazete karıştırmış, on iki kişi haftalık bir dergiye abone olmuş. Amerika’da ise hepsi Rusça gazetelere abone ya da okur. [[cite:park-1923-natural-history-newspaper]]\n\nBazı yanıtlar daha da renkli: Grodno, Minsk ve Volhynia taraflarından gelenler, memlekette gazeteyi sigara kâğıdı olarak kullandıklarını, burada ise düzenli okur olduklarını yazıyor. Kâğıt aynı kâğıt, iş değişmiş. Okurların dörtte biri bir de İngilizce Amerikan gazetelerine göz atıyor; kimi “beş sözcükten birini anlıyorum” diyor, kimi yalnızca manşetleri okuyor, çünkü manşetler kolay anlaşılıyor. [[cite:park-1922-immigrant-press]]\n\nSosyolog [[person:park|Robert Park]] bu anketi hem 1922 tarihli kitabında hem 1923 tarihli makalesinde kullandı. Bizim okumamız: şaşırtıcı bir olguyu gösterdiği için; insanlar yeni bir ülkeye gelince okumayı bırakmıyor, tersine başlıyor. Park’ın açıklaması kısa: haber, yeni bir çevreye uyum sağlamaya çalışan insanın kullandığı acil bir bilgidir; Amerika’da öğrenilecek, alışkanlık değiştirilecek çok şey vardı. [[cite:park-1922-immigrant-press]] Bu ders, o fikrin ve onu doğuran okulun hikâyesi.",
+      "question": {
+        "id": "ctx-cigarette-q",
+        "type": "mcq",
+        "prompt": "Park’a göre, göçmenlerin memlekette okumadıkları gazeteleri Amerika’da okumaya başlamasının en iyi açıklaması hangisidir?",
+        "options": [
+          "Amerikan gazeteleri memleketteki gazetelerden çok daha ucuzdu.",
+          "Yeni ve hızla değişen bir ortamda uyum sağlamak için sürekli taze, acil bilgiye ihtiyaç duyuyorlardı.",
+          "Devlet daireleri göçmenleri gazete okumaya zorunlu tutuyordu.",
+          "Yalnızca boş zamanlarını eğlenceli okumalarla doldurmak istiyorlardı."
+        ],
+        "answer": 1,
+        "explain": "Park’ın ölçütü uyumdur: haber, yeni bir çevrede alışkanlık değiştirirken ve yeni görüş edinirken kullanılan acil bilgidir. Fiyat gerekçesi Park’ın metninde yok; devletin zorunlu tutması da yok (tersine, kitabın ilerleyen bölümleri devletin basını denetlemeye çalışmasını anlatır). “Yalnızca eğlence” ise pratik ihtiyacı yok sayıyor. Vatan özlemi de Park’ın listesinde geçer ama “neden Amerika’da daha çok okunuyor?” sorusunun asıl yanıtı, öğrenilecek çok şey olmasıdır."
+      }
+    },
+    {
+      "id": "ctx-chicago",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "Bir milyondan üç milyona: sokağa çıkan sosyoloji",
+      "body": "1890 sayımında Chicago, ABD’nin ikinci büyük kentiydi: 1.099.850 kişi. 1930 sayımında 3.376.438. [[cite:census-gibson-1998-largest-places]] Kırk yılda üç kattan fazla. Üstelik 1890’dan 1920’ye Chicagoluların yaklaşık dörtte üçü ya göçmendi ya da göçmen çocuğuydu; 1900’de oran yüzde 80’e yaklaşıyordu. [[cite:wbez-2014-native-numbers]] [[cite:americanyawp-industrial-america]] Göçmen nüfus 1930’da zirveye çıktı: yaklaşık 859 bin yabancı doğumlu ile 1,3 milyon göçmen çocuğu, yani kentin yüzde 65’i. [[cite:wbez-2014-native-numbers]] Kentin gazeteleri de buna uygundu: sonradan yapılan bir tarama, Çek, Leh, Litvan, Norveç, Rus, İsveç ve daha nice topluluğun gazetesinden çeviri topladı. [[cite:iehs-cflps-teaching]]\n\nBu kentte, 1892’de, Albion Small ABD’nin ilk sosyoloji bölümünü kurdu; 1895’te *American Journal of Sociology* dergisini çıkardı. [[cite:uchicago-small-finding-aid]] [[cite:encyclopedia-small]] Yaklaşık 1915’ten 1935’e uzanan dönemde Chicago’daki sosyal bilimciler ampirik araştırmayı ve çeşitli nitel ve nicel yöntemleri öncülediler; bugün buna “Chicago Okulu” diyoruz. [[cite:bulmer-1984-chicago-school]]\n\nBizim yorumumuz: hızla büyüyen, bu kadar çok dilin konuşulduğu bir kent, “toplumu bir arada tutan nedir?” sorusunu kitap sayfalarından sokağa taşıyordu. Bu dersin sorusu da şu: Chicago’daki sosyologlar bu sorunun cevabında neden hep “iletişim”e vardı?",
+      "question": {
+        "id": "ctx-chicago-q",
+        "type": "tf",
+        "prompt": "Doğru mu yanlış mı: Chicago Okulu araştırmacıları yalnızca nitel gözleme dayanır, haritalardan ve istatistikten hiç yararlanmazdı.",
+        "answer": false,
+        "explain": "Yanlış. Chicago’nun 1915–1935 dönemi, ampirik araştırmanın çeşitli nitel ve nicel yöntemleriyle anılır; yaşam öyküleri ve saha gözlemi yanında haritalar ve istatistiksel çözümlemeler de vardı. “Chicago = nitel” kalıbı sınavda cazip bir kısaltmadır ama fazla kabadır; derin kartlardaki Chicago–Columbia tartışması bunu açar."
+      }
+    },
+    {
+      "id": "people-cast",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "text",
+      "title": "Bu derste karşılaşacağın isimler ve yıllar",
+      "body": "Yıl ezberlemek yerine “kim hangi soruya cevap veriyor?” diye oku; yine de iskelet şu:\n\n- **1892 – Albion Small:** Chicago’da ABD’nin ilk sosyoloji bölümü. [[cite:uchicago-small-finding-aid]]\n- **1915 – [[person:park|Robert Park]]:** “Şehir” makalesi; kent bir “laboratuvar”. [[cite:park-1915-city-suggestions]]\n- **1916 – [[person:dewey|John Dewey]]:** *Democracy and Education*; toplum iletişimin içinde vardır. [[cite:dewey-1916-democracy-education]]\n- **1918–1920 – [[person:thomas|W. I. Thomas]] ve Florian Znaniecki:** *The Polish Peasant in Europe and America*; göçmen mektupları veri olarak. [[cite:thomas-znaniecki-1918-polish-peasant]]\n- **1921 – Park ve [[person:burgess|Ernest Burgess]]:** *Introduction to the Science of Sociology* ders kitabı. [[cite:park-burgess-1921-intro-sociology]]\n- **1922 – Park:** *The Immigrant Press and Its Control*. [[cite:park-1922-immigrant-press]]\n- **1923 – Park:** “The Natural History of the Newspaper”. [[cite:park-1923-natural-history-newspaper]]\n- **1925 – Park ve Burgess:** *The City*. [[cite:park-burgess-1925-the-city]]\n- **1927 – Dewey:** *The Public and Its Problems*. [[cite:dewey-1927-public-problems]]\n- **1928 – Thomas ve Dorothy Swaine Thomas:** *The Child in America*; “durumun tanımı” teoremi. [[cite:thomas-thomas-1928-child-in-america]]\n- **1938 – [[person:wirth|Louis Wirth]]:** “Urbanism as a Way of Life”. [[cite:wirth-1938-urbanism]]\n- **1940 – Park:** “News as a Form of Knowledge”. [[cite:park-1940-news-knowledge]]\n\nSıra hikâyeyi de anlatır: önce kent ve göçmen sorusu (Thomas, Park), sonra bu sorunun iletişim yanı (basın, haber), en sonra kentin kendi kuramı (Burgess, Wirth).",
+      "question": {
+        "id": "people-cast-q",
+        "type": "mcq",
+        "prompt": "Aşağıdaki eşleşmelerden hangisi doğrudur?",
+        "options": [
+          "Park, 1918: *The Polish Peasant in Europe and America*",
+          "Dewey, 1922: *The Immigrant Press and Its Control*",
+          "Wirth, 1938: “Urbanism as a Way of Life”",
+          "Thomas, 1940: “News as a Form of Knowledge”"
+        ],
+        "answer": 2,
+        "explain": "Wirth’in kent makalesi 1938 tarihlidir. En sık karışan çift Park ile Thomas’tır: *The Polish Peasant* Thomas ve Znaniecki’nin, *The Immigrant Press* ise Park’ın eseridir; ikisinde de “göçmen” geçtiği için karışır. Dewey filozoftur ve göçmen basını kitabını yazmadı; “Haber bir bilgi biçimidir” makalesi de Park’ındır."
+      }
+    },
+    {
+      "id": "people-letters",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "story",
+      "title": "“Mektuplarınızı gönderin”: mektup başına 10–20 sent",
+      "body": "1914. Lehçe günlüklerden *Dziennik Związkowy*’de garip bir ilan çıkıyor: eski ülkeden gelmiş mektupları olan herkes bunları ilan sahibine göndersin; amaç, Leh halkının doğasını göstermek. Mektup başına 10 ila 20 sent ödenecek, mektuplar geri verilecek. (*Dziennik Związkowy*, Polonya Ulusal İttifakı’nın günlük gazetesiydi. [[cite:illinois-polish-newspapers]])\n\nİlanı okuyanlardan biri, yüzden fazla mektubu olan bir göçmen, temkinli bir cevap yazıyor: ödül gerçekten var mı, mektupları geri alacak mı? Yazışmalar onun için değerli; savaş bitince memlekette bir çiftlik ve para bekliyor. “Bana bir güvence gönderin,” diyor. İki hafta sonraki mektubunda ise “cömertliğinize güveniyorum” yazıp mektupları yolluyor. [[cite:thomas-znaniecki-1918-polish-peasant]]\n\nİlanın sahipleri [[person:thomas|W. I. Thomas]] ve Florian Znaniecki’ydi; ortaya *The Polish Peasant in Europe and America* çıktı. Kitapta mektup dizileri var; birinde memlekette yaşayan biri, artık gazeteler sansürsüz çıktığı için daha doğru yazdığını söyleyip Lehçe bir haftalığa, *Gazeta Świąteczna*’ya abone olmayı öğütlüyor. [[cite:thomas-znaniecki-1918-polish-peasant]] Yani gazete, verinin içinde de var.\n\nSosyoloji için bu bir eşikti: yalnızca sayımlar ve kuramlar değil, sıradan insanların kendi sözcükleriyle yazdığı belgeler de veri sayılıyordu. Bir Türkçe ansiklopedi maddesi, bu çalışmanın Amerikan sosyolojisinde nitel araştırma yöntemlerinin temelini attığını söyler. [[cite:tubitak-chicago-okulu]]",
+      "question": {
+        "id": "people-letters-q",
+        "type": "mcq",
+        "prompt": "Thomas ve Znaniecki’nin ilanla göçmen mektupları toplamasının yöntemsel anlamı en iyi hangisidir?",
+        "options": [
+          "Göçmenleri sayarak nüfus istatistiği çıkarmak.",
+          "Gazete ilanının okurları ikna gücünü ölçmek.",
+          "Mektuplardaki yazım hatalarını sınıflandırmak.",
+          "Göçmenlerin ne yaşadığını ve olayları nasıl gördüğünü, onların kendi yazdığı belgelerden okumak."
+        ],
+        "answer": 3,
+        "explain": "Amaç, insanların kendi durumlarını kendi sözcükleriyle nasıl anlattığını görmekti; ilan yalnızca veriye ulaşmanın yoluydu. Sayım tuzağı cazip çünkü sosyoloji sayarak da çalışır; ama burada veri sayı değil kişisel belgeydi. İlanın ikna gücü ise araştırma konusu değil, araçtı."
+      }
+    },
+    {
+      "id": "deep-park-bio",
+      "section": "people-time",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Muhabir Park’ın rotası",
+      "body": "Robert Ezra Park, 14 Şubat 1864’te Pennsylvania’nın Harveyville kasabasında doğdu; büyüdüğü yer, ailesinin taşındığı Minnesota’nın Red Wing kentiydi. [[cite:wikipedia-park]] Michigan Üniversitesi’nde felsefe okudu; hocalarından biri John Dewey’di. [[cite:ebsco-park]] [[cite:encyclopedia-park-iess]]\n\n1887’den 1898’e kadar gazetecilik yaptı: Minneapolis, Detroit, Denver, New York ve Chicago gazetelerinde polis haberleri, genel görevler ve yazılar. [[cite:wikipedia-park]] Bir kaynak, ısrarla peşine düştüğü haberlerle ve yeraltı dünyasını yazmasıyla tanındığını söyler. [[cite:ebsco-park]] Sonra akademiye döndü: 1899’da Harvard’da yüksek lisansını bitirdi; Berlin’de Georg Simmel’in derslerine girdi; 1904’te Heidelberg’de *Masse und Publikum* (Kalabalık ve Kamu) başlıklı tezle doktora yaptı. [[cite:encyclopedia-park-iess]] [[cite:wikipedia-park]] Bizim yorumumuz: 1921 ders kitabının “Kollektif Davranış” bölümünde de “kalabalık ve kamu” başlıklı bir kısım bulunması, [[cite:park-burgess-1921-intro-sociology]] gazeteci Park için “kamu” ve “haber”in hiç yabancı kavramlar olmadığını düşündürür.\n\nSonra Tuskegee Enstitüsü’nde Booker T. Washington’ın yanında halkla ilişkiler işine girdi. [[cite:ebsco-park]] 1914’te Chicago Üniversitesi sosyoloji bölümüne katıldı; [[cite:encyclopedia-park-iess]] kenti araştırma laboratuvarı olarak kullanan “insan ekolojisi” yaklaşımını geliştirdi. [[cite:ebsco-park]] Chicago’dan ayrıldıktan sonra Nashville’de Fisk Üniversitesi’nde ders verdi ve 1944’te orada öldü. [[cite:encyclopedia-park-iess]]\n\nNot: kaynaklar Park’ın Tuskegee ve Chicago görevinin bitiş yıllarında birbirini tutmuyor; bu yüzden bu iki yılı yazmadık."
+    },
+    {
+      "id": "claim-core",
+      "section": "claim",
+      "layer": "core",
+      "kind": "text",
+      "title": "Temel iddia: toplum iletişimin içinde vardır",
+      "body": "Chicago Okulu’nun iletişim düşüncesini tek cümleye sıkıştırmak gerekirse: toplum, insanların bir şeyi ortak kılmasıyla mümkündür; ortak kılmanın yolu da iletişimdir. Yani iletişim, toplumun sonradan eklenen bir aracı değil, toplumun kendisidir. [[cite:dewey-1916-democracy-education]] [[cite:park-burgess-1921-intro-sociology]]\n\n[[person:park|Park]] bunu iki gücün dengesi olarak anlattı. Rekabet insanları birbirinden ayırır: düzenli bir dağılım ve iş bölümü getirir, bireyleşmeyi artırır. İletişim ise anlayış ve kültürel dayanışma kurar, bütünleştirir. İkisi birbirini tamamlar. [[cite:park-1938-communication-culture]] Bizim yorumumuz: kent bu iki gücün en görünür olduğu yerlerden biridir; kentin gazetesi de iletişimin en görünür aracıdır. Park 1915’te gazeteyi kentin içindeki büyük iletişim aracı sayar ve kamuoyunun gazetenin verdiği bilgi üzerine kurulduğunu yazar. [[cite:park-1915-city-suggestions]]\n\nÜç fikri aklında tut:\n\n1. **Toplum = ortak dünya.** Ortak dil, ortak haber, ortak dikkat olmadan “biz” kurulmaz.\n2. **Kent = laboratuvar.** Toplumsal süreçler orada büyütülmüş görünür, bu yüzden orada çalışılır.\n3. **Haber = bir bilgi biçimi.** Tanışıklıkla resmî bilgi arasında, kendi kuralları olan bir bilgi türü.\n\nBu iddialı cümlenin nasıl işlediğini, nerede zorlandığını ve kimlerce eleştirildiğini sırayla göreceğiz.",
+      "question": {
+        "id": "claim-core-q",
+        "type": "mcq",
+        "prompt": "Park’ın rekabet–iletişim ayrımına göre aşağıdakilerden hangisi “bütünleştirici” işleve örnektir?",
+        "options": [
+          "Semtteki iki manavın müşteri çekmek için fiyat kırması",
+          "Bir mahalle sakinlerinin ortak bir derdi (örneğin su kesintisini) birbirine duyurup aynı bilgiye sahip olması",
+          "Bir fabrikada işlerin uzmanlıklara bölünmesi",
+          "Kira bedellerinin şehir merkezinden uzaklaştıkça düşmesi"
+        ],
+        "answer": 1,
+        "explain": "Park’a göre iletişim, insanlar ve topluluklar arasında anlayış ve dayanışma kurar; ortak bilgiye sahip olmak bunun tipik örneğidir. Fiyat kırmak rekabettir; iş bölümü ve mekânsal dağılım da Park’ın rekabete bağladığı, ayrıştırıcı yandır. Cazip yanlış, iş bölümüdür: onu “toplumsal düzen” sanıp iletişimle karıştırmak kolay, ama Park onu iletişimin değil rekabetin ürünü sayar."
+      }
+    },
+    {
+      "id": "claim-city",
+      "section": "claim",
+      "layer": "core",
+      "kind": "text",
+      "title": "Şehir laboratuvarı: neden şehir?",
+      "body": "Park’ın 1915 tarihli “Şehir” makalesinin son cümleleri, Chicago Okulu’nun sloganına en yakın metindir. Büyük bir kent, küçük topluluklarda genellikle örtülü kalan ve bastırılan nitelikleri kitlesel biçimde ortaya döker: insan doğasındaki iyiyi de kötüyü de “fazlasıyla” gösterir. Park’a göre bu, kenti insan doğasının ve toplumsal süreçlerin en elverişli biçimde incelenebileceği bir “laboratuvar ya da klinik” sayan görüşü haklı çıkarır. [[cite:park-1915-city-suggestions]]\n\nBuradaki laboratuvar, sıkı denetimli bir deney odası değil. Bizim okumamız şu: kent her şeyi görünür kılıyor, gözlemci de sokağa, mahalleye, gazeteye gidip bakabiliyor. Nitekim Park aynı makalede araştırmacıya soru listeleri verir; örneğin bir mahallede “haber nedir?”, dikkat genel olarak neye yöneliyor, hangi örnekler alınıyor? [[cite:park-1915-city-suggestions]] Bu soruların ikisi de iletişimle ilgili: haber ve dikkat, bir topluluğun ortak dünyasının işaretleridir.\n\nAynı 1915 makalesi göçmenleri, toplumsal hareketliliği, kamuoyunu ve basını da tek çerçeveye alır; yani “kent” burada yalnızca binalar değil, insanların birbirine haber verme biçimidir. Bu yüzden ders başlığındaki “iletişim” sonradan eklenmiş bir vurgu değil: en azından Park’ın elinde, kent sosyolojisi baştan beri iletişim sosyolojisidir.",
+      "question": {
+        "id": "claim-city-q",
+        "type": "tf",
+        "prompt": "Doğru mu yanlış mı: Park’ın “kent bir laboratuvardır” benzetmesi, araştırmacının kenti kontrollü deneylerle yeniden kurması gerektiği anlamına gelir.",
+        "answer": false,
+        "explain": "Yanlış. Park kenti, insan doğasının ve toplumsal süreçlerin en elverişli biçimde incelenebileceği bir yer olarak görür: kent özellikleri büyütüp görünür kıldığı için gözlem yapmak kolaylaşır. Ondan çıkan yöntem deney değil, saha gözlemi ve sorularla mahalleyi okumaktır."
+      }
+    },
+    {
+      "id": "concepts-glossary",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Kavramlar sözlüğü",
+      "body": "- **[[concept:chicago-school|Chicago Okulu]]:** 1915–1935 arasında Chicago Üniversitesi’nde kent, göç ve toplumsal düzen üzerine ampirik araştırma yapan sosyolog topluluğu. [[cite:bulmer-1984-chicago-school]]\n- **[[concept:human-ecology|İnsan ekolojisi]]:** bitki ve hayvan topluluklarını çözümlemek için kullanılan bakışı insan ilişkilerine uygulamak; rekabet düzeni kurar, kültürel düzen bu rekabeti sınırlar. [[cite:park-1936-human-ecology]]\n- **[[concept:social-laboratory|Sosyal laboratuvar]]:** kentin, toplumsal süreçlerin büyütülmüş biçimde gözlenebildiği yer olarak görülmesi. [[cite:park-1915-city-suggestions]]\n- **[[concept:thomas-theorem|Thomas teoremi]]:** insanlar bir durumu gerçek olarak tanımlarsa, durum sonuçları bakımından gerçektir. [[cite:thomas-thomas-1928-child-in-america]]\n- **[[concept:urbanism|Kentlilik]]:** Wirth’e göre görece büyük, yoğun, kalıcı ve toplumsal olarak farklılaşmış bireylerin yerleşimine özgü yaşam biçimi. [[cite:wirth-1938-urbanism]]\n- **[[concept:immigrant-press|Göçmen basını]]:** göçmenlerin kendi dillerinde çıkardığı gazeteler ve dergiler; Park’ın incelediği konu. [[cite:park-1922-immigrant-press]]\n- **[[concept:news-as-knowledge|Bilgi biçimi olarak haber]]:** haberi, tanışıklık ile resmî bilgi arasındaki sürekliliğin üzerinde, geçici ve konuşma doğuran bir bilgi türü sayan Park fikri. [[cite:park-1940-news-knowledge]]\n- **[[concept:public-opinion|Kamuoyu]]:** Park’a göre kentte gazetenin verdiği bilgi üzerine kurulan ortak kanaat. [[cite:park-1915-city-suggestions]]\n\nBu sözlüğün çoğu, ilerleyen kartlarda birer örnekle canlanacak.",
+      "question": {
+        "id": "concepts-glossary-q",
+        "type": "match",
+        "prompt": "Kavramları tanımlarıyla eşleştir.",
+        "pairs": [
+          [
+            "İnsan ekolojisi",
+            "Bitki ve hayvan topluluklarına uygulanan çözümlemeyi insan ilişkilerine uygulamak"
+          ],
+          [
+            "Thomas teoremi",
+            "İnsanlar bir durumu gerçek saydığında, sonuçları da gerçek olur"
+          ],
+          [
+            "Kentlilik (Wirth)",
+            "Büyük, yoğun, farklılaşmış bir nüfusun kalıcı yerleşimine özgü yaşam biçimi"
+          ],
+          [
+            "Bilgi biçimi olarak haber",
+            "Geçici, insanları konuşturan ve olayları konu alan bilgi türü"
+          ]
+        ],
+        "explain": "Eşleşmelerin karıştığı yer genellikle Thomas teoremi ile “bilgi biçimi olarak haber”dir: biri kişinin durumu nasıl tanımladığıyla, öteki bilginin türüyle ilgilidir. İnsan ekolojisi rekabet ve mekân, kentlilik ise büyüklük, yoğunluk ve farklılaşma üzerinden düşünür."
+      }
+    },
+    {
+      "id": "concepts-thomas",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "story",
+      "title": "Dannemora’nın gardiyanı ve bir cümle",
+      "body": "Yıl 1928. William I. Thomas ve Dorothy Swaine Thomas, çocuk davranışını konu alan kalın bir kitabın (*The Child in America*) yöntem bölümünde uç bir örnek veriyor: Dannemora hapishanesinin gardiyanı, mahkemenin bir mahkûmu geçici olarak dışarı çıkarma emrini yerine getirmeyi reddetmiş, çünkü adam çok tehlikeliymiş. Mahkûm, sokakta kendi kendine konuşan birkaç kişiyi öldürmüştü; dudaklarının kıpırdamasından kendisine hakaret ettiklerini sanmış ve buna göre davranmıştı. [[cite:thomas-thomas-1928-child-in-america]]\n\nHemen ardından şu cümle geliyor: insanlar durumları gerçek olarak tanımlarsa, durumlar sonuçları bakımından gerçektir. [[cite:thomas-thomas-1928-child-in-america]] [[person:merton|Robert K. Merton]] bu cümleyi sonradan “Thomas teoremi” diye adlandırdı ve onu sosyal bilimler için temel bir teorem saydı. [[cite:merton-1948-self-fulfilling-prophecy]]\n\nNokta şu: gerçekte kimse ona hakaret etmiyordu. Ama davranışı belirleyen “nesnel” durum değil, adamın durumu nasıl tanımladığıydı. Thomas’lar bu yüzden araştırmacının yalnızca doğrulanabilir koşulları değil, kişinin o koşulları nasıl gördüğünü de kaydetmesi gerektiğini savunuyordu; çünkü davranış, çoğu kez kişinin durumu tanımlama biçimine bağlıdır. [[cite:thomas-thomas-1928-child-in-america]]\n\nİletişim dersi için anlamı şu: söylenti, manşet, sohbet gibi şeyler, insanlara “durum”u tanımlatan malzemedir. Onların doğruluğu kadar, insanların onlara nasıl inandığı da sonuç üretir.",
+      "question": {
+        "id": "concepts-thomas-q",
+        "type": "mcq",
+        "prompt": "Hayal et: Bir mahalle grubunda “fırın yarından itibaren ekmek satmayacak” söylentisi yayılıyor. Fırın aslında açık kalacak, ama herkes bu akşam ekmek stokluyor ve fırının ekmeği akşam saatlerinde tükeniyor. Thomas teoremine göre burada ne oldu?",
+        "options": [
+          "Söylenti yalan olduğu için hiçbir sonucu olmadı.",
+          "Fırıncı insanları bilerek manipüle etti.",
+          "İnsanlar durumu (ekmeğin bitmesini) gerçek saydı ve bu tanım gerçek sonuç doğurdu: ekmek gerçekten tükendi.",
+          "Nesnel durum değişmediği için insanların davranışı da değişmedi."
+        ],
+        "answer": 2,
+        "explain": "Teorem, inancın doğru olması gerektiğini söylemez; tersine, doğru olmasa bile insanlar ona göre davrandığında sonuçların gerçek olduğunu söyler. “Söylenti yalan, o hâlde sonuçsuz” ve “nesnel durum değişmedi, o hâlde davranış da değişmez” yanıtları yalnızca nesnel koşulların önemli olduğunu varsayıyor; teoremin çürüttüğü şey de bu. Fırıncıyı suçlamak ise senaryoda olmayan bir kötü kahraman ekliyor."
+      }
+    },
+    {
+      "id": "deep-bank-parable",
+      "section": "concepts",
+      "layer": "deep",
+      "kind": "story",
+      "title": "Derin: Merton’ın banka benzetmesi ve “Thomas öncesi Thomas”",
+      "body": "Merton 1948’de teoremi açıkça bir benzetmeyle canlandırır. Yıl 1932; Last National Bank sağlıklı bir bankadır, başkanı Cartwright Millingville de bununla gurur duyar. Bir sabah bankaya girerken kasa önünde iki düzine kadar adamın sıraya girdiğini görür; sıra giderek uzar. Merton’a göre bu, “bir durumun gerçek olarak tanımlanması”dır: bankanın iflas ettiği söylentisine yeterince mevduat sahibi inanınca, söylenti banka iflasına yol açar. [[cite:merton-1948-self-fulfilling-prophecy]]\n\nDikkat: bu, tarihte yaşanmış belli bir banka değil, Merton’ın kendisinin “sosyolojik bir benzetme” dediği kurgu bir öyküdür; banka da başkanı da uydurmadır. [[cite:merton-1948-self-fulfilling-prophecy]] Merton, benzetmeden şu genel sonucu çıkarır: bir durum hakkındaki kamusal tanımlar (kehanetler, öngörüler) durumun ayrılmaz parçası olur ve sonraki gelişmeleri etkiler. Bu, insan işlerine özgüdür: Halley kuyruklu yıldızının dönüşü hakkındaki öngörü kuyruklu yıldızın yörüngesini değiştirmez; ama bir bankanın iflas edeceği söylentisi banka iflasını doğurabilir. [[cite:merton-1948-self-fulfilling-prophecy]]\n\nİkinci ilginç ayrıntı: Merton, esasen aynı teoremin Thomas’tan çok önce, disiplinli ve gözlem gücü yüksek zihinlerce defalarca ortaya konduğunu da yazar; örnek olarak Bossuet, Mandeville, Marx ve Freud’u sayar. [[cite:merton-1948-self-fulfilling-prophecy]] Bizim yorumumuz: teoremin ünü, fikrin yeniliğinden çok, kısa bir cümleye sığması ve bir isim almasından gelmiş olabilir.\n\nBizim yorumumuz: söylentinin hangi kanaldan yayıldığı (gazete, telefon, sohbet) benzetmenin iletişim yanıdır; kanal, “durumun tanımı”nın kaç kişiye ulaşacağını belirler."
+    },
+    {
+      "id": "assump-dewey",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "text",
+      "title": "Varsayım: ortak olan şeyler iletişimle ortak olur",
+      "body": "Chicago Okulu’nun iletişim fikri, filozof [[person:dewey|John Dewey]]’den geliyordu. Dewey 1916’da şunu yazdı: toplum yalnızca aktarım ve iletişim yoluyla sürmekle kalmaz; aktarımın ve iletişimin içinde vardır (“it may fairly be said to exist in transmission, in communication”). Ardından bir sözcük oyunu: *common* (ortak), *community* (topluluk) ve *communication* (iletişim) arasında yalnızca sözcük düzeyinde bir bağ yoktur; insanlar, ortak sahip oldukları şeyler sayesinde topluluk olur, ortak sahip olmanın yolu da iletişimdir. [[cite:dewey-1916-democracy-education]] (Türkçede bu oyun tutmuyor: “ortak”, “topluluk” ve “iletişim” aynı kökten sözcükler değil.)\n\nPark ve Burgess 1921’de bu pasajı ders kitaplarına aldı ve iletişimi “Dewey’in tanımladığı biçimiyle” ele aldı. [[cite:park-burgess-1921-intro-sociology]] Dewey 1927’de aynı fikri siyasete taşıdı: sanayi ve teknolojinin bağladığı “Büyük Toplum”, “Büyük Topluluk”a dönüşmedikçe kamu tutulma (eclipse) içinde kalır ve yalnızca iletişim bir Büyük Topluluk yaratabilir. [[cite:dewey-1927-public-problems]]\n\nMichigan’da Charles Horton Cooley de 1909’da iletişimi, insan ilişkilerinin var olduğu ve geliştiği düzenek diye tanımlıyor ve buna konuşma ve yazının yanında matbaayı, demiryolunu, telgrafı ve telefonu da katıyordu (bu ders yalnızca işaret ediyor; Cooley başka bir dersin konusu). [[cite:cooley-1909-social-organization]]\n\nBizim okumamız: bu, sonradan [[concept:ritual-view|ritüel görüşü]] denecek fikre akrabadır. İletişim, yalnızca bilgi taşımak değil, ortak bir dünya kurmaktır; ayrıntısı [[lesson:ritual-view]] dersinde.",
+      "question": {
+        "id": "assump-dewey-q",
+        "type": "mcq",
+        "prompt": "Dewey’in *common–community–communication* sözcük oyunundan çıkan asıl iddia hangisidir?",
+        "options": [
+          "İletişim, topluluğun bir sonucudur: önce topluluk kurulur, iletişim sonradan başlar.",
+          "Ortak olan her şey yasal düzenlemelerle sağlanır.",
+          "Bu üç sözcüğün aynı harfle başlaması tesadüf değildir.",
+          "Topluluk, insanların ortak sahip olduğu şeylerle kurulur ve bu ortaklığın yolu iletişimdir."
+        ],
+        "answer": 3,
+        "explain": "Dewey’e göre topluluk ortak amaçlara, inançlara ve bilgiye dayanır; bunları ortak kılan şey iletişimdir. “Önce topluluk, sonra iletişim” cazip bir ters çevirme: Dewey toplumun iletişimin “içinde” var olduğunu söyler, ondan önce değil. Aynı harfle başlama yorumu sözcük oyununu yüzeysel okur; Dewey’in derdi ortak kökün gösterdiği kavramsal ilişkidir."
+      }
+    },
+    {
+      "id": "assump-myth",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "myth",
+      "title": "Efsane: “Göçmen gazetesi göçmeni yabancı tutar”",
+      "body": "**Ne sanılıyor?** Kendi dilinde gazete okuyan göçmen yeni ülkeyi öğrenmez; göçmen basını bir tür “ayrı devlet”tir. Birinci Dünya Savaşı yıllarında bu kuşku yasal bir denetime dönüştü: 6 Ekim 1917 tarihli yasa, savaş ve hükümetle ilgili yabancı dilli yazıların İngilizce çevirisinin postane müdürlüğüne verilmesini şart koştu. [[cite:mki-wisc-trading-enemy-act]] [[cite:todayinclh-trading-enemy-act]]\n\n**Ne söylüyor?** [[person:park|Park]]’ın 1922 kitabı meseleyi “fren mi, gaz pedalı mı?” diye soruyor. Litvanca *Draugas* gazetesinin editörü, yabancı dilli basının cemaatleri ayırıp uyumu engellediğini savunuyor; başka editörler ise gazetenin, özellikle ilk kuşak göçmenin Amerikan ortamında yönünü bulmasına ve entelektüel, siyasal ve toplumsal hayata katılmasına yardım ettiğini söylüyor. [[cite:park-1922-immigrant-press]]\n\nPark’ın kendi varış noktası: bu içeriğe bağlıdır. Basın, içeriğine göre asimilasyonu hızlandırabilir de yavaşlatabilir de; göçmenin ilgisini memlekete çevirebilir, ama Amerika’yı ona tanıtıp sevgi kuracağı malzemeyi de verebilir. [[cite:park-1922-immigrant-press]] Yani basın, tek başına “iyi” ya da “kötü” bir etken değil; ne söylediğine bağlı bir köprü ya da duvar.\n\nBir sınır notu (bizim değerlendirmemiz): Park bu tartışmayı editör görüşleri, anketler ve gözlemlerle aktarıyor; yani bir sayısal etki sınaması değil, betimleyici bir çalışma bu. Ondan “fren” ya da “gaz” yönünde kesin bir ölçüm beklemek yanlış olur; ama dilin kendisinin suçlanmasına karşı iyi bir uyarıdır.",
+      "question": {
+        "id": "assump-myth-q",
+        "type": "mcq",
+        "prompt": "Park’ın 1922 sonucuna en yakın cümle hangisidir?",
+        "options": [
+          "Göçmen basını, her koşulda asimilasyonu engeller.",
+          "Göçmen basını, her koşulda göçmeni Amerikanlaştırır.",
+          "Göçmen basınının etkisi içeriğine bağlıdır: asimilasyonu hızlandırabilir de geciktirebilir de.",
+          "Göçmen basınının hiçbir etkisi yoktur; göçmenler zaten okumaz."
+        ],
+        "answer": 2,
+        "explain": "Park hem “fren” hem “gaz” görüşünü aktarır ve kendi sonucunu içeriğe bağlar. İlk iki seçenek “her koşulda” diyerek aşırıya kaçıyor; dördüncüsü Villchur anketinin gösterdiği yoğun okuma alışkanlığına ters."
+      }
+    },
+    {
+      "id": "deep-thought-news",
+      "section": "assumptions",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Dewey, Park ve hiç çıkmayan gazete",
+      "body": "Dewey ile Park arasındaki bağ yalnızca kitaplardan ibaret değil. Park Michigan’da Dewey’in öğrencisiydi; Dewey onu gazeteci Franklin Ford’la tanıştırdı ve Park ile Ford kamuoyunu haber yapacak bir gazete tasarladı: *Thought News*. Gazete hiç yayımlanmadı. [[cite:ebsco-park]] [[cite:wikipedia-park]]\n\nBir incelik: Dewey Chicago’da 1894–1904 arasında, felsefe bölümünü yönetti ve Laboratuvar Okulu’nu kurdu; [[cite:sep-dewey]] [[cite:wikipedia-dewey]] Park ise Chicago’ya 1914’te geldi. [[cite:encyclopedia-park-iess]] Yani Chicago’da aynı koridoru paylaşmadılar; bağları kişisel ve düşünsel bir bağdı.\n\nDewey’in *The Public and Its Problems* (1927) kitabı haber hakkında da bir şey söyler: haber, yeni olmuş şeydir ve eskiden, alışılmış olandan saptığı için yenidir; ama anlamı, neyi ifade ettiğine ve toplumsal sonuçlarına bağlıdır. [[cite:dewey-1927-public-problems]] Bu, Park’ın 1940’taki “haber ani ve belirleyici değişimleri konu alır” düşüncesine tanıdık gelir (bizim gözlemimiz).\n\nDewey bu kitapta Walter Lippmann’a açıkça borcunu da kaydeder: *Public Opinion* ve *The Phantom Public* kitaplarından yararlandığını yazar. [[cite:dewey-1927-public-problems]] Lippmann’ın *Public Opinion* (1922) kitabı, [[person:lippmann|Lippmann]]’ın “kafamızdaki resimler” fikriyle [[lesson:agenda-setting]] dersinin de başlangıç noktasıdır. [[cite:lippmann-1922]] Yani Chicago’nun iletişim düşüncesi, ilerideki kamuoyu ve gündem tartışmalarıyla aynı düğümde buluşur."
+    },
+    {
+      "id": "how-news-steps",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Haber nasıl bütünleştirir? Beş adım",
+      "body": "Park’ın haber üzerine metinlerini tek bir mekanizmada topladığımızda şöyle bir zincir çıkıyor (sıralama bizim özetimiz):\n\n1. **Küçük dünya.** Köyde yaşam yüz yüze ilişkilere dayanır: konuşma ve komşu dedikodusu. “Köyde herkes herkes hakkında her şeyi bilir.” [[cite:park-1922-immigrant-press]] [[cite:park-burgess-1921-intro-sociology]]\n2. **Kent ve yeni çevre.** Göçmen, sanayi kentinde aniden geniş, tanıdık olmayan bir çevrenin içindedir. Bu çevrede uyum için kullanılan acil bilgiye “haber” denir. [[cite:park-1922-immigrant-press]]\n3. **Ortak zemin olarak gazete.** Gazete kentin içindeki büyük iletişim aracıdır; kamuoyu onun verdiği bilgiye dayanır. Modern gazete kent hayatının ürünüdür. [[cite:park-1915-city-suggestions]] [[cite:park-1923-natural-history-newspaper]]\n4. **Olay seçilir ve konuşulur.** Haber, insanları konuşturacak türden olaylardır; çoğunlukla ani ve belirleyici değişimler getirenlerle sınırlı kalır. [[cite:park-1940-news-knowledge]]\n5. **Ortak anlayış ve katılım.** Haber, mesajı anlaşıldığı ve önemli göründüğü kadar yayılır; yayıldıkça bir toplumun üyeleri ortak siyasal eyleme daha çok katılır. [[cite:park-1938-communication-culture]] [[cite:park-1940-news-knowledge]]\n\nÖzet: Park’ın merceğinde haber, bir “etki” değil bir “bağ” kurar; kent toplumunun ortak dikkatini ve ortak konuşmasını doğuran mekanizmadır (bizim özetimiz).",
+      "question": {
+        "id": "how-news-steps-q",
+        "type": "order",
+        "prompt": "Kartın anlattığı zinciri doğru sıraya diz.",
+        "items": [
+          "Köyde bilgi yüz yüze konuşmayla dolaşır",
+          "Göçmen geniş, yeni bir kent çevresine girer ve acil bilgiye ihtiyaç duyar",
+          "Gazete, kentin ortak iletişim aracı olarak kamuoyunun dayandığı bilgiyi sağlar",
+          "Haber, insanları konuşturacak olayları seçer",
+          "Ortak anlayış yayılır ve ortak eyleme katılım artar"
+        ],
+        "explain": "Zincir, küçük yüz yüze dünyadan kentin geniş çevresine, oradan ortak iletişim aracına, olay seçimine ve en sonda ortak anlayışa gider. Gazeteyi en başa koymak yaygın hata: gazete, kentin yarattığı ihtiyaca yanıt olarak vardır; ihtiyacı o yaratmaz. Ortak anlayışı olay seçiminden önce koymak da ters olur; haber önce seçilir, sonra konuşulur ve anlaşılır."
+      }
+    },
+    {
+      "id": "how-acquaintance",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "text",
+      "title": "Tanışıklık mı, hakkında bilgi mi? Haber ikisi de değil",
+      "body": "Bir arkadaşını tanımak ile onun hakkında bilgi sahibi olmak aynı şey mi? Filozof ve psikolog William James 1890’da bu ikisini ayırdı: bir şeyi tanımak (*acquaintance with*), onun bıraktığı çıplak izlenimle yetinmektir; hakkında bilgi (*knowledge about*) ise onun ilişkilerini bilmektir. [[cite:james-1890-principles-psychology]] Bizim örneğimiz: bir çorbanın tadını bilmek başka, o çorbanın hangi mutfaktan geldiğini, nasıl yapıldığını bilmek başka.\n\n[[person:park|Park]] 1940’ta James’in ayrımını habere uyguladı. Ona göre “hakkında bilgi” resmî (biçimsel) bilgidir; “tanışıklık” ise düzensiz, sezgisel, sağduyuya yakın bilgi. Bu ikisi bir süreklilik oluşturur ve haberin bu sürekliliğin üzerinde kendine özgü bir yeri vardır: geçici ve çabuk eskiyen bir bilgidir. [[cite:park-1940-news-knowledge]] Haber “insanları konuşturacak” türdendir, çoğunlukla ani ve belirleyici değişimlere yol açan olaylarla sınırlıdır ve işlevi insanı ve toplumu gerçek dünyada yönlendirmektir. [[cite:park-1940-news-knowledge]]\n\nBu neden önemli? Çünkü haber, bir tarih kitabının dünyayı kalıcı biçimde anlatmasından da, bir komşunun seni tanıyor olmasından da farklı bir şey: bu sabah dünyanın nerede durduğunu söyleyen bilgi. Aynı bilgi yarın “eski”dir. Chicago’nun iletişim düşüncesi, haberi bu kadar somut ve geçici bir bilgi türü olarak ciddiye almasıyla dikkat çekiyor.",
+      "question": {
+        "id": "how-acquaintance-q",
+        "type": "mcq",
+        "prompt": "Hayal et: Sabah kapıda komşun “dün gece trafoya yıldırım düştü, akşama kadar elektrik yok” diyor. Park’ın çerçevesinde bu bilgi en çok hangi özelliği taşıyor?",
+        "options": [
+          "Uzun ömürlü, sistemli “hakkında bilgi”.",
+          "Bugün konuşulacak, yarın eskiyecek ve insanı içinde bulunduğu dünyada yönlendiren haber niteliği.",
+          "Yalnızca sağduyu; haber sayılmaz.",
+          "Tanışıklık bilgisidir ve haberle aynı şeydir."
+        ],
+        "answer": 1,
+        "explain": "Bu bilgi, ani bir olayla ilgili, insanların birbirine anlatacağı ve akşama kadar işe yarayacak türdendir; yani Park’ın haberde vurguladığı geçici, yönlendirici ve konuşma doğuran niteliği taşır. Sistemli “hakkında bilgi” olmadığı açık. Son iki seçenek tuzak: haber sağduyuyla ya da tanışıklıkla özdeş değil, süreklilikte kendine özgü bir nokta."
+      }
+    },
+    {
+      "id": "how-ecology",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Kent bir ekosistem gibi okunursa: Burgess’in halkaları",
+      "body": "[[concept:human-ecology|İnsan ekolojisi]] fikri şöyle işler. Park’a göre bitki ve hayvan topluluklarını çözümlemede kullanılan tür bir bakış insan ilişkilerine de uygulanabilir; rekabet düzeni kurar, kültürel düzen ise bu rekabeti ekonomik, siyasal ve ahlaki düzeylerde sınırlar. [[cite:park-1936-human-ecology]] Kente uygulanınca:\n\n1. **Rekabet yeri böler.** İnsanlar ve işlevler, kentte yer için yarışır.\n2. **Kültür rekabeti sınırlar.** Yarış hiçbir kuralsız işlemez; gelenekler, yasalar, ahlak yarışın biçimini belirler.\n3. **Halkalar ortaya çıkar.** [[person:burgess|Ernest Burgess]] 1925’te *The City* kitabında kentin büyümesini, merkezdeki iş bölgesinden dışa doğru genişleyen halkalar olarak çizdi; model Chicago gözleminden doğdu. [[cite:park-burgess-1925-the-city]] [[cite:transportgeography-burgess]]\n4. **İletişim de yerleşir.** Wirth’in 1938 makalesi, kentlerin baskın konumunu açıklayan öğeler arasında basını, radyo istasyonlarını, tiyatroları, kütüphaneleri ve yayın merkezlerini sayar; yani medya, nüfusun yoğunlaştığı yerde toplanır. [[cite:wirth-1938-urbanism]]\n\nHalkaları ezberleme: model sonradan eleştirildi (eleştiri kartına bak). Dersin iletişim yanı ise şu: kent yalnızca bir yer değil, iletişim yoğunluğu; medya ve haber, ekolojik düzenin bir parçasıdır.",
+      "question": {
+        "id": "how-ecology-q",
+        "type": "mcq",
+        "prompt": "Hayal et: Bir araştırmacı, bir kentin yerel gazetelerinin dağıtıldığı mahalleleri haritada işaretleyip nüfus yoğunluğuyla karşılaştırıyor. Bu çalışma hangi Chicago fikrine en yakındır?",
+        "options": [
+          "Thomas teoremi: durumları gerçek saymanın sonuçları.",
+          "James’in tanışıklık ve hakkında bilgi ayrımı.",
+          "İnsan ekolojisi: toplulukların ve işlevlerin kentte mekânsal dağılımı.",
+          "Dewey’in Büyük Topluluğu: iletişimin siyasal kamu kurması."
+        ],
+        "answer": 2,
+        "explain": "Dağılımı haritalamak, ekolojik bakışın ve Chicago’nun “nokta haritaları” geleneğinin işidir. Thomas teoremi anlamla, James ayrımı bilgi türüyle, Dewey’in Büyük Topluluğu ise normatif bir idealle ilgilidir; hiçbiri mekânsal dağılıma bakmıyor."
+      }
+    },
+    {
+      "id": "how-lab-read",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Laboratuvar 1: belgeli bir göçmen basını vakasını oku",
+      "body": "Elimizde Park’ın kitabından başka, Chicago’nun kendi gazetelerinden derlenmiş bir belge yığını da var: Chicago Yabancı Dil Basını Taraması. 1936’da Illinois’in Works Progress Administration projesi olarak, Chicago Halk Kütüphanesi’nin destekçiliğinde kuruldu; Chicago’daki yabancı dilli gazetelerden yaklaşık 120.000 daktilo sayfası çeviri üretti; proje 1941’de sona erdi ve 1942’de yayımlandı. [[cite:uchicago-cflps-finding-aid]] [[cite:newberry-flps]] Çalışanlar makaleleri konu kodlarına göre seçti, çevirdi ve sınıflandırdı; editörler çevirileri gözden geçirdi. [[cite:iehs-cflps-teaching]] Newberry Kütüphanesi arşivi sonradan sayısallaştırdı. [[cite:iehs-cflps-teaching]] Projenin sorusu, kentin nasıl geliştiğiydi; özellikle asimilasyon ve kültürel yayılma. [[cite:uchicago-cflps-finding-aid]]\n\n**Alıştırma (bir okuma alıştırması).** Newberry Kütüphanesi’nin çevrimiçi arşivine ulaşabiliyorsan bir yazı seç ve dört soru sor: (1) Yazı kime hitap ediyor? (2) Okuru yeni kente ve yeni işine hazırlayan, Park’ın deyişiyle acil bir bilgi mi veriyor? (3) Eski ülkeyle ilgili ne var? (4) Bu tek yazıdan “basın asimilasyonu hızlandırır” ya da “geciktirir” sonucu çıkar mı?\n\nDördüncü sorunun cevabı hayır: tek örnek kanıt değil. Ayrıca yazılar bir seçki: proje önceden belirlenmiş konu kodlarına göre seçim yaptı ve yazılar çeviri. Bir kaynağı kanıt olarak kullanmadan önce onu kimin, neyi neden seçtiğini sormak, her arşiv çalışmasının temel alışkanlığıdır.",
+      "question": {
+        "id": "how-lab-read-q",
+        "type": "mcq",
+        "prompt": "Taramada çevrilen yazılar önceden belirlenmiş konu kodlarına göre seçilip sınıflandırılmıştır. Bu bilgi arşivi kullanırken sana ne söyler?",
+        "options": [
+          "Arşiv, gazetelerin tam ve tarafsız bir kopyasıdır.",
+          "Arşiv, projenin sorularıyla süzülmüş bir seçkidir; kanıt olarak okurken bu süzgeci hesaba katmalısın.",
+          "Çeviriler kesin doğrudur ve tartışılamaz.",
+          "Gazeteler hiç sansüre uğramamıştır."
+        ],
+        "answer": 1,
+        "explain": "Seçim ve sınıflama, arşivin projenin sorularına göre biçimlendiği anlamına gelir; bu, kaynak eleştirisinin temel adımıdır. Tam ve tarafsız kopya demek, seçildiğini yok saymak olur; çevirilerin kesin doğru olduğu ise hiçbir belgede varsayılamaz. Sansür konusu ise burada bilgi vermiyor."
+      }
+    },
+    {
+      "id": "how-lab-map",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Laboratuvar 2 (alıştırma): mahallenin haber kanallarını haritala",
+      "body": "Bu bir alıştırmadır; veri toplamıyor, gözlem alışkanlığı kazandırıyor. Park’ın 1915 makalesindeki soru listesinden ilhamla: “bu mahallede haber nedir? Dikkat genel olarak neye yöneliyor?” [[cite:park-1915-city-suggestions]]\n\nKendi mahallenden (ya da yurdundan, köyünden) bir bölge seç ve yirmi dakikada şunu çiz:\n\n1. **Kanalları say.** Kim kime nasıl haber veriyor? Duvar ilanı, esnaf, okul, dernek, ibadethane, komşu grubu, yerel sayfa, muhtarlık duyurusu, mesajlaşma grubu… kendi listeni yaz.\n2. **Kime ulaşıyor?** Her kanalın kimlere ulaştığını, kimleri dışarıda bıraktığını not et (dil, yaş, işi, bilgisayar erişimi).\n3. **Ne tür bilgi akıyor?** Acil bilgi (su kesintisi), sohbet, resmî duyuru?\n4. **Boşlukları ara.** Hangi sakin hiçbir kanaldan haber almıyor olabilir?\n5. **Tek cümlelik bir tez yaz:** “Bu mahallede haber şöyle dolaşır…”\n\nDikkat: bu alıştırma bir hipotez üretir, kanıt üretmez. Başkalarının kişisel bilgilerini yazma; grup mesajlarının içeriğini kopyalama, yalnızca kanalın türünü ve kime ulaştığını not et. Chicago’daki araştırmacılar da belli davranışların görüldüğü yerleri haritalara işlerdi; nokta haritaları ve istatistik bu okulun araçlarındandı. [[cite:wikipedia-chicago-school]] [[cite:bulmer-1984-chicago-school]]",
+      "question": {
+        "id": "how-lab-map-q",
+        "type": "mcq",
+        "prompt": "Alıştırmanda bir mahalle sakininin hiçbir kanaldan haber almadığını fark ettin. Chicago Okulu bakışıyla bu en iyi nasıl okunur?",
+        "options": [
+          "Önemsiz bir ayrıntı; haber zaten kendiliğinden yayılır.",
+          "Kişinin kendi kusuru; medya okuryazarlığı yok.",
+          "Bu, mahallenin gerçekten bir topluluk olduğunun kanıtıdır.",
+          "Bir iletişim boşluğu: o kişi, mahallenin ortak bilgi dünyasının dışında kalıyor olabilir."
+        ],
+        "answer": 3,
+        "explain": "Chicago’da toplum, ortak bilgiyle kurulan bir şeydir; birinin hiçbir kanalın içinde olmaması, onun ortak dünyanın dışında kalma riskine işaret eder. Bunu kişisel kusura bağlamak, yapısal bir sorunu bireye yıkmaktır. “Haber kendiliğinden yayılır” ise tam da sınanması gereken varsayım. “Bu bir topluluk kanıtıdır” yanıtı ise gözlemin tersini söylüyor: dışarıda kalan biri varsa ortak dünya eksiktir."
+      }
+    },
+    {
+      "id": "evidence-press",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "text",
+      "title": "Kanıt: Park’ın basın çalışması ve savaş yıllarının sınavı",
+      "body": "*The Immigrant Press and Its Control* (1922), Carnegie Corporation’ın parasıyla yürütülen ve “Americanization Studies” adı verilen bir dizinin parçasıydı; önsöze göre malzeme dizinin göçmen basını bölümünce toplanmıştı. [[cite:park-1922-immigrant-press]] Yani Park tek başına bir masada değil, bir araştırma bürosunun malzemesiyle çalıştı.\n\nKitabın çarpıcı bir bölümü savaş yıllarını anlatır. Park’a göre göçmen basınını denetlemeye yönelik ilk ciddi kamusal girişim Birinci Dünya Savaşı’nda, düşman propagandasına karşı başladı. [[cite:park-1922-immigrant-press]] Park, Posta İdaresi arşivindeki duruşma kayıtlarına dayanarak, postane hizmetinden fiilen yoksun bırakılan yabancı dilli gazetelerin sayısının çok az, “muhtemelen ondan fazla değil” olduğunu yazar; bazı gazete büroları Adalet Bakanlığınca basıldı, ama Posta İdaresi hiçbir gazeteyi kapatmadı. Ayrıca 5 Ekim 1917 ile 14 Ocak 1919 arasında 650 yabancı dilli gazeteye çeviri dosyalamadan yayımlama izni verildi. [[cite:park-1922-immigrant-press]]\n\nBu ne kadar güçlü bir kanıt? Bizim değerlendirmemiz: resmî kayıtlara dayanan bir betimleme; devletin ne yaptığını gösteriyor, basının okuru nasıl etkilediğini değil. Basının etkisi hakkında Park, editör beyanları ve Villchur gibi anketlerle yetinir. Yani Chicago’nun gücü, sayılarla sınanmış nedensel iddialardan çok, “nerede, kim, nasıl?” sorularını belgelerle betimlemesindedir; bu yüzden onu “yanlış” ya da “doğru” diye değil, hangi soruya cevap verdiğine bakarak değerlendirmek gerekir.",
+      "question": {
+        "id": "evidence-press-q",
+        "type": "tf",
+        "prompt": "Doğru mu yanlış mı: Park’ın kitabına göre savaş yıllarında Posta İdaresi çok sayıda yabancı dilli gazeteyi tümüyle kapattı.",
+        "answer": false,
+        "explain": "Yanlış. Park, Posta İdaresi arşivindeki duruşma kayıtlarına dayanarak hizmetten fiilen yoksun bırakılan yabancı dilli gazetelerin çok az olduğunu (muhtemelen ondan fazla değil) ve hiçbir gazetenin Posta İdaresince kapatılmadığını yazar; 650 gazete ise çeviri dosyalamadan yayımlama izni aldı. Bazı bürolara Adalet Bakanlığı baskın yaptı; bu ayrımı karıştırmak sınavda tuzaktır."
+      }
+    },
+    {
+      "id": "deep-polish-peasant",
+      "section": "evidence",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: *The Polish Peasant*’ın yöntem notu ve “durumun tanımı”",
+      "body": "Thomas’ın teoremi 1928’de çıkmadan on yıl önce, Thomas ve Znaniecki’nin *The Polish Peasant in Europe and America* çalışmasının 1918’de yayımlanan birinci cildinde bir yöntem notu vardı. Notta, bir toplumsal edimi anlamak için üç tür veriye bakılması gerektiği söylenir: (1) bireyin ya da toplumun içinde hareket ettiği nesnel koşullar, yani belli bir anda onun bilinçli durumunu doğrudan ya da dolaylı etkileyen değerler bütünü; (2) bireyin ya da grubun önceden var olan tutumları; (3) durumun tanımı, yani koşulların ve tutumların az çok açık bir kavranışı. [[cite:thomas-znaniecki-1918-polish-peasant]]\n\nYazarlar durumun tanımını “iradenin her edimi için gerekli bir ön hazırlık” sayar: verili koşullarda ve verili tutumlarla sonsuz sayıda eylem mümkündür; belirli bir eylem ancak koşullar seçilir, yorumlanır ve birleştirilirse ortaya çıkar. Çoğu zaman bir düşünme süreci yaşanır: ya hazır bir toplumsal tanım uygulanır ya da yeni bir kişisel tanım üretilir. [[cite:thomas-znaniecki-1918-polish-peasant]]\n\nBizim yorumumuz: 1928’in ünlü cümlesi bu yöntem düşüncesinin kısa hâli gibi okunabilir; tanım, davranışın koşuludur. Ayrıca yalnızca birinci cildi okuduk; eserin diğer ciltleri (örneğin göçmen yaşamına ayrılan cilt) burada anlatılmıyor. Bu kart, kuramın tek cümlelik biçiminin arkasında bir yöntem programının durduğunu göstermek için var."
+    },
+    {
+      "id": "critique-limits",
+      "section": "critique",
+      "layer": "core",
+      "kind": "text",
+      "title": "Eleştiriler: halkalar, kentlilik ve dönemin dili",
+      "body": "Chicago Okulu’na yöneltilen üç eleştiri sık tekrarlanır.\n\n1. **Model fazla basit ve fazla Amerikan.** Burgess’in halkaları Amerikan kentleri için geliştirildi; başka bağlamlarda, örneğin merkezin yüksek statülü olduğu sanayi öncesi Avrupa kentlerinde uymuyor; işyeri ile konutun ayrılması ise ancak yirminci yüzyılda genelleşti. [[cite:transportgeography-burgess]]\n2. **Wirth’in kentliliği ve Fischer.** Claude Fischer 1975’te, Wirth’in kuramının ekolojik etkenleri yadsıyan bir bakış tarafından gölgede bırakıldığını, ama o bakışın kentteki “alışılmadık”lığı açıklayamadığını yazdı. Kendi modeline göre nüfusun yoğunlaşması alt kültürlerin çeşitlenmesine, güçlenmesine ve aralarında yayılmaya yol açar. [[cite:fischer-1975-subcultural-urbanism]] Fischer Wirth’i çöpe atmaz: büyüklük değişkenini farklı biçimde geri getirir.\n3. **Dönemin dili.** Park’ın kitabı “Americanization Studies” dizisindeydi ve asimilasyon onun için hem bir gözlem hem bir hedefti. Bizim okumamız: asimilasyon tek yönlü bir hedef gibi kurulunca göçmenin dilini ve kimliğini engel saymak riski doğar. Park’ın metni bu riske kısmen karşı çıkar: göçmenin dili ve anıları kişiliğinin parçasıdır, yolda kaybedilebilecek bir bagaj değildir; asimilasyon zihinsel çatışma yokken daha kolaydır. [[cite:park-1922-immigrant-press]]\n\nSavunanların yanıtı? Bu ders için doğrulayabildiğimiz bir savunma yok; burada kaynakların yalnızca eleştirileri var. Dürüst bir sonuç: Chicago’nun kavramlarını (ekoloji, kentlilik, asimilasyon) tarihsel bağlamlarında, sınırlarını bilerek kullan.",
+      "question": {
+        "id": "critique-limits-q",
+        "type": "mcq",
+        "prompt": "Fischer’a (1975) göre nüfus yoğunlaşması kentteki “alışılmadık” davranışları nasıl doğurur?",
+        "options": [
+          "Anonimlik ve yabancılık kişiyi bağlarından koparır.",
+          "Alt kültürlerin çeşitlenmesine, güçlenmesine ve aralarında yayılmaya yol açarak.",
+          "Kent halkını tümüyle tek tip bir kültüre dönüştürerek.",
+          "Kentin merkezindeki halkaları genişleterek."
+        ],
+        "answer": 1,
+        "explain": "Fischer’ın öne sürdüğü orta halka alt kültürlerdir: yoğunlaşma çeşitliliği, güçlenmeyi ve yayılmayı getirir. İlk seçenek Wirth’in tanıdık anonimlik savıdır ve cazip yanlıştır; Fischer’ın aşmaya çalıştığı çerçeve budur. Üçüncü seçenek tersine çevirir; dördüncüsü ise Burgess’in halka modeline karışıyor."
+      }
+    },
+    {
+      "id": "deep-wirth-media",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Wirth’in medya kaygısı — aynı okul, iki ruh hali",
+      "body": "Louis Wirth 1938’de kenti “görece büyük, yoğun, kalıcı ve toplumsal olarak farklılaşmış bireylerin yerleşimi” diye tanımladı. [[cite:wirth-1938-urbanism]] Aynı makale medyaya da değinir. Okulların, sinemanın, radyonun ve gazetelerin, kitlesel bir kitleye seslendikleri için “düzleştirici” etki yaptığını yazar; kentte kitlelerin, iletişim araçlarını uzaktan ya da perde arkasından denetleyen kişilerce sembollerle ve basmakalıplarla yönlendirilebildiğini, bu koşullarda kendi kendini yönetmenin lafta kalabileceğini (“a mere figure of speech”) söyler. [[cite:wirth-1938-urbanism]]\n\nBizim okumamız: bu ton, Park’ın 1915’te gazeteyi kamuoyunun dayanağı sayan görece umutlu diliyle yan yana ilginç bir kontrast kurar. Ama Park da naif değildi: 1938 tarihli makalesinde sinemanın, haberin kendisinden daha çok yerel kültürleri “yıkıcı” biçimde etkileyebileceğini düşünür. [[cite:park-1938-communication-culture]] Yani Chicago’nun iletişim düşüncesi ne saf iyimserlik ne saf kaygıdır.\n\nBizim gözlemimiz: Wirth’in bu tonu, ilerideki [[lesson:mass-society]] dersinde göreceğin kitle toplumu tartışmasına yaklaşır: büyük, anonim bir nüfus ve uzaktan yönetilen semboller. Ama Wirth’in kaygısı bir kuramın sonucu değil, bir kentlilik çözümlemesinin yan ürünüdür; iki ayrı gelenek olarak değerlendirmek daha güvenli olur."
+    },
+    {
+      "id": "deep-chicago-columbia",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: “Chicago mu Columbia mı?” kaba bir ikilik",
+      "body": "Sık anlatılan bir ikilik var: Chicago saha ve nitel, Columbia anket ve nicel. İçinde doğru bir çekirdek var ama kaba.\n\n**Çekirdek.** Columbia’da [[person:lazarsfeld|Paul Lazarsfeld]] ve [[person:merton|Robert Merton]] çevresinde anket tasarımı ve “orta düzey kuramlar” gelişti; Samuel Stouffer *The American Soldier* çalışmasını yönetmişti, Lazarsfeld ise Columbia’da radyo araştırma ofisini kurmuştu. [[cite:goldthorpe-2021-chicago-columbia]] Chicago’da yetişmiş Herbert Blumer ise 1956’da “değişken çözümlemesi”ni eleştiren bir yazı yayımladı. [[cite:blumer-1956-variable]]\n\n**Kabalık.** (a) Chicago yalnızca nitel değildi: Bulmer’e göre 1915–1935 arası çeşitli nitel ve nicel yöntemler öncülendi. [[cite:bulmer-1984-chicago-school]] (b) Lazarsfeld yalnızca nicelci değildi: Jeřábek, literatürde onun çoğu zaman salt nicel yöntemci sayıldığını, oysa nicel ve nitel yöntemleri birleştirdiğini yazar; “neden?” sorusunu soran gerekçe çözümlemesi nitel başlar, nicel biter. [[cite:jerabek-2022-lazarsfeld-methods]]\n\n**Gerçek kayıp.** Wahl-Jorgensen’e göre Chicago’nun ilk iletişim programları kısa ömürlü disiplinlerarası komitelerdi ve kurumsal destek yokluğundan öldü; alan tarihinde bugün bilinmiyorlar. [[cite:wahl-jorgensen-2004-founding-field]] Aynı yazarın başka bir çalışması iki hikâye anlatır: bir zafer öyküsü (Chicago’nun medya araştırmasındaki normatif ve ampirik etkisi) ve bir kayıp öyküsü (toplumsal duyarlı, çoğu nitel yaklaşımın gerilemesi). İkisi de doğrudur. [[cite:wahl-jorgensen-2012-chicago-media]]\n\nBizim çıkarımımız: rekabet kişiler ve kurumlar arasındaydı, yöntemler arasında değil. “Hangi soru için hangi yöntem?” sorusu, “kim haklı?” sorusundan daha verimli."
+    },
+    {
+      "id": "today-neighbourhood",
+      "section": "today",
+      "layer": "core",
+      "kind": "text",
+      "title": "Bugün: iletişim altyapısı ve “hikâye anlatan mahalle”",
+      "body": "Park’ın göçmen basını sorusu bugün de canlı. Ball-Rokeach, Kim ve Matei 2001’de, Los Angeles’ta yedi mahallede, eski ve yeni göçmen topluluklarda çok dilli veriyle şunu inceledi: insanı bir evin sakininden bir mahallenin üyesine dönüştüren nedir? Buldukları: aidiyetin en önemli etkeni, sakinleri, toplum örgütlerini ve yerel medyayı birbirine bağlayan etkin ve bütünleşik bir “hikâye anlatma sistemi”ydi. [[cite:ball-rokeach-kim-matei-2001-storytelling]]\n\nBu, Park’ın fikrinin dolaylı bir torunu gibi okunabilir (bizim yorumumuz): topluluk, ortak haber ve ortak anlatıyla kurulur. Ama iki dikkat notu. Birincisi, çalışma 2001 tarihli; özetinde bugünün mesajlaşma grupları ya da sosyal medya yer almıyor. Bu yüzden “grup sohbeti bir hikâye anlatma sistemidir” demek, kanıta değil bizim akıl yürütmemize dayanır. İkincisi, bulgu “ne kadar yerel medya, o kadar aidiyet” diye basit okunmamalı: vurgulanan, sistemin bütünleşik ve etkin olmasıdır.\n\nAynı akıl yürütmeyi Thomas teoremine de uzatabiliriz (yine bizim akıl yürütmemiz): bir söylenti ya da manşet, yeterince insan onu gerçek saydığında sonuç üretir; mahalle grubu bir söylentiyi hızla taşıyabilen bir kanaldır. Chicago’nun iki fikri, yani ortak bilgi kurar ve tanımlar davranışı belirler, bugünün ağlarında da birbirini besler.",
+      "question": {
+        "id": "today-neighbourhood-q",
+        "type": "mcq",
+        "prompt": "Ball-Rokeach ve arkadaşlarının (2001) bulgusuna göre bir mahallede aidiyeti en çok ne artırır?",
+        "options": [
+          "Ulusal televizyon haberlerini daha çok izlemek.",
+          "Sakinleri, toplum örgütlerini ve yerel medyayı birbirine bağlayan etkin ve bütünleşik bir hikâye anlatma sistemi.",
+          "Mahalledeki gazetelerin sayısını artırmak.",
+          "Yeni gelenlerin yalnızca kendi dillerindeki kaynaklarla yetinmesi."
+        ],
+        "answer": 1,
+        "explain": "Çalışma, aidiyette en önemli etkenin etkin ve bütünleşik bir hikâye anlatma sistemi olduğunu buldu; sistem sakinleri, örgütleri ve yerel medyayı içeriyordu. Gazete sayısını artırmak “bütünleşik” niteliği yok sayar; ulusal haber ise yerel sistemin parçası değil. Yalnızca kendi dilindeki kaynak, çok dilli bir mahallede bütünleşmeye ters düşebilir; bulgu bunu söylemiyor."
+      }
+    },
+    {
+      "id": "deep-legacy-blumer",
+      "section": "today",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Chicago’dan çıkan izler — Blumer bir işaret olarak",
+      "body": "Chicago’nun iletişim mirasını izlemek için bir yol, Herbert Blumer’den geçer. Blumer 1928’de Chicago’da doktorasını yaptı ve 1937’de, W. Schmidt’in derlediği *Man and Society* kitabındaki sosyal psikoloji yazısında “sembolik etkileşim” terimini ortaya attı. [[cite:encyclopedia-blumer]] [[cite:wikipedia-blumer]] Chicago’da George Herbert Mead’in düşüncesinden etkilendiği yazılır. [[cite:wikipedia-blumer]] Sembolik etkileşimcilik, ilerideki [[lesson:functionalism-interactionism]] dersinde ayrıca işlenecek; burada yalnızca bir işaret bırakıyoruz.\n\nBlumer’in bir de medya araştırması vardı: *Movies and Conduct* (1933), Payne Fund çalışmalarından biridir. [[cite:blumer-1933-movies-conduct]] O çalışmaların hikâyesi [[lesson:payne-fund-mars]] dersinde.\n\nWahl-Jorgensen’in özeti burada yerinde durur: Chicago Okulu medya araştırmasının yönünü ince ama derin biçimde etkiledi; ama medya araştırmacılarıyla ilişkisinin tarihi, kaçırılmış bağlantılar ve fırsatlar tarihidir de. [[cite:wahl-jorgensen-2012-chicago-media]] Yani Chicago’nun mirası bir zafer ve bir kayıp öyküsü olarak birlikte okunmalı; bir okulun hâlâ sürdüğünü ya da tümüyle bittiğini söylemek, ikisini de eksik bırakır."
+    },
+    {
+      "id": "exam-patterns",
+      "section": "exam",
+      "layer": "core",
+      "kind": "text",
+      "title": "Sınavda böyle sorulur",
+      "body": "**Sık çıkan kalıplar**\n\n- “Göçmen basınını inceleyen, haberi bir bilgi biçimi sayan sosyolog kimdir?” → Robert E. Park (*The Immigrant Press and Its Control*, 1922; “News as a Form of Knowledge”, 1940).\n- “‘İnsanlar durumları gerçek olarak tanımlarsa…’ cümlesi kimindir?” → W. I. Thomas (ve Dorothy Swaine Thomas, 1928); adı Merton’dan.\n- “Eş merkezli halkalar modeli kime aittir?” → Ernest Burgess (1925).\n- “Yaşam biçimi olarak kentlilik?” → Louis Wirth (1938).\n- “İletişim ve topluluk arasındaki bağ?” → John Dewey (1916, 1927).\n\n**Cazip yanlışlar**\n\n- *The Polish Peasant*’ı Park’a yazmak: eser Thomas ve Znaniecki’nindir.\n- Thomas teoremini “insanlar yanlış şeye inanırsa yanlış sonuç doğar” diye okumak: teorem, inanç yanlış olsa bile sonuçların gerçek olacağını söyler.\n- “Chicago = nitel, Columbia = nicel” kalıbını kesin saymak: derin karttaki nüanslara bak.\n- Park’ı akademisyen olarak doğmuş sanmak: 1887–1898 arasında gazetecilikle geçen bir geçmişi var.\n\n**Alternatif adlar.** Okulun adı Türkçe kaynaklarda “Chicago Okulu”, “Şikago Okulu”, “Chicago Sosyoloji Ekolü”, “ekoloji okulu” ya da “ekolojik okul” olarak geçer. [[cite:kure-chicago-sociology-2025]] [[cite:tr-wikipedia-chicago-okulu]] [[cite:tubitak-chicago-okulu]] Human ecology için “insan ekolojisi”, kent için “sosyal laboratuvar” kullanılır. Wirth’in makalesi bir Türkçe kaynakta “Bir Yaşam Biçimi Olarak Kentlileşme” başlığıyla geçer; bu ders “kentlilik” diyor. [[cite:kure-chicago-sociology-2025]] Bunlar tipik sınav örüntüleridir; hangi kaynağı okursan oku soruyu “kim, hangi soruya cevap veriyor?” süzgecinden geçir.",
+      "question": {
+        "id": "exam-patterns-q",
+        "type": "mcq",
+        "prompt": "Bir sınav sorusu “Göçmenlerden mektup toplamak için gazete ilanı veren ve bu mektupları veri olarak kullanan çalışma hangisidir?” diyor. Hangisini seçmelisin?",
+        "options": [
+          "Park, *The Immigrant Press and Its Control*",
+          "Thomas ve Znaniecki, *The Polish Peasant in Europe and America*",
+          "Wirth, “Urbanism as a Way of Life”",
+          "Burgess, *The City* (halka modeli)"
+        ],
+        "answer": 1,
+        "explain": "İlanla mektup toplayıp veri yapan çalışma Thomas ve Znaniecki’nindir. Park’ın kitabı tuzak: “göçmen” ve “gazete” geçiyor diye akla geliyor; ama o, göçmen gazetelerinin kendisini inceler. Wirth ve Burgess ise kentin biçimi ve yaşam biçimiyle ilgilidir."
+      }
+    },
+    {
+      "id": "summary",
+      "section": "summary",
+      "layer": "core",
+      "kind": "summary",
+      "title": "Özet kartı: Chicago’dan bir cümle",
+      "body": "- **Bağlam:** hızla büyüyen, göçmenlerle dolu Chicago; 1892’de ilk sosyoloji bölümü; 1915–1935 “Chicago Okulu”.\n- **Temel iddia:** toplum iletişimin içinde vardır (Dewey); iletişim bütünleştirir, rekabet ayırır (Park).\n- **Kent = laboratuvar** (Park 1915): saha gözlemi, haritalar, mektuplar, gazeteler.\n- **Göçmen basını:** fren mi gaz mı? Park: içeriğe bağlı. Savaşta çeviri şartı; Posta İdaresi kayıtlarında yalnızca çok az gazete hizmetten yoksun kaldı.\n- **Haber bir bilgi biçimidir** (Park 1940): tanışıklık ile resmî bilgi arasındaki süreklilikte geçici, konuşma doğuran, dünyada yönlendiren bilgi (James’in ayrımından).\n- **Thomas teoremi** (1928): durumları gerçek tanımlarsan sonuçları gerçektir; inancın doğru olması gerekmez. Merton adını koydu; banka benzetmesi kurgudur.\n- **İnsan ekolojisi ve Burgess halkaları:** kentin rekabetle biçimlenmesi; eleştiri: Amerikan kentlerine özgü, fazla basit.\n- **Wirth:** kent = büyük, yoğun, kalıcı, farklılaşmış nüfus; medyaya karşı kaygı da taşıyordu.\n- **Bugün:** “hikâye anlatma sistemi” (Ball-Rokeach vd. 2001); sosyal medya için yalnızca akıl yürütme.\n- **Sınav tuzağı:** Park–Thomas (göçmen basını mı, mektup mu?); Chicago=nitel kalıbı.",
+      "question": {
+        "id": "summary-q",
+        "type": "tf",
+        "prompt": "Doğru mu yanlış mı: Thomas teoremi, bir durumun ancak doğru olduğu zaman gerçek sonuçlar doğuracağını söyler.",
+        "answer": false,
+        "explain": "Yanlış. Teorem, insanlar bir durumu gerçek diye tanımladığında, o tanım yanlış olsa bile sonuçların gerçek olacağını söyler. Merton’ın banka benzetmesi bunun örneğidir: sağlam bir bankanın iflas ettiği söylentisine inanan mevduat sahipleri, bankayı gerçekten iflasa götürür."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Chicago Okulu’nun iletişim görüşünü en iyi hangi cümle özetler?",
+      "options": [
+        "İletişim, toplumun sonradan eklenen bir aracıdır; önce toplum kurulur.",
+        "Toplum, insanların bir şeyi ortak kılmasıyla var olur ve ortak kılmanın yolu iletişimdir.",
+        "İletişim yalnızca bilgi iletmektir ve etkisi ölçülmelidir.",
+        "Medya, göçmenleri her koşulda yabancılaştırır."
+      ],
+      "answer": 1,
+      "explain": "Dewey ve Park’ın ortak çizgisi bu: iletişim toplumun kurucu unsurudur. İlk seçenek bu görüşün tam tersi; üçüncüsü iletim görüşü; dördüncüsü ise Park’ın 1922 sonucuna aykırı: etkisi içeriğe bağlıdır."
+    },
+    {
+      "id": "q2",
+      "type": "tf",
+      "prompt": "Doğru mu yanlış mı: Thomas teoremi, bir inancın doğru olduğu durumda sonuçlarının gerçek olacağını söyler.",
+      "answer": false,
+      "explain": "Yanlış. Teorem, inanç yanlış olsa bile insanlar ona göre davrandığında sonuçların gerçek olduğunu söyler; Merton’ın kurgu bankası bunun örneğidir."
+    },
+    {
+      "id": "q3",
+      "type": "match",
+      "prompt": "Yazarları eserleriyle eşleştir.",
+      "pairs": [
+        [
+          "Robert Park",
+          "The Immigrant Press and Its Control"
+        ],
+        [
+          "W. I. Thomas ve Florian Znaniecki",
+          "The Polish Peasant in Europe and America"
+        ],
+        [
+          "Louis Wirth",
+          "Urbanism as a Way of Life"
+        ],
+        [
+          "John Dewey",
+          "The Public and Its Problems"
+        ],
+        [
+          "W. I. Thomas ve Dorothy Swaine Thomas",
+          "The Child in America"
+        ]
+      ],
+      "explain": "En sık karışan çift Park ile Thomas’tır: göçmen basını Park’ındır, göçmen mektuplarıyla çalışan eser Thomas ve Znaniecki’nin. Thomas teoremi ise 1928’de karısı Dorothy Swaine Thomas’la yazdığı kitapta geçer. Dewey filozoftur; kamu ve iletişim üzerine yazdı. Wirth kent kuramcısıdır."
+    },
+    {
+      "id": "q4",
+      "type": "order",
+      "prompt": "Olayları ve eserleri kronolojik sıraya diz (eskiden yeniye).",
+      "items": [
+        "Albion Small’ın Chicago’da ilk sosyoloji bölümünü kurması (1892)",
+        "Park’ın “Şehir” makalesi (1915)",
+        "Thomas ve Znaniecki, *The Polish Peasant* (1918 ve sonrası)",
+        "Park, *The Immigrant Press and Its Control* (1922)",
+        "Thomas ve Thomas, *The Child in America* (1928)",
+        "Wirth, “Urbanism as a Way of Life” (1938)"
+      ],
+      "explain": "Sıra 1892, 1915, 1918, 1922, 1928, 1938. Thomas’ın “durumun tanımı” fikri *The Polish Peasant*’ta (1918) yöntem olarak vardır; ünlü teorem cümlesi ise 1928 tarihli kitabındadır. Bu ikisini ters sıralamak yaygın hatadır."
+    },
+    {
+      "id": "q5",
+      "type": "cloze",
+      "prompt": "Boşlukları doldur.",
+      "text": "Wirth’e göre sosyolojik açıdan kent, görece büyük, {{1}} ve kalıcı, toplumsal olarak {{2}} bireylerin yerleşimidir.",
+      "blanks": [
+        {
+          "options": [
+            "yoğun",
+            "düzenli",
+            "planlı"
+          ],
+          "answer": 0
+        },
+        {
+          "options": [
+            "farklılaşmış",
+            "benzeşen",
+            "aynı kökenden gelen"
+          ],
+          "answer": 0
+        }
+      ],
+      "explain": "Wirth’in tanımında üç ölçüt vardır: büyüklük, yoğunluk ve farklılaşma (heterojenlik). “Düzenli” ve “planlı” ölçüt değil; “benzeşen” ise tanımın tersidir: kent, farklı insanları bir araya getirir."
+    },
+    {
+      "id": "q6",
+      "type": "case",
+      "scenario": "Hayal et: Bir sanayi kentinde yeni gelmiş bir göçmen topluluk, kendi dilinde çıkan haftalık bir gazeteden iş ilanlarını, doktor adreslerini ve mahalle duyurularını öğreniyor. Gazetenin bir bölümü de memleketteki siyasi tartışmalara ayrılmış. Belediyede biri, “bu gazete göçmenleri yabancı tutuyor” diyerek yasaklamayı öneriyor.",
+      "parts": [
+        {
+          "id": "q6a",
+          "prompt": "Park’ın çerçevesinde gazetenin iş ilanı ve doktor adresi veren bölümü neye işaret eder?",
+          "options": [
+            "Yalnızca vatan özlemine.",
+            "Yeni bir çevreye uyum sağlamak için kullanılan acil bilgiye, yani habere.",
+            "Sağduyunun resmî bilgiye dönüşmesine."
+          ],
+          "answer": 1,
+          "explain": "Park’a göre haber, yeni bir çevrede uyum, alışkanlık değiştirme ve yeni görüş edinme sırasında kullanılan acil bilgidir; iş ilanları ve doktor adresleri tam da budur. Vatan özlemi Park’ın listesinde vardır ama bu bölümü açıklamaz."
+        },
+        {
+          "id": "q6b",
+          "prompt": "Park’ın 1922 sonucuna göre yasak önerisi için ne söylenebilir?",
+          "options": [
+            "Gazetenin göçmeni yabancı tuttuğu kanıtlanmıştır; yasak haklıdır.",
+            "Gazetelerin hiçbir etkisi olmadığı için yasak da anlamsızdır.",
+            "Gazetenin etkisi içeriğine bağlıdır; asimilasyonu hızlandırabilir de geciktirebilir de; salt dil gerekçesi yetersizdir."
+          ],
+          "answer": 2,
+          "explain": "Park hem “fren” hem “gaz” görüşünü aktarır ve sonucu içeriğe bağlar. “Kanıtlanmıştır” diyen yanıt tartışmalı bir varsayımı kanıt sayar; “hiçbir etkisi yok” yanıtı ise Villchur anketinin gösterdiği yoğun okuma alışkanlığına ters."
+        }
+      ],
+      "takeaway": "Bir medya kanalını yalnızca dili yüzünden değil, içeriğinin ve okurunun ihtiyacının birleşimine bakarak değerlendir."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "Park’ın 1940’taki “News as a Form of Knowledge” makalesinde haberi anlatırken James’in ayrımından yola çıkarak vurguladığı özellik hangisidir?",
+      "options": [
+        "Haberin kalıcı, sistemli bir bilgi türü olması.",
+        "Haberin yalnızca yazılı basına özgü olması.",
+        "Haberin geçici ve çabuk eskiyen bir bilgi olması.",
+        "Haberin sağduyuyla tamamen aynı olması."
+      ],
+      "answer": 2,
+      "explain": "Park, haberin bilgi sürekliliği üzerinde geçici ve çabuk eskiyen kendine özgü bir yeri olduğunu söyler. Kalıcı ve sistemli olan “hakkında bilgi”dir; sağduyu ise “tanışıklık” ucuna yakındır. Haberin yazılı basına özgü olduğu ise makalede iddia edilmez."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Burgess’in halka modeline yöneltilen eleştirilerden biri hangisidir?",
+      "options": [
+        "Model kentin merkezini hiç hesaba katmaz.",
+        "Model yalnızca iletişim araçlarını konu alır.",
+        "Model kentlerin hiç büyümediğini varsayar.",
+        "Model Amerikan kentleri için geliştirildi; sanayi öncesi Avrupa kentleri gibi başka bağlamlarda sınırlı geçerlidir."
+      ],
+      "answer": 3,
+      "explain": "Eleştiri, modelin Amerikan kentlerine ve belli bir tarihsel döneme özgü olduğunu söyler. “Merkezi hesaba katmaz” iddiası modelin tersini söyler: her şey merkezdeki iş bölgesinden dışa doğru halkalardır. İletişim araçlarına özgülük ve “büyümeme” varsayımı ise modelle ilgisizdir."
+    },
+    {
+      "id": "q9",
+      "type": "tf",
+      "prompt": "Doğru mu yanlış mı: Paul Lazarsfeld nitel yöntemlerle hiç ilgilenmemiş, yalnızca nicel yöntemler kullanmıştır.",
+      "answer": false,
+      "explain": "Yanlış. Jeřábek’e göre Lazarsfeld nicel ve nitel yöntemleri birleştirdi; gerekçe çözümlemesi nitel başlar, nicel biter. Chicago–Columbia ikiliği bu yüzden kabadır."
+    },
+    {
+      "id": "q10",
+      "type": "case",
+      "scenario": "Hayal et: Bir öğrenci, mahallesindeki yerel bir sosyal medya grubunu inceleyecek. İlk sorusu: “Sakinler bu gruptaki paylaşımlara ne anlam yüklüyor?” İkinci sorusu: “Mesajların yüzde kaçı hangi türden?”",
+      "parts": [
+        {
+          "id": "q10a",
+          "prompt": "İlk soru için hangi yaklaşım daha uygundur?",
+          "options": [
+            "Yalnızca kelime sıklığını saymak.",
+            "Birkaç sakinle görüşmek ve mesajları onlarla birlikte okumak (saha gözlemi ve görüşme).",
+            "Mesajları hiç okumadan grubun büyüklüğüne bakmak."
+          ],
+          "answer": 1,
+          "explain": "“Ne anlam yüklüyor?” sorusu insanların durumu nasıl tanımladığını ister; bu da Chicago geleneğinin görüşme ve gözlem araçlarına yakındır. Sayım anlamı vermez; grup büyüklüğü ise soruyla ilgisizdir."
+        },
+        {
+          "id": "q10b",
+          "prompt": "İkinci soru eklendiğinde ne yapılmalı?",
+          "options": [
+            "İki yöntemi birleştirmek Chicago Okulu’na aykırıdır; birini seçmek gerekir.",
+            "Sayım yapılırsa görüşmeler geçersiz olur.",
+            "Sayım da eklenebilir; iki yöntemi birleştirmek Chicago’nun da Lazarsfeld’in de yaptığı bir şeydir."
+          ],
+          "answer": 2,
+          "explain": "Chicago’da haritalar ve istatistik vardı, Lazarsfeld’in ise nitel öğeleri; yöntemleri soruya göre birleştirmek meşrudur. “Birini seçmek gerekir” ve “sayım görüşmeleri geçersiz kılar” yanıtları, kabalaştırılmış “Chicago = nitel, Columbia = nicel” ikiliğinden çıkıyor."
+        }
+      ],
+      "takeaway": "Yöntemi rakip kamplara göre değil, sorunun türüne göre seç; anlam soruları görüşme ve gözlemi, dağılım soruları sayımı çağırır."
+    }
+  ]
+}

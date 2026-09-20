@@ -1,0 +1,690 @@
+{
+  "id": "chicago-school",
+  "lang": "en",
+  "translation": {
+    "status": "machine",
+    "date": "2026-09-20"
+  },
+  "title": "The Chicago School and Communication",
+  "slug": "chicago-school",
+  "description": "Park’s immigrant press and “news as a form of knowledge”, the Thomas theorem, Wirth and Dewey: the Chicago School’s thinking on the city and communication.",
+  "claim": "For the Chicago School, society exists by making what is common through communication: the city is the laboratory of this process, and news and the immigrant press are its instruments; how people define a situation (the Thomas theorem) shapes behaviour, but the school’s concepts should be read in their historical context and with their limits.",
+  "keywords": [
+    "Chicago School",
+    "Robert Park",
+    "immigrant press",
+    "news as a form of knowledge",
+    "Thomas theorem",
+    "definition of the situation",
+    "human ecology",
+    "Burgess",
+    "Wirth",
+    "urbanism",
+    "Dewey",
+    "social laboratory"
+  ],
+  "updated": "2026-09-20",
+  "timeline": {
+    "small-department": "Albion Small founds the first sociology department in the United States, at Chicago",
+    "park-city": "Park, “The City”: the city as a laboratory",
+    "dewey-democracy": "Dewey, Democracy and Education: society exists in communication",
+    "polish-peasant": "Thomas and Znaniecki, The Polish Peasant: letters become data",
+    "intro-sociology": "Park and Burgess, Introduction to the Science of Sociology",
+    "immigrant-press": "Park, The Immigrant Press and Its Control",
+    "natural-history": "Park, “The Natural History of the Newspaper”",
+    "the-city": "Park and Burgess, The City: the ring model",
+    "dewey-public": "Dewey, The Public and Its Problems",
+    "child-in-america": "Thomas and Thomas, The Child in America: the Thomas theorem",
+    "wirth-urbanism": "Wirth, “Urbanism as a Way of Life”",
+    "park-news": "Park, “News as a Form of Knowledge”",
+    "merton-prophecy": "Merton, “The Self-Fulfilling Prophecy”: the theorem’s name and the bank parable",
+    "blumer-variable": "Blumer, “Sociological Analysis and the Variable”"
+  },
+  "cards": [
+    {
+      "id": "ctx-cigarette",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "Cigarette paper back home, a subscription in America",
+      "body": "June 1919. Mark Villchur, editor of the Russian-language paper *Russkoye Slovo* in New York, publishes the results of a survey of his readers. The question is simple: did you read newspapers in the old country? Of 312 replies, only 16 say “regularly”. Ten used to leaf through a paper now and then at the village administrative centre, and twelve subscribed to a weekly magazine. In America, all of them subscribe to or read Russian papers. [[cite:park-1923-natural-history-newspaper]]\n\nSome replies are more colourful still: people from Grodno, Minsk and Volhynia write that at home they used newspapers as cigarette paper, and that here they have become regular readers. Same paper, different job. A quarter of the readers also glance at American papers in English; some say they understand “only one word out of five”, others read only the headlines, because headlines are easy to follow. [[cite:park-1922-immigrant-press]]\n\nThe sociologist [[person:park|Robert Park]] used this survey both in his 1922 book and in his 1923 article. Our reading: because it shows something surprising; people who arrive in a new country do not stop reading, they start. Park’s explanation is short: news is urgent information used by a person trying to adjust to a new environment, and America offered a great deal to learn and habits to change. [[cite:park-1922-immigrant-press]] This lesson is the story of that idea and of the school that produced it.",
+      "question": {
+        "id": "ctx-cigarette-q",
+        "type": "mcq",
+        "prompt": "According to Park, what best explains why immigrants began reading in America the newspapers they had not read at home?",
+        "options": [
+          "American newspapers were much cheaper than newspapers back home.",
+          "In a new and fast-changing environment they needed constant fresh, urgent information to adjust.",
+          "Government offices required immigrants to read newspapers.",
+          "They only wanted to fill their free time with entertaining reading."
+        ],
+        "answer": 1,
+        "explain": "Park’s criterion is adjustment: news is the urgent information used when changing habits and forming new views in a new environment. A price argument is not in Park’s text; nor is any state requirement (later chapters of the book in fact describe the state trying to control the press). “Only entertainment” ignores the practical need. Homesickness is also on Park’s list, but his real answer to “why more reading in America?” is that there was much more to learn."
+      }
+    },
+    {
+      "id": "ctx-chicago",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "From one million to three: sociology steps out onto the street",
+      "body": "In the 1890 census Chicago was the second-largest city in the United States: 1,099,850 people. In 1930: 3,376,438. [[cite:census-gibson-1998-largest-places]] More than a threefold rise in forty years. From 1890 to 1920, about three-quarters of Chicagoans were either immigrants or the children of immigrants; in 1900 the share approached 80 per cent. [[cite:wbez-2014-native-numbers]] [[cite:americanyawp-industrial-america]] The immigrant population peaked in 1930: about 859,000 foreign-born plus 1.3 million children of immigrants, some 65 per cent of the city. [[cite:wbez-2014-native-numbers]] The city’s newspapers matched: a later survey collected translations from the papers of Czech, Polish, Lithuanian, Norwegian, Russian, Swedish and many other communities. [[cite:iehs-cflps-teaching]]\n\nIn this city, in 1892, Albion Small founded the first sociology department in the United States; in 1895 he launched the *American Journal of Sociology*. [[cite:uchicago-small-finding-aid]] [[cite:encyclopedia-small]] In the period from about 1915 to 1935, social scientists at Chicago pioneered empirical research and a variety of qualitative and quantitative methods; today we call this the “Chicago School”. [[cite:bulmer-1984-chicago-school]]\n\nOur interpretation: a city growing this fast, speaking this many languages, carried the question “what holds society together?” out of the pages of books and onto the street. The question of this lesson is: why did Chicago’s sociologists keep arriving at “communication” as the answer?",
+      "question": {
+        "id": "ctx-chicago-q",
+        "type": "tf",
+        "prompt": "True or false: Chicago School researchers relied only on qualitative observation and never used maps or statistics.",
+        "answer": false,
+        "explain": "False. The Chicago period of 1915–1935 is associated with a variety of qualitative and quantitative methods of empirical research; besides life stories and fieldwork there were maps and statistical analyses. “Chicago = qualitative” is a tempting shortcut in exams but too crude; the Chicago–Columbia discussion in the deep cards unpacks it."
+      }
+    },
+    {
+      "id": "people-cast",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "text",
+      "title": "The names and years you will meet in this lesson",
+      "body": "Instead of memorising years, read them as “who answers which question?”; still, here is the skeleton:\n\n- **1892 – Albion Small:** the first sociology department in the United States, at Chicago. [[cite:uchicago-small-finding-aid]]\n- **1915 – [[person:park|Robert Park]]:** the article “The City”; the city as a “laboratory”. [[cite:park-1915-city-suggestions]]\n- **1916 – [[person:dewey|John Dewey]]:** *Democracy and Education*; society exists in communication. [[cite:dewey-1916-democracy-education]]\n- **1918–1920 – [[person:thomas|W. I. Thomas]] and Florian Znaniecki:** *The Polish Peasant in Europe and America*; immigrants’ letters as data. [[cite:thomas-znaniecki-1918-polish-peasant]]\n- **1921 – Park and [[person:burgess|Ernest Burgess]]:** the textbook *Introduction to the Science of Sociology*. [[cite:park-burgess-1921-intro-sociology]]\n- **1922 – Park:** *The Immigrant Press and Its Control*. [[cite:park-1922-immigrant-press]]\n- **1923 – Park:** “The Natural History of the Newspaper”. [[cite:park-1923-natural-history-newspaper]]\n- **1925 – Park and Burgess:** *The City*. [[cite:park-burgess-1925-the-city]]\n- **1927 – Dewey:** *The Public and Its Problems*. [[cite:dewey-1927-public-problems]]\n- **1928 – Thomas and Dorothy Swaine Thomas:** *The Child in America*; the “definition of the situation” theorem. [[cite:thomas-thomas-1928-child-in-america]]\n- **1938 – [[person:wirth|Louis Wirth]]:** “Urbanism as a Way of Life”. [[cite:wirth-1938-urbanism]]\n- **1940 – Park:** “News as a Form of Knowledge”. [[cite:park-1940-news-knowledge]]\n\nThe order tells the story too: first the question of the city and the immigrant (Thomas, Park), then its communication side (the press, news), and last the city’s own theory (Burgess, Wirth).",
+      "question": {
+        "id": "people-cast-q",
+        "type": "mcq",
+        "prompt": "Which of the following pairings is correct?",
+        "options": [
+          "Park, 1918: *The Polish Peasant in Europe and America*",
+          "Dewey, 1922: *The Immigrant Press and Its Control*",
+          "Wirth, 1938: “Urbanism as a Way of Life”",
+          "Thomas, 1940: “News as a Form of Knowledge”"
+        ],
+        "answer": 2,
+        "explain": "Wirth’s city article dates from 1938. The pair most often confused is Park and Thomas: *The Polish Peasant* is by Thomas and Znaniecki, *The Immigrant Press* is Park’s; both mention “immigrants”, hence the mix-up. Dewey was a philosopher and did not write the immigrant-press book; “News as a Form of Knowledge” is Park’s article."
+      }
+    },
+    {
+      "id": "people-letters",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "story",
+      "title": "“Send us your letters”: 10 to 20 cents each",
+      "body": "1914. A strange advertisement appears in one of the Polish-language dailies, *Dziennik Związkowy*: anyone who has letters from the old country should send them to the advertiser; the aim is to show the nature of the Polish people. Ten to twenty cents will be paid per letter, and the letters will be returned. (*Dziennik Związkowy* was the daily paper of the Polish National Alliance. [[cite:illinois-polish-newspapers]])\n\nOne reader, an immigrant with more than a hundred letters, writes a wary reply: is the reward real, will he get the letters back? The correspondence is valuable to him; when the war is over he expects money to collect or a farm to take over. “Send me a guarantee,” he says. In a letter two weeks later he writes that he trusts their generosity, and sends the letters. [[cite:thomas-znaniecki-1918-polish-peasant]]\n\nThe advertisers were [[person:thomas|W. I. Thomas]] and Florian Znaniecki, and the result was *The Polish Peasant in Europe and America*. The book contains series of letters; in one, someone living in Poland advises subscribing to a Polish weekly, *Gazeta Świąteczna*, saying that papers now print more truth because they appear without censorship. [[cite:thomas-znaniecki-1918-polish-peasant]] So the newspaper is inside the data, too.\n\nFor sociology this was a threshold: not only censuses and theories but documents that ordinary people wrote in their own words counted as data. A Turkish encyclopaedia entry says the study laid the foundation of qualitative research methods in American sociology. [[cite:tubitak-chicago-okulu]]",
+      "question": {
+        "id": "people-letters-q",
+        "type": "mcq",
+        "prompt": "What is the methodological meaning of Thomas and Znaniecki collecting immigrants’ letters by advertisement?",
+        "options": [
+          "Counting immigrants to produce population statistics.",
+          "Measuring how persuasive a newspaper advertisement is for readers.",
+          "Classifying the spelling mistakes in the letters.",
+          "Reading what immigrants lived through, and how they saw events, from documents they wrote themselves."
+        ],
+        "answer": 3,
+        "explain": "The aim was to see how people describe their own situations in their own words; the advertisement was only the route to the data. The counting trap is tempting because sociology also works by counting, but here the data was personal documents, not numbers. The advertisement’s persuasive power was a tool, not the research subject."
+      }
+    },
+    {
+      "id": "deep-park-bio",
+      "section": "people-time",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: the route of Park the reporter",
+      "body": "Robert Ezra Park was born on 14 February 1864 in Harveyville, Pennsylvania; he grew up in Red Wing, Minnesota, where his family had moved. [[cite:wikipedia-park]] He studied philosophy at the University of Michigan, and one of his teachers was John Dewey. [[cite:ebsco-park]] [[cite:encyclopedia-park-iess]]\n\nFrom 1887 to 1898 he worked as a journalist: police stories, general assignments and features for papers in Minneapolis, Detroit, Denver, New York and Chicago. [[cite:wikipedia-park]] One source says he became known for the persistence with which he pursued a story and for writing about the underworld. [[cite:ebsco-park]] Then he turned to academia: he finished a master’s at Harvard in 1899, attended Georg Simmel’s lectures in Berlin, and in 1904 took his doctorate at Heidelberg with a thesis titled *Masse und Publikum* (Crowd and Public). [[cite:encyclopedia-park-iess]] [[cite:wikipedia-park]] Our interpretation: the 1921 textbook has a section called “the crowd and the public” in its chapter on collective behaviour, [[cite:park-burgess-1921-intro-sociology]] which suggests that for the former reporter “public” and “news” were never foreign ideas.\n\nThen he worked in public relations at the Tuskegee Institute for Booker T. Washington. [[cite:ebsco-park]] In 1914 he joined the sociology department at the University of Chicago, [[cite:encyclopedia-park-iess]] and developed a “human ecology” approach that used the city as a research laboratory. [[cite:ebsco-park]] After leaving his Chicago post he taught at Fisk University in Nashville and died there in 1944. [[cite:encyclopedia-park-iess]]\n\nNote: the sources disagree on the years in which Park’s Tuskegee and Chicago posts ended, so we have not given those two years."
+    },
+    {
+      "id": "claim-core",
+      "section": "claim",
+      "layer": "core",
+      "kind": "text",
+      "title": "The core claim: society exists in communication",
+      "body": "If you had to squeeze the Chicago School’s thinking on communication into one sentence: society is possible because people make something common, and the way to make it common is communication. So communication is not a tool added to society afterwards; it is society itself. [[cite:dewey-1916-democracy-education]] [[cite:park-burgess-1921-intro-sociology]]\n\n[[person:park|Park]] described this as a balance of two forces. Competition separates people: it brings an orderly distribution and a division of labour, and increases individuation. Communication builds understanding and cultural solidarity; it integrates. The two complement each other. [[cite:park-1938-communication-culture]] Our interpretation: the city is one of the places where these two forces are most visible, and the city’s newspaper is communication’s most visible instrument. In 1915 Park calls the newspaper the great medium of communication within the city and writes that public opinion rests on the information it supplies. [[cite:park-1915-city-suggestions]]\n\nKeep three ideas in mind:\n\n1. **Society = a common world.** Without a common language, common news and common attention there is no “we”.\n2. **City = laboratory.** Social processes appear enlarged there, so that is where they are studied.\n3. **News = a form of knowledge.** A kind of knowledge with its own rules, between acquaintance and formal knowledge.\n\nWe will see in turn how this ambitious sentence works, where it struggles, and who criticised it.",
+      "question": {
+        "id": "claim-core-q",
+        "type": "mcq",
+        "prompt": "By Park’s competition–communication distinction, which of the following is an example of an “integrating” function?",
+        "options": [
+          "Two greengrocers in a district cutting prices to attract customers",
+          "Residents of a neighbourhood passing on a shared problem (say, a water cut) to one another and coming to hold the same information",
+          "The division of jobs into specialisms in a factory",
+          "Rents falling with distance from the city centre"
+        ],
+        "answer": 1,
+        "explain": "For Park, communication builds understanding and solidarity among people and communities; holding shared information is a typical case. Price-cutting is competition; the division of labour and the spatial distribution are the part Park ties to competition, the separating side. The tempting wrong answer is the division of labour: it is easy to mistake it for “social order” and so for communication, but Park counts it as a product of competition, not of communication."
+      }
+    },
+    {
+      "id": "claim-city",
+      "section": "claim",
+      "layer": "core",
+      "kind": "text",
+      "title": "The city as laboratory: why the city?",
+      "body": "The last sentences of Park’s 1915 article “The City” are the nearest thing to a Chicago School slogan. A great city lays bare, in a massive way, traits that usually stay hidden and suppressed in small communities: it shows the good and the evil in human nature “in excess”. For Park this justifies the view that treats the city as a “laboratory or clinic” in which human nature and social processes can be studied most conveniently and profitably. [[cite:park-1915-city-suggestions]]\n\nThe laboratory here is not a tightly controlled experimental room. Our reading: the city makes everything visible, and the observer can go to the street, the neighbourhood, the newspaper and look. Indeed, in the same article Park gives the researcher lists of questions; for example, in a neighbourhood, what is news, where does attention generally go, and which models are imitated? [[cite:park-1915-city-suggestions]] Two of those questions are about communication: news and attention are the signs of a community’s common world.\n\nThe same 1915 article also brings immigrants, social mobility, public opinion and the press into a single frame; so here “the city” is not only buildings but the way people tell each other things. That is why the word “communication” in the lesson title is not a later addition: at least in Park’s hands, urban sociology was communication sociology from the start.",
+      "question": {
+        "id": "claim-city-q",
+        "type": "tf",
+        "prompt": "True or false: Park’s comparison “the city is a laboratory” means that the researcher must rebuild the city through controlled experiments.",
+        "answer": false,
+        "explain": "False. Park sees the city as a place where human nature and social processes can be studied most conveniently: it enlarges traits and makes them visible, so observation becomes easy. The method that follows is not experiment but fieldwork and reading a neighbourhood through questions."
+      }
+    },
+    {
+      "id": "concepts-glossary",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Glossary",
+      "body": "- **[[concept:chicago-school|Chicago School]]:** the community of sociologists who, between 1915 and 1935 at the University of Chicago, did empirical research on the city, migration and social order. [[cite:bulmer-1984-chicago-school]]\n- **[[concept:human-ecology|Human ecology]]:** applying to human relations the way of looking used for plant and animal communities; competition creates order, and the cultural order limits that competition. [[cite:park-1936-human-ecology]]\n- **[[concept:social-laboratory|Social laboratory]]:** seeing the city as the place where social processes can be observed enlarged. [[cite:park-1915-city-suggestions]]\n- **[[concept:thomas-theorem|Thomas theorem]]:** if people define a situation as real, it is real in its consequences. [[cite:thomas-thomas-1928-child-in-america]]\n- **[[concept:urbanism|Urbanism]]:** for Wirth, the way of life peculiar to the settlement of a relatively large, dense, permanent and socially heterogeneous population. [[cite:wirth-1938-urbanism]]\n- **[[concept:immigrant-press|Immigrant press]]:** newspapers and magazines that immigrants publish in their own languages; Park’s subject. [[cite:park-1922-immigrant-press]]\n- **[[concept:news-as-knowledge|News as a form of knowledge]]:** Park’s idea that news is a transient, talk-provoking kind of knowledge with a place of its own on the continuum between acquaintance and formal knowledge. [[cite:park-1940-news-knowledge]]\n- **[[concept:public-opinion|Public opinion]]:** for Park, the shared opinion that in the city rests on the information the newspaper supplies. [[cite:park-1915-city-suggestions]]\n\nMost of this glossary comes alive with an example in the cards that follow.",
+      "question": {
+        "id": "concepts-glossary-q",
+        "type": "match",
+        "prompt": "Match each concept with its definition.",
+        "pairs": [
+          [
+            "Human ecology",
+            "Applying to human relations the analysis used for plant and animal communities"
+          ],
+          [
+            "Thomas theorem",
+            "If people take a situation to be real, its consequences are real too"
+          ],
+          [
+            "Urbanism (Wirth)",
+            "The way of life of the permanent settlement of a large, dense, differentiated population"
+          ],
+          [
+            "News as a form of knowledge",
+            "A transient, talk-provoking kind of knowledge about events"
+          ]
+        ],
+        "explain": "The matches most often confused are the Thomas theorem and “news as a form of knowledge”: one concerns how a person defines a situation, the other the kind of knowledge. Human ecology thinks through competition and space, urbanism through size, density and differentiation."
+      }
+    },
+    {
+      "id": "concepts-thomas",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "story",
+      "title": "The warden of Dannemora and one sentence",
+      "body": "The year is 1928. William I. Thomas and Dorothy Swaine Thomas, in the methods chapter of a thick book on child behaviour (*The Child in America*), give an extreme example: the warden of Dannemora prison refused to carry out a court order to let an inmate out for a time, because the man was too dangerous. The inmate had killed several people who talked to themselves in the street; from the movement of their lips he imagined they were insulting him and behaved accordingly. [[cite:thomas-thomas-1928-child-in-america]]\n\nRight after it comes this sentence: if men define situations as real, they are real in their consequences. [[cite:thomas-thomas-1928-child-in-america]] [[person:merton|Robert K. Merton]] later named the sentence the “Thomas theorem” and counted it a theorem basic to the social sciences. [[cite:merton-1948-self-fulfilling-prophecy]]\n\nThe point is this: in reality nobody was insulting him. But what determined his behaviour was not the “objective” situation but how he defined it. That is why the Thomases argued that the researcher must record not only verifiable conditions but also how the person sees those conditions, because behaviour often depends on how the person defines the situation. [[cite:thomas-thomas-1928-child-in-america]]\n\nWhat it means for a communication course: rumours, headlines and conversation are the material through which people define a “situation”. Their truth matters, but so does how people come to believe them.",
+      "question": {
+        "id": "concepts-thomas-q",
+        "type": "mcq",
+        "prompt": "Imagine: a rumour spreads in a neighbourhood group that “the bakery will stop selling bread from tomorrow”. The bakery will in fact stay open, but everyone stocks up on bread this evening and the bakery runs out in the evening hours. According to the Thomas theorem, what happened?",
+        "options": [
+          "Because the rumour was false, it had no consequences.",
+          "The baker deliberately manipulated people.",
+          "People took the situation (the bread running out) to be real, and that definition had real consequences: the bread really did run out.",
+          "Since the objective situation did not change, people’s behaviour did not change either."
+        ],
+        "answer": 2,
+        "explain": "The theorem does not require the belief to be true; on the contrary, it says that when people act on a definition, the consequences are real even if it is false. The answers “the rumour was false, so nothing followed” and “the objective situation did not change, so behaviour would not either” both assume that only objective conditions matter, which is exactly what the theorem refutes. Blaming the baker adds a villain who is not in the scenario."
+      }
+    },
+    {
+      "id": "deep-bank-parable",
+      "section": "concepts",
+      "layer": "deep",
+      "kind": "story",
+      "title": "Deep dive: Merton’s bank parable and “Thomas before Thomas”",
+      "body": "In 1948 Merton brings the theorem to life with an explicit parable. The year is 1932; the Last National Bank is a healthy bank, and its president, Cartwright Millingville, is proud of it. One morning, as he enters, he sees some two dozen men lined up at the tellers’ cages; the queue keeps growing. For Merton this is “a situation defined as real”: once enough depositors believe a rumour that the bank will fail, the rumour brings about the failure of the bank. [[cite:merton-1948-self-fulfilling-prophecy]]\n\nNote: this is not a particular bank from history but a fictional story that Merton himself calls a “sociological parable”; the bank and its president are invented. [[cite:merton-1948-self-fulfilling-prophecy]] From the parable Merton draws a general conclusion: public definitions of a situation (prophecies, predictions) become an integral part of the situation and so affect later developments. This is peculiar to human affairs: a prediction of the return of Halley’s comet does not change the comet’s orbit, but a rumour that a bank will fail can produce the failure. [[cite:merton-1948-self-fulfilling-prophecy]]\n\nA second interesting detail: Merton also writes that essentially the same theorem had been set out repeatedly, long before Thomas, by disciplined and observant minds; he names Bossuet, Mandeville, Marx and Freud. [[cite:merton-1948-self-fulfilling-prophecy]] Our interpretation: the theorem’s fame may come less from the novelty of the idea than from its fitting into one short sentence and getting a name.\n\nOur interpretation, too: the channel through which a rumour spreads (newspaper, telephone, conversation) is the communication side of the parable; the channel decides how many people the “definition of the situation” will reach."
+    },
+    {
+      "id": "assump-dewey",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "text",
+      "title": "The assumption: what is common becomes common through communication",
+      "body": "The Chicago School’s idea of communication came from the philosopher [[person:dewey|John Dewey]]. In 1916 Dewey wrote that society not only continues to exist by transmission and communication; it “may fairly be said to exist in transmission, in communication”. Then a word play: between *common*, *community* and *communication* there is more than a verbal tie; people live in a community by virtue of the things they have in common, and the way they come to have things in common is communication. [[cite:dewey-1916-democracy-education]] (In Turkish the play does not survive: the words for “common”, “community” and “communication” are not related.)\n\nIn 1921 Park and Burgess put this passage into their textbook and treated communication “as Dewey has defined the term”. [[cite:park-burgess-1921-intro-sociology]] In 1927 Dewey carried the same idea into politics: unless the “Great Society”, bound together by industry and technology, is converted into a “Great Community”, the public remains in eclipse, and only communication can create a Great Community. [[cite:dewey-1927-public-problems]]\n\nAt Michigan, Charles Horton Cooley in 1909 likewise defined communication as the mechanism through which human relations exist and develop, counting among it speech and writing but also printing, railways, telegraphs and telephones (this lesson only points to him; Cooley belongs to another lesson). [[cite:cooley-1909-social-organization]]\n\nOur reading: this is a relative of what would later be called the [[concept:ritual-view|ritual view]]. Communication is not only carrying information but building a common world; more in the [[lesson:ritual-view]] lesson.",
+      "question": {
+        "id": "assump-dewey-q",
+        "type": "mcq",
+        "prompt": "What is the main claim behind Dewey’s *common–community–communication* word play?",
+        "options": [
+          "Communication is a result of community: first a community is formed, and only later does communication begin.",
+          "Everything that is common is secured through legal regulation.",
+          "It is no accident that the three words begin with the same letter.",
+          "A community is built from what people hold in common, and the way to hold things in common is communication."
+        ],
+        "answer": 3,
+        "explain": "For Dewey, a community rests on shared aims, beliefs and knowledge, and what makes them shared is communication. “First community, then communication” is a tempting reversal: Dewey says society exists “in” communication, not before it. The same-letter reading takes the word play superficially; Dewey’s point is the conceptual relation that the shared root shows."
+      }
+    },
+    {
+      "id": "assump-myth",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "myth",
+      "title": "Myth: “The immigrant newspaper keeps the immigrant foreign”",
+      "body": "**What people assume.** An immigrant who reads a paper in his own language never learns about the new country; the immigrant press is a kind of “separate state”. In the years of the First World War this suspicion turned into legal control: an act of 6 October 1917 required that English translations of foreign-language items about the war and the government be filed with the postmaster. [[cite:mki-wisc-trading-enemy-act]] [[cite:todayinclh-trading-enemy-act]]\n\n**What the evidence says.** [[person:park|Park]]’s 1922 book asks the question as “brake or accelerator?” The editor of the Lithuanian paper *Draugas* argues that the foreign-language press separates communities and prevents assimilation; other editors say the paper helps immigrants, especially the first generation, to find their bearings in the American environment and to share in its intellectual, political and social life. [[cite:park-1922-immigrant-press]]\n\nPark’s own conclusion: it depends on content. Depending on what it prints, the press can hasten or retard assimilation; it can turn the immigrant’s interest back towards the home country, but it can also introduce America to him and give him the material on which to build interest and affection. [[cite:park-1922-immigrant-press]] So the press is not in itself a “good” or “bad” factor; it is a bridge or a wall depending on what it says.\n\nA note on limits (our assessment): Park reports this debate through editors’ views, surveys and observation; it is a descriptive study, not a numerical test of effects. Expecting a firm measurement of “brake” or “accelerator” from it would be a mistake; but it is a good warning against blaming the language itself.",
+      "question": {
+        "id": "assump-myth-q",
+        "type": "mcq",
+        "prompt": "Which sentence is closest to Park’s 1922 conclusion?",
+        "options": [
+          "The immigrant press prevents assimilation under all conditions.",
+          "The immigrant press Americanises the immigrant under all conditions.",
+          "The effect of the immigrant press depends on its content: it can speed assimilation up or slow it down.",
+          "The immigrant press has no effect at all; immigrants do not read anyway."
+        ],
+        "answer": 2,
+        "explain": "Park reports both the “brake” and the “accelerator” views and makes his own conclusion depend on content. The first two options say “under all conditions” and so overshoot; the fourth contradicts the strong reading habit that the Villchur survey showed."
+      }
+    },
+    {
+      "id": "deep-thought-news",
+      "section": "assumptions",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: Dewey, Park and the newspaper that never appeared",
+      "body": "The link between Dewey and Park is not only a matter of books. Park was Dewey’s student at Michigan; Dewey introduced him to the journalist Franklin Ford, and Park and Ford planned a newspaper that would make public opinion into news: *Thought News*. The paper was never published. [[cite:ebsco-park]] [[cite:wikipedia-park]]\n\nA subtlety: Dewey was at Chicago from 1894 to 1904, headed the philosophy department and founded the Laboratory School; [[cite:sep-dewey]] [[cite:wikipedia-dewey]] Park came to Chicago in 1914. [[cite:encyclopedia-park-iess]] So they did not share a corridor in Chicago; their tie was personal and intellectual.\n\nDewey’s *The Public and Its Problems* (1927) also says something about news: news is what has just happened and is new because it departs from the old and regular; but its meaning depends on what it imports, on its social consequences. [[cite:dewey-1927-public-problems]] That sounds familiar next to Park’s 1940 idea that news deals with events bringing sudden and decisive change (our observation).\n\nIn the same book Dewey openly records his debt to Walter Lippmann: he acknowledges ideas from *Public Opinion* and *The Phantom Public*. [[cite:dewey-1927-public-problems]] Lippmann’s *Public Opinion* (1922), with [[person:lippmann|Lippmann]]’s idea of “the pictures in our heads”, [[cite:lippmann-1922]] is also the starting point of the [[lesson:agenda-setting]] lesson. So Chicago’s thinking on communication meets the later debates on public opinion and the agenda at the same knot."
+    },
+    {
+      "id": "how-news-steps",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "How does news integrate? Five steps",
+      "body": "If we gather Park’s writings on news into one mechanism, a chain like this emerges (the sequence is our summary):\n\n1. **The small world.** Village life rests on face-to-face relations: speech and neighbourly gossip. In the village, “everyone knows everything about everyone else.” [[cite:park-1922-immigrant-press]] [[cite:park-burgess-1921-intro-sociology]]\n2. **The city and the new environment.** In the industrial city the immigrant is suddenly in a wide, unfamiliar environment. The urgent information used for adjusting in that environment is called “news”. [[cite:park-1922-immigrant-press]]\n3. **The newspaper as common ground.** The newspaper is the great medium of communication within the city; public opinion rests on the information it supplies. The modern newspaper is a product of city life. [[cite:park-1915-city-suggestions]] [[cite:park-1923-natural-history-newspaper]]\n4. **Events are selected and talked about.** News is the kind of event that will make people talk; it is usually limited to events bringing sudden and decisive change. [[cite:park-1940-news-knowledge]]\n5. **Shared understanding and participation.** News circulates as far as its message is understood and seems important; the more it circulates, the more the members of a society take part in common political action. [[cite:park-1938-communication-culture]] [[cite:park-1940-news-knowledge]]\n\nIn short: in Park’s lens news makes a “bond”, not an “effect”; it is the mechanism that creates the city society’s common attention and common talk (our summary).",
+      "question": {
+        "id": "how-news-steps-q",
+        "type": "order",
+        "prompt": "Put the chain the card describes in the right order.",
+        "items": [
+          "In the village, information travels through face-to-face talk",
+          "The immigrant enters a wide, new urban environment and needs urgent information",
+          "The newspaper, as the city’s common medium, supplies the information on which public opinion rests",
+          "News selects the events that will make people talk",
+          "Shared understanding spreads and participation in common action rises"
+        ],
+        "explain": "The chain runs from the small face-to-face world to the wide urban environment, then to the common medium, to the selection of events and finally to shared understanding. Putting the newspaper first is a common mistake: the newspaper exists in response to a need the city creates; it does not create the need. Putting shared understanding before event selection would also reverse it; news is first selected, then talked about and understood."
+      }
+    },
+    {
+      "id": "how-acquaintance",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "text",
+      "title": "Acquaintance or knowledge about? News is neither",
+      "body": "Is knowing a friend the same as having knowledge about her? The philosopher and psychologist William James separated the two in 1890: to be acquainted with a thing (*acquaintance with*) is to be limited to the bare impression it makes; knowledge about it (*knowledge about*) is to know its relations. [[cite:james-1890-principles-psychology]] Our example: knowing the taste of a soup is one thing; knowing which kitchen it comes from and how it is made is another.\n\nIn 1940 [[person:park|Park]] applied James’s distinction to news. For him “knowledge about” is formal knowledge; “acquaintance” is unsystematic, intuitive knowledge close to common sense. These form a continuum, and news has a place of its own on it: a transient, quickly ageing kind of knowledge. [[cite:park-1940-news-knowledge]] News is the kind that “will make people talk”, it is usually limited to events that bring sudden and decisive change, and its function is to orient people and society in an actual world. [[cite:park-1940-news-knowledge]]\n\nWhy does this matter? Because news is different both from a history book’s lasting account of the world and from a neighbour’s knowing you: it is the knowledge that tells us where the world stands this morning. The same knowledge tomorrow is “old”. Chicago’s thinking on communication stands out for taking news seriously as such a concrete and transient kind of knowledge.",
+      "question": {
+        "id": "how-acquaintance-q",
+        "type": "mcq",
+        "prompt": "Imagine: in the morning your neighbour says at the door, “Lightning hit the transformer last night, no electricity until evening.” In Park’s framework, which quality does this information carry most?",
+        "options": [
+          "Long-lived, systematic “knowledge about”.",
+          "The character of news: to be talked about today, stale tomorrow, and orienting people in the world they are in.",
+          "Just common sense; it does not count as news.",
+          "It is acquaintance knowledge and identical to news."
+        ],
+        "answer": 1,
+        "explain": "This information concerns a sudden event, is the kind people tell one another, and is useful until evening; so it carries what Park stresses in news: transient, orienting, talk-provoking. It is obviously not systematic “knowledge about”. The last two options are traps: news is neither identical to common sense nor to acquaintance; it has a place of its own on the continuum."
+      }
+    },
+    {
+      "id": "how-ecology",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Reading the city as an ecosystem: Burgess’s rings",
+      "body": "The idea of [[concept:human-ecology|human ecology]] works like this. For Park the kind of analysis used for plant and animal communities can be applied to human relations too; competition creates order, and the cultural order limits that competition on economic, political and moral levels. [[cite:park-1936-human-ecology]] Applied to a city:\n\n1. **Competition divides space.** People and functions compete for room in the city.\n2. **Culture limits competition.** The contest never runs without rules; customs, laws and morals shape its form.\n3. **Rings appear.** In *The City* (1925) [[person:burgess|Ernest Burgess]] drew a city’s growth as rings expanding outward from the central business district; the model came from observing Chicago. [[cite:park-burgess-1925-the-city]] [[cite:transportgeography-burgess]]\n4. **Communication settles too.** Wirth’s 1938 article lists, among the elements that explain the dominance of cities, the press, radio stations, theatres, libraries and publishing centres; so media gather where population concentrates. [[cite:wirth-1938-urbanism]]\n\nDo not memorise the rings: the model was later criticised (see the critique card). The communication side of the lesson is this: a city is not just a place but a density of communication; media and news are part of the ecological order.",
+      "question": {
+        "id": "how-ecology-q",
+        "type": "mcq",
+        "prompt": "Imagine: a researcher marks on a map the neighbourhoods where a city’s local newspapers are distributed and compares them with population density. Which Chicago idea is this closest to?",
+        "options": [
+          "The Thomas theorem: the consequences of taking situations to be real.",
+          "James’s distinction between acquaintance and knowledge about.",
+          "Human ecology: the spatial distribution of communities and functions in the city.",
+          "Dewey’s Great Community: communication creating a political public."
+        ],
+        "answer": 2,
+        "explain": "Mapping distribution is the work of the ecological view and of Chicago’s tradition of spot maps. The Thomas theorem is about meaning, James’s distinction about kinds of knowledge, and Dewey’s Great Community about a normative ideal; none of them looks at spatial distribution."
+      }
+    },
+    {
+      "id": "how-lab-read",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Lab 1: read a documented immigrant-press case",
+      "body": "Besides Park’s book we have another heap of documents compiled from Chicago’s own newspapers: the Chicago Foreign Language Press Survey. It was set up in 1936 as an Illinois Works Progress Administration project sponsored by the Chicago Public Library; it produced about 120,000 typewritten pages of translations from Chicago’s foreign-language papers, was ended in 1941 and published in 1942. [[cite:uchicago-cflps-finding-aid]] [[cite:newberry-flps]] Workers selected articles by subject codes, translated and classified them; editors reviewed the translations. [[cite:iehs-cflps-teaching]] The Newberry Library later digitized the archive. [[cite:iehs-cflps-teaching]] The project’s question was how Chicago came to develop as it did, especially assimilation and cultural diffusion. [[cite:uchicago-cflps-finding-aid]]\n\n**Exercise (a reading exercise).** If you can reach the Newberry Library’s online archive, pick one article and ask four questions: (1) Whom is the piece addressing? (2) Does it give the reader urgent information for the new city and new job, in Park’s sense? (3) What is there about the old country? (4) Can you conclude from this one piece that “the press speeds up” or “slows down” assimilation?\n\nThe answer to the fourth question is no: one example is not evidence. Also, the pieces are a selection: the project chose by predetermined subject codes, and the pieces are translations. Before using a source as evidence, asking who chose what and why is the basic habit of any archive work.",
+      "question": {
+        "id": "how-lab-read-q",
+        "type": "mcq",
+        "prompt": "The articles translated in the Survey were selected and classified by predetermined subject codes. What does that tell you when you use the archive?",
+        "options": [
+          "The archive is a complete and neutral copy of the newspapers.",
+          "The archive is a selection filtered by the project’s questions; when reading it as evidence you should account for that filter.",
+          "The translations are certain and beyond dispute.",
+          "The newspapers were never censored."
+        ],
+        "answer": 1,
+        "explain": "Selection and classification mean the archive was shaped by the project’s questions; that is the basic step of source criticism. Calling it a complete and neutral copy ignores that it was selected; no document can be assumed to be a certainly correct translation. The question of censorship is not answered here."
+      }
+    },
+    {
+      "id": "how-lab-map",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Lab 2 (exercise): map your neighbourhood’s information channels",
+      "body": "This is an exercise: it collects no data but builds a habit of observation. It is inspired by the list of questions in Park’s 1915 article: “What is news in this neighbourhood? Where does attention generally go?” [[cite:park-1915-city-suggestions]]\n\nChoose an area of your own neighbourhood (or dormitory, or village) and, in twenty minutes, sketch this:\n\n1. **Count the channels.** Who tells whom, and how? Notice boards, shopkeepers, school, associations, places of worship, a neighbours’ group, a local page, the headman’s or caretaker’s announcements, a messaging group… write your own list.\n2. **Whom does each reach?** Note whom each channel reaches and whom it leaves out (language, age, occupation, computer access).\n3. **What kind of information flows?** Urgent information (a water cut), chatter, an official notice?\n4. **Look for gaps.** Which resident might get news from no channel at all?\n5. **Write a one-sentence thesis:** “In this neighbourhood, news travels like this…”\n\nWarning: this exercise generates a hypothesis, not evidence. Do not write down other people’s personal information; do not copy the content of group messages, only note the type of channel and whom it reaches. Researchers in Chicago also marked on maps the places where particular behaviours occurred; spot maps and statistics were among the school’s tools. [[cite:wikipedia-chicago-school]] [[cite:bulmer-1984-chicago-school]]",
+      "question": {
+        "id": "how-lab-map-q",
+        "type": "mcq",
+        "prompt": "In your exercise you notice that one resident gets news from no channel at all. How is this best read from a Chicago School viewpoint?",
+        "options": [
+          "An unimportant detail; news spreads by itself anyway.",
+          "The person’s own fault; they lack media literacy.",
+          "It proves the neighbourhood really is a community.",
+          "A communication gap: that person may be outside the neighbourhood’s common world of information."
+        ],
+        "answer": 3,
+        "explain": "In Chicago’s view society is built from shared information; someone inside no channel risks being left outside the common world. Blaming personal fault pushes a structural problem onto the individual. “News spreads by itself” is precisely the assumption that needs testing. “It proves it is a community” says the opposite of what was observed: if someone is left out, the common world is incomplete."
+      }
+    },
+    {
+      "id": "evidence-press",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "text",
+      "title": "Evidence: Park’s press study and the test of the war years",
+      "body": "*The Immigrant Press and Its Control* (1922) was part of a series called “Americanization Studies”, funded by the Carnegie Corporation; according to the foreword, the material had been gathered by the series’ immigrant-press division. [[cite:park-1922-immigrant-press]] So Park did not work alone at a desk but with the material of a research bureau.\n\nOne striking part of the book covers the war years. In Park’s account the first serious public attempt to control the immigrant press was made in the First World War, as part of the fight against enemy propaganda. [[cite:park-1922-immigrant-press]] Drawing on hearing records in the Post Office Department’s files, Park writes that the number of foreign-language papers actually denied Post Office services was very small, “probably not more than ten”; some newspaper offices were raided by the Department of Justice, but the Post Office Department suppressed no paper. Moreover, between 5 October 1917 and 14 January 1919, 650 foreign-language papers were given permits to publish without filing translations. [[cite:park-1922-immigrant-press]]\n\nHow strong is this evidence? Our assessment: it is a description based on official records; it shows what the state did, not how the press affected its readers. On the press’s effect Park is content with editors’ statements and surveys like Villchur’s. So Chicago’s strength lies less in causal claims tested with numbers than in describing “where, who and how?” with documents; it should be judged not as “right” or “wrong” but by which question it answers.",
+      "question": {
+        "id": "evidence-press-q",
+        "type": "tf",
+        "prompt": "True or false: According to Park’s book, in the war years the Post Office Department completely shut down a large number of foreign-language papers.",
+        "answer": false,
+        "explain": "False. Drawing on hearing records in the Post Office Department’s files, Park writes that the number of foreign-language papers actually denied its services was very small (probably not more than ten) and that no paper was suppressed by the Post Office Department; 650 papers, meanwhile, received permits to publish without filing translations. Some offices were raided by the Department of Justice; mixing up these two is an exam trap."
+      }
+    },
+    {
+      "id": "deep-polish-peasant",
+      "section": "evidence",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: the methodological note of *The Polish Peasant* and the “definition of the situation”",
+      "body": "Ten years before the theorem appeared in 1928, the first volume of Thomas and Znaniecki’s *The Polish Peasant in Europe and America*, published in 1918, contained a methodological note. The note says that to understand a social act one must look at three kinds of data: (1) the objective conditions under which the individual or society acts, that is, the totality of values that at the given moment affect, directly or indirectly, the conscious status of the individual or group; (2) the pre-existing attitudes of the individual or group; (3) the definition of the situation, the more or less clear conception of the conditions and of the attitudes. [[cite:thomas-znaniecki-1918-polish-peasant]]\n\nThe authors call the definition of the situation a “necessary preliminary to any act of the will”: in given conditions and with given attitudes an indefinite plurality of actions is possible, and a definite action appears only when conditions are selected, interpreted and combined. Usually a process of reflection occurs: either a ready social definition is applied or a new personal definition is worked out. [[cite:thomas-znaniecki-1918-polish-peasant]]\n\nOur interpretation: the famous sentence of 1928 can be read as the short form of this methodological thought; the definition is the condition of behaviour. Also, we read only the first volume; the other volumes of the work (for example the one devoted to an immigrant’s life record) are not described here. This card exists to show that behind the one-sentence form of the theory stands a methodological programme."
+    },
+    {
+      "id": "critique-limits",
+      "section": "critique",
+      "layer": "core",
+      "kind": "text",
+      "title": "Criticism: the rings, urbanism and the language of the time",
+      "body": "Three criticisms of the Chicago School are often repeated.\n\n1. **The model is too simple and too American.** Burgess’s rings were developed for American cities; they do not fit other settings, for example pre-industrial European cities where the centre had high status; and the separation of workplace from residence became general only in the twentieth century. [[cite:transportgeography-burgess]]\n2. **Wirth’s urbanism and Fischer.** In 1975 Claude Fischer wrote that Wirth’s theory had been eclipsed by a view that denies ecological factors, but that this view fails to explain the “unconventionality” of urban life. On his own model, population concentration leads to a diversity of subcultures, strengthens them and fosters diffusion among them. [[cite:fischer-1975-subcultural-urbanism]] Fischer does not throw Wirth away: he brings the variable of size back in a different form.\n3. **The language of the time.** Park’s book appeared in a series called “Americanization Studies”, and assimilation was for him both an observation and a goal. Our reading: when assimilation is framed as a one-way goal there is a risk of treating the immigrant’s language and identity as an obstacle. Park’s text partly resists that risk: the immigrant’s language and memories are part of his personality, not baggage to be lost on the way; assimilation comes more readily when there are no mental conflicts. [[cite:park-1922-immigrant-press]]\n\nThe defenders’ reply? For this lesson we have not been able to verify a defence; in these sources there are only the criticisms. An honest conclusion: use Chicago’s concepts (ecology, urbanism, assimilation) in their historical context, knowing their limits.",
+      "question": {
+        "id": "critique-limits-q",
+        "type": "mcq",
+        "prompt": "According to Fischer (1975), how does population concentration produce “unconventional” behaviour in cities?",
+        "options": [
+          "Anonymity and strangeness cut people off from their ties.",
+          "By producing a diversity of subcultures, strengthening them and fostering diffusion among them.",
+          "By turning the city’s population entirely into a single uniform culture.",
+          "By widening the rings at the centre of the city."
+        ],
+        "answer": 1,
+        "explain": "Fischer’s middle link is subcultures: concentration brings diversity, strength and diffusion. The first option is Wirth’s familiar anonymity thesis and a tempting wrong answer; it is the framework Fischer tried to go beyond. The third reverses the point; the fourth confuses it with Burgess’s ring model."
+      }
+    },
+    {
+      "id": "deep-wirth-media",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: Wirth’s worry about the media — one school, two moods",
+      "body": "In 1938 Louis Wirth defined the city as “a relatively large, dense, and permanent settlement of socially heterogeneous individuals”. [[cite:wirth-1938-urbanism]] The same article also touches on the media. It writes that schools, movies, radio and newspapers, because they address a mass clientele, act as “leveling” influences; that the masses of the city can be steered with symbols and stereotypes by people who control the instruments of communication from afar or behind the scenes; and that in these conditions self-government can become “a mere figure of speech”. [[cite:wirth-1938-urbanism]]\n\nOur reading: this tone sets an interesting contrast with Park’s comparatively hopeful language of 1915, in which the newspaper is the basis of public opinion. But Park was not naive either: in his 1938 article he thinks it probable that the cinema is more devastating to local cultures than news proper. [[cite:park-1938-communication-culture]] So Chicago’s thinking on communication is neither pure optimism nor pure worry.\n\nOur observation: Wirth’s tone comes close to the mass-society debate you will meet in the [[lesson:mass-society]] lesson: a large, anonymous population and symbols managed from afar. But Wirth’s worry is a by-product of an analysis of urbanism, not the conclusion of a theory; it is safer to treat them as two separate traditions."
+    },
+    {
+      "id": "deep-chicago-columbia",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: “Chicago or Columbia?” a crude dichotomy",
+      "body": "A common dichotomy is told: Chicago is fieldwork and qualitative, Columbia is surveys and quantitative. There is a true core in it, but it is crude.\n\n**The core.** At Columbia, around [[person:lazarsfeld|Paul Lazarsfeld]] and [[person:merton|Robert Merton]], survey design and “middle-range theories” developed; Samuel Stouffer had led *The American Soldier* study, and Lazarsfeld had set up Columbia’s office of radio research. [[cite:goldthorpe-2021-chicago-columbia]] Herbert Blumer, trained at Chicago, published in 1956 an article criticising “variable analysis”. [[cite:blumer-1956-variable]]\n\n**The crudeness.** (a) Chicago was not only qualitative: according to Bulmer, a variety of qualitative and quantitative methods were pioneered in 1915–1935. [[cite:bulmer-1984-chicago-school]] (b) Lazarsfeld was not only quantitative: Jeřábek writes that in the literature he is often regarded as a purely quantitative methodologist, whereas he combined quantitative and qualitative methods; reason analysis, which asks “why?”, begins qualitative and ends quantitative. [[cite:jerabek-2022-lazarsfeld-methods]]\n\n**The real loss.** According to Wahl-Jorgensen, Chicago’s earliest communication programmes were short-lived interdisciplinary committees that died for lack of institutional support; they are unknown in the field’s history today. [[cite:wahl-jorgensen-2004-founding-field]] Another piece by the same author tells two stories: a tale of triumph (Chicago’s normative and empirical influence on media research) and a tale of loss (the decline of a socially engaged, often qualitative approach). Both are true. [[cite:wahl-jorgensen-2012-chicago-media]]\n\nOur inference: the rivalry was between people and institutions, not between methods. “Which method for which question?” is a more productive question than “who is right?”"
+    },
+    {
+      "id": "today-neighbourhood",
+      "section": "today",
+      "layer": "core",
+      "kind": "text",
+      "title": "Today: communication infrastructure and the “storytelling neighbourhood”",
+      "body": "Park’s immigrant-press question is alive today. In 2001 Ball-Rokeach, Kim and Matei studied seven residential areas in Los Angeles, in old and new immigrant communities, with multilingual data collection, and asked: what turns a person from the occupant of a house into a member of a neighbourhood? What they found: the most important factor in belonging was an active and integrated “storytelling system” that connected residents, community organizations and local media. [[cite:ball-rokeach-kim-matei-2001-storytelling]]\n\nThis can be read as an indirect descendant of Park’s idea (our interpretation): community is built by shared news and shared narrative. But two cautions. First, the study is from 2001; its abstract mentions neither today’s messaging groups nor social media. So saying “a group chat is a storytelling system” rests not on evidence but on our own reasoning. Second, the finding should not be read simply as “the more local media, the more belonging”: what is stressed is that the system is integrated and active.\n\nWe can extend the same reasoning to the Thomas theorem (again our own reasoning): a rumour or a headline produces consequences once enough people take it to be real; a neighbourhood group is a channel that can carry a rumour fast. Chicago’s two ideas, that shared information builds community and that definitions shape behaviour, feed each other in today’s networks, too.",
+      "question": {
+        "id": "today-neighbourhood-q",
+        "type": "mcq",
+        "prompt": "According to the findings of Ball-Rokeach and colleagues (2001), what most increases belonging in a neighbourhood?",
+        "options": [
+          "Watching more national television news.",
+          "An active and integrated storytelling system connecting residents, community organizations and local media.",
+          "Increasing the number of newspapers in the neighbourhood.",
+          "Newcomers relying only on sources in their own languages."
+        ],
+        "answer": 1,
+        "explain": "The study found the most important factor in belonging to be an active and integrated storytelling system that included residents, organizations and local media. Increasing the number of newspapers ignores the “integrated” quality; national news is not part of the local system. Relying only on sources in one’s own language could work against integration in a multilingual neighbourhood; the finding does not say this."
+      }
+    },
+    {
+      "id": "deep-legacy-blumer",
+      "section": "today",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: traces from Chicago — Blumer as a pointer",
+      "body": "One way to trace Chicago’s communication legacy runs through Herbert Blumer. Blumer took his doctorate at Chicago in 1928, and in 1937, in an overview article on social psychology in the volume *Man and Society* edited by W. Schmidt, he coined the term “symbolic interaction”. [[cite:encyclopedia-blumer]] [[cite:wikipedia-blumer]] At Chicago he is said to have been influenced by the thought of George Herbert Mead. [[cite:wikipedia-blumer]] Symbolic interactionism will be treated separately in the [[lesson:functionalism-interactionism]] lesson; here we only leave a pointer.\n\nBlumer also did media research: *Movies and Conduct* (1933) is one of the Payne Fund studies. [[cite:blumer-1933-movies-conduct]] The story of those studies is in the [[lesson:payne-fund-mars]] lesson.\n\nWahl-Jorgensen’s summary fits here: the Chicago School subtly but profoundly shaped the direction of scholarship on the media, but the history of its engagement with mass communication researchers is also a history of missed connections and opportunities. [[cite:wahl-jorgensen-2012-chicago-media]] So Chicago’s legacy should be read as a story of triumph and a story of loss together; to say that a school either still goes on or has wholly ended would leave both out."
+    },
+    {
+      "id": "exam-patterns",
+      "section": "exam",
+      "layer": "core",
+      "kind": "text",
+      "title": "This is how exams ask it",
+      "body": "**Typical question patterns**\n\n- “Which sociologist studied the immigrant press and treated news as a form of knowledge?” → Robert E. Park (*The Immigrant Press and Its Control*, 1922; “News as a Form of Knowledge”, 1940).\n- “Whose sentence is ‘If men define situations as real…’?” → W. I. Thomas (with Dorothy Swaine Thomas, 1928); the name is Merton’s.\n- “Whose is the concentric-ring model?” → Ernest Burgess (1925).\n- “Urbanism as a way of life?” → Louis Wirth (1938).\n- “The link between communication and community?” → John Dewey (1916, 1927).\n\n**Tempting wrong answers**\n\n- Attributing *The Polish Peasant* to Park: the work is by Thomas and Znaniecki.\n- Reading the Thomas theorem as “if people believe something false, the outcome is false”: the theorem says the consequences are real even if the belief is false.\n- Treating “Chicago = qualitative, Columbia = quantitative” as fixed: see the nuances in the deep card.\n- Thinking Park was born an academic: he spent 1887–1898 as a journalist.\n\n**Alternative names.** In Turkish sources the school appears as “Chicago Okulu”, “Şikago Okulu”, “Chicago Sosyoloji Ekolü”, “ekoloji okulu” or “ekolojik okul”. [[cite:kure-chicago-sociology-2025]] [[cite:tr-wikipedia-chicago-okulu]] [[cite:tubitak-chicago-okulu]] Human ecology is “insan ekolojisi” and the city as laboratory “sosyal laboratuvar”. One Turkish source gives Wirth’s article the title “Bir Yaşam Biçimi Olarak Kentlileşme”; this lesson’s own Turkish term is “kentlilik”. [[cite:kure-chicago-sociology-2025]] These are typical exam patterns; whichever source you read, run the question through the filter “who answers which question?”",
+      "question": {
+        "id": "exam-patterns-q",
+        "type": "mcq",
+        "prompt": "An exam question reads: “Which study collected letters from immigrants through a newspaper advertisement and used them as data?” Which should you choose?",
+        "options": [
+          "Park, *The Immigrant Press and Its Control*",
+          "Thomas and Znaniecki, *The Polish Peasant in Europe and America*",
+          "Wirth, “Urbanism as a Way of Life”",
+          "Burgess, *The City* (the ring model)"
+        ],
+        "answer": 1,
+        "explain": "The study that collected letters by advertisement and made them data is Thomas and Znaniecki’s. Park’s book is the trap: “immigrant” and “newspaper” appear, so it comes to mind, but it studies immigrant newspapers themselves. Wirth and Burgess are about the form of the city and its way of life."
+      }
+    },
+    {
+      "id": "summary",
+      "section": "summary",
+      "layer": "core",
+      "kind": "summary",
+      "title": "Summary card: one sentence from Chicago",
+      "body": "- **Context:** fast-growing Chicago full of immigrants; the first sociology department in 1892; 1915–1935 the “Chicago School”.\n- **Core claim:** society exists in communication (Dewey); communication integrates, competition separates (Park).\n- **City = laboratory** (Park 1915): fieldwork, maps, letters, newspapers.\n- **The immigrant press:** brake or accelerator? Park: it depends on content. In wartime, a translation requirement; in the Post Office records only very few papers were actually denied service.\n- **News is a form of knowledge** (Park 1940): on the continuum between acquaintance and formal knowledge, a transient, talk-provoking, orienting kind of knowledge (from James’s distinction).\n- **The Thomas theorem** (1928): if you define situations as real, they are real in their consequences; the belief need not be true. Merton named it; the bank parable is fiction.\n- **Human ecology and Burgess’s rings:** the city shaped by competition; criticism: specific to American cities, too simple.\n- **Wirth:** the city = a large, dense, permanent, differentiated population; he also carried a worry about the media.\n- **Today:** the “storytelling system” (Ball-Rokeach et al. 2001); for social media, only our own reasoning.\n- **Exam traps:** Park–Thomas (immigrant press or letters?); the “Chicago = qualitative” shortcut.",
+      "question": {
+        "id": "summary-q",
+        "type": "tf",
+        "prompt": "True or false: The Thomas theorem says a situation will produce real consequences only if it is true.",
+        "answer": false,
+        "explain": "False. The theorem says that when people define a situation as real, the consequences are real even if the definition is false. Merton’s bank parable is an example: depositors who believe a rumour that a sound bank will fail bring about its actual failure."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Which sentence best sums up the Chicago School’s view of communication?",
+      "options": [
+        "Communication is a tool added to society afterwards; society is formed first.",
+        "Society exists by people making something common, and the way to make it common is communication.",
+        "Communication is only the transmission of information and its effects must be measured.",
+        "The media alienate immigrants under all conditions."
+      ],
+      "answer": 1,
+      "explain": "The shared line of Dewey and Park is this: communication is society’s constitutive element. The first option is the exact opposite of the view; the third is the transmission view; the fourth contradicts Park’s 1922 conclusion, that the effect depends on content."
+    },
+    {
+      "id": "q2",
+      "type": "tf",
+      "prompt": "True or false: The Thomas theorem says that if a belief is true, its consequences will be real.",
+      "answer": false,
+      "explain": "False. The theorem says that even if a belief is false, when people act on it the consequences are real; Merton’s fictional bank is an example."
+    },
+    {
+      "id": "q3",
+      "type": "match",
+      "prompt": "Match the authors with their works.",
+      "pairs": [
+        [
+          "Robert Park",
+          "The Immigrant Press and Its Control"
+        ],
+        [
+          "W. I. Thomas and Florian Znaniecki",
+          "The Polish Peasant in Europe and America"
+        ],
+        [
+          "Louis Wirth",
+          "Urbanism as a Way of Life"
+        ],
+        [
+          "John Dewey",
+          "The Public and Its Problems"
+        ],
+        [
+          "W. I. Thomas and Dorothy Swaine Thomas",
+          "The Child in America"
+        ]
+      ],
+      "explain": "The pair most often confused is Park and Thomas: the immigrant press is Park’s, the work with immigrants’ letters is Thomas and Znaniecki’s. The Thomas theorem appears in the 1928 book he wrote with his wife, Dorothy Swaine Thomas. Dewey is a philosopher who wrote on the public and communication. Wirth is the theorist of the city."
+    },
+    {
+      "id": "q4",
+      "type": "order",
+      "prompt": "Put the events and works in chronological order (earliest to latest).",
+      "items": [
+        "Albion Small founds the first sociology department at Chicago (1892)",
+        "Park’s article “The City” (1915)",
+        "Thomas and Znaniecki, *The Polish Peasant* (1918 onwards)",
+        "Park, *The Immigrant Press and Its Control* (1922)",
+        "Thomas and Thomas, *The Child in America* (1928)",
+        "Wirth, “Urbanism as a Way of Life” (1938)"
+      ],
+      "explain": "The order is 1892, 1915, 1918, 1922, 1928, 1938. Thomas’s idea of the “definition of the situation” is present as method in *The Polish Peasant* (1918); the famous theorem sentence is in his 1928 book. Reversing these two is a common mistake."
+    },
+    {
+      "id": "q5",
+      "type": "cloze",
+      "prompt": "Fill in the blanks.",
+      "text": "For Wirth, for sociological purposes a city is a relatively large, {{1}} and permanent settlement of socially {{2}} individuals.",
+      "blanks": [
+        {
+          "options": [
+            "dense",
+            "orderly",
+            "planned"
+          ],
+          "answer": 0
+        },
+        {
+          "options": [
+            "differentiated",
+            "similar",
+            "of one origin"
+          ],
+          "answer": 0
+        }
+      ],
+      "explain": "Wirth’s definition has three criteria: size, density and differentiation (heterogeneity). “Orderly” and “planned” are not criteria; “similar” is the opposite of the definition: a city brings different people together."
+    },
+    {
+      "id": "q6",
+      "type": "case",
+      "scenario": "Imagine: in an industrial city, a newly arrived immigrant community learns about job advertisements, doctors’ addresses and neighbourhood announcements from a weekly paper in its own language. Part of the paper is given to political debates in the home country. Someone in the city council proposes banning it, saying, “this paper keeps immigrants foreign.”",
+      "parts": [
+        {
+          "id": "q6a",
+          "prompt": "In Park’s framework, what does the paper’s section with job advertisements and doctors’ addresses point to?",
+          "options": [
+            "Only homesickness.",
+            "Urgent information used to adjust to a new environment, that is, news.",
+            "Common sense turning into formal knowledge."
+          ],
+          "answer": 1,
+          "explain": "For Park, news is the urgent information used to adjust, change habits and form new views in a new environment; job advertisements and doctors’ addresses are exactly that. Homesickness is on Park’s list but does not explain this section."
+        },
+        {
+          "id": "q6b",
+          "prompt": "According to Park’s 1922 conclusion, what can be said about the proposed ban?",
+          "options": [
+            "It has been proved that the paper keeps immigrants foreign; the ban is justified.",
+            "The papers have no effect at all, so the ban is meaningless.",
+            "The paper’s effect depends on its content; it can speed up or slow down assimilation; the language alone is not enough of a reason."
+          ],
+          "answer": 2,
+          "explain": "Park reports both the “brake” and the “accelerator” views and makes his conclusion depend on content. The answer that says “it has been proved” treats a contested assumption as evidence; the answer that says “no effect at all” contradicts the strong reading habit that the Villchur survey showed."
+        }
+      ],
+      "takeaway": "Judge a media channel not by its language alone but by the combination of its content and its readers’ needs."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "Which feature of news does Park stress in his 1940 article “News as a Form of Knowledge”, starting from James’s distinction?",
+      "options": [
+        "That news is a lasting, systematic kind of knowledge.",
+        "That news is limited to the written press.",
+        "That news is a transient, quickly ageing kind of knowledge.",
+        "That news is entirely the same as common sense."
+      ],
+      "answer": 2,
+      "explain": "Park says news has a place of its own on the continuum of knowledge, with a transient, quickly ageing character. Lasting and systematic is “knowledge about”; common sense lies nearer the “acquaintance” end. That news is limited to the written press is not claimed in the article."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Which is one of the criticisms made of Burgess’s ring model?",
+      "options": [
+        "The model ignores the centre of the city altogether.",
+        "The model is only about the means of communication.",
+        "The model assumes cities never grow.",
+        "The model was developed for American cities and has limited validity in other settings, such as pre-industrial European cities."
+      ],
+      "answer": 3,
+      "explain": "The criticism says the model is specific to American cities and a particular historical period. “Ignores the centre” says the opposite of the model: everything is rings outward from the central business district. That it concerns only the means of communication, or assumes cities never grow, has nothing to do with the model."
+    },
+    {
+      "id": "q9",
+      "type": "tf",
+      "prompt": "True or false: Paul Lazarsfeld took no interest in qualitative methods and used only quantitative ones.",
+      "answer": false,
+      "explain": "False. According to Jeřábek, Lazarsfeld combined quantitative and qualitative methods; reason analysis begins qualitative and ends quantitative. That is why the Chicago–Columbia dichotomy is crude."
+    },
+    {
+      "id": "q10",
+      "type": "case",
+      "scenario": "Imagine: a student will study a local social-media group in her neighbourhood. Her first question: “What meaning do residents attach to the posts in this group?” Her second: “What percentage of the messages are of which kind?”",
+      "parts": [
+        {
+          "id": "q10a",
+          "prompt": "Which approach suits the first question better?",
+          "options": [
+            "Only counting word frequencies.",
+            "Talking with a few residents and reading the messages with them (fieldwork and interviews).",
+            "Looking at the size of the group without reading the messages."
+          ],
+          "answer": 1,
+          "explain": "“What meaning do they attach?” asks how people define the situation; that is close to the interview and observation tools of the Chicago tradition. Counting gives no meaning; group size has nothing to do with the question."
+        },
+        {
+          "id": "q10b",
+          "prompt": "What should be done once the second question is added?",
+          "options": [
+            "Combining the two methods is against the Chicago School; one must be chosen.",
+            "If she counts, the interviews become invalid.",
+            "Counting can be added too; combining the two methods is something both Chicago and Lazarsfeld did."
+          ],
+          "answer": 2,
+          "explain": "Chicago had maps and statistics, and Lazarsfeld had qualitative elements; combining methods according to the question is legitimate. “One must be chosen” and “counting invalidates interviews” both come from the crude “Chicago = qualitative, Columbia = quantitative” dichotomy."
+        }
+      ],
+      "takeaway": "Choose the method by the type of question, not by rival camps: questions of meaning call for interviews and observation, questions of distribution call for counting."
+    }
+  ]
+}

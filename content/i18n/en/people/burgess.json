@@ -1,0 +1,29 @@
+{
+  "id": "burgess",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "name": "Ernest W. Burgess",
+  "nativeName": "",
+  "slug": "ernest-burgess",
+  "short": "Canadian-born American sociologist (1886–1966); Park’s close colleague at Chicago. Known for the model in which a city grows in rings outward from its centre.",
+  "born": "Tilbury, Ontario, Canada",
+  "died": "Chicago, Illinois, USA",
+  "roles": [
+    "sociologist",
+    "urban sociologist"
+  ],
+  "bio": "Ernest W. Burgess was born on 16 May 1886 in Tilbury, Ontario, Canada. He took his first degree at Kingfisher College in Oklahoma and his doctorate at the University of Chicago (1913); he began teaching at Chicago in 1916 and became a professor in 1927. The textbook he wrote with Robert Park, *Introduction to the Science of Sociology* (1921), is the first-generation textbook of Chicago sociology. His chapter in *The City* (1925) is known for the “concentric zone” model, which shows a city growing in rings outward from the central business district; the model came out of observing Chicago and was later criticised as too simple and specific to American cities.\n\nBurgess also did pioneering work on the sociological study of the family and on predicting marital adjustment. His link to the Chicago School’s thinking on communication runs through the shared textbook with Park and through *The City*; Park’s writing on the newspaper and news, in our reading, completes the communication side of the ring model. He died in Chicago in 1966.",
+  "works": [
+    {
+      "bib": "park-burgess-1921-intro-sociology",
+      "note": "The textbook written with Park."
+    },
+    {
+      "bib": "park-burgess-1925-the-city",
+      "note": "The model of a city growing in rings."
+    }
+  ],
+  "inCourse": "Appears in this lesson as the author of the ecological reading of the city, the ring model. [[lesson:chicago-school]]"
+}
