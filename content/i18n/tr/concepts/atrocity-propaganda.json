@@ -1,0 +1,14 @@
+{
+  "id": "atrocity-propaganda",
+  "lang": "tr",
+  "term": "vahşet propagandası",
+  "altTerms": [
+    "zulüm propagandası",
+    "atrocity propaganda",
+    "atrocity stories"
+  ],
+  "slug": "vahset-propagandasi",
+  "short": "Düşmanın vahşetlerini anlatan, kimi doğru kimi uydurma ya da doğrulanamaz hikâyelerle düşmanlık ve öfke uyandırma yöntemi.",
+  "body": "Vahşet propagandası, düşmanın acımasızlığını gösteren hikâyeler üzerinden nefret ve öfke uyandırmaya çalışır. Harold Lasswell 1927’de bunu bir “pratik kural”la özetler: bir şey yeterince öfkelendirmiyorsa, bir vahşet hikâyesi kullan. Aynı kitap, hikâyelerin çoğunun eski ve tekrar edilen kalıplar olduğunu, kadınlara, çocuklara ve din adamlarına yönelik zulüm anlatılarının hep işlediğini de yazar.\n\nAma bu hikâyelerin hepsi uydurma değildir. 1914’te Belçika’da Alman ordusunun sivillere yönelik öldürmeleri, tarihçi John Horne ile Alan Kramer’e göre yaklaşık 6.500 Belçikalı ve Fransız sivilin ölümüne yol açtı; Bryce Komisyonu’nun 1915 raporu da bu olaylardan bir kısmını belgeledi. Buna karşılık “kadavra fabrikası” gibi hikâyeler uydurmaydı ve 1925’te resmen geri alındı. İki tür yan yana durabildiği için, savaş sonrasında uydurma bulunanlar bütün anlatıyı itibarsızlaştırdı.\n\nBu yüzden vahşet propagandasını incelerken her iddiayı ayrı ayrı sormak gerekir: kim anlatıyor, ilk kez nerede çıktı, bağımsız bir kaynak var mı?",
+  "example": "1917’de Alman cesetlerinden yağ elde edildiği söylentisi (kadavra fabrikası): 1925’te İngiliz hükümeti, Alman hükümetinin yalanlamasını kabul etti."
+}

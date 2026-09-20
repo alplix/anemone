@@ -1,0 +1,14 @@
+{
+  "id": "public-relations",
+  "lang": "tr",
+  "term": "halkla ilişkiler",
+  "altTerms": [
+    "public relations",
+    "PR",
+    "halkla ilişkiler danışmanlığı"
+  ],
+  "slug": "halkla-iliskiler",
+  "short": "Bir kuruluşun, fikrin ya da grubun kamuyla ilişkisini yönetme mesleği; Bernays’in 1928 tarihli kitabında “halkla ilişkiler danışmanı” olarak tarif edilir.",
+  "body": "Halkla ilişkiler, bir kuruluşun kamuyla ilişkisini yönetmeye çalışan meslektir. Edward Bernays 1928 tarihli *Propaganda* kitabında bu işi yapan kişiyi “halkla ilişkiler danışmanı” diye adlandırır ve mesleğin, toplumun karmaşıklaşması ve hemen her gücün kamuoyuna bağımlı olması yüzünden doğduğunu savunur. Danışman, onun tarifinde, iletişim araçlarını ve toplumun grup yapılarını kullanarak bir fikri kamunun bilincine getiren aracıdır.\n\nBernays aynı kitapta propaganda sözcüğünü savunur ve modern propagandayı, olayları kurarak ya da biçimlendirerek kamunun bir kuruluşla ilişkisini etkileyen sürekli bir çaba diye tanımlar; yani iki adı yan yana kullanır. Kaynakların bir kısmı, olumsuz yüklü propaganda yerine “halkla ilişkiler” adının seçildiğini yazar.\n\nTürkçede “halkla ilişkiler” yerleşik bir terimdir; ancak bu derste Türk Dil Kurumu sözlüğünde bu adla bir madde bulunamadı, bu yüzden terim “kontrol edilecek” diye işaretlenmiştir.",
+  "example": "Bernays’in kitabına göre bir yayıncı, bir belediye ya da bir hastane aynı işi yapabilir: kamuoyunun bir fikri anlamasını ve benimsemesini sağlayacak olayları ve haberleri kurmak."
+}

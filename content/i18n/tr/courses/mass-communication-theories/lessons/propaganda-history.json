@@ -1,0 +1,782 @@
+{
+  "id": "propaganda-history",
+  "lang": "tr",
+  "translation": {
+    "status": "source",
+    "date": "2026-09-20"
+  },
+  "title": "Propagandanın Tarihi",
+  "slug": "propagandanin-tarihi",
+  "description": "Propaganda 1622’de bir kilise kurulunun adıydı. Wellington House’tan Creel’e, kadavra fabrikasından Bernays ve Ellul’a sözcüğün ve olgunun tarihi.",
+  "claim": "Propaganda, kuramdan önce bir tarihsel olgudur: sözcük 1622’de bir kilise kurulunun adıydı; devletlerin örgütlü propagandası Birinci Dünya Savaşı’nda yerleşti; savaş sonrasında uydurma vahşet hikâyelerinin ifşası sözcüğe aldatma çağrışımı yükledi; sonra sözcük ya saklandı ya yeniden adlandırıldı ya da incelendi.",
+  "keywords": [
+    "propaganda",
+    "Propaganda Fide",
+    "Wellington House",
+    "Creel Komitesi",
+    "Bryce raporu",
+    "kadavra fabrikası",
+    "Bernays",
+    "halkla ilişkiler",
+    "ajitprop",
+    "Ellul",
+    "beyaz gri kara propaganda"
+  ],
+  "updated": "2026-09-20",
+  "timeline": {
+    "propaganda-fide": "Congregatio de Propaganda Fide kurulur (bula: 22 Haziran)",
+    "wellington-house": "Britanya kabinesi yurtdışına dönük propaganda örgütünü onaylar (5 Eylül); Wellington House",
+    "bryce-report": "Bryce Komisyonu’nun raporu yayımlanır",
+    "cpi": "ABD’de Kamuyu Bilgilendirme Komitesi kurulur (13 Nisan)",
+    "corpse-factory-story": "“Kadavra fabrikası” hikâyesi İngiliz gazetelerinde (17 Nisan)",
+    "agitprop-department": "Sovyet Komünist Partisi’nde Ajitasyon ve Propaganda Bölümü kurulur",
+    "kadaver-denial": "Avam Kamarası’nda kadavra hikâyesinin yalanlaması kabul edilir (2 Aralık)",
+    "lasswell-1927": "Lasswell: Propaganda Technique in the World War",
+    "bernays-propaganda": "Bernays: Propaganda",
+    "propaganda-ministry": "Almanya’da Reich Halkı Aydınlatma ve Propaganda Bakanlığı kurulur (13 Mart)",
+    "ipa": "Institute for Propaganda Analysis kurulur (Ekim)",
+    "ellul-propagandes": "Ellul: Propagandes"
+  },
+  "cards": [
+    {
+      "id": "ctx-word",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "Bir tabela, bir sözcük: Roma, 1622",
+      "body": "6 Ocak 1622, Roma. Papa XV. Gregorius on üç kardinali ve iki üst rütbeli din adamını toplar; Katolikliğin yayılması için kalıcı ve düzenli bir kurul kurmak istediğini söyler [[cite:newadvent-catholic-encyclopedia-propaganda]]. Aynı yılın 22 Haziran’ında yayımlanan *Inscrutabili Divinae* bulasıyla *Congregatio de Propaganda Fide*, yani “inancın yayılması kurulu”, resmen doğar [[cite:newadvent-catholic-encyclopedia-propaganda]] [[cite:vatican-cevang-profile]].\n\nBir dakika dur ve şuna bak: bugün çoğu zaman hakaret yerine geçen sözcük, burada bir kurumun tabelasıdır. Sözcük Latince *propagare* (yaymak, ilerletmek) fiilinden gelir [[cite:etymonline-propaganda]]. 1718’den beri kayıtlı anlamı “yabancı misyonlardan sorumlu kardinaller kurulu”dur; 1790 dolaylarında herhangi bir öğretiyi ya da uygulamayı yaymaya çalışan hareket veya örgüt anlamına genişler. Siyasal bir görüşü yaymaya yönelik bilgi anlamı ise Birinci Dünya Savaşı sırasında oturur ve başlangıçta ne aşağılayıcıdır ne de aldatmayı ima eder [[cite:etymonline-propaganda]].\n\nYani “manipülasyon” tınısı sözcükle birlikte doğmadı; sonradan yüklendi. Bu ders, o yüklemenin hikâyesi: kim, ne zaman, hangi olaylarla?",
+      "question": {
+        "id": "ctx-word-q",
+        "type": "mcq",
+        "prompt": "Bir arkadaşın, “Propaganda sözcüğü zaten ilk günden beri yalan ve manipülasyon demekti” diyor. Bu kartın belgelerine göre en iyi karşılık hangisi?",
+        "options": [
+          "Haklısın; sözcük bir kilise kurumunun adıysa zaten aldatma demektir.",
+          "Yanlış; 1622’de sözcük inancı yaymakla görevli bir kilise kurulunun adıydı, olumsuz yük sonradan, özellikle Birinci Dünya Savaşı çevresinde yüklendi.",
+          "Yanlış; sözcük ilk kez 20. yüzyılda, Birinci Dünya Savaşı sırasında icat edildi.",
+          "Haklısın; ama yalnızca Almanca’da böyleydi, diğer dillerde nötrdü."
+        ],
+        "answer": 1,
+        "explain": "Belgeler kurulun 1622’de kurulduğunu ve sözcüğün “yaymak” fiilinden geldiğini, siyasal anlamının Birinci Dünya Savaşı sırasında yerleştiğini ve başlangıçta yargılayıcı olmadığını gösterir. İlk şık cazip, çünkü bugünkü çağrışımı geçmişe taşıyor; oysa sözcüğün yükü döneme göre değişir. Üçüncü şık sözcüğün tarihini yanlış kısaltır: 1622 kaydı ortada. Dördüncü şık ise hiçbir belgeyle desteklenmeyen bir dil ayrımı icat eder."
+      }
+    },
+    {
+      "id": "ctx-before",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "Sahte gazete, sahte kaptan: Paris, 1782",
+      "body": "Sözcük o yıllarda daha çok kilise dilindeydi (siyasal anlamı Birinci Dünya Savaşı’nda yerleşecekti); ama 1782’den bir hileyi bugün hemen tanırdık. O yılın baharında, Paris’te barış görüşmeleri yürüten Benjamin Franklin, *Boston Independent Chronicle* gazetesinin sahte bir ekini bastırdı: “Boston, 12 Mart” tarihli, “Numb. 705” diye numaralanmış, her yönüyle gerçek bir ek gibi görünen tek yaprak [[cite:harrington-2014-franklin-fake-newspaper]]. İçinde, hiç var olmamış bir milis subayının, “Kaptan Samuel Gerrish”in yazdığı sözde bir mektup vardı; mektup İngiliz tarafını korkunç zulümlerle suçluyordu [[cite:harrington-2014-franklin-fake-newspaper]].\n\nFranklin ekten kopyaları John Adams’a, John Jay’e ve başkalarına gönderdi; mektup 29 Haziran 1782’de Londra’daki *General Advertiser*’da yayımlandı. Bunun bir Franklin aldatmacası olduğu Amerikan basınında ilk kez 1854’te söylendi [[cite:harrington-2014-franklin-fake-newspaper]].\n\nListeye bak: sahte kaynak, uydurma tanık, uzaktaki bir kamuoyu, gazeteden gazeteye yeniden basım. Adı yoktu, işi vardı. Modern propagandayı bundan ayıran şey, bizim okumamıza göre, hilelerin kendisi değil; onlara eklenen ölçek, örgüt ve psikolojinin bilgisi. Matbaanın rolü için [[lesson:mass-media-history]] dersine dön; çok daha eski bir devlet yazıtı için Türkiye bölümüne geç.",
+      "question": {
+        "id": "ctx-before-q",
+        "type": "mcq",
+        "prompt": "Bir öğrenci, “1782’de propaganda yoktu, çünkü sözcük henüz o anlamda kullanılmıyordu” diyor. Franklin örneğine bakarak ne dersin?",
+        "options": [
+          "Doğru; bir olgunun var olması için adının da var olması gerekir.",
+          "Doğru; çünkü o dönemde matbaa yoktu.",
+          "Yanlış; ad yoktu ama aynı hileler (sahte kaynak, uydurma tanık, yabancı kamuoyunu hedefleme) belgeli. Olguyu anlamak için adına değil işlevine bakmak gerekir.",
+          "Yanlış; çünkü Franklin’in bir propaganda bakanlığı vardı."
+        ],
+        "answer": 2,
+        "explain": "Belgeler sahte bir gazete ekinin, uydurma bir mektubun ve yurtdışındaki bir okuyucu kitlesini hedefleyen dağıtımın bulunduğunu gösterir; adlandırma sonradan gelir. İlk şık adı olguyla karıştırır. İkinci şık yanlış bilgiye dayanır: Franklin’in ekini basan tam da matbaaydı. Dördüncü şıktaki bakanlık ise ortada yok; bakanlık örgütlenmesi bu dersin sonraki konusu."
+      }
+    },
+    {
+      "id": "deep-word-1627",
+      "section": "context",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: 1622 mi, 1627 mi? Alıntı zincirinin tuzağı",
+      "body": "Bernays’in 1928 kitabında, propaganda sözcüğünün itibarını geri isteyen bir Scientific American yazısı alıntılanır. Yazı sözcüğü “eski, güzel sözcük” diye anar ve bir sözlüğe dayanarak Roma’daki kardinaller kurulunun “1627’de” kurulduğunu söyler [[cite:bernays-1928-propaganda]].\n\nOysa kurul 1622’de kurulmuştu [[cite:vatican-cevang-profile]]. 1627 ise Papa VIII. Urbanus’un, kurula bağlı ilahiyat okulu *Collegium Urbanum*’u *Immortalis Dei* bulasıyla (1 Ağustos 1627) kurduğu tarihtir [[cite:newadvent-catholic-encyclopedia-propaganda]]. Yani iki tarih, iki ayrı kuruma ait.\n\nHatanın nasıl oluştuğunu bilmiyoruz; bir karışıklık mı, sözlüğün ihmali mi, yoksa alıntının kısaltılması mı? Yalnızca şunu belgeliyoruz: alıntıdaki tarih, kurumun kendi sayfasındaki ve bağımsız bir ansiklopedideki kayıtla uyuşmuyor.\n\nDers: 1928 gibi erken bir kitap bile, başka bir yazıdan aktardığı bir tarihi taşıyor olabilir. Bu derste her tarihi en az iki bağımsız kaynakla doğruladık, çünkü tek bir kitapta yazıyor olması bir tarihi doğru yapmaz. Bir tarihle karşılaşınca kaynağın ilk elden mi, yoksa bir başkasından alıntı mı olduğuna bak."
+    },
+    {
+      "id": "people-cast",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "text",
+      "title": "Kim kimdir, hangi yıl?",
+      "body": "Hikâye üç dalgada anlatılır. Yıllar bu dersin belkemiğidir.\n\n**Sözcükten kuruma (1622–1914)**\n\n- Papa XV. Gregorius: 1622, *Propaganda Fide* kurulu [[cite:vatican-cevang-profile]].\n\n**Savaş makineleri (1914–1919)**\n\n- Britanya: Wellington House (1914); başında Charles Masterman [[cite:historynet-ernsberger-2019-wellington-house]] [[cite:wikipedia-wellington-house]].\n- James Bryce: 1915 tarihli komisyon raporunun başkanı [[cite:bryce-1915-report]].\n- [[person:creel|George Creel]]: ABD Kamuyu Bilgilendirme Komitesi, 1917 [[cite:nara-cpi-guide]].\n\n**Savaştan sonra (1920–1962)**\n\n- Sovyet Komünist Partisi’nde Ajitasyon ve Propaganda Bölümü, 1920 [[cite:tate-agit-prop]].\n- [[person:lippmann|Walter Lippmann]]: *Public Opinion*, 1922 [[cite:lippmann-1922]].\n- [[person:lasswell|Harold Lasswell]]: *Propaganda Technique in the World War*, 1927 [[cite:lasswell-1927-propaganda]].\n- Arthur Ponsonby: *Falsehood in War-Time*, 1928 [[cite:ponsonby-1928-falsehood-in-war-time]].\n- [[person:bernays|Edward Bernays]]: *Propaganda*, 1928 [[cite:bernays-1928-propaganda]].\n- Almanya’da propaganda bakanlığı, 13 Mart 1933 [[cite:verfassungen-erlass-rmvp-1933]].\n- [[person:ellul|Jacques Ellul]]: *Propagandes*, 1962 [[cite:ellul-1965-propaganda]].\n\nHafıza kancası: *tabela 1622, savaş makineleri 1914–17, “itiraf ve inceleme” 1920’ler, rejim bakanlığı 1933, sosyolojik çözümleme 1962.*",
+      "question": {
+        "id": "people-cast-q",
+        "type": "match",
+        "prompt": "Her olayı ya da eseri yılıyla eşleştir.",
+        "pairs": [
+          [
+            "Congregatio de Propaganda Fide’nin kuruluşu",
+            "1622"
+          ],
+          [
+            "ABD’de Kamuyu Bilgilendirme Komitesi",
+            "1917"
+          ],
+          [
+            "Bernays’in Propaganda kitabı",
+            "1928"
+          ],
+          [
+            "Almanya’da Reich propaganda bakanlığı",
+            "1933"
+          ],
+          [
+            "Ellul’un Propagandes kitabı",
+            "1962"
+          ]
+        ],
+        "explain": "Sıra: 1622, 1917, 1928, 1933, 1962. En sık karışan çift Lasswell (1927) ile Bernays (1928): biri savaş propagandasını inceler, öbürü mesleği savunur; ikisi bir yıl arayla çıkar. Bir de 1622 ile 1627 (kurul ile okul) ve Creel’in 1917 komitesi ile Bryce’ın 1915 raporu karışır; komiteyi ABD’nin, raporu Britanya’nın işi olarak ayır."
+      }
+    },
+    {
+      "id": "claim-core",
+      "section": "claim",
+      "layer": "core",
+      "kind": "text",
+      "title": "Temel iddia: önce olgu vardı, kuram sonra geldi",
+      "body": "Bu dersin savı dört adımda toplanır.\n\n1. Kitleyi etkileme çabası çok eskidir; “propaganda” ise bir kilise kurulunun adıydı.\n2. Birinci Dünya Savaşı’nda devletler bu işi örgütledi: Britanya’da yurtdışına dönük bir bürolar ağı (kabine onayı 5 Eylül 1914), ABD’de bir komite (13 Nisan 1917) [[cite:sanders-1975-wellington-house]] [[cite:presidency-eo2594]].\n3. Savaştan sonra, uydurma vahşet hikâyeleri dahil, kullanılan yöntemler ortaya çıktı ve sözcük aldatma çağrışımı kazandı [[cite:osgood-2002-propaganda]].\n4. Ardından iki tepki geldi: sözcüğü saklamak ya da yeniden adlandırmak (Creel, Goebbels, halkla ilişkiler) ve onu incelemek (Lasswell, Institute for Propaganda Analysis, Ellul).\n\nKısacası “propaganda kuramı” dediğimiz şey, bir olgunun ardından yazılmış çözümlemedir: olgu önce, kuram sonra.\n\nZimmermann telgrafı gibi savaş yıllarının istihbarat oyunları [[lesson:lasswell-shannon-weaver]] dersinde işlendi; burada tekrar etmiyoruz. Kalabalıkların ve kitle toplumunun düşünsel zemini için [[lesson:mass-society]] dersine bak.",
+      "question": {
+        "id": "claim-core-q",
+        "type": "mcq",
+        "prompt": "Bu derse göre aşağıdaki sıralamalardan hangisi olayların gerçek akışına en yakındır?",
+        "options": [
+          "Kuram yazılır, devletler kuramı uygular, sözcük olumsuzlaşır.",
+          "Bilim insanları propagandayı inceler, sonra devletler propaganda örgütü kurar.",
+          "Sözcük olumsuzlaşır, Nazi rejimi bunu kullanır, sonra Birinci Dünya Savaşı çıkar.",
+          "Devlet propaganda örgütleri kurulur, uydurma hikâyeler ifşa olur ve sözcük olumsuzlaşır, sonra sözcük saklanır ya da incelenir."
+        ],
+        "answer": 3,
+        "explain": "Belgeler örgütlerin (1914, 1917) kuramsal çözümlemelerden (Lasswell 1927, Ellul 1962) önce geldiğini ve olumsuz yükün savaş sonrasında yerleştiğini gösterir. Birinci şık sırayı tersine çevirir, üçüncü şık tarihi bozar: Nazi bakanlığı 1933’tedir, savaş ise 1914’te başlamıştı. İkinci şıktaki ‘önce inceleme’ ise Lasswell ve Institute for Propaganda Analysis’in tarihine uymaz: onlar örgütlerin ardından yazdı."
+      }
+    },
+    {
+      "id": "concepts-terms",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Kavramlar sözlüğü",
+      "body": "- **Propaganda** [[concept:propaganda]]: Lasswell’a (1927) göre, sigara ikmali ya da yemeğin bileşimi gibi fiziksel koşulları değiştirmek yerine hikâye, söylenti, haber ve resim gibi anlamlı simgelerle görüş ve tutumları yönetme. Ona göre propaganda, düşmana karşı üç ana araçtan biridir: askerî baskı, ekonomik baskı ve propaganda [[cite:lasswell-1927-propaganda]].\n- **Ajitasyon ve propaganda** [[concept:agitprop]]: Plekhanov ve Lenin’e göre propagandacı çok fikri az sayıda kişiye, ajitatör bir ya da birkaç fikri kitleye sunar [[cite:lenin-1902-what-is-to-be-done]].\n- **Beyaz, gri, kara propaganda** [[concept:propaganda-white-grey-black]]: kaynağın doğru gösterilmesi, gizlenmesi ya da sahte gösterilmesi [[cite:osgood-2002-propaganda]].\n- **Vahşet propagandası** [[concept:atrocity-propaganda]]: düşmanın zulmünü anlatan, kimi doğru kimi doğrulanamaz hikâyelerle öfke uyandırma.\n- **Halkla ilişkiler** [[concept:public-relations]]: kuruluşun kamuyla ilişkisini yönetme mesleği; Bernays’in 1928 kitabında “halkla ilişkiler danışmanı” [[cite:bernays-1928-propaganda]].\n- **Kamuyu Bilgilendirme Komitesi** [[concept:committee-on-public-information]]: ABD’nin 1917 tarihli savaş propagandası ve bilgi kurumu; Creel Komitesi.\n- **Kamuoyu** [[concept:public-opinion]]: propagandanın hedef aldığı alan; ayrıntısı [[lesson:propaganda-public-opinion]] dersinde.",
+      "question": {
+        "id": "concepts-terms-q",
+        "type": "mcq",
+        "prompt": "Bir radyo kendini karşı tarafın “gizli” bir istasyonu olarak tanıtıyor ama gerçekte savaşan öbür taraf işletiyor. Bu dersin sınıflamasına göre nedir?",
+        "options": [
+          "Beyaz propaganda; çünkü işleten taraf gerçekte belli.",
+          "Gri propaganda; çünkü kaynak hiç belirtilmiyor.",
+          "Kara propaganda; çünkü mesaj başka birinden çıkmış gibi gösteriliyor.",
+          "Halkla ilişkiler; çünkü bir kuruluş kamuyla ilişkisini yönetiyor."
+        ],
+        "answer": 2,
+        "explain": "Kara propagandada mesaj başka birinden çıkmış gibi, çoğu zaman düşman gibi görünen bir kaynaktan çıkmış gibi gösterilir. Gri propagandada kaynak yalnızca belirtilmez ya da gizlenir; burada ise sahte bir kaynak kimliği var. Beyaz şıkkı, gerçek işletenin belli olmasıyla karıştırır: önemli olan mesajda gösterilen kaynaktır. Halkla ilişkiler bir meslek adıdır, bir renk sınıfı değil."
+      }
+    },
+    {
+      "id": "deep-turkish-terms",
+      "section": "concepts",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Türkçede “propaganda”, “telkin”, “yaygara”…",
+      "body": "Türk Dil Kurumu sözlüğünde *propaganda* “İtalyanca” kökenli olarak geçer ve tek anlamı vardır: bir öğreti, düşünce ya da inancı başkalarına tanıtmak, benimsetmek ve yaymak amacıyla söz, yazı vb. yollarla gerçekleştirilen çalışma; karşılık olarak *yaymaca* verilir. Aynı sözlükte *beyaz propaganda* (kaynağı belli ve görünür, doğru bilgilerle yönlendirme) ve *gri propaganda* (kaynağı görünür olmayan bilgilerle yönlendirme) ayrı maddedir [[cite:tdk-guncel-turkce-sozluk]]. *Kara propaganda* ya da *siyah propaganda* için madde bulamadım; bu, terimin Türkçe yazında kullanılmadığı anlamına gelmez, yalnızca sözlük kaydını doğrulayamadığım demektir.\n\nDikkat çekici bir fark: sözlüğün “beyaz”ı doğruluğu tanımın içine katar; oysa Osgood’un aktardığı sınıflamada ölçüt yalnızca kaynağın doğru gösterilip gösterilmediğidir [[cite:osgood-2002-propaganda]].\n\n*Telkin* Arapça kökenlidir: “bir duyguyu, bir düşünceyi aşılama”; ikinci anlamı bilinç dışı bir süreçle bir düşüncenin gerçekleşmesini anlatır [[cite:tdk-guncel-turkce-sozluk]]. Bu kursta erken etki yazınındaki “suggestion” kavramının Türkçe karşılığı olarak bu sözcük kullanılıyor ([[concept:suggestibility]]). *İkna* ise sözlükte “inandırma” ile birlikte “kandırma”yı da içerir.\n\n*Yaygara* sözlükte “gereksiz yere yüksek sesle bağırıp çağırma” ve “sızlanıp şikâyette bulunma”dır; propaganda karşılığı olarak bir kaynakta gördüğümü söyleyemem. *Ajitasyon* ise “körükleme” ve “duygu sömürüsü yapma”yı içerir."
+    },
+    {
+      "id": "assump-myth",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "myth",
+      "title": "Efsane: “Propaganda yalandır”",
+      "body": "**Sık inanılan.** Propaganda yalandan ibarettir; gerçek bir haber propaganda olamaz.\n\n**Belgelerin söylediği.** Ellul’un İngilizce çevirisinin girişi, insanların propagandaya kolay av olmasının nedenlerinden birini tam bu inanç olarak gösterir: propagandanın yalnızca yalan ve uydurma hikâyelerden oluştuğu sanılır. Oysa modern propaganda türlü doğrularla çalışır: yarım doğru, sınırlı doğru, bağlamından koparılmış doğru [[cite:ellul-1965-propaganda]].\n\nBirinci Dünya Savaşı verileri iki yönde de gösterir. Lasswell 1927’de, propagandada “yalnızca doğru ifadeler” kullanılması gerektiğini söyleyen bir İngiliz yetkilinin ilkesini “uygulanamaz” bulur; savaşta bir hayli malzemenin sıfırdan uydurulduğunu yazar. Ama aynı sayfalarda uydurmanın inandırıcı kalma nedenini de açıklar: savaşta çok dehşet vardır ve bir “hardal tanesi kadar gerçek” çiçek açabilir [[cite:lasswell-1927-propaganda]]. Belçika’da hem gerçek katliamlar hem doğrulanmayan hikâyeler vardı; ayrıntısı Kanıtlar bölümünde.\n\nSonuç: propagandanın ayırt edici yanı yalan olması değil, örgütlü, hedefli ve çoğu zaman kaynağı yönlendirilmiş bir etkileme çabası olmasıdır. Doğru bir bilgi de propaganda hizmetine girebilir; uydurma da.",
+      "question": {
+        "id": "assump-myth-q",
+        "type": "tf",
+        "prompt": "Doğru mu yanlış mı: Bir haberin tamamı doğruysa, bu derse göre propaganda sayılamaz.",
+        "answer": false,
+        "explain": "Yanlış. Ellul’un çevirisinin girişine göre modern propaganda yarım, sınırlı ya da bağlamından koparılmış doğrularla da çalışır; beyaz propaganda ise kaynağı açık gösterilen bilgidir ve doğru olabilir. “Propaganda = yalan” eşitliği cazip çünkü kötü örnekler akılda kalıyor; ama ölçüt doğruluk değil, etkileme çabasının örgütlü ve hedefli olmasıdır. Öte yandan bu, her doğru haberin propaganda olduğu anlamına da gelmez: önemli olan kim, ne amaçla, hangi kaynakla sunuyor sorusudur."
+      }
+    },
+    {
+      "id": "how-wellington",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Nasıl işledi? Wellington House’un beş adımı",
+      "body": "Britanya’nın yurtdışı propaganda bürosunun yöntemini, belgelenen kadarıyla adım adım izleyelim.\n\n1. **Karar.** Ağustos sonunda kabine, yurtdışında kamuoyunu bilgilendirecek ve etkileyecek, Almanya’nın yanlış haberlerine karşı koyacak bir örgütü konuşur; 5 Eylül 1914’te savaş boyunca sürecek bir örgüt kurulmasını uygun bulur. Barış zamanında bunun emsali yoktu [[cite:sanders-1975-wellington-house]].\n2. **Kılıf.** Büro, Ulusal Sigorta Komisyonu’nun binası Wellington House’ta çalıştı; başında Charles Masterman vardı [[cite:historynet-ernsberger-2019-wellington-house]] [[cite:wikipedia-wellington-house]]. Lasswell’a göre malzemenin çoğu resmî bir kurumdan değil, özel bir kaynaktan çıkmış gibi dağıtıldı [[cite:lasswell-1927-propaganda]].\n3. **Hedef.** Yurtdışı kamuoyu; öncelik Amerikan kamuoyundaydı [[cite:historynet-ernsberger-2019-wellington-house]].\n4. **Kanıt paketi.** Wellington House, Alman zulmünü belgeleyecek bir rapor başlattı: 1915 tarihli Bryce Raporu. Lasswell bunun, uluslararası ün kazanmış, doğruluğuyla bilinen kişilerden bir komisyon kurma hilesiyle yapıldığını yazar ve bunu bir “dâhice hamle” diye anar [[cite:lasswell-1927-propaganda]].\n5. **Sonuç.** Rapor, özellikle Amerika’da uluslararası kamuoyunu Almanya’ya karşı çevirmede çok etkili sayılır [[cite:history-ireland-bryce]]; savaştan sonra tartışmalı bir mirasa dönüştü. Ayrıntısı Kanıtlar bölümünde.\n\nKaynağın gizlenmesi ile kaynağın itibarının ödünç alınması, aynı planın iki yüzüdür.",
+      "question": {
+        "id": "how-wellington-q",
+        "type": "mcq",
+        "prompt": "Bir hükümet, vahşet iddialarını kendi adıyla yayımlamak yerine dünya çapında saygın isimlerden kurulu bir komisyona topluyor. Wellington House örneğine göre bu hamle neyi hedefler?",
+        "options": [
+          "Mesajın kaynağını yansız ve saygın gösterip güvenilirliğini artırmayı.",
+          "İddiaları daha ucuza üretmeyi.",
+          "Yurtdışını atlayıp yalnızca kendi halkına konuşmayı.",
+          "Savaş sonrası sorumluluğu Alman hükümetine yıkmayı."
+        ],
+        "answer": 0,
+        "explain": "Lasswell, komisyon kurmayı, uluslararası ün ve doğruluk itibarı olan kişilerin ağzından bulgu sunmak için bulunmuş bir hile sayar; amaç güvenilirliktir. İkinci şık maliyeti, dördüncü şık savaş sonrasını konu eder; ikisi de belgede yok. Üçüncü şık ters: hedef tam da yurtdışıydı. Bir de dikkat: komisyonu Wellington House başlatmıştı; “bağımsız” görünmesi, bağımsız olduğu anlamına gelmez."
+      }
+    },
+    {
+      "id": "how-creel",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "story",
+      "title": "13 Nisan 1917: “Buna propaganda demedik”",
+      "body": "ABD savaşa girdikten kısa süre sonra, 13 Nisan 1917’de Başkan Wilson 2594 sayılı yürütme kararnamesini imzalar: Dışişleri, Savaş ve Donanma bakanlarının yanında sivil bir başkan, gazeteci George Creel [[cite:presidency-eo2594]] [[cite:nara-cpi-guide]]. Lasswell bunu, ayrı bir propaganda bakanı atamaya benzetir [[cite:lasswell-1927-propaganda]].\n\nCreel yıllar sonra işi “dünyanın en büyük reklam macerası” diye anlatır ve ekler: onlar buna propaganda dememiştir, çünkü sözcük Alman elinde aldatma ve yozlaşmayla anılır olmuştur [[cite:creel-1920-how-we-advertised-america]]. Araçlar arasında basılı söz, konuşma, film, telgraf, telsiz, afiş ve tabela vardı; en ünlüsü gönüllü konuşmacılar ağı “Four Minute Men”di. Creel’in kendi hesabına göre 75.000 konuşmacı, yaklaşık 5.200 toplulukta yedi buçuk milyondan fazla konuşma yaptı [[cite:creel-1920-how-we-advertised-america]]. Yurtdışında komite otuzdan fazla ülkede çalıştı; yabancı basına haber ve resmî açıklamalar dağıttı, okuma salonları açtı, yabancı gazetecileri Amerika’ya getirdi, öğretmenlere ve işçi gruplarına özel çağrılar hazırladı [[cite:osgood-2002-propaganda]]. Kongre komiteyi 1919’da kapattı [[cite:nara-cpi-guide]]; Osgood bu kararı, hem propagandaya duyulan doğal güvensizliğe hem de başkanın komiteyi iç siyasal amaçlarla kullanabileceği korkusuna bağlar [[cite:osgood-2002-propaganda]].\n\nBu sayılara temkinle bak: hepsi komitenin kendi tutanaklarından ve başkanının kendi kitabından geliyor.",
+      "question": {
+        "id": "how-creel-q",
+        "type": "mcq",
+        "prompt": "Aşağıdakilerden hangisi belgelere göre bağımsız bir kaynakla doğrulanabilen değil, Creel’in kendi hesabına dayanan bir bilgidir?",
+        "options": [
+          "Komitenin 13 Nisan 1917’de bir yürütme kararnamesiyle kurulması.",
+          "Başkanlığa gazeteci George Creel’in getirilmesi.",
+          "Komitenin 1919’da kapatılması.",
+          "Gönüllü konuşmacıların yedi buçuk milyondan fazla konuşma yapmış olması."
+        ],
+        "answer": 3,
+        "explain": "İlk üç bilgi resmî kayıtlarda (kararname, Ulusal Arşivler rehberi) bulunur. Konuşma sayısı ise Creel’in kendi kitabındaki hesaptır ve ayrı bir kaynakla doğrulanmadı. Cazip yanlış şık, tarihlerden biri gibi görünen sayının da güvenilir olduğunu varsaymaktır; oysa bir sayının rakam olması, kaynağının bağımsız olduğunu göstermez."
+      }
+    },
+    {
+      "id": "how-colours",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Bir mesajı boyamak: üç soru",
+      "body": "Bir propaganda örneğini renklerle sınıflamak için sırayla üç soru sor.\n\n1. **Kaynak açıkça gösterilmiş ve doğru mu?** Öyleyse beyaz. Örnek olarak ABD’nin resmî yayın kuruluşu Amerika’nın Sesi verilir [[cite:osgood-2002-propaganda]].\n2. **Kaynak belirtilmemiş ya da gizleniyor mu?** Öyleyse gri. Yazarı belli olmayan, ama bir hükümetin işine yarayan gazete yazıları tipik örnektir [[cite:osgood-2002-propaganda]].\n3. **Gösterilen kaynak sahte mi?** Öyleyse kara: mesaj başka birinden çıkmış gibi sunulur, çoğu zaman düşman gibi görünen bir kaynaktan, onu utandırmak için [[cite:osgood-2002-propaganda]] [[cite:nabb-colors-of-propaganda]].\n\nTarihten örnekler: II. Dünya Savaşı’nda Britanya’nın Siyasal Savaş Yürütme Kurulu, sözde Alman “gizli” radyolar işletti [[cite:wikipedia-black-propaganda]]; ABD’nin OSS’i de kara ve gri propaganda yapmakla yetkilendirilmişti [[cite:osgood-2002-propaganda]]. Franklin’in 1782 tarihli sahte gazete eki de bizim okumamıza göre erken bir “kara” örnek: gerçek bir gazetenin kimliği taklit ediliyor [[cite:harrington-2014-franklin-fake-newspaper]].\n\nİki uyarı. Renkler kaynağın gösterilişiyle ilgilidir, içeriğin doğruluğuyla değil. Ayrıca adlandırmayı ilk kimin yaptığını doğrulayamadık; Türk Dil Kurumu sözlüğü “beyaz” ve “gri”yi madde sayar, “kara”yı saymaz [[cite:tdk-guncel-turkce-sozluk]].",
+      "question": {
+        "id": "how-colours-q",
+        "type": "mcq",
+        "prompt": "Bir hükümet, kendi adını göstermeden, bağımsız görünen bir haber sitesi aracılığıyla bir görüşü yayıyor; site kendini başka bir ülkenin kurumu gibi tanıtmıyor. Üç soruya göre bu nedir?",
+        "options": [
+          "Beyaz; çünkü içerik doğru olabilir.",
+          "Kara; çünkü asıl kaynak gizleniyor.",
+          "Gri; çünkü asıl kaynak gizleniyor ama başka biri gibi gösterilmiyor.",
+          "Hiçbiri; çünkü haber sitesi bir medya kuruluşudur."
+        ],
+        "answer": 2,
+        "explain": "İkinci soruya göre asıl kaynak gizleniyorsa gri, sahte bir başka kaynak gösteriliyorsa kara olur; burada sahte bir kimlik yok, yalnızca gizleme var. Beyaz şıkkı doğruluğu ölçüt yapar, oysa renk kaynağın gösterilişine bağlıdır. Kara şıkkı gizleme ile sahte kaynak göstermeyi karıştırır. Dördüncü şık, sınıflamanın araç değil kaynak sorusu sorduğunu unutur. (Sözlükler renkleri farklı ölçütlerle tanımlayabilir; bu ders Osgood’un aktardığı ölçütü kullanır.)"
+      }
+    },
+    {
+      "id": "ev-belgium",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "story",
+      "title": "Belçika, 1914: gerçek ile doğrulanamaz yan yana",
+      "body": "Bir savaş propagandasının en zor yanı şudur: anlattıklarının bir kısmı doğru olabilir.\n\n1914’te Alman ordusu Belçika’yı ve Kuzey Fransa’yı işgal ederken siviller öldürüldü. Tarihçiler John Horne ile Alan Kramer arşiv çalışmasıyla yaklaşık 6.500 Belçikalı ve Fransız sivilin ölümünü belgeler; Alman askerlerinin “sivil direniş” inancını da toplu bir sanrıya bağlarlar [[cite:horne-kramer-2001-german-atrocities]].\n\nBritanya 15 Aralık 1914’te Bryce başkanlığında bir komisyon görevlendirdi; 1915 tarihli rapor 1.200’den fazla ifadeye dayanır [[cite:bryce-1915-report]]. Rapor, özellikle Amerika’da uluslararası kamuoyunu Almanya’ya karşı çevirmede çok etkili sayılır [[cite:history-ireland-bryce]]. Savaştan sonra vahşet iddialarının abartıldığı savunuldu ve rapor çoğu kez savaş propagandası diye anıldı; bazı tarihçiler ise onu “büyük ölçüde doğru” buldu, tartışma bugün de tam kapanmış değil [[cite:wfa-bryce-report]] [[cite:history-ireland-bryce]].\n\nAynı dönemin bazı anlatıları ise sınavı geçemedi. Lasswell, gazeteci Will Irwin’in Belçikalı bebeklerin elleri kesildi türü hikâyelerin çeşitli sürümlerini araştırıp hepsini kanıtsız ve son derece olasılık dışı bulduğunu aktarır [[cite:lasswell-1927-propaganda]]. Ponsonby’nin 1928 tarihli kitabı da bu hikâyeye ayrı bir bölüm ayırır [[cite:ponsonby-1928-falsehood-in-war-time]].\n\nYani tabloda hem gerçek acılar hem doğrulanmayan hikâyeler vardı; ve ikisi aynı propagandanın içinde dolaştı.",
+      "question": {
+        "id": "ev-belgium-q",
+        "type": "mcq",
+        "prompt": "Bir tarihçi, “Bryce Raporu tamamen uydurma bir propaganda ürünüydü” diyor. Bu kartın belgelerine göre bu cümle için ne dersin?",
+        "options": [
+          "Doğru; çünkü rapor bir propaganda örgütünün girişimiyle çıktı.",
+          "Yanlış; çünkü rapor tamamen kusursuz bir yargılama sonucudur.",
+          "Doğru; çünkü hiçbir iddia doğrulanmadı.",
+          "Aşırı bir genelleme; Horne ve Kramer 6.500 kadar sivil ölümünü belgeledi ve bazı tarihçiler raporu büyük ölçüde doğru buluyor, ama rapor yeminsiz ve isimsiz ifadelere dayanıyordu ve bazı hikâyeler kanıtlanamadı."
+        ],
+        "answer": 3,
+        "explain": "Horne ve Kramer 6.500 kadar sivil ölümünü belgeler; bazı tarihçiler raporu büyük ölçüde doğru bulur. Yine de rapor yeminsiz, isimsiz ifadelere dayanıyordu ve bazı hikâyeler sağlanamadı. Birinci şık, kaynağın propaganda olması ile içeriğin uydurma olmasını eşitler. İkinci şık ters uca gider: yöntem kusursuz değildi. Doğru olan, iddiaları tek tek sormaktır."
+      }
+    },
+    {
+      "id": "ev-corpse",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Bir hikâye nasıl dolaşıma girer: “kadavra fabrikası”",
+      "body": "Bu, zaman çizelgesi olarak okunacak bir vaka. Aynı adımlar başka hikâyelerde de tanıdık gelir.\n\n1. **10 Nisan 1917.** Savaş Bakanı’nın 1925’te aktardığına göre, Almanların ölülerini işleyen bir tesis kurduğu iddiası ilk kez Berlin’de çıkan *Lokalanzeiger*’de ve iki Belçika gazetesinde göründü [[cite:hansard-1925-11-24-kadaver]].\n2. **17 Nisan 1917.** *The Times* ile *Daily Mail*, Fransızca bir Belçika gazetesinden çevrilmiş sözde bir görgü tanığı anlatısını, Berlin gazetesinden çevrilmiş metnin yanına koyar; iki metin yan yana durunca bağımsız iki kaynak gibi görünür [[cite:neander-marlin-2010-corpse-factory]].\n3. **Tartışma.** “Kadaver” yalnızca hayvan leşi mi demek, insan cesedi de mi? Savaş Bakanlığı, sözlüklere ve ele geçirilen bir Alman ordu emrine dayanarak hikâyeyi destekleyici bulmuştu [[cite:hansard-1925-11-24-kadaver]].\n4. **24 Kasım 1925.** Savaş Bakanı Avam Kamarası’nda, 1917’de neye dayandıklarını anlatır ve o günden beri bir doğrulama gelmediğini kabul eder [[cite:hansard-1925-11-24-kadaver]].\n5. **2 Aralık 1925.** Dışişleri Bakanı Austen Chamberlain, Alman Şansölyesi’nin Alman hükümeti adına hikâyenin hiçbir zaman dayanağı olmadığını söylemeye yetki verdiğini bildirir ve İngiliz hükümeti adına bu yalanlamayı kabul eder [[cite:hansard-1925-12-02-kadaver]].\n\nLasswell 1927’de bunu “düpedüz yalan” diye niteler, ama nedenini de ekler: savaşta çok dehşet olur, hikâye de inandırıcı kalır [[cite:lasswell-1927-propaganda]]. Ponsonby 1928’de hikâyeye bir bölüm ayırdı [[cite:ponsonby-1928-falsehood-in-war-time]].",
+      "question": {
+        "id": "ev-corpse-q",
+        "type": "mcq",
+        "prompt": "1917’de gazetelerin “kadavra fabrikası” hikâyesini inandırıcı kılan en önemli yayın hilesi hangisiydi?",
+        "options": [
+          "İki farklı ülkeden gelen iki metnin yan yana konup birbirini doğruluyor gibi görünmesi.",
+          "Hikâyenin tek bir kaynaktan, tek bir metinde verilmesi.",
+          "Hikâyenin ancak savaştan sonra yayımlanması.",
+          "Hikâyenin Alman hükümeti tarafından resmen onaylanması."
+        ],
+        "answer": 0,
+        "explain": "Neander ve Marlin, Belçikalı bir gazeteden çevrilmiş anlatının ve Berlin gazetesinden çevrilmiş metnin aynı gün, yan yana basılmasını hikâyenin asıl dayanağı sayar; yan yana durmaları görünürde bağımsız bir doğrulama sağlar. İkinci şık ters: hilenin gücü tek kaynak olmamasıydı (görünürde). Üçüncü şık tarihi yanlış: hikâye 1917’de yayımlandı. Dördüncüsü de yanlış: Alman hükümeti 1925’te hikâyenin dayanağı olmadığını söyledi."
+      }
+    },
+    {
+      "id": "ev-creel-word",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "story",
+      "title": "İki adam, tek çekingenlik",
+      "body": "Sahne bir: ABD, 1920. Creel, komitesinin işini anlattığı kitapta şunu yazar: biz buna propaganda demedik [[cite:creel-1920-how-we-advertised-america]].\n\nSahne iki: Almanya, 1933. Yeni bakanlığın adı “Halkı Aydınlatma ve Propaganda”dır; kararname metninde de “aydınlatma ve propaganda” sözleri geçer [[cite:verfassungen-erlass-rmvp-1933]]. Ama Holocaust Ansiklopedisi’ne göre Goebbels başlangıçta “propaganda” sözcüğüne karşıydı, çünkü hem Almanya’da hem yurtdışında yalanla anılıyordu. Bakanlığın birinci yılından sonra adının “Kültür ve Halkı Aydınlatma Bakanlığı” olarak değiştirilmesini önerdi; Hitler reddetti [[cite:ushmm-propaganda-ministry]].\n\nİki karşıt siyasal düzen, aynı sözcükten aynı nedenle çekiniyor. Bu, sözcüğün yükünün tek bir rejime ait olmadığını, savaş sonrası dönemin ortak bir mirası olduğunu gösterir; bu derste ilerideki kart bunu Osgood’un çözümlemesiyle açacak.\n\nNot: burada bir rejimin sözcüğü saklaması ile o rejimin ne yaptığı ayrı sorulardır. Sözcükten çekinmek, yapılan işin masum olduğunu göstermez; yalnızca sözcüğün o günlerde ne çağrıştırdığını gösterir.",
+      "question": {
+        "id": "ev-creel-word-q",
+        "type": "mcq",
+        "prompt": "Creel (1920) ile Goebbels’in (1933–34) “propaganda” sözcüğüne karşı tavrı bu kartta neyi gösterir?",
+        "options": [
+          "İkisinin de sözcüğü yasal olarak yasaklamak istediğini.",
+          "Sözcüğün savaş sonrasında aldatma çağrışımı taşıdığını; bunun iki ayrı siyasal düzende de fark edildiğini.",
+          "Sözcüğün yalnızca Almanya’da kötü çağrışım taşıdığını.",
+          "Propagandanın o yıllarda tamamen bırakıldığını."
+        ],
+        "answer": 1,
+        "explain": "Creel sözcüğün Alman elinde aldatmayla anıldığını yazar; Goebbels ise sözcüğün Almanya’da ve yurtdışında yalanla anıldığını fark eder. İkisi de sözcüğün yükünü sezmiştir. Birinci şık ortada olmayan bir yasağı icat eder. Üçüncü şık, Creel’in ABD’den yazdığını unutur. Dördüncü şık en tehlikelisi: sözcükten çekinmek işi bırakmak anlamına gelmedi; komite ve bakanlık çalışmaya devam etti."
+      }
+    },
+    {
+      "id": "ev-bernays",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "text",
+      "title": "1928: Propaganda’nın savunusu ve yeni bir meslek",
+      "body": "Bernays 1928’de kitabına adı olarak *Propaganda*’yı koydu. Kitap, kitlelerin örgütlü alışkanlıklarının ve görüşlerinin bilinçli ve akıllıca yönetilmesinin demokratik toplumda önemli bir öğe olduğunu söyleyerek açılır; bu görünmez mekanizmayı işletenleri “görünmez hükümet” diye adlandırır [[cite:bernays-1928-propaganda]].\n\nSözcüğün itibarını da düşünür: bir dergiden, sözcüğün “eski, güzel bir sözcük” olduğunu ve anlamının savaş sırasında uğursuzlaştığını söyleyen bir savunmayı alıntılar [[cite:bernays-1928-propaganda]]. Kendi tanımı şudur: modern propaganda, bir kuruluşla, fikirle ya da grupla kamunun ilişkisini etkilemek için olayları kuran veya biçimlendiren, tutarlı ve sürekli bir çabadır [[cite:bernays-1928-propaganda]]. Ve yeni bir meslek adı ortaya çıkar: “halkla ilişkiler danışmanı”.\n\nBiyografi kaynakları, Bernays’in propaganda sözcüğünün olumsuz çağrışımını fark edip “halkla ilişkiler” adını kullandığını yazar [[cite:ebsco-bernays]]. Kitabın kendisi ise iki adı yan yana taşır. Bu yüzden “sözcüğü değiştirdi”den çok, “sözcüğü savundu ve mesleği yeni adla tanıttı” demek, metne daha sadıktır. [[person:bernays|Bernays]] savaş yıllarında Kamuyu Bilgilendirme Komitesi’yle çalışmıştı [[cite:newworld-bernays]]; kitap, o deneyimin sivil hayata taşınmış hâli gibi okunabilir. Bu son cümle bizim okumamızdır.",
+      "question": {
+        "id": "ev-bernays-q",
+        "type": "mcq",
+        "prompt": "Bernays’in 1928 tarihli kitabı için aşağıdakilerden hangisi metne en sadık ifadedir?",
+        "options": [
+          "Kitap propaganda sözcüğünü savunur ve aynı zamanda “halkla ilişkiler danışmanı” mesleğini tanıtır.",
+          "Kitapta propaganda sözcüğü hiç geçmez, yalnızca “halkla ilişkiler” kullanılır.",
+          "Kitap Nazi Almanya’sının propaganda bakanlığını savunmak için yazılmıştır.",
+          "Kitap, propaganda sözcüğünün Birinci Dünya Savaşı’ndan önce olumsuz olduğunu anlatır."
+        ],
+        "answer": 0,
+        "explain": "Kitabın adı Propaganda’dır; içinde sözcüğü savunan bir alıntı ve “halkla ilişkiler danışmanı” meslek adı yan yana bulunur. İkinci şık, kitabın adına bakınca bile çürüyor. Üçüncü şık tarih bakımından imkânsız: bakanlık 1933’te kuruldu, kitap 1928’de çıktı. Dördüncü şık kitaptaki alıntının söylediğinin tersidir: alıntı, anlamın savaş sırasında uğursuzlaştığını söyler."
+      }
+    },
+    {
+      "id": "ev-agitprop",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Mini alıştırma: ajitatör mü, propagandacı mı?",
+      "body": "Plekhanov’un ayrımını Lenin 1902’de aktarıp örnekler: propagandacı çok fikri bir ya da az sayıda kişiye sunar; ajitatör bir ya da birkaç fikri kitleye sunar. Lenin’in kendi örneği işsizlik: propagandacı krizlerin kapitalist nedenini ve kaçınılmazlığını anlatır; ajitatör ise herkesin bildiği çarpıcı bir olayı, örneğin işsiz bir işçi ailesinin açlıktan ölümünü alıp tek bir fikri “kitleye” sunar [[cite:lenin-1902-what-is-to-be-done]].\n\nŞimdi sen dene (iki varsayımsal konuşma):\n\n- **Konuşma A:** Kırk kişilik bir okuma grubuna iki saat boyunca enflasyonun nedenlerini beş boyutta anlatan bir konuşmacı.\n- **Konuşma B:** Bir meydanda, mahalledeki bir çocuğun okulsuz kaldığını anlatıp tek bir cümleyle “bu düzen değişmeli” diyen bir konuşmacı.\n\nCevap: A propagandacı, B ajitatör. Örgütsel tarihini de bil: Sovyet Komünist Partisi Merkez Komitesi 1920’de Ajitasyon ve Propaganda Bölümü’nü kurdu; ajitprop bunun kısaltmasıdır [[cite:tate-agit-prop]] [[cite:encyclopedia-com-agitprop]]. İç savaş yıllarında ajitasyon trenleri oyuncu topluluklarını, broşürleri ve müzisyenleri okuma yazması az köylülere taşıdı [[cite:encyclopedia-com-agitprop]].\n\nKüçük bir tuzak: Ellul “ajitasyon” sözcüğünü başka bir anlamda kullanır (bkz. derin kart).",
+      "question": {
+        "id": "ev-agitprop-q",
+        "type": "mcq",
+        "prompt": "Bir konuşmacı, kalabalığa yalnızca tek bir fikri, herkesin bildiği çarpıcı bir olayla (örneğin bir fabrika kazası) sunuyor. Lenin’in aktardığı ayrıma göre bu kişi nedir?",
+        "options": [
+          "Propagandacı; çünkü bir olayı anlatıyor.",
+          "Gri propagandacı; çünkü adı belirtilmiyor.",
+          "Halkla ilişkiler danışmanı; çünkü kuruluşu savunuyor.",
+          "Ajitatör; çünkü tek bir fikri, herkesin bildiği bir olayla kitleye sunuyor."
+        ],
+        "answer": 3,
+        "explain": "Lenin’in tarifinde ajitatör, kitleye bir ya da birkaç fikri, herkesin bildiği bir olayla sunar; propagandacı ise çok fikri az kişiye bütünlüğüyle açıklar. Birinci şık, olay anlatmayı propagandacıya yükler; oysa ölçüt fikir sayısı ve kitle büyüklüğüdür. İkinci ve üçüncü şıklar başka sınıflamaları (meslek, kaynak rengi) karıştırır; soruda kaynak ya da kuruluş bilgisi yok."
+      }
+    },
+    {
+      "id": "ev-nazi",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "text",
+      "title": "1933: Barış zamanında bir propaganda bakanlığı",
+      "body": "13 Mart 1933’te Cumhurbaşkanı Hindenburg ile Şansölye Hitler’in imzaladığı bir kararname, halk arasında hükümet politikasını anlatmak için “aydınlatma ve propaganda” yapacak bir Reich bakanlığı kurdu; başına Joseph Goebbels getirildi [[cite:verfassungen-erlass-rmvp-1933]] [[cite:ushmm-nazi-propaganda]].\n\nHolocaust Ansiklopedisi bunun barış zamanı için yeni bir fikir olduğunu yazar: o zamana kadar devletlerin propaganda kurumları, savaşın gerektirdiği geçici komiteler ya da kılık değiştirmiş bilgi bakanlıklarıydı [[cite:ushmm-propaganda-ministry]]. Bakanlığın amacı, Nazi mesajını sanat, müzik, tiyatro, film, kitap, radyo, eğitim gereçleri ve basın yoluyla iletmekti [[cite:ushmm-nazi-propaganda]]. Basın için bunun bir yüzü de, 4 Ekim 1933 tarihli Editörler Yasası’nın Yahudileri ve Yahudilerle evli olanları gazetecilikten dışlamasıydı [[cite:ushmm-propaganda-ministry]].\n\nMüzenin değerlendirmesi açık: Nazi propagandası, Avrupa Yahudilerinin zulmünde ve yok edilmesinde vazgeçilmez bir rol oynadı; nefreti körükledi ve onların kaderine karşı kayıtsızlığı besledi [[cite:ushmm-nazi-propaganda]]. Bu derste ayrıntıya girmiyoruz; buradaki noktamız tarihsel: propaganda, savaş komitesinden kalıcı bir devlet bakanlığına dönüştü.",
+      "question": {
+        "id": "ev-nazi-q",
+        "type": "mcq",
+        "prompt": "Holocaust Ansiklopedisi’ne göre 1933’te kurulan propaganda bakanlığını önceki devlet propaganda kurumlarından ayıran özellik neydi?",
+        "options": [
+          "Yalnızca savaş zamanı çalışması.",
+          "Barış zamanı için yeni bir fikir olmasıdır: önceki kurumlar geçici savaş komiteleri ya da kılık değiştirmiş bilgi bakanlıklarıydı.",
+          "Yalnızca yabancı ülkelere yönelik çalışması.",
+          "Gazeteleri tamamen bağımsız bırakması."
+        ],
+        "answer": 1,
+        "explain": "Ansiklopedi bakanlığı barış zamanı için yeni bir fikir sayar; önceki kurumlar geçici savaş komiteleri ya da örtülü bilgi bakanlıklarıydı. Birinci şık tam tersini söyler. Üçüncü şık yanlış: bakanlığın hedefi Almanya içindeki toplumdu da. Dördüncü şık gerçek dışıdır: bakanlık basını denetledi ve 1933 tarihli Editörler Yasası mesleğe girişi düzenledi."
+      }
+    },
+    {
+      "id": "deep-bryce-source",
+      "section": "evidence",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Bryce raporu kendi ağzından",
+      "body": "Rapor, Asquith’in 15 Aralık 1914 tarihli görevlendirmesiyle kuruldu; yedi imzacısı var: Bryce, Pollock, Clarke, Digby, Hopkinson, Fisher ve Cox [[cite:bryce-1915-report]]. Girişte yöntem şöyle anlatılır: Komiteden önce İçişleri Bakanlığı üç dört ay kanıt topladı; komiteye 1.200’den fazla ifade sunuldu. İfadeleri İngiltere’de hukuk bilgisi olan kişiler yazıya geçirdi, ama “yemin ettirme yetkileri” yoktu. Tanık adları, güvenlik gerekçesiyle açıklanmayacağına dair kesin söz verildiği için çıkarıldı. Aktarma bilgiler, başka bir doğrudan tanıkla doğrulanmadıkça reddedildi. Avukatların üzerinde iyi izlenim bırakmayan tanıklar elendi; “muhtemelen doğru” ama tek tanıklı bazı ifadeler de güvenli bulunmayıp atlandı [[cite:bryce-1915-report]].\n\nSonuç bölümü, Belçika’nın birçok yerinde “kasıtlı ve sistemli biçimde örgütlenmiş katliamlar” yaşandığı dahil bir dizi sonucu “kanıtlanmış” sayar [[cite:bryce-1915-report]].\n\nBunu okuyunca iki şey aynı anda doğru: (1) rapor kendi zamanına göre titiz bir süzgeç uyguladığını söylüyor; (2) yeminsiz ve isimsiz ifadelere dayanıyor ve bir propaganda örgütünün, Wellington House’un girişimiyle yayılıyordu [[cite:lasswell-1927-propaganda]]. Tarihçiler bu iki gerçeği farklı ağırlıklarla tartar: kimi raporu “büyük ölçüde doğru” bulur [[cite:wfa-bryce-report]], tartışma ise bugün de tam kapanmış değildir [[cite:history-ireland-bryce]]."
+    },
+    {
+      "id": "deep-charteris",
+      "section": "evidence",
+      "layer": "deep",
+      "kind": "myth",
+      "title": "Derin: Çürütenin hikâyesi de çürütülür",
+      "body": "**Sık anlatılan.** Kadavra fabrikası hikâyesini bir İngiliz istihbarat generali, John Charteris, iki fotoğrafın yazılarını değiştirerek uydurmuş: biri gömülmek üzere taşınan Alman askerlerini, öbürü hayvan leşi işleme tesisine giden ölü atları gösteriyormuş; yazıları yer değiştirip Çin’e göndermiş. Lasswell 1927’de bunu anlatır, “düpedüz yalan” diye yorumlar ve kaynak olarak *New York Times*’ın 20 Ekim 1925 tarihli haberini gösterir [[cite:lasswell-1927-propaganda]].\n\n**Belgelerin söylediği.** Bu sürüm, Charteris’in 1925’te New York’ta yaptığı konuşmanın gazete aktarımına dayanır. Neander ve Marlin şunları not eder: Charteris, İngiltere’de tepki görünce konuşmasının yanlış aktarıldığını söyledi; sonra yalnızca yayımlanmış “tahminleri” tekrarladığını ve bunların kendisine kesin bilgi diye mal edildiğini öne sürdü. Yazarlar iki anlatımın da tam dürüst olmadığını, birinde ya da ikisinde gerçeği çarpıttığını yazar. Ayrıca Charteris’in söz ettiği mektubu *The Field* dergisinde bulamamışlar ve hikâyenin yayılmasında asıl rolün Northcliffe basınında olduğunu savunurlar [[cite:neander-marlin-2010-corpse-factory]].\n\nDers: “Şu hikâyeyi falan kişi uydurdu” cümlesi de bir iddiadır ve o da kaynak ister. Sağlam kalan şudur: 1917’deki yayınlar ve 1925’teki yalanlama."
+    },
+    {
+      "id": "crit-ellul",
+      "section": "critique",
+      "layer": "core",
+      "kind": "text",
+      "title": "Ellul: propaganda bir rejimin silahı değil, bir toplum biçimi",
+      "body": "Ellul’un 1962 tarihli kitabı, propagandayı kimin yaptığından çok toplumun nasıl işlediğiyle ilişkilendirir. Kitabın çevirisinin girişine göre Ellul propagandayı, belirli kişilerce belirli amaçlarla yapılan bir şey olarak değil, toplumsal bir olgu olarak ele alır; ona göre propaganda teknoloji toplumunun ikiz kardeşidir. Amacı çoğu kez görüşü değiştirmek değil, mevcut eğilimleri keskinleştirmek ve insanı eyleme yöneltmektir [[cite:ellul-1965-propaganda]].\n\nKitabın en tanınan ayrımı ikidir. **Ajitasyon propagandası** kısa süreli ve patlayıcıdır; enerjiyi harekete geçirir, çoğu zaman bir düşmana yönelik nefrete dayanır ve broşür, konuşma, afiş, söylenti gibi basit araçlarla yapılabilir. **Entegrasyon propagandası** ise yavaştır; kişiyi derinlemesine biçimlendirir ve kitle iletişim araçlarını gerektirir; Ellul’a göre çağımızın asıl önemli türüdür [[cite:ellul-1965-propaganda]].\n\nSık yanlış aktarılan bir nokta: Ellul, eğitimin propagandadan koruduğu düşüncesine katılmaz. Entegrasyon propagandası rahat, kültürlü ve bilgili ortamlarda daha iyi işler; aydınlar köylülerden daha duyarlıdır, çünkü bir toplumun kalıplarını, ona muhalif olsalar bile paylaşırlar. Ajitasyon propagandası ise eğitimi ve bilgisi az olanlar için daha kolaydır [[cite:ellul-1965-propaganda]].\n\nAdil bir sınır: bu iddialar gözleme ve kuramsal akıl yürütmeye dayanır; bu derste onları sınayan bir çalışma sunmuyoruz. Ellul’u “kanıtlanmış yasa” değil, güçlü bir hipotez olarak oku.",
+      "question": {
+        "id": "crit-ellul-q",
+        "type": "mcq",
+        "prompt": "Ellul’a göre yüksek eğitimli ve bilgili bir okuyucu kitlesi hangi propaganda türüne karşı daha savunmasızdır?",
+        "options": [
+          "Ajitasyon propagandasına; çünkü duygusaldır.",
+          "Hiçbirine; çünkü eğitim propagandaya karşı kesin korumadır.",
+          "Entegrasyon propagandasına; çünkü toplumun kalıplarını ve mitlerini paylaşır.",
+          "Yalnızca kara propagandaya."
+        ],
+        "answer": 2,
+        "explain": "Ellul, entegrasyon propagandasının rahat ve bilgili ortamlarda daha iyi işlediğini, aydınların bir toplumun kalıplarını paylaştığı için ona daha duyarlı olduğunu yazar. Birinci şık cazip, çünkü ajitasyon duygusal görünür; ama Ellul ajitasyonu eğitimi az olanlar için daha kolay bulur. İkinci şık ise Ellul’un özellikle karşı çıktığı ‘eğitim korur’ inancıdır. Dördüncüsü renk sınıflamasını Ellul’un ayrımıyla karıştırır."
+      }
+    },
+    {
+      "id": "crit-whose",
+      "section": "critique",
+      "layer": "core",
+      "kind": "myth",
+      "title": "Efsane: “Propagandayı diktatörlükler kötü şöhretli yaptı”",
+      "body": "**Sık inanılan.** Propaganda sözcüğü Nazi ve Sovyet rejimlerinin propagandasıyla kirlendi; demokrasiler ise “bilgilendirir”.\n\n**Belgelerin söylediği.** Kenneth Osgood’a göre sözcük olumsuz yükünü Birinci Dünya Savaşı’nın hemen ardından, bir demokrasinin propagandasından kazandı: 1920’lerdeki soruşturmalar Britanya’nın Amerika’ya yönelik kampanyasını ve uydurma Alman vahşet hikâyelerini ortaya çıkardı; birçok Amerikalı ülkesinin savaşa İngiliz propagandasıyla sürüklendiğini düşündü [[cite:osgood-2002-propaganda]]. Bu sıralama başka belgelerle de örtüşür: Creel 1920’de sözcükten çekinir [[cite:creel-1920-how-we-advertised-america]]; Bernays’in 1928’de aktardığı yazı anlamın “savaş sırasında” uğursuzlaştığını söyler [[cite:bernays-1928-propaganda]]; etimoloji sözlüğü de olumsuz yükü Birinci Dünya Savaşı çevresine bağlar [[cite:etymonline-propaganda]].\n\nİki ek. Osgood’a göre gözlemciler savaştan propagandanın gücüne dair efsanevi bir inançla çıktı; bunun ders kitabı biçiminde nasıl işlendiği için [[lesson:magic-bullet]] dersine bak. Ayrıca Osgood ile Neander ve Marlin, 1917’de uydurulan vahşet hikâyelerinin ifşasının, yirmi yıl sonra Holokost’a dair ilk haberlerin inanılmamasında payı olduğunu ileri sürer [[cite:osgood-2002-propaganda]] [[cite:neander-marlin-2010-corpse-factory]]. Bu, tarihçilerin bir savıdır; payın ne kadar olduğunu ölçmek zordur.\n\nSonuç: sözcüğün yükü “bir rejimin günahı” değil, demokrasilerin bile kendi propagandasında yakalanmasının sonucudur.",
+      "question": {
+        "id": "crit-whose-q",
+        "type": "tf",
+        "prompt": "Doğru mu yanlış mı: Osgood’a göre “propaganda” sözcüğünün olumsuz yükü esas olarak 1930’lardaki diktatörlüklerin propagandasından doğdu.",
+        "answer": false,
+        "explain": "Yanlış. Osgood olumsuz yükün Birinci Dünya Savaşı’ndan sonra, bir demokrasinin (Britanya) uydurma vahşet hikâyelerinin ifşasından doğduğunu savunur; Creel’in 1920 tarihli çekingenliği ve Bernays’in 1928’de aktardığı alıntı da bu sıralamayla uyumludur. İfade cazip çünkü sözcüğü en çok Nazi propagandasıyla anıyoruz; ama bu, olayların sırasını tersine çevirir: Nazi bakanlığı 1933’te kurulurken sözcüğün kötü şöhreti zaten yerleşmişti (Goebbels’in çekingenliği bunun bir işareti)."
+      }
+    },
+    {
+      "id": "deep-ellul-lenin",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Ellul ile Lenin’in sözlükleri neden ters?",
+      "body": "Ellul, kendi ayrımının Lenin’inkine “kısmen” benzediğini yazar ama şunu ekler: burada terimlerin anlamı tersine çevrilmiştir [[cite:ellul-1965-propaganda]]. Karşılaştıralım.\n\n**Lenin (1902, Plekhanov’u aktararak).** Propagandacı çok fikri az sayıda kişiye, ajitatör bir ya da birkaç fikri kitleye sunar. Propagandacı nedenleri bütünüyle açıklar; ajitatör, herkesin bildiği çarpıcı bir olaydan tek bir fikri öne çıkarır [[cite:lenin-1902-what-is-to-be-done]].\n\n**Ellul (1962).** Ajitasyon propagandası kısa süreli ve patlayıcıdır, nefrete ve basit duygulara dayanır, kişiyi gündelik hayatından koparıp coşkuya iter. Entegrasyon propagandası ise yavaş ve derindir; kişiyi topyekûn biçimlendirmeyi hedefler ve kitle iletişim araçlarını gerektirir [[cite:ellul-1965-propaganda]].\n\nBizim okumamız: iki yazar aynı kavramsal alanı farklı eksenlerle böler. Lenin’in eksen “kaç fikir, kaç kişi”; Ellul’un ekseni “etki ne kadar sürer, ne kadar derine iner”. Lenin’in “propagandası” (çok fikir, az kişi, açıklama) Ellul’un “entegrasyonu” ile aynı yeri tutmaz, çünkü ilki bir öğretim işidir, ikincisi bir alışkanlık biçimlendirmesi.\n\nPratik sonuç: sınavda “ajitasyon” yazdığında kimin sözlüğüyle konuştuğunu belirt."
+    },
+    {
+      "id": "deep-historiography",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Savaş propagandası tarihi üç dalgada nasıl yazıldı?",
+      "body": "**1. Savaşın hemen ardı: hayranlık ve inceleme.** Lasswell 1927’de Wellington House’un girişimiyle çıkan Bryce Raporu’nu propaganda cephesinin “zaferlerinden biri” sayar ve komisyon kurma hamlesine “dâhice” der [[cite:lasswell-1927-propaganda]].\n\n**2. 1920’ler: ifşa.** Osgood’a göre 1920’lerdeki soruşturmalar Britanya’nın uydurma vahşet hikâyelerini ortaya çıkardı [[cite:osgood-2002-propaganda]]. Kadavra hikâyesi 1925’te geri alındı [[cite:hansard-1925-12-02-kadaver]]; Ponsonby 1928’de bir “yalan derlemesi” yayımladı [[cite:ponsonby-1928-falsehood-in-war-time]].\n\n**3. 2000’ler: yeniden tartma.** Horne ve Kramer (2001) Belçika ve Kuzey Fransa’da 6.500 kadar sivilin öldürüldüğünü belgeledi, öte yandan Alman askerlerinin “sivil direniş” inancının bir sanrıya dayandığını gösterdi [[cite:horne-kramer-2001-german-atrocities]]; bazı tarihçiler raporu “büyük ölçüde doğru” bulur [[cite:wfa-bryce-report]]; tartışma bugün de tam kapanmış değil [[cite:history-ireland-bryce]]. Neander ve Marlin (2010) kadavra hikâyesinin nasıl kurulduğunu Northcliffe basını üzerinden anlattı [[cite:neander-marlin-2010-corpse-factory]].\n\nSarkaç: hayranlık, sonra “hepsi yalandı”, sonra “karışık bir tablo”. Günlük konuşmada en çok yaşayan sürüm ikincisidir; oysa üçüncüsü belgelere daha yakındır. Osgood’a göre ayrıca savaştan propagandanın gücüne dair efsanevi bir inanç kaldı [[cite:osgood-2002-propaganda]]; o inancın ders kitabı sürümü [[lesson:magic-bullet]] dersinde."
+    },
+    {
+      "id": "today-computational",
+      "section": "today",
+      "layer": "core",
+      "kind": "text",
+      "title": "Bugün: “bilgisayarlı propaganda” envanterleri",
+      "body": "Oxford Internet Institute’taki bir araştırma ekibi, siyasal amaçlı örgütlü sosyal medya manipülasyonunu ülke ülke saymaya çalıştı. 2019 envanteri, botlar, veri toplama ve trollerle bu tür taktikler kullanan 70 ülke buldu [[cite:bradshaw-howard-2019-global-disinformation-order]]. 2020 envanteri ise sosyal medyayı siyasal konularda bilgisayarlı propaganda ve dezenformasyon için kullanan 81 ülke saptadığını, bir önceki raporda bu sayının 70 olduğunu yazar [[cite:bradshaw-bailey-howard-2021-industrialized-disinformation]].\n\nBu dersten üç soru, bugüne de taşınabilir. Bunlar bizim akıl yürütmemiz, belgelenmiş bir araştırma bulgusu değil:\n\n1. Kim söylüyor ve bu açıkça gösteriliyor mu? (beyaz, gri, kara)\n2. Bu hikâye ilk nerede çıktı ve bağımsız bir ikinci kaynak var mı? (kadavra hikâyesi)\n3. Bu içerik benden ne yapmamı istiyor? (Ellul: eylem)\n\nBir ölçek uyarısı: “81 ülke” sayısı, olgunun nasıl tanımlandığına ve nasıl saptandığına bağlıdır. “81 ülkede bu tür örgütlü bir çaba bulundu” ile “81 ülkede propaganda var” aynı cümle değildir. Ayrıca sayılan şey çabanın varlığıdır; etkisini ölçmek ayrı bir soru ve ayrı kanıt ister.",
+      "question": {
+        "id": "today-computational-q",
+        "type": "mcq",
+        "prompt": "Bir haber sitesi, hiç tanımadığın bir hesaptan dolaşan bir “görgü tanığı” hikâyesini paylaşıyor. Bu dersin kadavra vakasından çıkardığın ilk kontrol hangisi olmalı?",
+        "options": [
+          "Hikâye ne kadar duygusal, ne kadar çok paylaşılmış?",
+          "Hikâyeyi anlatan kişi kendini yeterince güvenilir gösteriyor mu?",
+          "Hikâyeyi paylaşan siteyi kaç kişi takip ediyor?",
+          "Hikâyenin ilk çıktığı yer ve bağımsız bir ikinci kaynak var mı?"
+        ],
+        "answer": 3,
+        "explain": "Kadavra vakasında hikâye, yan yana konan iki metinle bağımsız kaynak görüntüsü kazandı; asıl sorulması gereken ilk çıkış yeri ve gerçekten bağımsız ikinci kaynaktı. Birinci şık duygusal gücü ve dolaşımı ölçer, ama inandırıcı hikâyelerin özelliği zaten ikisine sahip olmasıdır. İkinci ve üçüncü şıklar kaynağın görünüşünü ölçer, doğruluğunu değil."
+      }
+    },
+    {
+      "id": "today-lab",
+      "section": "today",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Lab: iki gerçek afişi sınıflandır (1915 ve 1917)",
+      "body": "Önce kendin dene. İki gerçek afişi sözlerle tarif ediyorum; yedi hileden (Institute for Propaganda Analysis) hangisi uyuyor, renk ne, hangi duygu hedefleniyor?\n\n**Afiş 1: “Destroy this mad brute — Enlist” (Harry R. Hopps, ABD Ordusu, 1917).** Kıyıya çıkan iri, insan-maymun bir yaratık; başındaki sivri Alman miğferinde “militarism”, elindeki sopada “Kultur” yazıyor; öbür kolunda baygın bir kadın figürü; geride yıkıntılar [[cite:weschler-mad-brute]] [[cite:awm-hopps-poster]].\n\n**Afiş 2: “Daddy, what did YOU do in the Great War?” (Savile Lumley, Parliamentary Recruiting Committee, 1915).** Koltukta oturan bir baba; yerde oyuncak askerlerle oynayan küçük bir oğul; dizinde açık bir kitap tutan küçük bir kız [[cite:va-lumley-poster]].\n\nŞimdi karşılaştır. Institute for Propaganda Analysis’in tanımına göre **Name Calling**, bir fikre kötü bir etiket takıp kanıtı incelemeden reddettirmektir [[cite:lee-lee-1939-fine-art-of-propaganda]]. Afiş 1 buna oturur: düşman bir “canavar”, sopa ve miğfer de etiket. Ama afişin asıl gücü korku ve tiksinti uyandıran görüntüdür; yedi hilenin listesinde bunun adı yok. Afiş 2’de düşman yok; en yakın hile **Band Wagon**, ama gerçek silah utançtır: V&A kaydı bunu “duygusal şantaj” tonu diye niteler ve zorunlu askerliğin ancak 1916’da başladığını ekler [[cite:va-lumley-poster]].\n\nRenk: ikisinde de yayıncı gösterilmiş, yani beyaz. Ders: kontrol listeleri işe yarar ama her şeyi yakalamaz.",
+      "question": {
+        "id": "today-lab-q",
+        "type": "mcq",
+        "prompt": "Afiş 1’deki sopanın üzerine “Kultur” ve miğfere “militarism” yazılması, yedi hileden en çok hangisine uyar?",
+        "options": [
+          "Testimonial; çünkü saygın biri onay veriyor.",
+          "Plain Folks; çünkü sıradan insan gibi konuşuyor.",
+          "Name Calling; çünkü düşmana kötü bir etiket takılıyor.",
+          "Card Stacking; çünkü yalnızca bir yönlü bilgi veriliyor."
+        ],
+        "answer": 2,
+        "explain": "Name Calling, bir fikre ya da nesneye kötü bir etiket takıp kanıtı incelemeden reddettirmektir; “canavar” imgesi ve etiketli sopa-miğfer buna oturur. Testimonial ve Plain Folks’un afişte hiçbir izi yok: ne bir onaylayan ne sıradan bir insan konuşuyor. Card Stacking bilgi seçimidir; afişte bilgi değil imge var, bu yüzden en yakın seçenek Name Calling’dir. (Korku ise listede adı olmayan ek bir öğedir.)"
+      }
+    },
+    {
+      "id": "today-lab2",
+      "section": "today",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Lab: ikna mı, propaganda mı?",
+      "body": "Hayal et: aynı gün üç metinle karşılaşıyorsun (varsayımsal örnekler).\n\n- **A.** Belediye kütüphanesi kendi adıyla “Bu ay okuma kampanyası: ücretsiz üyelik” afişi asar.\n- **B.** Adı belirtilmeyen bir hesap, rakip bir mahalle derneği hakkında doğrulanmamış “tanık” hikâyeleri dolaştırır.\n- **C.** Bir bakanlık, kendi adını öne çıkarmadan “sıradan yurttaş” gibi konuşan gönüllülerle bir politikayı savunur.\n\nBeş soru sor. Bu bizim çerçevemizdir; bilim insanları ikna–propaganda ayrımını farklı çizer ve bu bir mutlak yasa değildir:\n\n1. Kaynak görünür mü?\n2. Alıcının karşı ses duyma ve doğrulama imkânı var mı?\n3. İddialar sınanabilir mi?\n4. Gönderen kime yarar sağlıyor ve bunu söylüyor mu?\n5. Duygu mu ağır basıyor, bilgi mi?\n\nA: kaynak görünür, iddia doğrulanabilir; beyaz ve bir ikna örneği. B: kaynak gizli, iddia sınanamaz; en az gri, uydurmaysa kara; propaganda tarafı. C: ortada kalır: kimlik tam gösterilmediği için gri tarafa kayar.\n\nBir Türkçe notu: Türk Dil Kurumu sözlüğü *ikna*’yı “inandırma” ile birlikte “kandırma” diye de tanımlar [[cite:tdk-guncel-turkce-sozluk]]. Yani sözlüğün kendisi iki sözcüğün sınırını bulanık bırakır; bu yüzden ölçütleri açıkça yazmak daha güvenlidir.",
+      "question": {
+        "id": "today-lab2-q",
+        "type": "mcq",
+        "prompt": "Örnek C’de (kimliğini öne çıkarmayan bakanlık gönüllüleri) beş sorunun hangisi durumu en çok belirler?",
+        "options": [
+          "Kaynağın görünür olup olmadığı (1. soru).",
+          "Metnin kaç kelimeden oluştuğu.",
+          "Metnin duygusal olup olmadığı (5. soru) tek başına.",
+          "Alıcıların sayısı."
+        ],
+        "answer": 0,
+        "explain": "C’yi B’den ayıran şey gönüllülerin kimliğinin tam gösterilmemesidir: bu, kaynak sorusunu belirleyici kılar ve örneği gri tarafa kaydırır. Uzunluk ve alıcı sayısı bu sınıflamayla ilgisizdir. Duygusallık tek başına belirleyici olamaz, çünkü A gibi dürüst bir kampanya da duygusal olabilir; ölçüt bir ölçüt bütünüdür, tek bir sorunun cevabı değil."
+      }
+    },
+    {
+      "id": "turkey-ancyra",
+      "section": "turkey",
+      "layer": "core",
+      "kind": "story",
+      "title": "Ankara’da iki bin yıllık bir duvar",
+      "body": "Ankara’da, Roma döneminde Ancyra denen kentte, Augustus için yapılmış bir tapınağın duvarlarında bir metin yazılıdır: imparatorun kendi işlerinin özeti, *Res Gestae Divi Augusti*. Metnin bronz levhalara yazılıp Roma’da Augustus’un mozolesinin önüne dikilmesi isteniyordu; levhalar günümüze ulaşmadı [[cite:loeb-1924-res-gestae]]. Ama metin, imparatorluktaki birçok Augustus tapınağının duvarına kopyalanmıştı; Ancyra’daki kopya, en eksiksiz olanıdır [[cite:loeb-1924-res-gestae]] [[cite:turkisharchaeonews-temple-augustus-roma]].\n\nAnkara’da metnin Latince aslı tapınağın giriş bölümünün iç duvarlarına, Yunanca çevirisi ise dış duvara yazılmıştı; tapınağa bitişik Türk evleri, Yunanca kısmın okunmasını uzun süre zorlaştırdı [[cite:loeb-1924-res-gestae]]. Yazıtı Batı’ya ilk duyuran, Ferdinand’ın elçisi olarak 1555’te Amasya’da Sultan Süleyman’ın yanına gönderilen Busbecq’tir; yazıtı okuyup tanıdı ve bir kısmının kopyasını yayımladı [[cite:loeb-1924-res-gestae]].\n\nNeden burada? Devlet iletişiminin “propaganda” sözcüğünden çok önce, kalıcı bir yüzeye ve kopyalama planıyla işlendiğini gösterdiği için. Metnin yalnızca Latince değil Yunanca da yazılmış olması, bizim okumamıza göre, farklı okur kitlelerini hesaba katmanın bir işaretidir; kaynaklar iki dilin nedenini söylemiyor. Bu metnin “propaganda” sayılıp sayılmayacağı ve içeriğinin ne kadar doğru olduğu ayrı sorular; burada yalnızca yeri ve yöntemi belgeliyoruz.",
+      "question": {
+        "id": "turkey-ancyra-q",
+        "type": "mcq",
+        "prompt": "Aşağıdakilerden hangisi Res Gestae’nin devlet iletişimi olarak okunmasını destekleyen, belgelenmiş bir ayrıntıdır?",
+        "options": [
+          "Aynı metnin imparatorluktaki birçok tapınağın duvarına kopyalanmış olması.",
+          "Ankara’daki tapınağa Türk evlerinin bitişik yapılmış olması.",
+          "Yazıtı Batı’ya ilk duyuranın bir elçi olması.",
+          "Tapınağın günümüzde ayakta olması."
+        ],
+        "answer": 0,
+        "explain": "Metnin çok sayıda tapınağa kopyalanması, merkezden planlanmış bir yayma çabasını düşündürür; bu, belgelenmiş bir ayrıntıdır. Türk evleri, elçinin kimliği ve tapınağın bugünkü durumu metnin sonraki yaşamını anlatır, yazıtın ilk amacını değil. Bu yüzden bu şıklar cazip görünür (hepsi ilginç ayrıntıdır) ama soruya, yani yazıtın nasıl kullanıldığına cevap vermez."
+      }
+    },
+    {
+      "id": "exam-patterns",
+      "section": "exam",
+      "layer": "core",
+      "kind": "text",
+      "title": "Sınavda böyle sorulur",
+      "body": "**Sık çıkan kalıplar**\n\n- “Propaganda sözcüğünün kökeni?” → *Congregatio de Propaganda Fide*, 1622, Papa XV. Gregorius; Latince *propagare* [[cite:newadvent-catholic-encyclopedia-propaganda]].\n- “Wellington House / Creel Komitesi?” → Britanya (1914) ve ABD (1917); Creel Komitesi, Kamuyu Bilgilendirme Komitesi’nin (CPI) başkanına atfen kullanılan addır.\n- “Kadavra fabrikası / Bryce Raporu?” → vahşet propagandası örnekleri: biri uydurma (1925’te geri alındı), öbüründe gerçek ve doğrulanamayan bir arada.\n- “Beyaz, gri, kara propaganda?” → kaynağın gösterilişine göre sınıflama.\n- “Ajitasyon–propaganda” → Plekhanov ve Lenin; “ajitasyon–entegrasyon” → Ellul.\n\n**Cazip yanlışlar**\n\n- 1622 ile 1627’yi karıştırmak; Lasswell (1927) ile Bernays’i (1928) karıştırmak; Creel’i Bryce ile karıştırmak.\n- “Propaganda hep yalandır.” Ellul’un çevirisinin girişi ve Lasswell buna karşı çıkar.\n- “Olumsuz yük Nazilerle başladı.” Osgood’a göre savaş sonrasında başladı.\n\n**Türkçe yazında alternatif adlar:** propaganda (Türk Dil Kurumu sözlüğünde *yaymaca* karşılığıyla) [[cite:tdk-guncel-turkce-sozluk]]; ajitasyon; halkla ilişkiler; vahşet (zulüm) propagandası; Creel Komitesi. “Kamuyu Bilgilendirme Komitesi” ve “Halkı Aydınlatma ve Propaganda Bakanlığı” bu dersin çevirileridir; kaynaklar farklı karşılıklar kullanabilir.",
+      "question": {
+        "id": "exam-patterns-q",
+        "type": "mcq",
+        "prompt": "Bir çoktan seçmeli soru: “Kadavra fabrikası hikâyesi 1925’te nasıl sonuçlandı?” Doğru şık hangisidir?",
+        "options": [
+          "İngiliz hükümeti hikâyeyi resmen doğruladı.",
+          "Hikâye Almanya’da mahkemede yargılandı.",
+          "İngiliz hükümeti, Alman hükümetinin hikâyenin hiçbir dayanağı olmadığını söyleyen yalanlamasını Avam Kamarası’nda kabul etti.",
+          "Hikâye 1925’te ilk kez yayımlandı."
+        ],
+        "answer": 2,
+        "explain": "2 Aralık 1925’te Dışişleri Bakanı Chamberlain, Alman Şansölyesi’nin Alman hükümeti adına hikâyenin hiçbir dayanağı olmadığını söylemeye yetki verdiğini bildirdi ve İngiliz hükümeti adına bu yalanlamayı kabul etti. Birinci şık tersini söyler. İkinci şık uydurmadır. Dördüncü şık tarihi bozar: hikâye 1917’de yayımlanmıştı. Sınavda yıl kaymasına dikkat: 1917 (yayın), 1925 (geri alma)."
+      }
+    },
+    {
+      "id": "exam-answer",
+      "section": "exam",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Açık uçlu soru: beş adımlı iskelet",
+      "body": "“Propagandanın tarihsel gelişimini açıklayınız” türü bir soruda şu iskeleti kullan.\n\n1. **Sözcüğü ver.** 1622, *Propaganda Fide*, “yaymak”; başlangıçta olumsuz değil.\n2. **Dönüm noktasını söyle.** Birinci Dünya Savaşı: Wellington House (1914), Kamuyu Bilgilendirme Komitesi (1917).\n3. **İki örnek ver.** Bryce Raporu (gerçek ile doğrulanamaz yan yana) ve kadavra fabrikası (uydurma; 1925’te geri alındı).\n4. **Yükü açıkla.** Savaş sonrası ifşa; Creel’in 1920 tarihli çekingenliği, Bernays’in 1928 tarihli savunusu ve Goebbels’in çekingenliği.\n5. **Kuramlara bağla.** Lasswell 1927, Institute for Propaganda Analysis 1937, Ellul 1962; beyaz, gri, kara ayrımı.\n\nBir cümlelik giriş örneği: “Propaganda sözcüğü 1622’de bir kilise kurulunun adıyken, Birinci Dünya Savaşı’nda devletlerin örgütlü bilgi ve etkileme çabasına dönüşmüş, savaş sonrasında uydurma vahşet hikâyelerinin ifşasıyla aldatma çağrışımı kazanmıştır.”",
+      "question": {
+        "id": "exam-answer-q",
+        "type": "mcq",
+        "prompt": "Bir öğrenci, “Propaganda, Nazilerin kullandığı bir yalan tekniğidir” diye başlayan bir cevap yazıyor. Cevabı geliştirmek için ilk ekleyeceği düzeltme hangisi olmalı?",
+        "options": [
+          "Goebbels’in doğum yılı.",
+          "Berlin’in nüfusu.",
+          "Bernays’in kaç kitap yazdığı.",
+          "Sözcüğün 1622’de bir kilise kurulunun adı olduğunu, siyasal anlamının Birinci Dünya Savaşı’nda yerleştiğini ve olumsuz yükün savaş sonrasında kazanıldığını."
+        ],
+        "answer": 3,
+        "explain": "Cümlenin iki temel hatası var: propaganda sözcüğünü Naziler öncesi ve Naziler dışı bir tarihe kapatıyor, ayrıca onu yalanla eşitliyor. Dördüncü şık bu iki hatayı da düzeltir. Diğer şıklar konudan bağımsız ayrıntılardır. Bir cevabı geliştirirken önce iddianın kendisini, sonra süsleyen bilgiyi düzelt."
+      }
+    },
+    {
+      "id": "summary",
+      "section": "summary",
+      "layer": "core",
+      "kind": "summary",
+      "title": "Özet kartı",
+      "body": "- **Sözcük:** *Congregatio de Propaganda Fide* (1622), Latince “yaymak”; siyasal anlamı Birinci Dünya Savaşı’nda yerleşti, başta yargılayıcı değildi.\n- **Olgu önce, kuram sonra:** Franklin’in 1782 sahte gazete eki gibi hileler, sözcüğün siyasal anlamından öncedir; ölçek ve örgüt 1914’ten (Wellington House) ve 1917’den (Creel Komitesi) gelir.\n- **Vahşet propagandası:** Belçika’da gerçek katliamlar (yaklaşık 6.500 sivil) ile doğrulanamayan hikâyeler yan yana; kadavra fabrikası uydurmaydı ve 1925’te geri alındı.\n- **Yük:** Creel (1920) ve Goebbels sözcükten çekindi; Osgood’a göre olumsuz çağrışım savaş sonrasında, bir demokrasinin propagandasının ifşasından doğdu.\n- **Bernays (1928):** sözcüğü savundu ve “halkla ilişkiler danışmanı” mesleğini tanıttı.\n- **Rejimler:** Sovyet ajitprop (1920) ve Almanya’da propaganda bakanlığı (13 Mart 1933).\n- **Ellul (1962):** propaganda toplumsal bir olgudur; ajitasyon ve entegrasyon; entegrasyon kültürlü ortamda daha iyi işler.\n- **Renkler:** beyaz, gri, kara kaynağın gösterilişine göredir; doğrulukla karıştırma.\n- **Sınav:** 1622 ile 1627’yi, Lasswell 1927 ile Bernays 1928’i karıştırma; Ellul ile Lenin’in “ajitasyon” sözlüğünü ayır.",
+      "question": {
+        "id": "summary-q",
+        "type": "tf",
+        "prompt": "Doğru mu yanlış mı: Bu derse göre Creel Komitesi çalışmasını açıkça “propaganda” diye adlandırıyordu.",
+        "answer": false,
+        "explain": "Yanlış. Creel 1920’de komitenin çalışmasına propaganda demediklerini, çünkü sözcüğün Alman elinde aldatma ve yozlaşmayla anılır olduğunu yazar. Tuzak: komitenin yaptığı iş bugün propaganda başlığı altında incelenir; ama kendi adlandırması farklıydı."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Bir ders kitabı, “propaganda sözcüğü, 1627’de Roma’da kurulan bir kardinaller kurulundan gelir” diyor. Bu tarihi doğrulamak için en iyi yol hangisidir?",
+      "options": [
+        "Kitapta yazıyorsa yeterlidir.",
+        "Sözcüğün Latince olduğunu bilmek yeterlidir.",
+        "Kurumun kendi sayfasına ve bağımsız bir ansiklopediye bakmak: kurul 1622’de kurulmuş, 1627 ise kuruluşa bağlı okulun tarihidir.",
+        "Tarih önemsizdir."
+      ],
+      "answer": 2,
+      "explain": "Vatikan sayfası kurulun 1622’de, 22 Haziran tarihli bulla kurulduğunu söyler; 1627 ise Papa VIII. Urbanus’un kurula bağlı okulu (Collegium Urbanum) kurduğu tarihtir. Birinci şık, tek bir kaynağa güvenmektir; 1928 tarihli bir kitap bile alıntı yoluyla bu hatayı taşıyabilir. Dördüncü şık, tarihin bu dersteki işlevini yok sayar."
+    },
+    {
+      "id": "q2",
+      "type": "tf",
+      "prompt": "Doğru mu yanlış mı: Creel, Kamuyu Bilgilendirme Komitesi’nin işini kendi kitabında açıkça “propaganda” diye adlandırdı.",
+      "answer": false,
+      "explain": "Yanlış. Creel 1920’de komitenin buna propaganda demediğini, çünkü sözcüğün Alman elinde aldatma ve yozlaşmayla anılır olduğunu yazar. Cazip düşünce, komitenin yaptığı işin bugün propaganda sayılmasını kendi adlandırmasına da taşımaktır."
+    },
+    {
+      "id": "q3",
+      "type": "match",
+      "prompt": "Her kavramı tanımıyla eşleştir.",
+      "pairs": [
+        [
+          "Beyaz propaganda",
+          "Kaynak doğru biçimde gösterilir"
+        ],
+        [
+          "Gri propaganda",
+          "Kaynak belirtilmez ya da gizlenir"
+        ],
+        [
+          "Kara propaganda",
+          "Mesaj başka birinden çıkmış gibi gösterilir"
+        ],
+        [
+          "Ellul’un ajitasyon propagandası",
+          "Kısa süreli ve patlayıcı; enerjiyi harekete geçirir"
+        ],
+        [
+          "Ellul’un entegrasyon propagandası",
+          "Yavaş; kişiyi toplumun kalıplarına uyduran derin biçimlendirme"
+        ]
+      ],
+      "explain": "Renkler kaynağın gösterilişini ölçer; Ellul’un ayrımı ise etkinin süresi ve derinliğini. En sık karışan çift gri ile kara: gri gizler, kara sahte kaynak gösterir. İkinci sık karışıklık Ellul ile Lenin’in ‘ajitasyon’ sözcüğüdür: Lenin’de ölçüt fikir sayısı ve kitle büyüklüğüdür."
+    },
+    {
+      "id": "q4",
+      "type": "order",
+      "prompt": "Bu olayları eskiden yeniye doğru sırala.",
+      "items": [
+        "Congregatio de Propaganda Fide kurulur (1622)",
+        "Britanya kabinesi yurtdışına dönük propaganda örgütünü onaylar (5 Eylül 1914)",
+        "ABD’de Kamuyu Bilgilendirme Komitesi kurulur (13 Nisan 1917)",
+        "Avam Kamarası’nda kadavra hikâyesinin yalanlaması kabul edilir (2 Aralık 1925)",
+        "Bernays’in Propaganda kitabı (1928)",
+        "Almanya’da Reich propaganda bakanlığı kurulur (13 Mart 1933)",
+        "Ellul’un Propagandes kitabı (1962)"
+      ],
+      "explain": "Sıra: 1622, 1914, 1917, 1925, 1928, 1933, 1962. En sık yapılan hata, kadavra hikâyesinin geri alınmasını (1925) yayımlanmasıyla (1917) karıştırmaktır. Mantık: sözcük önce, savaş örgütleri sonra, geri alma ve savunu 1920’ler, rejim bakanlığı 1933, sosyolojik çözümleme en sonda."
+    },
+    {
+      "id": "q5",
+      "type": "cloze",
+      "prompt": "Boşlukları doldur.",
+      "text": "Bryce Komisyonu’na sunulan {{1}} ifadeyi alan avukatların yemin ettirme yetkisi {{2}}; Horne ve Kramer ise 1914 işgalinde yaklaşık {{3}} Belçikalı ve Fransız sivilin öldürüldüğünü belgeledi.",
+      "blanks": [
+        {
+          "options": [
+            "yaklaşık 120",
+            "1.200’den fazla",
+            "12.000’den fazla"
+          ],
+          "answer": 1
+        },
+        {
+          "options": [
+            "yoktu",
+            "vardı",
+            "tartışmalıydı"
+          ],
+          "answer": 0
+        },
+        {
+          "options": [
+            "6.500",
+            "650",
+            "65.000"
+          ],
+          "answer": 0
+        }
+      ],
+      "explain": "Bryce Raporu’nda 1.200’den fazla ifade var; avukatların yemin ettirme yetkisi yoktu, tanık adları da çıkarıldı. Horne ve Kramer yaklaşık 6.500 Belçikalı ve Fransız sivilin ölümünü belgeler; 650 ve 65.000 seçenekleri büyüklük mertebesini şaşırtır. Bu rakam, tablonun karışık olduğunu da gösterir: gerçek şiddet vardı, ama doğrulanamayan hikâyeler de dolaştı."
+    },
+    {
+      "id": "q6",
+      "type": "case",
+      "scenario": "Bir ülkede “Yurttaş Haber” adında, bağımsız gönüllülerin işlettiği izlenimi veren bir site var. Sonradan sitenin bir bakanlık tarafından finanse edildiği ve editörlerin bakanlık çalışanı olduğu anlaşılıyor. Site, komşu bir ülkenin “bebekleri tehdit ettiğine” dair tek bir görgü tanığına dayanan bir hikâye yayımlamış; hikâye başka hiçbir kaynakta yok. (Varsayımsal senaryo.)",
+      "parts": [
+        {
+          "id": "q6a",
+          "prompt": "Bu dersin (Osgood’un aktardığı) ölçütüne göre site hangi renkte?",
+          "options": [
+            "Beyaz",
+            "Gri",
+            "Kara"
+          ],
+          "answer": 1,
+          "explain": "Asıl kaynak (bakanlık) gizleniyor ama site başka birinin, örneğin düşmanın kurumu gibi gösterilmiyor: bu gri. Beyaz olması için kaynağın doğru gösterilmesi gerekirdi. Kara ise mesajın başka birinden çıkmış gibi sunulmasını ister; site komşu ülkenin kurumu gibi davransaydı kara olurdu."
+        },
+        {
+          "id": "q6b",
+          "prompt": "Kadavra fabrikası vakasından çıkardığın ilk kontrol ne olmalı?",
+          "options": [
+            "Hikâye ne kadar duygusal?",
+            "Site ne kadar çok paylaşılıyor?",
+            "Hikâyenin ilk çıkış yeri ve bağımsız bir ikinci kaynak var mı?"
+          ],
+          "answer": 2,
+          "explain": "Kadavra hikâyesi yan yana konan iki metinle bağımsız doğrulama görüntüsü kazanmıştı; burada hikâye zaten tek bir görgü tanığına dayanıyor. Duygusallık ve paylaşım sayısı inandırıcı hikâyelerde zaten yüksektir; ayırt edici olan kaynak yapısıdır."
+        },
+        {
+          "id": "q6c",
+          "prompt": "Hikâyenin uydurma çıktığı ortaya çıksa, aynı sitedeki başka haberler hakkında ne söylenebilir?",
+          "options": [
+            "Hiçbir şey söylenemez; her iddia ayrı sınanmalıdır.",
+            "Hepsi de uydurmadır.",
+            "Hepsi doğrudur, çünkü tek bir hata bütünü etkilemez."
+          ],
+          "answer": 0,
+          "explain": "Belçika’da hem gerçek katliamlar hem doğrulanamayan hikâyeler vardı; savaş sonrasında uydurma çıkanlar bütün anlatıyı itibarsızlaştırdı. Bu, ‘hepsi yalan’ ve ‘hepsi doğru’ kestirmelerinin ikisinin de yanlış olduğunu gösterir."
+        }
+      ],
+      "takeaway": "Kaynağın rengini (kim, gösterilen mi gerçek mi) ve iddianın çıkış zincirini (ilk yer, bağımsız ikinci kaynak) ayrı ayrı sor; sonra her iddiayı tek tek sına."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "Bernays’in 1928 tarihli kitabı için aşağıdakilerden hangisi en doğrudur?",
+      "options": [
+        "Kitap propaganda sözcüğünü savunur ve “halkla ilişkiler danışmanı” mesleğini yan yana tanıtır.",
+        "Kitap propaganda yerine yalnızca “halkla ilişkiler” sözcüğünü kullanır.",
+        "Kitap Nazi bakanlığının kurulmasını savunmak için yazılmıştır.",
+        "Kitap Bryce Raporu’nu inceler."
+      ],
+      "answer": 0,
+      "explain": "Kitabın adı Propaganda’dır; içinde sözcüğü savunan bir alıntı ve “halkla ilişkiler danışmanı” meslek adı bulunur. Üçüncü şık tarihsel olarak imkânsız: bakanlık 1933’te kuruldu. Dördüncü şık kitabın konusuyla ilgisizdir."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Ellul’a göre entegrasyon propagandası hangi ortamda daha iyi işler?",
+      "options": [
+        "Eğitimi ve bilgisi az olanlarda; çünkü kolay kandırılırlar.",
+        "Yalnızca radyoda.",
+        "Yalnızca savaş zamanında.",
+        "Rahat, kültürlü ve bilgili ortamlarda; çünkü toplumun kalıplarını paylaşırlar."
+      ],
+      "answer": 3,
+      "explain": "Ellul entegrasyon propagandasının kültürlü ve bilgili ortamlarda daha iyi işlediğini, aydınların köylülerden daha duyarlı olduğunu yazar; eğitimi az olanlar ajitasyona daha açıktır. Birinci şık ikisini birbirine karıştırır. İkinci ve üçüncü şıklar Ellul’un ölçütü olmayan sınırlamalardır."
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "1925’te “kadavra fabrikası” hikâyesi konusunda Avam Kamarası’nda ne oldu?",
+      "options": [
+        "Hikâye resmen doğrulandı.",
+        "Dışişleri Bakanı Chamberlain, Alman hükümetinin hikâyenin hiçbir zaman dayanağı olmadığını söyleyen yalanlamasını İngiliz hükümeti adına kabul etti.",
+        "Hikâye Almanya’da mahkemeye taşındı.",
+        "Hikâye ilk kez o gün yayımlandı."
+      ],
+      "answer": 1,
+      "explain": "2 Aralık 1925’te Chamberlain, Alman Şansölyesi’nin Alman hükümeti adına hikâyenin hiçbir dayanağı olmadığını söylemeye yetki verdiğini bildirdi ve İngiliz hükümeti adına bu yalanlamayı kabul etti. Birinci ve dördüncü şıklar tarih ve içerik olarak yanlıştır; hikâye 1917’de yayımlanmıştı."
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "Britanya’nın 1914’te kurduğu yurtdışı propaganda bürosunun (Wellington House) öncelikli hedef kitlesi kimdi?",
+      "options": [
+        "Alman halkı.",
+        "İngiliz halkı.",
+        "Yurtdışı kamuoyu, özellikle Amerikan kamuoyu.",
+        "Osmanlı Devleti’nin halkı."
+      ],
+      "answer": 2,
+      "explain": "Kaynaklar Wellington House’un Amerikan kamuoyuna öncelik verdiğini yazar; kabine kararı da yurtdışında kamuoyunu bilgilendirme ve etkilemeye dönüktü. Birinci şık düşman halkını hedef gösterir; oysa büronun belgelenen odağı yurtdışı kamuoyuydu. İkinci şık iç cepheyle karıştırır; büro yurtdışına dönüktü. Dördüncü şık ise hiçbir belgeyle desteklenmez."
+    }
+  ]
+}

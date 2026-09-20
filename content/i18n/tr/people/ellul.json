@@ -1,0 +1,23 @@
+{
+  "id": "ellul",
+  "lang": "tr",
+  "name": "Jacques Ellul",
+  "nativeName": "",
+  "slug": "jacques-ellul",
+  "short": "Fransız hukuk tarihçisi ve sosyolog (1912–1994). *Propagandes* (1962) kitabında propagandayı teknoloji toplumunun toplumsal olgusu olarak çözümledi.",
+  "born": "Bordeaux",
+  "died": "Pessac (Bordeaux yakını)",
+  "roles": [
+    "sosyolog",
+    "hukuk tarihçisi",
+    "yazar"
+  ],
+  "bio": "Jacques Ellul 6 Ocak 1912’de Bordeaux’da doğdu, 19 Mayıs 1994’te Bordeaux yakınındaki Pessac’taki evinde öldü. Akademik yaşamının neredeyse tamamını Bordeaux’da, hukuk fakültesinde ve siyasal bilgiler enstitüsünde kurumların tarihi ve sosyolojisi profesörü olarak geçirdi. Elliyi aşkın kitap yazdı; bunların bir kısmı kitle iletişimi, teknoloji, hukuk ve siyaset üzerine sosyolojik çözümlemelerdir.\n\nİletişim alanında en çok anılan kitabı, Paris’te 1962’de Armand Colin’den çıkan *Propagandes*’tır; İngilizcesi 1965’te *Propaganda: The Formation of Men’s Attitudes* adıyla yayımlandı. Ellul’a göre propaganda yalnızca bir rejimin siyasal silahı değildir; kitlelere ulaşan araçlarla ve psikoloji ile sosyolojinin bilgisiyle işleyen, teknoloji toplumunun bir toplumsal olgusudur. Amacı çoğu zaman bir görüşü değiştirmek değil, eylemi ve uyumu sağlamaktır.\n\nKitabın en tanınan ayrımı ajitasyon propagandası ile entegrasyon propagandasıdır. Ajitasyon, kısa süreli ve patlayıcıdır; enerjiyi harekete geçirir, çoğu zaman bir düşmana yönelik nefrete dayanır. Entegrasyon ise yavaş işleyen, kişiyi toplumun kalıplarına uyumlu kılan bir biçimlendirmedir ve Ellul’a göre asıl yaygın ve önemli olanıdır. Ellul bu ayrımın Lenin’in ajitasyon–propaganda ayrımına kısmen benzediğini, ama sözcüklerin anlamının ters çevrildiğini de not eder.\n\nBu sayfa yalnızca doğrulanabilen mesleki bilgileri içerir; kişisel ayrıntılar bilerek yazılmamıştır.",
+  "works": [
+    {
+      "bib": "ellul-1965-propaganda",
+      "note": "Fransızca aslı *Propagandes* (1962); ajitasyon ve entegrasyon propagandası ayrımının kaynağı."
+    }
+  ],
+  "inCourse": "Bkz. [[lesson:propaganda-history]]: propagandanın sosyolojik çözümlemesi ve “entelektüeller entegrasyon propagandasına daha açıktır” savı."
+}

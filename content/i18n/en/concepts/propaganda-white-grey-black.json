@@ -1,0 +1,19 @@
+{
+  "id": "propaganda-white-grey-black",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "white, grey and black propaganda",
+  "altTerms": [
+    "white propaganda",
+    "gray propaganda",
+    "grey propaganda",
+    "black propaganda",
+    "beyaz, gri ve kara propaganda"
+  ],
+  "slug": "white-grey-black-propaganda",
+  "short": "A classification of propaganda by how its source is presented: the source is open (white), hidden or unclear (grey), or falsely shown (black).",
+  "body": "The three-colour classification separates propaganda according to how the source of the message is shown. In white propaganda the source is correctly shown; the American government’s Voice of America broadcasts are given as an example. In grey propaganda the source is not stated or is hidden; spreading views through neutral-looking channels that would not be convincing if the agency said them in its own name is a typical use of grey propaganda. Black propaganda presents the message as coming from someone else, often from a hostile source, in order to embarrass or discredit that source. Forged documents and clandestine broadcasts are its tools.\n\nThis classification is about how the source is shown, not about truth. The Turkish Language Association’s dictionary, by contrast, defines white propaganda as steering people with “true information whose source is known and visible”; the dictionary definition thus includes truthfulness. The same colour names can be used with different criteria.\n\nThe historical origin of the colours could not be verified: the clandestine bodies of the Second World War (the British Political Warfare Executive, the American OSS) ran black and grey propaganda, but who first coined the names is not established in this lesson.",
+  "example": "(Hypothetical example.) A radio presents itself as the “secret station of the enemy army” but is in fact run by the other side: black propaganda. The same content printed in a newspaper without a name would be grey."
+}

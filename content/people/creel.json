@@ -1,0 +1,7 @@
+{
+  "id": "creel",
+  "born": { "year": 1876 },
+  "died": { "year": 1953 },
+  "sources": ["shsmo-creel", "encyclopedia-com-creel"],
+  "works": ["creel-1920-how-we-advertised-america"]
+}

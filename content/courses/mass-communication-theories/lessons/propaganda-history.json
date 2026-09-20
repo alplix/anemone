@@ -1,0 +1,257 @@
+{
+  "id": "propaganda-history",
+  "people": [
+    "creel",
+    "bernays",
+    "ellul",
+    "lasswell",
+    "lippmann"
+  ],
+  "concepts": [
+    "propaganda",
+    "committee-on-public-information",
+    "propaganda-white-grey-black",
+    "atrocity-propaganda",
+    "public-relations",
+    "agitprop",
+    "public-opinion",
+    "mass-society",
+    "magic-bullet"
+  ],
+  "sources": [
+    {
+      "bib": "lasswell-1927-propaganda",
+      "role": "primary"
+    },
+    {
+      "bib": "creel-1920-how-we-advertised-america",
+      "role": "primary"
+    },
+    {
+      "bib": "bernays-1928-propaganda",
+      "role": "primary"
+    },
+    {
+      "bib": "ponsonby-1928-falsehood-in-war-time",
+      "role": "primary"
+    },
+    {
+      "bib": "ellul-1965-propaganda",
+      "role": "primary"
+    },
+    {
+      "bib": "lenin-1902-what-is-to-be-done",
+      "role": "primary"
+    },
+    {
+      "bib": "lee-lee-1939-fine-art-of-propaganda",
+      "role": "primary"
+    },
+    {
+      "bib": "bryce-1915-report",
+      "role": "primary"
+    },
+    {
+      "bib": "hansard-1925-11-24-kadaver",
+      "role": "primary"
+    },
+    {
+      "bib": "hansard-1925-12-02-kadaver",
+      "role": "primary"
+    },
+    {
+      "bib": "verfassungen-erlass-rmvp-1933",
+      "role": "primary"
+    },
+    {
+      "bib": "loeb-1924-res-gestae",
+      "role": "primary"
+    },
+    {
+      "bib": "lippmann-1922",
+      "role": "reference"
+    },
+    {
+      "bib": "osgood-2002-propaganda",
+      "role": "review"
+    },
+    {
+      "bib": "horne-kramer-2001-german-atrocities",
+      "role": "historiography"
+    },
+    {
+      "bib": "neander-marlin-2010-corpse-factory",
+      "role": "historiography"
+    },
+    {
+      "bib": "sanders-1975-wellington-house",
+      "role": "historiography"
+    },
+    {
+      "bib": "harrington-2014-franklin-fake-newspaper",
+      "role": "reference"
+    },
+    {
+      "bib": "historynet-ernsberger-2019-wellington-house",
+      "role": "reference"
+    },
+    {
+      "bib": "wikipedia-wellington-house",
+      "role": "reference"
+    },
+    {
+      "bib": "newadvent-catholic-encyclopedia-propaganda",
+      "role": "reference"
+    },
+    {
+      "bib": "vatican-cevang-profile",
+      "role": "reference"
+    },
+    {
+      "bib": "etymonline-propaganda",
+      "role": "reference"
+    },
+    {
+      "bib": "nara-cpi-guide",
+      "role": "reference"
+    },
+    {
+      "bib": "presidency-eo2594",
+      "role": "reference"
+    },
+    {
+      "bib": "ushmm-nazi-propaganda",
+      "role": "reference"
+    },
+    {
+      "bib": "ushmm-propaganda-ministry",
+      "role": "reference"
+    },
+    {
+      "bib": "tate-agit-prop",
+      "role": "reference"
+    },
+    {
+      "bib": "encyclopedia-com-agitprop",
+      "role": "reference"
+    },
+    {
+      "bib": "nabb-colors-of-propaganda",
+      "role": "reference"
+    },
+    {
+      "bib": "wikipedia-black-propaganda",
+      "role": "reference"
+    },
+    {
+      "bib": "tdk-guncel-turkce-sozluk",
+      "role": "reference"
+    },
+    {
+      "bib": "va-lumley-poster",
+      "role": "reference"
+    },
+    {
+      "bib": "awm-hopps-poster",
+      "role": "reference"
+    },
+    {
+      "bib": "weschler-mad-brute",
+      "role": "reference"
+    },
+    {
+      "bib": "ebsco-bernays",
+      "role": "reference"
+    },
+    {
+      "bib": "newworld-bernays",
+      "role": "reference"
+    },
+    {
+      "bib": "turkisharchaeonews-temple-augustus-roma",
+      "role": "reference"
+    },
+    {
+      "bib": "bradshaw-howard-2019-global-disinformation-order",
+      "role": "study"
+    },
+    {
+      "bib": "bradshaw-bailey-howard-2021-industrialized-disinformation",
+      "role": "study"
+    },
+    {
+      "bib": "shsmo-creel",
+      "role": "reference"
+    },
+    {
+      "bib": "encyclopedia-com-creel",
+      "role": "reference"
+    },
+    {
+      "bib": "ellul-society-life",
+      "role": "reference"
+    },
+    {
+      "bib": "encyclopedia-com-ellul",
+      "role": "reference"
+    },
+    {
+      "bib": "wfa-bryce-report",
+      "role": "reference"
+    },
+    {
+      "bib": "history-ireland-bryce",
+      "role": "reference"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1622,
+      "id": "propaganda-fide"
+    },
+    {
+      "year": 1914,
+      "id": "wellington-house"
+    },
+    {
+      "year": 1915,
+      "id": "bryce-report"
+    },
+    {
+      "year": 1917,
+      "id": "cpi"
+    },
+    {
+      "year": 1917,
+      "id": "corpse-factory-story"
+    },
+    {
+      "year": 1920,
+      "id": "agitprop-department"
+    },
+    {
+      "year": 1925,
+      "id": "kadaver-denial"
+    },
+    {
+      "year": 1927,
+      "id": "lasswell-1927"
+    },
+    {
+      "year": 1928,
+      "id": "bernays-propaganda"
+    },
+    {
+      "year": 1933,
+      "id": "propaganda-ministry"
+    },
+    {
+      "year": 1937,
+      "id": "ipa"
+    },
+    {
+      "year": 1962,
+      "id": "ellul-propagandes"
+    }
+  ]
+}

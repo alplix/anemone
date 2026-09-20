@@ -1,0 +1,22 @@
+{
+  "id": "bernays",
+  "lang": "tr",
+  "name": "Edward L. Bernays",
+  "nativeName": "",
+  "slug": "edward-bernays",
+  "short": "Viyana doğumlu Amerikalı (1891–1995). 1928’de “Propaganda” adlı kitabı yazdı; “halkla ilişkiler danışmanlığı”nı meslek olarak savundu.",
+  "born": "Viyana",
+  "died": "",
+  "roles": [
+    "halkla ilişkiler uzmanı",
+    "yazar"
+  ],
+  "bio": "Edward Louis Bernays 22 Kasım 1891’de Viyana’da doğdu, 9 Mart 1995’te öldü. Annesi Sigmund Freud’un kız kardeşiydi; babasının kız kardeşi Martha ise Freud’un eşiydi. Yani Freud onun hem dayısı hem eniştesiydi. Aile, o daha çocukken Amerika Birleşik Devletleri’ne taşındı; Bernays New York’ta büyüdü, 1912’de tarım okuyarak mezun oldu ama gazeteciliğe ve tanıtım işlerine yöneldi.\n\nAmerika savaşa girince hizmetlerini hükümetin propaganda kurumuna sundu; kaynaklar onun savaş yıllarında Kamuyu Bilgilendirme Komitesi’yle çalıştığını yazar. Savaştan sonra, 1919’da New York’ta kendi danışmanlık bürosunu açtı.\n\nBu derste onu ilgi çekici kılan, 1928 tarihli *Propaganda* kitabıdır. Kitapta iki şeyi aynı anda yapar: propaganda sözcüğünü savunur, hatta bir dergiden alıntı yaparak “eski, güzel sözcük” diye anar; öte yandan mesleğin adı olarak “halkla ilişkiler danışmanı”nı öne çıkarır. Modern propagandayı, bir kuruluşla, fikirle ya da grupla kamunun ilişkisini etkilemek için olayları kuran ya da biçimlendiren sürekli bir çaba diye tanımlar. Kaynakların bir kısmı, Bernays’in propaganda sözcüğünün olumsuz çağrışımını fark edip “halkla ilişkiler” adını kullandığını yazar; kitabın kendisinde ise iki sözcük yan yana durur.\n\nBu sayfa yalnızca doğrulanabilen mesleki bilgileri içerir; kişisel ayrıntılar bilerek yazılmamıştır.",
+  "works": [
+    {
+      "bib": "bernays-1928-propaganda",
+      "note": "Propaganda’yı savunan ve “halkla ilişkiler danışmanı” mesleğini tarif eden 1928 tarihli kitap."
+    }
+  ],
+  "inCourse": "Bkz. [[lesson:propaganda-history]]: savaş sonrası propaganda sözcüğünün itibar kaybı ve “halkla ilişkiler”in ortaya çıkışı."
+}

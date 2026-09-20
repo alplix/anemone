@@ -1,0 +1,807 @@
+{
+  "_comment": "Bibliography for the lesson propaganda-history. Every entry was opened or matched (Open Library, Crossref, the page itself, or a scan of the book) on 2026-09-20; what exactly was read is written in each verified.note. Britannica, Library of Congress item pages, Imperial War Museums, the H-Net review site and the 1914-1918-online encyclopedia blocked automated access or were unreachable and were NOT used as sources. lasswell-1927-propaganda and lippmann-1922 are defined in other batches and are only reused by id.",
+  "creel-1920-how-we-advertised-america": {
+    "type": "book",
+    "authors": [
+      "Creel, George"
+    ],
+    "year": 1920,
+    "title": "How we advertised America: The first telling of the amazing story of the Committee on Public Information that carried the gospel of Americanism to every corner of the globe",
+    "publisher": "Harper & Brothers",
+    "place": "New York and London",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library lists the 1920 Harper & Brothers edition (New York; 'and London, Harper & brothers'); the Encyclopedia.com biography of Creel gives the same imprint and subtitle. OCR text of the archive.org scan (id howweadvertiseda00creeuoft, 1920) read. On p. 4 Creel writes that the Committee 'did not call it propaganda, for that word, in German hands, had come to be associated with deceit and corruption' and calls the work 'the world's greatest adventure in advertising'. The Four Minute Men figures (75,000 speakers, 5,200 communities, more than 7,555,190 speeches, an audience estimate of 134,454,514) are Creel's own claims; the OCR of one occurrence reads '755~190', the other '7,555,190'. Page numbers of those figures were not checked."
+    }
+  },
+  "bernays-1928-propaganda": {
+    "type": "book",
+    "authors": [
+      "Bernays, Edward L."
+    ],
+    "year": 1928,
+    "title": "Propaganda",
+    "publisher": "Horace Liveright",
+    "place": "New York",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library lists the 1928 H. Liveright edition (New York). OCR text of the archive.org scan (id propaganda00bern_0; title page 'Horace Liveright, 1928') read: chapter 1 opens on p. 9; pp. 21-23 reproduce a Scientific American plea to restore 'that fine old word propaganda' and, quoting a dictionary, say the Roman body was 'instituted at Rome in the year 1627' (a date mix-up: the congregation dates from 1622, the college from 1627); p. 25 gives Bernays's own definition of modern propaganda; pp. 36-37 introduce the 'public relations counsel'."
+    }
+  },
+  "ponsonby-1928-falsehood-in-war-time": {
+    "type": "book",
+    "authors": [
+      "Ponsonby, Arthur"
+    ],
+    "year": 1928,
+    "title": "Falsehood in war-time: Containing an assortment of lies circulated throughout the nations during the Great War",
+    "publisher": "George Allen & Unwin",
+    "place": "London",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library lists Falsehood in war-time (1928, Allen & Unwin, London; Dutton, New York). OCR text of the archive.org scan (id FalsehoodInWarTime1928, tenth impression) read: title page, 'First published May 1928', the table of contents (chapters include 'The Belgian Baby Without Hands' and 'The Corpse Factory') and the corpse-factory chapter with its quotations from The Times of 16 and 17 April 1917."
+    }
+  },
+  "ellul-1965-propaganda": {
+    "type": "book",
+    "authors": [
+      "Ellul, Jacques"
+    ],
+    "year": 1965,
+    "originalYear": 1962,
+    "originalTitle": "Propagandes",
+    "title": "Propaganda: The formation of men's attitudes",
+    "publisher": "Alfred A. Knopf",
+    "place": "New York",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library lists the French original (1962, A. Colin, Paris, 'Propagandes') and the 1965 Knopf edition (New York); the translators (Konrad Kellen and Jean Lerner) are named on the Wikipedia article of the book and on a bookseller record. OCR text of the archive.org scan of the 1973 Vintage reissue (id Propaganda_201512) read: the sections 'Propaganda of Agitation and Propaganda of Integration' (including Ellul's remark that the distinction corresponds in part to Lenin's, 'but here the meaning of these terms is reversed'), the statement that integration propaganda works better in more cultivated milieus and that intellectuals are more sensitive to it than peasants, and the note that agitation propaganda is easier with less educated audiences. Page numbers of the 1965 edition were not checked."
+    }
+  },
+  "lee-lee-1939-fine-art-of-propaganda": {
+    "type": "book",
+    "authors": [
+      "Lee, Alfred McClung",
+      "Lee, Elizabeth Briant"
+    ],
+    "year": 1939,
+    "title": "The fine art of propaganda: A study of Father Coughlin's speeches (prepared by the Institute for Propaganda Analysis)",
+    "publisher": "Harcourt, Brace and Company",
+    "place": "New York",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library lists The fine art of propaganda (1939, Harcourt Brace; Institute for Propaganda Analysis; New York). OCR text of the archive.org scan (id LeeFineArt) read: the foreword names the Institute for Propaganda Analysis (organised in October 1937; Clyde R. Miller executive secretary) and lists the seven devices with one-sentence definitions (name calling, glittering generality, transfer, testimonial, plain folks, card stacking, band wagon)."
+    }
+  },
+  "lenin-1902-what-is-to-be-done": {
+    "type": "book",
+    "authors": [
+      "Lenin, V. I."
+    ],
+    "year": 1902,
+    "title": "What is to be done? Burning questions of our movement",
+    "publisher": "Dietz",
+    "place": "Stuttgart",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "full-text",
+        "editorial-note"
+      ],
+      "date": "2026-09-20",
+      "note": "Marxists Internet Archive edition read (English text of the 1902 edition, Collected Works vol. 5, Moscow 1961, translated by Joe Fineberg and George Hanna). The editorial note says the book was written between autumn 1901 and February 1902 and published by Dietz in Stuttgart in March 1902. Chapter III, section B quotes Plekhanov's distinction (a propagandist presents many ideas to one or a few persons, an agitator presents one or a few ideas to a mass of people) and gives Lenin's own example of the two roles (an unemployed worker's family dying of starvation as the agitator's illustration)."
+    }
+  },
+  "horne-kramer-2001-german-atrocities": {
+    "type": "book",
+    "authors": [
+      "Horne, John",
+      "Kramer, Alan"
+    ],
+    "year": 2001,
+    "title": "German atrocities, 1914: A history of denial",
+    "publisher": "Yale University Press",
+    "place": "New Haven, CT",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "publisher-page"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library lists the 2001 Yale University Press edition (New Haven). The Yale University Press page (paperback, ISBN 9780300107913) says the authors document about 6,500 Belgian and French civilian deaths, trace the soldiers' claim of civilian resistance to a collective delusion, and follow how both sides used and later remembered the atrocities. A Journal of the Modern History review citation seen in a search result gives 'New Haven, Conn.: Yale University Press, 2001. Pp. xv+608'. The book itself was not read; the lesson uses only what the publisher page says, plus the History Ireland article, which names Horne and Kramer as the revisionist reassessment of the atrocities."
+    }
+  },
+  "neander-marlin-2010-corpse-factory": {
+    "type": "article",
+    "authors": [
+      "Neander, Joachim",
+      "Marlin, Randal"
+    ],
+    "year": 2010,
+    "title": "Media and propaganda: The Northcliffe press and the corpse factory story of World War I",
+    "container": "Global Media Journal - Canadian Edition",
+    "volume": "3",
+    "issue": "2",
+    "pages": "67-82",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "full-text",
+        "library-archive"
+      ],
+      "date": "2026-09-20",
+      "note": "Full text of the PDF read (copy on silo.tips); the journal page is preserved in the Library and Archives Canada web archive (epe.lac-bac.gc.ca, 'Global Media Journal -- Canadian Edition', v3 i2) and a search returned ProQuest and Semantic Scholar records. No DOI. Read: abstract (the authors argue that the 1925 repudiation encouraged later disbelief of early Holocaust reports); The Times and Daily Mail of 17 April 1917 as the main anchor of the story; the 1925 Charteris speech (New York Times, 20 October 1925) and his later denials (New York Times, 25 October and 4 November 1925); the authors' judgement that his statements were 'less than fully candid' and that his version has received disproportionate attention."
+    }
+  },
+  "sanders-1975-wellington-house": {
+    "type": "article",
+    "authors": [
+      "Sanders, M. L."
+    ],
+    "year": 1975,
+    "title": "Wellington House and British propaganda during the First World War",
+    "container": "The Historical Journal",
+    "volume": "18",
+    "issue": "1",
+    "pages": "119-146",
+    "doi": "10.1017/S0018246X00008700",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "publisher-page"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record (The Historical Journal 18(1), pp. 119-146, 1975) and the Cambridge Core page (first-page extract): at the end of August 1914 the cabinet discussed an organisation to inform and influence opinion abroad; on 5 September 1914 it formally approved an organisation to counter German propaganda abroad for the duration of the war, with no peacetime precedent. The full article is paywalled and was not read."
+    }
+  },
+  "osgood-2002-propaganda": {
+    "type": "chapter",
+    "authors": [
+      "Osgood, Kenneth A."
+    ],
+    "year": 2002,
+    "title": "Propaganda",
+    "editors": [
+      "DeConde, Alexander",
+      "Burns, Richard Dean",
+      "Logevall, Fredrik"
+    ],
+    "bookTitle": "Encyclopedia of American foreign policy",
+    "edition": "2nd ed.",
+    "publisher": "Charles Scribner's Sons",
+    "place": "New York",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "reference-full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library lists the 2nd edition (Scribner, 2002; Alexander DeConde, Richard Dean Burns and Fredrik Logevall, editors in chief). The full entry 'Propaganda' by Kenneth A. Osgood was read on Encyclopedia.com (Gale reprint, credited to the Encyclopedia of American Foreign Policy); that it belongs to the 2nd edition is inferred from its mention of twenty-first-century developments. Read: the white/gray/black classification by attribution of the source; the Committee on Public Information (established a week after the declaration of war, activity in more than thirty countries, abolished by Congress in June 1919); the 1920s investigations of British atrocity fabrications; the argument that the negative connotation of propaganda arose after World War I from a democracy's use, not from dictatorships; the OSS authorised to use black and gray propaganda."
+    }
+  },
+  "harrington-2014-franklin-fake-newspaper": {
+    "type": "web",
+    "authors": [
+      "Harrington, Hugh T."
+    ],
+    "year": 2014,
+    "title": "Propaganda warfare: Benjamin Franklin fakes a newspaper",
+    "publisher": "Journal of the American Revolution",
+    "url": "https://allthingsliberty.com/2014/11/propaganda-warfare-benjamin-franklin-fakes-a-newspaper/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page opened (10 November 2014): in spring 1782, in Paris, Franklin created a counterfeit supplement to the Boston Independent Chronicle (dated 'Boston, March 12', numbered '705') carrying an invented letter from a 'Captain Samuel Gerrish'; copies were sent to Adams, Dumas, Jay and Hutton; the letter appeared in the London General Advertiser of 29 June 1782 and was first named a Franklin hoax in an American newspaper in October 1854. Independently, the hoaxes.org entry and a search result list the same facts; the Founders Online edition of Franklin's papers returned no text."
+    }
+  },
+  "bradshaw-howard-2019-global-disinformation-order": {
+    "type": "report",
+    "authors": [
+      "Bradshaw, Samantha",
+      "Howard, Philip N."
+    ],
+    "year": 2019,
+    "title": "The global disinformation order: 2019 global inventory of organised social media manipulation",
+    "publisher": "Oxford Internet Institute, University of Oxford (Computational Propaganda Project)",
+    "place": "Oxford",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "publisher-page",
+        "repository-record"
+      ],
+      "date": "2026-09-20",
+      "note": "Oxford Internet Institute report page opened: the authors identify 70 countries deploying tactics including bots, data harvesting and trolls. The University of Nebraska-Lincoln repository record confirms authors, year and series (CyberTroop Report 19). The full report was not read."
+    }
+  },
+  "bradshaw-bailey-howard-2021-industrialized-disinformation": {
+    "type": "report",
+    "authors": [
+      "Bradshaw, Samantha",
+      "Bailey, Hannah",
+      "Howard, Philip N."
+    ],
+    "year": 2021,
+    "title": "Industrialized disinformation: 2020 global inventory of organized social media manipulation",
+    "publisher": "Programme on Democracy & Technology, University of Oxford",
+    "place": "Oxford",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "publisher-page"
+      ],
+      "date": "2026-09-20",
+      "note": "DemTech (University of Oxford) page opened: the 2020 inventory finds evidence of 81 countries using social media to spread computational propaganda and disinformation about politics, up from 70 in the previous report. The publication year 2021 comes from a search result (Google Books listing) and the OII report page; the report calls itself the '2020 inventory'. The full report was not read."
+    }
+  },
+  "tdk-guncel-turkce-sozluk": {
+    "type": "web",
+    "authors": [],
+    "year": 2026,
+    "title": "Güncel Türkçe Sözlük: propaganda, beyaz propaganda, gri propaganda, telkin, yaygara, ikna, ajitasyon",
+    "publisher": "Türk Dil Kurumu",
+    "url": "https://sozluk.gov.tr/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Entries queried through the dictionary's public endpoint (sozluk.gov.tr/gts?ara=...). propaganda: 'İtalyanca propaganda'; one sense, 'a work carried out through speech, writing etc. to make a doctrine, idea or belief known, accepted and spread; yaymaca'; listed compounds 'beyaz propaganda' and 'gri propaganda' (both have their own entries; 'kara propaganda' and 'siyah propaganda' returned no result). yaymaca: 'see propaganda'. telkin: Arabic; 'instilling a feeling or a thought' (also 'talkın'); a second sense about realising an idea through an unconscious process. yaygara: 'shouting and yelling loudly without need'; 'whining and complaining'. ikna: Arabic; 'making someone believe in something, convincing, deceiving' (inandırma, kandırma). ajitasyon: French; körükleme; 'exploiting emotions'."
+    }
+  },
+  "newadvent-catholic-encyclopedia-propaganda": {
+    "type": "web",
+    "authors": [],
+    "year": 2026,
+    "title": "Sacred Congregation of Propaganda (Catholic Encyclopedia)",
+    "publisher": "New Advent (edition of the Catholic Encyclopedia)",
+    "url": "https://www.newadvent.org/cathen/12456a.htm",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page opened: on 6 January 1622 Gregory XV summoned thirteen cardinals and two prelates to announce a permanent congregation for the propagation of Catholicism; on 22 June 1622 the bull Inscrutabili Divinae instituted the Sacred Congregation de propaganda fide; earlier a cardinalitial commission existed from Gregory XIII (1572-85). The seminary called the Collegium Urbanum was established by the bull Immortalis Dei of 1 August 1627 under Urban VIII."
+    }
+  },
+  "vatican-cevang-profile": {
+    "type": "web",
+    "authors": [],
+    "year": 2010,
+    "title": "Congregation for the Evangelization of Peoples: profile",
+    "publisher": "Holy See (vatican.va)",
+    "url": "https://www.vatican.va/roman_curia/congregations/cevang/documents/rc_con_cevang_20100524_profile_en.html",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page opened: the Congregation was founded in 1622 by Gregory XV with the bull of 22 June 1622 (the page spells the bull's title 'Inscrutabili Divinae Providnetiae'); its task was the transmission and dissemination of the faith and coordination of the Church's missionary efforts."
+    }
+  },
+  "etymonline-propaganda": {
+    "type": "web",
+    "authors": [],
+    "year": 2026,
+    "title": "Propaganda: Etymology, origin and meaning",
+    "publisher": "Online Etymology Dictionary",
+    "url": "https://www.etymonline.com/word/propaganda",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page opened: from the Congregatio de Propaganda Fide (Gregory XV, 1622), attested 1718 as the cardinals' committee; Latin propagare 'to set forward, extend, spread'; about 1790 'any movement or organization to propagate some practice or ideology'; the modern political sense 'dissemination of information intended to promote a political point of view' from World War I, at first not pejorative; the negative connotation developed in the twentieth century, through World War I usage. The Oxford English Dictionary entry redirected to a login and was not read."
+    }
+  },
+  "hansard-1925-11-24-kadaver": {
+    "type": "web",
+    "authors": [],
+    "year": 1925,
+    "title": "Kadaver factories: statement by the Secretary for War (HC Deb 24 November 1925, vol. 188, cc. 1142-3)",
+    "publisher": "UK Parliament, Historic Hansard",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1925/nov/24/statement-by-secretary-for-war",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page opened. Sir L. Worthington-Evans: the statement first appeared on 10 April 1917 in the Berlin Lokalanzeiger and in two Belgian papers; a captured German army order and German dictionaries persuaded the War Office at the time that the story was corroborated; 'the fact that there has been no corroboration since necessarily alters the complexion of the case'."
+    }
+  },
+  "hansard-1925-12-02-kadaver": {
+    "type": "web",
+    "authors": [],
+    "year": 1925,
+    "title": "Kadaver factories: German Government denial (HC Deb 2 December 1925, vol. 188, cc. 2232-3)",
+    "publisher": "UK Parliament, Historic Hansard",
+    "url": "https://api.parliament.uk/historic-hansard/commons/1925/dec/02/german-government-denial",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page opened. Sir Austen Chamberlain, Foreign Secretary: the German Chancellor authorised him to say, on the authority of the German Government, that there was never any foundation for the Kadaver story; on behalf of His Majesty's Government he accepted this denial."
+    }
+  },
+  "bryce-1915-report": {
+    "type": "report",
+    "authors": [
+      "Bryce, James"
+    ],
+    "institution": "Committee on Alleged German Outrages",
+    "year": 1915,
+    "title": "Report of the Committee on Alleged German Outrages appointed by His Britannic Majesty's Government and presided over by the Right Hon. Viscount Bryce",
+    "publisher": "His Majesty's Stationery Office; Macmillan (New York)",
+    "place": "London; New York",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "full-text",
+        "library-scan"
+      ],
+      "date": "2026-09-20",
+      "note": "OCR text of the archive.org scan (id reportofcommitte00grea, copy of a public library) read. Warrant of appointment signed by Asquith on 15 December 1914; the report is signed by Bryce, Pollock, Clarke, Digby, Hopkinson, Fisher and Cox; more than 1,200 depositions were submitted to the Committee; the lawyers who took them 'had no authority to administer an oath'; names were omitted after an absolute promise that they would not be disclosed; hearsay was rejected except where it confirmed facts already attested by direct testimony; many depositions were omitted as 'probably true' but not safe to rely on; the Committee's conclusions include 'deliberate and systematically organised massacres of the civil population'. The Western Front Association page quotes the same conclusions."
+    }
+  },
+  "nara-cpi-guide": {
+    "type": "web",
+    "authors": [],
+    "year": 2026,
+    "title": "Records of the Committee on Public Information (Record Group 63)",
+    "publisher": "U.S. National Archives and Records Administration",
+    "url": "https://www.archives.gov/research/guide-fed-records/groups/063.html",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page opened: created as an independent agency by Executive Order 2594 of 13 April 1917; George Creel chairman, the Secretaries of State, War and the Navy ex officio; domestic activities ended after the Armistice, foreign operations ceased 30 June 1919; abolished by Executive Order 3154 of 21 August 1919; the records include the work of the 'four minute men'."
+    }
+  },
+  "presidency-eo2594": {
+    "type": "web",
+    "authors": [],
+    "year": 1917,
+    "title": "Executive Order 2594: Creating Committee on Public Information",
+    "publisher": "The American Presidency Project, University of California, Santa Barbara",
+    "url": "https://www.presidency.ucsb.edu/documents/executive-order-2594-creating-committee-public-information",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page opened: dated 13 April 1917; the Secretaries of State, War and the Navy and a civilian chairman, George Creel, who directs the executive work."
+    }
+  },
+  "ushmm-nazi-propaganda": {
+    "type": "web",
+    "authors": [],
+    "year": 2026,
+    "title": "Nazi propaganda",
+    "publisher": "United States Holocaust Memorial Museum, Holocaust Encyclopedia",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/nazi-propaganda",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page opened: after the seizure of power in 1933 a Reich Ministry of Public Enlightenment and Propaganda headed by Joseph Goebbels was set up to communicate the Nazi message through art, music, theatre, film, books, radio, educational material and the press; propaganda played an integral role in advancing the persecution and destruction of Europe's Jews, inciting hatred and fostering indifference."
+    }
+  },
+  "ushmm-propaganda-ministry": {
+    "type": "web",
+    "authors": [],
+    "year": 2026,
+    "title": "Ministry of Propaganda and Public Enlightenment",
+    "publisher": "United States Holocaust Memorial Museum, Holocaust Encyclopedia",
+    "url": "https://encyclopedia.ushmm.org/content/en/article/ministry-of-propaganda-and-public-enlightenment",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page opened: a propaganda ministry was a novel idea for a country at peace, earlier government propaganda bodies having been temporary wartime committees or ministries of information in disguise; Goebbels initially opposed the term propaganda because in popular usage, in Germany and abroad, it was associated with lies; after a year he proposed the name Ministry of Culture and Public Enlightenment, but Hitler vetoed it; the Editors Law of 4 October 1933 excluded Jews and those married to Jews from the press."
+    }
+  },
+  "verfassungen-erlass-rmvp-1933": {
+    "type": "web",
+    "authors": [],
+    "year": 1933,
+    "title": "Erlaß über die Errichtung des Reichsministeriums für Volksaufklärung und Propaganda vom 13. März 1933 (RGBl. 1933 I, S. 104)",
+    "publisher": "verfassungen.de",
+    "url": "https://www.verfassungen.de/de33-45/propaganda33-2.htm",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page opened: text of the decree dated Berlin, 13 March 1933, signed by Reich President von Hindenburg and Reich Chancellor Adolf Hitler; a ministry for 'Aufklärung und Propaganda' among the population about the government's policy is established. The German History Intersections project (germanhistory-intersections.org, document 158) reproduces the same decree and source (Reichsgesetzblatt 1933 I, S. 104)."
+    }
+  },
+  "tate-agit-prop": {
+    "type": "web",
+    "authors": [],
+    "year": 2026,
+    "title": "Agit-prop (Art Term)",
+    "publisher": "Tate",
+    "url": "https://www.tate.org.uk/art/art-terms/a/agit-prop",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page opened: the term is a contraction of the Russian agitatsiia and propaganda in the title of the Department of Agitation and Propaganda set up in 1920 by the Central Committee of the Soviet Communist Party; forms included agit-prop trains and cars covered with slogans and posters, poster campaigns and agitation centres."
+    }
+  },
+  "encyclopedia-com-agitprop": {
+    "type": "web",
+    "authors": [],
+    "year": 2026,
+    "title": "Agitprop (Encyclopedia.com, Gale reference entries)",
+    "publisher": "Encyclopedia.com",
+    "url": "https://www.encyclopedia.com/history/modern-europe/russian-soviet-and-cis-history/agitprop",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page opened (two entries on the same page): agitprop as a communist theatrical genre in interwar Europe that originated in Russia during the civil war (1918-1920), when agit-trains carried acting troupes, pamphlets and musicians to a largely illiterate peasantry; and the Central Committee section of the Communist Party established in August 1920, under R. Katanian, to coordinate the propaganda work of all Soviet institutions."
+    }
+  },
+  "va-lumley-poster": {
+    "type": "web",
+    "authors": [],
+    "year": 1915,
+    "title": "Daddy, what did YOU do in the Great War? (poster by Savile Lumley)",
+    "publisher": "Victoria and Albert Museum",
+    "url": "https://collections.vam.ac.uk/item/O74621/daddy-what-did-you-do-poster-lumley/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Record opened: colour lithograph designed by Savile Lumley, published by the Parliamentary Recruiting Committee (poster no. 79), London, 1915; a man in an armchair, a small boy on the floor playing with soldiers, a small girl on his knee holding an open book; the record calls it well known for its tone of 'emotional blackmail' and notes that conscription began only in 1916 and that the printer Arthur Gunn, whose idea it was, joined the Westminster Volunteers after seeing the sketch."
+    }
+  },
+  "awm-hopps-poster": {
+    "type": "web",
+    "authors": [],
+    "year": 1917,
+    "title": "Destroy this mad brute: enlist (poster by Harry Ryle Hopps)",
+    "publisher": "Australian War Memorial",
+    "url": "https://www.awm.gov.au/collection/C96739",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Record opened: lithograph, c. 1917, maker Harry Ryle Hopps, issued by the U.S. Army; described as an American poster showing a girl being carried away by a gorilla wearing a German helmet and carrying a club; the record adds that the semi-clad classical woman standing for the United States was a common trope of First World War propaganda and that the enemy was often shown as barbaric and threatening the virtue of the world."
+    }
+  },
+  "weschler-mad-brute": {
+    "type": "web",
+    "authors": [
+      "Weschler, Lawrence"
+    ],
+    "year": 2026,
+    "title": "'Destroy this mad brute': the African roots of World War I",
+    "publisher": "lawrenceweschler.com (author's website)",
+    "url": "https://www.lawrenceweschler.com/library/article/destroy-this-mad-brute-the-african-roots-of-world-war-i",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Essay opened; describes the 1917 U.S. Army enlistment poster by Hopps: a man-ape with a pointed helmet labelled 'militarism', a club labelled 'Kultur', a half-naked fainting woman in its other arm, coming out of the sea onto land labelled 'America', headline 'Destroy this mad brute'; also quotes historian Nicoletta Gullace (2002) on the stylised, often dubious representation of the invasion of Belgium. The publication date of the essay is not given on the page."
+    }
+  },
+  "shsmo-creel": {
+    "type": "web",
+    "authors": [],
+    "year": 2026,
+    "title": "George Creel",
+    "publisher": "State Historical Society of Missouri, Historic Missourians",
+    "url": "https://historicmissourians.shsmo.org/george-creel/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page opened: George E. Creel, born 1 December 1876 (Lafayette County, Missouri), died 2 October 1953; journalist, politician and author; chairman of the Committee on Public Information."
+    }
+  },
+  "encyclopedia-com-creel": {
+    "type": "web",
+    "authors": [],
+    "year": 2026,
+    "title": "George Creel (Encyclopedia.com biography)",
+    "publisher": "Encyclopedia.com",
+    "url": "https://www.encyclopedia.com/history/educational-magazines/george-creel",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page opened: George Creel, 1 December 1876 (Lafayette County, Missouri) to 2 October 1953 (San Francisco); appointed by Woodrow Wilson within a week of the United States entering the war to head the Committee on Public Information; lists How we advertised America (New York and London: Harper and Brothers, 1920)."
+    }
+  },
+  "ebsco-bernays": {
+    "type": "web",
+    "authors": [],
+    "year": 2026,
+    "title": "Edward Bernays (Research Starters)",
+    "publisher": "EBSCO",
+    "url": "https://www.ebsco.com/research-starters/history/edward-bernays",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page opened: Edward L. Bernays, born 22 November 1891 in Vienna, nephew of Sigmund Freud (his mother was Freud's sister, his father's sister Martha was Freud's wife); worked on war propaganda for the U.S. government during World War I; recognised the negative connotation of propaganda and used the term public relations; founded his own firm in 1919."
+    }
+  },
+  "newworld-bernays": {
+    "type": "web",
+    "authors": [],
+    "year": 2026,
+    "title": "Edward L. Bernays (New World Encyclopedia)",
+    "publisher": "New World Encyclopedia",
+    "url": "https://www.newworldencyclopedia.org/entry/Edward_L._Bernays",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page opened: Edward Louis Bernays, 22 November 1891 (Vienna) to 9 March 1995; nephew of Sigmund Freud; when the United States entered World War I he offered his services to the Committee on Public Information; returned to New York in 1919 (after service with the American Peace Commission in Paris) to apply the methods to private enterprise."
+    }
+  },
+  "ellul-society-life": {
+    "type": "web",
+    "authors": [
+      "Chastenet, Patrick"
+    ],
+    "year": 2026,
+    "title": "Biography of Jacques Ellul (1912-94)",
+    "publisher": "International Jacques Ellul Society",
+    "url": "https://ellul.org/life/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page opened: born in Bordeaux on 6 January 1912; died on 19 May 1994 at home in Pessac, near Bordeaux; spent almost all his academic career at Bordeaux."
+    }
+  },
+  "encyclopedia-com-ellul": {
+    "type": "web",
+    "authors": [],
+    "year": 2026,
+    "title": "Ellul, Jacques (Encyclopedia of Science, Technology, and Ethics)",
+    "publisher": "Encyclopedia.com",
+    "url": "https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/ellul-jacques",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page opened: Jacques Ellul (1912-1994), born in Bordeaux on 6 January; Professor of the History and Sociology of Institutions at the the law faculty in Bordeaux; more than fifty books; sociological analysis and critique of mass media and communication among his topics; died on 19 May (this entry says in Bordeaux, the Ellul Society says at home in Pessac)."
+    }
+  },
+  "historynet-ernsberger-2019-wellington-house": {
+    "type": "web",
+    "authors": [
+      "Ernsberger, Richard Jr."
+    ],
+    "year": 2019,
+    "title": "How Great Britain's secret disinformation campaign paid off in World War I",
+    "publisher": "HistoryNet",
+    "url": "https://historynet.com/how-great-britains-secret-disinformation-campaign-paid-off-in-world-war-i/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page opened (23 April 2019): the propaganda bureau at Wellington House, headquarters of the National Insurance Commission, was directed by Charles C. G. Masterman, who recruited prominent authors and preferred indirect appeals; it worked behind the Insurance Commission and independent publishers so as not to appear official. Popular history, used only for names and the cover arrangement, which Lasswell (1927) confirms independently."
+    }
+  },
+  "wikipedia-wellington-house": {
+    "type": "web",
+    "authors": [],
+    "year": 2026,
+    "title": "Wellington House (Wikipedia)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Wellington_House",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page opened: Wellington House on Buckingham Gate, Westminster, formerly the National Insurance Commission's building, which Masterman chaired; Masterman directed the War Propaganda Bureau; February 1917 Department of Information (John Buchan); March 1918 Ministry of Information (Beaverbrook). The article cites Sanders (1975) and Taylor (1999). Used only for the name of the bureau's head."
+    }
+  },
+  "nabb-colors-of-propaganda": {
+    "type": "web",
+    "authors": [],
+    "year": 2026,
+    "title": "The colors of propaganda (Decoding political propaganda, online exhibit)",
+    "publisher": "Nabb Research Center for Delmarva History and Culture, Salisbury University",
+    "url": "https://libapps.salisbury.edu/nabb-online/exhibits/show/propaganda/what-is-propaganda-/the-colors-of-propaganda",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page opened: communication experts classify propaganda as white, black or gray depending on the transparency of the source; white has its producer clearly marked, black falsely attributes a message to the opposition, gray has no clear producer."
+    }
+  },
+  "wikipedia-black-propaganda": {
+    "type": "web",
+    "authors": [],
+    "year": 2026,
+    "title": "Black propaganda (Wikipedia)",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Black_propaganda",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page opened: black propaganda purports to come from a source other than the true one; gray propaganda does not identify its source; white does not disguise its origin; in World War II the British Political Warfare Executive ran black radio stations such as Gustav Siegfried Eins under Sefton Delmer. Used only for the Political Warfare Executive example; the article's claims about origin of the colour terms were not confirmed and are not used."
+    }
+  },
+  "loeb-1924-res-gestae": {
+    "type": "book",
+    "authors": [
+      "Augustus"
+    ],
+    "year": 1924,
+    "title": "Res Gestae Divi Augusti (Monumentum Ancyranum), in: Velleius Paterculus, Compendium of Roman history; Res Gestae Divi Augusti, translated by Frederick W. Shipley (Loeb Classical Library)",
+    "publisher": "William Heinemann; Harvard University Press",
+    "place": "London; Cambridge, MA",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library lists the 1924 Loeb volume by F. W. Shipley (Heinemann, London; Harvard University Press). The LacusCurtius (Bill Thayer) transcription of the Loeb Introduction and text was read: the account was to be engraved on bronze tablets before Augustus's mausoleum; the original document was copied on the walls of many temples of Augustus throughout the empire; at Ancyra the Latin text is chiselled on the inner walls of the vestibule and a Greek translation on the outer wall of the temple of Rome and Augustus; Turkish houses built against that wall long made the Greek difficult to read; the inscription was first made known to the West by Busbecq (in the Loeb text 'Buysbecche'), sent in 1555 by Ferdinand on an embassy to Suleiman at Amasia."
+    }
+  },
+  "turkisharchaeonews-temple-augustus-roma": {
+    "type": "web",
+    "authors": [],
+    "year": 2017,
+    "title": "Temple of Augustus and Roma in Ankara",
+    "publisher": "Turkish Archaeological News",
+    "url": "https://turkisharchaeonews.net/object/temple-augustus-and-roma-ankara",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page opened: the temple was erected after Augustus's conquest of Central Anatolia in 25 BCE, when Ancyra became capital of the province of Galatia; after Augustus's death in 14 CE a copy of his 'Deeds of the Divine Augustus' was placed on the walls in Latin and in Greek translation; many such copies existed in the empire, but the Ankara text is an almost completely preserved version."
+    }
+  },
+  "wfa-bryce-report": {
+    "type": "web",
+    "authors": [],
+    "year": 2008,
+    "title": "The truth about German atrocities? The Bryce Report of 1915",
+    "publisher": "The Western Front Association",
+    "url": "https://www.westernfrontassociation.com/world-war-i-articles/2008/may/the-truth-about-german-atrocities-the-bryce-report-of-1915/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page opened (published 22 May 2008): reproduces the report's conclusions (deliberate and systematically organised massacres of the civil population; murders of innocent civilians; looting and burning; abuse of the Red Cross and the white flag) and says that while the report has been written off as war-time propaganda, others have found Bryce's work 'substantially accurate'. Its dates for Bryce's appointment (4 December) differ from the warrant of 15 December 1914 printed in the report itself; the report's date is used."
+    }
+  },
+  "history-ireland-bryce": {
+    "type": "web",
+    "authors": [],
+    "year": 2026,
+    "title": "James Bryce and the politics of inhumanity",
+    "publisher": "History Ireland",
+    "url": "https://historyireland.com/james-bryce-and-the-politics-of-inhumanity/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Article opened (author and publication date are not shown on the page; the year field is the access year): in December 1914 the British government appointed Bryce to investigate German atrocities in Belgium; the report is widely acknowledged as having been very influential in turning international opinion against Germany, especially in the United States, and remains one of the most divisive documents of the war; once peace came a case was made that the atrocities had been exaggerated and were part of the propaganda offensive; revisionist histories, notably Horne and Kramer, both debunk and redefine German atrocities and bolster some of the fault lines in Bryce's methodology."
+    }
+  }
+}
