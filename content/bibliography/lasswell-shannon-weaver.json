@@ -1,0 +1,779 @@
+{
+  "_comment": "Bibliography for the lesson lasswell-shannon-weaver. Every entry was checked on 2026-09-20 (see verified.note for what was and was not read). yaylagul-2006 is cited by this lesson but defined in content/bibliography/spiral-of-silence.json (same work, verified there).",
+  "lasswell-1948": {
+    "type": "chapter",
+    "authors": [
+      "Lasswell, Harold D."
+    ],
+    "year": 1948,
+    "title": "The structure and function of communication in society",
+    "editors": [
+      "Bryson, Lyman"
+    ],
+    "bookTitle": "The Communication of Ideas: A Series of Addresses",
+    "publisher": "Institute for Religious and Social Studies",
+    "place": "New York",
+    "pages": "37-51",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "library-catalogue-record",
+        "secondary-citations"
+      ],
+      "date": "2026-09-20",
+      "note": "Book record matched in Open Library (The Communication of Ideas, Institute for Religious and Social Studies, 1948, 314 pp.) and in the Internet Archive catalogue record (contents list names 'The structure and function of communication in society, by H.D. Lasswell'; note 'Based principally on lectures delivered Nov. 1946-Feb. 1947'; publisher 'New York, Institute for Religious and Social Studies, distributed by Harper'). Pages 37-51 are given by Sapienza et al. 2015 and Wikipedia; Yaylagül 2006 cites the start page 37. THE ESSAY TEXT ITSELF COULD NOT BE OPENED (only lending-library scans exist); the wording of the five questions, the three functions and the five analyses was checked against several secondary sources, not the original."
+    }
+  },
+  "lasswell-1927": {
+    "type": "book",
+    "authors": [
+      "Lasswell, Harold D."
+    ],
+    "year": 1927,
+    "title": "Propaganda technique in the world war",
+    "publisher": "Alfred A. Knopf",
+    "place": "New York",
+    "edition": "1st",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library lists editions by A. A. Knopf (New York) and Kegan Paul (London), first published 1927. The full text of the 1938 Peter Smith reprint (title page: 'First published in 1927, reprinted 1938') was read on the Internet Archive: table of contents (chapter II 'Propaganda Organization', III-VII themes, IX 'The Results of Propaganda'), the definition of propaganda in chapter I and the passages of chapter IX quoted in the lesson. Page numbers are deliberately not cited (reprint pagination not compared with the first edition)."
+    }
+  },
+  "shannon-1948": {
+    "type": "article",
+    "authors": [
+      "Shannon, Claude E."
+    ],
+    "year": 1948,
+    "title": "A mathematical theory of communication",
+    "container": "Bell System Technical Journal",
+    "volume": "27",
+    "issue": "3-4",
+    "pages": "379-423, 623-656",
+    "doi": "10.1002/j.1538-7305.1948.tb01338.x",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref records both parts (vol. 27 no. 3, July 1948, pp. 379-423, DOI as given; no. 4, October 1948, pp. 623-656, DOI 10.1002/j.1538-7305.1948.tb00917.x). The complete text (the 'reprinted with corrections' version hosted at MIT CSAIL) was read: introduction, Fig. 1 and the five-part description, the word 'bit' and J. W. Tukey, the redundancy of English (about 50%), section 3 (approximations to English) and section 14 (discussion)."
+    }
+  },
+  "shannon-weaver-1949": {
+    "type": "book",
+    "authors": [
+      "Shannon, Claude E.",
+      "Weaver, Warren"
+    ],
+    "year": 1949,
+    "title": "The mathematical theory of communication",
+    "publisher": "University of Illinois Press",
+    "place": "Urbana",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "internet-archive-catalogue",
+        "weaver-essay-full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library (Urbana, University of Illinois Press, 1949, LCCN 49011922) and the Internet Archive catalogue record agree. Weaver's essay 'Recent contributions to the mathematical theory of communication' was read in full in the copy hosted as course material (dated September 1949); it is the source for the three levels of problems, the 'semantic receiver' and 'semantic noise' boxes, the redundancy remark and the coding theorem statement. The printed book itself was not opened. The book's title has 'The' where the 1948 article has 'A' (Guizzo 2003 also notes this change)."
+    }
+  },
+  "shannon-1956": {
+    "type": "article",
+    "authors": [
+      "Shannon, Claude E."
+    ],
+    "year": 1956,
+    "title": "The bandwagon",
+    "container": "IRE Transactions on Information Theory",
+    "volume": "2",
+    "issue": "1",
+    "pages": "3",
+    "doi": "10.1109/TIT.1956.1056774",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref: 'The bandwagon (Edtl.)', IRE Trans. Inf. Theory 2(1), March 1956, p. 3. The one-page editorial was read in full (PDF copy on monoskop.org); Guizzo 2003 also quotes it."
+    }
+  },
+  "shannon-1951": {
+    "type": "article",
+    "authors": [
+      "Shannon, Claude E."
+    ],
+    "year": 1951,
+    "title": "Prediction and entropy of printed English",
+    "container": "Bell System Technical Journal",
+    "volume": "30",
+    "issue": "1",
+    "pages": "50-64",
+    "doi": "10.1002/j.1538-7305.1951.tb01366.x",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and OpenAlex abstract matched (a method of estimating entropy and redundancy of a language from experiments in predicting the next letter). Full text not read; the lesson uses only what the abstract says."
+    }
+  },
+  "hartley-1928": {
+    "type": "article",
+    "authors": [
+      "Hartley, R. V. L."
+    ],
+    "year": 1928,
+    "title": "Transmission of information",
+    "container": "Bell System Technical Journal",
+    "volume": "7",
+    "issue": "3",
+    "pages": "535-563",
+    "doi": "10.1002/j.1538-7305.1928.tb01236.x",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record matched. The OCR text of the article (Internet Archive, BSTJ 7:3) was read: synopsis ('based on physical as contrasted with psychological considerations'), the section 'Elimination of psychological factors' with the submarine-cable operator and the ball rolling into one of three pockets. Shannon 1948 (footnote 2) cites the same paper."
+    }
+  },
+  "guizzo-2003": {
+    "type": "thesis",
+    "authors": [
+      "Guizzo, Erico Marui"
+    ],
+    "year": 2003,
+    "title": "The essential message: Claude Shannon and the making of information theory",
+    "publisher": "Massachusetts Institute of Technology",
+    "place": "Cambridge, MA",
+    "degree": "M.S. in Science Writing (Program in Writing and Humanistic Studies)",
+    "url": "https://cmsw.mit.edu/wp/wp-content/uploads/2016/10/219828543-Erico-Guizzo-The-Essential-Message-Claude-Shannon-and-the-Making-of-Information-Theory.pdf",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself",
+        "institutional-repository-copy"
+      ],
+      "date": "2026-09-20",
+      "note": "The thesis PDF was read (title page dated June 16, 2003; advisor Robert Kanigel): chapters on Shannon's wartime work at Bell Labs, Hartley, the 1945 classified cryptography report, the change of title from 'A' to 'The', and the reception of the theory. It is a science-writing thesis based on papers, letters and interviews; used for context and dates only, always alongside a second source."
+    }
+  },
+  "sapienza-iyer-veenstra-2015": {
+    "type": "article",
+    "authors": [
+      "Sapienza, Zachary S.",
+      "Iyer, Narayanan",
+      "Veenstra, Aaron S."
+    ],
+    "year": 2015,
+    "title": "Reading Lasswell's model of communication backward: Three scholarly misconceptions",
+    "container": "Mass Communication and Society",
+    "volume": "18",
+    "issue": "5",
+    "pages": "599-622",
+    "doi": "10.1080/15205436.2015.1063666",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched. Full text is paywalled and was NOT read: the lesson uses only the abstract (first known reference to the model in 1940; the paper's aim of tracing the model's conceptual evolution; its conclusion that the model is relevant and useful despite several misconceptions)."
+    }
+  },
+  "sproule-1989": {
+    "type": "article",
+    "authors": [
+      "Sproule, J. Michael"
+    ],
+    "year": 1989,
+    "title": "Progressive propaganda critics and the magic bullet myth",
+    "container": "Critical Studies in Mass Communication",
+    "volume": "6",
+    "issue": "3",
+    "pages": "225-246",
+    "doi": "10.1080/15295038909366750",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched. Full text not read; only the abstract's argument is used (the standard 'magic bullet' account of interwar propaganda critics is called a myth that emerged after 1940)."
+    }
+  },
+  "bineham-1988": {
+    "type": "article",
+    "authors": [
+      "Bineham, Jeffery L."
+    ],
+    "year": 1988,
+    "title": "A historical account of the hypodermic model in mass communication",
+    "container": "Communication Monographs",
+    "volume": "55",
+    "issue": "3",
+    "pages": "230-246",
+    "doi": "10.1080/03637758809376169",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched. Full text not read; only the abstract is used (different accounts of the hypodermic model go with different conceptions of the field's history and different commitments)."
+    }
+  },
+  "wright-1960": {
+    "type": "article",
+    "authors": [
+      "Wright, Charles R."
+    ],
+    "year": 1960,
+    "title": "Functional analysis and mass communication",
+    "container": "Public Opinion Quarterly",
+    "volume": "24",
+    "issue": "4",
+    "pages": "605-620",
+    "doi": "10.1086/266976",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract",
+        "secondary-citations"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref and OpenAlex record matched (Crossref lists only the first page; pp. 605-620 come from the reference lists of the iResearchNet entry and of several citing sources). The article itself was not read; that Wright added entertainment as a fourth function (1960, p. 610) is reported by the iResearchNet 'Functionalism' entry."
+    }
+  },
+  "braddock-1958": {
+    "type": "article",
+    "authors": [
+      "Braddock, Richard"
+    ],
+    "year": 1958,
+    "title": "An extension of the “Lasswell formula”",
+    "container": "Journal of Communication",
+    "volume": "8",
+    "issue": "2",
+    "pages": "88-93",
+    "doi": "10.1111/j.1460-2466.1958.tb01138.x",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "secondary-citations"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record matched. Article not read; the two added questions ('under what circumstances', 'for what purpose') are reported by the English and Turkish Wikipedia articles on communication models, so the lesson mentions them only as reported."
+    }
+  },
+  "bar-hillel-carnap-1953": {
+    "type": "article",
+    "authors": [
+      "Bar-Hillel, Yehoshua",
+      "Carnap, Rudolf"
+    ],
+    "year": 1953,
+    "title": "Semantic information",
+    "container": "The British Journal for the Philosophy of Science",
+    "volume": "4",
+    "issue": "14",
+    "pages": "147-157",
+    "doi": "10.1093/bjps/iv.14.147",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "second-source"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record matched. Not read. The Stanford Encyclopedia of Philosophy entry on semantic conceptions of information names Bar-Hillel and Carnap's theory of semantic information as the first such theory articulated in detail (it cites their 1952 outline and this line of work)."
+    }
+  },
+  "berrou-et-al-1993": {
+    "type": "article",
+    "authors": [
+      "Berrou, Claude",
+      "Glavieux, Alain",
+      "Thitimajshima, Punya"
+    ],
+    "year": 1993,
+    "title": "Near Shannon limit error-correcting coding and decoding: Turbo-codes",
+    "container": "Proceedings of ICC '93 - IEEE International Conference on Communications",
+    "volume": "2",
+    "pages": "1064-1070",
+    "doi": "10.1109/ICC.1993.397441",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref/OpenAlex record and abstract matched (a new class of convolutional codes, turbo-codes, whose bit-error-rate performance is close to the Shannon limit). The year 1993 comes from the proceedings title (ICC '93); Crossref gives no issue date. Full text not read."
+    }
+  },
+  "carey-1989": {
+    "type": "book",
+    "authors": [
+      "Carey, James W."
+    ],
+    "year": 1989,
+    "title": "Communication as culture: Essays on media and society",
+    "publisher": "Unwin Hyman",
+    "place": "Boston",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "second-source"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library edition record: Unwin Hyman, Boston, 1989, 241 pp.; the Wikipedia article on James W. Carey lists the book (later Routledge editions). The book was not read; the lesson only states that Carey contrasts a 'transmission view' with a 'ritual view' of communication, as summarised by the Wikipedia article on the ritual view (which quotes Lasswell's formula as the classic transmission-view statement)."
+    }
+  },
+  "iplikci-2015": {
+    "type": "article",
+    "authors": [
+      "Güler İplikçi, Handan"
+    ],
+    "year": 2015,
+    "title": "İletişimde temel modeller ve kitle iletişim modelleri",
+    "container": "Sosyal ve Beşeri Bilimler Dergisi",
+    "volume": "7",
+    "issue": "2",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself",
+        "search-index-record"
+      ],
+      "date": "2026-09-20",
+      "note": "The DergiPark PDF itself was read (running header: Sosyal ve Beşeri Bilimler Dergisi, Cilt 7, Sayı 2, 2015; sections 2.1.1 Shannon ve Weaver Modeli, 2.1.3 Laswell Modeli (1948)); the article is also indexed on ResearchGate and Academia.edu. No DOI; page range not confirmed, so omitted."
+    }
+  },
+  "sequoiah-grayson-floridi-2022": {
+    "type": "web",
+    "authors": [
+      "Sequoiah-Grayson, Sebastian",
+      "Floridi, Luciano"
+    ],
+    "year": 2022,
+    "title": "Semantic conceptions of information",
+    "publisher": "Stanford Encyclopedia of Philosophy",
+    "url": "https://plato.stanford.edu/entries/information-semantic/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Entry read (first published 5 Oct 2005; substantive revision 14 Jan 2022); section 1 on Bar-Hillel and Carnap's theory of semantic information."
+    }
+  },
+  "denso-wave-qr": {
+    "type": "web",
+    "authors": [
+      "Denso Wave"
+    ],
+    "year": 2026,
+    "title": "Error correction feature (QR Code)",
+    "publisher": "QRcode.com (Denso Wave Incorporated)",
+    "url": "https://www.qrcode.com/en/about/error_correction.html",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read; the table of the four levels is an image (errorCorrectionTable.png) and was viewed: L approx 7%, M approx 15%, Q approx 25%, H approx 30% of codewords. The page also says error correction is implemented by adding a Reed-Solomon code and that level M is most frequently selected. Denso Wave is the QR code's developer."
+    }
+  },
+  "nara-zimmermann": {
+    "type": "web",
+    "authors": [
+      "National Archives and Records Administration"
+    ],
+    "year": 2021,
+    "title": "The Zimmermann Telegram (Educator Resources)",
+    "publisher": "National Archives (United States)",
+    "url": "https://www.archives.gov/education/lessons/zimmermann",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read (last reviewed June 2, 2021; text adapted from Alexander and Childress, Social Education 45(4), April 1981, p. 266): January 1917 deciphering by British cryptographers, the 24 February presentation to the US government, publication in the American press on 1 March, the US declaration of war on 6 April 1917."
+    }
+  },
+  "loc-zimmermann": {
+    "type": "web",
+    "authors": [
+      "Library of Congress"
+    ],
+    "year": 2025,
+    "title": "Introduction - Zimmermann Telegram: Topics in Chronicling America",
+    "publisher": "Library of Congress Research Guides",
+    "url": "https://guides.loc.gov/chronicling-america-zimmermann-telegram",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Guide read (last updated June 12, 2025): timeline says the telegram was published in American newspapers on March 1, 1917, that Zimmermann acknowledged it on March 3, and the declaration of war on April 6. Its 'January 19' date for sending differs from other accounts and is not used."
+    }
+  },
+  "ww1museum-zimmermann": {
+    "type": "web",
+    "authors": [
+      "National WWI Museum and Memorial"
+    ],
+    "year": 2026,
+    "title": "Zimmermann Telegram",
+    "publisher": "National WWI Museum and Memorial",
+    "url": "https://www.theworldwar.org/learn/about-wwi/zimmermann-telegram",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read: British cutting of Germany's cables in 1914, tapping of cable lines Germany borrowed from neutral countries, Room 40, Zimmermann's aim (keep the US occupied on its southern border), the Reichstag speech of 29 March 1917 confirming the text, and the telegram as tipping point together with unrestricted submarine warfare."
+    }
+  },
+  "iresearchnet-functionalism": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2026,
+    "title": "Functionalism (Communication Theory and Philosophy)",
+    "publisher": "iResearchNet",
+    "url": "https://communication.iresearchnet.com/communication-theory-and-philosophy/functionalism/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read. It reproduces an encyclopedia-style entry with a reference list (author not named on the page). It gives Lasswell's three functions, reports that Lasswell (1948, p. 118 in the Schramm reprint) was more interested in the act as a whole in relation to the social process than in dividing it up, and states that entertainment was added by Wright (1960, p. 610). Used as a secondary summary, together with Yaylagul 2006."
+    }
+  },
+  "wikipedia-lasswell-model": {
+    "type": "web",
+    "authors": [
+      "Wikipedia contributors"
+    ],
+    "year": 2026,
+    "title": "Lasswell's model of communication",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Lasswell%27s_model_of_communication",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Article read. Used only for summaries of the literature it reports: the five questions and the five analyses (control, content, media, audience, effect), the 'formula / construct' vs 'model' discussion, the McQuail and Windahl (1993) remark, the suggestion that common objections apply to later presentations rather than to Lasswell's formulation, and Braddock's 1958 extension. Each of these is backed by at least one other source in the lesson."
+    }
+  },
+  "wikipedia-lasswell": {
+    "type": "web",
+    "authors": [
+      "Wikipedia contributors"
+    ],
+    "year": 2026,
+    "title": "Harold Lasswell",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Harold_Lasswell",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Article read for birth and death dates (13 Feb 1902, Donnellson, Illinois; 18 Dec 1978, New York City) and career outline; the years agree with Encyclopedia.com and the University of Chicago Press author page."
+    }
+  },
+  "encyclopedia-lasswell": {
+    "type": "web",
+    "authors": [
+      "Encyclopedia.com (Gale)"
+    ],
+    "title": "Lasswell, Harold D. (International Encyclopedia of the Social Sciences)",
+    "publisher": "Encyclopedia.com",
+    "url": "https://www.encyclopedia.com/science/encyclopedias-almanacs-transcripts-and-maps/lasswell-harold-d",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Entry read (International Encyclopedia of the Social Sciences text on Encyclopedia.com): Lasswell (1902-1978), born in Donnellson, Illinois, doctorate in political science, later at Yale where he worked on law, science and policy. A second Encyclopedia.com entry (People > Historians, Miscellaneous) gives the same birth place and dates, and adds Yale 1946-1970 and death in New York City in 1978."
+    }
+  },
+  "uchicago-lasswell": {
+    "type": "web",
+    "authors": [
+      "University of Chicago Press"
+    ],
+    "year": 2026,
+    "title": "Harold D. Lasswell (author page)",
+    "publisher": "University of Chicago Press",
+    "url": "https://press.uchicago.edu/ucp/books/author/L/H/au5836539.html",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Author page read: Harold D. Lasswell (1902-1978), American political scientist and communications theorist, author of more than thirty books."
+    }
+  },
+  "mactutor-shannon": {
+    "type": "web",
+    "authors": [
+      "MacTutor History of Mathematics Archive"
+    ],
+    "year": 2026,
+    "title": "Claude Elwood Shannon (biography)",
+    "publisher": "MacTutor History of Mathematics Archive",
+    "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Shannon/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Biography read: born 30 April 1916, Gaylord, Michigan; died 24 February 2001, Medford, Massachusetts; joined Bell Telephone Laboratories in 1941; 1948 paper. (The page says he remained at Bell Labs until 1972; MIT News says 'affiliated 1941 to 1972'; Horgan says he stayed 15 years. The lesson therefore gives only the 1941 start.)"
+    }
+  },
+  "mit-news-shannon-2001": {
+    "type": "web",
+    "authors": [
+      "MIT News Office"
+    ],
+    "year": 2001,
+    "title": "Professor Emeritus Claude Shannon, founder of digital communications, dies at 84",
+    "publisher": "MIT News",
+    "url": "https://news.mit.edu/2001/shannon",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Obituary read (published 27 Feb 2001): died 24 February 2001 aged 84; affiliated with Bell Laboratories from 1941; quotes the opening sentence of the fundamental problem of communication."
+    }
+  },
+  "horgan-2016-shannon": {
+    "type": "web",
+    "authors": [
+      "Horgan, John"
+    ],
+    "year": 2016,
+    "title": "Claude Shannon: Tinkerer, prankster, and father of information theory",
+    "publisher": "IEEE Spectrum",
+    "url": "https://spectrum.ieee.org/claude-shannon-tinkerer-prankster-and-father-of-information-theory",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Profile read (web republication dated 27 April 2016 of a piece originally published in 1992, quoting Shannon directly): Bell Labs from 1941 for 15 years; wartime encryption work that led to his theory; his remark that his first thinking was about improving transmission over a noisy channel; his stress that the theory 'can't and wasn't intended to address' meaning."
+    }
+  },
+  "mactutor-weaver": {
+    "type": "web",
+    "authors": [
+      "MacTutor History of Mathematics Archive"
+    ],
+    "year": 2026,
+    "title": "Warren Weaver (biography)",
+    "publisher": "MacTutor History of Mathematics Archive",
+    "url": "https://mathshistory.st-andrews.ac.uk/Biographies/Weaver/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Biography read: born 17 July 1894, Reedsburg, Wisconsin; died 24 November 1978 (Connecticut); appointed director of the Rockefeller Foundation's Natural Sciences Division in 1932; wrote the expository essay in the 1949 book. Its later dates for the Foundation posts differ slightly from the IEEE Computer Society page; the lesson uses only 1932-1955 as given by the latter and by AAAS."
+    }
+  },
+  "ieeecs-weaver": {
+    "type": "web",
+    "authors": [
+      "Lee, J. A. N."
+    ],
+    "title": "Computer pioneers: Warren Weaver",
+    "publisher": "IEEE Computer Society History Committee",
+    "url": "https://history.computer.org/pioneers/weaver.html",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read (Computer Pioneers by J. A. N. Lee; the page shows no date): born 17 July 1894, Reedsburg, Wisconsin; died 24 November 1978; director of the Rockefeller Foundation’s Natural Science division 1932-1955."
+    }
+  },
+  "aaas-weaver": {
+    "type": "web",
+    "authors": [
+      "American Association for the Advancement of Science"
+    ],
+    "year": 2026,
+    "title": "Warren Weaver (1894-1978)",
+    "publisher": "AAAS Archives",
+    "url": "https://www.aaas.org/archives/warren-weaver",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Archive page read: Warren Weaver 1894-1978, Director of the Division of Natural Sciences, Rockefeller Foundation, 1932-1955; AAAS president 1954."
+    }
+  },
+  "weaver-1949-sciam": {
+    "type": "article",
+    "authors": [
+      "Weaver, Warren"
+    ],
+    "year": 1949,
+    "title": "The mathematics of communication",
+    "container": "Scientific American",
+    "volume": "181",
+    "issue": "1",
+    "pages": "11-15",
+    "doi": "10.1038/scientificamerican0749-11",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record matched (Scientific American 181(1), July 1949, pp. 11-15). Article not read; the lesson mentions only its existence and date as a popular version of Weaver’s essay."
+    }
+  },
+  "wikipedia-tr-iletisim-modelleri": {
+    "type": "web",
+    "authors": [
+      "Vikipedi katkıcıları"
+    ],
+    "year": 2026,
+    "title": "İletişim modelleri",
+    "publisher": "Vikipedi",
+    "url": "https://tr.wikipedia.org/wiki/%C4%B0leti%C5%9Fim_modelleri",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Turkish Wikipedia article read (sections on Lasswell and on Shannon and Weaver). Used only for how Turkish usage names the parts (kaynak, verici, kanal, alıcı, hedef) and for the year 1948 given there for the Shannon-Weaver model; each is also backed by another source."
+    }
+  },
+  "shannon-1945": {
+    "type": "report",
+    "authors": [
+      "Shannon, Claude E."
+    ],
+    "year": 1945,
+    "title": "A mathematical theory of cryptography",
+    "publisher": "Bell Telephone Laboratories",
+    "place": "New York",
+    "edition": "Technical memorandum (Research Department, Case 20878), 1 September 1945; classified at the time",
+    "url": "https://www.iacr.org/museum/shannon/shannon45.pdf",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself",
+        "institutional-page"
+      ],
+      "date": "2026-09-20",
+      "note": "The re-typeset version of the 1945 report hosted by the IACR (courtesy of Alcatel-Lucent) was read: the cover sheet gives the subject 'A Mathematical Theory of Cryptography', author C. E. Shannon, date September 1, 1945, and the classification marks; its first section is titled 'Choice, Information and Uncertainty'. The memorandum number is not given here (the OCR of the cover sheet is unclear and web sources differ)."
+    }
+  },
+  "diffie-preface-shannon-1945": {
+    "type": "web",
+    "authors": [
+      "Diffie, Whitfield"
+    ],
+    "title": "Preface to Claude Shannon’s “A mathematical theory of cryptography”",
+    "publisher": "IACR Cryptologic Museum",
+    "url": "https://iacr.org/museum/shannon/wdiffie-preface.pdf",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "source-itself"
+      ],
+      "date": "2026-09-20",
+      "note": "Preface read: the 1945 report, classified CONFIDENTIAL when written, is at the root of both the 1948 and 1949 papers and contains all of the 1949 paper and much of the 1948 paper. Undated on the page."
+    }
+  },
+  "bode-shannon-1950": {
+    "type": "article",
+    "authors": [
+      "Bode, Hendrik W.",
+      "Shannon, Claude E."
+    ],
+    "year": 1950,
+    "title": "A simplified derivation of linear least square smoothing and prediction theory",
+    "container": "Proceedings of the IRE",
+    "volume": "38",
+    "issue": "4",
+    "pages": "417-425",
+    "doi": "10.1109/JRPROC.1950.231821",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract matched (Wiener-Kolmogoroff smoothing and prediction theory, including the case of pure prediction without noise). Article not read; used only to show that Bode and Shannon co-authored on smoothing and prediction, the topic Guizzo 2003 places in the Bell Labs wartime mathematics group."
+    }
+  }
+}

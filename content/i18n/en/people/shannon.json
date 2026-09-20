@@ -1,0 +1,38 @@
+{
+  "id": "shannon",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "name": "Claude E. Shannon",
+  "nativeName": "",
+  "slug": "claude-shannon",
+  "short": "American mathematician and engineer (1916–2001). At Bell Laboratories he wrote the 1948 paper that founded information theory, with the bit and the boxed diagram of a communication system.",
+  "born": "Gaylord, Michigan",
+  "died": "Medford, Massachusetts",
+  "roles": [
+    "mathematician",
+    "electrical engineer",
+    "founder of information theory"
+  ],
+  "bio": "Claude Elwood Shannon was born in 1916 in Gaylord, Michigan, and died in Massachusetts in 2001. He studied mathematics and electrical engineering and became known for applying Boolean algebra to relay and switching circuits in his master’s thesis. In 1941 he joined Bell Telephone Laboratories and worked there for about fifteen years. During the war he was part of a group working on encryption systems; by his own account, his first thinking was about how to improve information transmission over a noisy line.\n\nHis paper “A Mathematical Theory of Communication”, published in two parts in the *Bell System Technical Journal* in 1948, founded information theory. Shannon measured information through the choice among possible messages; the unit of measure came to be called the bit (the word was suggested by J. W. Tukey). He drew a communication system as a source, transmitter, channel, receiver and destination, with a noise source, and he set out how much information can be carried reliably over a noisy channel with the concept of “channel capacity”. At the start of the paper he notes that the meaning of messages is irrelevant to the engineering problem.\n\nIn 1949 the 1948 paper was reprinted as a book together with Warren Weaver’s interpretive essay. In 1951 he also published a paper that tried to estimate the entropy of English by having people guess the next letter. In 1956, in a short editorial, he warned against applying his theory to other fields with haste and enthusiasm. This page contains only professional information that can be verified; personal details have deliberately been left out.",
+  "works": [
+    {
+      "bib": "shannon-1948",
+      "note": "The founding paper of information theory; the bit, entropy, channel capacity and the system diagram of Figure 1 are here."
+    },
+    {
+      "bib": "shannon-weaver-1949",
+      "note": "The book version of the paper with Weaver’s interpretive essay; the “A” of the title becomes “The”."
+    },
+    {
+      "bib": "shannon-1951",
+      "note": "A method of estimating the entropy of English by having people guess the next letter."
+    },
+    {
+      "bib": "shannon-1956",
+      "note": "“The Bandwagon”: his own warning against the popularisation of the theory."
+    }
+  ],
+  "inCourse": "See [[lesson:lasswell-shannon-weaver]]; for the later process models [[lesson:process-models]]."
+}

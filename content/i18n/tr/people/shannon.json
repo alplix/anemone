@@ -1,0 +1,35 @@
+{
+  "id": "shannon",
+  "lang": "tr",
+  "name": "Claude E. Shannon",
+  "nativeName": "",
+  "slug": "claude-shannon",
+  "short": "ABD’li matematikçi ve mühendis (1916–2001). Bell Laboratuvarları’nda çalışırken 1948’de bilgi kuramını kuran makaleyi yazdı; bit ölçüsünü ve iletişim sisteminin kutulu şemasını verdi.",
+  "born": "Gaylord, Michigan",
+  "died": "Medford, Massachusetts",
+  "roles": [
+    "matematikçi",
+    "elektrik mühendisi",
+    "bilgi kuramının kurucusu"
+  ],
+  "bio": "Claude Elwood Shannon 1916’da Michigan’ın Gaylord kasabasında doğdu, 2001’de Massachusetts’te öldü. Matematik ve elektrik mühendisliği okudu; yüksek lisans tezinde Boole cebrini röle ve anahtarlama devrelerine uygulamasıyla tanındı. 1941’de Bell Telefon Laboratuvarları’na katıldı ve yaklaşık on beş yıl orada çalıştı. Savaş yıllarında şifreleme sistemleri üzerinde çalışan bir grubun içindeydi; kendi anlatımına göre ilk düşüncesi, gürültülü bir hattan bilgi aktarımını nasıl iyileştireceğiydi.\n\n1948’de *Bell System Technical Journal*’da iki parça hâlinde yayımlanan “A Mathematical Theory of Communication” makalesi bilgi kuramını kurdu. Shannon bilgiyi, olası mesajlar arasından yapılan seçim üzerinden ölçtü; ölçü birimine bit dendi (sözcüğü J. W. Tukey önermişti). Bir iletişim sistemini kaynak, verici, kanal, alıcı ve hedef olarak, bir de gürültü kaynağıyla çizdi ve gürültülü bir kanaldan ne kadar bilginin güvenle taşınabileceğini “kanal kapasitesi” kavramıyla ortaya koydu. Makalenin girişinde, mesajların anlamının mühendislik sorunu için ilgisiz olduğunu belirtir.\n\n1949’da 1948 makalesi, Warren Weaver’ın yorum yazısıyla birlikte kitap olarak yeniden basıldı. 1951’de, insanlara bir sonraki harfi tahmin ettirerek İngilizcenin entropisini kestirmeye çalışan bir makale de yayımladı. 1956’da kısa bir başyazıda, kuramının başka alanlara heyecanla ve aceleyle uygulanmasına karşı uyardı. Bu sayfa yalnızca doğrulanabilen mesleki bilgileri içerir; kişisel ayrıntılar bilerek yazılmamıştır.",
+  "works": [
+    {
+      "bib": "shannon-1948",
+      "note": "Bilgi kuramının kurucu makalesi; bit, entropi, kanal kapasitesi ve Şekil 1’deki sistem şeması burada."
+    },
+    {
+      "bib": "shannon-weaver-1949",
+      "note": "Makalenin Weaver’ın yorum yazısıyla birlikte kitap hâli; başlıktaki “A” burada “The” olur."
+    },
+    {
+      "bib": "shannon-1951",
+      "note": "İngilizcenin entropisini, insanlara bir sonraki harfi tahmin ettirerek kestirme yöntemi."
+    },
+    {
+      "bib": "shannon-1956",
+      "note": "“Bandwagon”: kuramın popülerleşmesine karşı kendi uyarısı."
+    }
+  ],
+  "inCourse": "Bkz. [[lesson:lasswell-shannon-weaver]]; sonraki süreç modelleri için [[lesson:process-models]]."
+}

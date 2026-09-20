@@ -1,6 +1,6 @@
 /* Anemone service worker. Version, base path and the pre-cache list are filled in by scripts/build.mjs.
    Pages: network first, cached copy when offline. Assets and data: cache first, refreshed in the background. */
-const VERSION = "048066563b";
+const VERSION = "f4927028eb";
 const BASE = "/anemone";
 const PRECACHE = ["/anemone/assets/css/site.css?v=0fb9d679f7","/anemone/assets/js/account.js","/anemone/assets/js/api.js","/anemone/assets/js/app.js?v=107607bd75","/anemone/assets/js/dialog.js","/anemone/assets/js/dom.js","/anemone/assets/js/exam.js","/anemone/assets/js/i18n.js","/anemone/assets/js/leaderboard.js","/anemone/assets/js/learn.js","/anemone/assets/js/lesson.js","/anemone/assets/js/map.js","/anemone/assets/js/panel.js","/anemone/assets/js/pool.js","/anemone/assets/js/questions.js","/anemone/assets/js/review.js","/anemone/assets/js/settings.js","/anemone/assets/js/stats.js","/anemone/assets/js/store.js","/anemone/assets/js/study.js","/anemone/assets/js/time.js","/anemone/assets/js/tips.js","/anemone/assets/js/xp.js","/anemone/assets/icon.svg"];
 const CACHE = "anemone-" + VERSION;

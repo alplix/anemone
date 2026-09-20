@@ -1,0 +1,673 @@
+{
+  "id": "lasswell-shannon-weaver",
+  "lang": "en",
+  "translation": {
+    "status": "machine",
+    "date": "2026-09-20"
+  },
+  "title": "The Lasswell and Shannon–Weaver Models",
+  "slug": "lasswell-and-shannon-weaver",
+  "description": "Lasswell’s five questions and three functions; Shannon–Weaver’s bits, entropy and noise: the first formal models of communication, their limits and misreadings.",
+  "claim": "For Lasswell, communication is analysed through the questions who says what in which channel to whom with what effect, and through three functions for society: surveillance, correlation and transmission. For Shannon and Weaver, it is analysed by how accurately a message travels from a source to a destination despite noise. Both are the first formal models of communication, and both need to be read together with their limits.",
+  "keywords": [
+    "Lasswell",
+    "Shannon",
+    "Weaver",
+    "Lasswell formula",
+    "five questions",
+    "surveillance",
+    "correlation",
+    "transmission",
+    "bit",
+    "entropy",
+    "noise",
+    "channel capacity",
+    "linear model",
+    "hypodermic needle model"
+  ],
+  "updated": "2026-09-20",
+  "timeline": {
+    "zimmermann-telegram": "The Zimmermann telegram: British intelligence deciphers the coded message, the American press publishes it in March, the US declares war in April (this lesson’s lab case)",
+    "lasswell-propaganda-technique": "Lasswell, Propaganda Technique in the World War: a book on First World War propaganda",
+    "hartley-transmission-of-information": "Hartley, “Transmission of Information” (Bell System Technical Journal): a physical measure of information",
+    "shannon-joins-bell-labs": "Shannon joins Bell Telephone Laboratories",
+    "lasswell-formula-published": "Lasswell, “The Structure and Function of Communication in Society”: five questions and three functions",
+    "shannon-bstj": "Shannon, “A Mathematical Theory of Communication” (July and October issues)",
+    "shannon-weaver-book": "Shannon and Weaver, The Mathematical Theory of Communication (book)",
+    "shannon-bandwagon": "Shannon’s editorial “The Bandwagon”: a warning against overextending information theory",
+    "braddock-extension": "Braddock, “An Extension of the Lasswell Formula”: two more questions are added",
+    "wright-functional-analysis": "Wright, “Functional Analysis and Mass Communication”: the functions become functional analysis",
+    "turbo-codes": "Berrou, Glavieux and Thitimajshima: turbo-codes with performance close to the Shannon limit"
+  },
+  "cards": [
+    {
+      "id": "ctx-1948",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "1948: two texts, one word, opposite directions",
+      "body": "In the same year, in two different worlds, two texts appeared, and both were about “communication”.\n\nThe first came out in New York, in a book collected from lectures given at a religion-and-society institute over the winter of 1946–47: *The Communication of Ideas*, edited by Lyman Bryson [[cite:lasswell-1948]]. In his chapter, the political scientist [[person:lasswell|Harold Lasswell]] proposed describing communication with five questions: who says what, in which channel, to whom, with what effect? [[concept:lasswell-formula]] At the heart of these questions are the *content* and the *effect* of what is said.\n\nThe second appeared in July and October of the same year, in two parts, in a telephone company’s technical journal, the *Bell System Technical Journal*. Its author, [[person:shannon|Claude Shannon]], wrote in the introduction that messages often have meaning, but that “These semantic aspects of communication are irrelevant to the engineering problem” [[cite:shannon-1948]].\n\nSo one asks “what was said, and what did it do?”, while the other asks “leave meaning aside: how accurately does the message get carried?” You can read the first years of mass communication theory through the tension between these two sentences. This lesson introduces both, and also shows how both were later misread.",
+      "question": {
+        "id": "ctx-1948-q",
+        "type": "mcq",
+        "prompt": "Which statement correctly sums up the difference between the two 1948 texts?",
+        "options": [
+          "Lasswell cares only about effect, Shannon only about noise.",
+          "Lasswell describes communication through content, channel, audience and effect questions; Shannon sets the meaning of the message aside as far as the engineering problem is concerned.",
+          "Both published the same theory in two different journals.",
+          "Shannon treats meaning as the most important problem; Lasswell studies only telephone lines."
+        ],
+        "answer": 1,
+        "explain": "The second option is correct: Lasswell’s five questions (who, what, channel, whom, effect) put content and effect at the centre, while Shannon asks how a message chosen from a set of possible messages is carried accurately, and keeps meaning out of the engineering problem. The first option is tempting because it reduces each theorist to one word; in fact Lasswell asks about the communicator, the content, the channel and the audience as well as the effect, and noise is only one component of Shannon’s subject. The third option confuses the two texts because of the words ‘1948’ and ‘communication’; their authors, fields and questions differ."
+      }
+    },
+    {
+      "id": "ctx-bell",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "Why did a telephone company leave meaning out?",
+      "body": "Imagine a telegraph line with a telegrapher at each end. One day the line carries a company’s most heartfelt letter; the next day it carries signals produced by a ball rolling at random into one of three pockets. For the line there is no difference between the two; it has to carry both with the same care.\n\nThis thought comes from twenty years before Shannon, from R. V. L. Hartley, an engineer at Bell Laboratories. In 1928, in the *Bell System Technical Journal*, he looked for a measure of “information” based on physical considerations, and wrote that psychological factors had to be eliminated for this [[cite:hartley-1928]]. In his example, a sequence of signals sent by an operator working the key of a submarine telegraph cable could just as well be produced by a mechanism driven by a ball rolling into one of three pockets; for the cable the two are the same [[cite:hartley-1928]].\n\nShannon inherited this legacy. His 1948 paper says its basis lies in the work of Nyquist and Hartley, and calls Hartley’s logarithmic measure the “most natural choice” [[cite:shannon-1948]]. The engineer’s job is not to guess which message will be sent but to prepare the system for *every possible message*: which one will be chosen is unknown at design time [[cite:shannon-1948]].\n\nSo leaving meaning out was not indifference but a job description: whoever runs the line has to carry what is said without damaging it, whatever it says.",
+      "question": {
+        "id": "ctx-bell-q",
+        "type": "mcq",
+        "prompt": "Why was it reasonable for a telephone company to answer “how much information can this line carry?” independently of the meaning of messages?",
+        "options": [
+          "Because engineers think meaning is always unimportant.",
+          "Because the line cannot know in advance which message will be chosen and must be able to carry every possible message; the measure is built on those alternatives.",
+          "Because telephone lines carry only meaningless sounds.",
+          "Because Hartley had proved that meaning can never be measured."
+        ],
+        "answer": 1,
+        "explain": "The correct option gives Shannon’s design reason: the system must work for every message that could be chosen, and which one will be chosen is unknown. The first option is tempting because the ‘engineer = indifferent to meaning’ cliché comes easily; but Shannon says meaning is irrelevant to the engineering problem, not unimportant; it is a division of labour, not a philosophy. The fourth option attributes to Hartley a proof he did not give: he only wrote that he wanted to eliminate psychological factors from the measure."
+      }
+    },
+    {
+      "id": "deep-bell",
+      "section": "context",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: Bell Laboratories, the war and the idea of “noise”",
+      "body": "Shannon joined Bell Telephone Laboratories in 1941 and worked there for about fifteen years [[cite:horgan-2016-shannon]]. Hartley was a man of the same roof: he had joined Western Electric’s research laboratory in 1913, and became a member of the new organisation when AT&T and Western Electric merged their engineering departments in 1925 to form Bell Labs [[cite:guizzo-2003]].\n\nThe war years were decisive. Shannon was part of a group developing digital encryption systems, one of which Churchill and Roosevelt used for their transatlantic conversations. By his own account, it was this work that led him to his theory: his first thinking was about how to improve information transmission over a noisy line [[cite:horgan-2016-shannon]].\n\nGuizzo’s thesis adds a detail: in the same period, the Bell Labs mathematics group, which Shannon was in, worked on anti-aircraft fire control. The aircraft coordinates coming from radar and optical instruments were inaccurate, and these errors were called “noise”. The group’s classified report noted an obvious analogy between the problem of removing tracking errors and the problem of separating a signal from interfering noise in communication systems [[cite:guizzo-2003]]. (This detail appears only in that thesis; the fact that after the war Bode and Shannon co-authored a paper in the same area, on smoothing and prediction theory, supports it indirectly [[cite:bode-shannon-1950]].) So “noise” was an engineering worry before it was a theory.\n\nThere is a more directly documented link too: the first section of Shannon’s 1945 cryptography report, classified at the time, is titled “Choice, Information and Uncertainty” [[cite:shannon-1945]]; the sixth section of the 1948 paper is “Choice, Uncertainty and Entropy” [[cite:shannon-1948]]. According to Diffie’s preface, the 1945 report is at the root of both the 1948 and the 1949 papers [[cite:diffie-preface-shannon-1945]]. Information theory and cryptography were relatives."
+    },
+    {
+      "id": "people-trio",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "text",
+      "title": "Three names, and who is who",
+      "body": "The three main names of this lesson are not much alike.\n\n- [[person:lasswell|Harold Lasswell]] (1902–1978): a political scientist. His *Propaganda Technique in the World War*, a study of wartime propaganda, appeared in 1927 [[cite:lasswell-1927]]; in later years he became a professor of law and political science [[cite:yaylagul-2006]] [[cite:encyclopedia-lasswell]].\n- [[person:shannon|Claude Shannon]] (1916–2001): a mathematician and electrical engineer; he joined Bell Telephone Laboratories in 1941 [[cite:mactutor-shannon]] [[cite:mit-news-shannon-2001]].\n- [[person:weaver|Warren Weaver]] (1894–1978): a mathematician, but above all a science administrator; from 1932 to 1955 he headed the natural sciences division of the Rockefeller Foundation [[cite:ieeecs-weaver]] [[cite:aaas-weaver]].\n\nWeaver was not Shannon’s co-worker but the interpreter who opened his paper to the general reader. In the book published in 1949 by a publisher in Illinois, two texts stand side by side: Weaver’s introductory essay and Shannon’s paper [[cite:shannon-weaver-1949]]. The name “Shannon–Weaver model” comes from this partnership; but it is Shannon who drew the system diagram, and Weaver’s essay interprets and extends it [[cite:shannon-1948]].\n\nA short timeline:\n\n- 1927: Lasswell’s propaganda book\n- 1928: Hartley’s measure of information\n- 1941: Shannon at Bell\n- 1948: Lasswell’s chapter (in a book) and Shannon’s paper (July–October)\n- 1949: the Shannon–Weaver book\n- 1956: Shannon’s “Bandwagon” editorial\n- 1960: Wright’s functional analysis article [[cite:wright-1960]]",
+      "question": {
+        "id": "people-trio-q",
+        "type": "mcq",
+        "prompt": "Which of the following would be wrong to assume about the name “Shannon–Weaver model”?",
+        "options": [
+          "The system diagram comes from Shannon’s 1948 paper.",
+          "Weaver wrote the essay that opened Shannon’s paper to the general reader.",
+          "Weaver, like Shannon, was an engineer working at Bell Laboratories.",
+          "Both texts were published in the same book in 1949."
+        ],
+        "answer": 2,
+        "explain": "Weaver was not a Bell Labs engineer but the director of the Rockefeller Foundation’s natural sciences division; he came in as the interpreter of Shannon’s paper. This wrong sentence circulates in some sources because of the ‘joint work’ connotation of the name. The other three options are true: Shannon draws the diagram, Weaver interprets it, and the two stand side by side in the 1949 book."
+      }
+    },
+    {
+      "id": "deep-dates",
+      "section": "people-time",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: what exactly does “1948” date?",
+      "body": "**Lasswell.** The chapter appeared in a book dated 1948, but the book itself rests on lectures given at the institute between November 1946 and February 1947 [[cite:lasswell-1948]]. On top of that, in their 2015 article Sapienza and colleagues trace the first known reference to the formula back to 1940 [[cite:sapienza-iyer-veenstra-2015]]. So “1948” is the publication year of the best-known statement of the formula; we cannot guarantee it is the year of its birth. A second frequent address is the 1960 edition of Schramm’s *Mass Communications* reader; some sources cite the chapter from there [[cite:iresearchnet-functionalism]].\n\n**Shannon.** The paper came out in two parts: July and October 1948 [[cite:shannon-1948]]. In 1949 it became a book together with Weaver’s interpretive essay; the indefinite “A” of the title turned into a definite “The”: the paper “A Mathematical Theory of Communication” became the book *The Mathematical Theory of Communication*. Guizzo calls this small change “subtle but significant” [[cite:guizzo-2003]] [[cite:shannon-weaver-1949]]. A popular version by Weaver also appeared in *Scientific American* in July 1949 [[cite:weaver-1949-sciam]].\n\n**In Turkish sources.** One Turkish textbook places the Shannon–Weaver model in 1949, another Turkish source in 1948 [[cite:yaylagul-2006]] [[cite:wikipedia-tr-iletisim-modelleri]]. Both rest on a fact: the diagram is in the 1948 paper, and the book they are named for came out in 1949. In an exam, answer according to the text the question is looking at."
+    },
+    {
+      "id": "claim-lasswell",
+      "section": "claim",
+      "layer": "core",
+      "kind": "text",
+      "title": "Five questions, five fields of research",
+      "body": "What Lasswell proposed is not a theory but a list of questions: a convenient way to describe an act of communication is to answer these five. **Who? Says what? In which channel? To whom? With what effect?** [[cite:lasswell-1948]] [[concept:lasswell-formula]]\n\nImagine this morning’s newspaper headline. Who wrote it, what did it say, in which paper did it appear, who read it, and what did they do after reading it?\n\nEach question is a door into a field of research [[cite:wikipedia-lasswell-model]] [[cite:yaylagul-2006]]:\n\n- Who? → **control analysis** (the institutions and people who start and steer communication)\n- Says what? → **content analysis**\n- In which channel? → **media analysis**\n- To whom? → **audience analysis**\n- With what effect? → **effect analysis**\n\nIn textbooks this list often appears as a “model” drawn with boxes and arrows. But the purpose of the chapter is to organise the scientific study of communication; some theorists therefore prefer “formula” or “construct” to “model” [[cite:wikipedia-lasswell-model]] [[cite:sapienza-iyer-veenstra-2015]]. Lasswell’s own emphasis, too, is less on splitting the act of communication into parts than on seeing it within the whole of the social process [[cite:iresearchnet-functionalism]]; the next card shows this.\n\nNote the last question as well: “with what effect?” is a *question*. Whether the effect is large or small, direct or indirect is not written into the formula.",
+      "question": {
+        "id": "claim-lasswell-q",
+        "type": "mcq",
+        "prompt": "A researcher is studying under what economic and political pressures a news site puts certain stories forward. Which of Lasswell’s five questions is she working in?",
+        "options": [
+          "Who? (control analysis)",
+          "Says what? (content analysis)",
+          "In which channel? (media analysis)",
+          "With what effect? (effect analysis)"
+        ],
+        "answer": 0,
+        "explain": "Studying who chooses the stories, and under what pressures, is the field of the ‘who’ question: the source that starts and steers communication, that is, control analysis. The second option is tempting because the subject is news stories; but content analysis counts and analyses *what is said*, not *why* it was put forward. Media analysis focuses on the channel itself, and effect analysis on the traces left in the audience."
+      }
+    },
+    {
+      "id": "claim-functions",
+      "section": "claim",
+      "layer": "core",
+      "kind": "text",
+      "title": "Three functions: how does a society inform itself?",
+      "body": "Lasswell’s chapter has another idea as important as the list of questions: what communication is good for in society. In his account communication does three jobs [[cite:lasswell-1948]] [[cite:iresearchnet-functionalism]] [[cite:yaylagul-2006]]:\n\n1. **Surveillance of the environment:** reporting the threats and opportunities facing the community and its parts.\n2. **Correlation:** coordinating the parts of society so that they respond to the environment as one.\n3. **Transmission:** passing the social heritage from one generation to the next.\n\nImagine a storm approaching a coastal town. The weather warning and the wave reading at the pier are surveillance. The municipality, the fishermen and the school agreeing on the same precautions, and the “what should we do?” debate in the local paper, are correlation. The story elders tell children about “what happened last winter” is transmission.\n\nThe language of functions asks a different question from the five questions: not what individual messages do, but what communication does for a *society*. This is the language of the functionalist tradition: society is thought of as an interdependent, self-regulating system, and each part is asked what it contributes to the whole [[cite:iresearchnet-functionalism]]. The personal question “why am I following this news?” belongs to a later approach, uses and gratifications ([[lesson:uses-gratifications]]). The functions are treated in more detail in [[lesson:functions-of-media]].\n\nA warning: Lasswell’s list has three items. “Entertainment”, often added as a fourth, is not his; we will see this in the deep dive [[concept:communication-functions]].",
+      "question": {
+        "id": "claim-functions-q",
+        "type": "mcq",
+        "prompt": "A newspaper column discusses the government’s new decision from the viewpoint of different parts of society and contributes to the search for a shared response. Which of Lasswell’s functions is this closest to?",
+        "options": [
+          "Surveillance of the environment",
+          "Correlation",
+          "Transmission of the social heritage",
+          "Entertainment"
+        ],
+        "answer": 1,
+        "explain": "Contributing to a shared response among different parts of society is the correlation function (Wright calls it ‘editorial activity’). The first option is tempting because the column is also about news; but surveillance is *reporting* a threat or opportunity, not coordinating the response. Transmission passes the heritage between generations, and entertainment is not in Lasswell’s list at all."
+      }
+    },
+    {
+      "id": "deep-functions",
+      "section": "claim",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: where did the “fourth function” come from?",
+      "body": "Many summaries say Lasswell listed four functions: surveillance, correlation, transmission and entertainment. In the summaries I found, this wrong attribution is repeated often. Looking at the sources, the picture changes.\n\nLasswell’s list has three items [[cite:iresearchnet-functionalism]] [[cite:yaylagul-2006]]. Entertainment is associated with Charles Wright’s 1960 article “Functional Analysis and Mass Communication”: Wright applied Merton’s functional analysis to mass communication in a research question that lists surveillance (news), correlation (editorial activity), cultural transmission and entertainment, for society, subgroups, individuals and cultural systems, together with manifest and latent functions and dysfunctions [[cite:wright-1960]] [[cite:iresearchnet-functionalism]]. A Turkish textbook also lists the three functions and then says that entertainment and market roles “can be added” [[cite:yaylagul-2006]].\n\nThis is a small but important correction for Lasswell. The same summary adds that Lasswell stressed the system-stabilising function [[cite:iresearchnet-functionalism]]. Wright’s idea of “dysfunction” makes possible a question built on exactly this emphasis on stability: when does communication *disturb* the system? This debate continues in [[lesson:functions-of-media]]."
+    },
+    {
+      "id": "claim-shannon",
+      "section": "claim",
+      "layer": "core",
+      "kind": "text",
+      "title": "Shannon’s diagram: reproducing at one point a message chosen at another",
+      "body": "Shannon opens his paper by stating the “fundamental problem” of communication: reproducing at one point, either exactly or approximately, a message selected at another point [[cite:shannon-1948]].\n\nFor this he draws a system [[cite:shannon-1948]] [[concept:shannon-weaver-model]]:\n\n- **Information source:** produces the message or sequence of messages (a sequence of letters in telegraphy, a time-varying sound wave in telephony).\n- **Transmitter:** turns the message into a signal suited to the channel (sound pressure into electric current in telephony, letters into dots and dashes in telegraphy).\n- **Channel:** the medium that carries the signal (a pair of wires, a coaxial cable, a band of radio frequencies, a beam of light).\n- **Receiver:** does the inverse of the transmitter and rebuilds the message from the signal.\n- **Destination:** the person or thing for whom the message is intended.\n\nThe drawing also contains a **noise source**, which mixes into the signal in the channel [[concept:noise]].\n\nWeaver explains the same arrangement with human speech: when I talk to you, my brain is the information source, my voice mechanism is the transmitter, the air is the channel, the apparatus formed by your ear and the nerve attached to it is the receiver, and your brain is the destination [[cite:shannon-weaver-1949]]. So although the boxes are borrowed from engineering language, they seem adaptable to human communication too. Shannon himself will look at this extension with caution; we will see this in the critique section.",
+      "question": {
+        "id": "claim-shannon-q",
+        "type": "mcq",
+        "prompt": "In Weaver’s speech example (“when I talk to you…”), which box of the diagram does the voice mechanism correspond to?",
+        "options": [
+          "Information source",
+          "Transmitter",
+          "Channel",
+          "Receiver"
+        ],
+        "answer": 1,
+        "explain": "The voice mechanism turns the message chosen by the brain into a signal called sound pressure: the transmitter. The brain is the source, the air is the channel, and the ear with its attached nerve is the receiver. The third option is tempting because ‘sound’ travels through air; but the medium that carries it is the channel, not the apparatus that *produces* the sound."
+      }
+    },
+    {
+      "id": "concepts-bit",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Lab: measuring a bit with twenty questions",
+      "body": "Let us play a game: think of a number between 1 and 16 and I will find it with yes/no questions.\n\nFirst question: “Is it greater than 8?” Whatever the answer, the options are halved. Since every question halves the options, 16 options come down to one number in 4 questions (16, 8, 4, 2, 1).\n\nShannon’s **bit** is exactly this: the uncertainty of one yes/no answer. The word was suggested by J. W. Tukey; it is short for *binary digit* [[cite:shannon-1948]]. Weaver likewise describes a situation with 16 equally likely options as 4 bits [[cite:shannon-weaver-1949]].\n\nNote: here “information” is not the meaning of the answer but the *number of options and their probabilities*. Weaver’s striking example: you are choosing between two messages; one is the whole text of the King James Bible, the other is just “Yes.” Since information depends on the choice situation and not on the content of the message, this situation, if the two are equally likely, counts as 1 bit [[cite:shannon-weaver-1949]].\n\nIf the probabilities are not equal, the measure falls: if one message is chosen almost for certain, both the uncertainty and the information are small [[cite:shannon-weaver-1949]]. In a desert where it never rains, the news “no rain today” carries almost no information; “rain today” carries a lot. (This last example is ours; the principle is Weaver’s.) For formulas, see the deep dive [[concept:entropy]].",
+      "question": {
+        "id": "concepts-bit-q",
+        "type": "mcq",
+        "prompt": "A friend has thought of a number between 1 and 16, all equally likely. With yes/no questions, in how many questions can you guarantee to find it at minimum?",
+        "options": [
+          "2",
+          "4",
+          "8",
+          "16"
+        ],
+        "answer": 1,
+        "explain": "16 = 2 to the power 4; each question halves the options, so 4 questions are enough (4 bits). ‘8’ is tempting because after the first question 8 options remain and one tends to stop there; but the game does not end there. ‘16’ would be asking the numbers one by one; with good questions there is no need."
+      }
+    },
+    {
+      "id": "deep-entropy",
+      "section": "concepts",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: the entropy formula, the redundancy of English and hand-made “English”",
+      "body": "**The formula.** For a source with independent probabilities p1, p2, … pn, Weaver writes the information as H = −Σ pi log pi. With two messages, H takes its largest value (1) when the two are equally likely, and approaches zero as one becomes almost certain [[cite:shannon-weaver-1949]]. The idea of a logarithmic measure comes from Hartley [[cite:shannon-1948]].\n\n**Redundancy.** The ratio of a source’s actual entropy to the highest entropy it could have with the same symbols is the “relative entropy”; one minus it is the “redundancy”. Shannon writes that the redundancy of English is roughly 50 per cent: half of the letters we write are free choice, half is the structure of the language. He tried several ways to find this; one was to delete some of the letters of a text and ask someone to restore them. He also uses the crossword puzzle as a yardstick: with very low redundancy every array of letters would be a puzzle, with very high redundancy large puzzles could not be built [[cite:shannon-1948]].\n\n**Hand-made “English”.** Shannon produced sequences “approaching English” according to letter and word frequencies: by hand, with tables of random numbers and books opened at random. At the zero order the result is a nonsense like *XFOML RXKHRJFFJUJ*; at the word level it is an ordinary-looking sequence such as “attack on an English writer that the character of this” [[cite:shannon-1948]]. The lesson: a sufficiently complex statistical process can resemble a language to a surprising degree.\n\n**The guessing game.** In 1951 Shannon tried to estimate the entropy and redundancy of a language through experiments in which people predict the next letter [[cite:shannon-1951]]. (Pointing out that today’s language models also predict the next piece is our own interpretation; the two ideas are relatives.)"
+    },
+    {
+      "id": "concepts-levels",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Weaver’s three levels: technical, semantic, effectiveness",
+      "body": "In opening Shannon’s mathematics to the general reader, Weaver first draws a map: problems can arise at three separate levels of communication [[cite:shannon-weaver-1949]] [[concept:weaver-levels]].\n\n- **Level A, the technical problem:** how accurately can the symbols be transmitted?\n- **Level B, the semantic problem:** how precisely do the transmitted symbols convey the desired meaning?\n- **Level C, the effectiveness problem:** how effectively does the received meaning affect conduct in the desired way?\n\nImagine a flood-warning SMS sent in a district. On some phones the message arrives with garbled characters: level A. The message arrives intact but the word “evacuate” sounds to some like “get ready”: level B. Everyone understands correctly, but nobody leaves home: level C.\n\nWeaver shows how deep the semantic problem can go with his own example: the meaning a Russian viewer takes from a US newsreel picture. The effectiveness level he ties explicitly to propaganda theory; in his view communication either affects conduct or has no discernible effect [[cite:shannon-weaver-1949]]. This view stands close to Lasswell’s “with what effect?” question (this is our interpretation).\n\nShannon’s theory belongs directly only to level A. Weaver’s claim is that the limits found at A also apply to B and C, and that the level-A theory can to a significant degree be counted as a theory of B and C too [[cite:shannon-weaver-1949]]. This claim was much debated later (see the deep dives).",
+      "question": {
+        "id": "concepts-levels-q",
+        "type": "mcq",
+        "prompt": "A public-service spot arrives on screen intact and viewers understand what is said correctly, but their behaviour does not change at all. At which of Weaver’s levels is there a problem?",
+        "options": [
+          "Level A (technical)",
+          "Level B (semantic)",
+          "Level C (effectiveness)",
+          "None; because the message was transmitted correctly"
+        ],
+        "answer": 2,
+        "explain": "The symbols were transmitted correctly (A is fine) and the meaning arrived (B is fine); but the received meaning did not affect conduct in the desired way: an effectiveness problem, level C. The last option is tempting because ‘transmitted correctly’ is true for level A; but on Weaver’s map success does not end with transmission."
+      }
+    },
+    {
+      "id": "assumptions-shared",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "text",
+      "title": "What both silently take for granted",
+      "body": "The two models ask different questions but live in the same house. Their silent assumptions are these:\n\n- **The message exists beforehand.** The source chooses the message, then sends it. There is no picture in which the message is built jointly on the way.\n- **The flow is one-way.** The boxes are lined up in sequence, the arrows go forward. There is no feedback in the main diagrams.\n- **Communication is an act.** An event with a beginning and an end: sent, arrived, affected.\n- **Effect is the aim.** Weaver says communication either affects conduct or has no discernible effect [[cite:shannon-weaver-1949]]; Lasswell’s formula also reserves its last question for effect [[cite:lasswell-1948]].\n\nBut the differences matter too:\n\n- Lasswell thinks **at the level of society**: communication is the set of functions by which a society adjusts to its environment. This approach is associated with the functionalist tradition and brings forward the function of keeping the system stable [[cite:iresearchnet-functionalism]].\n- Shannon thinks **statistically**: information is defined not through the content of a single message but through the set of possible messages. In Weaver’s phrasing, information has less to do with what you do say than with what you could say [[cite:shannon-weaver-1949]].\n\nBoth describe well what the communicator does; the receiver is often left in a box as just the ‘destination’ or ‘audience’. Later interaction models (Schramm’s, for example) replaced these linear models for many purposes [[cite:wikipedia-tr-iletisim-modelleri]] ([[lesson:process-models]]) [[concept:linear-transmission-model]].",
+      "question": {
+        "id": "assumptions-shared-q",
+        "type": "tf",
+        "prompt": "True or false: In Shannon’s theory, “information” is a measure of how important or meaningful the content of a single message is.",
+        "answer": false,
+        "explain": "False. In Shannon–Weaver theory, information is a measure not of the meaning of a message but of the freedom one has in choosing it, that is, of the set of possible messages and their probabilities. Two messages, one loaded with meaning and the other nonsense, can be equivalent as far as information goes. The ‘information = meaningful content’ association comes from everyday language and misleads readers of the theory."
+      }
+    },
+    {
+      "id": "how-shannon",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "A telegram’s journey, step by step",
+      "body": "Let us put a telegram message into the system and follow it step by step [[cite:shannon-1948]] [[cite:shannon-weaver-1949]]:\n\n1. **The source chooses.** The source picks one message from the set of possible messages: “ARRIVING”.\n2. **The transmitter encodes.** The letters are turned into a sequence of dots, dashes and spaces. This operation is called encoding.\n3. **The channel carries.** The sequence of signals travels along the wire.\n4. **Noise mixes in.** The line adds something the source did not want: static, a wrong dash.\n5. **The receiver decodes.** The receiver does the inverse of the transmitter and turns the signals back into letters.\n6. **The destination reads.** The message reaches the destination identical or close to what was sent.\n\nThe truly surprising result is hidden in what could be called step seven: Shannon showed that a channel has a **capacity**; that as long as the information rate produced by the source does not exceed this capacity, suitable codes can make the error as small as we like; and that if the capacity is exceeded, no code can bring the error below a certain lower bound [[cite:shannon-weaver-1949]]. So noise does not make communication impossible; it limits how much can be carried.\n\nOne more note: in the discussion section of his paper Shannon himself writes that this result is a kind of *existence proof*, and that building good codes in a concrete way is a separate job [[cite:shannon-1948]].",
+      "question": {
+        "id": "how-shannon-q",
+        "type": "order",
+        "prompt": "Put a message’s journey through Shannon’s diagram in the right order.",
+        "items": [
+          "The source chooses one message from the set of possible messages",
+          "The transmitter turns the message into a signal (encodes)",
+          "Noise mixes into the signal as it moves along the channel",
+          "The receiver turns the signal back into a message (decodes)",
+          "The message reaches the destination"
+        ],
+        "explain": "The order follows the boxes of the diagram: the source chooses, the transmitter encodes, the channel carries and noise mixes in, the receiver decodes, the destination receives. Putting noise after the receiver is a common mistake: noise is added to the signal *in the channel*, before it reaches the receiver."
+      }
+    },
+    {
+      "id": "how-lab",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Lab: measuring a telegram with two rulers",
+      "body": "Now let us apply the two models to the same documented event. Try it yourself first, then compare.\n\n**The event.** In early 1917 the German Foreign Minister Arthur Zimmermann sent a coded telegram to the German representative in Mexico: if the US entered the war, an alliance was proposed to Mexico [[cite:nara-zimmermann]] [[cite:ww1museum-zimmermann]]. British intelligence deciphered the message and presented it to the US government on 24 February; the American press published it on 1 March, and the US declared war on 6 April 1917 [[cite:nara-zimmermann]] [[cite:loc-zimmermann]].\n\n**Task 1: Lasswell.** *Who:* Zimmermann. *What:* a coded proposal of alliance. *Channel:* telegraph lines; Britain had cut Germany’s cables in 1914, Germany used lines borrowed from neutral countries, and the British listened in on these lines [[cite:ww1museum-zimmermann]]. *To whom:* the intended audience was the Mexican government; in practice it reached American public opinion. *Effect:* the aim was to keep the US busy on its southern border; the result was growing American anger [[cite:ww1museum-zimmermann]].\n\n**Task 2: Shannon.** Source: Zimmermann choosing the message. Transmitter: the process that encoded it and put it on the line. Channel: the line. Receiver: the decoding at the far end. Destination: the Mexican government. Noise? In the sources I read there is no detail about line corruption; saying you do not know is also a finding.\n\n**Task 3: The gap.** Which box will you put the British, who listened to the line and decoded the cipher, in? Neither noise nor receiver: neither diagram has a box for them, yet they changed the course of the event.",
+      "question": {
+        "id": "how-lab-q",
+        "type": "mcq",
+        "prompt": "In the Zimmermann telegram case, which element has no box in either diagram yet changed the course of the event?",
+        "options": [
+          "The foreign minister who sent the telegram",
+          "The line the telegram travelled on",
+          "The third party who listened to the line and decoded the cipher",
+          "The receiver in Mexico"
+        ],
+        "answer": 2,
+        "explain": "The minister is Shannon’s source and Lasswell’s ‘who’, the line is the channel, and the receiver in Mexico is the receiver and destination; all have boxes. The listening third party is not noise (noise is an unwanted distortion added to the signal; the listener adds nothing to the signal, it reads it) and it is not the receiver either; although it shaped the course of the event, it has no box in either diagram."
+      }
+    },
+    {
+      "id": "evidence-fields",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "text",
+      "title": "Five questions, five filing drawers",
+      "body": "The ‘proof’ of a formula is not that it turns out true but that it works. Lasswell’s questions worked for sorting research: you can put many studies into one of five drawers [[cite:yaylagul-2006]] [[cite:wikipedia-lasswell-model]].\n\n- **Control analysis:** Who? Who owns the paper, under what pressures does the editor work?\n- **Content analysis:** What is said? Which theme appears how often?\n- **Media analysis:** What does the channel itself change?\n- **Audience analysis:** Whom does it reach, who is watching?\n- **Effect analysis:** What does the audience think and do?\n\nLook at Lasswell’s own 1927 book with this eye and you see an interesting order: one chapter is given to the organisation of propaganda, a run of chapters to the themes propaganda worked with (war guilt, demonising the enemy, the illusion of victory…), and the last chapter to “The Results of Propaganda” [[cite:lasswell-1927]]. This is our reading; Lasswell does not present the chapters as answers to the five questions.\n\nYou also see the formula’s traces in later work: in 1958 Braddock added two questions (under what circumstances, for what purpose) [[cite:braddock-1958]]; in 1960 Wright turned the three functions into functional analysis [[cite:wright-1960]]. The Shannon–Weaver diagram, for its part, is described in a Turkish textbook as the foundation of the mainstream understanding of mass communication and as the model that brought the idea of noise into the process [[cite:yaylagul-2006]]; the sequel is in [[lesson:process-models]].",
+      "question": {
+        "id": "evidence-fields-q",
+        "type": "mcq",
+        "prompt": "A researcher counts which topics appear how many times on the front pages of three newspapers. Which of Lasswell’s five fields is she working in?",
+        "options": [
+          "Control analysis",
+          "Content analysis",
+          "Media analysis",
+          "Effect analysis"
+        ],
+        "answer": 1,
+        "explain": "What is being counted is ‘what is said’, so this is content analysis. The third option is tempting because newspapers are a channel; but media analysis examines the *distinctive features of the channel* (newspaper versus radio), not the counting of content that passes through it. Control analysis looks at the source behind the content, and effect analysis at the traces left in the reader."
+      }
+    },
+    {
+      "id": "evidence-shannon",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "story",
+      "title": "A promise made, kept forty-five years later",
+      "body": "In 1948 Shannon made a promise: even a noisy channel can be used with as few errors as you like, as long as the information rate stays below the capacity [[cite:shannon-weaver-1949]]. The promise had a flaw: it did not show how. In the discussion section of his paper he himself writes that, apart from some simple cases, no explicit description of codes approaching the ideal had been found [[cite:shannon-1948]].\n\nPractical codes approaching the limit were developed over time. In 1993 Berrou, Glavieux and Thitimajshima presented a new class of codes called “turbo-codes”; in terms of bit error rate their performance was close to the Shannon limit [[cite:berrou-et-al-1993]]. Between the theoretical promise and the practical construction there were about forty-five years.\n\nThis is the theory’s real evidence: it works in engineering. Shannon’s obituary says that all communication lines are today measured in bits per second and that it was his notion of channel capacity that made this precise [[cite:mit-news-shannon-2001]]. But this does not mean “the theory also explains human communication”. Shannon warned explicitly in 1956: that a human being acts in some situations like an ideal decoder is an experimental, not a mathematical, fact, and must be tested in experiments [[cite:shannon-1956]].\n\nIn short: the evidence is very strong in one place (lines and codes), and in another place it is a question not yet asked (people and meaning).",
+      "question": {
+        "id": "evidence-shannon-q",
+        "type": "mcq",
+        "prompt": "Which of the following is true of Shannon’s channel capacity result?",
+        "options": [
+          "It shows he had built a code that removes noise completely.",
+          "It says that below capacity the error can be made as small as one likes; but it does not show how to construct good codes.",
+          "It applies only to telephone lines and also proves human communication.",
+          "It proves that channel capacity is a measure of meaning."
+        ],
+        "answer": 1,
+        "explain": "The second option is correct: the result is a limit and a possibility claim; building good codes is a separate job (turbo-codes came forty-five years later). The first option comes from thinking noise can be removed; but noise limits the capacity. The third and fourth options carry the theory over to meaning and people; in 1956 Shannon left exactly that as an experimental question."
+      }
+    },
+    {
+      "id": "crit-linear",
+      "section": "critique",
+      "layer": "core",
+      "kind": "text",
+      "title": "The linear-model objection: who said what, and on what grounds?",
+      "body": "In textbooks, Lasswell and Shannon–Weaver are often put in the same bag: “linear, one-way models”. In one example from Turkish literature, the Lasswell model is described as seeing the target audience as passive and as well suited to propaganda analysis, while the Shannon–Weaver model is said to ignore people’s emotional state completely [[cite:iplikci-2015]]. The objections are usually these [[concept:linear-transmission-model]]:\n\n- **No feedback:** the receiver only receives, does not respond.\n- **A passive receiver:** the audience waits at the end of the box.\n- **Meaning and context are left outside:** especially for Shannon–Weaver, though Lasswell’s list of questions does not mention context either; the “under what circumstances?” question Braddock added to the formula in 1958 puts context forward [[cite:wikipedia-lasswell-model]].\n- **Communication = transmission:** James Carey called this view the “transmission view” and contrasted it with a “ritual view” that sees communication as sharing and sustaining a common world [[cite:carey-1989]] ([[lesson:ritual-view]]).\n\nWhat do the defenders say? According to some authors, most of these objections are aimed at later presentations of the formula drawn with boxes and arrows; as McQuail and Windahl noted in 1993, until boxes and arrows are drawn, what you have is a formula [[cite:wikipedia-lasswell-model]]. Sapienza and colleagues also conclude that, despite all the misreadings, the model is still relevant and useful today [[cite:sapienza-iyer-veenstra-2015]]. On the Shannon–Weaver side, Weaver himself had proposed adding meaning boxes to the diagram (deep dive).",
+      "question": {
+        "id": "crit-linear-q",
+        "type": "mcq",
+        "prompt": "A set of lecture notes says “the Lasswell model is inadequate because it ignores feedback”. Which of the following is the most balanced response?",
+        "options": [
+          "True; Lasswell had deliberately forbidden feedback.",
+          "False; feedback is clearly defined within the formula.",
+          "Partly: the formula does not mention feedback, but according to some authors the objection is aimed mostly at the boxes-and-arrows presentations drawn later; the list of questions does not exclude feedback.",
+          "This objection applies only to the Shannon–Weaver model and means nothing for Lasswell."
+        ],
+        "answer": 2,
+        "explain": "The third option carries both the objection’s valid side (the formula does not mention feedback) and the defenders’ reasoning (the boxes-and-arrows presentations, not the list of questions itself). The first option attributes to Lasswell a prohibition he did not make; the second attributes to the formula an element it does not have; the fourth narrows the objection too much, because the feedback critique is made of Lasswell’s formula as well."
+      }
+    },
+    {
+      "id": "crit-caution",
+      "section": "critique",
+      "layer": "core",
+      "kind": "story",
+      "title": "Shannon’s own brake: the 1956 editorial",
+      "body": "When a theory becomes popular, the first person to sound the alarm is sometimes its founder. That is exactly what Shannon did in 1956, in a one-page editorial in an engineering journal. Information theory, he wrote, had become “something of a scientific bandwagon”; from biology to psychology, from linguistics to economics, everyone was carrying words like “information”, “entropy” and “redundancy” into their own field [[cite:shannon-1956]].\n\nHis warning comes down to a few points [[cite:shannon-1956]]:\n\n- The basic results of the subject are aimed in a very specific direction; they need not be relevant to psychology, economics and the other social sciences. Its hard core is mathematics.\n- Applying it to other fields is “not a trivial matter of translating words to a new domain”: it is a slow, tedious process of hypothesis and experiment.\n- Keep your own house in order: rigour in publications, research before show.\n\nSeven years earlier, Weaver’s essay had been more hopeful: it had argued that the level-A theory could also be meaningful for levels B and C [[cite:shannon-weaver-1949]]. In one profile, Shannon is reported to have stressed that his theory could not address the question of meaning and was not designed for it [[cite:horgan-2016-shannon]].\n\nSo even inside the “Shannon–Weaver” approach that textbooks put in one box, there are two tones: the engineer’s caution and the interpreter’s hope.",
+      "question": {
+        "id": "crit-caution-q",
+        "type": "mcq",
+        "prompt": "A student writes in an assignment: “Shannon proved that the human brain works like an ideal receiver.” According to Shannon’s 1956 editorial, what is the most accurate correction?",
+        "options": [
+          "Correct; since the theory is mathematics it applies to humans with certainty.",
+          "That a human being acts in some situations like an ideal decoder is an experimental, not a mathematical, fact; it must be tested by experiments.",
+          "Shannon proved that a human being can never act like an ideal receiver.",
+          "This sentence could be written only about Weaver, not about Shannon."
+        ],
+        "answer": 1,
+        "explain": "This is exactly what Shannon says in the editorial: a human being acting as an ideal decoder is an experimental fact. The first option falls for the ‘maths = applies with certainty’ shortcut; Shannon says that carrying the mathematical core to other fields is not as easy as translating words. The third option also attributes an unproven certainty: it was neither proved nor refuted, but left as a question to be asked."
+      }
+    },
+    {
+      "id": "deep-semantic",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: those who added meaning boxes",
+      "body": "Weaver did not only defend the diagram, he proposed extending it. He wrote that two boxes could be added once one moves to levels B and C [[cite:shannon-weaver-1949]]:\n\n- **Semantic receiver:** placed between the engineering receiver and the destination; it decodes the message a second time and matches the semantic characteristics of the message to the semantic capacity of the audience.\n- **Semantic noise:** placed between the source and the transmitter; it carries the distortions of meaning that the source did not intend but that still affect the receiver’s interpretation. The old “noise” box is renamed “engineering noise”.\n\nWeaver hoped these would be minor additions rather than a big rewrite. He also wrote that, just as the channel has a capacity, *the audience* may have one too, and that overloading the audience would bring confusion and error [[cite:shannon-weaver-1949]].\n\nThe question of meaning was also asked in other ways. In the early 1950s Bar-Hillel and Carnap proposed a separate quantitative theory for computing the semantic information carried by a sentence. A philosophy encyclopedia entry describes it as the first detailed theory of semantic conceptions of information; the language in question is a monadic predicate logic, that is, not everyday speech [[cite:bar-hillel-carnap-1953]] [[cite:sequoiah-grayson-floridi-2022]]. So adding meaning moved in two directions: new boxes for communication models, new measures for logic. Neither encompassed human communication."
+    },
+    {
+      "id": "crit-needle",
+      "section": "critique",
+      "layer": "core",
+      "kind": "myth",
+      "title": "Was Lasswell a “hypodermic needle” theorist?",
+      "body": "**What people assume.** Lasswell was the first theorist to see the media as a hypodermic needle (or magic bullet) acting directly and instantly on the audience. One Turkish textbook also writes that theories such as the “silver bullet” and the hypodermic needle were developed on the basis of his propaganda studies [[cite:yaylagul-2006]].\n\n**What the evidence says.** There are two sides to it.\n\nOn one side, Lasswell does not underestimate the power of propaganda: in his 1927 book he calls it one of the most powerful instruments in the modern world [[cite:lasswell-1927]].\n\nOn the other, the “results” chapter of the same book treats the effect not as a settled fact but as a contested matter: it says the precise effect of propaganda is largely a matter of surmise, that defeated countries exaggerate the influence of propaganda, that it is hard to separate the influence of propaganda from the other means of control closely allied to it, and that propaganda was present on both sides of the contested fronts [[cite:lasswell-1927]]. The 1948 formula, too, puts effect not as an answer but as a *question* [[cite:lasswell-1948]].\n\nHistoriography also questions the story. According to Sproule, the standard story that describes interwar propaganda critics as “magic bullet” theorists is a myth that emerged after 1940 [[cite:sproule-1989]]. For the hypodermic needle model itself, see the lesson [[lesson:magic-bullet]].\n\nIn short: Lasswell took the possibility of strong effects seriously; but the certainty of a “hypodermic needle theory” later attached to him is not in his texts.",
+      "question": {
+        "id": "crit-needle-q",
+        "type": "tf",
+        "prompt": "True or false: Lasswell’s 1927 propaganda book also contains warnings that the effect of propaganda cannot be measured precisely and can be exaggerated by the defeated.",
+        "answer": true,
+        "explain": "True. The book’s ‘results’ chapter says that the precise effect of propaganda is largely a matter of surmise and that defeated countries exaggerate the influence of propaganda; the same chapter continues to count propaganda as a powerful instrument. The ‘Lasswell = unlimited effect’ association is built without reading the second half of the book."
+      }
+    },
+    {
+      "id": "deep-needle",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: the history of the “hypodermic” label, and Lasswell’s own injection sentence",
+      "body": "To be honest, the image of injection is not entirely absent from Lasswell’s text. In the 1927 book, speaking of Wilson’s rhetoric, he mentions a “subtle poison” and writes that it was injected into the veins of a people by industrious men [[cite:lasswell-1927]]. But this is a literary sentence describing a single propaganda campaign, not a theory of audiences. The book’s concluding chapter, for its part, stresses that effect is hard to measure (the card above).\n\nTwo studies give two warnings about the history of the label. Bineham (1988) argues that different accounts of the hypodermic model go with different conceptions of the field’s history and with different theoretical and methodological commitments [[cite:bineham-1988]]. Sproule (1989) writes that the standard story overlooks the aim of interwar propaganda critics: they wanted to help an essentially competent public against powerful institutions taking over the channels of communication [[cite:sproule-1989]].\n\nSapienza, Iyer and Veenstra (2015) survey the 75-year history of references to the Lasswell model and discuss three misconceptions of “reading backward”; they conclude that the model is still useful today [[cite:sapienza-iyer-veenstra-2015]]. I could not read the full article; here I rely only on its abstract.\n\nIn this lesson I make no claim about the exact origin of the “hypodermic needle” label. The subject will be treated separately in the lesson [[lesson:magic-bullet]]. The takeaway here is methodological: what a theorist said and what was later made to say in their name are separate questions."
+    },
+    {
+      "id": "today-digital",
+      "section": "today",
+      "layer": "core",
+      "kind": "text",
+      "title": "Today: Shannon in your pocket, Lasswell in your notifications",
+      "body": "Shannon is in your pocket. A corner of a QR code is smudged and your phone still reads it: the reason is deliberately added redundancy. A QR code corrects errors by adding a Reed–Solomon code to the data; Denso Wave’s page offers four levels: roughly 7, 15, 25 and 30 per cent of the code’s codewords can be repaired [[cite:denso-wave-qr]]. Shannon’s 1948 idea (redundancy left in a code protects against noise) has turned into a square on paper [[cite:shannon-1948]]. A thesis also lists a great many technologies, from CDs and mobile phones to modems and MP3, as carrying Shannon’s ideas [[cite:guizzo-2003]].\n\nLasswell’s five questions have not disappeared in the digital world, only got tangled. What follows is not a finding documented in sources but our own reasoning: in a viral post the ‘who?’ question multiplies into an account, a bot, a brand; the ‘in which channel?’ question is entangled with an algorithm’s ranking and therefore also determines ‘to whom?’; and ‘with what effect?’ remains the hardest question to measure. The formula is still useful as a checklist, but the answers do not fit into one box.\n\nA small experiment: ask the five questions of the last three notifications on your phone. How long did it take to find the answer to ‘who?’ If a notification’s channel also decides which notification reaches you, is it enough to call the channel ‘just a carrier’?",
+      "question": {
+        "id": "today-digital-q",
+        "type": "mcq",
+        "prompt": "A corner of a QR code is smudged and the code is still read. In Shannon’s terms, what makes this possible?",
+        "options": [
+          "The phone guessing the meaning of the code",
+          "Deliberately added redundancy (an error-correcting code)",
+          "The smudge not counting as noise",
+          "The QR code having infinite channel capacity"
+        ],
+        "answer": 1,
+        "explain": "A QR code uses an error-correcting code that deliberately adds redundancy to the data; even if a smudge damages part of the code, the original data is rebuilt thanks to the redundancy. The first option is tempting because it looks as if ‘the phone understands’; but the system repairs a bit pattern, not a meaning. The third option reverses the definition of noise (the smudge is a distortion the source did not want); the fourth assumes infinite capacity, whereas every channel has a capacity."
+      }
+    },
+    {
+      "id": "exam-patterns",
+      "section": "exam",
+      "layer": "core",
+      "kind": "text",
+      "title": "This is how exams ask it",
+      "body": "**Frequent patterns**\n\n- “Who does the formula ‘who says what in which channel to whom with what effect’ belong to?” → Harold Lasswell (1948).\n- “Whose model has the elements source, transmitter, channel, receiver, destination and noise?” → Shannon and Weaver.\n- Matching: Lasswell → five questions and three functions; Shannon–Weaver → bit, entropy, noise; Weaver → three levels.\n- “List Lasswell’s three functions.” → surveillance, correlation, transmission.\n\n**Tempting wrong answers**\n\n- “Lasswell is the theorist of the hypodermic needle model” → a label attached later; the sources are more complicated.\n- “Entertainment is Lasswell’s fourth function” → no; it was added later, generally attributed to Wright.\n- “Weaver worked at Bell Laboratories” → no; the Rockefeller Foundation.\n- “The Shannon–Weaver model measures meaning” → no; it keeps meaning outside the engineering problem, and Weaver puts meaning at level B.\n- Years: Lasswell 1948; Shannon’s paper 1948 (July–October); the Shannon–Weaver book 1949. Sources may date the model 1948 or 1949; both rest on a fact [[cite:yaylagul-2006]] [[cite:wikipedia-tr-iletisim-modelleri]].\n\n**Alternative names in Turkish course texts** (useful if you read Turkish sources)\n\n- Lasswell model, Lasswell formula, Lasswell’s general communication model; the spellings “Laswell” and “Lasswel” also occur [[cite:yaylagul-2006]] [[cite:iplikci-2015]].\n- Shannon–Weaver: Information Theory (Enformasyon Kuramı), Mathematical Communication Model/Theory, bilgi kuramı [[cite:yaylagul-2006]] [[cite:iplikci-2015]].\n- Parts: information (enformasyon) source, transmitter (verici), channel (kanal), receiver (alıcı), destination (hedef), noise (gürültü) source; redundancy (fazlalık), entropy (called “enformasyonda eksiklik” in some books) [[cite:yaylagul-2006]].\n- The five analyses: control (source), content, media (channel), audience and effect analysis.",
+      "question": {
+        "id": "exam-patterns-q",
+        "type": "mcq",
+        "prompt": "An exam question asks: “Which of the following is NOT one of Lasswell’s original three functions?” Which is the correct answer?",
+        "options": [
+          "Surveillance of the environment",
+          "Correlating the parts of society in responding to the environment",
+          "Transmission of the social heritage",
+          "Entertainment"
+        ],
+        "answer": 3,
+        "explain": "Entertainment is an item added to the list later and is generally attributed to Wright; Lasswell’s original list has three items: surveillance, correlation, transmission. This question tests the ‘fourth function’ trap: a student who has memorised a four-item list may know the first three options yet hesitate to mark the last as ‘not one’."
+      }
+    },
+    {
+      "id": "summary",
+      "section": "summary",
+      "layer": "core",
+      "kind": "summary",
+      "title": "Summary card",
+      "body": "- **1948:** Lasswell’s five questions (in a book) and Shannon’s paper (July–October) come from separate worlds, with opposite divisions of labour: one asks about content and effect, the other leaves meaning outside the engineering problem.\n- **Lasswell:** who says what in which channel to whom with what effect; five fields of research (control, content, media, audience, effect analysis). Three functions for society: surveillance, correlation, transmission. Entertainment is added later.\n- **Shannon–Weaver:** source, transmitter, channel, receiver, destination and noise; bit, entropy, redundancy; below channel capacity the error can be made as small as one likes.\n- **Weaver:** technical (A), semantic (B) and effectiveness (C) levels; the semantic receiver and semantic noise proposal. Weaver is Shannon’s interpreter, not his co-worker.\n- **The hypodermic misreading:** Lasswell counts propaganda as powerful but also writes that its precise effect is guesswork; the label was attached later.\n- **Critique:** linear, one-way, no feedback, no meaning; Carey’s transmission/ritual distinction. In 1956 Shannon warned against overextending his own theory.\n- **Today:** error correction from QR codes to modems; Lasswell’s questions still work as a checklist but do not fit into boxes.\n- **Exam:** three functions (not four), the years 1948/1949, alternative Turkish names.",
+      "question": {
+        "id": "summary-q",
+        "type": "tf",
+        "prompt": "True or false: Shannon’s theory measures how precisely the meaning of a message is understood by the receiver.",
+        "answer": false,
+        "explain": "False. Shannon’s theory measures how accurately a message is carried and the choice among possible messages; meaning is kept outside the engineering problem. How precisely meaning is understood belongs to Weaver’s level B (semantic), and Shannon’s mathematics does not deal with this level directly."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Which attitude in the introduction of Shannon’s 1948 paper most clearly separates it from Lasswell’s formula?",
+      "options": [
+        "Treating the semantic aspects of a message as irrelevant to the engineering problem",
+        "Putting effect as a single question",
+        "Treating communication only at the level of society",
+        "Not mentioning the channel at all"
+      ],
+      "answer": 0,
+      "explain": "Shannon accepts that messages may have meaning but treats this as irrelevant to the engineering problem; Lasswell’s questions put content and effect at the centre. It is Lasswell who puts effect as a single question (second option) and who thinks at the level of society (third option); and the channel is present in both models (the fourth option is wrong)."
+    },
+    {
+      "id": "q2",
+      "type": "tf",
+      "prompt": "True or false: In 1948 Lasswell wrote four functions of communication: surveillance, correlation, transmission and entertainment.",
+      "answer": false,
+      "explain": "False. Lasswell’s list has three items: surveillance, correlation, transmission. Adding entertainment as a fourth function is generally attributed to Wright (1960); but the four-item list is often wrongly credited to Lasswell."
+    },
+    {
+      "id": "q3",
+      "type": "match",
+      "prompt": "Match the elements of Shannon’s diagram with their counterparts in the telegram example.",
+      "pairs": [
+        [
+          "Information source",
+          "The person choosing the message from among possible messages"
+        ],
+        [
+          "Transmitter",
+          "The process that turns letters into a sequence of dots and dashes"
+        ],
+        [
+          "Channel",
+          "The wire the signals travel over"
+        ],
+        [
+          "Noise",
+          "Static on the line that the source did not want"
+        ],
+        [
+          "Receiver",
+          "The apparatus that turns the signals back into letters"
+        ]
+      ],
+      "explain": "The source chooses, the transmitter encodes, the channel carries, noise is the distortion the source did not want, and the receiver does the inverse of the transmitter. The pair most often confused is transmitter and receiver: both ‘convert’, but in opposite directions."
+    },
+    {
+      "id": "q4",
+      "type": "order",
+      "prompt": "Put the events in chronological order (oldest to newest).",
+      "items": [
+        "Hartley’s paper “Transmission of Information” (1928)",
+        "Shannon joins Bell Laboratories (1941)",
+        "The two parts of Shannon’s paper and the book carrying Lasswell’s chapter (1948)",
+        "The Shannon–Weaver book (1949)",
+        "Shannon’s editorial “The Bandwagon” (1956)",
+        "Wright’s functional analysis article (1960)"
+      ],
+      "explain": "The order: 1928 Hartley, 1941 Shannon at Bell, 1948 Lasswell and Shannon, 1949 the book, 1956 the editorial, 1960 Wright. The most common mistake is putting the book (1949) before the paper (1948); the paper came out a year earlier in two parts."
+    },
+    {
+      "id": "q5",
+      "type": "cloze",
+      "prompt": "Fill in Weaver’s three levels.",
+      "text": "According to Weaver, communication problems arise at three levels: the {{1}} problem is the question of how accurately the symbols are transmitted; the {{2}} problem is how precisely the transmitted symbols convey the desired meaning; and the {{3}} problem is how effectively the received meaning affects conduct in the desired way.",
+      "blanks": [
+        {
+          "options": [
+            "technical",
+            "semantic",
+            "effectiveness"
+          ],
+          "answer": 0
+        },
+        {
+          "options": [
+            "effectiveness",
+            "technical",
+            "semantic"
+          ],
+          "answer": 2
+        },
+        {
+          "options": [
+            "semantic",
+            "effectiveness",
+            "technical"
+          ],
+          "answer": 1
+        }
+      ],
+      "explain": "Level A is the technical problem (accurate transmission), level B is the semantic problem (meaning), level C is the effectiveness problem (conduct). Confusion usually arises between B and C: receiving the meaning correctly is one thing, changing behaviour another."
+    },
+    {
+      "id": "q6",
+      "type": "case",
+      "scenario": "A municipality sets up an SMS warning system against flood risk. The team does two jobs: (a) testing that messages arrive without corruption, (b) measuring how many people left the area after a warning. (Hypothetical scenario.)",
+      "parts": [
+        {
+          "id": "q6a",
+          "type": "mcq",
+          "prompt": "Which of Weaver’s levels does job (a) belong to?",
+          "options": [
+            "Technical (A)",
+            "Semantic (B)",
+            "Effectiveness (C)"
+          ],
+          "answer": 0,
+          "explain": "A message arriving without corruption is the accurate transmission of symbols: the technical problem, level A. The semantic level looks at how the message is understood, and the effectiveness level at behaviour."
+        },
+        {
+          "id": "q6b",
+          "type": "mcq",
+          "prompt": "Which of Lasswell’s fields of analysis does measurement (b) correspond to?",
+          "options": [
+            "Control analysis",
+            "Content analysis",
+            "Effect analysis"
+          ],
+          "answer": 2,
+          "explain": "Measuring what was done after a warning is the field of the ‘with what effect?’ question: effect analysis. Content analysis examines what the message says, and control analysis who sent it and under what conditions."
+        },
+        {
+          "id": "q6c",
+          "type": "mcq",
+          "prompt": "Which of Lasswell’s three functions is the system’s reporting of the flood threat to the public an example of?",
+          "options": [
+            "Surveillance of the environment",
+            "Correlation",
+            "Transmission of the social heritage"
+          ],
+          "answer": 0,
+          "explain": "Reporting a threat is the surveillance function. Correlation coordinates the response of the parts of society (for example the municipality, the school and the public meeting on the same plan); transmission concerns the heritage passed between generations."
+        }
+      ],
+      "takeaway": "The same system can be measured with two rulers: Weaver asks ‘was it carried correctly, was it understood, did it work?’; Lasswell asks ‘who, what, in which channel, to whom, with what effect?’ and ‘what job does it do for society?’."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "Which of the following is true of Lasswell’s 1927 propaganda book?",
+      "options": [
+        "It counts propaganda as powerful but also writes that its precise effect is largely a matter of surmise.",
+        "It argues that propaganda has no effect at all.",
+        "It is the book that first used the term “hypodermic needle”.",
+        "It rests only on audience surveys."
+      ],
+      "answer": 0,
+      "explain": "The book counts propaganda as one of the most powerful instruments of the modern world, but also writes that the precise measure of its effect is often guesswork. The second option is an opposite caricature. The phrase ‘hypodermic needle’ does not occur in the book; the third option attributes a label added later to the book itself. The book deals with the organisation, themes and results of war propaganda; audience surveys are not its subject."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "What is the main message of Shannon’s 1956 editorial “The Bandwagon”?",
+      "options": [
+        "A call for caution and rigour against applying information theory to other fields with enthusiasm and haste",
+        "That information theory explains all the social sciences",
+        "That information theory should now be abandoned",
+        "That meaning is an engineering problem"
+      ],
+      "answer": 0,
+      "explain": "Shannon writes that the theory had become a bandwagon, that applying it to other fields is not as easy as translating words, and that it demands hypotheses and experiments; he does not abandon the theory but goes on counting it a valuable tool. The second option is the exact opposite, the third is an extreme reading, and the fourth reverses Shannon’s starting attitude."
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "Compare a fair coin toss with tossing a rigged coin that lands heads 99 per cent of the time. According to Shannon’s measure, which has the higher entropy (greater uncertainty)?",
+      "options": [
+        "The fair coin toss",
+        "The rigged coin toss",
+        "They are equal",
+        "The measure depends on the meaning of the coin"
+      ],
+      "answer": 0,
+      "explain": "With two equally likely options entropy takes its highest value (1 bit); as one becomes almost certain it approaches zero. The second option comes from the intuition ‘rigged = more information’; but the rigged coin gives the result almost in advance. The fourth option forgets that Shannon’s measure is independent of meaning."
+    },
+    {
+      "id": "q10",
+      "type": "tf",
+      "prompt": "True or false: Warren Weaver was Shannon’s co-worker at Bell Laboratories.",
+      "answer": false,
+      "explain": "False. Weaver headed the Rockefeller Foundation’s natural sciences division; he is the author of the essay that opened Shannon’s paper to the general reader. The ‘co-worker’ image comes from the joint name ‘Shannon–Weaver’."
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "Which statement best sums up the critique of the “linear transmission model”?",
+      "options": [
+        "Communication is not only the carrying of a message; it also includes meaning, context and the sharing of a common world.",
+        "Communication consists only of noise.",
+        "The concept of the channel is entirely unnecessary.",
+        "Effect is an element of communication that can never be measured."
+      ],
+      "answer": 0,
+      "explain": "The transmission critique (for example Carey’s ritual view) says communication is not only carrying but building shared meaning and a shared world. The other options are extreme claims no one defends; rejecting channel or effect as concepts is not what the objection is about."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "shannon-weaver-model",
+  "family": "models",
+  "introducedBy": [
+    "shannon",
+    "weaver"
+  ],
+  "related": [
+    "entropy",
+    "noise",
+    "weaver-levels",
+    "linear-transmission-model",
+    "lasswell-formula"
+  ],
+  "sources": [
+    "shannon-1948",
+    "shannon-weaver-1949",
+    "yaylagul-2006",
+    "iplikci-2015",
+    "guizzo-2003"
+  ]
+}

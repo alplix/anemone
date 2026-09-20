@@ -1,0 +1,10 @@
+{
+  "id": "entropy",
+  "lang": "tr",
+  "term": "entropi",
+  "altTerms": ["bilgi entropisi", "belirsizlik ölçüsü", "enformasyonda eksiklik"],
+  "slug": "entropi",
+  "short": "Shannon’ın bilgi ölçüsü: bir kaynağın olası mesajlar arasında ne kadar seçim özgürlüğüne sahip olduğunu bit cinsinden gösteren sayı.",
+  "body": "Entropi, Shannon’ın kuramında bir kaynağın “ne kadar bilgi ürettiğini” ölçer; ama buradaki bilgi mesajın anlamı değil, seçim özgürlüğüdür. İki eşit olasılıklı seçenek arasındaki seçim 1 bittir; 16 eşit olasılıklı seçenek 4 bittir (2 üzeri 4, 16’dır). Seçeneklerden biri baskın hâle geldikçe belirsizlik ve dolayısıyla entropi düşer; bir mesaj kesin olarak biliniyorsa entropi sıfırdır.\n\nÖlçü olasılıkların logaritmasına dayanır; logaritmik ölçü fikri Hartley’nin 1928 çalışmasına uzanır. Bir kaynağın fiili entropisinin, aynı simgelerle ulaşabileceği en yüksek entropiye oranı “göreli entropi”dir; birden çıkarılmışı “fazlalık”tır (*redundancy*). Shannon İngilizcenin fazlalığının kabaca yüzde 50 olduğunu yazar: yazarken harflerin yarısı dilin yapısından gelir, yarısını serbestçe seçeriz. Fazlalık israf gibi görünür ama gürültüye karşı sigortadır: bozulmuş bir harfi bağlamdan geri kazanabilirsin.\n\nTürkçe kaynaklarda “entropi” yanında “enformasyonda eksiklik” ve “fazlalık” terimleri de geçer (Yaylagül 2006). Fizikteki entropiyle matematiksel bir benzerliği vardır ama burada bir istatistik ölçüsüdür. Ayrıntı: [[lesson:lasswell-shannon-weaver]].",
+  "example": "1’den 16’ya kadar bir sayı tutuldu ve her sayı eşit olasılıklı: doğru sayıyı bulmak için 4 evet/hayır sorusu (4 bit) yeter."
+}

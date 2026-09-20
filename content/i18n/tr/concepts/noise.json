@@ -1,0 +1,10 @@
+{
+  "id": "noise",
+  "lang": "tr",
+  "term": "gürültü",
+  "altTerms": ["gürültü kaynağı", "mühendislik gürültüsü", "anlamsal gürültü"],
+  "slug": "gurultu",
+  "short": "Shannon’ın şemasında iletim sırasında sinyale eklenen, kaynağın istemediği her şey (parazit, bozulma, hata). Weaver anlamı bozan “anlamsal gürültü”yü de önerdi.",
+  "body": "Gürültü, Shannon–Weaver şemasında sinyale iletim sırasında eklenen ve kaynağın istemediği her şeydir: telefonda ses bozulması, radyoda parazit, televizyonda görüntü bozulması, telgrafta hatalı işaretler. Kuram için gürültü, mesajın anlamıyla değil, alınan sinyalin gönderilenden ne kadar farklı çıkabileceğiyle ilgilidir.\n\nShannon’ın önemli sonucu şudur: gürültü var diye kusursuz iletim imkânsız olmaz. Kanalın kapasitesi, kaynağın ürettiği bilgi hızından yüksek ya da ona eşit olduğu sürece uygun kodlamayla hata istenildiği kadar küçültülebilir; kapasite aşılırsa küçültülemez. Kodda bilerek bırakılan fazlalık gürültüye karşı korur.\n\nWeaver 1949’da şemaya, kaynak ile verici arasına “anlamsal gürültü” diye bir kutu eklenebileceğini önerdi: kaynağın istemediği ama alıcının yorumunu yine de etkileyen anlam bozulmaları. Eski “gürültü” kutusunu da “mühendislik gürültüsü” diye adlandırdı. Türkçe kitaplarda gürültü kimi zaman iletişim sürecinin işlevsizleştirici öğesi olarak geçer (Yaylagül 2006). Günlük dildeki “gürültü = karmaşa” ile karıştırma: kuramdaki gürültü yalnızca sinyali bozan şeydir. Ayrıntı: [[lesson:lasswell-shannon-weaver]].",
+  "example": "Telefonda hat cızırdıyor ve kelimeleri kaçırıyorsun: bu mühendislik gürültüsüdür. Kelimeleri eksiksiz duyup yine de farklı anlıyorsan, Weaver’ın önerdiği anlamsal gürültüyle karşı karşıyasın."
+}

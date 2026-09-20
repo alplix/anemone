@@ -1,7 +1,20 @@
 {
   "id": "lasswell",
-  "born": { "year": 1902 },
-  "died": { "year": 1978 },
-  "sources": ["encyclopedia-lasswell-historians", "encyclopedia-lasswell-social-sciences"],
-  "works": ["lasswell-1927-propaganda"]
+  "born": {
+    "year": 1902
+  },
+  "died": {
+    "year": 1978
+  },
+  "sources": [
+    "encyclopedia-lasswell",
+    "uchicago-lasswell",
+    "wikipedia-lasswell",
+    "encyclopedia-lasswell-historians",
+    "encyclopedia-lasswell-social-sciences"
+  ],
+  "works": [
+    "lasswell-1927",
+    "lasswell-1948"
+  ]
 }

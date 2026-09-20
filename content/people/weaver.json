@@ -1,0 +1,17 @@
+{
+  "id": "weaver",
+  "born": {
+    "year": 1894
+  },
+  "died": {
+    "year": 1978
+  },
+  "sources": [
+    "mactutor-weaver",
+    "ieeecs-weaver",
+    "aaas-weaver"
+  ],
+  "works": [
+    "shannon-weaver-1949"
+  ]
+}

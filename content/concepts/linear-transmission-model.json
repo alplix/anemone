@@ -1,0 +1,15 @@
+{
+  "id": "linear-transmission-model",
+  "family": "critical",
+  "introducedBy": [],
+  "related": [
+    "lasswell-formula",
+    "shannon-weaver-model"
+  ],
+  "sources": [
+    "carey-1989",
+    "wikipedia-lasswell-model",
+    "iplikci-2015",
+    "sapienza-iyer-veenstra-2015"
+  ]
+}

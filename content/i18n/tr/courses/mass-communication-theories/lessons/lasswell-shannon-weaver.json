@@ -1,0 +1,469 @@
+{
+  "id": "lasswell-shannon-weaver",
+  "lang": "tr",
+  "translation": { "status": "source", "date": "2026-09-20" },
+  "title": "Lasswell ve Shannon–Weaver Modelleri",
+  "slug": "lasswell-shannon-weaver-modelleri",
+  "description": "Lasswell’in beş sorusu ve üç işlevi, Shannon–Weaver’ın bit, entropi ve gürültü şeması: iletişimin ilk biçimsel modelleri, sınırları ve yanlış okumaları.",
+  "claim": "Lasswell’e göre iletişim, kim, ne söylüyor, hangi kanaldan, kime ve ne etkiyle sorularıyla ve toplum için gözetim, ilişkilendirme ve aktarım işlevleriyle çözümlenir; Shannon ve Weaver’a göre ise bir kaynaktan hedefe mesajın gürültüye rağmen ne kadar doğru taşındığıyla. İkisi de iletişimin ilk biçimsel modelleridir; ikisi de sınırlarıyla birlikte okunmalıdır.",
+  "keywords": ["Lasswell", "Shannon", "Weaver", "Lasswell formülü", "beş soru", "gözetim", "ilişkilendirme", "aktarım", "bit", "entropi", "gürültü", "kanal kapasitesi", "doğrusal model", "şırınga modeli"],
+  "updated": "2026-09-20",
+  "timeline": {
+    "zimmermann-telegram": "Zimmermann telegramı: İngiliz istihbaratı şifreli mesajı çözer, mart ayında Amerikan basını yayımlar, ABD nisanda savaş ilan eder (bu dersin laboratuvar olayı)",
+    "lasswell-propaganda-technique": "Lasswell, Propaganda Technique in the World War: Birinci Dünya Savaşı propagandası üzerine kitap",
+    "hartley-transmission-of-information": "Hartley, “Transmission of Information” (Bell System Technical Journal): bilgi için fiziksel bir ölçü",
+    "shannon-joins-bell-labs": "Shannon, Bell Telefon Laboratuvarları’na katılır",
+    "lasswell-formula-published": "Lasswell, “The Structure and Function of Communication in Society”: beş soru ve üç işlev",
+    "shannon-bstj": "Shannon, “A Mathematical Theory of Communication” (temmuz ve ekim sayıları)",
+    "shannon-weaver-book": "Shannon ve Weaver, The Mathematical Theory of Communication (kitap)",
+    "shannon-bandwagon": "Shannon’ın “The Bandwagon” başyazısı: bilgi kuramının aşırı yayılmasına karşı uyarı",
+    "braddock-extension": "Braddock, “An Extension of the Lasswell Formula”: formüle iki soru daha eklenir",
+    "wright-functional-analysis": "Wright, “Functional Analysis and Mass Communication”: işlevler işlevsel çözümlemeye taşınır",
+    "turbo-codes": "Berrou, Glavieux ve Thitimajshima: Shannon sınırına yakın performanslı turbo kodlar"
+  },
+  "cards": [
+    {
+      "id": "ctx-1948", "section": "context", "layer": "core", "kind": "story",
+      "title": "1948: iki metin, tek sözcük, ters yönler",
+      "body": "Aynı yıl, iki ayrı dünyada iki metin yayımlandı ve ikisi de “iletişim”i anlatıyordu.\n\nBirincisi New York’ta, bir din ve toplum enstitüsünün 1946–47 kışında verilen konferanslarından derlenen bir kitapta çıktı: *The Communication of Ideas*, derleyeni Lyman Bryson [[cite:lasswell-1948]]. Siyaset bilimci [[person:lasswell|Harold Lasswell]] oradaki yazısında iletişimi beş soruyla tarif etmeyi önerdi: kim, ne söylüyor, hangi kanaldan, kime, ne etkiyle? [[concept:lasswell-formula]] Bu soruların merkezinde söylenenin *içeriği* ve *etkisi* var.\n\nİkincisi aynı yılın temmuz ve ekim aylarında, bir telefon şirketinin teknik dergisi *Bell System Technical Journal*’da iki parça hâlinde yayımlandı. Yazarı [[person:shannon|Claude Shannon]] girişte, mesajların çoğu zaman bir anlamı olduğunu kabul eder; ama hemen ekler: “These semantic aspects of communication are irrelevant to the engineering problem” [[cite:shannon-1948]].\n\nYani biri “ne denmiş, ne yapmış?” diye sorar, öteki “anlamı bir kenara bırak, mesaj ne kadar doğru taşınır?” diye. Kitle iletişimi kuramlarının ilk yıllarını bu iki cümlenin gerilimiyle okuyabilirsin. Bu ders ikisini de tanıtıyor; bir de ikisinin sonradan nasıl yanlış okunduğunu gösteriyor.",
+      "question": {
+        "id": "ctx-1948-q", "type": "mcq",
+        "prompt": "1948’de yayımlanan iki metnin farkını hangisi doğru özetler?",
+        "options": [
+          "Lasswell yalnızca etkiyle, Shannon yalnızca gürültüyle ilgilenir.",
+          "Lasswell iletişimi içerik, kanal, izleyici ve etki sorularıyla tarif eder; Shannon mühendislik sorunu için mesajın anlamını dışarıda bırakır.",
+          "İkisi de aynı kuramı iki farklı dergide yayımladı.",
+          "Shannon anlamı en önemli sorun sayar; Lasswell yalnızca telefon hatlarını inceler."
+        ],
+        "answer": 1,
+        "explain": "İkinci şık doğru: Lasswell’in beş sorusu (kim, ne, kanal, kime, etki) içerik ve etkiyi merkeze alır; Shannon ise mesajın olası mesajlar arasından seçildiğini ve doğru taşınmasını sorar, anlamı mühendislik sorunu dışında tutar. İlk şık cazip, çünkü her kuramcıyı tek bir sözcüğe indirger; oysa Lasswell etkinin yanında kim, içerik, kanal ve izleyiciyi de sorar, Shannon’ın gürültüsü de konusunun yalnızca bir bileşenidir. Üçüncü şıkta iki metin ‘1948’ ve ‘iletişim’ sözcükleri yüzünden birbirine karıştırılıyor; oysa yazarları, alanları ve soruları farklı."
+      }
+    },
+    {
+      "id": "ctx-bell", "section": "context", "layer": "core", "kind": "story",
+      "title": "Telefon şirketi anlamı neden hesaba katmadı?",
+      "body": "Hayal et: bir telgraf hattının iki ucunda birer telgrafçı var. Bir gün hattan bir şirketin en içten mektubu geçiyor, ertesi gün bir topun üç cepten birine rastgele yuvarlanmasıyla üretilmiş işaretler. Hat için ikisi arasında fark yok; ikisini de aynı özenle taşımak zorunda.\n\nBu düşünce Shannon’dan yirmi yıl önce, Bell laboratuvarlarının mühendisi R. V. L. Hartley’den geliyor. 1928’de *Bell System Technical Journal*’da “bilgi” için fiziksel esaslara dayanan bir ölçü aradı ve bunun için psikolojik etkenlerin ayıklanması gerektiğini yazdı [[cite:hartley-1928]]. Örneğinde bir su altı telgraf kablosunun ucunda kolu elle oynatan operatörün gönderdiği işaret dizisini, bir topun üç cepten birine yuvarlanmasına bağlı bir düzenek de üretebilir; kablo için ikisi aynıdır [[cite:hartley-1928]].\n\nShannon bu mirası devraldı. 1948 makalesi, kuramın temelini Nyquist’in ve Hartley’nin çalışmalarında bulduğunu söyler ve Hartley’nin logaritmik ölçü önerisini “en doğal seçim” diye anar [[cite:shannon-1948]]. Mühendisin işi hangi mesajın gönderileceğini tahmin etmek değil, sistemi *her olası mesaja* hazırlamaktır: hangisinin seçileceği tasarım anında bilinmez [[cite:shannon-1948]].\n\nYani anlamın dışarıda kalması bir kayıtsızlık değil, bir iş tanımıdır: hattı işleten, taşıdığı sözün ne dediğine bakmadan onu bozmadan taşıyabilmek zorundadır.",
+      "question": {
+        "id": "ctx-bell-q", "type": "mcq",
+        "prompt": "Bir telefon şirketinin “bu hat ne kadar bilgi taşıyabilir?” sorusunu mesajların anlamından bağımsız yanıtlaması neden mantıklıydı?",
+        "options": [
+          "Çünkü mühendisler anlamın her zaman önemsiz olduğunu düşünür.",
+          "Çünkü hat, hangi mesajın seçileceğini önceden bilemez ve olası her mesajı taşıyabilmelidir; ölçü de bu seçenekler üzerine kurulur.",
+          "Çünkü telefon hatları yalnızca anlamsız sesler taşır.",
+          "Çünkü Hartley anlamın hiçbir zaman ölçülemeyeceğini kanıtlamıştı."
+        ],
+        "answer": 1,
+        "explain": "Doğru şık Shannon’ın tasarım gerekçesini verir: sistem, seçilebilecek her mesaj için çalışmak zorundadır, hangisinin seçileceği bilinmez. İlk şık cazip, çünkü ‘mühendis = anlamsız’ kalıbı kolay akla gelir; ama Shannon anlamın önemsiz olduğunu değil, mühendislik sorunu için ilgisiz olduğunu söyler; bu bir felsefe değil, bir iş bölümüdür. Dördüncü şık Hartley’ye olmayan bir kanıt yükler: o yalnızca ölçüden psikolojik etkenleri ayıklamak istediğini yazdı."
+      }
+    },
+    {
+      "id": "deep-bell", "section": "context", "layer": "deep", "kind": "text",
+      "title": "Derin: Bell Laboratuvarları, savaş ve “gürültü” fikri",
+      "body": "Shannon 1941’de Bell Telefon Laboratuvarları’na katıldı ve yaklaşık on beş yıl orada çalıştı [[cite:horgan-2016-shannon]]. Hartley de aynı çatının insanıydı: Western Electric’in araştırma laboratuvarına 1913’te girmişti, 1925’te AT&T ile Western Electric mühendislik bölümlerini birleştirip Bell Labs’ı kurunca yeni kuruluşun üyesi oldu [[cite:guizzo-2003]].\n\nSavaş yılları belirleyiciydi. Shannon, dijital şifreleme sistemleri geliştiren bir grubun içindeydi; bu sistemlerden biri Churchill ile Roosevelt’in transatlantik görüşmelerinde kullanıldı. Kendi anlatımına göre kuramına götüren de bu iş oldu: ilk düşüncesi, gürültülü bir hattan bilgi aktarımını nasıl iyileştireceğiydi [[cite:horgan-2016-shannon]].\n\nGuizzo’nun tezi bir ayrıntı daha ekler: aynı dönemde Shannon’ın da içinde bulunduğu Bell Labs matematik grubu uçaksavar atış denetimi üzerinde çalışıyordu. Radar ve optik cihazlardan gelen uçak koordinatları hatalıydı; bu hatalara “gürültü” deniyordu. Grubun gizli raporu, izleme hatalarını ayıklama sorunu ile iletişim sistemlerinde sinyali parazitten ayırma sorunu arasında bariz bir benzerlik olduğunu yazıyordu [[cite:guizzo-2003]]. (Bu ayrıntı yalnızca bu tezde geçiyor; Bode ile Shannon’ın savaştan sonra aynı alanda, yumuşatma ve öngörü kuramı üzerine ortak bir makale yayımlaması onu dolaylı olarak destekler [[cite:bode-shannon-1950]].) Yani “gürültü”, bir kuramdan önce bir mühendislik derdiydi.\n\nDaha doğrudan belgelenmiş bir bağ da var: Shannon’ın 1945 tarihli, o zaman gizli tutulan şifreleme raporunun ilk bölümü “Seçim, Bilgi ve Belirsizlik” başlığını taşır [[cite:shannon-1945]]; 1948 makalesinin altıncı bölümü ise “Seçim, Belirsizlik ve Entropi”dir [[cite:shannon-1948]]. Diffie’nin önsözüne göre 1945 raporu hem 1948 hem 1949 makalesinin kökündedir [[cite:diffie-preface-shannon-1945]]. Bilgi kuramı ile şifreleme kuramı akrabaydı."
+    },
+    {
+      "id": "people-trio", "section": "people-time", "layer": "core", "kind": "text",
+      "title": "Üç isim ve kim kimdir",
+      "body": "Bu dersin üç ana adı birbirine pek benzemez.\n\n- [[person:lasswell|Harold Lasswell]] (1902–1978): siyaset bilimci. Savaş propagandasını incelediği *Propaganda Technique in the World War* 1927’de çıktı [[cite:lasswell-1927]]; sonraki yıllarda hukuk ve siyaset bilimi profesörü oldu [[cite:yaylagul-2006]] [[cite:encyclopedia-lasswell]].\n- [[person:shannon|Claude Shannon]] (1916–2001): matematikçi ve elektrik mühendisi; 1941’de Bell Telefon Laboratuvarları’na katıldı [[cite:mactutor-shannon]] [[cite:mit-news-shannon-2001]].\n- [[person:weaver|Warren Weaver]] (1894–1978): matematikçi, ama asıl mesleği bilim yöneticiliği; 1932–1955 arasında Rockefeller Vakfı’nın doğa bilimleri bölümünün başındaydı [[cite:ieeecs-weaver]] [[cite:aaas-weaver]].\n\nWeaver, Shannon’ın iş arkadaşı değil, makalesini genel okura açan yorumcusudur. 1949’da Illinois’daki bir yayınevinden çıkan kitapta iki metin yan yana durur: Weaver’ın giriş yazısı ve Shannon’ın makalesi [[cite:shannon-weaver-1949]]. “Shannon–Weaver modeli” adı bu ortaklıktan gelir; ama sistem şemasını çizen Shannon’dır, Weaver’ın yazısı onu yorumlar ve genişletir [[cite:shannon-1948]].\n\nKısa bir zaman çizgisi:\n\n- 1927: Lasswell’in propaganda kitabı\n- 1928: Hartley’nin bilgi ölçüsü\n- 1941: Shannon Bell’de\n- 1948: Lasswell’in yazısı (kitapta) ve Shannon’ın makalesi (temmuz–ekim)\n- 1949: Shannon–Weaver kitabı\n- 1956: Shannon’ın “Bandwagon” başyazısı\n- 1960: Wright’ın işlevsel çözümleme makalesi [[cite:wright-1960]]",
+      "question": {
+        "id": "people-trio-q", "type": "mcq",
+        "prompt": "“Shannon–Weaver modeli” adı için aşağıdakilerden hangisini varsaymak yanlış olur?",
+        "options": [
+          "Sistem şemasını Shannon’ın 1948 makalesi verir.",
+          "Weaver, Shannon’ın makalesini genel okura açan yazının yazarıdır.",
+          "Weaver da Shannon gibi Bell Laboratuvarları’nda çalışan bir mühendisti.",
+          "İkisinin metni 1949’da aynı kitapta yayımlandı."
+        ],
+        "answer": 2,
+        "explain": "Weaver bir Bell Labs mühendisi değil, Rockefeller Vakfı’nın doğa bilimleri bölümünün yöneticisiydi; Shannon’ın makalesinin yorumcusu olarak devreye girdi. Bu yanlış cümle, adın ‘ortak çalışma’ çağrışımı yüzünden bazı kaynaklarda dolaşır. Öbür üç şık doğru: şemayı Shannon çizer, Weaver yorumlar, ikisi 1949 kitabında yan yana durur."
+      }
+    },
+    {
+      "id": "deep-dates", "section": "people-time", "layer": "deep", "kind": "text",
+      "title": "Derin: “1948” tam olarak neyin tarihi?",
+      "body": "**Lasswell.** Yazı 1948 tarihli bir kitapta çıktı, ama kitabın kendisi, enstitüde 1946 kasımı ile 1947 şubatı arasında verilen konferanslara dayanır [[cite:lasswell-1948]]. Üstüne, Sapienza ve arkadaşları 2015 tarihli makalelerinde formülün bilinen ilk anılışını 1940’a kadar götürür [[cite:sapienza-iyer-veenstra-2015]]. Yani “1948”, formülün en bilinen ifadesinin yayın yılıdır; doğum yılı olduğunu garanti edemeyiz. Sık başvurulan ikinci adres de Schramm’ın *Mass Communications* derlemesinin 1960 basımıdır; bazı kaynaklar yazıya oradan atıf yapar [[cite:iresearchnet-functionalism]].\n\n**Shannon.** Makale iki parça hâlinde çıktı: temmuz ve ekim 1948 [[cite:shannon-1948]]. 1949’da Weaver’ın yorum yazısıyla birlikte kitap oldu; başlıktaki belirsiz “A”, kesin “The”ye dönüştü: “A Mathematical Theory of Communication” makalesi, *The Mathematical Theory of Communication* kitabı oldu. Guizzo bu küçük değişikliği “ince ama anlamlı” diye niteler [[cite:guizzo-2003]] [[cite:shannon-weaver-1949]]. Weaver’ın popüler bir sürümü de temmuz 1949’da *Scientific American*’da yayımlandı [[cite:weaver-1949-sciam]].\n\n**Türkçe kaynaklarda.** Bir Türkçe ders kitabı Shannon–Weaver modelini 1949’a yerleştirir, bir başka Türkçe kaynak 1948’e [[cite:yaylagul-2006]] [[cite:wikipedia-tr-iletisim-modelleri]]. İkisi de bir gerçeğe dayanır: şema 1948 makalesinde, birlikte anılan kitap 1949’da. Sınavda soru hangi metne bakıyorsa ona göre cevapla."
+    },
+    {
+      "id": "claim-lasswell", "section": "claim", "layer": "core", "kind": "text",
+      "title": "Beş soru, beş araştırma alanı",
+      "body": "Lasswell’in önerdiği şey bir kuram değil, bir soru listesi: bir iletişim eylemini tarif etmenin kullanışlı yolu, şu beş soruyu yanıtlamak. **Kim? Ne söylüyor? Hangi kanaldan? Kime? Ne etkiyle?** [[cite:lasswell-1948]] [[concept:lasswell-formula]]\n\nHayal et: sabah gazetesinin manşeti. Onu kim yazdı, ne dedi, hangi gazetede çıktı, kimler okudu, okuyunca ne yaptılar?\n\nHer soru bir araştırma alanının kapısıdır [[cite:wikipedia-lasswell-model]] [[cite:yaylagul-2006]]:\n\n- Kim? → **kontrol analizi** (iletişimi başlatan ve yönlendiren kurumlar ve kişiler)\n- Ne söylüyor? → **içerik analizi**\n- Hangi kanaldan? → **medya analizi**\n- Kime? → **izleyici analizi**\n- Ne etkiyle? → **etki analizi**\n\nDers kitaplarında bu liste çoğu zaman kutu ve oklarla çizilmiş bir “model” olarak görünür. Oysa yazının amacı, iletişimin bilimsel incelemesini düzenlemektir; bazı kuramcılar bu yüzden “model” yerine “formül” ya da “yapı” demeyi tercih eder [[cite:wikipedia-lasswell-model]] [[cite:sapienza-iyer-veenstra-2015]]. Lasswell’in kendi vurgusu da iletişim eylemini parçalara ayırmaktan çok, toplumsal sürecin bütünü içinde görmektir [[cite:iresearchnet-functionalism]]; sıradaki kart bunu gösteriyor.\n\nSon soruya da dikkat: “ne etkiyle?” bir *soru*. Etkinin büyük mü küçük mü, doğrudan mı dolaylı mı olduğu formülün içinde yazmıyor.",
+      "question": {
+        "id": "claim-lasswell-q", "type": "mcq",
+        "prompt": "Bir araştırmacı, bir haber sitesinin hangi ekonomik ve siyasal baskılar altında hangi haberleri öne çıkardığını inceliyor. Lasswell’in beş sorusundan hangisinin alanında çalışıyor?",
+        "options": ["Kim? (kontrol analizi)", "Ne söylüyor? (içerik analizi)", "Hangi kanaldan? (medya analizi)", "Ne etkiyle? (etki analizi)"],
+        "answer": 0,
+        "explain": "Haberleri kimin, hangi baskılar altında seçtiğini incelemek ‘kim’ sorusunun alanıdır: iletişimi başlatan ve yönlendiren kaynak, yani kontrol analizi. İkinci şık cazip, çünkü konu haberler; ama içerik analizi haberlerin *ne söylediğini* sayar ve çözümler, *neden* öne çıkarıldığını değil. Medya analizi kanalın kendisine, etki analizi de izleyicide bırakılan iz üzerine odaklanır."
+      }
+    },
+    {
+      "id": "claim-functions", "section": "claim", "layer": "core", "kind": "text",
+      "title": "Üç işlev: toplum kendine nasıl haber verir?",
+      "body": "Lasswell’in yazısında soru listesi kadar önemli bir fikir daha var: iletişimin toplum için ne işe yaradığı. Ona göre iletişim üç iş görür [[cite:lasswell-1948]] [[cite:iresearchnet-functionalism]] [[cite:yaylagul-2006]]:\n\n1. **Çevreyi gözetleme:** topluluğa ve parçalarına yönelen tehdit ve fırsatları haber vermek.\n2. **İlişkilendirme:** toplumun parçalarının çevreye tek bir yanıt vermesini eşgüdümlemek.\n3. **Aktarım:** toplumsal mirası bir kuşaktan ötekine geçirmek.\n\nHayal et: kıyıdaki bir kasabaya fırtına yaklaşıyor. Meteoroloji uyarısı ve iskeledeki dalga ölçümü gözetimdir. Belediyenin, balıkçıların ve okulun aynı önlem konusunda anlaşması, yerel gazetedeki “ne yapmalı?” tartışması ilişkilendirmedir. Büyüklerin çocuklara “geçen kış ne olmuştu” diye anlattığı hikâye aktarımdır.\n\nİşlev dili, beş sorudan farklı bir soru sorar: tek tek mesajların ne yaptığını değil, iletişimin bir *toplum* için ne yaptığını. Bu, işlevselci geleneğin dilidir: toplum, birbirine bağlı ve kendini düzenleyen bir sistem gibi düşünülür ve her parçanın bütüne katkısı sorulur [[cite:iresearchnet-functionalism]]. Kişi düzeyindeki “bu haberi neden izliyorum?” sorusu ise sonraki bir yaklaşımın, kullanımlar ve doyumların konusudur ([[lesson:uses-gratifications]]). İşlevlerin ayrıntısı [[lesson:functions-of-media]] dersinde.\n\nBir uyarı: Lasswell’in listesi üç maddedir. Dördüncü olarak eklenen “eğlence” ona ait değil; bunu derin kartta göreceğiz [[concept:communication-functions]].",
+      "question": {
+        "id": "claim-functions-q", "type": "mcq",
+        "prompt": "Bir gazetenin köşe yazısı, hükümetin yeni kararını toplumun farklı kesimlerinin bakışından tartışarak ortak bir yanıt arayışına katkı yapıyor. Bu, Lasswell’in hangi işlevine en yakındır?",
+        "options": ["Çevreyi gözetleme", "İlişkilendirme", "Toplumsal mirasın aktarımı", "Eğlence"],
+        "answer": 1,
+        "explain": "Kesimler arasında ortak bir yanıt arayışına katkı, ilişkilendirme işlevidir (Wright bunu ‘editoryal faaliyet’ diye anar). Birinci şık cazip, çünkü yazı da haberle ilgili; ama gözetim, tehdit ya da fırsatı *haber vermektir*, yanıtı eşgüdümlemek değil. Aktarım kuşaklar arası mirası geçirir; eğlence ise Lasswell’in listesinde hiç yoktur."
+      }
+    },
+    {
+      "id": "deep-functions", "section": "claim", "layer": "deep", "kind": "text",
+      "title": "Derin: “dördüncü işlev” nereden geldi?",
+      "body": "Birçok özet, Lasswell’in dört işlev saydığını yazar: gözetim, ilişkilendirme, aktarım ve eğlence. Bulduğum özetlerde bu yanlış atıf sık sık tekrarlanıyor. Kaynaklara bakınca tablo değişiyor.\n\nLasswell’in listesinde üç madde var [[cite:iresearchnet-functionalism]] [[cite:yaylagul-2006]]. Eğlence, Charles Wright’ın 1960 tarihli “Functional Analysis and Mass Communication” makalesiyle ilişkilendirilir: Wright, Merton’un işlevsel çözümlemesini kitle iletişimine uygulayan bir araştırma sorusu kurdu; soruda gözetim (haber), ilişkilendirme (editoryal faaliyet), kültürel aktarım ve eğlence, toplum, alt gruplar, birey ve kültürel sistemler için açık (*manifest*) ve örtük (*latent*) işlevler ile işlev bozukluklarıyla birlikte sayılır [[cite:wright-1960]] [[cite:iresearchnet-functionalism]]. Türkçe bir ders kitabı da üç işlevi saydıktan sonra eğlence ve pazardaki rollerin de “eklenebileceğini” söyler [[cite:yaylagul-2006]].\n\nBu, Lasswell için küçük ama önemli bir düzeltme. Aynı özet, Lasswell’in sistemi istikrarlı tutan işlevi vurguladığını da ekler [[cite:iresearchnet-functionalism]]. Wright’ın “işlev bozukluğu” fikri, tam bu istikrar vurgusunun üzerine kurulmuş bir soruyu mümkün kılar: iletişim hangi durumlarda sistemi *bozar*? Bu tartışma [[lesson:functions-of-media]] dersinde sürüyor."
+    },
+    {
+      "id": "claim-shannon", "section": "claim", "layer": "core", "kind": "text",
+      "title": "Shannon’ın şeması: bir noktadaki mesajı başka bir noktada yeniden üretmek",
+      "body": "Shannon makalesine, iletişimin “temel sorunu”nu şöyle koyarak başlar: bir noktada seçilmiş bir mesajı, başka bir noktada ya aynen ya da yaklaşık olarak yeniden üretmek [[cite:shannon-1948]].\n\nBunun için bir sistem çizer [[cite:shannon-1948]] [[concept:shannon-weaver-model]]:\n\n- **Bilgi kaynağı:** mesajı ya da mesaj dizisini üretir (telgrafta harf dizisi, telefonda zamana bağlı bir ses dalgası).\n- **Verici:** mesajı kanala uygun bir sinyale çevirir (telefonda ses basıncını elektrik akımına, telgrafta harfleri nokta ve çizgilere).\n- **Kanal:** sinyalin taşındığı ortam (bir çift tel, bir koaksiyel kablo, bir radyo frekansı bandı, bir ışık demeti).\n- **Alıcı:** vericinin tersini yapar, sinyalden mesajı geri kurar.\n- **Hedef:** mesajın gönderildiği kişi ya da şey.\n\nÇizimde bir de **gürültü kaynağı** var; sinyale kanalda karışır [[concept:noise]].\n\nWeaver aynı düzeneği insan konuşmasına uygulayarak anlatır: seninle konuşurken benim beynim bilgi kaynağı, ses mekanizmam verici, hava kanal, kulağın ve ona bağlı sinirin oluşturduğu düzenek alıcı, senin beynin hedeftir [[cite:shannon-weaver-1949]]. Yani kutular mühendislik dilinden ödünç alınmış olsa da insan iletişimine de uyarlanabilir gibi durur. Shannon’ın kendisi bu genişlemeye temkinle bakacak; bunu eleştiri bölümünde göreceğiz.",
+      "question": {
+        "id": "claim-shannon-q", "type": "mcq",
+        "prompt": "Weaver’ın konuşma örneğinde (“seninle konuşurken…”) ses mekanizması şemadaki hangi kutuya karşılık gelir?",
+        "options": ["Bilgi kaynağı", "Verici", "Kanal", "Alıcı"],
+        "answer": 1,
+        "explain": "Ses mekanizması, beynin seçtiği mesajı ses basıncı denen bir sinyale çevirir: verici. Beyin kaynak, hava kanal, kulak ve ona bağlı sinir alıcıdır. Üçüncü şık cazip, çünkü ‘ses’ havada yol alır; ama havayı taşıyan ortam kanaldır, sesi *üreten* düzenek değil."
+      }
+    },
+    {
+      "id": "concepts-bit", "section": "concepts", "layer": "core", "kind": "lab",
+      "title": "Laboratuvar: yirmi soru oyunuyla bit ölçmek",
+      "body": "Bir oyun oynayalım: aklından 1 ile 16 arasında bir sayı tut, ben evet/hayır sorularıyla bulayım.\n\nİlk soru: “8’den büyük mü?” Cevap ne olursa olsun seçenekler yarıya iner. Her soru seçenekleri yarıya indirdiği için 16 seçenek 4 soruda tek sayıya düşer (16, 8, 4, 2, 1).\n\nShannon’ın **bit**’i tam olarak bu: bir evet/hayır sorusunun cevabı kadar belirsizlik. Sözcüğü J. W. Tukey önermiş; *binary digit*, yani ikili basamağın kısaltması [[cite:shannon-1948]]. Weaver de 16 eşit seçenekli bir durumu 4 bit diye anlatır [[cite:shannon-weaver-1949]].\n\nDikkat: burada “bilgi”, cevabın anlamı değil, *seçenek sayısı ve olasılıkları*. Weaver’ın çarpıcı örneği: iki mesaj arasında seçim yapıyorsun; biri Kral James İncili’nin bütün metni, öteki yalnızca “Evet.” Bilgi, mesajın içeriğine değil seçim durumuna bağlı olduğu için bu durum, ikisi eşit olasılıklıysa, 1 bit sayılır [[cite:shannon-weaver-1949]].\n\nOlasılıklar eşit değilse ölçü düşer: bir mesaj neredeyse kesin seçiliyorsa belirsizlik de bilgi de azdır [[cite:shannon-weaver-1949]]. Yağmurun hiç yağmadığı bir çölde “bugün yağmur yok” haberi neredeyse hiç bilgi taşımaz; “bugün yağmur var” çok taşır. (Bu son örnek bizim; ilke Weaver’dan.) Formüller için derin karta bak [[concept:entropy]].",
+      "question": {
+        "id": "concepts-bit-q", "type": "mcq",
+        "prompt": "Bir arkadaşın 1 ile 16 arasında bir sayı tuttu; hepsi eşit olasılıklı. Evet/hayır sorularıyla en az kaç soruda bulmayı garanti edebilirsin?",
+        "options": ["2", "4", "8", "16"],
+        "answer": 1,
+        "explain": "16 = 2 üzeri 4; her soru seçenekleri yarıya indirir, dolayısıyla 4 soru yeter (4 bit). ‘8’ cazip, çünkü ilk sorudan sonra 8 seçenek kalır ve insan orada durur; ama oyun orada bitmez. ‘16’ ise sayıları tek tek sormak olurdu; iyi sorularla buna gerek yok."
+      }
+    },
+    {
+      "id": "deep-entropy", "section": "concepts", "layer": "deep", "kind": "text",
+      "title": "Derin: entropi formülü, İngilizcenin fazlalığı ve elle üretilmiş “İngilizce”",
+      "body": "**Formül.** Weaver, bağımsız olasılıkları p1, p2, … pn olan bir kaynak için bilginin H = −Σ pi log pi olduğunu yazar. İki mesaj varsa H en büyük değerini (1) iki mesaj eşit olasılıklıyken alır; biri neredeyse kesinleştikçe sıfıra yaklaşır [[cite:shannon-weaver-1949]]. Logaritmik ölçü fikri Hartley’den gelir [[cite:shannon-1948]].\n\n**Fazlalık.** Bir kaynağın gerçek entropisinin, aynı simgelerle olabilecek en yüksek entropiye oranı “göreli entropi”dir; bir eksiği “fazlalık”. Shannon, İngilizcenin fazlalığının kabaca yüzde 50 olduğunu yazar: yazdığımız harflerin yarısı serbest seçim, yarısı dilin yapısı. Bunu bulmak için birkaç yol denedi; biri, bir metnin harflerinin bir kısmını silip birine geri yazdırmaktı. Ayrıca bir ölçüt olarak çapraz bulmacayı kullanır: fazlalık çok düşük olsa her harf dizisi bir bulmaca olurdu, çok yüksek olsa büyük bulmacalar kurulamazdı [[cite:shannon-1948]].\n\n**Elle üretilmiş “İngilizce”.** Shannon, harf ve sözcük sıklıklarına göre “İngilizceye yaklaşan” diziler üretti: rastgele sayı tabloları ve rastgele açılan kitaplarla, elle. Sıfırıncı derecede *XFOML RXKHRJFFJUJ* gibi bir anlamsızlık çıkıyor; sözcük düzeyinde ise “attack on an English writer that the character of this” gibi sıradan görünen bir dizi [[cite:shannon-1948]]. Sonuç: yeterince karmaşık bir istatistik süreç, dile şaşırtıcı ölçüde benzeyebilir.\n\n**Tahmin oyunu.** 1951’de Shannon, bir sonraki harfi tahmin ettirme deneyleriyle bir dilin entropisini ve fazlalığını kestirmeye çalıştı [[cite:shannon-1951]]. (Bugünkü dil modellerinin de bir sonraki parçayı tahmin ettiğini hatırlatmak bizim yorumumuz; iki fikir akrabadır.)"
+    },
+    {
+      "id": "concepts-levels", "section": "concepts", "layer": "core", "kind": "text",
+      "title": "Weaver’ın üç düzeyi: teknik, anlamsal, etkililik",
+      "body": "Weaver, Shannon’ın matematiğini genel okura açarken önce bir harita çizer: iletişimde üç ayrı düzeyde sorun çıkabilir [[cite:shannon-weaver-1949]] [[concept:weaver-levels]].\n\n- **Düzey A, teknik sorun:** semboller ne kadar doğru iletilir?\n- **Düzey B, anlamsal sorun:** iletilen semboller istenen anlamı ne kadar isabetle taşır?\n- **Düzey C, etkililik sorunu:** alınan anlam davranışı istenen yönde ne kadar etkiler?\n\nHayal et: bir ilçede sel uyarısı SMS’i gönderiliyor. Telefonların bir kısmında mesaj bozuk karakterlerle geliyor: A düzeyi. Mesaj eksiksiz ulaşıyor ama “tahliye” sözcüğü bazılarına “hazır olun” gibi geliyor: B düzeyi. Herkes doğru anlıyor, ama kimse evinden çıkmıyor: C düzeyi.\n\nWeaver anlamsal sorunun ne kadar derin olabileceğini kendi örneğiyle gösterir: bir Rus izleyicinin ABD haber filmindeki görüntüden çıkardığı anlam. Etkililik düzeyini ise açıkça propaganda kuramına bağlar; ona göre iletişim ya davranışı etkiler ya da ayırt edilebilir bir etkisi yoktur [[cite:shannon-weaver-1949]]. Bu bakış, Lasswell’in “ne etkiyle?” sorusuna yakın duruyor (bu bizim yorumumuz).\n\nShannon’ın kuramı doğrudan yalnızca A düzeyine aittir. Weaver’ın iddiası ise A’daki sınırların B ve C için de geçerli olduğu, A düzeyi kuramının kayda değer ölçüde B ve C için de bir kuram sayılabileceğidir [[cite:shannon-weaver-1949]]. Bu iddia sonradan çok tartışıldı (derin kartlarda).",
+      "question": {
+        "id": "concepts-levels-q", "type": "mcq",
+        "prompt": "Bir kamu spotu ekrana eksiksiz geliyor, izleyiciler ne dendiğini doğru anlıyor, ama davranışlarında hiçbir değişiklik olmuyor. Weaver’ın hangi düzeyinde sorun vardır?",
+        "options": ["A düzeyi (teknik)", "B düzeyi (anlamsal)", "C düzeyi (etkililik)", "Hiçbirinde; çünkü mesaj doğru iletildi"],
+        "answer": 2,
+        "explain": "Semboller doğru iletilmiş (A tamam) ve anlam yerine ulaşmış (B tamam); ama alınan anlam davranışı istenen yönde etkilememiş: etkililik sorunu, C düzeyi. Son şık cazip, çünkü ‘doğru iletildi’ sözü A düzeyi için doğru; ama Weaver’ın haritasında başarı yalnızca aktarımla bitmez."
+      }
+    },
+    {
+      "id": "assumptions-shared", "section": "assumptions", "layer": "core", "kind": "text",
+      "title": "İkisinin de sessizce kabul ettikleri",
+      "body": "İki model farklı sorular sorar ama aynı evde otururlar. Sessiz varsayımları şunlar:\n\n- **Mesaj önceden vardır.** Kaynak mesajı seçer, sonra gönderir. Mesajın yolda ortak biçimde kurulduğu bir tablo yok.\n- **Akış tek yönlüdür.** Kutular sırayla dizilir, oklar ileri gider. Ana şemalarda geri bildirim yok.\n- **İletişim bir eylemdir.** Başı ve sonu olan bir olay: gönderildi, ulaştı, etkiledi.\n- **Etki amaçtır.** Weaver, iletişimin ya davranışı etkilediğini ya da ayırt edilebilir bir etkisi olmadığını söyler [[cite:shannon-weaver-1949]]; Lasswell’in formülü de son soruyu etkiye ayırır [[cite:lasswell-1948]].\n\nAma farklar da önemli:\n\n- Lasswell **toplum düzeyinde** düşünür: iletişim, toplumun çevresine uyumunu sağlayan işlevlerdir. Bu yaklaşım işlevselci gelenekle anılır ve sistemi istikrarlı tutan işlevi öne çıkarır [[cite:iresearchnet-functionalism]].\n- Shannon **istatistiksel** düşünür: bilgi, tek bir mesajın içeriği değil, olası mesajlar kümesi üzerinden tanımlanır. Weaver’ın deyişiyle bilgi, ne dediğinle çok, ne diyebileceğinle ilgilidir [[cite:shannon-weaver-1949]].\n\nİkisi de iletişimcinin ne yaptığını iyi tarif eder; alıcıyı ise çoğu zaman yalnızca ‘hedef’ ya da ‘izleyici’ olarak kutuda bırakır. Sonradan etkileşim modelleri (örneğin Schramm’ınki) çoğu amaç için bu doğrusal modellerin yerini aldı [[cite:wikipedia-tr-iletisim-modelleri]] ([[lesson:process-models]]) [[concept:linear-transmission-model]].",
+      "question": {
+        "id": "assumptions-shared-q", "type": "tf",
+        "prompt": "Doğru mu yanlış mı: Shannon’ın kuramında “bilgi”, tek bir mesajın içeriğinin ne kadar önemli ya da anlamlı olduğunun ölçüsüdür.",
+        "answer": false,
+        "explain": "Yanlış. Shannon–Weaver kuramında bilgi, bir mesajın anlamı değil, mesaj seçilirken sahip olunan özgürlüğün, yani olası mesajlar kümesinin ve olasılıklarının ölçüsüdür. İki mesaj, biri anlamla yüklü diğeri saçma olsa da, bilgi bakımından eşdeğer olabilir. ‘Bilgi = anlamlı içerik’ çağrışımı günlük dilden gelir ve kuramı yanlış okutur."
+      }
+    },
+    {
+      "id": "how-shannon", "section": "how-it-works", "layer": "core", "kind": "steps",
+      "title": "Bir telgrafın yolculuğu, adım adım",
+      "body": "Bir telgraf mesajını sisteme koyup adım adım izleyelim [[cite:shannon-1948]] [[cite:shannon-weaver-1949]]:\n\n1. **Kaynak seçer.** Kaynak, olası mesajlar kümesinden birini seçer: “GELİYORUM”.\n2. **Verici kodlar.** Harfler nokta, çizgi ve boşluklardan oluşan bir işaret dizisine çevrilir. Bu işleme kodlama denir.\n3. **Kanal taşır.** İşaret dizisi tel üzerinde ilerler.\n4. **Gürültü karışır.** Hat, kaynağın istemediği bir şeyler ekler: parazit, hatalı bir çizgi.\n5. **Alıcı çözer.** Alıcı vericinin tersini yapar, işaretleri yeniden harfe çevirir.\n6. **Hedef okur.** Mesaj, gönderilenle aynı ya da ona yakın biçimde varış noktasına ulaşır.\n\nAsıl şaşırtıcı sonuç yedinci adımın gizli hâlinde: Shannon, kanalın bir **kapasitesi** olduğunu; kaynağın ürettiği bilgi hızı bu kapasiteyi aşmadıkça uygun kodlarla hatanın istenildiği kadar küçültülebileceğini; kapasite aşılırsa hangi kod olursa olsun hatanın belli bir alt sınırın altına inmeyeceğini gösterdi [[cite:shannon-weaver-1949]]. Yani gürültü iletişimi imkânsız kılmaz; iletilebilecek miktarı sınırlar.\n\nBir de not: Shannon bu sonucun bir tür *varlık kanıtı* olduğunu, iyi kodları elle tutulur biçimde kurmanın ayrı bir iş olduğunu makalesinin tartışma bölümünde kendisi yazar [[cite:shannon-1948]].",
+      "question": {
+        "id": "how-shannon-q", "type": "order",
+        "prompt": "Bir mesajın Shannon şemasındaki yolculuğunu doğru sıraya diz.",
+        "items": [
+          "Kaynak, olası mesajlar kümesinden birini seçer",
+          "Verici mesajı sinyale çevirir (kodlar)",
+          "Sinyal kanalda ilerlerken gürültü karışır",
+          "Alıcı sinyali yeniden mesaja çevirir (çözer)",
+          "Mesaj hedefe ulaşır"
+        ],
+        "explain": "Sıra şemanın kutularını izler: kaynak seçer, verici kodlar, kanal taşır ve gürültü karışır, alıcı çözer, hedef alır. Gürültüyü alıcıdan sonra koymak sık yapılan bir yanlıştır: gürültü sinyale *kanalda*, alıcıya varmadan önce eklenir."
+      }
+    },
+    {
+      "id": "how-lab", "section": "how-it-works", "layer": "core", "kind": "lab",
+      "title": "Laboratuvar: bir telgrafı iki cetvelle ölçmek",
+      "body": "Şimdi iki modeli aynı belgeli olaya uygulayalım. Önce kendin dene, sonra karşılaştır.\n\n**Olay.** 1917’nin başında Almanya Dışişleri Bakanı Arthur Zimmermann, Meksika’daki Alman temsilcisine şifreli bir telgraf gönderdi: ABD savaşa girerse Meksika’ya ittifak öneriliyordu [[cite:nara-zimmermann]] [[cite:ww1museum-zimmermann]]. İngiliz istihbaratı mesajı çözdü, 24 Şubat’ta ABD hükümetine sundu; Amerikan basını 1 Mart’ta yayımladı, ABD 6 Nisan 1917’de savaş ilan etti [[cite:nara-zimmermann]] [[cite:loc-zimmermann]].\n\n**Görev 1: Lasswell.** *Kim:* Zimmermann. *Ne:* şifreli bir ittifak önerisi. *Kanal:* telgraf hatları; İngiltere 1914’te Almanya’nın kablolarını kesmişti, Almanya tarafsız ülkelerden ödünç hatlar kullandı ve İngilizler bu hatları dinledi [[cite:ww1museum-zimmermann]]. *Kime:* hedeflenen Meksika hükümetiydi; fiilen Amerikan kamuoyuna ulaştı. *Etki:* amaç ABD’yi güney sınırında oyalamaktı; sonuç, Amerikan öfkesinin büyümesi oldu [[cite:ww1museum-zimmermann]].\n\n**Görev 2: Shannon.** Kaynak: mesajı seçen Zimmermann. Verici: mesajı şifreleyip hatta veren işlem. Kanal: hat. Alıcı: karşı uçtaki çözme. Hedef: Meksika hükümeti. Gürültü? Okuduğum kaynaklarda hat bozulmasına dair bir ayrıntı yok; bilmediğini söylemek de bir bulgudur.\n\n**Görev 3: Boşluk.** Hattı dinleyip şifreyi çözen İngilizleri hangi kutuya koyacaksın? Ne gürültü ne alıcı: iki şemada da onlara kutu yok, ama olayın seyrini onlar değiştirdi.",
+      "question": {
+        "id": "how-lab-q", "type": "mcq",
+        "prompt": "Zimmermann telgrafı olayında, iki şemada da kutusu bulunmayan ama olayın seyrini değiştiren unsur hangisidir?",
+        "options": [
+          "Telgrafı gönderen dışişleri bakanı",
+          "Telgrafın geçtiği hat",
+          "Hattı dinleyip şifreyi çözen üçüncü taraf",
+          "Meksika’daki alıcı"
+        ],
+        "answer": 2,
+        "explain": "Bakan Shannon’ın kaynağı ve Lasswell’in ‘kim’i, hat kanal, Meksika’daki alıcı ise alıcı ve hedeftir; hepsinin kutusu var. Dinleyen üçüncü taraf gürültü değildir (gürültü sinyale eklenen istenmeyen bozulmadır; dinleyen sinyale bir şey eklemez, onu okur) ve alıcı da değildir; olayın seyrini belirlemesine rağmen iki şemada da kutusu yoktur."
+      }
+    },
+    {
+      "id": "evidence-fields", "section": "evidence", "layer": "core", "kind": "text",
+      "title": "Beş soru, beş dosya çekmecesi",
+      "body": "Bir formülün ‘kanıtı’ doğru çıkması değil, işe yaramasıdır. Lasswell’in soruları araştırmayı sınıflamakta işe yaradı: pek çok çalışmayı beş çekmeceden birine koyabiliyorsun [[cite:yaylagul-2006]] [[cite:wikipedia-lasswell-model]].\n\n- **Kontrol analizi:** Kim? Gazetenin sahibi kim, editör ne tür baskılar altında?\n- **İçerik analizi:** Ne söyleniyor? Hangi tema kaç kez geçiyor?\n- **Medya analizi:** Kanalın kendisi neyi değiştiriyor?\n- **İzleyici analizi:** Kime ulaşıyor, kimler izliyor?\n- **Etki analizi:** İzleyen ne düşünüyor, ne yapıyor?\n\nLasswell’in kendi 1927 kitabına bu gözle bakınca ilginç bir düzen görürsün: bir bölüm propaganda örgütlenmesine, bir dizi bölüm propagandanın işlediği temalara (savaş sorumluluğu, düşmanı şeytanlaştırma, zafer yanılsaması…), son bölüm de “Propagandanın Sonuçları”na ayrılmıştır [[cite:lasswell-1927]]. Bu bizim okumamızdır; Lasswell bölümleri beş sorunun karşılığı diye anmaz.\n\nFormülün izini sonraki çalışmalarda da görürsün: Braddock 1958’de iki soru ekledi (hangi koşullarda, hangi amaçla) [[cite:braddock-1958]]; Wright üç işlevi 1960’ta işlevsel çözümlemeye dönüştürdü [[cite:wright-1960]]. Shannon–Weaver şeması ise Türkçe bir ders kitabında ana akım kitle iletişimi anlayışının temeli ve gürültü fikrini sürece sokan model olarak anılır [[cite:yaylagul-2006]]; devamı [[lesson:process-models]] dersinde.",
+      "question": {
+        "id": "evidence-fields-q", "type": "mcq",
+        "prompt": "Bir araştırmacı, üç gazetenin birinci sayfalarında hangi konuların kaç kez geçtiğini sayıyor. Lasswell’in beş alanından hangisinde çalışıyor?",
+        "options": ["Kontrol analizi", "İçerik analizi", "Medya analizi", "Etki analizi"],
+        "answer": 1,
+        "explain": "Sayılan şey ‘ne söyleniyor’ olduğu için içerik analizi. Üçüncü şık cazip, çünkü gazeteler bir kanal; ama medya analizi kanalın *kendine özgü özelliklerini* inceler (gazete mi radyo mu), o kanaldan geçen içeriği saymak değil. Kontrol analizi içeriğin arkasındaki kaynağa, etki analizi ise okurdaki izlere bakar."
+      }
+    },
+    {
+      "id": "evidence-shannon", "section": "evidence", "layer": "core", "kind": "story",
+      "title": "Söz verdi, kırk beş yıl sonra tutuldu",
+      "body": "1948’de Shannon bir söz verdi: gürültülü bir kanal bile, bilgi hızı kapasitenin altında kaldıkça, istediğin kadar az hatayla kullanılabilir [[cite:shannon-weaver-1949]]. Sözün bir kusuru vardı: nasıl yapılacağını göstermiyordu. Makalenin tartışma bölümünde kendisi de, bazı basit durumlar dışında, ideale yaklaşan bir kod dizisinin açıkça tarif edilemediğini yazar [[cite:shannon-1948]].\n\nLimite yaklaşan pratik kodlar zamanla geliştirildi. 1993’te Berrou, Glavieux ve Thitimajshima “turbo kodlar” adlı yeni bir kod sınıfını sundu; bit hata oranı bakımından performansı Shannon sınırına yakındı [[cite:berrou-et-al-1993]]. Teorik vaat ile pratik yapı arasında yaklaşık kırk beş yıl vardı.\n\nKuramın asıl kanıtı budur: mühendislikte işe yarıyor. Shannon’ın ölüm haberi, bugün bütün iletişim hatlarının saniyede bit olarak ölçüldüğünü ve bunu kesinleştirenin onun kanal kapasitesi kavramı olduğunu söyler [[cite:mit-news-shannon-2001]]. Ama bu, “kuram insan iletişimini de açıklar” demek değil. Shannon 1956’da açıkça uyardı: insanın bazı durumlarda ideal bir çözücü gibi davranması matematiksel değil deneysel bir olgudur ve deneylerle sınanmalıdır [[cite:shannon-1956]].\n\nKısacası: kanıt bir yerde çok güçlü (hatlar ve kodlar), başka yerde henüz sorulmamış bir soru (insan ve anlam).",
+      "question": {
+        "id": "evidence-shannon-q", "type": "mcq",
+        "prompt": "Shannon’ın kanal kapasitesi sonucu için aşağıdakilerden hangisi doğrudur?",
+        "options": [
+          "Gürültüyü tamamen ortadan kaldıran bir kod kurduğunu gösterir.",
+          "Kapasitenin altında hatanın istenildiği kadar küçültülebileceğini söyler; ama iyi kodların nasıl kurulacağını göstermez.",
+          "Yalnızca telefon hatları için geçerlidir ve insan iletişimini de kanıtlar.",
+          "Kanal kapasitesinin bir anlam ölçüsü olduğunu kanıtlar."
+        ],
+        "answer": 1,
+        "explain": "İkinci şık doğru: sonuç bir sınır ve bir olabilirlik iddiasıdır; iyi kodları kurmak ayrı bir iştir (turbo kodlar kırk beş yıl sonra geldi). İlk şık gürültünün yok edilebileceğini sanmaktan doğar; oysa gürültü kapasiteyi sınırlar. Üçüncü ve dördüncü şık kuramı anlama ve insana taşır; Shannon 1956’da tam da bunu deneysel bir soru olarak bıraktı."
+      }
+    },
+    {
+      "id": "crit-linear", "section": "critique", "layer": "core", "kind": "text",
+      "title": "Doğrusal model itirazı: kim neyi, hangi gerekçeyle söyledi?",
+      "body": "Lasswell ve Shannon–Weaver, ders kitaplarında çoğu zaman aynı torbaya konur: “doğrusal, tek yönlü modeller”. Türkçe yazından bir örnekte Lasswell modeli için “hedef kitleyi pasif” gören ve propaganda analizine uygun bir model dendiği, Shannon–Weaver için ise insanın duygusal durumunun tamamen göz ardı edildiği yazılır [[cite:iplikci-2015]]. İtirazlar genelde şunlar [[concept:linear-transmission-model]]:\n\n- **Geri bildirim yok:** alıcı yalnızca alıyor, yanıt vermiyor.\n- **Alıcı pasif:** izleyici kutunun sonunda bekliyor.\n- **Anlam ve bağlam dışarıda:** özellikle Shannon–Weaver için, ama Lasswell’in soru listesi de bağlamı anmaz; Braddock’un 1958’de formüle eklediği “hangi koşullarda?” sorusu ise bağlamı öne çıkarır [[cite:wikipedia-lasswell-model]].\n- **İletişim = aktarım:** James Carey bu görüşe “aktarım görüşü” adını verip, iletişimi bir ortak dünyayı paylaşmak ve sürdürmek olarak gören “ritüel görüşü”yle karşılaştırdı [[cite:carey-1989]] ([[lesson:ritual-view]]).\n\nSavunanlar ne diyor? Bazı yazarlara göre bu itirazların çoğu, formülün sonradan çizilmiş kutulu ve oklu sunumlarına yöneliktir; McQuail ve Windahl’ın 1993’te belirttiği gibi, kutular ve oklar çizilene kadar elde bir formül vardır [[cite:wikipedia-lasswell-model]]. Sapienza ve arkadaşları da bütün yanlış okumalara rağmen modelin bugün de ilgili ve yararlı olduğu sonucuna varır [[cite:sapienza-iyer-veenstra-2015]]. Shannon–Weaver tarafında ise Weaver’ın kendisi şemaya anlam kutuları eklemeyi önermişti (derin kart).",
+      "question": {
+        "id": "crit-linear-q", "type": "mcq",
+        "prompt": "Bir ders notunda “Lasswell modeli geri bildirimi yok saydığı için yetersizdir” yazıyor. Aşağıdakilerden hangisi bu cümleye en dengeli yanıttır?",
+        "options": [
+          "Doğru; Lasswell geri bildirimi bilerek yasaklamıştı.",
+          "Yanlış; formülün içinde geri bildirim açıkça tanımlıdır.",
+          "Kısmen: formül geri bildirimi anmaz, ama bazı yazarlara göre bu itiraz daha çok formülün sonradan çizilen kutu-ok sunumlarına yöneliktir; soru listesi geri bildirimi dışlamaz.",
+          "Bu itiraz yalnızca Shannon–Weaver için geçerlidir, Lasswell için hiçbir anlamı yoktur."
+        ],
+        "answer": 2,
+        "explain": "Üçüncü şık hem itirazın haklı yanını (formül geri bildirimden söz etmez) hem savunanların gerekçesini (kutu-ok sunumları, soru listesinin kendisi değil) taşır. Birinci şık Lasswell’e olmayan bir yasağı yükler; ikinci şık formüle olmayan bir öğe atfeder; dördüncü şık ise itirazı gereğinden fazla daraltır, çünkü geri bildirim eleştirisi Lasswell’in formülü için de yapılır."
+      }
+    },
+    {
+      "id": "crit-caution", "section": "critique", "layer": "core", "kind": "story",
+      "title": "Shannon’ın kendi freni: 1956 başyazısı",
+      "body": "Bir kuram popülerleşince ilk uyaran kimi zaman kurucusu olur. Shannon’ın 1956’da bir mühendislik dergisinin bir sayfalık başyazısında yaptığı tam olarak buydu. Bilgi kuramı, diye yazdı, “something of a scientific bandwagon” hâline gelmişti; biyolojiden psikolojiye, dilbilimden ekonomiye herkes “bilgi”, “entropi”, “fazlalık” gibi sözcükleri kendi alanına taşıyordu [[cite:shannon-1956]].\n\nUyarısı birkaç noktada toplanır [[cite:shannon-1956]]:\n\n- Kuramın temel sonuçları çok özel bir yöne doğrultulmuştur; psikoloji, ekonomi ve öteki sosyal bilimlerle ilgili olmak zorunda değildir. Çekirdeği matematiktir.\n- Başka alanlara uygulamak “not a trivial matter of translating words to a new domain”: yavaş ve sıkıcı bir hipotez ve deney sürecidir.\n- Kendi evini düzenli tut: yayınlarda titizlik, gösterişten önce araştırma.\n\nYedi yıl önce Weaver’ın yazısı daha umutluydu: A düzeyindeki kuramın B ve C düzeyleri için de anlamlı olabileceğini savunmuştu [[cite:shannon-weaver-1949]]. Bir profilde ise Shannon’ın, kuramının anlam sorusunu ele alamayacağını ve buna göre tasarlanmadığını vurguladığı aktarılır [[cite:horgan-2016-shannon]].\n\nYani ders kitaplarında tek bir kutuya konan “Shannon–Weaver” yaklaşımının içinde bile iki ton var: mühendisin temkini ve yorumcunun umudu.",
+      "question": {
+        "id": "crit-caution-q", "type": "mcq",
+        "prompt": "Bir öğrenci ödevinde “Shannon, insan beyninin ideal bir alıcı gibi çalıştığını kanıtladı” yazmış. Shannon’ın 1956 başyazısına göre en isabetli düzeltme hangisi?",
+        "options": [
+          "Doğru; kuram matematik olduğu için insana da kesin olarak uygulanır.",
+          "İnsanın bazı durumlarda ideal çözücü gibi davranması matematiksel değil deneysel bir olgudur; deneylerle sınanmalıdır.",
+          "Shannon insanın hiçbir zaman ideal alıcı gibi davranamayacağını kanıtladı.",
+          "Bu cümle yalnızca Weaver için kurulabilir, Shannon için değil."
+        ],
+        "answer": 1,
+        "explain": "Shannon başyazısında tam bunu söyler: insanın ideal bir çözücü gibi davranması deneysel bir olgudur. Birinci şık ‘matematik = kesin uygulanır’ kolaylığına düşer; Shannon matematiğin çekirdeğini başka alanlara çevirmenin çeviri kadar kolay olmadığını söyler. Üçüncü şık da kanıtsız bir kesinlik atfeder: ne kanıtlandı ne çürütüldü, sorulacak bir soru olarak bırakıldı."
+      }
+    },
+    {
+      "id": "deep-semantic", "section": "critique", "layer": "deep", "kind": "text",
+      "title": "Derin: anlam kutuları ekleyenler",
+      "body": "Weaver şemayı yalnızca savunmadı, genişletmeyi de önerdi. B ve C düzeylerine geçilince iki kutunun eklenebileceğini yazdı [[cite:shannon-weaver-1949]]:\n\n- **Anlamsal alıcı:** mühendislik alıcısıyla hedef arasına girer; mesajı ikinci kez çözer ve mesajın anlamsal özelliklerini, hedef kitlenin anlamsal kapasitesine uydurur.\n- **Anlamsal gürültü:** kaynak ile verici arasına girer; kaynağın istemediği ama alıcının yorumunu yine de etkileyen anlam bozulmalarını taşır. Eski “gürültü” kutusu da “mühendislik gürültüsü” adını alır.\n\nWeaver bunların büyük bir yeniden yazım değil, küçük eklemeler olacağını umuyordu. Ayrıca kanalın olduğu gibi *izleyicinin de* bir kapasitesi olabileceğini, izleyiciyi aşırı yüklemenin kargaşa ve hata getireceğini yazdı [[cite:shannon-weaver-1949]].\n\nAnlam sorusu başka yollarla da soruldu. Bar-Hillel ve Carnap 1950’lerin başında, bir cümlenin taşıdığı anlamsal bilgiyi hesaplamak için ayrı bir nicel kuram önerdi. Bir felsefe ansiklopedisi maddesi bunu, anlamsal bilgi kavramlarının ilk ayrıntılı kuramı olarak anar; ilgili dil, tek yüklemli bir mantık dilidir, yani gündelik konuşma değil [[cite:bar-hillel-carnap-1953]] [[cite:sequoiah-grayson-floridi-2022]]. Yani anlam kutusu eklemek iki yönde ilerledi: iletişim modellerine yeni kutular, mantığa yeni ölçüler. İkisi de insan iletişimini kuşatmadı."
+    },
+    {
+      "id": "crit-needle", "section": "critique", "layer": "core", "kind": "myth",
+      "title": "Lasswell bir “şırınga” kuramcısı mıydı?",
+      "body": "**Sanılan.** Lasswell, medyayı izleyiciye doğrudan ve anında etki eden bir şırınga (ya da sihirli mermi) gibi gören ilk kuramcıdır. Türkçe ders kitaplarından birinde de onun propaganda çalışmalarına dayanılarak “gümüş kurşun” ve hipodermik iğne gibi kuramların geliştirildiği yazılır [[cite:yaylagul-2006]].\n\n**Kanıtın söylediği.** İşin iki yanı var.\n\nBir yanda Lasswell propagandanın gücünü küçümsemez: 1927 kitabında onu modern dünyanın en güçlü araçlarından biri sayar [[cite:lasswell-1927]].\n\nÖte yanda aynı kitabın “sonuçlar” bölümü etkiyi kesin bir olgu gibi değil, tartışmalı bir konu gibi ele alır: propagandanın kesin etkisinin büyük ölçüde bir tahmin meselesi olduğunu, yenilen ülkelerin propagandanın etkisini abarttığını, etkisini onunla iç içe geçmiş öteki denetim araçlarından ayırmanın zor olduğunu ve propagandanın çatışan cephelerin her iki tarafında da bulunduğunu yazar [[cite:lasswell-1927]]. 1948 formülü de etkiyi bir cevap olarak değil, bir *soru* olarak koyar [[cite:lasswell-1948]].\n\nTarih yazımı da hikâyeyi sorgular. Sproule’a göre iki savaş arası propaganda eleştirmenlerini “sihirli mermi” kuramcıları diye anlatan standart hikâye, 1940’tan sonra ortaya çıkan bir mittir [[cite:sproule-1989]]. Şırınga modelinin kendisi için [[lesson:magic-bullet]] dersine bak.\n\nKısacası: Lasswell güçlü etki olasılığını ciddiye alan biriydi; ama sonradan ona yüklenen “şırınga kuramı” kesinliği, metinlerinde yok.",
+      "question": {
+        "id": "crit-needle-q", "type": "tf",
+        "prompt": "Doğru mu yanlış mı: Lasswell’in 1927 tarihli propaganda kitabında, propagandanın etkisinin kesin ölçülemediğine ve yenilenlerce abartılabildiğine dair uyarılar da yer alır.",
+        "answer": true,
+        "explain": "Doğru. Kitabın ‘sonuçlar’ bölümü, propagandanın kesin etkisinin büyük ölçüde tahmin meselesi olduğunu ve yenilen ülkelerin propagandanın etkisini abarttığını söyler; aynı bölüm propagandayı güçlü bir araç saymayı da sürdürür. ‘Lasswell = sınırsız etki’ çağrışımı, kitabın ikinci yarısını okumadan kurulur."
+      }
+    },
+    {
+      "id": "deep-needle", "section": "critique", "layer": "deep", "kind": "text",
+      "title": "Derin: “hipodermik” etiketinin tarihi ve Lasswell’in kendi enjeksiyon cümlesi",
+      "body": "Dürüst olmak gerekirse, Lasswell’in metninde enjeksiyon imgesi tamamen yok değil. 1927 kitabında Wilson’ın retoriğinden söz ederken “ince bir zehir”i anar ve bunun çalışkan insanlarca bir halkın damarlarına enjekte edildiğini yazar [[cite:lasswell-1927]]. Ama bu, tek bir propaganda kampanyasını anlatan edebî bir cümledir; izleyici kuramı değil. Kitabın sonuç bölümü ise etkinin ölçülemezliğini vurgular (yukarıdaki kart).\n\nEtiketin tarihi hakkında iki uyarı yapan iki çalışma var. Bineham (1988), hipodermik modelin farklı anlatımlarının, alanın tarihine ilişkin farklı anlayışlarla ve farklı kuramsal, yöntemsel bağlılıklarla ilişkili olduğunu savunur [[cite:bineham-1988]]. Sproule (1989) ise standart hikâyenin, iki savaş arası propaganda eleştirmenlerinin amacını gözden kaçırdığını yazar: onlar, güçlü kurumların iletişim kanallarını ele geçirmesine karşı, yeterince yetkin bir halka yardım etmek istiyordu [[cite:sproule-1989]].\n\nSapienza, Iyer ve Veenstra (2015) ise Lasswell modelinin 75 yıllık anılış tarihini tarar ve “geriye doğru okumanın” üç yanılgısını tartışır; sonuçta modelin bugün de yararlı olduğunu savunur [[cite:sapienza-iyer-veenstra-2015]]. Makalenin tamamını okuyamadım; burada yalnızca özetine dayanıyorum.\n\nBu derste “hipodermik iğne” etiketinin kesin kökenine dair bir iddiada bulunmuyorum. Konu [[lesson:magic-bullet]] dersinde ayrıca ele alınacak. Buradan alınacak ders yöntemsel: bir kuramcının ne söylediği ile ona sonradan ne söylettirildiği ayrı sorulardır."
+    },
+    {
+      "id": "today-digital", "section": "today", "layer": "core", "kind": "text",
+      "title": "Bugün: cebindeki Shannon, bildirimlerindeki Lasswell",
+      "body": "Shannon her cebinde. Bir QR kodun köşesi lekelenmiş ve telefon yine de okuyor: bunun sebebi bilerek eklenmiş fazlalık. QR kod, veriye bir Reed–Solomon kodu ekleyerek hata düzeltir; Denso Wave’in sayfası dört düzey sunar: kod sözcüklerinin yaklaşık yüzde 7, 15, 25 ve 30’una kadar olan kısmı onarılabilir [[cite:denso-wave-qr]]. Shannon’ın 1948’deki fikri (kodda bırakılan fazlalık gürültüye karşı korur) kâğıt üzerindeki bir kareye dönüşmüş durumda [[cite:shannon-1948]]. Bir tez de CD’lerden cep telefonlarına, modemlerden MP3’e kadar pek çok teknolojinin Shannon’ın fikirlerini taşıdığını sayar [[cite:guizzo-2003]].\n\nLasswell’in beş sorusu da dijital dünyada kaybolmadı, yalnızca karıştı. Aşağıdakiler kaynaklarda belgelenmiş bulgular değil, bizim akıl yürütmemiz: bir viral paylaşımda ‘kim?’ sorusu hesap mı, bot mu, marka mı diye çoğalıyor; ‘hangi kanaldan?’ sorusu bir algoritmanın sıralamasıyla iç içe geçtiği için ‘kime?’ sorusunu da belirliyor; ‘ne etkiyle?’ ise ölçmesi en zor soru olarak kalıyor. Formül hâlâ bir kontrol listesi olarak işe yarar, ama cevaplar tek kutuya sığmıyor.\n\nKüçük bir deney: telefonundaki son üç bildirime beş soruyu sor. ‘Kim?’ sorusunun cevabını bulmak ne kadar sürdü? Bir bildirimin kanalı, hangi bildirimin sana ulaşacağını da belirliyorsa, kanalı ‘yalnızca taşıyıcı’ saymak yeterli mi?",
+      "question": {
+        "id": "today-digital-q", "type": "mcq",
+        "prompt": "Bir QR kodun köşesi lekelenmiş ve kod yine de okunuyor. Shannon’ın diliyle bunu mümkün kılan şey nedir?",
+        "options": [
+          "Telefonun kodun anlamını tahmin etmesi",
+          "Bilerek eklenmiş fazlalık (hata düzelten kod)",
+          "Lekenin aslında gürültü sayılmaması",
+          "QR kodun kanal kapasitesinin sonsuz olması"
+        ],
+        "answer": 1,
+        "explain": "QR kod, veriye bilerek fazlalık ekleyen bir hata düzeltici kod kullanır; leke kodun bir kısmını bozsa da fazlalık sayesinde özgün veri geri kurulur. Birinci şık cazip, çünkü ‘telefon anlıyor’ gibi görünür; ama sistem anlamı değil, bit örüntüsünü onarır. Üçüncü şık gürültünün tanımını tersine çevirir (leke kaynağın istemediği bir bozulmadır); dördüncü şık ise kapasitenin sonsuz olduğunu varsayar, oysa her kanalın bir kapasitesi vardır."
+      }
+    },
+    {
+      "id": "exam-patterns", "section": "exam", "layer": "core", "kind": "text",
+      "title": "Sınavda böyle sorulur",
+      "body": "**Sık çıkan kalıplar**\n\n- “‘Kim, ne söylüyor, hangi kanaldan, kime, ne etkiyle?’ formülü kime aittir?” → Harold Lasswell (1948).\n- “Kaynak, verici, kanal, alıcı, hedef ve gürültü hangi modelin öğeleridir?” → Shannon ve Weaver.\n- Eşleştirme: Lasswell → beş soru ve üç işlev; Shannon–Weaver → bit, entropi, gürültü; Weaver → üç düzey.\n- “Lasswell’in üç işlevini say.” → gözetim, ilişkilendirme, aktarım.\n\n**Cazip yanlışlar**\n\n- “Lasswell şırınga modelinin kuramcısıdır” → sonradan yüklenen bir etiket; kaynaklarda daha karmaşık.\n- “Eğlence Lasswell’in dördüncü işlevidir” → hayır; sonradan eklenir, genellikle Wright’a atfedilir.\n- “Weaver Bell Laboratuvarları’nda çalışıyordu” → hayır; Rockefeller Vakfı.\n- “Shannon–Weaver modeli anlamı ölçer” → hayır; anlamı mühendislik sorununun dışında tutar, Weaver anlamı B düzeyine koyar.\n- Yıllar: Lasswell 1948; Shannon’ın makalesi 1948 (temmuz–ekim); Shannon–Weaver kitabı 1949. Kaynaklar modelin yılını 1948 ya da 1949 diye yazabilir; ikisi de bir gerçeğe dayanır [[cite:yaylagul-2006]] [[cite:wikipedia-tr-iletisim-modelleri]].\n\n**Türkçede alternatif adlar**\n\n- Lasswell modeli, Lasswell formülü, Lasswell’in genel iletişim modeli; yazımda “Laswell” ve “Lasswel” de görülür [[cite:yaylagul-2006]] [[cite:iplikci-2015]].\n- Shannon–Weaver: Enformasyon Kuramı, Matematiksel İletişim Modeli/Kuramı, bilgi kuramı [[cite:yaylagul-2006]] [[cite:iplikci-2015]].\n- Parçalar: bilgi (enformasyon) kaynağı, verici, kanal, alıcı, hedef, gürültü (kaynağı); fazlalık (*redundancy*), entropi (bazı kitaplarda “enformasyonda eksiklik”) [[cite:yaylagul-2006]].\n- Beş analiz: kontrol (kaynak), içerik, medya (kanal), izleyici ve etki analizi.",
+      "question": {
+        "id": "exam-patterns-q", "type": "mcq",
+        "prompt": "Bir sınav sorusu soruyor: “Aşağıdakilerden hangisi Lasswell’in özgün üç işlevinden biri değildir?” Doğru cevap hangisidir?",
+        "options": [
+          "Çevreyi gözetleme",
+          "Toplumun parçalarını çevreye yanıtta ilişkilendirme",
+          "Toplumsal mirasın aktarımı",
+          "Eğlence"
+        ],
+        "answer": 3,
+        "explain": "Eğlence, listeye sonradan eklenen bir maddedir ve genellikle Wright’a atfedilir; Lasswell’in özgün listesi üç maddedir: gözetim, ilişkilendirme, aktarım. Bu soru ‘dördüncü işlev’ tuzağını sınar: dört maddelik listeyi ezberleyen öğrenci ilk üç şıkkı bilse de son şıkkı ‘değildir’ diye işaretlemekte tereddüt eder."
+      }
+    },
+    {
+      "id": "summary", "section": "summary", "layer": "core", "kind": "summary",
+      "title": "Özet kartı",
+      "body": "- **1948:** Lasswell’in beş sorusu (kitapta) ve Shannon’ın makalesi (temmuz–ekim) ayrı dünyalardan, ters bir iş bölümüyle çıkar: biri içerik ve etkiyi sorar, öteki anlamı mühendislik sorunu dışında bırakır.\n- **Lasswell:** kim, ne söylüyor, hangi kanaldan, kime, ne etkiyle; beş araştırma alanı (kontrol, içerik, medya, izleyici, etki analizi). Üç toplumsal işlev: gözetim, ilişkilendirme, aktarım. Eğlence sonradan eklenir.\n- **Shannon–Weaver:** kaynak, verici, kanal, alıcı, hedef ve gürültü; bit, entropi, fazlalık; kanal kapasitesi altında hata istenildiği kadar küçülür.\n- **Weaver:** teknik (A), anlamsal (B), etkililik (C) düzeyleri; anlamsal alıcı ve gürültü önerisi. Weaver Shannon’ın iş arkadaşı değil, yorumcusudur.\n- **Şırınga yanılgısı:** Lasswell propagandayı güçlü sayar ama kesin etkisinin tahmin işi olduğunu da yazar; etiket sonradan yüklenmiştir.\n- **Eleştiri:** doğrusal, tek yönlü, geri bildirimsiz, anlamsız; Carey’nin aktarım/ritüel ayrımı. Shannon 1956’da kendi kuramının aşırı yayılmasına karşı uyardı.\n- **Bugün:** QR kodlardan modemlere hata düzeltme; Lasswell’in soruları kontrol listesi olarak hâlâ işe yarar ama kutulara sığmaz.\n- **Sınav:** üç işlev (dördüncü değil), 1948/1949 yılları, Türkçe alternatif adlar.",
+      "question": {
+        "id": "summary-q", "type": "tf",
+        "prompt": "Doğru mu yanlış mı: Shannon’ın kuramı, bir mesajın anlamının alıcı tarafından ne kadar isabetle anlaşıldığını ölçer.",
+        "answer": false,
+        "explain": "Yanlış. Shannon’ın kuramı mesajın doğru taşınmasını ve olası mesajlar arasındaki seçimi ölçer; anlam mühendislik sorunu dışında tutulur. Anlamın isabetle anlaşılması Weaver’ın B (anlamsal) düzeyine aittir ve Shannon’ın matematiği doğrudan bu düzeyi ele almaz."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1", "type": "mcq",
+      "prompt": "Shannon’ın 1948 makalesinin girişindeki hangi tutum, onu Lasswell’in formülünden en açık biçimde ayırır?",
+      "options": [
+        "Mesajın anlamsal yönünü mühendislik sorunu için ilgisiz saymak",
+        "Etkiyi tek soru olarak koymak",
+        "İletişimi yalnızca toplum düzeyinde ele almak",
+        "Kanalı hiç anmamak"
+      ],
+      "answer": 0,
+      "explain": "Shannon mesajların anlamı olabileceğini kabul eder ama bunu mühendislik sorunu için ilgisiz sayar; Lasswell’in soruları ise içeriği ve etkiyi merkeze alır. Etkiyi tek soru olarak koyan Lasswell’dir (ikinci şık), toplum düzeyinde düşünen de yine Lasswell’dir (üçüncü şık); kanal ise iki modelde de vardır (dördüncü şık yanlıştır)."
+    },
+    {
+      "id": "q2", "type": "tf",
+      "prompt": "Doğru mu yanlış mı: Lasswell 1948’de iletişimin dört işlevini yazdı: gözetim, ilişkilendirme, aktarım ve eğlence.",
+      "answer": false,
+      "explain": "Yanlış. Lasswell’in listesi üç maddedir: gözetim, ilişkilendirme, aktarım. Eğlenceyi dördüncü işlev olarak eklemek genellikle Wright’a (1960) atfedilir; ama dörtlü liste sık sık yanlışlıkla Lasswell’e mal edilir."
+    },
+    {
+      "id": "q3", "type": "match",
+      "prompt": "Shannon şemasının öğelerini telgraf örneğindeki karşılıklarıyla eşleştir.",
+      "pairs": [
+        ["Bilgi kaynağı", "Mesajı olası mesajlar arasından seçen kişi"],
+        ["Verici", "Harfleri nokta ve çizgi dizisine çeviren işlem"],
+        ["Kanal", "İşaretlerin üzerinden geçtiği tel"],
+        ["Gürültü", "Hatta kaynağın istemediği bir parazit"],
+        ["Alıcı", "İşaretleri yeniden harfe çeviren düzenek"]
+      ],
+      "explain": "Kaynak seçer, verici kodlar, kanal taşır, gürültü kaynağın istemediği bozulmadır, alıcı vericinin tersini yapar. En sık karışan ikili verici ile alıcıdır: ikisi de ‘çeviren’ olsa da yönleri terstir."
+    },
+    {
+      "id": "q4", "type": "order",
+      "prompt": "Olayları kronolojik sıraya diz (eskiden yeniye).",
+      "items": [
+        "Hartley’nin “Transmission of Information” makalesi (1928)",
+        "Shannon’ın Bell Laboratuvarları’na katılması (1941)",
+        "Shannon’ın makalesinin iki parçası ve Lasswell’in yazısının yayımlandığı kitap (1948)",
+        "Shannon–Weaver kitabı (1949)",
+        "Shannon’ın “The Bandwagon” başyazısı (1956)",
+        "Wright’ın işlevsel çözümleme makalesi (1960)"
+      ],
+      "explain": "Sıra: 1928 Hartley, 1941 Shannon Bell’de, 1948 Lasswell ve Shannon, 1949 kitap, 1956 başyazı, 1960 Wright. En sık yapılan yanlış, kitabı (1949) makalenin (1948) önüne koymaktır; makale kitaptan bir yıl önce iki parça hâlinde çıktı."
+    },
+    {
+      "id": "q5", "type": "cloze",
+      "prompt": "Weaver’ın üç düzeyini yerleştir.",
+      "text": "Weaver’a göre iletişim sorunları üç düzeydedir: {{1}} sorun, sembollerin ne kadar doğru iletildiği sorusudur; {{2}} sorun, iletilen sembollerin istenen anlamı ne kadar isabetle taşıdığıdır; {{3}} sorun ise alınan anlamın davranışı istenen yönde ne kadar etkilediğidir.",
+      "blanks": [
+        { "options": ["teknik", "anlamsal", "etkililik"], "answer": 0 },
+        { "options": ["etkililik", "teknik", "anlamsal"], "answer": 2 },
+        { "options": ["anlamsal", "etkililik", "teknik"], "answer": 1 }
+      ],
+      "explain": "A düzeyi teknik sorundur (doğru iletim), B düzeyi anlamsal sorundur (anlam), C düzeyi etkililik sorunudur (davranış). Karışıklık genellikle B ile C arasında çıkar: anlamın doğru alınması başka, davranışın değişmesi başkadır."
+    },
+    {
+      "id": "q6", "type": "case",
+      "scenario": "Bir belediye sel riskine karşı vatandaşlara SMS uyarı sistemi kuruyor. Ekip iki iş yapıyor: (a) mesajların bozulmadan ulaştığını test ediyor, (b) uyarıdan sonra kaç kişinin bölgeyi terk ettiğini ölçüyor. (Varsayımsal senaryo.)",
+      "parts": [
+        {
+          "id": "q6a", "type": "mcq",
+          "prompt": "(a) işi Weaver’ın hangi düzeyine aittir?",
+          "options": ["Teknik (A)", "Anlamsal (B)", "Etkililik (C)"],
+          "answer": 0,
+          "explain": "Mesajın bozulmadan ulaşması sembollerin doğru iletilmesidir: teknik sorun, A düzeyi. Anlamsal düzey mesajın nasıl anlaşıldığına, etkililik düzeyi ise davranışa bakar."
+        },
+        {
+          "id": "q6b", "type": "mcq",
+          "prompt": "(b) ölçümü Lasswell’in hangi analiz alanına karşılık gelir?",
+          "options": ["Kontrol analizi", "İçerik analizi", "Etki analizi"],
+          "answer": 2,
+          "explain": "Uyarıdan sonra ne yapıldığını ölçmek ‘ne etkiyle?’ sorusunun alanıdır: etki analizi. İçerik analizi mesajın ne söylediğini, kontrol analizi kimin ne koşulda gönderdiğini inceler."
+        },
+        {
+          "id": "q6c", "type": "mcq",
+          "prompt": "Sistemin sel tehdidini halka haber vermesi, Lasswell’in üç işlevinden hangisine örnektir?",
+          "options": ["Çevreyi gözetleme", "İlişkilendirme", "Toplumsal mirasın aktarımı"],
+          "answer": 0,
+          "explain": "Tehdidi haber vermek gözetim işlevidir. İlişkilendirme, toplumun parçalarının ortak bir yanıt vermesini eşgüdümler (örneğin belediye, okul ve halkın aynı planda buluşması); aktarım ise kuşaklar arası mirasla ilgilidir."
+        }
+      ],
+      "takeaway": "Aynı sistem iki cetvelle ölçülebilir: Weaver ‘doğru taşındı mı, anlaşıldı mı, işe yaradı mı’ diye sorar; Lasswell ‘kim, ne, hangi kanaldan, kime, ne etkiyle’ ve ‘toplum için hangi iş’ diye."
+    },
+    {
+      "id": "q7", "type": "mcq",
+      "prompt": "Lasswell’in 1927 tarihli propaganda kitabı için aşağıdakilerden hangisi doğrudur?",
+      "options": [
+        "Propagandayı güçlü sayar ama kesin etkisinin çoğunlukla tahmin meselesi olduğunu da yazar.",
+        "Propagandanın hiçbir etkisi olmadığını savunur.",
+        "“Hipodermik iğne” terimini ilk kez kullanan kitaptır.",
+        "Yalnızca izleyici anketlerine dayanır."
+      ],
+      "answer": 0,
+      "explain": "Kitap, propagandayı modern dünyanın en güçlü araçlarından biri sayar ama etkisinin kesin ölçüsünün çoğu zaman tahmin işi olduğunu da yazar. İkinci şık karşıt bir karikatürdür. ‘Hipodermik iğne’ ifadesi kitapta geçmez; üçüncü şık, sonradan yüklenen etiketi kitabın kendisine yükler. Kitap, savaş propagandasının örgütlenmesini, temalarını ve sonuçlarını ele alır; izleyici anketi kitabın konusu değildir."
+    },
+    {
+      "id": "q8", "type": "mcq",
+      "prompt": "Shannon’ın 1956 tarihli “The Bandwagon” başyazısının temel mesajı hangisidir?",
+      "options": [
+        "Bilgi kuramının başka alanlara heyecanla ve aceleyle uygulanmasına karşı temkin ve titizlik çağrısı",
+        "Bilgi kuramının bütün sosyal bilimleri açıkladığı",
+        "Bilgi kuramının artık terk edilmesi gerektiği",
+        "Anlamın mühendislik sorunu olduğu"
+      ],
+      "answer": 0,
+      "explain": "Shannon, kuramın bir bandwagon hâline geldiğini, başka alanlara uygulamanın çeviri kadar kolay olmadığını, hipotez ve deney istediğini yazar; kuramı da terk etmez, değerli bir araç saymaya devam eder. İkinci şık tam tersi, üçüncü şık aşırı bir okuma, dördüncü şık ise Shannon’ın başlangıç tutumunun tersidir."
+    },
+    {
+      "id": "q9", "type": "mcq",
+      "prompt": "Adil bir yazı tura atışı ile yüzde 99 tura gelen hileli bir para atışını karşılaştır. Shannon’ın ölçüsüne göre hangisi daha yüksek entropiye (daha büyük belirsizliğe) sahiptir?",
+      "options": [
+        "Adil yazı tura atışı",
+        "Hileli para atışı",
+        "İkisi eşittir",
+        "Ölçü, paranın anlamına bağlıdır"
+      ],
+      "answer": 0,
+      "explain": "İki seçenek eşit olasılıklıyken entropi en yüksek değerini (1 bit) alır; biri neredeyse kesinleştikçe sıfıra yaklaşır. İkinci şık, ‘hile = daha çok bilgi’ sezgisinden doğar; oysa hileli para sonucu neredeyse önceden bildirir. Dördüncü şık, Shannon ölçüsünün anlamdan bağımsız olduğunu unutur."
+    },
+    {
+      "id": "q10", "type": "tf",
+      "prompt": "Doğru mu yanlış mı: Warren Weaver, Shannon’ın Bell Laboratuvarları’ndaki iş arkadaşıydı.",
+      "answer": false,
+      "explain": "Yanlış. Weaver, Rockefeller Vakfı’nın doğa bilimleri bölümünün başındaydı; Shannon’ın makalesini genel okura açan yazının yazarıdır. ‘İş arkadaşı’ imajı ‘Shannon–Weaver’ ortak adından doğar."
+    },
+    {
+      "id": "q11", "type": "mcq",
+      "prompt": "“Doğrusal aktarım modeli” eleştirisini en iyi hangi ifade özetler?",
+      "options": [
+        "İletişim yalnızca bir mesajın taşınması değildir; anlam, bağlam ve ortak bir dünyanın paylaşımı da içerir.",
+        "İletişim yalnızca gürültüden ibarettir.",
+        "Kanal kavramı tamamen gereksizdir.",
+        "Etki, iletişimin hiçbir zaman ölçülemeyecek bir öğesidir."
+      ],
+      "answer": 0,
+      "explain": "Aktarım eleştirisi (örneğin Carey’nin ritüel görüşü) iletişimin yalnızca taşıma olmadığını, ortak anlam ve dünyanın kurulması olduğunu söyler. Diğer şıklar kimsenin savunmadığı uç iddialardır; kanalın ve etkinin kavram olarak reddi itirazın konusu değildir."
+    }
+  ]
+}

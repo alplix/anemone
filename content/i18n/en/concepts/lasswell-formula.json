@@ -1,0 +1,11 @@
+{
+  "id": "lasswell-formula",
+  "lang": "en",
+  "translation": { "status": "machine" },
+  "term": "Lasswell’s formula",
+  "altTerms": ["Lasswell model", "Lasswell’s model of communication", "Lasswell’s five questions", "Lasswell’s construct"],
+  "slug": "lasswells-formula",
+  "short": "A way of describing an act of communication through five questions: who says what, in which channel, to whom, with what effect? Each question corresponds to a field of research.",
+  "body": "Lasswell’s formula is a sequence of questions that Harold Lasswell proposed in 1948: Who? Says what? In which channel? To whom? With what effect? Its purpose is to organise the scientific study of communication. Each question points to a field of research: control analysis (who), content analysis (what), media analysis (channel), audience analysis (to whom) and effect analysis (effect).\n\nIn most textbooks the sequence is poured into boxes and arrows and presented as a “model”. Some authors therefore prefer “formula”, “framework” or “construct” to “model”; Sapienza and colleagues (2015) propose the name “Lasswell’s construct” and trace the first known reference to the formula back to 1940. In 1958 Braddock proposed adding two more questions: under what circumstances, for what purpose.\n\nThe objections most often raised against the formula (no feedback, no context, no noise, a passive receiver) apply, according to some authors, mostly to later presentations; the list of questions organises research and does not dictate answers. In Turkish sources the spellings “Laswell” and “Lasswel” also occur; the correct spelling is Lasswell. Details: [[lesson:lasswell-shannon-weaver]].",
+  "example": "A newspaper headline: who wrote it, what did it say, in which paper did it appear, who read it, and what did they do after reading it? Five questions, five separate research headings."
+}

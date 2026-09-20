@@ -1,0 +1,17 @@
+{
+  "id": "entropy",
+  "family": "models",
+  "introducedBy": [
+    "shannon"
+  ],
+  "related": [
+    "noise",
+    "shannon-weaver-model"
+  ],
+  "sources": [
+    "shannon-1948",
+    "shannon-weaver-1949",
+    "hartley-1928",
+    "shannon-1951"
+  ]
+}
