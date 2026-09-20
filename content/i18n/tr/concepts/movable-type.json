@@ -1,0 +1,10 @@
+{
+  "id": "movable-type",
+  "lang": "tr",
+  "term": "hareketli harf",
+  "altTerms": [],
+  "slug": "hareketli-harf",
+  "short": "Her harfi ayrı bir parça olarak yapıp sayfaya dizme, basma ve sonra sökerek yeniden kullanma yöntemi; kilde, ahşapta ve metalde dünyanın farklı yerlerinde geliştirildi.",
+  "body": "Ağaç blok basımında bir sayfanın tamamı tek bir kalıba oyulur; kalıp yalnızca o sayfayı basar. Hareketli harfte ise her harf ayrı bir parçadır: harfler dizilir, sayfa basılır, sonra harfler sökülüp başka bir sayfada yeniden kullanılır. Yöntemin tarihi tek bir ülkeye ait değildir: Çin’de 1040’lı yıllarda pişmiş kilden harflerle denendiği, Kore’de 1377’de metal harfle basılmış bir kitabın (Jikji) günümüze ulaştığı, Avrupa’da ise 1450’lerde Mainz’da metal harfle kitap basıldığı belgelenmiştir [[cite:ebsco-bi-sheng]][[cite:bnf-jikji]][[cite:loc-gutenberg-guide]].\n\nÇince gibi binlerce işaretli yazı sistemlerinde tam sayfa blokları çoğu zaman daha ucuz kaldığı için hareketli harf Çin’de baskın hâle gelmedi [[cite:columbia-afe-song-printing]].",
+  "example": "(Varsayımsal örnek.) Alfabesi otuz kadar harften oluşan bir dilde harf kutusu küçüktür; binlerce işaretli bir yazı sisteminde aynı kutu çok daha büyük ve yavaş yönetilir."
+}

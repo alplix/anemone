@@ -1,0 +1,14 @@
+{
+  "id": "news-agency",
+  "family": "news",
+  "introducedBy": [],
+  "related": [
+    "penny-press",
+    "mass-media"
+  ],
+  "sources": [
+    "encyclopedia-havas",
+    "encyclopedia-reuter",
+    "newworld-associated-press"
+  ]
+}

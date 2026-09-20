@@ -1,0 +1,62 @@
+{
+  "_comment": "Terms for the lesson mass-media-history. status: ok = established in Turkish sources I opened; chosen = my own choice among variants; check = plausible but not verified in a source I opened (needs a Turkish-language reviewer). Keys are concept ids or short slugs; they do not clash with the core glossary.",
+  "mass-media": {
+    "en": "mass media", "tr": "kitle iletişim araçları", "status": "chosen",
+    "alt": ["medya"],
+    "note": "KÜRE Ansiklopedi has an entry titled 'Kitle İletişim Araçları'; DergiPark articles write 'medya (kitle iletişim araçları)', i.e. the two are used for the same thing. 'kitle medyası' also occurs in Turkish but I did not verify it in a source I opened, so it is not used."
+  },
+  "movable-type": {
+    "en": "movable type", "tr": "hareketli harf", "status": "check",
+    "note": "Turkish DergiPark articles on printing history use 'hareketli harf' and also 'hareketli matbaa' (seen in search summaries only, not opened in full). 'hareketli dizgi' not verified, not used."
+  },
+  "penny-press": {
+    "en": "penny press", "tr": "penny press (bir kuruşluk gazete)", "status": "check",
+    "note": "I found no established Turkish term in a source I could open (a Turkish wiki mirror shows 'Penny basın', which is not a reliable source). The lesson uses the English name with a descriptive gloss and tells the reader so."
+  },
+  "news-agency": {
+    "en": "news agency", "tr": "haber ajansı", "status": "ok",
+    "alt": ["ajans"],
+    "note": "Anadolu Ajansı's own archive and KÜRE Ansiklopedi use 'ajans' / 'haber ajansı'."
+  },
+  "broadcasting": {
+    "en": "broadcasting (broadcast)", "tr": "yayıncılık (yayın)", "status": "chosen",
+    "note": "'radyo yayını', 'televizyon yayını' are standard usages in TRT's own history pages. The English term keeps its seed-sowing etymology (etymonline, Wiktionary, Dictionary.com); in Turkish the word 'yayın' has no farming trace, the lesson says so and points to the verb 'yaymak'."
+  },
+  "colophon": {
+    "en": "colophon", "tr": "kolofon", "status": "check",
+    "note": "Used in the lesson with an explanation in the glossary card. Not verified in a Turkish source I opened; an alternative would be 'basım kaydı'."
+  },
+  "halftone": {
+    "en": "halftone", "tr": "yarı ton", "status": "check",
+    "note": "Turkish printing terms vary ('yarı ton', 'ara ton', 'raster'); not verified in a source I opened."
+  },
+  "inverted-pyramid": {
+    "en": "inverted pyramid", "tr": "ters piramit", "status": "check",
+    "note": "Standard in Turkish journalism teaching as far as I know, but not verified in a source I opened."
+  },
+  "firman": {
+    "en": "firman (imperial decree)", "tr": "ferman", "status": "ok",
+    "note": "TDV İslâm Ansiklopedisi articles on Müteferrika Matbaası and Takvim-i Vekayi."
+  },
+  "fatwa": {
+    "en": "fatwa (legal opinion of the Sheikh al-Islam)", "tr": "fetva", "status": "ok",
+    "note": "TDV İslâm Ansiklopedisi (Müteferrika Matbaası)."
+  },
+  "sheikh-al-islam": {
+    "en": "Sheikh al-Islam (chief mufti)", "tr": "şeyhülislam", "status": "ok",
+    "note": "TDV İslâm Ansiklopedisi; Schwartz 2017 translates it as Grand Mufti."
+  },
+  "printing-house": {
+    "en": "printing house, press", "tr": "matbaa", "status": "ok",
+    "alt": ["basımevi"],
+    "note": "'Müteferrika Matbaası' is the TDV article title."
+  },
+  "corrector": {
+    "en": "corrector (proofreader)", "tr": "musahhih (düzeltmen)", "status": "check",
+    "note": "The fatwa quoted by Schwartz names 'muṣaḥḥiḥ' as the required correctors; Turkish modern equivalent 'düzeltmen' is my gloss."
+  },
+  "state-gazette": {
+    "en": "official gazette", "tr": "resmî gazete (devlet gazetesi)", "status": "ok",
+    "note": "TDV article on Takvim-i Vekayi: 'first official newspaper of the Ottoman State'."
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": "mass-media",
+  "family": "technology",
+  "introducedBy": [],
+  "related": [
+    "broadcasting",
+    "penny-press",
+    "news-agency"
+  ],
+  "sources": [
+    "weber-2006",
+    "schudson-1978",
+    "gentzkow-2006"
+  ]
+}

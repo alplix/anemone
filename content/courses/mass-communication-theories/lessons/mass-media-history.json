@@ -1,0 +1,379 @@
+{
+  "id": "mass-media-history",
+  "people": [
+    "gutenberg",
+    "muteferrika",
+    "day"
+  ],
+  "concepts": [
+    "mass-media",
+    "movable-type",
+    "penny-press",
+    "news-agency",
+    "broadcasting"
+  ],
+  "sources": [
+    {
+      "bib": "aa-kurulus",
+      "role": "turkish-source"
+    },
+    {
+      "bib": "aa-trt-tv-54",
+      "role": "turkish-source"
+    },
+    {
+      "bib": "alexandrapalace-bbc",
+      "role": "reference"
+    },
+    {
+      "bib": "battlefields-new-orleans",
+      "role": "reference"
+    },
+    {
+      "bib": "blair-2003",
+      "role": "review"
+    },
+    {
+      "bib": "bnf-jikji",
+      "role": "reference"
+    },
+    {
+      "bib": "cameramuseum-daguerre",
+      "role": "reference"
+    },
+    {
+      "bib": "cern-birth-web",
+      "role": "reference"
+    },
+    {
+      "bib": "cern-web30",
+      "role": "reference"
+    },
+    {
+      "bib": "columbia-afe-song-printing",
+      "role": "reference"
+    },
+    {
+      "bib": "constitutioncenter-war-1812",
+      "role": "reference"
+    },
+    {
+      "bib": "deniz-2019",
+      "role": "history"
+    },
+    {
+      "bib": "dittmar-2011",
+      "role": "study"
+    },
+    {
+      "bib": "eastman-daguerreotype",
+      "role": "reference"
+    },
+    {
+      "bib": "ebsco-bbc-television",
+      "role": "reference"
+    },
+    {
+      "bib": "ebsco-bi-sheng",
+      "role": "reference"
+    },
+    {
+      "bib": "ebsco-first-telegraph",
+      "role": "reference"
+    },
+    {
+      "bib": "ebsco-penny-press",
+      "role": "reference"
+    },
+    {
+      "bib": "eisenstein-1979",
+      "role": "history-book"
+    },
+    {
+      "bib": "eisenstein-2002",
+      "role": "history"
+    },
+    {
+      "bib": "encyclopedia-havas",
+      "role": "reference"
+    },
+    {
+      "bib": "encyclopedia-mechanical-revolutions",
+      "role": "reference"
+    },
+    {
+      "bib": "encyclopedia-reuter",
+      "role": "reference"
+    },
+    {
+      "bib": "ethw-kdka",
+      "role": "reference"
+    },
+    {
+      "bib": "ethw-transatlantic-cable",
+      "role": "reference"
+    },
+    {
+      "bib": "etymonline-broadcast",
+      "role": "reference"
+    },
+    {
+      "bib": "gentzkow-2006",
+      "role": "study"
+    },
+    {
+      "bib": "gutenberg-gesellschaft-invention",
+      "role": "reference"
+    },
+    {
+      "bib": "history-lumiere",
+      "role": "reference"
+    },
+    {
+      "bib": "historyhit-london-gazette",
+      "role": "reference"
+    },
+    {
+      "bib": "historyofinformation-shantytown",
+      "role": "reference"
+    },
+    {
+      "bib": "hoaxes-moon-hoax",
+      "role": "reference"
+    },
+    {
+      "bib": "johns-1998",
+      "role": "history-book"
+    },
+    {
+      "bib": "johns-2002",
+      "role": "history"
+    },
+    {
+      "bib": "journo-first-newspapers",
+      "role": "turkish-source"
+    },
+    {
+      "bib": "jvl-hebrew-printing",
+      "role": "reference"
+    },
+    {
+      "bib": "keio-42-line-bible",
+      "role": "reference"
+    },
+    {
+      "bib": "kure-anadolu-ajansi",
+      "role": "turkish-source"
+    },
+    {
+      "bib": "kure-ilk-radyo",
+      "role": "turkish-source"
+    },
+    {
+      "bib": "lindahall-diamond-sutra",
+      "role": "reference"
+    },
+    {
+      "bib": "lindahall-locke",
+      "role": "reference"
+    },
+    {
+      "bib": "loc-gutenberg-guide",
+      "role": "reference"
+    },
+    {
+      "bib": "loc-gutenberg-printer",
+      "role": "reference"
+    },
+    {
+      "bib": "londonmuseum-bbc",
+      "role": "reference"
+    },
+    {
+      "bib": "museumofoxford-gazette",
+      "role": "reference"
+    },
+    {
+      "bib": "ndl-gutenberg-mystery",
+      "role": "reference"
+    },
+    {
+      "bib": "newworld-associated-press",
+      "role": "reference"
+    },
+    {
+      "bib": "offenberg-1992",
+      "role": "history"
+    },
+    {
+      "bib": "pew-news-platform-2025",
+      "role": "reference"
+    },
+    {
+      "bib": "plato-phaedrus-perseus",
+      "role": "reference"
+    },
+    {
+      "bib": "poettker-2003",
+      "role": "review"
+    },
+    {
+      "bib": "pressgazette-400-years",
+      "role": "reference"
+    },
+    {
+      "bib": "rubin-2014",
+      "role": "study"
+    },
+    {
+      "bib": "schudson-1978",
+      "role": "history-book"
+    },
+    {
+      "bib": "schwartz-2017",
+      "role": "review"
+    },
+    {
+      "bib": "sciencemuseum-transatlantic-cable",
+      "role": "reference"
+    },
+    {
+      "bib": "smithsonian-diamond-sutra",
+      "role": "reference"
+    },
+    {
+      "bib": "smithsonian-libraries-moon-hoax",
+      "role": "reference"
+    },
+    {
+      "bib": "stromberg-2004",
+      "role": "study"
+    },
+    {
+      "bib": "tdv-ibrahim-muteferrika",
+      "role": "turkish-source"
+    },
+    {
+      "bib": "tdv-muteferrika-matbaasi",
+      "role": "turkish-source"
+    },
+    {
+      "bib": "tdv-takvim-i-vekayi",
+      "role": "turkish-source"
+    },
+    {
+      "bib": "tdv-tasvir-i-efkar",
+      "role": "turkish-source"
+    },
+    {
+      "bib": "tdv-tercuman-i-ahval",
+      "role": "turkish-source"
+    },
+    {
+      "bib": "teachingamericanhistory-telegraph",
+      "role": "reference"
+    },
+    {
+      "bib": "trt-tarihce",
+      "role": "turkish-source"
+    },
+    {
+      "bib": "trt1-tarihce",
+      "role": "turkish-source"
+    },
+    {
+      "bib": "unesco-jikji",
+      "role": "reference"
+    },
+    {
+      "bib": "weber-2006",
+      "role": "review"
+    },
+    {
+      "bib": "wikipedia-31-line-indulgence",
+      "role": "reference"
+    },
+    {
+      "bib": "wikipedia-eisenstein",
+      "role": "reference"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 868,
+      "id": "diamond-sutra"
+    },
+    {
+      "year": 1377,
+      "id": "jikji"
+    },
+    {
+      "year": 1455,
+      "id": "helmasperger-instrument"
+    },
+    {
+      "year": 1605,
+      "id": "carolus-relation"
+    },
+    {
+      "year": 1727,
+      "id": "muteferrika-permission"
+    },
+    {
+      "year": 1729,
+      "id": "vankulu-lugati"
+    },
+    {
+      "year": 1831,
+      "id": "takvim-i-vekayi"
+    },
+    {
+      "year": 1833,
+      "id": "the-sun"
+    },
+    {
+      "year": 1839,
+      "id": "daguerreotype-gift"
+    },
+    {
+      "year": 1844,
+      "id": "telegraph-first-message"
+    },
+    {
+      "year": 1860,
+      "id": "tercuman-i-ahval"
+    },
+    {
+      "year": 1880,
+      "id": "halftone-photograph"
+    },
+    {
+      "year": 1895,
+      "id": "lumiere-screening"
+    },
+    {
+      "year": 1920,
+      "id": "kdka"
+    },
+    {
+      "year": 1920,
+      "id": "anadolu-ajansi"
+    },
+    {
+      "year": 1927,
+      "id": "istanbul-radio"
+    },
+    {
+      "year": 1936,
+      "id": "bbc-television"
+    },
+    {
+      "year": 1968,
+      "id": "trt-television-test"
+    },
+    {
+      "year": 1993,
+      "id": "web-public-domain"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "gutenberg",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "name": "Johannes Gutenberg",
+  "nativeName": "",
+  "slug": "johannes-gutenberg",
+  "short": "Goldsmith-printer from Mainz, remembered as the pioneer of printing with movable metal type in Europe, though surprisingly little is documented about his life.",
+  "born": "Mainz",
+  "roles": [
+    "goldsmith",
+    "printer"
+  ],
+  "bio": "Johannes Gutenberg is regarded as the pioneer of book printing with movable metal type in Europe, yet the number of documents he left behind is astonishingly small compared with his fame. He is thought to have been born in Mainz around 1400 (the exact year is unknown; a document of 1420 shows he was of age by then) and he died in 1468 [[cite:loc-gutenberg-printer]]. He is traced in Strasbourg from 1434 as a goldsmith; after his return to Mainz the first document is from 1448 [[cite:loc-gutenberg-printer]].\n\nFor his printing business he borrowed 800 guilders twice from the wealthy Johann Fust. In 1455 Fust sued; the notarial record summarizing the hearing, the Helmasperger Notarial Instrument, is dated 6 November 1455 and is the most important contemporary document we have about Gutenberg’s printing venture [[cite:loc-gutenberg-printer]][[cite:gutenberg-gesellschaft-invention]]. It was discovered in 1734 [[cite:ndl-gutenberg-mystery]].\n\nHis most famous product, the 42-line Bible, was printed in Mainz around 1454–55; but the book has neither a title page nor a colophon and Gutenberg’s name does not appear in it; the attribution to him is a later, settled consensus [[cite:keio-42-line-bible]][[cite:ndl-gutenberg-mystery]]. The surviving documents show a business, loans and a lawsuit; not the biography of a miraculous genius.",
+  "works": [],
+  "inCourse": "He appears in the printing cards of [[lesson:mass-media-history]] as the example of the “documented versus legend” distinction."
+}

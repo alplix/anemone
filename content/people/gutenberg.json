@@ -1,0 +1,11 @@
+{
+  "id": "gutenberg",
+  "died": {
+    "year": 1468
+  },
+  "sources": [
+    "loc-gutenberg-printer",
+    "ndl-gutenberg-mystery"
+  ],
+  "works": []
+}

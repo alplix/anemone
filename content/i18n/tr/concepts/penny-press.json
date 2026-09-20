@@ -1,0 +1,12 @@
+{
+  "id": "penny-press",
+  "lang": "tr",
+  "term": "penny press (bir kuruşluk gazete)",
+  "altTerms": [
+    "penny press"
+  ],
+  "slug": "penny-press",
+  "short": "1830’larda ABD kentlerinde ortaya çıkan, bir kuruşa sokakta satılan, geliri reklamdan sağlayan ve yerel-insani haberlere yönelen gazete türü.",
+  "body": "Penny press, 1833’te New York’ta çıkan *The Sun* ile başlayan gazete türüne verilen isimdir. Fiyat bir kuruştu; oysa altı kuruşluk siyasi partiler gazeteleri yıllık aboneliğe dayanıyordu. Penny press ise sokakta tek tek satılıyor, geliri reklamdan sağlıyor ve okur olarak işçi ve orta sınıfı hedefliyordu [[cite:ebsco-penny-press]].\n\nİçerik de değişti: mahkeme ve polis haberleri, yerel olaylar, insan hikâyeleri öne çıktı [[cite:ebsco-penny-press]]. Michael Schudson’a göre bu değişim yalnızca yeni teknolojiyle ya da okuryazarlıkla açıklanamaz; “demokratik piyasa toplumu” denen ortamın ürünüdür ve gazetecilikte “haber” kavramının kendisini yerleştirmiştir [[cite:schudson-1978]]. Türkçede bu terim için yerleşmiş bir karşılık doğrulayamadık; bu yüzden İngilizce adıyla ve açıklamasıyla kullanıyoruz.",
+  "example": "(Varsayımsal örnek.) Sabah işe giderken bir kuruşa aldığınız gazetede, dün gece mahkemede görülen bir dava anlatılıyorsa, bu penny press’in içerik mantığıdır."
+}

@@ -1,0 +1,15 @@
+{
+  "id": "broadcasting",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "broadcasting",
+  "altTerms": [
+    "broadcast"
+  ],
+  "slug": "broadcasting",
+  "short": "Sending the same programme from a centre to a large number of receivers at the same time; the basic form of radio and television.",
+  "body": "The English word *broadcast* comes from “broad” and “cast”; at first it described scattering seed over a field by hand, and it began to be used for radio in the 1920s [[cite:etymonline-broadcast]]. The seed comparison fits: broadcasting from a centre rains the same content on everyone without knowing who is listening.\n\nThree features stand out in radio and television broadcasting: reaching people at the same moment (synchronous listening), listening at home (private instead of public space) and central programming (the decisions on who goes on air and what is broadcast are concentrated in a few institutions). KDKA, one of the first commercial radio stations, was built to boost the sale of receivers, while the BBC took root as a public broadcaster financed by a licence fee [[cite:ethw-kdka]][[cite:londonmuseum-bbc]].",
+  "example": "(Hypothetical example.) Watching the same news bulletin at the same hour in both Ankara and Van is an example of the synchronous nature of broadcasting."
+}

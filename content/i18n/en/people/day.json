@@ -1,0 +1,18 @@
+{
+  "id": "day",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "name": "Benjamin Day",
+  "nativeName": "",
+  "slug": "benjamin-day",
+  "short": "American printer and newspaper publisher; in 1833 he started the penny press by launching the New York Sun at one cent.",
+  "roles": [
+    "printer",
+    "newspaper owner"
+  ],
+  "bio": "Benjamin Henry Day (1810–1889) began his printing career at the Springfield Republican [[cite:wikipedia-benjamin-day]]. In 1833 he launched *The Sun* in New York; it was priced at one cent, far cheaper than the other New York dailies [[cite:columbia-day]].\n\nThe real novelty was the business model. Instead of subscriptions, street sales: the paper was bought in bulk and handed to street sellers, the “newsboys”, and income came from advertising [[cite:ebsco-penny-press]][[cite:columbia-day]]. The content shifted too, towards local events, court and police reports, and human-interest stories [[cite:ebsco-penny-press]].\n\nIn 1838 he sold the Sun to his brother-in-law Moses Yale Beach for 40,000 dollars, and in 1842 he founded the weekly *Brother Jonathan* [[cite:columbia-day]]. His name is often mentioned together with the “Moon Hoax” of 1835; but historians credit the author of that series to the Sun’s reporter Richard Adams Locke [[cite:lindahall-locke]].",
+  "works": [],
+  "inCourse": "He stands at the centre of the penny press card in [[lesson:mass-media-history]]."
+}
