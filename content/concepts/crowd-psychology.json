@@ -1,0 +1,17 @@
+{
+  "id": "crowd-psychology",
+  "family": "society",
+  "introducedBy": [
+    "le-bon"
+  ],
+  "related": [
+    "public-vs-crowd",
+    "suggestibility",
+    "mass-society"
+  ],
+  "sources": [
+    "le-bon-1895-psychologie-foules",
+    "encyclopedia-le-bon-european-social-history",
+    "reicher-1984-st-pauls-riot"
+  ]
+}

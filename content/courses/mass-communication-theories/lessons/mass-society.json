@@ -1,0 +1,275 @@
+{
+  "id": "mass-society",
+  "people": [
+    "le-bon",
+    "tocqueville",
+    "tarde",
+    "ortega",
+    "kornhauser",
+    "mannheim",
+    "lazarsfeld"
+  ],
+  "concepts": [
+    "mass-society",
+    "crowd-psychology",
+    "public-vs-crowd",
+    "tyranny-of-the-majority",
+    "atomisation",
+    "mass-culture-fear",
+    "mass-media",
+    "mass-communication",
+    "powerful-effects"
+  ],
+  "sources": [
+    {
+      "bib": "akturkoglu-2021-le-bon",
+      "role": "turkish-study"
+    },
+    {
+      "bib": "bail-2018-opposing-views",
+      "role": "study"
+    },
+    {
+      "bib": "bakshy-messing-adamic-2015-facebook",
+      "role": "study"
+    },
+    {
+      "bib": "baylarov-rustamli-2022-kitleler",
+      "role": "turkish-study"
+    },
+    {
+      "bib": "bell-1956-theory-mass-society",
+      "role": "review"
+    },
+    {
+      "bib": "bennett-manheim-2006-one-step-flow",
+      "role": "study"
+    },
+    {
+      "bib": "berman-1997-weimar-civil-society",
+      "role": "study"
+    },
+    {
+      "bib": "brady-2017-moral-emotional",
+      "role": "study"
+    },
+    {
+      "bib": "bramson-1961-political-context",
+      "role": "review"
+    },
+    {
+      "bib": "columbia-up-people-choice",
+      "role": "reference"
+    },
+    {
+      "bib": "cumhuriyet-2020-cogunlugun-zorbaligi",
+      "role": "reference"
+    },
+    {
+      "bib": "drury-cocking-reicher-2009-everyone",
+      "role": "study"
+    },
+    {
+      "bib": "encyclopedia-le-bon-european-social-history",
+      "role": "reference"
+    },
+    {
+      "bib": "encyclopedia-tarde-contemporary-authors",
+      "role": "reference"
+    },
+    {
+      "bib": "encyclopedia-tocqueville-american-constitution",
+      "role": "reference"
+    },
+    {
+      "bib": "encyclopedia-tocqueville-european-social-history",
+      "role": "reference"
+    },
+    {
+      "bib": "flaxman-goel-rao-2016-filter-bubbles",
+      "role": "study"
+    },
+    {
+      "bib": "hamilton-encyclopedia-sociology-mass-society",
+      "role": "reference"
+    },
+    {
+      "bib": "iskultur-ortega-kitlelerin-ayaklanmasi",
+      "role": "reference"
+    },
+    {
+      "bib": "katz-1957-two-step-flow",
+      "role": "study"
+    },
+    {
+      "bib": "katz-lazarsfeld-1955",
+      "role": "primary"
+    },
+    {
+      "bib": "kitapyurdu-kutlelerin-isyani",
+      "role": "reference"
+    },
+    {
+      "bib": "kornhauser-1968-iess-mass-society",
+      "role": "reference"
+    },
+    {
+      "bib": "lazarsfeld-berelson-gaudet-1944",
+      "role": "primary"
+    },
+    {
+      "bib": "le-bon-1895-psychologie-foules",
+      "role": "primary"
+    },
+    {
+      "bib": "lubken-2008",
+      "role": "review"
+    },
+    {
+      "bib": "mannheim-1940-man-society",
+      "role": "primary"
+    },
+    {
+      "bib": "marshall-dictionary-sociology-mass-society",
+      "role": "reference"
+    },
+    {
+      "bib": "nadirkitap-kitlelerin-isyani",
+      "role": "reference"
+    },
+    {
+      "bib": "nwe-ortega",
+      "role": "reference"
+    },
+    {
+      "bib": "nwe-tocqueville",
+      "role": "reference"
+    },
+    {
+      "bib": "ortega-1930-rebelion-masas",
+      "role": "primary"
+    },
+    {
+      "bib": "pariser-2011-filter-bubble",
+      "role": "primary"
+    },
+    {
+      "bib": "parsons-2024-tarde-excerpt",
+      "role": "reference"
+    },
+    {
+      "bib": "polat-durmus-2015-le-bon-abdullah-cevdet",
+      "role": "turkish-study"
+    },
+    {
+      "bib": "pooley-2006",
+      "role": "review"
+    },
+    {
+      "bib": "pooley-2021-masses-other-people",
+      "role": "review"
+    },
+    {
+      "bib": "reicher-1984-st-pauls-riot",
+      "role": "study"
+    },
+    {
+      "bib": "routledge-personal-influence",
+      "role": "reference"
+    },
+    {
+      "bib": "sproule-1989",
+      "role": "review"
+    },
+    {
+      "bib": "tarde-1890-lois-imitation",
+      "role": "primary"
+    },
+    {
+      "bib": "tarde-1901-opinion-foule",
+      "role": "primary"
+    },
+    {
+      "bib": "tocqueville-1835-democratie",
+      "role": "primary"
+    },
+    {
+      "bib": "tr-wikipedia-cogunlugun-tiranligi",
+      "role": "reference"
+    },
+    {
+      "bib": "uc-in-memoriam-kornhauser",
+      "role": "reference"
+    },
+    {
+      "bib": "vosoughi-roy-aral-2018-true-false-news",
+      "role": "study"
+    },
+    {
+      "bib": "wikipedia-revolt-of-the-masses",
+      "role": "reference"
+    },
+    {
+      "bib": "williams-1958-culture-society",
+      "role": "primary"
+    },
+    {
+      "bib": "zuiderveen-borgesius-2016-filter-bubbles",
+      "role": "study"
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1835,
+      "id": "tocqueville-democracy-1"
+    },
+    {
+      "year": 1840,
+      "id": "tocqueville-democracy-2"
+    },
+    {
+      "year": 1890,
+      "id": "tarde-imitation"
+    },
+    {
+      "year": 1895,
+      "id": "le-bon-crowd"
+    },
+    {
+      "year": 1901,
+      "id": "tarde-public-crowd"
+    },
+    {
+      "year": 1930,
+      "id": "ortega-revolt"
+    },
+    {
+      "year": 1935,
+      "id": "mannheim-german"
+    },
+    {
+      "year": 1944,
+      "id": "peoples-choice"
+    },
+    {
+      "year": 1955,
+      "id": "personal-influence"
+    },
+    {
+      "year": 1959,
+      "id": "kornhauser-politics"
+    },
+    {
+      "year": 1984,
+      "id": "reicher-st-pauls"
+    },
+    {
+      "year": 2006,
+      "id": "bennett-manheim"
+    },
+    {
+      "year": 2011,
+      "id": "pariser-filter-bubble"
+    }
+  ]
+}

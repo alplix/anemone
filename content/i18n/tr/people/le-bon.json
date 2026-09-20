@@ -1,0 +1,21 @@
+{
+  "id": "le-bon",
+  "lang": "tr",
+  "name": "Gustave Le Bon",
+  "nativeName": "",
+  "slug": "gustave-le-bon",
+  "short": "Fransız hekim ve toplum yazarı (1841–1931); *Psychologie des foules* (1895) ile “kalabalıklar çağı” fikrini ve kalabalık psikolojisini yaygınlaştırdı.",
+  "roles": [
+    "hekim",
+    "toplum psikologu",
+    "yazar"
+  ],
+  "bio": "Gustave Le Bon 7 Mayıs 1841’de doğdu ve 13 Aralık 1931’de öldü. Hekimlik eğitimi almıştı ama ilgisi çok geniştir: tütün dumanının bileşenlerinden fiziksel antropolojiye, atom enerjisinden toplumbilime uzanan bir yelpazede yazdı; bu genişlik yüzünden bazıları onu yüzeysel bulmuştur. Yine de en çok kalabalık davranışı üzerine düşünceleriyle tanınır.\n\n*Psychologie des foules* (1895) kitabının giriş bölümü “kalabalıklar çağı” başlığını taşır ve eski inançların yıkıldığı bir dönemde kalabalıkların gücünün tek engellenemez güç olduğunu ileri sürer. Le Bon’a göre bir araya gelen insanlar yeni özellikler kazanır. Nedenleri üçtür: sayıdan doğan yenilmezlik hissi ve isimsizlik, bulaşma ve en önemlisi telkin edilebilirlik. Bu koşullarda kişi “uygarlık merdiveninde birkaç basamak iner”. Basın ise ona göre kalabalığa yön vermez, kalabalığın fikirlerini yansıtır.\n\nLe Bon kalabalığın karakterini kalıtsal “ırk” özelliklerine de bağlar; bu yön bugün savunulamaz. Siyasi tutumu yüzünden “demokrasi karşıtı ve elitist” olarak anılır. Freud ve Allport gibi isimler çalışmasının önemini kabul etmiştir. Reicher gibi eleştirmenler ise onun kalabalık resminin toplumsal bağlamı yok saydığını savunur.\n\nTürkçe okumaya da uğramıştır: bir makaleye göre Abdullah Cevdet onun birçok eserini çevirmiş ve bazı Osmanlı aydınları onun seçkinci bakışından etkilenmiştir. [[cite:polat-durmus-2015-le-bon-abdullah-cevdet]]",
+  "works": [
+    {
+      "bib": "le-bon-1895-psychologie-foules",
+      "note": "Kalabalık psikolojisi; “kalabalıklar çağı”; telkin, bulaşma, isimsizlik; basının kalabalığı yansıtması."
+    }
+  ],
+  "inCourse": "[[lesson:mass-society]] dersinde aristokratik damarın kalabalık psikolojisi kolu olarak geçer; kalabalık ile Tarde’nin kamu kavramı karşılaştırılır."
+}

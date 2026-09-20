@@ -1,0 +1,16 @@
+{
+  "id": "mannheim",
+  "born": {
+    "year": 1893
+  },
+  "died": {
+    "year": 1947
+  },
+  "sources": [
+    "encyclopedia-mannheim-philosophy",
+    "nwe-mannheim"
+  ],
+  "works": [
+    "mannheim-1940-man-society"
+  ]
+}

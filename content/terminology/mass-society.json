@@ -1,0 +1,51 @@
+{
+  "_comment": "Terms for the lesson mass-society. status: ok = attested in a Turkish source I opened; chosen = my own rendering (no Turkish source checked); check = plausible but needs a Turkish-language reviewer. Existing glossary terms (opinion-leader, two-step-flow, filter-bubble, magic-bullet, suggestibility, spiral-of-silence, mass-media, mass-communication) are used exactly as in content/terminology/*.json. Keys are concept ids or short slugs.",
+  "mass-society": {
+    "en": "mass society", "tr": "kitle toplumu", "status": "ok", "alt": ["kitle toplumu kuramı"],
+    "note": "'Kitle toplumu' is in the course unit title and in Baylarov & Rustamli 2022 (kitle toplumu kavramı). 'Kitle toplumu kuramı' comes from the course title."
+  },
+  "crowd-psychology": {
+    "en": "crowd psychology", "tr": "kalabalık psikolojisi", "status": "check", "alt": ["kitle psikolojisi"],
+    "note": "Turkish sources use 'kitle' for both crowd and mass, and Le Bon's book is 'Kitleler Psikolojisi' or 'Kitlelerin Psikolojisi' (Polat & Durmuş 2015; Aktürkoğlu 2021). The lesson uses 'kalabalık' for crowd to keep it apart from 'mass' (kitle) and says so on the glossary card."
+  },
+  "public-vs-crowd": {
+    "en": "public versus crowd", "tr": "kamu ve kalabalık", "status": "check",
+    "note": "No established Turkish rendering of Tarde's 'public' was found in a source I opened. 'Kamu' is chosen and glossed at first mention; 'halk' and 'izleyici kitlesi' were not used because they blur the distinction."
+  },
+  "tyranny-of-the-majority": {
+    "en": "tyranny of the majority", "tr": "çoğunluğun zorbalığı", "status": "ok", "alt": ["çoğunluğun tiranlığı"],
+    "note": "Both forms are in use: Turkish Wikipedia has 'Çoğunluğun tiranlığı'; a Turkish selection from Amerika'da Demokrasi is titled 'Çoğunluğun Zorbalığı' (Cumhuriyet Kitap, 2020)."
+  },
+  "atomisation": {
+    "en": "atomisation", "tr": "atomlaşma", "status": "chosen",
+    "note": "Natural rendering of 'atomization'; not checked in a Turkish source."
+  },
+  "intermediate-groups": {
+    "en": "intermediate groups", "tr": "aracı gruplar", "status": "chosen",
+    "note": "Kornhauser's 'intermediate groups / structures'. 'Ara gruplar' and 'aracı kurumlar' are possible alternatives, not checked."
+  },
+  "mass-culture-fear": {
+    "en": "fear of mass culture", "tr": "kitle kültürü korkusu", "status": "chosen",
+    "note": "The course unit title says 'Kitle Kültürü'; 'korkusu' is the lesson's own framing of the aristocratic and left worries about culture."
+  },
+  "mass-man": {
+    "en": "mass-man", "tr": "kitle-insan", "status": "chosen",
+    "note": "Ortega's 'hombre-masa'; English 'mass-man' as in the excerpts read. Turkish translations of the book have several titles: Kitlelerin Ayaklanması (İş Bankası Kültür Yayınları), Kitlelerin İsyanı, Kütlelerin İsyanı, and 'Kitlelerin Yükselişi' in one article."
+  },
+  "accessibility-availability": {
+    "en": "accessibility of elites / availability of non-elites (masses)", "tr": "elitlerin erişilebilirliği / kitlelerin seferber edilebilirliği", "status": "chosen",
+    "note": "Kornhauser's formula in my own wording; the Turkish course books were not checked for a fixed rendering."
+  },
+  "tutelary-power": {
+    "en": "tutelary power (soft despotism)", "tr": "vesayetçi güç", "status": "chosen",
+    "note": "'Tutelary' is Reeve's word in the Gutenberg translation; 'yumuşak despotluk' is used only descriptively (Tocqueville himself says 'mild', and that the old words despotism and tyranny do not fit)."
+  },
+  "one-step-flow": {
+    "en": "one-step flow", "tr": "tek aşamalı iletişim akışı", "status": "chosen",
+    "note": "Built on the glossary term 'iki aşamalı iletişim akışı' (two-step flow of communication)."
+  },
+  "primary-group": {
+    "en": "primary group", "tr": "birincil grup", "status": "chosen",
+    "note": "Used as in Kornhauser's entry ('primary relations'); not checked in a Turkish source."
+  }
+}

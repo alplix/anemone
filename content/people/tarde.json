@@ -1,0 +1,17 @@
+{
+  "id": "tarde",
+  "born": {
+    "year": 1843
+  },
+  "died": {
+    "year": 1904
+  },
+  "sources": [
+    "encyclopedia-tarde-contemporary-authors",
+    "parsons-2024-tarde-excerpt"
+  ],
+  "works": [
+    "tarde-1890-lois-imitation",
+    "tarde-1901-opinion-foule"
+  ]
+}

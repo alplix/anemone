@@ -1,0 +1,19 @@
+{
+  "id": "mass-society",
+  "family": "society",
+  "introducedBy": [
+    "kornhauser"
+  ],
+  "related": [
+    "atomisation",
+    "mass-culture-fear",
+    "crowd-psychology",
+    "mass-media",
+    "powerful-effects"
+  ],
+  "sources": [
+    "kornhauser-1968-iess-mass-society",
+    "hamilton-encyclopedia-sociology-mass-society",
+    "marshall-dictionary-sociology-mass-society"
+  ]
+}

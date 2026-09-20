@@ -1,0 +1,24 @@
+{
+  "id": "le-bon",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "name": "Gustave Le Bon",
+  "nativeName": "",
+  "slug": "gustave-le-bon",
+  "short": "French physician and social writer (1841–1931); with Psychologie des foules (1895) he popularised the idea of an “era of crowds” and the psychology of crowds.",
+  "roles": [
+    "physician",
+    "social psychologist",
+    "writer"
+  ],
+  "bio": "Gustave Le Bon was born on 7 May 1841 and died on 13 December 1931. He had trained as a physician, but his interests were very wide: he wrote on subjects from the components of tobacco smoke to physical anthropology, from atomic energy to sociology, and because of this breadth some have found his work shallow. He is best known for his thinking about crowd behaviour.\n\nThe introduction to *Psychologie des foules* (1895) is titled “the era of crowds” and argues that in a time when old beliefs are collapsing, the power of crowds is the one force nothing can stop. According to Le Bon, people who come together acquire new characteristics. He names three causes: a feeling of invincible power together with anonymity, contagion and, most important, suggestibility. In these conditions a person “descends several rungs in the ladder of civilisation”. The press, in his account, does not steer the crowd but mirrors its opinions.\n\nLe Bon also ties the character of crowds to inherited “racial” traits; that side of his work cannot be defended today. Because of his politics he has been labelled “antidemocrat and elitist”. Figures such as Freud and Allport acknowledged the importance of his work. Critics such as Reicher argue that his picture of the crowd ignores social context.\n\nHe also reached Turkish readers: according to one article, Abdullah Cevdet translated many of his works and some Ottoman intellectuals were influenced by his elitist outlook. [[cite:polat-durmus-2015-le-bon-abdullah-cevdet]]",
+  "works": [
+    {
+      "bib": "le-bon-1895-psychologie-foules",
+      "note": "Crowd psychology; the “era of crowds”; suggestion, contagion, anonymity; the press as a mirror of the crowd."
+    }
+  ],
+  "inCourse": "In [[lesson:mass-society]] he appears as the crowd-psychology branch of the aristocratic strand; crowd is compared with Tarde’s notion of the public."
+}

@@ -1,0 +1,1001 @@
+{
+  "tocqueville-1835-democratie": {
+    "type": "book",
+    "authors": [
+      "Tocqueville, Alexis de"
+    ],
+    "year": 1835,
+    "title": "De la démocratie en Amérique",
+    "publisher": "Librairie de Charles Gosselin",
+    "place": "Paris",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "reference-work",
+        "full-text-translation"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library work OL278001W: first publish year 1835, Librairie de Charles Gosselin among the publishers (Paris editions of 1836 and 1839 listed). Encyclopedia.com (Encyclopedia of European Social History): vol. 1 1835, vol. 2 1840. Passages used (tyranny of the majority, individualism, newspapers and associations, the 'immense and tutelary power') read in Henry Reeve's English translation, Project Gutenberg eBooks 815 and 816; not compared with the French original."
+    }
+  },
+  "le-bon-1895-psychologie-foules": {
+    "type": "book",
+    "authors": [
+      "Le Bon, Gustave"
+    ],
+    "year": 1895,
+    "title": "Psychologie des foules",
+    "publisher": "Félix Alcan",
+    "place": "Paris",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "wikisource-french-text",
+        "english-translation-full-text",
+        "open-library"
+      ],
+      "date": "2026-09-20",
+      "note": "French text (Wikisource transcription of the Alcan 1895 edition) and the English translation 'The Crowd' (T. Fisher Unwin; Project Gutenberg 445) read for: the introduction 'L'ère des foules', the three causes, the 'rungs of the ladder of civilisation' passage, the press passage. Open Library work OL39709130W lists F. Alcan, Paris, 1895; Encyclopedia.com (Encyclopedia of European Social History) gives 1895."
+    }
+  },
+  "tarde-1890-lois-imitation": {
+    "type": "book",
+    "authors": [
+      "Tarde, Gabriel"
+    ],
+    "year": 1890,
+    "title": "Les lois de l'imitation: étude sociologique",
+    "publisher": "Félix Alcan",
+    "place": "Paris",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "reference-work",
+        "english-translation-full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library work OL10714179W: 1890, Félix Alcan, Paris. Encyclopedia.com (Contemporary Authors): F. Alcan, 1890. The English translation by Elsie Clews Parsons (New York: Henry Holt, 1903, from the second French edition) was read on the Internet Archive for the sentence 'Society is imitation and imitation is a kind of somnambulism'."
+    }
+  },
+  "tarde-1901-opinion-foule": {
+    "type": "book",
+    "authors": [
+      "Tarde, Gabriel"
+    ],
+    "year": 1901,
+    "title": "L'opinion et la foule",
+    "publisher": "Félix Alcan",
+    "place": "Paris",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "internet-archive-scan",
+        "open-library",
+        "reference-work"
+      ],
+      "date": "2026-09-20",
+      "note": "Internet Archive scan of a later Alcan printing (University of Toronto copy dated 1910; the preface is dated May 1901) read for the first chapter 'Le public et la foule', the definition of the public and the remark about regions where no Jew has ever been seen. Open Library work OL39411707W: 1901, F. Alcan, Paris. Encyclopedia.com (Contemporary Authors): F. Alcan, 1901. A second Internet Archive scan labelled 1901 was downloaded but not read."
+    }
+  },
+  "ortega-1930-rebelion-masas": {
+    "type": "book",
+    "authors": [
+      "Ortega y Gasset, José"
+    ],
+    "year": 1930,
+    "title": "La rebelión de las masas",
+    "publisher": "Revista de Occidente",
+    "place": "Madrid",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "reference-works",
+        "translation-excerpts"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library work OL44716329W: 1930, Revista de Occidente, Madrid. New World Encyclopedia and Wikipedia: first published as articles in El Sol in 1929 and as a book in 1930, English translation in 1932; EBSCO Research Starters gives '1929 (English translation, 1932)'. Sentences quoted were read in the English translation as reproduced in New World Encyclopedia, and the same sentences were confirmed as search snippets in three other copies on the Internet Archive; the Spanish original was not read."
+    }
+  },
+  "mannheim-1940-man-society": {
+    "type": "book",
+    "authors": [
+      "Mannheim, Karl"
+    ],
+    "year": 1940,
+    "originalYear": 1935,
+    "originalTitle": "Mensch und Gesellschaft im Zeitalter des Umbaus",
+    "title": "Man and society in an age of reconstruction: Studies in modern social structure",
+    "publisher": "Harcourt, Brace",
+    "place": "New York",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "reference-work-bibliography"
+      ],
+      "date": "2026-09-20",
+      "note": "Bibliography of Kornhauser's 1968 encyclopedia entry: 'Mannheim, Karl (1935) 1940 Man and Society in an Age of Reconstruction: Studies in Modern Social Structure. New York: Harcourt. First published as Mensch und Gesellschaft im Zeitalter des Umbaus'. Open Library works OL985814W and OL985791W: first published 1940, Harcourt, Brace (New York), Routledge & Kegan Paul (London). Book not read; used only to date it and to place it in the mass-society literature as Kornhauser does."
+    }
+  },
+  "kornhauser-1959-politics-mass-society": {
+    "type": "book",
+    "authors": [
+      "Kornhauser, William"
+    ],
+    "year": 1959,
+    "title": "The politics of mass society",
+    "publisher": "Free Press",
+    "place": "Glencoe, IL",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "reference-work-bibliographies",
+        "obituary"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library works OL18497220W and OL5895873W: 1959, Free Press, Glencoe. Listed in Kornhauser's own encyclopedia entry (1968) and in Hamilton's Encyclopedia of Sociology entry; the University of California In Memoriam notice calls it his pioneering 1959 book. The book itself was not read; its argument is taken from Kornhauser's 1968 entry, which cites it."
+    }
+  },
+  "williams-1958-culture-society": {
+    "type": "book",
+    "authors": [
+      "Williams, Raymond"
+    ],
+    "year": 1958,
+    "title": "Culture and society 1780-1950",
+    "publisher": "Chatto & Windus",
+    "place": "London",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "secondary-quotations"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library work OL260933W / edition OL34555769W: 1958, Chatto and Windus (Columbia University Press and Penguin/Pelican editions follow). The sentence 'There are in fact no masses; there are only ways of seeing people as masses' is quoted in the abstract of Pooley 2021 and, with the surrounding lines and an explicit attribution to Culture and Society, in Nicolas Walter's article in Anarchy no. 3 (Freedom Press, 1961; full text on the Internet Archive); the same lines are quoted in several later books (Internet Archive full-text hits). The book itself was not read; no page numbers are used."
+    }
+  },
+  "pariser-2011-filter-bubble": {
+    "type": "book",
+    "authors": [
+      "Pariser, Eli"
+    ],
+    "year": 2011,
+    "title": "The filter bubble: What the Internet is hiding from you",
+    "publisher": "Penguin Press",
+    "place": "New York",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "open-library",
+        "crossref-reviews",
+        "publisher-page"
+      ],
+      "date": "2026-09-20",
+      "note": "Open Library work OL15747216W: 2011, New York, Penguin Press among the publishers. Crossref lists 2011-2012 reviews (portal: Libraries and the Academy; First Monday) carrying this exact title. Penguin Random House page for the paperback: 304 pages; the description says Google began customising search results for all users in December 2009. The book itself was not read."
+    }
+  },
+  "bramson-1961-political-context": {
+    "type": "book",
+    "authors": [
+      "Bramson, Leon"
+    ],
+    "year": 1961,
+    "title": "The political context of sociology",
+    "publisher": "Princeton University Press",
+    "place": "Princeton, NJ",
+    "doi": "10.1515/9781400874804",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "open-library"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record of the book (Princeton University Press, 1961) and of chapter five, 'The American critique of the theory of mass society: research in mass communications', pp. 96-118; Open Library work OL161502W: Princeton University Press, 1961. The chapter was not read; the lesson mentions only that it exists and what its title says."
+    }
+  },
+  "parsons-2024-tarde-excerpt": {
+    "type": "chapter",
+    "authors": [
+      "Tarde, Gabriel"
+    ],
+    "year": 2024,
+    "title": "The Laws of Imitation (1903) [excerpt, with editor's introduction by Patrick Parsons]",
+    "editors": [
+      "Parsons, Patrick"
+    ],
+    "bookTitle": "Early Media Effects Theory & the Suggestion Doctrine: Selected Readings, 1895-1935",
+    "publisher": "mediastudies.press",
+    "place": "Bethlehem, PA",
+    "pages": "23-30",
+    "doi": "10.32376/3f8575cb.599a9b4f",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record (book-chapter, pages 23-30, mediastudies.press, Bethlehem PA, print 2024-12-28). The open-access PDF of the chapter (CC0) was read: editor's introduction (Tarde 1843-1904; L'opinion et la foule 1901; crowd versus public, the public as a creation of the press) and the excerpt containing 'Society is imitation and imitation is a kind of somnambulism'."
+    }
+  },
+  "bell-1956-theory-mass-society": {
+    "type": "chapter",
+    "authors": [
+      "Bell, Daniel"
+    ],
+    "year": 2004,
+    "originalYear": 1956,
+    "title": "The theory of mass society: A critique (from Commentary, 1956)",
+    "editors": [
+      "Peters, John Durham",
+      "Simonson, Peter"
+    ],
+    "bookTitle": "Mass communication and American social thought",
+    "publisher": "Rowman & Littlefield",
+    "place": "Lanham, MD",
+    "pages": "364-372",
+    "doi": "10.5040/9798216402800.ch-053",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "open-library"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record of the reprint ('From Commentary (1956)', pp. 364-372, Rowman & Littlefield, 2004); Open Library lists the volume under Peter Simonson and John Durham Peters (Rowman & Littlefield, 2004). Hamilton's Encyclopedia of Sociology entry and Kornhauser's 1968 entry both cite Bell's critique. The text itself was not read; only its existence, title and date are used."
+    }
+  },
+  "reicher-1984-st-pauls-riot": {
+    "type": "article",
+    "authors": [
+      "Reicher, S. D."
+    ],
+    "year": 1984,
+    "title": "The St. Pauls' riot: An explanation of the limits of crowd action in terms of a social identity model",
+    "container": "European Journal of Social Psychology",
+    "volume": "14",
+    "issue": "1",
+    "pages": "1-21",
+    "doi": "10.1002/ejsp.2420140102",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract",
+        "full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref and OpenAlex records agree (volume 14, issue 1, pages 1-21). The full text (author-hosted PDF) was read: sources and method, the chronology of 2 April 1980, the 'limits of behaviour' section, the author's own caveats (data 'highly suggestive', not proof; only the period before the police withdrew is analysed)."
+    }
+  },
+  "drury-cocking-reicher-2009-everyone": {
+    "type": "article",
+    "authors": [
+      "Drury, John",
+      "Cocking, Chris",
+      "Reicher, Steve"
+    ],
+    "year": 2009,
+    "title": "Everyone for themselves? A comparative study of crowd solidarity among emergency survivors",
+    "container": "British Journal of Social Psychology",
+    "volume": "48",
+    "issue": "3",
+    "pages": "487-506",
+    "doi": "10.1348/014466608x357893",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record (British Journal of Social Psychology 48(3), 487-506) with abstract; OpenAlex gives the same abstract and lists 2008 as the online date. Abstract read: interviews with 21 survivors of 11 emergencies; shared identity linked to solidarity and less 'panic'. Full text not read."
+    }
+  },
+  "berman-1997-weimar-civil-society": {
+    "type": "article",
+    "authors": [
+      "Berman, Sheri"
+    ],
+    "year": 1997,
+    "title": "Civil society and the collapse of the Weimar Republic",
+    "container": "World Politics",
+    "volume": "49",
+    "issue": "3",
+    "pages": "401-429",
+    "doi": "10.1353/wp.1997.0008",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref and OpenAlex records agree (World Politics 49(3), 401-429) and give the same abstract (a robust civil society helped scuttle Weimar; associationism and democratic stability can be inversely related). Full text not read."
+    }
+  },
+  "katz-1957-two-step-flow": {
+    "type": "article",
+    "authors": [
+      "Katz, Elihu"
+    ],
+    "year": 1957,
+    "title": "The two-step flow of communication: An up-to-date report on an hypothesis",
+    "container": "Public Opinion Quarterly",
+    "volume": "21",
+    "issue": "1",
+    "pages": "61-78",
+    "doi": "10.1086/266687",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record (Public Opinion Quarterly 21(1), anniversary issue; Crossref gives the first page only) and OpenAlex abstract: the hypothesis was tested in several successive studies, each trying a different way to take interpersonal relations into account in survey design; it was 'largely corroborated and considerably refined'. Page range 61-78 is the one usually cited; full text not read."
+    }
+  },
+  "bennett-manheim-2006-one-step-flow": {
+    "type": "article",
+    "authors": [
+      "Bennett, W. Lance",
+      "Manheim, Jarol B."
+    ],
+    "year": 2006,
+    "title": "The one-step flow of communication",
+    "container": "The ANNALS of the American Academy of Political and Social Science",
+    "volume": "608",
+    "issue": "1",
+    "pages": "213-232",
+    "doi": "10.1177/0002716206292266",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref and OpenAlex records agree (ANNALS 608(1), 213-232) and give the same abstract. Full text not read; only abstract-level claims are made."
+    }
+  },
+  "bakshy-messing-adamic-2015-facebook": {
+    "type": "article",
+    "authors": [
+      "Bakshy, Eytan",
+      "Messing, Solomon",
+      "Adamic, Lada A."
+    ],
+    "year": 2015,
+    "title": "Exposure to ideologically diverse news and opinion on Facebook",
+    "container": "Science",
+    "volume": "348",
+    "issue": "6239",
+    "pages": "1130-1132",
+    "doi": "10.1126/science.aaa1160",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref and OpenAlex records agree (Science 348(6239), 1130-1132); abstract read (10.1 million US Facebook users; individuals' choices limited exposure to cross-cutting content more than algorithmic ranking did). Full text not read."
+    }
+  },
+  "flaxman-goel-rao-2016-filter-bubbles": {
+    "type": "article",
+    "authors": [
+      "Flaxman, Seth",
+      "Goel, Sharad",
+      "Rao, Justin M."
+    ],
+    "year": 2016,
+    "title": "Filter bubbles, echo chambers, and online news consumption",
+    "container": "Public Opinion Quarterly",
+    "volume": "80",
+    "issue": "S1",
+    "pages": "298-320",
+    "doi": "10.1093/poq/nfw006",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref and OpenAlex records agree (Public Opinion Quarterly 80(S1), 298-320); abstract read (web-browsing histories of 50,000 US users; social networks and search engines associated both with greater ideological distance between individuals and with more exposure to the less preferred side; effects modest). Full text not read."
+    }
+  },
+  "zuiderveen-borgesius-2016-filter-bubbles": {
+    "type": "article",
+    "authors": [
+      "Zuiderveen Borgesius, Frederik J.",
+      "Trilling, Damian",
+      "Möller, Judith",
+      "Bodó, Balázs",
+      "de Vreese, Claes H.",
+      "Helberger, Natali"
+    ],
+    "year": 2016,
+    "title": "Should we worry about filter bubbles?",
+    "container": "Internet Policy Review",
+    "volume": "5",
+    "issue": "1",
+    "doi": "10.14763/2016.1.401",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref and OpenAlex records agree (Internet Policy Review 5(1)); abstract read (a synthesis of empirical research on self-selected and pre-selected personalisation; concludes there is at present little empirical evidence that warrants worries about filter bubbles). Full text not read."
+    }
+  },
+  "bail-2018-opposing-views": {
+    "type": "article",
+    "authors": [
+      "Bail, Christopher A.",
+      "Argyle, Lisa P.",
+      "Brown, Taylor W.",
+      "Bumpus, John P.",
+      "Chen, Haohan",
+      "Hunzaker, M. B. Fallin",
+      "Lee, Jaemin",
+      "Mann, Marcus",
+      "Merhout, Friedolin",
+      "Volfovsky, Alexander"
+    ],
+    "year": 2018,
+    "title": "Exposure to opposing views on social media can increase political polarization",
+    "container": "Proceedings of the National Academy of Sciences",
+    "volume": "115",
+    "issue": "37",
+    "pages": "9216-9221",
+    "doi": "10.1073/pnas.1804840115",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref and OpenAlex records agree (PNAS 115(37), 9216-9221); abstract read (field experiment with a Twitter bot; Republicans became more conservative after following a liberal bot, Democrats' shift was slight and not statistically significant; the authors note limitations). Full text not read."
+    }
+  },
+  "brady-2017-moral-emotional": {
+    "type": "article",
+    "authors": [
+      "Brady, William J.",
+      "Wills, Julian A.",
+      "Jost, John T.",
+      "Tucker, Joshua A.",
+      "Van Bavel, Jay J."
+    ],
+    "year": 2017,
+    "title": "Emotion shapes the diffusion of moralized content in social networks",
+    "container": "Proceedings of the National Academy of Sciences",
+    "volume": "114",
+    "issue": "28",
+    "pages": "7313-7318",
+    "doi": "10.1073/pnas.1618923114",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref and OpenAlex records agree (PNAS 114(28), 7313-7318); abstract read (sample of social media messages on gun control, same-sex marriage and climate change, n = 563,312 as printed in the abstract; each additional moral-emotional word raised diffusion by about 20 percent; the effect was stronger within than between liberal and conservative networks). Full text not read."
+    }
+  },
+  "vosoughi-roy-aral-2018-true-false-news": {
+    "type": "article",
+    "authors": [
+      "Vosoughi, Soroush",
+      "Roy, Deb",
+      "Aral, Sinan"
+    ],
+    "year": 2018,
+    "title": "The spread of true and false news online",
+    "container": "Science",
+    "volume": "359",
+    "issue": "6380",
+    "pages": "1146-1151",
+    "doi": "10.1126/science.aap9559",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref and OpenAlex records agree (Science 359(6380), 1146-1151); abstract read (about 126,000 stories tweeted by about 3 million people, 2006-2017; falsehood diffused farther, faster, deeper and more broadly than truth; robots accelerated true and false news alike, so humans account for the difference). Full text not read."
+    }
+  },
+  "polat-durmus-2015-le-bon-abdullah-cevdet": {
+    "type": "article",
+    "authors": [
+      "Polat, Ferihan",
+      "Durmuş, Ayşegül"
+    ],
+    "year": 2015,
+    "title": "Türk siyasi düşüncesinde Gustave Le Bon etkisi: Abdullah Cevdet örneği",
+    "container": "MANAS Sosyal Araştırmalar Dergisi",
+    "volume": "4",
+    "issue": "5",
+    "pages": "310-328",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "dergipark-metadata",
+        "full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "DergiPark record (MANAS Sosyal Araştırmalar Dergisi 4(5), December 2015, pp. 310-328, Kyrgyz-Turkish Manas University) and the article PDF read: abstract, the section on Le Bon's crowd theory, the biography of Abdullah Cevdet (death 29 November 1932; the list of works he translated, citing Hanioğlu 1988) and the section on Westernist intellectuals' distrust of the people. The Le Bon translations are stated by this article (after Hanioğlu 1988); a second Turkish source for the translation list was not found."
+    }
+  },
+  "akturkoglu-2021-le-bon": {
+    "type": "article",
+    "authors": [
+      "Aktürkoğlu, Mustafa Enes"
+    ],
+    "year": 2021,
+    "title": "Gustave Le Bon'un Kitleler Psikolojisi ve Devrim Psikolojisi eserlerinden hareketle fikri yapısının incelenmesi",
+    "container": "Bülent Ecevit Üniversitesi İlahiyat Fakültesi Dergisi",
+    "volume": "8",
+    "issue": "1",
+    "pages": "339-354",
+    "doi": "10.33460/beuifd.901360",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record for DOI 10.33460/beuifd.901360 (BEÜ İlahiyat Fakültesi Dergisi 8(1), 339-354; Crossref registers a variant title, the printed title is used here) and the article PDF read: Le Bon's dates as reported in Abdullah Cevdet's obituary piece in İçtihad (15 January 1932), the statement that Le Bon's ideas were taken up by Ottoman intellectuals, the Turkish edition of Le Bon cited as Kitlelerin Psikolojisi (Hayat Yayınları, 1997)."
+    }
+  },
+  "baylarov-rustamli-2022-kitleler": {
+    "type": "article",
+    "authors": [
+      "Baylarov, Goshgar",
+      "Rustamli, Jomard"
+    ],
+    "year": 2022,
+    "title": "Amerikan kitle iletişim sosyolojisinde ve İngiliz kültürel çalışmalarında “kitleler” sorununa yaklaşım",
+    "container": "Uluslararası Sosyal ve Ekonomik Çalışmalar Dergisi",
+    "volume": "3",
+    "issue": "2",
+    "pages": "125-136",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "dergipark-record",
+        "full-text"
+      ],
+      "date": "2026-09-20",
+      "note": "DergiPark article PDF read (Uluslararası Sosyal ve Ekonomik Çalışmalar Dergisi 3(2), 30 December 2022, pp. 125-136): uses the term 'kitle toplumu', discusses Kornhauser, and renders Ortega y Gasset's book as 'Kitlelerin Yükselişi'. Only the terminology is used."
+    }
+  },
+  "pooley-2021-masses-other-people": {
+    "type": "web",
+    "authors": [
+      "Pooley, Jefferson"
+    ],
+    "title": "Masses are other people",
+    "container": "OSF Preprints",
+    "publisher": "OSF Preprints",
+    "url": "https://doi.org/10.33767/osf.io/9fve7",
+    "accessed": "2026-09-20",
+    "year": 2021,
+    "doi": "10.33767/osf.io/9fve7",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "crossref",
+        "openalex-abstract"
+      ],
+      "date": "2026-09-20",
+      "note": "Crossref record (posted-content, 2021) and OpenAlex abstract: the abstract quotes Raymond Williams's sentence 'There are in fact no masses; there are only ways of seeing people as masses' and adds that masses 'are other people'; it also says that 'mass' came to mean a mob, a crowd-in-waiting. Preprint full text not opened (host unreachable)."
+    }
+  },
+  "kornhauser-1968-iess-mass-society": {
+    "type": "web",
+    "authors": [
+      "Kornhauser, William"
+    ],
+    "title": "Mass society",
+    "container": "International Encyclopedia of the Social Sciences (ed. David L. Sills)",
+    "publisher": "Macmillan and Free Press (text via Encyclopedia.com, Gale)",
+    "url": "https://www.encyclopedia.com/social-sciences-and-law/sociology-and-social-reform/sociology-general-terms-and-concepts/mass-society",
+    "accessed": "2026-09-20",
+    "year": 1968,
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "page-read",
+        "author-attribution-checked"
+      ],
+      "date": "2026-09-20",
+      "note": "Whole entry read on Encyclopedia.com (signed 'William Kornhauser'; the University of California In Memoriam notice confirms that he wrote the 'mass society' entry in the International Encyclopedia of the Social Sciences; Open Library lists that encyclopedia as 1968, Macmillan / Free Press, ed. David L. Sills). Used for: the definition, the structure of mass society, mass arenas managed through the mass media, the aristocratic versus democratic criticism, the three intellectual streams, and Kornhauser's own account of the postwar criticism."
+    }
+  },
+  "hamilton-encyclopedia-sociology-mass-society": {
+    "type": "web",
+    "authors": [
+      "Hamilton, Richard F."
+    ],
+    "title": "Mass society",
+    "container": "Encyclopedia of Sociology",
+    "publisher": "Gale (text via Encyclopedia.com)",
+    "url": "https://www.encyclopedia.com/social-sciences-and-law/sociology-and-social-reform/sociology-general-terms-and-concepts/mass-society#hamilton",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Entry read on Encyclopedia.com (signed 'Richard F. Hamilton'; second entry on the same page). Used, as one critic's account, for: right, neutral and left variants; the left variant's account of media; the periods of popularity; his criticism of the empirical claims (migration, cities). The year of the encyclopedia edition is not shown on the page, so none is given."
+    }
+  },
+  "marshall-dictionary-sociology-mass-society": {
+    "type": "web",
+    "authors": [
+      "Marshall, Gordon"
+    ],
+    "title": "Mass society",
+    "container": "A Dictionary of Sociology",
+    "publisher": "Oxford University Press (text via Encyclopedia.com)",
+    "url": "https://www.encyclopedia.com/social-sciences-and-law/sociology-and-social-reform/sociology-general-terms-and-concepts/mass-society#marshall",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Entry read on Encyclopedia.com (third entry on the page, Oxford, signed 'Gordon Marshall'): the image begins with Tocqueville, the 'innumerable multitude' passage, Kornhauser 1959, Frankfurt School, Giner 1976; the term has fallen out of fashion because of vagueness and value-laden character."
+    }
+  },
+  "uc-in-memoriam-kornhauser": {
+    "type": "web",
+    "authors": [
+      "University of California Academic Senate"
+    ],
+    "title": "William Kornhauser (In Memoriam)",
+    "publisher": "University of California, Academic Senate",
+    "url": "https://senate.universityofcalifornia.edu/_files/inmemoriam/html/williamkornhauser.htm",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Notice read: Professor of Sociology, Emeritus, Berkeley, 1925-2004; died 3 July 2004 aged 79; Ph.D. Chicago 1953; The Politics of Mass Society (1959) synthesised Tocqueville, Mannheim, Ortega y Gasset and Nisbet; he wrote the 'mass society' entry in the International Encyclopedia of the Social Sciences."
+    }
+  },
+  "ebsco-mass-society-theory": {
+    "type": "web",
+    "title": "Social movement theory: Mass society theory",
+    "container": "Research Starters",
+    "publisher": "EBSCO Research Starters",
+    "url": "https://www.ebsco.com/research-starters/social-sciences-and-humanities/social-movement-theory-mass-society-theory",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read: gives William Kornhauser as 1925-2004 (agrees with the UC In Memoriam notice) and The Politics of Mass Society (1959); describes Lazarsfeld's limited-effects work as the main criticism. Only the dates are used."
+    }
+  },
+  "encyclopedia-le-bon-european-social-history": {
+    "type": "web",
+    "title": "Le Bon, Gustave (1841-1931)",
+    "container": "Encyclopedia of European Social History",
+    "publisher": "Gale (text via Encyclopedia.com)",
+    "url": "https://www.encyclopedia.com/international/encyclopedias-almanacs-transcripts-and-maps/le-bon-gustave-1841-1931",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Entry read: 1841-1931, trained as a physician; crowd theory (group mind, contagion, suggestibility, racial heredity); crowds capable of positive action too; label 'antidemocrat and elitist'; La Psychologie des foules (1895); Freud and Allport acknowledged his importance; wide-ranging work sometimes seen as shallow and dilettantish. Its date for the English translation (1897) disagrees with other sources and is not used."
+    }
+  },
+  "encyclopedia-tocqueville-european-social-history": {
+    "type": "web",
+    "title": "Tocqueville, Alexis Charles Henri Maurice Clérel de (1805-1859)",
+    "container": "Encyclopedia of European Social History",
+    "publisher": "Gale (text via Encyclopedia.com)",
+    "url": "https://www.encyclopedia.com/international/encyclopedias-almanacs-transcripts-and-maps/tocqueville-alexis-charles-henri-maurice-clerel-de-1805-1859",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Entry read: born 29 July 1805, died Cannes 16 April 1859; Democracy in America (vol. 1, 1835; vol. 2, 1840); May 1831 to February 1832 in the United States; The Old Regime and the French Revolution (1856). The birthplace is given as Paris here but differently elsewhere, so no birthplace is used."
+    }
+  },
+  "encyclopedia-tocqueville-american-constitution": {
+    "type": "web",
+    "title": "Tocqueville, Alexis de (1805-1859)",
+    "container": "Encyclopedia of the American Constitution",
+    "publisher": "Gale (text via Encyclopedia.com)",
+    "url": "https://www.encyclopedia.com/politics/encyclopedias-almanacs-transcripts-and-maps/tocqueville-alexis-de-1805-1859",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Entry read: nine months of 1831-1832 in the United States; two undesirable developments seen in America: a pervasive tyranny of the majority and a centrifugal individualism."
+    }
+  },
+  "nwe-tocqueville": {
+    "type": "web",
+    "title": "Alexis de Tocqueville",
+    "publisher": "New World Encyclopedia",
+    "url": "https://www.newworldencyclopedia.org/entry/Alexis_de_Tocqueville",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read: 29 July 1805 - 16 April 1859; Democracy in America (1835); civic associations as remedy for individualism."
+    }
+  },
+  "encyclopedia-tarde-contemporary-authors": {
+    "type": "web",
+    "title": "Tarde, Jean Gabriel 1843-1904",
+    "container": "Contemporary Authors",
+    "publisher": "Gale (text via Encyclopedia.com)",
+    "url": "https://www.encyclopedia.com/arts/educational-magazines/tarde-jean-gabriel-1843-1904",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Entry read: born 12 March 1843 in Sarlat; Les lois de l'imitation (F. Alcan, 1890); L'opinion et la foule (F. Alcan, 1901); director of criminal statistics at the Ministry of Justice 1894-1900; chair of modern philosophy at the Collège de France 1900-1904; newspapers helped create publics; rival of Durkheim."
+    }
+  },
+  "encyclopedia-mannheim-philosophy": {
+    "type": "web",
+    "title": "Mannheim, Karl (1893-1947)",
+    "container": "Encyclopedia of Philosophy",
+    "publisher": "Gale (text via Encyclopedia.com)",
+    "url": "https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/mannheim-karl-1893-1947",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Entry read: born in Budapest, died in London; studied at Berlin and Paris and at Heidelberg under Max Weber; taught at Heidelberg, Frankfurt and, after 1933, in London; influenced by Marx but expected a better society by non-revolutionary means."
+    }
+  },
+  "nwe-mannheim": {
+    "type": "web",
+    "title": "Karl Mannheim",
+    "publisher": "New World Encyclopedia",
+    "url": "https://www.newworldencyclopedia.org/entry/Karl_Mannheim",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read: 27 March 1893 (Budapest) - 9 January 1947 (London); left Germany for Britain when the Nazis came to power in 1933; lecturer at the London School of Economics from 1933; professor of education and sociology at the Institute of Education, University of London, 1944-1947."
+    }
+  },
+  "nwe-ortega": {
+    "type": "web",
+    "title": "José Ortega y Gasset",
+    "publisher": "New World Encyclopedia",
+    "url": "https://www.newworldencyclopedia.org/entry/Jos%C3%A9_Ortega_y_Gasset",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read: 9 May 1883 - 18 October 1955; professor at Madrid; founded Revista de Occidente (1923); La rebelión de las masas: masses not a social class, the 'señorito satisfecho', excerpts of the English translation."
+    }
+  },
+  "wikipedia-ortega": {
+    "type": "web",
+    "title": "José Ortega y Gasset",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Ortega_y_Gasset",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read: 9 May 1883 - 18 October 1955 (agrees with New World Encyclopedia)."
+    }
+  },
+  "wikipedia-revolt-of-the-masses": {
+    "type": "web",
+    "title": "The Revolt of the Masses",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/The_Revolt_of_the_Masses",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read: first published as a series of articles in El Sol in 1929, as a book in 1930, English translation two years later; Ortega says the mass-man can come from any social background."
+    }
+  },
+  "wikipedia-le-bon": {
+    "type": "web",
+    "title": "Gustave Le Bon",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Gustave_Le_Bon",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Page read: 7 May 1841 - 13 December 1931 (agrees with Encyclopedia.com, the English translation's title page and Aktürkoğlu 2021)."
+    }
+  },
+  "iskultur-ortega-kitlelerin-ayaklanmasi": {
+    "type": "web",
+    "authors": [
+      "Ortega y Gasset, José"
+    ],
+    "title": "Kitlelerin Ayaklanması",
+    "container": "Hasan Âli Yücel Klasikleri",
+    "publisher": "Türkiye İş Bankası Kültür Yayınları",
+    "url": "https://www.iskultur.com.tr/kitlelerin-ayaklanmasi-2.aspx",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Publisher page read: title 'Kitlelerin Ayaklanması', author José Ortega y Gasset (1883-1955), series Hasan Âli Yücel Klasikleri."
+    }
+  },
+  "nadirkitap-kitlelerin-isyani": {
+    "type": "web",
+    "authors": [
+      "Ortega y Gasset, José"
+    ],
+    "title": "Kitlelerin isyanı",
+    "container": "Second-hand book listing",
+    "publisher": "Nadir Kitap",
+    "url": "https://www.nadirkitap.com/kitlelerin-isyani-ortega-y-gasset-kitap3374057.html",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Listing opened: the book is offered as 'kitlelerin isyanı', author Ortega y Gasset. Used only as evidence that this Turkish title is in circulation."
+    }
+  },
+  "kitapyurdu-kutlelerin-isyani": {
+    "type": "web",
+    "authors": [
+      "Ortega y Gasset, José"
+    ],
+    "title": "Kütlelerin isyanı",
+    "container": "Bookshop listing",
+    "publisher": "Kitapyurdu",
+    "url": "https://www.kitapyurdu.com/kitap/kutlelerin-isyani/90870.html",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Listing opened: the book is offered as 'Kütlelerin İsyanı', author Jose Ortega y Gasset. Used only as evidence that this Turkish title is in circulation."
+    }
+  },
+  "tr-wikipedia-cogunlugun-tiranligi": {
+    "type": "web",
+    "title": "Çoğunluğun tiranlığı",
+    "publisher": "Vikipedi",
+    "url": "https://tr.wikipedia.org/wiki/%C3%87o%C4%9Funlu%C4%9Fun_tiranl%C4%B1%C4%9F%C4%B1",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Turkish Wikipedia article read: the Turkish term 'çoğunluğun tiranlığı' for Tocqueville's concept."
+    }
+  },
+  "cumhuriyet-2020-cogunlugun-zorbaligi": {
+    "type": "web",
+    "title": "'Çoğunluğun Zorbalığı'",
+    "container": "Cumhuriyet Kitap",
+    "publisher": "Cumhuriyet",
+    "url": "https://www.cumhuriyet.com.tr/haber/cogunlugun-zorbaligi-1799811",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Newspaper page read (19 December 2020): describes a Turkish book titled 'Çoğunluğun Zorbalığı', a selection from Amerika'da Demokrasi in which Tocqueville argues that the passion for equality can end in the tyranny of the majority."
+    }
+  },
+  "columbia-up-people-choice": {
+    "type": "web",
+    "authors": [
+      "Lazarsfeld, Paul F.",
+      "Berelson, Bernard",
+      "Gaudet, Hazel"
+    ],
+    "title": "The People's Choice (publisher's description of the Legacy Edition)",
+    "publisher": "Columbia University Press",
+    "url": "https://cup.columbia.edu/book/the-peoples-choice/9780231197953/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Publisher page read: 1940 campaign, a sample of six hundred people from Erie County, Ohio, interviewed monthly for the seven months before Election Day; media did not have a profound influence on individual voting habits, interpersonal interactions and word of mouth mattered more; mass media reached a small but crucial subset who passed information on."
+    }
+  },
+  "routledge-personal-influence": {
+    "type": "web",
+    "authors": [
+      "Katz, Elihu",
+      "Lazarsfeld, Paul F."
+    ],
+    "title": "Personal Influence (publisher's description of the 2005 edition)",
+    "publisher": "Routledge",
+    "url": "https://www.routledge.com/Personal-Influence-The-Part-Played-by-People-in-the-Flow-of-Mass-Communications/Katz-Lazarsfeld-Roper/p/book/9781412805070",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": [
+        "page-read"
+      ],
+      "date": "2026-09-20",
+      "note": "Publisher page read: first published 1955; study conducted in Decatur, Illinois; media messages may be mediated by informal opinion leaders; 'the surprising relevance of primary groups to the flow of mass communication'."
+    }
+  }
+}

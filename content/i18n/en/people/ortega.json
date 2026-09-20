@@ -1,0 +1,24 @@
+{
+  "id": "ortega",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "name": "José Ortega y Gasset",
+  "nativeName": "",
+  "slug": "jose-ortega-y-gasset",
+  "short": "Spanish philosopher (1883–1955); in La rebelión de las masas he defined the “mass-man” as an attitude, not a class, and voiced an elitist concern for culture.",
+  "roles": [
+    "philosopher",
+    "writer",
+    "university teacher"
+  ],
+  "bio": "José Ortega y Gasset was born in Madrid on 9 May 1883 and died on 18 October 1955. After studying at Jesuit schools and in Bilbao he completed his doctorate in philosophy in Madrid; from 1905 to 1907 he worked in Germany, above all in Marburg. He taught at the University of Madrid, founded the periodical *España* in 1915, was a co-founder of the newspaper *El Sol* in 1917 and in 1923 launched *Revista de Occidente*, which he directed until 1936. He called his philosophy “vital reason” and is known for the maxim summed up as “I am myself and my circumstance”.\n\nHis most famous book, *La rebelión de las masas*, appeared first as a series of articles in *El Sol* in 1929 and as a book in 1930; the English translation dates from 1932. In it Ortega analyses the birth of the “mass-man” and his rise to social power. His mass is not a social class: the mass-man can come from any class, and his chief target is the “satisfied young gentleman”, who thinks he knows everything and carries his expertise into other fields. He counts as mass the person who feels “just like everybody” and is not troubled by it, and in fascism he sees a new type of man who refuses even to give reasons and simply imposes his opinions.\n\nPolitically he was a liberal; he resigned his chair in protest against the dictatorship of Primo de Rivera and later became a republican. He argued that leadership of society should be in the hands of a qualified, independent-minded minority. Kornhauser counts him as the author of a highly popular version of the aristocratic strand. [[cite:kornhauser-1968-iess-mass-society]]",
+  "works": [
+    {
+      "bib": "ortega-1930-rebelion-masas",
+      "note": "The mass-man; the mass as an attitude rather than a class; elitist concern for culture."
+    }
+  ],
+  "inCourse": "In [[lesson:mass-society]] he is the most popular voice of the aristocratic strand and the example that “mass” is not a class."
+}

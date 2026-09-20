@@ -1,0 +1,20 @@
+{
+  "id": "mannheim",
+  "lang": "tr",
+  "name": "Karl Mannheim",
+  "nativeName": "",
+  "slug": "karl-mannheim",
+  "short": "Budapeşte doğumlu toplumbilimci (1893–1947); bilgi toplumbilimiyle tanınır, *Mensch und Gesellschaft im Zeitalter des Umbaus* (1935) kitabı kitle toplumu literatüründe demokratik damara sayılır.",
+  "roles": [
+    "toplumbilimci",
+    "eğitim bilimci"
+  ],
+  "bio": "Karl Mannheim 27 Mart 1893’te Budapeşte’de doğdu ve 9 Ocak 1947’de Londra’da öldü. Berlin ve Paris’te okudu, sonra Heidelberg ve Frankfurt’ta ders verdi. Naziler 1933’te iktidara gelince Almanya’dan İngiltere’ye kaçtı ve ölümüne kadar orada kaldı: 1933’ten London School of Economics’te öğretim görevlisiydi, 1944–1947 arasında Londra Üniversitesi Eğitim Enstitüsü’nde eğitim ve toplumbilim profesörüydü. Bu yıllarda *International Library of Sociology and Social Reconstruction* dizisinin editörlüğünü de yaptı.\n\nEn çok bilgi toplumbilimiyle, yani düşüncenin toplumsal bağlamla ilişkisini inceleyen alanla anılır. Marx’tan derinden etkilenmiştir ama daha iyi bir toplumun devrimci olmayan yollarla kurulabileceğini savunmuştur.\n\nKitle toplumu literatürüne katkısı, *Mensch und Gesellschaft im Zeitalter des Umbaus* (1935; İngilizcesi *Man and Society in an Age of Reconstruction*, 1940) kitabındadır. Kornhauser bu kitabı, “temel demokratikleşme” ve “artan karşılıklı bağımlılık”ın etkilerinin eleştirel çözümlemesi olarak ve toplumsal parçalanmanın yeni tahakküm biçimlerine kapı aralayabileceğini gören 20. yüzyıl yazarları arasında (Lederer, Fromm, Neumann, Arendt ve kendisiyle birlikte) sayar. Mannheim’ı kendi metninden okumadık; bu derste yalnızca Kornhauser’ın ve ansiklopedilerin aktardığı kadarıyla anılır. [[cite:kornhauser-1968-iess-mass-society]]",
+  "works": [
+    {
+      "bib": "mannheim-1940-man-society",
+      "note": "Kitle toplumu literatüründe demokratik damar; 1935 Almanca ilk baskı, 1940 İngilizce."
+    }
+  ],
+  "inCourse": "[[lesson:mass-society]] dersinde demokratik damarın öncüleri arasında kısaca anılır."
+}
