@@ -1,0 +1,797 @@
+{
+  "id": "mass-society",
+  "lang": "tr",
+  "translation": {
+    "status": "source",
+    "date": "2026-09-20"
+  },
+  "title": "Kitle Toplumu ve Kitle Kültürü Kuramı",
+  "slug": "kitle-toplumu",
+  "description": "Tocqueville, Le Bon, Tarde, Ortega ve Kornhauser: atomlaşmış birey, yönlendirilebilir kalabalık ve medya korkusunun iki damarı, kanıtları ve bugünkü yankıları.",
+  "claim": "Kitle toplumu kuramı, modern toplumda aracı grup ve topluluk bağları çözüldükçe insanların birbirinden kopuk, kolayca yönlendirilebilir bir yığına dönüştüğünü ve medyanın bu yığına doğrudan seslenen bir kanal olduğunu ileri süren, tek bir kuram değil birbirine ters düşen korkulardan oluşan bir fikir ailesidir; sonraki araştırmalar insanların çoğu zaman grupların içinde yaşadığını ve medyayı bu gruplar üzerinden aldığını gösterince, iddia kanıt olmaktan çok bir uyarı geleneği olarak okunmaya başlandı, ama sorduğu sorular (ölçek, bağlar, medya arenası) yaşıyor.",
+  "keywords": [
+    "kitle toplumu",
+    "kitle kültürü",
+    "Le Bon",
+    "Tocqueville",
+    "Tarde",
+    "Ortega y Gasset",
+    "Kornhauser",
+    "Mannheim",
+    "atomlaşma",
+    "kalabalık psikolojisi",
+    "kamu ve kalabalık",
+    "çoğunluğun zorbalığı",
+    "aracı gruplar",
+    "aristokratik eleştiri",
+    "filtre balonu",
+    "tek aşamalı iletişim akışı"
+  ],
+  "updated": "2026-09-20",
+  "timeline": {
+    "tocqueville-democracy-1": "Tocqueville, De la démocratie en Amérique, 1. cilt: çoğunluğun zorbalığı",
+    "tocqueville-democracy-2": "Tocqueville, 2. cilt: bireycilik ve vesayetçi güç",
+    "tarde-imitation": "Tarde, Les lois de l’imitation",
+    "le-bon-crowd": "Le Bon, Psychologie des foules: “kalabalıklar çağı”",
+    "tarde-public-crowd": "Tarde, L’opinion et la foule: kamu ve kalabalık",
+    "ortega-revolt": "Ortega y Gasset, La rebelión de las masas (kitap; gazete yazıları 1929)",
+    "mannheim-german": "Mannheim, Mensch und Gesellschaft im Zeitalter des Umbaus (İngilizcesi 1940)",
+    "peoples-choice": "Lazarsfeld, Berelson ve Gaudet: The People’s Choice (Erie County, 1940 seçimi)",
+    "personal-influence": "Katz ve Lazarsfeld: Personal Influence (Decatur çalışması)",
+    "kornhauser-politics": "Kornhauser, The Politics of Mass Society",
+    "reicher-st-pauls": "Reicher’in Bristol St Pauls olayları çalışması (olaylar Nisan 1980)",
+    "bennett-manheim": "Bennett ve Manheim: “tek aşamalı iletişim akışı”",
+    "pariser-filter-bubble": "Pariser, The Filter Bubble"
+  },
+  "cards": [
+    {
+      "id": "ctx-era",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "“Kalabalıklar çağı”: 1895’te bir hekim yeni bir egemen ilan ediyor",
+      "body": "1895, Paris. Hekimlik eğitimi almış, tütün dumanının bileşenlerinden atom enerjisine kadar her şeyle uğraşmış bir yazar olan [[person:le-bon|Gustave Le Bon]], *Psychologie des foules* (Kalabalıkların Psikolojisi) adlı kitabının girişinde büyük bir cümle kuruyor: eski inançlar sarsılıyor, eski otoriteler yıkılıyor ve ayakta kalan tek güç kalabalıkların gücü. Girişin başlığı da zaten “kalabalıklar çağı”. [[cite:le-bon-1895-psychologie-foules]] [[cite:encyclopedia-le-bon-european-social-history]]\n\nOna göre bu korkunun iki kaynağı var: bir yanda dinsel, siyasal ve toplumsal inançların çöküşü, öte yanda bilimin ve sanayinin yarattığı yepyeni yaşam koşulları. Sonuç, onun sözleriyle bir “geçiş ve kargaşa” dönemi. [[cite:le-bon-1895-psychologie-foules]]\n\nŞimdi kitabın şaşırtıcı yerine gel. Le Bon kalabalığı hor görür ama medyayı kalabalığın efendisi yapmaz, tam tersini söyler: basın eskiden kamuoyunu yönlendirirdi, artık yalnızca kalabalıkların fikirlerinin yansımasıdır ve rekabet yüzünden okurunu izlemek zorundadır. [[cite:le-bon-1895-psychologie-foules]]\n\nBunu aklında tut: “kitle toplumu” dediğimiz şey tek bir korku değil, birbirine ters düşen korkuların torbası. Le Bon’da tehlike aşağıdan yükselen bir sel; bazı öbür yazarlarda ise yukarıdan güdülen bir sürü. Bu derste torbayı açıyoruz.",
+      "question": {
+        "id": "ctx-era-q",
+        "type": "mcq",
+        "prompt": "Hayal et: 1895’te bir gazetenin satışları düşüyor ve editör Le Bon’un kitabına danışıyor. Le Bon’un basın tasvirine göre gazete ne yapmaya zorlanır?",
+        "options": [
+          "Okurunu eğitmek için daha ağır ve öğretici yazılar koymaya",
+          "Kalabalığın değişken ruh halini izlemeye; hafif, hızlı ve haber ağırlıklı içeriğe kaymaya",
+          "Hükümetin çizgisine yaklaşarak kalabalığı yönlendirmeye",
+          "Kalabalığı hiç dikkate almamaya, çünkü kalabalık gazete okumaz"
+        ],
+        "answer": 1,
+        "explain": "Le Bon’a göre basın kalabalığın önünde değil arkasındadır: fikir dayatmaktan vazgeçmiş, rekabet yüzünden kamu düşüncesinin her değişimini izleyen bir haber aracına dönüşmüştür. İlk seçenek basını yönlendirici güç sayar; oysa Le Bon tam tersini söyler. Üçüncü seçenek de hükümetlerin bile kalabalığın karşısında geri çekildiğini söyleyen metinle uyuşmaz. Dördüncü seçeneğin metinde karşılığı yok."
+      }
+    },
+    {
+      "id": "ctx-tocqueville",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "Tocqueville Amerika’da kalabalık görmedi, sessiz bir çoğunluk gördü",
+      "body": "1831–32: Fransız yargıç Alexis de Tocqueville dokuz ay boyunca Amerika’yı geziyor. Dönüşte yazdığı *De la démocratie en Amérique*’in ilk cildi 1835’te, ikincisi 1840’ta çıkıyor. [[cite:encyclopedia-tocqueville-american-constitution]] [[cite:encyclopedia-tocqueville-european-social-history]]\n\nKorktuğu şey, Le Bon’un aksine, sokağa dökülen kalabalık değil. Birinci ciltte “çoğunluğun zorbalığı” dediği şeyi anlatır: çoğunluk bir konuda kararını verdi mi tartışma biter, dostlar da rakipler de “boyun eğen bir sessizlik” içinde onaylar. Tocqueville Amerika’daki kadar az bağımsız düşünce ve tartışma özgürlüğü olan bir ülke bilmediğini yazar. Baskı yasalardan değil, çevrenin fikrinden gelir. [[cite:tocqueville-1835-democratie]]\n\nİkinci ciltte tablo değişir. Herkes birbirine benzemekte, herkes kendi küçük dünyasına çekilmektedir. Tocqueville “bireycilik” diye yeni bir sözcük kullanır: insanın kendini kitleden ayırıp ailesi ve dostlarıyla küçük bir daire kurması, geri kalan toplumu kendi haline bırakması. Bu yalıtılmış insanların üstünde ise “muazzam ve vesayetçi” bir güç yükselir: sert değil, ilgili ve yumuşak; insanları yetişkin yapmak yerine sürekli çocuk tutan bir güç. [[cite:tocqueville-1835-democratie]]\n\nYani aynı yazarda iki korku var: zorba çoğunluk ve birbirine yabancılaşmış bireyler. “Boyun eğen sessizlik” sana tanıdık geldiyse, [[lesson:spiral-of-silence]] dersinde, suskunluk sarmalında bir kez daha karşına çıkacak.",
+      "question": {
+        "id": "ctx-tocqueville-q",
+        "type": "mcq",
+        "prompt": "Hayal et: Bir mahallede tartışmalı bir konuda çoğunluk karar veriyor ve karşı görüştekiler sessizce tartışmayı bırakıyor. Ortada ne şiddet ne yasal yaptırım var. Tocqueville bunu en çok hangi kavramla adlandırırdı?",
+        "options": [
+          "Kalabalık bulaşması",
+          "Çoğunluğun zorbalığı",
+          "Devletin vesayetçi despotluğu",
+          "Sağlıklı uzlaşma"
+        ],
+        "answer": 1,
+        "explain": "Baskının kaynağı yasa ya da devlet değil, çoğunluğun fikir üzerindeki manevi gücüdür; Tocqueville’in birinci ciltteki çoğunluğun zorbalığı tam olarak budur. ‘Kalabalık bulaşması’ Le Bon’un mekanizmasıdır ve bir kalabalığın varlığını gerektirir. ‘Vesayetçi despotluk’ ikinci ciltte anlatılan, merkezî bir gücün insanlara bakıcılık ettiği düzendir ve burada böyle bir güç yok. ‘Sağlıklı uzlaşma’ ise karşı görüşün susturulmuş olmasıyla çelişir."
+      }
+    },
+    {
+      "id": "people-cast",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "text",
+      "title": "Kim kimdir, hangi yıl? Altı isim, üç kuşak",
+      "body": "Sınavda en çok puan kaybettiren şey kuramların kendisi değil, yılların karışmasıdır. Bu dersin kadrosu da farklı ülkelerden ve farklı siyasetlerden geliyor; yıllara dikkat et.\n\n- **Alexis de Tocqueville** (1805–1859), Fransız. *De la démocratie en Amérique*: 1. cilt 1835, 2. cilt 1840. Çoğunluğun zorbalığı, bireycilik. [[person:tocqueville]] [[cite:encyclopedia-tocqueville-european-social-history]]\n- **Gabriel Tarde** (1843–1904), Fransız yargıç ve toplumbilimci. *Les lois de l’imitation* (1890), *L’opinion et la foule* (1901): taklit, kalabalık ve kamu. [[person:tarde]] [[cite:encyclopedia-tarde-contemporary-authors]]\n- **Gustave Le Bon** (1841–1931), Fransız. *Psychologie des foules* (1895). [[person:le-bon]] [[cite:le-bon-1895-psychologie-foules]]\n- **José Ortega y Gasset** (1883–1955), İspanyol filozof. *La rebelión de las masas*: 1929’da gazete yazıları, 1930’da kitap. [[person:ortega]] [[cite:ortega-1930-rebelion-masas]]\n- **Karl Mannheim** (1893–1947), Budapeşte doğumlu; 1933’ten sonra Britanya’da. *Mensch und Gesellschaft im Zeitalter des Umbaus* (1935; İngilizcesi 1940). [[person:mannheim]] [[cite:mannheim-1940-man-society]]\n- **William Kornhauser** (1925–2004), Amerikalı. *The Politics of Mass Society* (1959). [[person:kornhauser]] [[cite:uc-in-memoriam-kornhauser]]\n\nKarşı takımda ise Lazarsfeld ve ekibi oynuyor: *The People’s Choice* (1944) ve *Personal Influence* (1955). [[person:lazarsfeld]] Tönnies, Durkheim, Simmel, Weber gibi klasik sosyologlar bu dersin arka planında duruyor; onları [[lesson:social-thought-roots]] dersinde tanıyacaksın.",
+      "question": {
+        "id": "people-cast-q",
+        "type": "order",
+        "prompt": "Şu eserleri ilk yayımlanma sırasına göre diz (eskiden yeniye).",
+        "items": [
+          "Tocqueville: De la démocratie en Amérique, 1. cilt (1835)",
+          "Tarde: Les lois de l’imitation (1890)",
+          "Le Bon: Psychologie des foules (1895)",
+          "Ortega y Gasset: La rebelión de las masas, kitap (1930)",
+          "Kornhauser: The Politics of Mass Society (1959)"
+        ],
+        "explain": "Sıra 1835, 1890, 1895, 1930, 1959. En sık karışan Tarde–Le Bon çiftidir: Tarde’nin taklit kitabı Le Bon’dan beş yıl önce çıkar, ama kalabalık ve kamu üzerine yazdığı L’opinion et la foule 1901’dedir, yani Le Bon’dan sonra. Ortega’nın yazıları 1929’da gazetede çıkmıştı; kitap 1930 tarihlidir."
+      }
+    },
+    {
+      "id": "people-tarde",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "story",
+      "title": "Tarde: “Kalabalığın psikolojisi yazıldı; sıra kamunun psikolojisinde”",
+      "body": "Mayıs 1901. Gabriel Tarde *L’opinion et la foule*’un önsözünü imzalıyor; ilk bölümün başlığı “Kamu ve kalabalık”. Tarde işe bir şikâyetle başlar: yazarlar “kalabalık” sözcüğünü her tür topluluğa yapıştırıyor ve kamuyu kalabalıkla karıştırıyor. Bu karışıklığı gidermek gerek, der. Tiyatro seyircisine “kamu” denen yerde bile, ona göre aslında kalabalık kastedilmektedir. [[cite:tarde-1901-opinion-foule]]\n\nAyrımı şöyle kurar. Kalabalık bedenlerin bir arada bulunduğu yerde doğar; ona göre biraz hayvansaldır, çünkü fiziksel temasla yayılan ruhsal bulaşmalar demetidir. Şimdiye dek yazılan psikoloji bu türe aittir. Kamu ise “salt zihinsel” bir topluluktur: fiziksel olarak birbirinden ayrı, bağı tümüyle zihinsel insanlar. Tarde, matbaanın icadından beri bu yeni türün durmadan büyüdüğünü söyler; kalabalığın psikolojisi yapıldı, sıra kamunun psikolojisindedir. [[cite:tarde-1901-opinion-foule]]\n\nKanıtı kendi kitabında: Fransa’da hiç Yahudi görülmemiş yerler bilirim, der; oralarda Yahudi düşmanlığı yine de gelişiyor, çünkü insanlar bu yönde yazan gazeteleri okuyor. [[cite:tarde-1901-opinion-foule]] Acı bir örnek, ama gösterdiği şey açık: gazete, temas olmadan da bir kamu ve onun önyargılarını üretebilir.\n\nBir de ilk kitabından o meşhur cümle: “Society is imitation and imitation is a kind of somnambulism” (Toplum taklittir, taklit de bir tür uyurgezerliktir; İngilizce çeviriden, çeviri bizim). [[cite:tarde-1890-lois-imitation]] [[cite:parsons-2024-tarde-excerpt]]",
+      "question": {
+        "id": "people-tarde-q",
+        "type": "mcq",
+        "prompt": "Hayal et: Ülkenin dört bir yanında birbirini hiç görmemiş yüz binlerce kişi aynı akşam aynı haber sitesini okuyup aynı öfkeyi paylaşıyor. Tarde’nin ayrımına göre bu topluluk nedir?",
+        "options": [
+          "Bir kalabalık",
+          "Bir kamu",
+          "Ne kalabalık ne kamu; yalnızca bir istatistik",
+          "Bir cemaat"
+        ],
+        "answer": 1,
+        "explain": "Tarde’ye göre kamunun ölçütü bedenlerin ayrı, bağın zihinsel olmasıdır; burada da öyle. Kalabalık seçeneği yanlış, çünkü kalabalık fiziksel temasla yayılan bulaşmayla tanımlanır. Tarde internet ya da haber sitesi bilmiyordu; ölçütünü biz bugüne uyguluyoruz. ‘Yalnızca istatistik’ ise ortak öfkenin zihinsel bağ kurduğunu görmezden gelir."
+      }
+    },
+    {
+      "id": "deep-sources",
+      "section": "people-time",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Üç kaynaktan akan bir fikir",
+      "body": "Kornhauser 1968’deki girişinde kitle toplumu fikrini üç ayrı kaynağa bağlar. Bu onun haritasıdır; başka bir tarihçi başka bir döküm çıkarabilir. [[cite:kornhauser-1968-iess-mass-society]]\n\n1. **Demokratikleşmeye aristokratik eleştiri.** Fransız Devrimi’nden sonra düzeni savunan Katolik düşünürler (Maistre, Bonald), sonra Tocqueville ve J. S. Mill gibi liberaller, Burckhardt ve Nietzsche; daha sonra Ortega. Ortak endişe: standartların yerini kitlenin keyfi iradesinin alması.\n2. **Topluluktan topluma geçiş çözümlemesi.** Maine’in statü ve sözleşme ayrımı, Tönnies’in Gemeinschaft ve Gesellschaft’ı, Durkheim’ın dayanışma ve anomi kuramı, Weber’in bürokrasi çözümlemesi; şehir sosyolojisinde Simmel, Park ve Wirth. Bu çizginin katkısı, modernleşmenin atomlaşma ve kişiliksizleşme getirdiği tezidir. Bu isimleri [[lesson:social-thought-roots]] ve [[lesson:chicago-school]] derslerinde tanıyacaksın.\n3. **Kitle psikolojisi.** Le Bon, Sighele ve Tarde: topluluk bağlarından ve geleneksel otoritelerden kopmuş insanların telkine ve yönlendirmeye daha açık olduğu fikri. Amerikan “kolektif davranış” çalışmaları (Blumer) bunu daha sosyolojik ve daha az polemik bir kalıba döktü.\n\nMannheim’ın 1935 tarihli kitabı bu temaları “temel demokratikleşme” ve “artan karşılıklı bağımlılık” çözümlemesinde birleştirenlerden biri olarak anılır. [[cite:mannheim-1940-man-society]] Kornhauser bunların ortak noktasını şöyle koyar: hepsi modern toplumu, gelişiminde doğuştan patolojik eğilimler taşıyan bir toplum olarak görür. Bu bakış, “kitle toplumu”nu kuram olmaktan çok bir bakış açısı yapar."
+    },
+    {
+      "id": "claim-core",
+      "section": "claim",
+      "layer": "core",
+      "kind": "text",
+      "title": "Kuramın çekirdeği: kopuk insanlar, erişilebilir elitler",
+      "body": "Bir bilmece: bir siyasetçiyle halk arasındaki aracıları (dernek, sendika, mahalle örgütü) kaldırsan iletişim kolaylaşır, değil mi? Kornhauser’a göre tam bu kolaylık tehlikelidir. Kitle toplumu kuramı tek bir yazarın kuramı değil, birbirine benzeyen korkuların ortak adıdır; ama Kornhauser bu aileye derli toplu bir formül verdi ve ders kitaplarında çekirdek olarak çoğunlukla onu görürsün. [[cite:kornhauser-1968-iess-mass-society]]\n\nFormül iki yönlüdür:\n\n- **Elitler kitle baskısına açıktır.** Sıradan insanlar elitlere aracısız ulaşabilir; oy, tepki, popülerlik yoluyla doğrudan baskı yapabilir.\n- **Kitleler elitlerin seferber etmesine açıktır.** İnsanlar uzaktaki elitlerin doğrudan çağrılarına kulak verir, çünkü onları yakın çevrelerine bağlayan güçlü bağlar yoktur.\n\nKornhauser’ın kendi girişindeki cümlesi şu mantıkta: elitler kitle baskısına ne kadar açıksa, kitleler de elitlerce o kadar seferber edilebilir. [[cite:kornhauser-1968-iess-mass-society]]\n\nOrtada eksik bir halka var: yerel topluluk, dernek, mahalle, dinî ve etnik cemaat, sendika gibi **aracı gruplar**. Kuram der ki bu katman inceldikçe iki uç birbirine çıplak temas eder. Medya bu temasın taşıyıcısıdır: kitle arenaları merkezden ve kitle iletişim araçlarıyla yönetilir, çünkü bütün nüfusa aynı anda aynı şeyi göstermenin başka yolu yoktur. [[cite:kornhauser-1968-iess-mass-society]]\n\nÇekirdek iddia kısaca şu: aracı gruplar zayıflarsa medya ve elitler doğrudan bireyle konuşur; birey de yönlendirilmeye açık hâle gelir. İddianın doğru olup olmadığını sonraki kartlarda sınayacağız.",
+      "question": {
+        "id": "claim-core-q",
+        "type": "mcq",
+        "prompt": "Hayal et: Bir ülkede sendikalar, dernekler ve mahalle örgütleri çökmüş; siyasetçiler ise ekranlardan doğrudan halka sesleniyor. Kornhauser’ın mantığına göre asıl risk nedir?",
+        "options": [
+          "Kalabalıkların doğuştan akılsız olması",
+          "Elitlerin insanları aracısız seferber etmesinin kolaylaşması ve elitlerin anlık kitle baskısına açık kalması",
+          "Devletin insanları çocuk gibi tutan yumuşak bir vesayet kurması",
+          "Halkın çok fazla örgütlenmesi"
+        ],
+        "answer": 1,
+        "explain": "Kornhauser’ın formülü iki yönlüdür: elitler kitle baskısına erişilebilir, kitleler de elitlerin seferberliğine hazırdır; aracı gruplar bu ikisi arasındaki tampondur. Birinci seçenek Kornhauser’ın değil, kalabalık psikolojisinin argümanıdır; Kornhauser tehlikeyi zihinsel yetersizlikte değil toplumsal bağların yokluğunda arar. Üçüncüsü Tocqueville’in ikinci cilttekiyle karışır. Dördüncüsü ise formülün tersidir."
+      }
+    },
+    {
+      "id": "claim-variants",
+      "section": "claim",
+      "layer": "core",
+      "kind": "myth",
+      "title": "İki damar: yukarıdan gelen korku, aşağıdan gelen korku",
+      "body": "**Sanılan.** Kitle toplumu kuramı, sıradan insanı hor gören elitist ve muhafazakâr bir korkudur.\n\n**Kayıtlar ne diyor.** Aynı sözcük (“kitle”) iki zıt endişeyi taşır. Kornhauser bunları aristokratik ve demokratik eleştiri diye ayırır. [[cite:kornhauser-1968-iess-mass-society]]\n\n- **Aristokratik (eleştirel) damar, 19. yüzyıl.** Korku: sıradan insanların siyasete ve kültüre girmesiyle standartların yıkılması. Kornhauser bu damarı eski düzeni savunan Katolik düşünürlere (Joseph de Maistre, Bonald), sonra Burckhardt ve Nietzsche gibi yazarlara bağlar; Ortega’yı ise aynı görüşün çok popüler bir sürümünün yazarı sayar. Hamilton da Le Bon’u (“farklı bir açıdan” diyerek) bu ailenin önde gelen 19. yüzyıl adları arasında sayar. [[cite:kornhauser-1968-iess-mass-society]] [[cite:hamilton-encyclopedia-sociology-mass-society]]\n- **Demokratik damar, 20. yüzyıl.** Korku ters yöne döner: kopuk insanları totaliter hareketler seferber eder. Kornhauser bu gruba Lederer, Mannheim, Fromm, Neumann, Arendt ve kendini yazar; savunulan şey artık seçkin değerler değil, demokratik değerlerdir. [[cite:kornhauser-1968-iess-mass-society]]\n- **Sol varyant.** Hamilton sağ, yansız ve sol sürümü ayırır. Solda egemenler beceriklidir: medyayı denetleyip haberi ideolojik, eğlenceyi oyalayıcı kılarlar; Gramsci, Frankfurt Okulu’ndan Marcuse ve C. Wright Mills bu çizgide anılır. [[cite:hamilton-encyclopedia-sociology-mass-society]]\n\nTuzak: adlandırma kaynağa göre değişir (aristokratik–demokratik ya da sağ–sol). İsimlere değil, kuramın *neden korktuğuna* bak: sağda tehdit aşağıdan gelen sel, demokratik ve solda yukarıdan yönlendirilen sürüdür.",
+      "question": {
+        "id": "claim-variants-q",
+        "type": "match",
+        "prompt": "Her damarı, temel korkusuyla eşleştir.",
+        "pairs": [
+          [
+            "Aristokratik damar (Ortega tipi)",
+            "Sıradan insanların yükselişi seçkin standartları ve kültürü yıkar"
+          ],
+          [
+            "Demokratik damar (Arendt, Kornhauser)",
+            "Kopuk insanlar totaliter hareketlerce seferber edilebilir"
+          ],
+          [
+            "Sol varyant (Marcuse, Mills)",
+            "Egemenler medyayı denetleyip kitleyi oyalar ve uyuşturur"
+          ]
+        ],
+        "explain": "Aristokratik damar aşağıdan yükselen kitleden korkar; demokratik damar yukarıdan seferber edilen atomize kitleden; sol varyant ise medyayı egemenlerin aracı sayar. En sık yapılan hata, Ortega ile Kornhauser’ı aynı torbaya koymaktır: ikisi de ‘kitle’ der ama biri seçkin kültürü, öteki demokrasiyi savunur."
+      }
+    },
+    {
+      "id": "concepts-glossary",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Küçük sözlük: bu dersin yedi sözcüğü",
+      "body": "Bu derste tek bir sözcük, üç yazarda üç ayrı iş görüyor: “kitle”. Sözlüğü önce ona göre oku.\n\n- **Kalabalık / kitle (crowd, mass):** Le Bon’da bir arada hareket edip ortak bir “kalabalık ruhu” kazanan insanlar; Ortega’da bir zihniyet; Kornhauser’da gruplara ayrılmamış yığın. Ayrıntı için derin karta bak. [[concept:crowd-psychology]]\n- **Kamu (public):** Tarde’de fiziksel olarak ayrı ama zihinsel olarak bağlı topluluk. [[concept:public-vs-crowd]]\n- **Atomlaşma:** aracı bağlardan kopmuş, birbirinden yalıtılmış bireyler. [[concept:atomisation]]\n- **Aracı gruplar:** aile, mahalle, dernek, sendika gibi birey ile elit arasındaki katman.\n- **Çoğunluğun zorbalığı:** çoğunluğun bir konuda bağımsız düşünceyi ve tartışmayı susturması. [[concept:tyranny-of-the-majority]]\n- **Kitle kültürü korkusu:** kültürün sayıya ve ortalamaya göre biçimlenerek sığlaşacağı kaygısı. [[concept:mass-culture-fear]]\n- **Kitle toplumu:** bütün bunları tek çerçevede toplayan model; medyanın işlevi ayrı bir kavramdır. [[concept:mass-society]] [[concept:mass-media]]\n\nTerim notu: Türkçede “kitle” hem *crowd* hem *mass* için kullanılıyor. Le Bon’un kitabı Türkçe kaynaklarda “Kitleler Psikolojisi” ya da “Kitlelerin Psikolojisi” adlarıyla anılıyor. [[cite:polat-durmus-2015-le-bon-abdullah-cevdet]] [[cite:akturkoglu-2021-le-bon]] Tarde’nin *public* kavramı için yerleşik bir Türkçe karşılığa rastlamadık; bu derste “kamu” diyoruz ve ilk geçtiği yerde açıklıyoruz.",
+      "question": {
+        "id": "concepts-glossary-q",
+        "type": "cloze",
+        "prompt": "Boşlukları doldur.",
+        "text": "Tarde’ye göre kalabalığı bir arada tutan şey {{1}}, kamuyu bir arada tutan şey ise {{2}}.",
+        "blanks": [
+          {
+            "options": [
+              "fiziksel temas",
+              "ortak sınıf çıkarı",
+              "yasal bağ"
+            ],
+            "answer": 0
+          },
+          {
+            "options": [
+              "aynı sokakta yaşamak",
+              "aracıyla kurulan zihinsel bağ (ör. aynı gazeteyi okumak)",
+              "kalıtsal ırk ruhu"
+            ],
+            "answer": 1
+          }
+        ],
+        "explain": "Tarde kalabalığı fiziksel temasla yayılan ruhsal bulaşmalar demeti, kamuyu ise fiziksel olarak dağınık insanların zihinsel bağı olarak tanımlar; bu bağı kurduğu yer de gazetedir. ‘Ortak sınıf çıkarı’ Tarde’nin değil Marksist çözümlemenin ölçütüdür. ‘Aynı sokakta yaşamak’ ise tam da kamuyu kalabalığa çevirirdi. ‘Kalıtsal ırk ruhu’ Le Bon’a aittir, Tarde’nin ayrımına değil."
+      }
+    },
+    {
+      "id": "concepts-crowd-public",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Mini laboratuvar: kalabalık mı, kamu mu?",
+      "body": "Tarde’nin ölçütü iki soruya iner: bedenler yan yana mı, ve bağı ne kuruyor, temas mı zihinsel bağlantı mı? Aşağıdaki sahneleri önce kendin sınıflandır, sonra notla karşılaştır. (Hepsi hayalî sahnelerdir.)\n\n1. Derbi maçında tribünde kırk bin kişi aynı anda ayağa kalkıyor.\n2. Ülkenin dört bir yanında birbirini hiç görmemiş insanlar aynı köşe yazarını okuyor.\n3. Bir eylemde sokakta yan yana yürüyen bin kişi.\n4. Kırk kişilik, ayrı şehirlerde yaşayan sınıf arkadaşlarından oluşan bir mesajlaşma grubu.\n5. Akşam haberini izleyen milyonlarca kişi.\n\n**Not.** 1 ve 3 kalabalıktır: bedenler bir arada ve duygular temasla yayılıyor. 2 kamudur: temas yok, bağı yazar kuruyor. 5 de kamuya yakındır, ama Tarde radyo ve televizyonu bilmiyordu; ölçütünü biz uzatıyoruz. 4 en zoru: bağ hem kişisel hem zihinsel, bedenler ayrı; Tarde’nin ölçütü bile tek başına yetmiyor. Bu yüzden “viral kalabalık” gibi deyimler bilimsel olarak bulanıktır: internetteki topluluk ne tam kalabalık ne tam kamudur.\n\nDers çıkarımı: Le Bon’un bulaşma modeli kalabalık için kurulmuştu. Kamu için ayrı bir açıklama gerekir ve Tarde bunu tam olarak istemişti. [[cite:tarde-1901-opinion-foule]]",
+      "question": {
+        "id": "concepts-crowd-public-q",
+        "type": "mcq",
+        "prompt": "Tarde’nin metnine göre “bir tiyatronun seyircisi” ile “bir gazetenin okurları” arasındaki temel fark hangisidir?",
+        "options": [
+          "Fark yoktur; ikisi de kalabalıktır",
+          "Tiyatro seyircisi aynı yerde toplanan bir kalabalıktır; gazete okurları fiziksel olarak dağınık bir kamudur",
+          "Tiyatro seyircisi kamudur; gazete okurları kalabalıktır",
+          "İkisi de kamudur çünkü ikisi de bir şey tüketir"
+        ],
+        "answer": 1,
+        "explain": "Tarde tiyatro seyircisi için ‘kamu’ denen yerde bile kalabalığın kastedildiğini yazar; gazete okurları ise bedenleri ayrı, bağı zihinsel bir kamudur. Üçüncü seçenek ölçütü tersine çevirir. İlk seçenek Tarde’nin tam da düzeltmek istediği karışıklığın kendisidir. Dördüncü seçenek ise ‘tüketmek’ gibi Tarde’de olmayan bir ölçüt getirir."
+      }
+    },
+    {
+      "id": "deep-mass-meanings",
+      "section": "concepts",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: “Kitle” ne demek? Beş kullanım ve bir itiraz",
+      "body": "Aynı sözcük, ders boyunca beş farklı iş görüyor:\n\n1. **Le Bon: psikolojik kalabalık.** Bir eylem için bir araya gelen insanlar, tek tek sahip olmadıkları yeni özellikler kazanır. Ölçüt, bir arada olma ve ortak duygudur. [[cite:le-bon-1895-psychologie-foules]]\n2. **Ortega: bir zihniyet, sınıf değil.** Ortega “azınlık” ile “kitle”yi niteliğe göre ayırır: kitle, özel biçimde nitelikli olmayanların toplamıdır; bunu tek bir kişide bile görebilirsin. Kitle, kendini “herkes gibi” hissedip bundan rahatsız olmayandır. Yani Ortega’nın kitlesi bir toplumsal sınıf değildir; kitle-insan her sınıftan çıkabilir. [[cite:ortega-1930-rebelion-masas]] [[cite:nwe-ortega]] [[cite:wikipedia-revolt-of-the-masses]]\n3. **Kornhauser: gruplara ayrılmamış yığın.** En yalın anlamıyla “kitle”, grup ya da birey ayrımı olmayan bir topluluktur; “kitle toplumu” ise kurumların insanlarla toplu hâlde ilgilendiği bir ilişkiler modelidir. [[cite:kornhauser-1968-iess-mass-society]]\n4. **Tarde: kitle değil, kalabalık ve kamu.** Ayrımı zaten gördün.\n5. **Nötr teknik kullanım.** “Kitle üretimi” ya da “kitle iletişimi”ndeki “kitle” yalnızca çok sayıda, ayrıştırılmamış alıcı demektir. [[cite:kornhauser-1968-iess-mass-society]] [[concept:mass-communication]]\n\n**Bir itiraz.** Raymond Williams *Culture and Society*’de (1958) şu cümleyi kurdu: “There are in fact no masses; there are only ways of seeing people as masses.” Yani gerçekte kitle yoktur; yalnızca insanlara kitle olarak bakma biçimleri vardır. Ona göre kitleler hep “başkaları”dır, yani tanımadığımız insanlardır; başkalarına göre de biz kitleyiz. [[cite:williams-1958-culture-society]] [[cite:pooley-2021-masses-other-people]] Jefferson Pooley bu cümleyi, “kitle” sözcüğünün 19. yüzyıl sonunda telkine açık ve “sığır gibi” bir kalabalığı, yani demokrasinin tehlikeli olduğunu haber veren bir uyarıyı anlatmak için kullanıldığı tespitiyle birlikte anar. [[cite:pooley-2021-masses-other-people]]\n\nDersin çıkarımı: bir metinde “kitle” gördüğünde şunu sor: kim kime, hangi gerekçeyle “kitle” diyor?"
+    },
+    {
+      "id": "assump-five",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "text",
+      "title": "Varsayımlar: kuramın beş görünmez dayanağı",
+      "body": "Bir kuramı sınamak istiyorsan önce onun söylemediklerini bulmalısın. Kitle toplumu kuramı kâğıt üstünde ikna edici görünür, çünkü varsayımlarını yüksek sesle söylemez. Onları senin için çıkardık (Kornhauser’ın 1968 tarihli özet girişindeki çerçeveden derledik): [[cite:kornhauser-1968-iess-mass-society]]\n\n1. **Ölçek topluluğu aşındırır.** Ulusal pazarlar, ulusal örgütler, seçmen kitleleri yerel topluluğu ikinci plana iter. Kornhauser bir nüans ekler: sırf nüfus büyük diye değil, faaliyetlerin ölçeği büyük olduğu için.\n2. **Aşınan bağlar atomlaşma demektir.** Etnik, dinsel ve sınıfsal topluluklar çözülünce insan kendi başına kalır.\n3. **Atomlaşmış insan yönlendirilebilir.** Aracı bağı olmayan kişi doğrudan çağrılara açıktır.\n4. **Aracı yoksa medya ve elit doğrudan konuşur.** Kitle arenasında herkese aynı standart seçenekler sunulur.\n5. **Kültür ortalamaya çekilir.** Sayı başarı ölçütü olur: oy, satış, izleyici. Bu, kitle kültürü korkusunun köküdür; tartışmanın kendisi [[lesson:mass-culture-debate]] dersinde.\n\nKuramın iyi yanı, bu beş varsayımın hepsinin sınanabilir olması. Kötü yanı da bu: sınanınca aralarından bazıları, özellikle ikincisi, zor durumda kalıyor. Sonraki bölümlerde bunu göreceğiz.",
+      "question": {
+        "id": "assump-five-q",
+        "type": "tf",
+        "prompt": "Doğru mu yanlış mı: Kornhauser’a göre kitle ilişkileri, bir toplumun nüfusunun büyük olmasından kendiliğinden doğar.",
+        "answer": false,
+        "explain": "Yanlış. Kornhauser büyük nüfusun tek başına kitle ilişkileri üretmediğini, asıl belirleyicinin faaliyetlerin ölçeği olduğunu yazar: ulusal örgütler, pazarlar, izleyici ve seçmen kitleleri gibi büyük ölçekli faaliyetler topluluk bağlarını yok sayar ya da dönüştürür. Çoğu öğrenci ‘kitle toplumu = kalabalık nüfus’ diye kısaltır; oysa kuramın ilgisi sayıdan çok bağların kurulma biçimindedir."
+      }
+    },
+    {
+      "id": "how-lebon",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Le Bon’un kalabalık makinesi: üç neden, bir iniş",
+      "body": "Le Bon’un iddiası şu: bir araya gelen insanlar bireysel özelliklerinin ortalamasını değil, yepyeni özellikler edinir. Nasıl? Üç neden sayar. [[cite:le-bon-1895-psychologie-foules]]\n\n1. **Sayı: yenilmezlik hissi ve isimsizlik.** Kalabalığın parçası, yalnızca sayıdan güç duyar. Kalabalık isimsiz olduğu için sorumluluk duygusu da silinir; kişi tek başına dizginleyeceği dürtülere yol verir.\n2. **Bulaşma.** Kalabalıkta her duygu ve eylem bulaşıcıdır; kişi kişisel çıkarını bile ortak çıkara feda eder. Le Bon bunu hipnoza benzeyen olgular arasında sayar.\n3. **Telkin edilebilirlik (en önemlisi).** Kişi bilinçli kişiliğini yitirir ve kendisine sunulan fikri, hipnotize edilmiş biri gibi eyleme döker. Le Bon’a göre bulaşma zaten bunun bir sonucudur.\n4. **Sonuç: bir merdiven inişi.** “A man descends several rungs in the ladder of civilisation”: yani örgütlü bir kalabalığın parçası olan insan uygarlık merdiveninde birkaç basamak iner (İngilizce çeviriden, çeviri bizim). Yalnızken kültürlü olan, kalabalıkta içgüdüyle hareket eden bir “barbar” olur.\n5. **Tuzak: bu yalnızca “avam” için geçerli değil.** Le Bon kalabalıkta biriken şeyin zekâ değil aptallık olduğunu yazar; zihinsel aşağılık, “seçilmiş toplulukları” da (yargı kurulları, parlamentolar) kapsar.\n\nBu makinenin bir de sessiz parçası var: Le Bon kalabalığın ortak karakterini kalıtsal “ırk” özelliklerine bağlar. Bu yön bugün savunulamaz. Ayrıntısı derin kartta.",
+      "question": {
+        "id": "how-lebon-q",
+        "type": "mcq",
+        "prompt": "Hayal et: Bir mitingde tek başına herkesin “hayır” diyeceği bir öneri, kalabalıkta kimse itiraz etmeden kabul ediliyor. Le Bon’un üç nedeninden hangisini “en önemli” sayardı?",
+        "options": [
+          "Sayıdan doğan yenilmezlik hissi",
+          "Bulaşma",
+          "Telkin edilebilirlik",
+          "İsimsizlik"
+        ],
+        "answer": 2,
+        "explain": "Le Bon üçüncü nedeni, yani telkin edilebilirliği ‘açık farkla en önemli’ sayar ve bulaşmayı onun sonucu olarak görür. Bulaşma bu yüzden en görünür olandır ama en temel değildir. Sayıdan doğan yenilmezlik ve isimsizlik ise sorumluluğu ortadan kaldıran birinci nedendir; kişiyi frenlerinden kurtarır ama yönünü telkin belirler."
+      }
+    },
+    {
+      "id": "how-kornhauser",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Kornhauser’ın zinciri: ölçekten seferberliğe altı halka",
+      "body": "Kornhauser’ın çerçevesini altı adımda okuyabilirsin. [[cite:kornhauser-1968-iess-mass-society]]\n\n1. **Büyük ölçekli faaliyetler.** Ulusal pazarlar, örgütler ve seçmen kitleleri yerel topluluğu, etnik ve dinsel cemaatleri, sınıf topluluklarını ikinci plana iter.\n2. **Aracı gruplar zayıflar.** Üye ile örgüt arasında kişiselleşmemiş, aracısız bir ilişki kalır; Kornhauser buna “kitle örgütü” der.\n3. **Kitle arenaları doğar.** Ulusal pazar ve seçmen kitlesi gibi alanlar merkezden, kitle iletişim araçlarıyla yönetilir; çünkü bütün nüfusa aynı anda aynı şeyi göstermenin yolu budur.\n4. **Katılım seçime dönüşür.** İnsanlar medyanın sunduğu, standartlaştırılmış seçenekler arasından seçer. Başarı ölçütü sayıdır: oy, satış, izleyici.\n5. **Erişilebilir elit, seferber edilebilir kitle.** Liderler kitle baskısına açıktır ama onu manipüle de eder; insanlar da uzak elitlerin doğrudan çağrılarına hazırdır.\n6. **Kitle hareketleri.** Topluluk bağlarından kopmuş ama henüz yeni düzene katılmamış kişiler (yeni göçmenler, yeni işçiler, genç ve hareketli kesim) hareketlere özellikle yatkındır.\n\nAma Kornhauser bir uyarı da ekler: kitle koşulları tek başına totalitarizm üretmez; bunun için başka koşullar da gerekir. Yani zincir bir kader değil, bir risk haritasıdır.",
+      "question": {
+        "id": "how-kornhauser-q",
+        "type": "mcq",
+        "prompt": "Kornhauser’ın girişinde, topluluk bağlarından kopmuş ama henüz yeni düzene katılmamış olarak anılan ve kitle hareketlerine özellikle yatkın görülen kesim hangisidir?",
+        "options": [
+          "Yerel topluluğuna sıkı sıkıya bağlı, eski meslek sahipleri",
+          "Yeni göçmenler, yeni işçiler ve genç, hareketli kesim",
+          "Elitlerin kendisi",
+          "Yalnızca eğitimsizler"
+        ],
+        "answer": 1,
+        "explain": "Kornhauser tam olarak bu kesimi sayar: bağlarını yitirmiş ama henüz yeni düzene eklemlenmemiş insanlar, daha az kısıtlanmış ve daha huzursuzdur. Birinci seçenek cazip bir tuzak: yerel topluluğa bağlı kesimler de büyük kuruluşlara öfke duyup hareketlere açık olabilir, ama Kornhauser onları farklı bir nedenle (ölçek ve değişimin öfkesiyle) anar; soru ise bağlarını yitirmiş kesimi soruyor. Eğitim düzeyi ölçütü metinde yoktur."
+      }
+    },
+    {
+      "id": "how-media",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "text",
+      "title": "Medya kimin işine yarar? Aynı korku, beş rol",
+      "body": "“Kitle toplumu kuramına göre medya ne yapar?” sorusunun tek cevabı yok. Kurama dahil olan yazarlar medyaya beş farklı rol biçmiş:\n\n- **Ayna (Le Bon).** Basın kalabalığın fikirlerini yansıtır, okurunu kaybetmemek için onu izler. [[cite:le-bon-1895-psychologie-foules]]\n- **Yaratıcı (Tarde).** Gazete, fiziksel olarak dağınık insanları zihinsel olarak birbirine bağlayıp bir kamu yaratır. [[cite:tarde-1901-opinion-foule]] [[cite:parsons-2024-tarde-excerpt]]\n- **Çare (Tocqueville).** İnsanlar birbirine yabancılaştıkça gazete, “aynı düşünceyi aynı anda binlerce zihne” bırakabilen tek araçtır ve dağınık insanları ortak eyleme toplar. Tocqueville gazetelerin yol açtığı kötülüğün, tedavi ettiği kötülükten çok daha az olduğunu yazar. [[cite:tocqueville-1835-democratie]]\n- **Arena yöneticisi (Kornhauser).** Medya, bütün nüfusa aynı anda aynı standart seçenekleri sunarak kitle arenalarını yönetir. [[cite:kornhauser-1968-iess-mass-society]]\n- **Egemenin aracı (sol varyant).** Hamilton’a göre bu sürümde egemenler medyayı denetler; haber ideolojiktir, eğlence oyalar, reklam yapay ihtiyaç üretir ve seyirci “narkotize” edilir. [[cite:hamilton-encyclopedia-sociology-mass-society]]\n\nGördüğün gibi Le Bon’da medya kalabalığın peşinden gider, Kornhauser’da kalabalığı yönetir, Tocqueville’de ise yalıtılmışlığın ilacıdır. Sınavda “kitle toplumu kuramı medyayı şöyle görür” diye tek cümle yazan öğrenci soruyu yarım yazmış olur.",
+      "question": {
+        "id": "how-media-q",
+        "type": "match",
+        "prompt": "Her yazarı, medyaya biçtiği rolle eşleştir.",
+        "pairs": [
+          [
+            "Le Bon",
+            "Basın kalabalığın fikirlerini yansıtır ve onu izler"
+          ],
+          [
+            "Tarde",
+            "Gazete dağınık insanları zihinsel olarak bir kamuya dönüştürür"
+          ],
+          [
+            "Tocqueville",
+            "Gazete, birbirini bulamayan yalıtık insanları ortak eyleme toplayan bir çaredir"
+          ],
+          [
+            "Kornhauser",
+            "Medya kitle arenalarını aynı standart seçenekleri sunarak yönetir"
+          ],
+          [
+            "Sol varyant",
+            "Egemenlerin denetimindeki medya kitleyi oyalar ve uyuşturur"
+          ]
+        ],
+        "explain": "Beş rol birbirine benzer görünür ama korkuları ayrıdır: Le Bon’da medya kalabalığın peşinden gider, Tarde’de kamuyu kurar, Tocqueville’de ilaçtır, Kornhauser’da arenayı yönetir, sol varyantta egemenin aracıdır. En sık karışan çift Le Bon–Kornhauser’dır: biri medyayı kalabalığın aynası, öteki kitlenin yöneticisi sayar."
+      }
+    },
+    {
+      "id": "ev-stpauls",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Laboratuvar: Le Bon’u 1980 Bristol’una karşı sına",
+      "body": "2 Nisan 1980, Bristol, St Pauls mahallesi. Öğleden sonra 3.30 sularında sivil polisler Black and White Cafe’ye baskın yapıyor; ruhsatını 1979’da yitirmiş kafede yasa dışı içki ve uyuşturucu soruşturması var. Yakındaki bir okul paskalya tatiline girdiği için eve dönen çocuklar baskını görüyor, haber hızla yayılıyor, insanlar toplanıyor ve akşama doğru polis mahalleden çekilmek zorunda kalıyor. [[cite:reicher-1984-st-pauls-riot]]\n\nToplumsal psikolog Stephen Reicher olayı polis ve itfaiye raporları, TV-radyo kayıtları, gazeteler, fotoğraflar ve görüşmelerle yeniden kurar. Le Bon’un tahminlerini bu kayıtlara soralım:\n\n- **Tahmin: isimsiz kalabalık her şeye saldırır.** Kayıtta saldırı polise ve polis araçlarına yönelir (resmî rapora göre 21 polis aracı zarar gördü, sekizi yandı). Reicher’in sayımında polis dışında bilerek saldırıya uğrayan tek kesim, görüntülerin polise gitmesinden korkulan fotoğrafçılardır. Ayrıca on sivil yaralanmış ve beş özel araç zarar görmüştü; Reicher yaralanmaları polisle kalabalık arasındaki çapraz ateşe, araç hasarını ise kısmen polis aracı sanılmaya bağlar.\n- **Tahmin: her davranış bulaşır.** Polis arabasına tuğla atmak “herkesin” işiydi. Özel arabaya taş atanlar ise azarlanıp durduruldu.\n- **Tahmin: bilinç kaybı, sınırsızlık.** Polis kovulunca kimse ardından mahalle sınırını geçmedi; kalabalık trafiğe yol açtı ve yönlendirdi.\n\nReicher’in kendi çekincesi: veriler “kanıt” değil, güçlü ipucu; ayrıca makale yalnızca polis çekilmeden önceki dönemi inceliyor, sonradan gelen yağmayı değil. Tek olay bir kuramı öldürmez ama Le Bon’un tahmini burada tutmuyor. [[cite:reicher-1984-st-pauls-riot]]",
+      "question": {
+        "id": "ev-stpauls-q",
+        "type": "mcq",
+        "prompt": "Le Bon’un “isimsiz kalabalık sorumluluğunu yitirir ve her şeyi yapabilir” tahmini, Reicher’in derlediği St Pauls verisinde en çok hangi gözlemle çelişir?",
+        "options": [
+          "Polis araçlarının devrilip yakılması",
+          "Kalabalığın polis çekildikten sonra mahalle sınırını geçmemesi, özel araçlara taş atanları durdurması ve trafiği yönlendirmesi",
+          "Söylentilerin hızla yayılması",
+          "Olayın öğleden sonra başlaması"
+        ],
+        "answer": 1,
+        "explain": "Sınırlı, hedefli ve kuralları olan davranış, ‘bilinçsiz, sınırsız kalabalık’ resmine ters düşer. Araçların yakılması şiddetin varlığını gösterir ama şiddetin sınırsız olduğunu göstermez; Le Bon’la çelişmez. Söylentilerin yayılması ve olayın zamanı ise tahminle ilgisiz ayrıntılardır."
+      }
+    },
+    {
+      "id": "ev-personal",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "story",
+      "title": "Erie County, 1940: seçmen medyaya değil komşusuna baktı",
+      "body": "1940 seçim kampanyası. Lazarsfeld, Berelson ve Gaudet, Ohio’nun Erie County’sinden altı yüz kişiyi seçiyor ve yedi ay boyunca her ay yeniden görüşüyor; yayıncı tanıtımı bunu, seçmenin bir başkanlık kampanyası boyunca izlendiği ilk sistematik girişim diye anar. [[cite:columbia-up-people-choice]] [[cite:lazarsfeld-berelson-gaudet-1944]]\n\nKitle toplumu kuramı ne bekletirdi? Kopuk, aracısız seçmen, radyo ve gazete karşısında savunmasız. Bulgu ise şu: gazete, radyo ve kampanya reklamları bireylerin oy verme alışkanlıkları üzerinde derin bir etki göstermemiş; kişisel ilişkiler ve ağızdan ağıza konuşma daha önemli çıkmış; medya küçük ama kilit bir kesime ulaşıyor, onlar da diğerlerine aktarıyordu. [[cite:columbia-up-people-choice]]\n\nSonra Decatur, Illinois. *Personal Influence* (1955) aynı fikri kamusal konularda, modada, sinemada ve alışverişte yokluyor. Yayıncının tanıtımı, kitabın gösterdiği şeyin birincil grupların kitle iletişim akışındaki şaşırtıcı önemi olduğunu söyler. [[cite:katz-lazarsfeld-1955]] [[cite:routledge-personal-influence]] Elihu Katz 1957’de hipotezin birkaç çalışmada büyük ölçüde doğrulandığını ve inceltildiğini yazar. [[cite:katz-1957-two-step-flow]]\n\nKornhauser bile 1968’deki girişinde bu eleştiriyi kayda geçirir: birincil grupların aracılığının, tamamen atomlaşmış izleyicilere baskın çıktığı gösterilmiştir. [[cite:kornhauser-1968-iess-mass-society]] Ayrıntı için [[lesson:voting-studies]] ve [[lesson:two-step-flow]] derslerine bak.",
+      "question": {
+        "id": "ev-personal-q",
+        "type": "mcq",
+        "prompt": "Hayal et: Bir araştırmacı “seçmenler medyayı izleyip doğrudan etkilenir” varsayımıyla panel çalışması yapıyor ve seçmenlerin çoğunun karar verirken çevresinin görüşüne baktığını buluyor. Bu bulgu kitle toplumu kuramının hangi varsayımına doğrudan itiraz eder?",
+        "options": [
+          "Kültürün ortalamaya çekildiği varsayımına",
+          "Aracı grupların çözüldüğü, bireylerin atomlaştığı varsayımına",
+          "Kalabalıkların aşağılık olduğu varsayımına",
+          "Elitlerin manipülasyona kalktığı varsayımına"
+        ],
+        "answer": 1,
+        "explain": "Çevrenin görüşüne bakmak, aracı grupların (arkadaş, komşu, aile) hâlâ iş başında olduğunu gösterir; bu, atomlaşma varsayımının tam karşısındadır. Kültürün ortalamaya çekilmesi ve kalabalığın aşağılığı başka soruların konusudur, seçmen paneli bunları ölçmez. Elitlerin manipülasyona kalkışması ise bu bulguyla çelişmez; yalnızca etkisini sınırlayabilir."
+      }
+    },
+    {
+      "id": "deep-reicher-drury",
+      "section": "evidence",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Reicher’in verisi ve kalabalık psikolojisinin yeni okulu",
+      "body": "Reicher’in Bristol makalesinin verisi çok kaynaklıdır ve kendi sınırlarını açıkça yazar: resmî polis raporu ve itfaiye şefinin beyanı, polis otoritesi için bir avukatın yazdığı görüş, TV-radyo yayınları, gazeteler, fotoğraflar, yaklaşık yirmi çocukla görüşme, sokakta yaklaşık yirmi kişiyle sohbet notu ve kayda alınan altı görüşme. Olaylar yalnızca iki ya da daha fazla kaynak birbirini doğruladığında alınmıştır; siyah katılımcıların araştırmacıya güvenmemesi veriyi zorlaştırmış, yazar bunu açıkça belirtmiştir. Makale, olayın polis çekilmeden önceki bölümünü ele alır. [[cite:reicher-1984-st-pauls-riot]]\n\nKuramsal öneri şudur (Reicher’in sosyal kimlik modeli): kalabalık, ortak bir sosyal kimliği paylaşan insanların oluşturduğu bir gruptur. Davranışın sınırları ortak kimliğin sınırlarına denk düşer, yani bulaşma bir kimlikle sınırlıdır. Reicher ayrıca kalabalık psikolojisinin 19. yüzyıl sonunda işçi huzursuzluğuna karşı bir “düzen tepkisi” olarak doğduğunu savunur; bu, onun yorumudur ve tartışmaya açıktır. [[cite:reicher-1984-st-pauls-riot]]\n\nAynı çizgi acil durumlarda da sınanmıştır. Drury, Cocking ve Reicher (2009) on bir acil durumdan yirmi bir hayatta kalanla görüşür; ortak kimlik duygusu yüksek olanlarda dayanışmanın daha fazla, “panik” davranışının daha az olduğunu ve bu ortak kimliğin acil durumun kendisinden doğabileceğini bulur. Önceki açıklamalar ‘kitle paniği’ ya da önceden var olan toplumsal bağlara başvuruyordu; yazarlar bu çalışmanın özkategorizasyon kuramına dayanan yeni bir yaklaşımın yararlı olduğuna işaret ettiğini söyler. [[cite:drury-cocking-reicher-2009-everyone]] Bunlar küçük örneklemli, görüşmeye dayalı bulgulardır; kesin hüküm olarak değil, Le Bon’un resmine karşı ciddi bir rakip olarak oku."
+    },
+    {
+      "id": "deep-berman",
+      "section": "evidence",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Weimar’da güçlü dernekler demokrasiyi kurtarmadı",
+      "body": "Tocqueville’in ikinci ciltte önerdiği çare dernekleşmedir: Amerikalılar ufacık girişimler için bile dernek kurar ve ona göre bireyciliğe karşı ilaç sivil derneklerdir. [[cite:tocqueville-1835-democratie]] [[cite:nwe-tocqueville]] Kitle toplumu kuramı da örtük olarak benzer bir şey söyler: aracı bağlar varsa insan kolay seferber edilemez. Peki gerçekten öyle mi?\n\nSheri Berman’ın 1997 tarihli makalesi bu inancı Weimar Almanyası üzerinden sınar. Özet düzeyinde iddiası şu: güçlü bir sivil toplum, yirminci yüzyılın en kritik demokratik denemesi olan Weimar’ın çöküşüne yardım etti. Bazı koşullarda dernekleşme ile demokratik istikrar ters orantılı olabilir; bu yüzden sivil toplumun ne yaptığını somut siyasal gerçekliğe bakarak değerlendirmek gerekir. [[cite:berman-1997-weimar-civil-society]]\n\nBunun kitle toplumu tartışmasına etkisi, bizim yorumumuza göre, iki yönlüdür. Bir yandan atomlaşma iddiasını zayıflatır: seferberliğe açık olanlar yalnız insanlar değildi, örgütlüydüler de. Öte yandan “bağlar her zaman iyi” anlayışını da sarsar: aracı gruplar demokrasiye de karşı çıkabilir. Berman’ın makalesini yalnızca özetinden okuduk; ayrıntıları ve Kornhauser’la doğrudan tartıştığı yerleri görmedik. Bu yüzden kesin bir “Kornhauser çürütüldü” cümlesi kurmuyoruz."
+    },
+    {
+      "id": "crit-groups",
+      "section": "critique",
+      "layer": "core",
+      "kind": "myth",
+      "title": "Sanılan: “Modern insan yalnız bir atomdur”",
+      "body": "**Sanılan.** Şehirleşme ve büyük örgütler insanı aile, mahalle ve cemaat bağlarından kopardı; geriye yalnız, yönlendirilebilir bireyler kaldı.\n\n**Kayıtlar ne diyor.** Kornhauser’ın kendi girişi, savaş sonrası araştırmalarda fabrikada, orduda ve başka “kişiliksiz” sanılan örgütlerde birincil ilişkilerin bol bol görüldüğünü, akrabalık ve komşuluk bağlarının şehirlerde de sürdüğünü kabul eder. [[cite:kornhauser-1968-iess-mass-society]] Richard Hamilton’ın eleştirisi daha serttir: ona göre göçün çoğu toplu ve zincirleme (insanlar akrabaları ve dostlarıyla ya da onların ardından taşınır) ve kısa mesafelidir; şehirler yalnızca göçle değil, kırsal alanları katarak da büyür ve bu, bağları bozmaz; şehre gelen “yalnız” göçmenin ömür boyu yalnız kaldığı varsayımı ise eksik bir anlatıdır. Hamilton kuramın temel iddialarının hemen hepsinin kanıtla çeliştiğini savunur. [[cite:hamilton-encyclopedia-sociology-mass-society]]\n\n**Savunma.** Kornhauser cevabını da yazmıştır: kitle toplumu kuramcıları birincil grupların yok olduğunu değil, toplumun geri kalanından yalıtıldıkça birey için anlam ve destek kaynağı olma işlevlerini yitirdiğini söylemişlerdir. [[cite:kornhauser-1968-iess-mass-society]]\n\n**Dengeli okuma.** Gordon Marshall’ın sözlüğüne göre terim, belirsizliği ve değer yüklü oluşu yüzünden sosyolojide gözden düşmüştür; yine de büyük ölçekli, geleneksel bağlardan yoksun toplumları inceleyen kuramcılar vardır. [[cite:marshall-dictionary-sociology-mass-society]] Hamilton’ın yargısını bir eleştirmenin güçlü sözü olarak oku; Kornhauser’ın savunmasıyla birlikte.",
+      "question": {
+        "id": "crit-groups-q",
+        "type": "mcq",
+        "prompt": "Kornhauser’ın savunmasına göre, kuramcılar birincil gruplar konusunda tam olarak ne iddia eder?",
+        "options": [
+          "Birincil gruplar modern toplumda tamamen yok olmuştur",
+          "Birincil gruplar vardır ama toplumun geri kalanından yalıtıldıkça birey için anlam ve destek işlevlerini yitirir",
+          "Birincil gruplar hiçbir zaman önemli olmamıştır",
+          "Birincil grupların varlığı kitle iletişiminin etkisini artırır"
+        ],
+        "answer": 1,
+        "explain": "Kornhauser eleştiriyi kabul eder ama iddiayı inceltir: grupların yokluğu değil, işlev kaybı. Birinci seçenek eleştirilen ‘tam atomlaşma’ iddiasıdır. Üçüncü seçenek Kornhauser’ın da savunduğu bir şey değildir. Dördüncüsü ise Lazarsfeld çizgisinin sonucunun tersidir: gruplar etkiyi artırmaz, aracılık edip sınırlar."
+      }
+    },
+    {
+      "id": "crit-verdict",
+      "section": "critique",
+      "layer": "core",
+      "kind": "text",
+      "title": "Karne: neyi gördü, neyi göremedi?",
+      "body": "**Görebildikleri.**\n\n- Aracı kurumların (dernek, sendika, mahalle, cemaat) demokrasi için önemini sordu. Kornhauser’ın vurgusuyla, bu bakışın asıl değeri belirli önermelerden çok kültürün ve toplumsal kurumların niteliğine gösterdiği ilgidir. [[cite:kornhauser-1968-iess-mass-society]]\n- Büyük ölçek ve merkezden yönetilen medya arenası sorusunu ortaya koydu. Marshall, Kumar, Lasch, Berger ve Bellah gibi kuramcıların bu tür toplumların ilişkilerini hâlâ incelediğini yazar. [[cite:marshall-dictionary-sociology-mass-society]]\n\n**Göremedikleri.**\n\n- **Atomlaşma iddiası** kanıtta zorlandı (önceki kart).\n- **“Kalabalık aşağılıktır”** resmi Bristol’da tutmadı ve Reicher bunu sınıfsal bir gözle yazılmış bir gelenek olarak okur. [[cite:reicher-1984-st-pauls-riot]]\n- **Kalıtsal “ırk ruhu”** düşüncesi Le Bon’da kuramın parçasıdır; bugün savunulamaz. [[cite:encyclopedia-le-bon-european-social-history]]\n- **Tek yönlü “gittikçe daha fazla”** tahminleri sınanmaya kapalıdır; Hamilton kuramın hep “daha da fazla” diyen yapısını ayrıca eleştirir. [[cite:hamilton-encyclopedia-sociology-mass-society]]\n- **Nostalji şüphesi.** Marshall bu kaygıların 1950’lere kadar büyük ölçüde “elitist nostalji” diye geçiştirildiğini yazar; yani kuram, kaybolan topluluğu fazla özlemle anmakla suçlandı. [[cite:marshall-dictionary-sociology-mass-society]]\n\nYani kuramın sorduğu sorular (bağlar, ölçek, medya arenası) yaşıyor; verdiği cevaplar ise büyük ölçüde sınanmakta kaybetti.",
+      "question": {
+        "id": "crit-verdict-q",
+        "type": "tf",
+        "prompt": "Doğru mu yanlış mı: Reicher’e göre Bristol 1980 verisi, sosyal kimlik modelinin kesin kanıtıdır.",
+        "answer": false,
+        "explain": "Yanlış. Reicher verinin ‘kanıt’ olmadığını, kuramsal açıklama için ‘güçlü ipucu’ olduğunu yazar; olayın yalnızca bir bölümünü ele aldığını ve bazı sivil zararlar olduğunu da açıkça belirtir. İyi bir okur, bir çalışmanın kendi çekincelerini de kuramın çekincesi sayar."
+      }
+    },
+    {
+      "id": "crit-powerful",
+      "section": "critique",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Bu resim “güçlü etki” korkusunu nasıl besledi? Dört adım",
+      "body": "Kitle toplumu bir araştırma bulgusu değil, bir *resimdi*: tek başına bırakılmış, aracısız, seferber edilmeye açık izleyici. Bu resmin “güçlü etki” korkusuna bağlanışını dört adımda okuyabilirsin:\n\n1. **Resim.** Aracı gruplar çözülmüştür; izleyici atomlaşmıştır.\n2. **Çıkarım.** Atomlaşmış izleyiciye doğrudan ulaşan medya güçlü olmalıdır. Bu adım bizim çıkarımımızdır; kuramcıların kendi cümlesi değil.\n3. **Ders kitabı anlatısı.** Savaşlar arası propaganda kaygısı bu çıkarımla birleşince, ders kitaplarında “şırınga” ya da “sihirli mermi” diye özetlenen etki anlayışı anlatıldı. Jefferson Pooley (2006), Katz ve Lazarsfeld’in *Personal Influence*’taki on beş sayfalık özetinin “önce medya güçlü sanıldı, sonra araştırmalar sınırlı olduğunu gösterdi” anlatısını ders kitaplarına yerleştirdiğini gösterir. [[cite:pooley-2006]] Sproule (1989) ve Lubken (2008) ise “sihirli mermi” tasvirinin bir korkuluk olduğunu savunur. [[cite:sproule-1989]] [[cite:lubken-2008]]\n4. **Karşı hamle.** Lazarsfeld çizgisi “izleyici gruplarla örülüdür, o hâlde etki aracılanır ve sınırlıdır” cevabını verdi.\n\nYani hikâyenin iki yarısı da (“herkes şırıngaya inandı” ve “Lazarsfeld çürüttü”) tartışmalıdır. Ayrıntılar için [[lesson:magic-bullet]] ve [[lesson:two-step-flow]] derslerine, [[concept:powerful-effects]] kavramına bak.",
+      "question": {
+        "id": "crit-powerful-q",
+        "type": "mcq",
+        "prompt": "Aşağıdakilerden hangisi “kitle toplumu ve güçlü etki” bağının en doğru özetidir?",
+        "options": [
+          "Kitle toplumu kuramcıları ‘şırınga modeli’ adında bir kuram öne sürdü",
+          "Atomlaşmış izleyici varsayımı güçlü etki beklentisini besler; izleyicinin gruplarla bağlı olduğu bulgusu ise bu beklentiyi zayıflatır",
+          "Lazarsfeld kitle toplumu kuramını doğruladı",
+          "Kitle toplumu ile medya etkisi arasında hiçbir ilişki yoktur"
+        ],
+        "answer": 1,
+        "explain": "Bağlantı bir çıkarım zinciridir: izleyici kopuksa etki doğrudan ve güçlü olmalı; izleyici gruplara bağlıysa etki aracılanır. İlk seçenek tarihsel olarak yanlış: ‘şırınga’ sonradan yapıştırılan bir ders kitabı etiketidir. Üçüncü seçenek tersini söyler. Dördüncüsü ise iki fikir arasındaki mantıksal ilişkiyi yok sayar."
+      }
+    },
+    {
+      "id": "deep-lebon-fine-print",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Le Bon’un dipnotları: ırk, kahramanlık ve reform korkusu",
+      "body": "Le Bon’un kitabı sanıldığından daha karmaşık. Birkaç dipnot:\n\n- **“Bilimsel” duruş, siyasi öğüt.** Le Bon konuya “bilimsel” ve yönlendirilmemiş biçimde yaklaştığını söyler; ama aynı önsözde kalabalıkların örgütlenmesine karışmanın tehlikeli olduğunu ve “büyük reform ihtirasının” bir halk için ölümcül olduğunu yazar. Ona göre kurumlar bir halkın karakterinin dışa vurumudur; yasalar bu karakteri değiştiremez. [[cite:le-bon-1895-psychologie-foules]]\n- **Kalabalık yalnızca yıkıcı değil.** Le Bon aynı sayfalarda kalabalığın “coşkusundan ve kahramanlığından” da söz eder; Encyclopedia.com’un özeti de onun kalabalıkların olumlu toplumsal eylem yapabileceğini belirttiğini anar. [[cite:le-bon-1895-psychologie-foules]] [[cite:encyclopedia-le-bon-european-social-history]]\n- **Irk.** Kalabalığın “ruhu”, Le Bon’da kalıtsal ırk özelliklerine eklenir ve tarih, ırksal mizacın sonucu sayılır. [[cite:encyclopedia-le-bon-european-social-history]] Bu bölüm bugün bilimsel bir dayanak sayılmaz; Reicher bu “grup zihni” anlayışını, kalabalık davranışının toplumsal bağlamını yok saydığı için eleştirir. [[cite:reicher-1984-st-pauls-riot]]\n- **İtibarı ve itirazlar.** Freud ve Allport onun çalışmasının önemini kabul etmiş; ama geniş konu yelpazesi yüzünden bazıları işini yüzeysel bulmuş, siyasi tutumu yüzünden “demokrasi karşıtı ve elitist” damgası yemiştir. [[cite:encyclopedia-le-bon-european-social-history]] Reicher ise kitabın ününü kuramsal yeniliğe değil, yönetici sınıflara kalabalıkları nasıl dizginleyeceklerini öğütlemesine bağlar; bu polemik bir yorumdur, tarihçiler arasında tartışmalıdır.\n\nSonuç: Le Bon’u ne sihirli bir bilge ne de saf bir kötü adam olarak oku; bir dönemin korkularını bilimsel dile çeviren etkili, sorunlu bir metin olarak oku."
+    },
+    {
+      "id": "deep-historiography",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: “Kitle toplumu kuramı” diye bir kuram gerçekten var mıydı?",
+      "body": "Bir kuramın tarihini yazmak, bir etiketin nasıl kurulduğunu görmektir:\n\n- **Etiketi çözümleyen de kuramcıydı.** Kornhauser 1968’de bu farklı yazarların ortak bir bakışla bağlandığını ve bu bağın onları “kitle toplumu fikrinin tarihi”nin parçası yaptığını yazar. [[cite:kornhauser-1968-iess-mass-society]] Yani kategoriyi kuran kişi, aynı zamanda ona en güçlü katkıyı yapanlardan biriydi. Bu, bizim okumamız.\n- **Marshall’ın zaman çizelgesi.** Modern kitle toplumu imgesi etiketiyle değil ama Tocqueville’le başlar; bu kaygılar 1950’lere kadar büyük ölçüde “elitist nostalji” diye geçiştirilir; sonra totalitarizm deneyimi onları yeniden gündeme getirir. [[cite:marshall-dictionary-sociology-mass-society]]\n- **Hamilton’ın dalgaları.** Hamilton kuramın “gelip giden” bir tarihi olduğunu söyler: 1940’larda göçmen Alman bilginlerle (Mannheim, Lederer, Arendt, Neumann), 1960’larda sol sürümle. Kornhauser’ın 1959 sentezinin ise “dengede az etki” yarattığını yazar. [[cite:hamilton-encyclopedia-sociology-mass-society]] Berkeley’deki anma yazısı aynı kitabı ise “klasik olacak” bir çalışma olarak anar. [[cite:uc-in-memoriam-kornhauser]] Etki ölçmek kolay değildir; iki yargı birlikte doğru olabilir.\n- **Eleştirinin de tarihi var.** Daniel Bell 1956’da “The Theory of Mass Society: A Critique” yazmıştı; Leon Bramson’ın 1961 tarihli kitabında ise “kitle toplumu kuramının Amerikan eleştirisi: kitle iletişimi araştırmaları” başlıklı bir bölüm bulunur. Bu iki metni okumadık; yalnızca varlıklarını ve başlıklarını kaydediyoruz. [[cite:bell-1956-theory-mass-society]] [[cite:bramson-1961-political-context]]\n- **Bir ikizi: şırınga anlatısı.** Pooley’nin gösterdiği gibi “önce güçlü, sonra sınırlı” etki hikâyesi de Personal Influence’ın on beş sayfalık özetiyle kurulmuştur. [[cite:pooley-2006]] Kitle toplumu ve şırınga hikâyeleri, geriye dönük kurulmuş iki ders kitabı anlatısı olarak yan yana okunabilir."
+    },
+    {
+      "id": "today-one-step",
+      "section": "today",
+      "layer": "core",
+      "kind": "text",
+      "title": "Tek adımlı akış: kitle toplumu bu kez ekran başında",
+      "body": "Lazarsfeld ve ekibinin 1940’lardaki bulgularından çıkan fikir “iki aşamalı iletişim akışı”ydı: mesaj medyadan kanaat önderlerine, onlardan diğerlerine gider. Peki ya bugün?\n\nW. Lance Bennett ve Jarol Manheim (2006) ABD için bir kayma iddiası öne sürer: kamusal iletişim, mesajların medyadan toplumsal aracılık süreciyle geçtiği iki aşamalı iletişim akışından, mesajların doğrudan bireylere hedeflendiği “tek aşamalı iletişim akışı”na kaymıştır. Bunu hem teknolojideki hem de birey ile toplum arasındaki ilişkilerdeki köklü değişikliklerin bir yansıması sayarlar. Yazarlara göre kanaat önderleri artık “önderlik” etmiyor, çünkü örtük görüşleri yeniden çerçevelemekten çok pekiştirmeye yatkınlar; parçalanmış medya da küçülen izleyici kitleleri, demografiye göre yapılan programlar ve hedefli siyasi reklamlarla bireyselleşmeyi besliyor. [[cite:bennett-manheim-2006-one-step-flow]]\n\nBu okuma, kitle toplumu resmine tuhaf bir dönüş sunar. 1940’larda “izleyici atomlaşmıştır” iddiasını gruplar çürütmüştü; şimdi teknoloji bireye grupları dolaşarak ulaşıyor. Fark şu: Kornhauser’ın atomlaşmayı sosyal bağların çözülmesinden türetmesine karşılık burada mekanizma hedefleme teknolojisidir. Bu, bizim çıkarımımız.\n\nSınır: yazarlar ABD’den söz eder ve bunu bir yorum olarak sunar; özet düzeyinde okuduğumuz makaleyi kesin bir hüküm olarak değil, tartışılan bir tez olarak al.",
+      "question": {
+        "id": "today-one-step-q",
+        "type": "mcq",
+        "prompt": "Bennett ve Manheim’ın “tek aşamalı iletişim akışı” iddiası, iki aşamalı iletişim akışından tam olarak nerede ayrılır?",
+        "options": [
+          "Kanaat önderleri her zamankinden daha güçlüdür",
+          "Mesajlar toplumsal aracılık süreci olmadan, hedeflenmiş biçimde doğrudan bireylere gider",
+          "Medya artık hiç etki yapmaz",
+          "Bireyler artık grupların içinde yaşamaz"
+        ],
+        "answer": 1,
+        "explain": "İki adımlı akışta mesaj önce kanaat önderlerine, oradan diğerlerine gider; tek aşamalı iletişim akışında ise aracı adım atlanır ve mesajlar bireylere doğrudan hedeflenir. Yazarlar kanaat önderlerinin etkisinin zayıfladığını söyler, güçlendiğini değil. ‘Medya etki yapmaz’ iddiası tam tersidir. Son seçenek ise yazarların değil, bizim bir abartımızdır: yazarlar bireyselleşmeden söz eder, grupların yok olduğundan değil."
+      }
+    },
+    {
+      "id": "today-bubble",
+      "section": "today",
+      "layer": "core",
+      "kind": "myth",
+      "title": "Sanılan: “Algoritma bizi filtre balonuna hapsediyor”",
+      "body": "**Sanılan.** Kişiselleştirilmiş web, herkesi kendi fikirlerinin içine kapatıyor; insanlar başka görüşü hiç görmüyor. Bu fikir Eli Pariser’in 2011 tarihli *The Filter Bubble* kitabında işlenir; yayıncının tanıtımı, Google’ın Aralık 2009’da arama sonuçlarını herkes için kişiselleştirmeye başladığını söyler. [[cite:pariser-2011-filter-bubble]]\n\n**Kayıtlar ne diyor.** Sonraki çalışmalar tablonun daha karışık olduğunu gösterdi:\n\n- Bakshy, Messing ve Adamic (2015), 10,1 milyon ABD’li Facebook kullanıcısında, bireylerin kendi tercihlerinin farklı görüşlerle karşılaşmayı algoritmik sıralamadan daha çok sınırladığını buldu. [[cite:bakshy-messing-adamic-2015-facebook]]\n- Flaxman, Goel ve Rao (2016), 50 bin ABD’li kullanıcının tarama geçmişinde sosyal ağların ve arama motorlarının hem ideolojik mesafeyi hem de karşı taraftan içeriğe maruziyeti artırdığını, etkilerin ise görece küçük olduğunu buldu. [[cite:flaxman-goel-rao-2016-filter-bubbles]]\n- Zuiderveen Borgesius ve arkadaşları (2016) derlemelerinde, filtre balonları konusunda kaygıyı haklı çıkaracak ampirik kanıtın o dönem için az olduğu sonucuna vardı. [[cite:zuiderveen-borgesius-2016-filter-bubbles]]\n- Bail ve arkadaşları (2018), karşıt görüşlere maruz kalmanın kutuplaşmayı artırabildiğini saha deneyiyle gösterdi: Cumhuriyetçiler, liberal bir bot’u izledikten sonra belirgin biçimde daha muhafazakâr oldu; Demokratlardaki kayma küçüktü ve istatistiksel olarak anlamlı değildi. [[cite:bail-2018-opposing-views]]\n\n**Yorum (bizim).** Filtre balonu, kitle toplumunun yeni sürümü gibi okunabilir: “yalıtılmış birey” bu kez algoritmanın hapsi. Kanıt bunu kısmen destekliyor ama kesin değil; hepsi ABD merkezli ve belirli bir dönemin platformları için.",
+      "question": {
+        "id": "today-bubble-q",
+        "type": "mcq",
+        "prompt": "Bakshy, Messing ve Adamic’in (2015) Facebook çalışmasına göre, çapraz görüşlü içeriğe maruziyeti asıl olarak neyin sınırladığı söylenir?",
+        "options": [
+          "Algoritmik sıralamanın, bireylerin tercihlerinden daha güçlü biçimde",
+          "Bireylerin kendi tercihlerinin, algoritmik sıralamadan daha güçlü biçimde",
+          "Yalnızca arkadaş listelerinin büyüklüğü",
+          "Platformun reklam politikası"
+        ],
+        "answer": 1,
+        "explain": "Yazarlar bireylerin tercihlerinin çapraz görüşlü içeriğe maruziyeti algoritmik sıralamadan daha güçlü biçimde sınırladığını bildirir. İlk seçenek ise sanılan ‘algoritma hapsediyor’ tezinin kendisidir ve bu çalışmada tersine çıkar. Üçüncü ve dördüncü seçeneklerin özette karşılığı yoktur."
+      }
+    },
+    {
+      "id": "today-lab",
+      "section": "today",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Mini laboratuvar: viral bir öfke dalgasını üç soruyla sına",
+      "body": "Hayal et: Bir mahalle forumunda bir güvenlik kamerası görüntüsü yayılıyor ve yüzlerce kişi bir esnafı hedef alıp öfkeli mesajlar yazıyor. Kalabalık psikolojisi hemen “bulaşma ve akıl kaybı” der; kitle toplumu kuramı “atomlaşmış insanlar manipüle ediliyor” der. Sen bunun yerine üç soru sor:\n\n1. **Katılanlar gerçekten yalıtılmış mı?** Lazarsfeld ve Katz’ın çizgisiyle bak: kimler birbirinin mesajını görüyor, kimin arkadaşı kimin mesajını paylaşıyor? Aracı gruplar iş başında mı?\n2. **Bulaşma herkese eşit mi yayılıyor?** Brady ve arkadaşlarının (2017) verisinde ahlaki-duygusal sözcük başına yayılım yaklaşık yüzde 20 artıyor, ama bu etki grupların içinde daha güçlü, aralarında daha zayıf. Yani bulaşma grup sınırlı görünüyor. [[cite:brady-2017-moral-emotional]]\n3. **Bu bir kalabalık mı, bir kamu mu?** Tarde’nin ölçütüyle bak: bedenler ayrı, bağ zihinsel; o hâlde ‘kalabalık’ sözcüğü yanıltıcı olabilir. Platformun sunduğu seçenekler herkes için aynı mı (Kornhauser’ın ‘standart seçenekler’i)? [[cite:tarde-1901-opinion-foule]]\n\nBu üç soru sana bir cevap vermez; ama yanlış cevaba atlamanı önler. Bu bir eğitim alıştırması: gerçek olayın verisi olmadan sonuca gidemezsin.",
+      "question": {
+        "id": "today-lab-q",
+        "type": "mcq",
+        "prompt": "Bir öfke dalgasının yalnızca aynı görüşteki kullanıcılar arasında hızla yayıldığını, farklı görüşteki ağlara ise geçmediğini gözlemliyorsun. Bu gözlem hangi fikirle en uyumludur?",
+        "options": [
+          "Le Bon’un herkesin aynı anda, kimlikten bağımsız etkilendiği bulaşma modeli",
+          "Bulaşmanın ortak kimliğin ya da grup üyeliğinin sınırlarıyla kısıtlandığı fikri",
+          "Hiçbir bulaşma olmadığı ve her şeyin tesadüf olduğu fikri",
+          "Kitle toplumunun tam atomlaşma tezi"
+        ],
+        "answer": 1,
+        "explain": "Yayılımın grup sınırlarında yavaşlaması, Reicher’in ‘bulaşmanın sınırı kimliğin sınırıdır’ fikriyle ve Brady ve arkadaşlarının bulgusuyla uyumludur (bu eşleştirme bizim yorumumuz). Le Bon’un modeli kimlikten bağımsız bir bulaşma öngörür. ‘Tesadüf’ gözlemi açıklamaz; tam atomlaşma ise insanların gruplar içinde yayıldığı gerçeğiyle çelişir."
+      }
+    },
+    {
+      "id": "deep-viral",
+      "section": "today",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: “Viral” yalnız bir söz değil: iki büyük veri çalışması",
+      "body": "**Yanlış haberin hızı.** Vosoughi, Roy ve Aral (2018) 2006–2017 arasında Twitter’da dolaşan, doğru ya da yanlış olarak sınıflandırılmış bütün haber hikâyelerini inceledi: yaklaşık 126 bin hikâye, yaklaşık 3 milyon kişi ve 4,5 milyondan fazla tweet. Sınıflandırma için altı bağımsız doğrulama kuruluşunun kararları kullanıldı. Yalan, doğruya göre daha uzağa, daha hızlı, daha derine ve daha geniş kitleye yayıldı; etki siyasi haberlerde daha belirgindi. Yalan haber daha “yeni”ydi; insanlar yeniyi paylaşmaya daha yatkındı. Şaşırtıcı bulgu: botlar doğruyu da yalanı da aynı hızla hızlandırdı; farkı yaratan insanlardı. [[cite:vosoughi-roy-aral-2018-true-false-news]]\n\n**Ahlaki-duygusal dilin yayılması.** Brady ve arkadaşları (2017) silah kontrolü, eşcinsel evliliği ve iklim değişikliği üzerine yaklaşık 563 bin iletilik bir örnekte, mesajdaki her ek ahlaki-duygusal sözcüğün yayılımı yaklaşık yüzde 20 artırdığını buldu. Ama bu “ahlaki bulaşma” gruplarla sınırlıydı: liberal ve muhafazakâr ağların içinde daha güçlü, aralarında daha zayıftı. [[cite:brady-2017-moral-emotional]]\n\n**Le Bon’la ilişki.** Bu çalışmalar Le Bon’un telkin modelini ne doğrular ne çürütür; başka bir soruyu yanıtlar: ne, kime, ne kadar hızlı yayılıyor? Ama ikinci bulgu (yayılmanın grup sınırlarıyla kısıtlı olması), bizim yorumumuza göre, Reicher’in “bulaşmanın sınırı kimliğin sınırıdır” fikriyle uyumludur. Çalışmalar Twitter ve ABD odaklıdır; bulguları başka platformlara ve ülkelere doğrudan taşıma."
+    },
+    {
+      "id": "turkey-lebon",
+      "section": "turkey",
+      "layer": "core",
+      "kind": "text",
+      "title": "Türkiye’den bir iz: Le Bon’u okuyan Osmanlı aydınları",
+      "body": "Le Bon Türkçe okuma dünyasına da uğradı. Ferihan Polat ve Ayşegül Durmuş’a (2015) göre Le Bon’un fikirleri, Jön Türk dönemi Batıcı aydınlarının bir bölümünde, halka güvenmeyen ve seçkinci bir tutumu besledi; makale bu çerçevede Ahmed Rıza, Mizancı Murad ve Abdullah Cevdet’i anar. [[cite:polat-durmus-2015-le-bon-abdullah-cevdet]]\n\nMakalenin odağı Abdullah Cevdet’tir: yazarlar, Hanioğlu’na dayanarak, onun Le Bon’un birçok eserini Türkçeye çevirdiğini ve Hilmi Ziya Ülken’e göre o dönemde Abdullah Cevdet denince akla gelen ilk Batılı düşünürün Le Bon olduğunu aktarır. [[cite:polat-durmus-2015-le-bon-abdullah-cevdet]] Bu çeviri listesini tek bir kaynaktan aldık, ikinci bir Türkçe kaynakla doğrulayamadık; bu yüzden ayrıntısına girmiyoruz.\n\nMustafa Enes Aktürkoğlu (2021) ise Le Bon’un 13 Aralık 1931’de öldüğünü ve Abdullah Cevdet’in *İçtihat* dergisinin 15 Ocak 1932 tarihli sayısında ona bir yazı ayırdığını aktarır; makale de Le Bon’un fikirlerinin Osmanlı aydınlarınca benimsendiğini söyler. [[cite:akturkoglu-2021-le-bon]]\n\nBu kısa iz bize iki şey söyler. Birincisi, “kalabalık ve elit” korkusu Avrupa’ya özgü bir ithaf değildi; Osmanlı aydını da onu okudu ve kendi bağlamında kullandı. İkincisi, bir yazarın etkisini abartmamak gerek: bunlar bir aydın çevresinin okuması ve benimsemesi üzerine makaleler; Le Bon’un dönemin siyasetini belirlediğini kanıtlamıyorlar. Türkiye’de kitle kültürü tartışmasının devamı için [[lesson:mass-culture-debate]] dersine bak.",
+      "question": {
+        "id": "turkey-lebon-q",
+        "type": "mcq",
+        "prompt": "Polat ve Durmuş’un (2015) makalesine göre Abdullah Cevdet’in Le Bon ile ilişkisi hangisidir?",
+        "options": [
+          "Le Bon’un Türkiye’ye yaptığı bir gezinin rehberiydi",
+          "Le Bon’un birçok eserini Türkçeye çeviren, onun fikirlerinden etkilenmiş bir aydındı",
+          "Le Bon’un fikirlerinin en sert eleştirmeniydi",
+          "Le Bon ile aynı üniversitede çalıştı"
+        ],
+        "answer": 1,
+        "explain": "Makale, Abdullah Cevdet’in Le Bon’un birçok eserini Türkçeye çevirdiğini ve onun fikirlerinden etkilendiğini savunur (çeviri bilgisi Hanioğlu’na dayanır). Diğer seçeneklerin makalede karşılığı yoktur; özellikle ‘en sert eleştirmen’ yorumu, makalenin ‘esin kaynağı’ vurgusunun tersidir."
+      }
+    },
+    {
+      "id": "exam-patterns",
+      "section": "exam",
+      "layer": "core",
+      "kind": "text",
+      "title": "Sınavda böyle sorulur",
+      "body": "**Sık çıkan kalıplar**\n\n- “‘Kalabalıklar çağı’ diyen ve telkin, bulaşma, isimsizlik üzerinden kalabalığı açıklayan yazar?” → Le Bon (*Psychologie des foules*, 1895).\n- “Çoğunluğun zorbalığı kavramı kime aittir?” → Tocqueville (*De la démocratie en Amérique*, 1835 ve 1840).\n- “Kamu ile kalabalık ayrımı, taklit?” → Tarde.\n- “Kitle-insan, ‘kitle’nin bir sınıf olmadığı” → Ortega y Gasset (1930).\n- “Elitlere erişilebilirlik, kitlelerin seferber edilebilirliği” → Kornhauser (1959).\n- “İki damar” → aristokratik ve demokratik eleştiri (Kornhauser).\n- “Kitle toplumu görüşüne karşı çıkan araştırmalar” → Lazarsfeld ve ekibi: seçmen çalışması ve kişisel etki.\n\n**Cazip yanlışlar**\n\n- Ortega’nın kitlesini işçi sınıfı sanmak: mass-man her sınıftan çıkabilir.\n- Tarde ile Le Bon’u karıştırmak: taklit ve kamu Tarde’dir; bulaşma, telkin ve kalabalık ruhu Le Bon’dur.\n- Le Bon’u “şırınga modeli”nin sahibi saymak: o etiket sonradan yapıştırıldı ve Le Bon’a ait değildir ([[lesson:magic-bullet]]).\n- Kornhauser’ı “nüfus kalabalık olunca kitle toplumu doğar” diye özetlemek: ölçüt faaliyetlerin ölçeği ve aracı grupların zayıflamasıdır.\n- Tocqueville’de tek korku aramak: zorba çoğunluk ve yumuşak, vesayetçi bir güç.\n\n**Alternatif adlar (Türkçede kullanılanlar)**\n\n- Le Bon’un kitabı: “Kitleler Psikolojisi”, “Kitlelerin Psikolojisi”. [[cite:polat-durmus-2015-le-bon-abdullah-cevdet]] [[cite:akturkoglu-2021-le-bon]]\n- Ortega’nın kitabı: “Kitlelerin Ayaklanması” (İş Bankası Kültür Yayınları), “Kitlelerin İsyanı”, “Kütlelerin İsyanı” (kitap satış listelerinde) ve bir makalede “Kitlelerin Yükselişi”. [[cite:iskultur-ortega-kitlelerin-ayaklanmasi]] [[cite:nadirkitap-kitlelerin-isyani]] [[cite:kitapyurdu-kutlelerin-isyani]] [[cite:baylarov-rustamli-2022-kitleler]]\n- Tocqueville’in kavramı: “çoğunluğun tiranlığı”, “çoğunluğun zorbalığı”. [[cite:tr-wikipedia-cogunlugun-tiranligi]] [[cite:cumhuriyet-2020-cogunlugun-zorbaligi]]\n\nSınav soruları genel kalıplara göre yazıldı; hangi kaynaktan çalışırsan çalış, sorudaki adı ve tarihi kaynağınla eşleştir.",
+      "question": {
+        "id": "exam-patterns-q",
+        "type": "mcq",
+        "prompt": "Bir sınav sorusu: “Elitlerin kitle baskısına erişilebilir, kitlelerin de elitlerce seferber edilmeye açık olması hangi yazarın kitle toplumu çerçevesinin çekirdeğidir?” Doğru cevap?",
+        "options": [
+          "Le Bon",
+          "Tarde",
+          "Ortega y Gasset",
+          "Kornhauser"
+        ],
+        "answer": 3,
+        "explain": "Elitlerin erişilebilirliği ve kitlelerin seferber edilebilirliği Kornhauser’ın formülüdür. Le Bon kalabalık psikolojisiyle, Tarde kamu ve taklitle, Ortega kitle-insan zihniyetiyle anılır. Sınavda en sık yapılan hata, ‘kitle’ sözcüğünü gören öğrencinin ilk aklına gelen Le Bon’u yazmasıdır."
+      }
+    },
+    {
+      "id": "summary",
+      "section": "summary",
+      "layer": "core",
+      "kind": "summary",
+      "title": "Özet kartı",
+      "body": "- **Bir kuram değil bir korku ailesi:** kitle toplumu, iki damarda toplanır: seçkin değerlerin yıkılması korkusu (aristokratik) ve atomize insanların seferber edilmesi korkusu (demokratik, sol).\n- **Çekirdek (Kornhauser, 1959):** aracı gruplar zayıflarsa elitler kitle baskısına, kitleler elit seferberliğine açık hâle gelir.\n- **Medyanın rolü tek değil:** ayna (Le Bon), yaratıcı (Tarde), çare (Tocqueville), arena yöneticisi (Kornhauser), egemenin aracı (sol varyant).\n- **Kalabalık ≠ kamu:** Le Bon bulaşmayı, Tarde bağlantıyı vurgular.\n- **Kanıt:** Bristol 1980’de kalabalık sınırlı ve hedefliydi; Erie County ve Decatur’da insanlar medyayı çevreleri üzerinden aldı.\n- **Eleştiri:** atomlaşma iddiası kanıtta zorlandı, ama bağlar ve ölçek soruları yaşıyor.\n- **Bugün:** tek aşamalı iletişim akışı ve filtre balonu tartışmaları eski soruların yeni sürümü; kanıt karışık.\n- **Kitle sözcüğüne dikkat:** Williams’a göre kitle yoktur, kitle olarak bakma biçimleri vardır.",
+      "question": {
+        "id": "summary-q",
+        "type": "mcq",
+        "prompt": "Bu dersin en doğru özeti hangisidir?",
+        "options": [
+          "Kitle toplumu kuramı kanıtlanmış bir kuramdır ve medyanın mutlak gücünü gösterir",
+          "Kitle toplumu, birbirine ters korkuları taşıyan bir fikir ailesidir; atomlaşma iddiası kanıtta zorlanmış, ama sorduğu sorular yaşamaktadır",
+          "Kitle toplumu kuramı yalnızca Le Bon’un kalabalık psikolojisinden ibarettir",
+          "Kitle toplumu kuramı, bugünkü filtre balonu tartışmasının kanıtlanmış öncülüdür"
+        ],
+        "answer": 1,
+        "explain": "Ders boyunca iki damarı, medyaya biçilen farklı rolleri, atomlaşma iddiasına karşı bulguları ve bugünkü yansımaları gördün. İlk seçenek kuramı kanıtlanmış sayar; oysa tersine, temel varsayımı zorlanmıştır. Üçüncü seçenek kuramı tek bir yazara indirger. Dördüncü seçenek bugünkü tartışmayı kanıtlanmış bir soy zincirine bağlar; kanıt karışıktır."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Tocqueville’in “çoğunluğun zorbalığı” ile Le Bon’un “kalabalık”ı arasındaki temel fark hangisidir?",
+      "options": [
+        "Tocqueville’de baskı çoğunluğun fikrinin sessiz, manevi gücünden gelir ve sokakta kalabalık gerekmez; Le Bon’un kalabalığı ise bir arada bulunan ve bulaşmayla hareket eden insanlardır",
+        "İkisi de aynı şeyi anlatır; yalnızca adları farklıdır",
+        "Tocqueville kalabalıkların şiddetinden, Le Bon çoğunluğun fikrinden söz eder",
+        "Le Bon demokrasiyi savunur, Tocqueville karşı çıkar"
+      ],
+      "answer": 0,
+      "explain": "Tocqueville çoğunluğun, karar verdikten sonra tartışmayı bitiren manevi gücünden söz eder; ortada ne kalabalık ne şiddet gerekir. Le Bon ise fiziksel bir arada olmayı ve bulaşmayı temel alır. İkinci seçenek farkı siler. Üçüncüsü rolleri ters çevirir. Dördüncüsü de doğru değildir: Le Bon, kalabalık iktidarına mesafelidir ve ‘demokrasi karşıtı, elitist’ diye anılmıştır."
+    },
+    {
+      "id": "q2",
+      "type": "tf",
+      "prompt": "Doğru mu yanlış mı: Ortega y Gasset’in “kitle”si, işçi sınıfının adıdır.",
+      "answer": false,
+      "explain": "Yanlış. Ortega kitleyi niteliğe göre tanımlar: kendini “herkes gibi” hisseden ve özel bir nitelik aramayan insan; kitle-insan her toplumsal sınıftan çıkabilir. Bu yüzden ‘kitle = alt sınıf’ okuması ders kitaplarında sık görülen bir hatadır."
+    },
+    {
+      "id": "q3",
+      "type": "match",
+      "prompt": "İsimleri, kavram ya da eserleriyle eşleştir.",
+      "pairs": [
+        [
+          "Le Bon",
+          "Psychologie des foules (1895): telkin, bulaşma, isimsizlik"
+        ],
+        [
+          "Tarde",
+          "Kamu ve kalabalık ayrımı; taklit yasaları"
+        ],
+        [
+          "Tocqueville",
+          "Çoğunluğun zorbalığı ve bireycilik"
+        ],
+        [
+          "Ortega y Gasset",
+          "Kitle-insan: sınıf değil, zihniyet"
+        ],
+        [
+          "Kornhauser",
+          "Elitlere erişilebilirlik ve kitlelerin seferber edilebilirliği"
+        ]
+      ],
+      "explain": "En sık karışan çiftler Le Bon–Tarde (bulaşma mı, kamu mu) ve Ortega–Kornhauser’dır (zihniyet mi, toplumsal yapı mı). Tocqueville ise çoğunluğun fikir üzerindeki gücüyle anılır."
+    },
+    {
+      "id": "q4",
+      "type": "order",
+      "prompt": "Şu eserleri yayımlanma sırasına göre diz (eskiden yeniye).",
+      "items": [
+        "Le Bon: Psychologie des foules (1895)",
+        "Ortega y Gasset: La rebelión de las masas, kitap (1930)",
+        "Lazarsfeld, Berelson ve Gaudet: The People’s Choice (1944)",
+        "Katz ve Lazarsfeld: Personal Influence (1955)",
+        "Kornhauser: The Politics of Mass Society (1959)"
+      ],
+      "explain": "Sıra 1895, 1930, 1944, 1955, 1959. Kornhauser’ın kitabı, Lazarsfeld ekibinin iki çalışmasından sonra çıkmıştır: yani kitle toplumu fikri, kişisel etki bulgularından sonra da tartışılmaya devam etti. Ortega’nın yazıları 1929’da gazetede çıkmıştı, ama kitap 1930 tarihlidir."
+    },
+    {
+      "id": "q5",
+      "type": "cloze",
+      "prompt": "Boşlukları doldur.",
+      "text": "Kornhauser’a göre kitle toplumunda elitler {{1}}, kitleler ise {{2}}.",
+      "blanks": [
+        {
+          "options": [
+            "kitle baskısına erişilebilirdir",
+            "kitleden tamamen yalıtılmıştır",
+            "hiç seçilmez"
+          ],
+          "answer": 0
+        },
+        {
+          "options": [
+            "elitlerce seferber edilmeye açıktır",
+            "aracı gruplarca sıkı biçimde korunur",
+            "kalıtsal olarak itaatkârdır"
+          ],
+          "answer": 0
+        }
+      ],
+      "explain": "Formül iki yönlüdür: elitler kitle baskısına açık, kitleler elit seferberliğine açık. ‘Yalıtılmış elit’ ve ‘aracı gruplarca korunan kitle’ ise tam tersini, yani kitle toplumunun değil çoğulcu demokrasinin resmini çizer. ‘Kalıtsal itaatkârlık’ Le Bon’un ırk vurgusuna daha yakındır, Kornhauser’ın değil."
+    },
+    {
+      "id": "q6",
+      "type": "case",
+      "scenario": "Hayal et: Bir şehirde büyük bir fabrika kapanıyor. Yeni gelen göçmen işçilerin çoğu ne bir sendikaya ne de bir mahalle derneğine bağlı. Bir lider televizyondan doğrudan bu insanlara seslenen sloganlarla bir hareket başlatıyor.",
+      "parts": [
+        {
+          "id": "q6a",
+          "prompt": "Kornhauser’ın çerçevesinde bu insanlar neden hareket için elverişli sayılır?",
+          "options": [
+            "Çünkü doğuştan akılsızdırlar",
+            "Çünkü topluluk bağlarından kopmuşlar ama henüz yeni düzene katılmamışlardır",
+            "Çünkü hepsi aynı sınıftandır"
+          ],
+          "answer": 1,
+          "explain": "Kornhauser bağlarını yitirmiş ama henüz yeni düzene katılmamış kesimleri (yeni göçmenler, yeni işçiler) hareketlere yatkın sayar. Zihinsel yetersizlik iddiası Le Bon çizgisinden gelir. Sınıf ortaklığı ise burada belirleyici bir ölçüt değildir."
+        },
+        {
+          "id": "q6b",
+          "prompt": "Lazarsfeld çizgisinden gelen bir araştırmacı ilk olarak hangi soruyu sorardı?",
+          "options": [
+            "Bu işçilerin gerçekten hiçbir grubun içinde olmadığı doğru mu; mesajı kimlerin aracılığıyla alıyorlar?",
+            "Lider kaç kere televizyona çıktı?",
+            "İşçiler kalabalık halinde ne kadar bağırıyor?"
+          ],
+          "answer": 0,
+          "explain": "Lazarsfeld çizgisi tam da atomlaşma varsayımını sorgular: insanlar mesajı arkadaşlar, komşular ve kanaat önderleri aracılığıyla alır mı? Diğer sorular ya yalnızca medya maruziyetini sayar ya da Le Bon tarzı kalabalık davranışına odaklanır."
+        },
+        {
+          "id": "q6c",
+          "prompt": "Kornhauser’ın uyarısı bu senaryoya nasıl uygulanır?",
+          "options": [
+            "Bu koşullar tek başına totaliter bir hareket üretir",
+            "Bu koşullar riski artırır ama tek başına totalitarizm üretmez; başka koşullar da gerekir",
+            "Bu koşullar hiçbir risk taşımaz"
+          ],
+          "answer": 1,
+          "explain": "Kornhauser kitle koşullarının tek başına totalitarizm üretmediğini, başka koşulların da gerektiğini yazar. Birinci seçenek zinciri bir kadere çevirir; üçüncü seçenek kuramın hiçbir şey söylemediğini varsayar."
+        }
+      ],
+      "takeaway": "Kitle toplumu kuramı bir risk haritası çizer, kader ilan etmez; ilk sınama sorusu da her zaman şudur: bu insanlar gerçekten gruplardan kopuk mu?"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "Raymond Williams’ın “There are in fact no masses; there are only ways of seeing people as masses” cümlesi en iyi hangi anlama gelir?",
+      "options": [
+        "Kalabalıklar hiçbir zaman toplanmaz",
+        "“Kitle” bir bakış biçimidir: kimse kendi yakınlarına ‘kitle’ demez, kitleler hep başkalarıdır",
+        "Toplumda hiç insan yoktur",
+        "Kitle iletişimi araçları gerçekte yoktur"
+      ],
+      "answer": 1,
+      "explain": "Williams kitle kavramının bir toplumsal gerçekliği değil, bir bakma biçimini adlandırdığını söyler; kitleler hep ‘başkaları’dır. Diğer seçenekler cümleyi düz anlamıyla okuyup saçmalığa vardırır: Williams kalabalıkların ya da medyanın olmadığını değil, ‘kitle’ etiketinin nasıl işlediğini tartışır."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Reicher’in Bristol 1980 çalışmasında, Le Bon’un “isimsiz kalabalık her şeye saldırır” tahminiyle en çok çelişen bulgu hangisidir?",
+      "options": [
+        "Polis araçlarına saldırı",
+        "Kalabalığın polis çekildikten sonra mahalle sınırını geçmemesi ve özel araçlara taş atanları durdurması",
+        "Söylentilerin yayılması",
+        "Öğleden sonra saat 3.30’da başlaması"
+      ],
+      "answer": 1,
+      "explain": "Sınırları ve hedefleri olan bir davranış, ‘bilinçsiz, sınırsız’ kalabalık resmiyle çelişir. Araçlara saldırı şiddetin varlığını gösterir, sınırsızlığını değil. Söylentiler ve saat, tahminle ilgisiz ayrıntılardır."
+    },
+    {
+      "id": "q9",
+      "type": "tf",
+      "prompt": "Doğru mu yanlış mı: Bakshy, Messing ve Adamic’in (2015) Facebook çalışmasına göre, algoritmik sıralama bireylerin kendi tercihlerinden daha güçlü biçimde çapraz görüşlü içeriğe maruziyeti sınırlar.",
+      "answer": false,
+      "explain": "Yanlış. Yazarlar tersini bildirir: bireylerin tercihleri, algoritmik sıralamaya göre çapraz görüşlü içeriğe maruziyeti daha güçlü biçimde sınırlar. ‘Algoritma hapsediyor’ tezi bu çalışmada zayıflar. Yine de çalışma tek platforma ve tek ülkeye ait olduğu için kesin bir hüküm değildir."
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "Hannah Arendt ve Kornhauser’ı en iyi hangi damar özetler?",
+      "options": [
+        "Aristokratik damar: kitle seçkin kültürü yıkar",
+        "Demokratik damar: kopuk insanları totaliter hareketler seferber eder",
+        "Sol varyant: egemenler medyayı denetleyip kitleyi uyuşturur",
+        "Hiçbiri; ikisi de kitle toplumu kuramına karşıdır"
+      ],
+      "answer": 1,
+      "explain": "Kornhauser kendisini ve Arendt’i, Fromm, Lederer, Mannheim ve Neumann’la birlikte, demokratik damarda sayar: korku, atomlaşmış insanların totaliter hareketlerce seferber edilmesidir. Aristokratik damar 19. yüzyıla ve Ortega tipine aittir. Sol varyant ise medya ve egemenler üzerine kuruludur. Son seçenek de yanlıştır: ikisi de kitle toplumu çerçevesinin savunucularıdır."
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "Bennett ve Manheim’ın (2006) “tek aşamalı iletişim akışı” tezi hangi değişikliği öne sürer?",
+      "options": [
+        "Mesajların medyadan toplumsal aracılıkla geçen iki aşamalı iletişim akışından, doğrudan bireylere hedeflenen akışa kayması",
+        "Kanaat önderlerinin gücünün artması",
+        "Medyanın etkisinin tamamen ortadan kalkması",
+        "Bireylerin artık hiç grup içinde yaşamaması"
+      ],
+      "answer": 0,
+      "explain": "Yazarlar iki aşamalı iletişim akışından (medya, kanaat önderi, diğerleri) bireylere doğrudan hedeflenen bir akışa kayış tartışır. İkinci seçenek onların tezinin tersidir: kanaat önderleri ‘önderlik’ etmeyi bırakıyor. Üçüncü ve dördüncü seçenekler abartıdır; makale bunları söylemez."
+    }
+  ]
+}

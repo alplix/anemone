@@ -1,0 +1,28 @@
+{
+  "id": "kornhauser",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "name": "William Kornhauser",
+  "nativeName": "",
+  "slug": "william-kornhauser",
+  "short": "American political sociologist (1925–2004); in The Politics of Mass Society (1959) he formulated mass society as “accessibility of elites and availability of non-elites”.",
+  "roles": [
+    "sociologist",
+    "political sociologist",
+    "university teacher"
+  ],
+  "bio": "William Kornhauser was born in 1925 and died on 3 July 2004 at the age of 79. He was a native of Chicago; he took almost all his education at the University of Chicago and completed his doctorate in 1953 with a thesis on liberal and radical political careers. The same year he began work at Berkeley, where he stayed for forty years. In 1954 he was among the first fellows of the Center for Advanced Study in the Behavioral Sciences at Stanford. With Lipset, Bendix and Selznick he is counted as one of the foursome that made Berkeley the centre of political and industrial sociology in the 1950s and 1960s.\n\n*The Politics of Mass Society* (1959) draws together the views of Tocqueville, Mannheim, Ortega y Gasset and Nisbet to analyse the conditions under which democratic societies become open to mass movements with totalitarian potential; it also makes original contributions on pluralism and elite theory. It defines mass society as one in which elites are accessible to mass pressure and masses are available for mobilisation by elites. Besides some twenty articles he wrote *Scientists in Industry* (1962); the “mass society” entry in the *International Encyclopedia of the Social Sciences* is also his.\n\nKornhauser was also an active political figure: during the 1964 Free Speech Movement he worked on organising the faculty, and in 1980 he helped found the journal *Democracy*. [[cite:uc-in-memoriam-kornhauser]]",
+  "works": [
+    {
+      "bib": "kornhauser-1959-politics-mass-society",
+      "note": "The formula of accessible elites and available masses."
+    },
+    {
+      "bib": "kornhauser-1968-iess-mass-society",
+      "note": "His own summary entry: the two strands, mass arenas and replies to critics."
+    }
+  ],
+  "inCourse": "In [[lesson:mass-society]] he supplies the core formula of the theory and the aristocratic/democratic distinction."
+}

@@ -1,0 +1,25 @@
+{
+  "id": "tarde",
+  "lang": "tr",
+  "name": "Gabriel Tarde",
+  "nativeName": "",
+  "slug": "gabriel-tarde",
+  "short": "Fransız yargıç ve toplumbilimci (1843–1904); taklit yasalarını ve kalabalık ile kamu ayrımını geliştirdi; gazeteyi kamunun yaratıcısı olarak gördü.",
+  "roles": [
+    "toplumbilimci",
+    "yargıç",
+    "suç istatistikçisi"
+  ],
+  "bio": "Gabriel Tarde 12 Mart 1843’te Sarlat’ta doğdu ve 1904’te öldü. Toulouse ve Paris’te hukuk okudu; 1869’dan 1894’e kadar memleketinde çeşitli yargı görevlerinde çalıştı, ardından Paris’te Adalet Bakanlığı’nın suç istatistikleri müdürü oldu (1894–1900). Elsie Clews Parsons’ın 1903’te yayımlanan İngilizce çevirisinin önsözü, onun memleketinde neredeyse on sekiz yıl soruşturma yargıcı olarak çalıştığını ve 1880’den beri *Revue philosophique*’e yazdığını aktarır. 1900’den ölümüne kadar Collège de France’ta modern felsefe kürsüsünde bulundu.\n\nKuramının çekirdeği taklittir. *Les lois de l’imitation* (1890) kitabında toplumun taklitle ayakta durduğunu ileri sürer; İngilizce çevirideki özet cümlesi şudur: toplum taklittir ve taklit bir tür uyurgezerliktir. Buluş, taklit ve karşıtlık, onun toplum çözümlemesinin üç birbirine bağlı sürecidir.\n\n*L’opinion et la foule* (1901) kitabında kalabalık ile kamuyu ayırır. Kalabalık, bedenlerin bir arada bulunduğu ve duygunun temasla yayıldığı topluluktur; kamu ise fiziksel olarak dağınık, bağı yalnızca zihinsel insanlardır. Matbaanın icadından beri bu ikinci türün büyüdüğünü, gazetenin kamuyu yarattığını ve kamunun psikolojisinin henüz yazılmadığını söyler. Gazetelerin, insanlar okuduklarını birbirleriyle konuştukça bireysel özerkliği de artırabildiğini düşündüğü aktarılır.\n\nÜlkesinde ilgi çekmedi; Amerikalı toplumbilimciler ve toplumsal psikologlar ise onu dikkatle okudu. Ölümünden önceki iki yıl boyunca Durkheim’la tartıştığı bilinir. [[cite:encyclopedia-tarde-contemporary-authors]]",
+  "works": [
+    {
+      "bib": "tarde-1890-lois-imitation",
+      "note": "Taklit yasaları; “toplum taklittir”."
+    },
+    {
+      "bib": "tarde-1901-opinion-foule",
+      "note": "Kamu ve kalabalık ayrımı; gazetenin kamuyu yaratması."
+    }
+  ],
+  "inCourse": "[[lesson:mass-society]] dersinde kalabalık–kamu ayrımıyla ve medyanın “kamu yaratıcısı” rolüyle geçer."
+}

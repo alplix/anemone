@@ -1,0 +1,25 @@
+{
+  "id": "kornhauser",
+  "lang": "tr",
+  "name": "William Kornhauser",
+  "nativeName": "",
+  "slug": "william-kornhauser",
+  "short": "Amerikalı siyaset toplumbilimcisi (1925–2004); *The Politics of Mass Society* (1959) ile kitle toplumunu “elitlere erişilebilirlik ve kitlelerin seferber edilebilirliği” diye formüle etti.",
+  "roles": [
+    "toplumbilimci",
+    "siyaset toplumbilimcisi",
+    "üniversite hocası"
+  ],
+  "bio": "William Kornhauser 1925’te doğdu ve 3 Temmuz 2004’te 79 yaşında öldü. Chicagolu’ydu; eğitiminin neredeyse tamamını Chicago Üniversitesi’nde aldı ve 1953’te liberal ve radikal siyasi kariyerler üzerine yazdığı tezle doktorasını tamamladı. Aynı yıl Berkeley’de göreve başladı ve orada kırk yıl çalıştı. 1954’te Stanford’daki Davranış Bilimleri İleri Araştırma Merkezi’nin ilk dönem araştırmacıları arasına girdi. Lipset, Bendix ve Selznick’le birlikte Berkeley’i 1950’ler ve 1960’larda siyasi ve endüstriyel toplumbilimin merkezi yapan dörtlüden biri sayılır.\n\n*The Politics of Mass Society* (1959), Tocqueville, Mannheim, Ortega y Gasset ve Nisbet’in görüşlerini birleştirerek demokratik toplumların hangi koşullarda totaliter potansiyelli kitle hareketlerine açık hâle geldiğini çözümler; çoğulculuk ve elit kuramına da özgün katkılar içerir. Kitle toplumunu, elitlerin kitle baskısına erişilebilir olduğu ve kitlelerin elitlerce seferber edilmeye açık olduğu bir toplum olarak tanımlar. Yaklaşık yirmi makaleden başka *Scientists in Industry* (1962) adlı kitabı yazdı; *International Encyclopedia of the Social Sciences*’taki “mass society” maddesi de ona aittir.\n\nKornhauser aynı zamanda aktif bir siyasi figürdü: 1964 Özgür Konuşma Hareketi sırasında öğretim üyelerinin örgütlenmesinde çalıştı ve 1980’de *Democracy* dergisinin kurucularından biri oldu. [[cite:uc-in-memoriam-kornhauser]]",
+  "works": [
+    {
+      "bib": "kornhauser-1959-politics-mass-society",
+      "note": "Kitle toplumunun erişilebilir elit ve seferber edilebilir kitle formülü."
+    },
+    {
+      "bib": "kornhauser-1968-iess-mass-society",
+      "note": "Kendi özet maddesi: iki damar, kitle arenaları ve eleştirilere yanıt."
+    }
+  ],
+  "inCourse": "[[lesson:mass-society]] dersinde kuramın çekirdek formülünü ve aristokratik–demokratik ayrımını veren yazardır."
+}

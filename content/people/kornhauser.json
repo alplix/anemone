@@ -1,0 +1,17 @@
+{
+  "id": "kornhauser",
+  "born": {
+    "year": 1925
+  },
+  "died": {
+    "year": 2004
+  },
+  "sources": [
+    "uc-in-memoriam-kornhauser",
+    "ebsco-mass-society-theory"
+  ],
+  "works": [
+    "kornhauser-1959-politics-mass-society",
+    "kornhauser-1968-iess-mass-society"
+  ]
+}

@@ -1,0 +1,797 @@
+{
+  "id": "mass-society",
+  "lang": "en",
+  "translation": {
+    "status": "machine",
+    "date": "2026-09-20"
+  },
+  "title": "Mass Society and Mass Culture Theory",
+  "slug": "mass-society-theory",
+  "description": "Tocqueville, Le Bon, Tarde, Ortega and Kornhauser: the fear of atomised individuals, steerable crowds and the media in two strands, the evidence and today’s echoes.",
+  "claim": "Mass-society theory is a family of ideas, less one theory than a set of fears that contradict each other, holding that as intermediate groups and community ties dissolve in modern society people become an isolated, easily steered mass and the media a channel speaking directly to that mass; when later research showed that people mostly live inside groups and receive the media through them, the claim came to be read less as evidence than as a tradition of warning, yet the questions it asked (scale, ties, the media arena) live on.",
+  "keywords": [
+    "mass society",
+    "mass culture",
+    "Le Bon",
+    "Tocqueville",
+    "Tarde",
+    "Ortega y Gasset",
+    "Kornhauser",
+    "Mannheim",
+    "atomisation",
+    "crowd psychology",
+    "public and crowd",
+    "tyranny of the majority",
+    "intermediate groups",
+    "aristocratic criticism",
+    "filter bubble",
+    "one-step flow"
+  ],
+  "updated": "2026-09-20",
+  "timeline": {
+    "tocqueville-democracy-1": "Tocqueville, De la démocratie en Amérique, vol. 1: the tyranny of the majority",
+    "tocqueville-democracy-2": "Tocqueville, vol. 2: individualism and the tutelary power",
+    "tarde-imitation": "Tarde, Les lois de l’imitation",
+    "le-bon-crowd": "Le Bon, Psychologie des foules: the “era of crowds”",
+    "tarde-public-crowd": "Tarde, L’opinion et la foule: public and crowd",
+    "ortega-revolt": "Ortega y Gasset, La rebelión de las masas (book; newspaper articles 1929)",
+    "mannheim-german": "Mannheim, Mensch und Gesellschaft im Zeitalter des Umbaus (English 1940)",
+    "peoples-choice": "Lazarsfeld, Berelson and Gaudet: The People’s Choice (Erie County, 1940 election)",
+    "personal-influence": "Katz and Lazarsfeld: Personal Influence (the Decatur study)",
+    "kornhauser-politics": "Kornhauser, The Politics of Mass Society",
+    "reicher-st-pauls": "Reicher’s study of the Bristol St Pauls events (events of April 1980)",
+    "bennett-manheim": "Bennett and Manheim: the “one-step flow”",
+    "pariser-filter-bubble": "Pariser, The Filter Bubble"
+  },
+  "cards": [
+    {
+      "id": "ctx-era",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "“The era of crowds”: in 1895 a physician proclaims a new sovereign",
+      "body": "Paris, 1895. [[person:le-bon|Gustave Le Bon]], a writer trained as a physician who had worked on everything from the components of tobacco smoke to atomic energy, opens *Psychologie des foules* (The Psychology of Crowds) with a grand sentence: old beliefs are shaking, old authorities are falling, and one power is left standing, the power of crowds. The title of the introduction is, in fact, “the era of crowds”. [[cite:le-bon-1895-psychologie-foules]] [[cite:encyclopedia-le-bon-european-social-history]]\n\nHe says the fear has two sources: on one side the collapse of religious, political and social beliefs, on the other the brand-new conditions of life created by science and industry. The result, in his words, is a period of “transition and anarchy”. [[cite:le-bon-1895-psychologie-foules]]\n\nNow come to the surprising part of the book. Le Bon despises the crowd, but he does not make the media its master; he says the opposite: the press used to steer public opinion, now it is merely a reflection of the opinions of crowds and, because of competition, has to follow its readers. [[cite:le-bon-1895-psychologie-foules]]\n\nKeep this in mind: what we call “mass society” is not one fear but a bag of fears that contradict each other. In Le Bon the danger is a flood rising from below; in some other writers it is a flock herded from above. In this lesson we open the bag.",
+      "question": {
+        "id": "ctx-era-q",
+        "type": "mcq",
+        "prompt": "Imagine it is 1895 and a newspaper’s sales are falling; the editor consults Le Bon’s book. According to Le Bon’s picture of the press, what is the paper forced to do?",
+        "options": [
+          "Put in heavier, more instructive articles to educate its readers",
+          "Follow the crowd’s changing mood and drift towards light, fast, news-heavy content",
+          "Move closer to the government line and steer the crowd",
+          "Ignore the crowd altogether, since the crowd does not read newspapers"
+        ],
+        "answer": 1,
+        "explain": "For Le Bon the press stands behind the crowd, not in front of it: it has given up imposing ideas and, because of competition, has become a news agency that follows every shift of public thought. The first option treats the press as a directing force, whereas Le Bon says the opposite. The third does not fit the text, which says even governments have to retreat before the crowd. The fourth has no counterpart in the text."
+      }
+    },
+    {
+      "id": "ctx-tocqueville",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "Tocqueville did not see a crowd in America, he saw a silent majority",
+      "body": "1831–32: the French magistrate Alexis de Tocqueville travels through America for nine months. The first volume of the book he writes on his return, *De la démocratie en Amérique*, appears in 1835 and the second in 1840. [[cite:encyclopedia-tocqueville-american-constitution]] [[cite:encyclopedia-tocqueville-european-social-history]]\n\nWhat he fears, unlike Le Bon, is not a crowd pouring into the streets. In the first volume he describes what he calls the “tyranny of the majority”: once the majority has made up its mind, discussion ends, and friends and opponents alike assent in “a submissive silence”. Tocqueville writes that he knows no country with so little true independence of mind and freedom of discussion as America. The pressure comes not from laws but from the opinion around you. [[cite:tocqueville-1835-democratie]]\n\nIn the second volume the picture changes. Everyone is becoming alike, and everyone is withdrawing into a small world of his own. Tocqueville uses a new word, “individualism”: a person cuts himself off from the mass, draws apart with family and friends, and leaves the rest of society to itself. Above these isolated people rises an “immense and tutelary” power: not harsh but attentive and mild, a power that keeps people in perpetual childhood instead of preparing them for adulthood. [[cite:tocqueville-1835-democratie]]\n\nSo one author carries two fears: a tyrannical majority and estranged individuals. If “a submissive silence” sounds familiar, you will meet it again in the lesson [[lesson:spiral-of-silence]], in the spiral of silence.",
+      "question": {
+        "id": "ctx-tocqueville-q",
+        "type": "mcq",
+        "prompt": "Imagine that in a neighbourhood the majority decides a contested question and those of the opposite view quietly stop arguing. There is neither violence nor a legal sanction. Which concept would Tocqueville most likely use?",
+        "options": [
+          "Crowd contagion",
+          "The tyranny of the majority",
+          "The tutelary despotism of the state",
+          "Healthy consensus"
+        ],
+        "answer": 1,
+        "explain": "The pressure comes not from law or the state but from the majority’s moral power over opinion, which is exactly the tyranny of the majority of the first volume. ‘Crowd contagion’ is Le Bon’s mechanism and needs a crowd to be present. ‘Tutelary despotism’ is the order of the second volume in which a central power looks after people, and there is no such power here. ‘Healthy consensus’ contradicts the fact that the opposing view has been silenced."
+      }
+    },
+    {
+      "id": "people-cast",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "text",
+      "title": "Who is who, and in which year? Six names, three generations",
+      "body": "What costs students most marks in exams is not the theories themselves but the mixing up of years. The cast of this lesson also comes from different countries and different politics; watch the years.\n\n- **Alexis de Tocqueville** (1805–1859), French. *De la démocratie en Amérique*: volume 1 in 1835, volume 2 in 1840. The tyranny of the majority, individualism. [[person:tocqueville]] [[cite:encyclopedia-tocqueville-european-social-history]]\n- **Gabriel Tarde** (1843–1904), French judge and sociologist. *Les lois de l’imitation* (1890), *L’opinion et la foule* (1901): imitation, crowd and public. [[person:tarde]] [[cite:encyclopedia-tarde-contemporary-authors]]\n- **Gustave Le Bon** (1841–1931), French. *Psychologie des foules* (1895). [[person:le-bon]] [[cite:le-bon-1895-psychologie-foules]]\n- **José Ortega y Gasset** (1883–1955), Spanish philosopher. *La rebelión de las masas*: newspaper articles in 1929, book in 1930. [[person:ortega]] [[cite:ortega-1930-rebelion-masas]]\n- **Karl Mannheim** (1893–1947), born in Budapest; in Britain after 1933. *Mensch und Gesellschaft im Zeitalter des Umbaus* (1935; English 1940). [[person:mannheim]] [[cite:mannheim-1940-man-society]]\n- **William Kornhauser** (1925–2004), American. *The Politics of Mass Society* (1959). [[person:kornhauser]] [[cite:uc-in-memoriam-kornhauser]]\n\nOn the opposing team play Lazarsfeld and his colleagues: *The People’s Choice* (1944) and *Personal Influence* (1955). [[person:lazarsfeld]] Classical sociologists such as Tönnies, Durkheim, Simmel and Weber stand in the background of this lesson; you will meet them in the lesson [[lesson:social-thought-roots]].",
+      "question": {
+        "id": "people-cast-q",
+        "type": "order",
+        "prompt": "Put these works in the order of their first publication (oldest to newest).",
+        "items": [
+          "Tocqueville: De la démocratie en Amérique, volume 1 (1835)",
+          "Tarde: Les lois de l’imitation (1890)",
+          "Le Bon: Psychologie des foules (1895)",
+          "Ortega y Gasset: La rebelión de las masas, book (1930)",
+          "Kornhauser: The Politics of Mass Society (1959)"
+        ],
+        "explain": "The order is 1835, 1890, 1895, 1930, 1959. The pair that is confused most often is Tarde and Le Bon: Tarde’s book on imitation appeared five years before Le Bon’s, but his L’opinion et la foule, on crowd and public, dates from 1901, after Le Bon. Ortega’s pieces appeared in a newspaper in 1929; the book is dated 1930."
+      }
+    },
+    {
+      "id": "people-tarde",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "story",
+      "title": "Tarde: “The psychology of crowds has been written; now comes the psychology of the public”",
+      "body": "May 1901. Gabriel Tarde signs the preface of *L’opinion et la foule*; the title of the first chapter is “The public and the crowd”. Tarde begins with a complaint: writers stick the word “crowd” on every kind of gathering and confuse the public with the crowd. This confusion must end, he says. Even where people speak of the “public” of a theatre, he says, what is really meant is a crowd. [[cite:tarde-1901-opinion-foule]]\n\nHe draws the distinction like this. A crowd is born where bodies are together; in his view it is somewhat animal, since it is a bundle of psychic contagions spread by physical contact. The psychology written so far belongs to this kind. A public is a “purely spiritual” collectivity: people who are physically separated and whose bond is entirely mental. Tarde says that since the invention of printing this new kind has kept growing; the psychology of crowds has been done, he says, and it remains to write that of the public. [[cite:tarde-1901-opinion-foule]]\n\nHis evidence is in his own book: I know regions of France, he says, where nobody has ever seen a Jew; hostility to Jews flourishes there anyway, because people read newspapers that write in that vein. [[cite:tarde-1901-opinion-foule]] A painful example, but what it shows is clear: a newspaper can produce a public, and its prejudices, without any contact.\n\nAnd a famous sentence from his first book: “Society is imitation and imitation is a kind of somnambulism” (*Les lois de l’imitation*, 1890, in the English translation). [[cite:tarde-1890-lois-imitation]] [[cite:parsons-2024-tarde-excerpt]]",
+      "question": {
+        "id": "people-tarde-q",
+        "type": "mcq",
+        "prompt": "Imagine that hundreds of thousands of people all over the country, who have never seen one another, read the same news site on the same evening and share the same anger. According to Tarde’s distinction, what is this group?",
+        "options": [
+          "A crowd",
+          "A public",
+          "Neither a crowd nor a public, merely a statistic",
+          "A congregation"
+        ],
+        "answer": 1,
+        "explain": "For Tarde the criterion of a public is that bodies are apart and the bond is mental, which is the case here. The crowd option is wrong, because a crowd is defined by contagion spread through physical contact. Tarde knew no internet or news site; we are applying his criterion to today. ‘Merely a statistic’ ignores that the shared anger forms a mental bond."
+      }
+    },
+    {
+      "id": "deep-sources",
+      "section": "people-time",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: an idea fed by three streams",
+      "body": "In the entry of 1968 Kornhauser ties the idea of mass society to three separate sources. This is his map; another historian might draw up a different list. [[cite:kornhauser-1968-iess-mass-society]]\n\n1. **The aristocratic criticism of democratisation.** Catholic thinkers defending the order after the French Revolution (Maistre, Bonald), then liberals such as Tocqueville and J. S. Mill, Burckhardt and Nietzsche; later Ortega. The shared worry: that the arbitrary will of the masses replaces standards.\n2. **The analysis of the shift from community to society.** Maine’s distinction between status and contract, Tönnies’s Gemeinschaft and Gesellschaft, Durkheim’s theory of solidarity and anomie, Weber’s analysis of bureaucracy; in urban sociology Simmel, Park and Wirth. What this line contributed is the thesis that modernisation brings atomisation and depersonalisation. You will get to know these names in the lessons [[lesson:social-thought-roots]] and [[lesson:chicago-school]].\n3. **Mass psychology.** Le Bon, Sighele and Tarde: the idea that people cut loose from communal ties and traditional authorities are more open to suggestion and steering. American studies of “collective behaviour” (Blumer) cast this in a more sociological and less polemical mould.\n\nMannheim’s book of 1935 is named as one of those that drew these themes together in an analysis of “fundamental democratisation” and “growing interdependence”. [[cite:mannheim-1940-man-society]] Kornhauser puts what they share like this: all of them see modern society as containing fundamental pathological tendencies that belong to its development. This view makes “mass society” less a theory than a perspective."
+    },
+    {
+      "id": "claim-core",
+      "section": "claim",
+      "layer": "core",
+      "kind": "text",
+      "title": "The core of the theory: isolated people, accessible elites",
+      "body": "A riddle: if you remove the intermediaries between a politician and the public (associations, trade unions, neighbourhood organisations), communication gets easier, doesn’t it? According to Kornhauser that very ease is the danger. Mass-society theory is not the theory of one author; it is the common name of similar fears, but William Kornhauser gave this family a tidy formula, and in textbooks you will mostly see him as the core. [[cite:kornhauser-1968-iess-mass-society]]\n\nThe formula runs both ways:\n\n- **Elites are open to mass pressure.** Ordinary people can reach elites without intermediaries and press them directly through votes, reactions and popularity.\n- **Masses are open to mobilisation by elites.** People listen to the direct appeals of distant elites because no strong ties hold them to their immediate surroundings.\n\nThe logic of Kornhauser’s own sentence in his entry is this: the more accessible elites are to mass pressure, the more readily the masses can be mobilised by elites. [[cite:kornhauser-1968-iess-mass-society]]\n\nThere is a missing link in the middle: the **intermediate groups** such as the local community, associations, the neighbourhood, religious and ethnic communities and trade unions. The theory says that as this layer thins, the two ends touch each other bare. The media are the carrier of this contact: mass arenas are run from the centre and through the mass media, since there is no other way to show the whole population the same thing at the same time. [[cite:kornhauser-1968-iess-mass-society]]\n\nIn short, the core claim is: if intermediate groups weaken, the media and elites talk directly to the individual, and the individual becomes open to steering. Is the claim true? The following cards test it.",
+      "question": {
+        "id": "claim-core-q",
+        "type": "mcq",
+        "prompt": "Imagine a country in which trade unions, associations and neighbourhood organisations have collapsed, while politicians address the public directly from the screen. According to Kornhauser’s logic, what is the main risk?",
+        "options": [
+          "That crowds are innately unintelligent",
+          "That it becomes easier for elites to mobilise people without intermediaries, while elites stay open to instant mass pressure",
+          "That the state sets up a mild tutelage that keeps people like children",
+          "That the public organises itself too much"
+        ],
+        "answer": 1,
+        "explain": "Kornhauser’s formula runs both ways: elites are accessible to mass pressure and masses are ready for elite mobilisation; intermediate groups are the buffer between the two. The first option is the argument of crowd psychology, not Kornhauser’s; he looks for the danger in the absence of social ties, not in mental inadequacy. The third is a mix-up with Tocqueville’s second volume. The fourth is the opposite of the formula."
+      }
+    },
+    {
+      "id": "claim-variants",
+      "section": "claim",
+      "layer": "core",
+      "kind": "myth",
+      "title": "Two strands: fear from above, fear from below",
+      "body": "**What people assume.** Mass-society theory is an elitist, conservative fear that despises ordinary people.\n\n**What the record says.** The same word (“mass”) carries two opposite worries. Kornhauser separates them as the aristocratic and the democratic criticism. [[cite:kornhauser-1968-iess-mass-society]]\n\n- **The aristocratic (critical) strand, nineteenth century.** The fear: that the entry of ordinary people into politics and culture will pull standards down. Kornhauser ties this strand to Catholic thinkers defending the old order (Joseph de Maistre, Bonald), then to writers such as Burckhardt and Nietzsche, and counts Ortega as the author of a highly popular version of the same view. Hamilton too names Le Bon (“from a different perspective”) among the leading nineteenth-century names of this family. [[cite:kornhauser-1968-iess-mass-society]] [[cite:hamilton-encyclopedia-sociology-mass-society]]\n- **The democratic strand, twentieth century.** The fear turns the other way: totalitarian movements mobilise isolated people. Kornhauser puts Lederer, Mannheim, Fromm, Neumann, Arendt and himself in this group; what is defended is no longer elite values but democratic values. [[cite:kornhauser-1968-iess-mass-society]]\n- **The left variant.** Hamilton distinguishes right, neutral and left versions. On the left the rulers are skilful: they control the media, making news ideological and entertainment diverting; Gramsci, Marcuse of the Frankfurt School and C. Wright Mills are named in this line. [[cite:hamilton-encyclopedia-sociology-mass-society]]\n\nThe trap: naming varies by source (aristocratic–democratic or right–left). Do not go by names; look at what the theory *fears*: on the right the threat is a flood from below, in the democratic and left strands it is a flock steered from above.",
+      "question": {
+        "id": "claim-variants-q",
+        "type": "match",
+        "prompt": "Match each strand with its basic fear.",
+        "pairs": [
+          [
+            "Aristocratic strand (Ortega type)",
+            "The rise of ordinary people pulls down elite standards and culture"
+          ],
+          [
+            "Democratic strand (Arendt, Kornhauser)",
+            "Isolated people can be mobilised by totalitarian movements"
+          ],
+          [
+            "Left variant (Marcuse, Mills)",
+            "Rulers control the media and distract and numb the masses"
+          ]
+        ],
+        "explain": "The aristocratic strand fears the masses rising from below; the democratic strand fears atomised masses mobilised from above; the left variant treats the media as the rulers’ instrument. The commonest mistake is to throw Ortega and Kornhauser into one bag: both say ‘mass’, but one defends elite culture and the other democracy."
+      }
+    },
+    {
+      "id": "concepts-glossary",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "A small glossary: seven words for this lesson",
+      "body": "In this lesson a single word does three different jobs in three authors: “mass”. Read the glossary with that in mind.\n\n- **Crowd / mass:** in Le Bon, people who act together and acquire a shared “crowd mind”; in Ortega, a mentality; in Kornhauser, an aggregate not divided into groups. See the deep card for details. [[concept:crowd-psychology]]\n- **Public:** in Tarde, a community that is physically separate but mentally connected. [[concept:public-vs-crowd]]\n- **Atomisation:** individuals cut off from intermediate ties and isolated from one another. [[concept:atomisation]]\n- **Intermediate groups:** family, neighbourhood, association, trade union and the like, the layer between the individual and the elite.\n- **Tyranny of the majority:** the majority silencing independent thought and discussion on a question. [[concept:tyranny-of-the-majority]]\n- **Fear of mass culture:** the worry that culture will become shallow as it is shaped by numbers and the average. [[concept:mass-culture-fear]]\n- **Mass society:** the model that gathers all this into one framework; the function of the media is a separate concept. [[concept:mass-society]] [[concept:mass-media]]\n\nA note on terms: in Turkish “kitle” is used both for *crowd* and for *mass*. Le Bon’s book is known in Turkish sources as “Kitleler Psikolojisi” or “Kitlelerin Psikolojisi”. [[cite:polat-durmus-2015-le-bon-abdullah-cevdet]] [[cite:akturkoglu-2021-le-bon]] For Tarde’s *public* we found no established Turkish equivalent; this lesson says “kamu” (public) and explains it at first mention.",
+      "question": {
+        "id": "concepts-glossary-q",
+        "type": "cloze",
+        "prompt": "Fill in the blanks.",
+        "text": "According to Tarde, what holds a crowd together is {{1}}, and what holds a public together is {{2}}.",
+        "blanks": [
+          {
+            "options": [
+              "physical contact",
+              "shared class interest",
+              "a legal bond"
+            ],
+            "answer": 0
+          },
+          {
+            "options": [
+              "living on the same street",
+              "a mental bond made through a medium (e.g. reading the same newspaper)",
+              "an inherited racial spirit"
+            ],
+            "answer": 1
+          }
+        ],
+        "explain": "Tarde defines the crowd as a bundle of psychic contagions spread by physical contact, and the public as the mental bond of physically dispersed people; the place where the bond is made is the newspaper. ‘Shared class interest’ is the criterion of Marxist analysis, not Tarde’s. ‘Living on the same street’ would in fact turn a public into a crowd. ‘Inherited racial spirit’ belongs to Le Bon, not to Tarde’s distinction."
+      }
+    },
+    {
+      "id": "concepts-crowd-public",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Mini lab: crowd or public?",
+      "body": "Tarde’s criterion comes down to two questions: are bodies side by side, and what makes the bond, contact or mental connection? Classify the scenes below yourself first, then compare with the note. (All of them are imaginary scenes.)\n\n1. At a derby match forty thousand people in the stands rise to their feet at once.\n2. All over the country, people who have never seen one another read the same columnist.\n3. A thousand people marching side by side in the street at a demonstration.\n4. A messaging group of forty classmates who live in different cities.\n5. Millions of people watching the evening news.\n\n**Note.** 1 and 3 are crowds: bodies together and feelings spreading by contact. 2 is a public: no contact, and the columnist makes the bond. 5 is close to a public too, but Tarde knew neither radio nor television; we are stretching his criterion. 4 is the hardest: the bond is both personal and mental, and the bodies are apart; even Tarde’s criterion is not enough on its own. That is why phrases like “viral crowd” are scientifically blurred: an online community is neither quite a crowd nor quite a public.\n\nLesson to take away: Le Bon’s contagion model was built for the crowd. The public needs a separate explanation, and that is exactly what Tarde asked for. [[cite:tarde-1901-opinion-foule]]",
+      "question": {
+        "id": "concepts-crowd-public-q",
+        "type": "mcq",
+        "prompt": "According to Tarde’s text, what is the basic difference between “the audience of a theatre” and “the readers of a newspaper”?",
+        "options": [
+          "There is no difference; both are crowds",
+          "The theatre audience is a crowd gathered in one place; the newspaper readers are a physically dispersed public",
+          "The theatre audience is a public; the newspaper readers are a crowd",
+          "Both are publics because both consume something"
+        ],
+        "answer": 1,
+        "explain": "Tarde writes that even where the “public” of a theatre is spoken of, a crowd is meant; newspaper readers are a public whose bodies are apart and whose bond is mental. The third option reverses the criterion. The first is the very confusion Tarde wanted to correct. The fourth brings in ‘consuming’, a criterion that is not in Tarde."
+      }
+    },
+    {
+      "id": "deep-mass-meanings",
+      "section": "concepts",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: what does “mass” mean? Five uses and one objection",
+      "body": "The same word does five different jobs in this course:\n\n1. **Le Bon: the psychological crowd.** People who come together for action acquire new characteristics they do not have one by one. The criterion is being together and shared feeling. [[cite:le-bon-1895-psychologie-foules]]\n2. **Ortega: a mentality, not a class.** Ortega separates “minorities” from “the mass” by quality: the mass is the collection of people not specially qualified; you can see it in a single individual. The mass is the one who feels “just like everybody” and is not troubled by it. So Ortega’s mass is not a social class; the mass-man can come from any class. [[cite:ortega-1930-rebelion-masas]] [[cite:nwe-ortega]] [[cite:wikipedia-revolt-of-the-masses]]\n3. **Kornhauser: an aggregate not divided into groups.** In its simplest sense, “mass” is an aggregate without distinction of groups or individuals; “mass society” is a model of relations in which institutions deal with people in the aggregate. [[cite:kornhauser-1968-iess-mass-society]]\n4. **Tarde: not mass but crowd and public.** You have already seen the distinction.\n5. **The neutral technical use.** The “mass” in “mass production” or “mass communication” just means many undifferentiated receivers. [[cite:kornhauser-1968-iess-mass-society]] [[concept:mass-communication]]\n\n**One objection.** In *Culture and Society* (1958) Raymond Williams wrote: “There are in fact no masses; there are only ways of seeing people as masses.” In other words, masses do not exist in reality; there are only ways of looking at people as masses. For him masses are always “the others”, people we do not know, and to other people we ourselves are the masses. [[cite:williams-1958-culture-society]] [[cite:pooley-2021-masses-other-people]] Jefferson Pooley quotes the sentence together with the observation that at the end of the nineteenth century the word “mass” was used for a suggestible, “bovine” crowd, that is, for a warning that popular democracy is dangerous. [[cite:pooley-2021-masses-other-people]]\n\nThe lesson to take away: when you see “mass” in a text, ask who is calling whom “mass”, and on what grounds."
+    },
+    {
+      "id": "assump-five",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "text",
+      "title": "Assumptions: five invisible supports of the theory",
+      "body": "If you want to test a theory, first find what it does not say. Mass-society theory looks convincing on paper because it does not say its assumptions out loud. We have drawn them out for you (from the framework in Kornhauser’s 1968 summary entry): [[cite:kornhauser-1968-iess-mass-society]]\n\n1. **Scale erodes community.** National markets, national organisations and electorates push local community into the background. Kornhauser adds a nuance: not merely because the population is large, but because the scale of activities is large.\n2. **Eroded ties mean atomisation.** When ethnic, religious and class communities dissolve, the person is left on his own.\n3. **The atomised person can be steered.** Someone with no intermediary ties is open to direct appeals.\n4. **Without intermediaries, media and elites speak directly.** In the mass arena everyone is offered the same standardised options.\n5. **Culture is pulled to the average.** Numbers become the measure of success: votes, sales, audience. This is the root of the fear of mass culture; the debate itself is in the lesson [[lesson:mass-culture-debate]].\n\nThe good thing about the theory is that all five of these assumptions can be tested. The bad thing is the same: when tested, some of them, especially the second, are in trouble. We will see this in the later sections.",
+      "question": {
+        "id": "assump-five-q",
+        "type": "tf",
+        "prompt": "True or false: according to Kornhauser, mass relations arise automatically from a society having a large population.",
+        "answer": false,
+        "explain": "False. Kornhauser writes that a large population does not by itself produce mass relations; what decides is the scale of activities: large-scale activities such as national organisations, markets, audiences and electorates ignore or transform community ties. Many students shorten it to ‘mass society = crowded population’, but the theory’s interest lies less in numbers than in the way ties are formed."
+      }
+    },
+    {
+      "id": "how-lebon",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Le Bon’s crowd machine: three causes, one descent",
+      "body": "Le Bon’s claim is that people who come together acquire not the average of their individual traits but brand-new traits. How? He names three causes. [[cite:le-bon-1895-psychologie-foules]]\n\n1. **Numbers: a feeling of invincible power, and anonymity.** The member of a crowd feels power from numbers alone. Because the crowd is anonymous, the sense of responsibility also disappears; the person gives way to impulses he would restrain if alone.\n2. **Contagion.** In a crowd every feeling and act is contagious; a person will sacrifice even his personal interest to the collective one. Le Bon counts this among phenomena of a hypnotic order.\n3. **Suggestibility (the most important).** The person loses his conscious personality and acts out the idea offered to him, like someone who has been hypnotised. For Le Bon contagion is in fact an effect of this.\n4. **The result: a descent on a ladder.** “A man descends several rungs in the ladder of civilisation”: by the mere fact of being part of an organised crowd. Cultivated when alone, he becomes in the crowd a “barbarian”, a creature acting by instinct.\n5. **The catch: this is not only true of “the common people”.** Le Bon writes that what accumulates in a crowd is stupidity, not intelligence; the mental inferiority covers even “picked assemblies” (juries, parliaments).\n\nThis machine has a quiet part too: Le Bon ties the shared character of the crowd to inherited “racial” traits. That side cannot be defended today. Details are in the deep card.",
+      "question": {
+        "id": "how-lebon-q",
+        "type": "mcq",
+        "prompt": "Imagine that at a rally a proposal that everyone alone would reject is accepted without objection in the crowd. Which of Le Bon’s three causes would he call “the most important”?",
+        "options": [
+          "The feeling of invincibility that comes from numbers",
+          "Contagion",
+          "Suggestibility",
+          "Anonymity"
+        ],
+        "answer": 2,
+        "explain": "Le Bon calls the third cause, suggestibility, “by far the most important” and treats contagion as its effect. Contagion is therefore the most visible cause, but not the most basic. The feeling of invincibility from numbers and anonymity make up the first cause, which removes responsibility; it frees the person from his brakes, but suggestion decides the direction."
+      }
+    },
+    {
+      "id": "how-kornhauser",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Kornhauser’s chain: six links from scale to mobilisation",
+      "body": "You can read Kornhauser’s framework in six steps. [[cite:kornhauser-1968-iess-mass-society]]\n\n1. **Large-scale activities.** National markets, organisations and electorates push local community, ethnic and religious communities and class communities into the background.\n2. **Intermediate groups weaken.** Between member and organisation there remains an impersonal, unmediated relationship; Kornhauser calls this a “mass organisation”.\n3. **Mass arenas arise.** Fields such as the national market and the electorate are run from the centre, through the mass media, because this is the way to show the whole population the same thing at the same time.\n4. **Participation becomes choice.** People choose among standardised options offered by the media. The measure of success is numbers: votes, sales, audience.\n5. **Accessible elite, available mass.** Leaders are open to mass pressure but also manipulate it; people too are ready for the direct appeals of distant elites.\n6. **Mass movements.** People cut off from communal ties but not yet incorporated into the new order (new migrants, new workers, the young and mobile) are especially inclined towards movements.\n\nBut Kornhauser adds a warning: mass conditions alone do not produce totalitarianism; other conditions are also needed. So the chain is not a fate but a map of risk.",
+      "question": {
+        "id": "how-kornhauser-q",
+        "type": "mcq",
+        "prompt": "In Kornhauser’s entry, which group is named as cut off from communal ties but not yet incorporated into the new order, and as especially inclined towards mass movements?",
+        "options": [
+          "Old-established professionals firmly tied to their local community",
+          "New migrants, new workers and the young and mobile",
+          "The elites themselves",
+          "Only the uneducated"
+        ],
+        "answer": 1,
+        "explain": "This is exactly the group Kornhauser names: people who have lost their ties but have not yet been fitted into the new order, less constrained and more restless. The first option is a tempting trap: those tied to the local community can also resent big organisations and be open to movements, but Kornhauser mentions them for a different reason (resentment of scale and change), while the question asks about those who have lost their ties. The educational criterion is not in the text."
+      }
+    },
+    {
+      "id": "how-media",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "text",
+      "title": "Who does the media serve? One fear, five roles",
+      "body": "“What do the media do, according to mass-society theory?” has no single answer. The writers who belong to the theory assigned five different roles to the media:\n\n- **Mirror (Le Bon).** The press reflects the opinions of the crowd and follows it so as not to lose its readers. [[cite:le-bon-1895-psychologie-foules]]\n- **Maker (Tarde).** The newspaper binds physically dispersed people together mentally and creates a public. [[cite:tarde-1901-opinion-foule]] [[cite:parsons-2024-tarde-excerpt]]\n- **Remedy (Tocqueville).** As people become strangers to one another, the newspaper is the one instrument that can drop “the same thought into a thousand minds at the same moment”, and it gathers dispersed people for common action. Tocqueville writes that the evil newspapers cause is much smaller than the evil they cure. [[cite:tocqueville-1835-democratie]]\n- **Arena manager (Kornhauser).** The media run the mass arenas by offering the whole population the same standardised options at the same time. [[cite:kornhauser-1968-iess-mass-society]]\n- **Instrument of the rulers (left variant).** According to Hamilton, in this version the rulers control the media; news is ideological, entertainment diverts, advertising manufactures artificial needs and the audience is “narcotised”. [[cite:hamilton-encyclopedia-sociology-mass-society]]\n\nAs you see, in Le Bon the media trail after the crowd, in Kornhauser they manage it, and in Tocqueville they are the cure for isolation. A student who writes “mass-society theory sees the media like this” in a single sentence has answered the question by half.",
+      "question": {
+        "id": "how-media-q",
+        "type": "match",
+        "prompt": "Match each writer with the role he assigned to the media.",
+        "pairs": [
+          [
+            "Le Bon",
+            "The press reflects the crowd’s opinions and follows them"
+          ],
+          [
+            "Tarde",
+            "The newspaper turns dispersed people into a public mentally"
+          ],
+          [
+            "Tocqueville",
+            "The newspaper is a remedy that gathers isolated people who cannot find one another for common action"
+          ],
+          [
+            "Kornhauser",
+            "The media run mass arenas by offering the same standardised options"
+          ],
+          [
+            "Left variant",
+            "Media under the rulers’ control distract and numb the masses"
+          ]
+        ],
+        "explain": "The five roles look alike but the fears differ: in Le Bon the media trail after the crowd, in Tarde they build the public, in Tocqueville they are a remedy, in Kornhauser they manage the arena, in the left variant they are the rulers’ instrument. The pair most often confused is Le Bon and Kornhauser: one sees the media as the crowd’s mirror, the other as the masses’ manager."
+      }
+    },
+    {
+      "id": "ev-stpauls",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Lab: test Le Bon against Bristol 1980",
+      "body": "2 April 1980, the St Pauls district of Bristol. Around 3.30 in the afternoon plain-clothes police raid the Black and White Cafe; the cafe, which lost its licence in 1979, is under investigation for illegal drinking and drugs. Children on their way home from a nearby school that has broken up for Easter see the raid, the news spreads fast, people gather, and towards evening the police are forced to withdraw from the district. [[cite:reicher-1984-st-pauls-riot]]\n\nThe social psychologist Stephen Reicher reconstructs the event from police and fire-service reports, TV and radio recordings, newspapers, photographs and interviews. Let us put Le Bon’s predictions to these records:\n\n- **Prediction: an anonymous crowd attacks anything.** In the record the attack is directed at the police and police vehicles (according to the official report 21 police vehicles were damaged and eight burned). In Reicher’s count, the only people other than police who were deliberately attacked were photographers, from whom people feared film reaching the police. In addition ten civilians were injured and five private vehicles damaged; Reicher attributes the injuries to crossfire between police and crowd, and the vehicle damage partly to cars being taken for police cars.\n- **Prediction: every behaviour spreads.** Throwing bricks at a police car was “everyone’s” business. Those who stoned a private car, however, were told off and stopped.\n- **Prediction: loss of consciousness, no limits.** Once the police were driven out, nobody followed them beyond the boundary of the district; the crowd opened a way for traffic and directed it.\n\nReicher’s own reservation: the data are strong hints, not “proof”; and the paper studies only the period before the police withdrew, not the looting that came afterwards. One event does not kill a theory, but here Le Bon’s prediction does not hold. [[cite:reicher-1984-st-pauls-riot]]",
+      "question": {
+        "id": "ev-stpauls-q",
+        "type": "mcq",
+        "prompt": "Le Bon predicts that “an anonymous crowd loses its sense of responsibility and can do anything”. Which observation in the St Pauls data compiled by Reicher contradicts this most?",
+        "options": [
+          "Police cars being overturned and burned",
+          "The crowd not crossing the district boundary after the police had withdrawn, stopping those who stoned private cars, and directing the traffic",
+          "The rapid spread of rumours",
+          "The event beginning in the afternoon"
+        ],
+        "answer": 1,
+        "explain": "Limited, targeted, rule-bound behaviour contradicts the picture of a ‘mindless, unlimited’ crowd. The burning of vehicles shows that violence was present, not that it was unlimited; it does not contradict Le Bon. The spread of rumours and the time of day are details irrelevant to the prediction."
+      }
+    },
+    {
+      "id": "ev-personal",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "story",
+      "title": "Erie County, 1940: voters looked to their neighbours, not the media",
+      "body": "The 1940 election campaign. Lazarsfeld, Berelson and Gaudet select six hundred people from Erie County, Ohio, and interview them again every month for seven months; the publisher’s description presents it as the first systematic effort to follow voters across a whole presidential campaign. [[cite:columbia-up-people-choice]] [[cite:lazarsfeld-berelson-gaudet-1944]]\n\nWhat would mass-society theory have predicted? An isolated voter, defenceless against radio and newspaper. The finding was this: newspapers, radio and campaign advertising had not had a profound effect on people’s voting habits; personal contacts and word of mouth mattered more; the media reached a small but crucial group, who passed things on to the others. [[cite:columbia-up-people-choice]]\n\nThen Decatur, Illinois. *Personal Influence* (1955) tests the same idea on public affairs, fashion, the cinema and shopping. The publisher’s description says that the book shows the surprising relevance of primary groups to the flow of mass communication. [[cite:katz-lazarsfeld-1955]] [[cite:routledge-personal-influence]] In 1957 Elihu Katz wrote that the hypothesis had been largely corroborated and refined in several studies. [[cite:katz-1957-two-step-flow]]\n\nEven Kornhauser recorded this criticism in his entry of 1968: primary-group mediation of mass communications was shown to prevail over completely atomised audiences. [[cite:kornhauser-1968-iess-mass-society]] For details see the lessons [[lesson:voting-studies]] and [[lesson:two-step-flow]].",
+      "question": {
+        "id": "ev-personal-q",
+        "type": "mcq",
+        "prompt": "Imagine a researcher who, assuming that “voters watch the media and are directly influenced”, runs a panel study and finds that most voters, when deciding, look to the views of those around them. Which assumption of mass-society theory does this finding contradict most directly?",
+        "options": [
+          "The assumption that culture is pulled to the average",
+          "The assumption that intermediate groups have dissolved and individuals are atomised",
+          "The assumption that crowds are inferior",
+          "The assumption that elites move to manipulate"
+        ],
+        "answer": 1,
+        "explain": "Looking to those around you shows that intermediate groups (friends, neighbours, family) are still at work, which is the direct opposite of the atomisation assumption. Culture being pulled to the average and the inferiority of crowds are other questions; a voter panel does not measure them. Elites trying to manipulate is not contradicted by this finding; it can only limit the effect."
+      }
+    },
+    {
+      "id": "deep-reicher-drury",
+      "section": "evidence",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: Reicher’s data and the new school of crowd psychology",
+      "body": "The data of Reicher’s Bristol paper come from many sources, and he states its limits openly: the official police report and the Chief Fire Officer’s statement, a lawyer’s opinion written for the police authority, TV and radio broadcasts, newspapers, photographs, interviews with about twenty children, notes from about twenty conversations on the street and six recorded interviews. Events are included only where two or more sources confirm each other; the suspicion of Black respondents towards the researcher made the data hard to obtain, and the author says so plainly. The paper deals with the part of the event before the police withdrew. [[cite:reicher-1984-st-pauls-riot]]\n\nThe theoretical proposal (Reicher’s social identity model) is this: a crowd is a group formed by people who share a social identity. The limits of behaviour correspond to the limits of the shared identity; that is, contagion is bounded by an identity. Reicher also argues that crowd psychology was born at the end of the nineteenth century as an “establishment response” to working-class unrest; this is his interpretation and is open to debate. [[cite:reicher-1984-st-pauls-riot]]\n\nThe same line has been tested in emergencies. Drury, Cocking and Reicher (2009) interviewed twenty-one survivors of eleven emergencies; they found that those with a stronger sense of shared identity showed more solidarity and less “panic” behaviour, and that this shared identity could arise from the emergency itself. Earlier explanations had appealed to “mass panic” or to pre-existing social bonds; the authors say their study points to the usefulness of a new approach based on self-categorisation theory. [[cite:drury-cocking-reicher-2009-everyone]] These are small, interview-based findings; read them not as a final verdict but as a serious rival to Le Bon’s picture."
+    },
+    {
+      "id": "deep-berman",
+      "section": "evidence",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: strong associations did not save democracy in Weimar",
+      "body": "The remedy Tocqueville proposes in the second volume is association: Americans form associations even for tiny undertakings, and in his view the antidote to individualism is civil associations. [[cite:tocqueville-1835-democratie]] [[cite:nwe-tocqueville]] Mass-society theory implicitly says something similar: if intermediate ties exist, people are not easily mobilised. But is that really so?\n\nSheri Berman’s article of 1997 tests this belief on Weimar Germany. At the level of the abstract, her claim is that a robust civil society helped scuttle the twentieth century’s most critical democratic experiment, Weimar. Under some conditions associationism and democratic stability can be inversely related; so what civil society does must be judged by looking at concrete political reality. [[cite:berman-1997-weimar-civil-society]]\n\nThe effect on the mass-society debate is, in our reading, two-sided. On the one hand it weakens the atomisation claim: those open to mobilisation were not only isolated people, they were organised too. On the other hand it also shakes the idea that ties are always good: intermediate groups can turn against democracy as well. We read Berman’s article only from its abstract; we did not see its details or the places where it argues directly with Kornhauser. That is why we do not draw the flat conclusion “Kornhauser is refuted”."
+    },
+    {
+      "id": "crit-groups",
+      "section": "critique",
+      "layer": "core",
+      "kind": "myth",
+      "title": "What people assume: “Modern people are lonely atoms”",
+      "body": "**What people assume.** Urbanisation and big organisations tore people from family, neighbourhood and community ties; what remained were lonely, steerable individuals.\n\n**What the record says.** Kornhauser’s own entry admits that postwar research found primary relations abundant in the factory, the army and other allegedly impersonal organisations, and that kinship and neighbourhood ties persisted in cities. [[cite:kornhauser-1968-iess-mass-society]] Richard Hamilton’s criticism is harsher: in his account most migration is collective and chain-like (people move with, or after, relatives and friends) and short-distance; cities grow not only through migration but also by annexing surrounding areas, which does not disturb ties; and the assumption that the “lonely” migrant stays lonely for life is an incomplete narrative. Hamilton argues that nearly all the main claims of the theory contradict the evidence. [[cite:hamilton-encyclopedia-sociology-mass-society]]\n\n**The defence.** Kornhauser has also given his reply: mass-society theorists have said not that primary groups have disappeared but that, as they are isolated from the rest of society, they lose their function as sources of meaning and support for the individual. [[cite:kornhauser-1968-iess-mass-society]]\n\n**A balanced reading.** According to Gordon Marshall’s dictionary the term has fallen out of fashion in sociology because of its vagueness and value-laden character; even so, there are theorists who study large-scale societies lacking traditional ties. [[cite:marshall-dictionary-sociology-mass-society]] Read Hamilton’s verdict as a critic’s strong word, together with Kornhauser’s defence.",
+      "question": {
+        "id": "crit-groups-q",
+        "type": "mcq",
+        "prompt": "According to Kornhauser’s defence, what exactly do the theorists claim about primary groups?",
+        "options": [
+          "That primary groups have disappeared entirely in modern society",
+          "That primary groups exist but, as they are isolated from the rest of society, lose their functions of meaning and support for the individual",
+          "That primary groups were never important",
+          "That the presence of primary groups increases the effect of mass communication"
+        ],
+        "answer": 1,
+        "explain": "Kornhauser accepts the criticism but refines the claim: not the absence of groups but the loss of their function. The first option is the ‘total atomisation’ claim that was criticised. The third is not something Kornhauser defends either. The fourth is the opposite of the conclusion of the Lazarsfeld line: groups do not increase the effect, they mediate and limit it."
+      }
+    },
+    {
+      "id": "crit-verdict",
+      "section": "critique",
+      "layer": "core",
+      "kind": "text",
+      "title": "Report card: what did it see, what did it miss?",
+      "body": "**What it saw.**\n\n- It asked about the importance of intermediate institutions (associations, trade unions, neighbourhoods, communities) for democracy. With Kornhauser’s emphasis, the real value of this outlook lies less in particular propositions than in its concern for the quality of culture and social institutions. [[cite:kornhauser-1968-iess-mass-society]]\n- It raised the question of large scale and a media arena run from the centre. Marshall writes that theorists such as Kumar, Lasch, Berger and Bellah still study the relationships of such societies. [[cite:marshall-dictionary-sociology-mass-society]]\n\n**What it missed.**\n\n- **The atomisation claim** got into trouble with the evidence (previous card).\n- **The picture of “the crowd as inferior”** did not hold in Bristol, and Reicher reads it as a tradition written with a class eye. [[cite:reicher-1984-st-pauls-riot]]\n- **The inherited “racial spirit”** is part of the theory in Le Bon; it cannot be defended today. [[cite:encyclopedia-le-bon-european-social-history]]\n- **One-directional “more and more”** predictions resist testing; Hamilton also criticises the theory’s constant “more and more” structure. [[cite:hamilton-encyclopedia-sociology-mass-society]]\n- **Suspicion of nostalgia.** Marshall writes that these worries were largely brushed aside as “elitist nostalgia” until the 1950s; that is, the theory was accused of remembering the lost community too fondly. [[cite:marshall-dictionary-sociology-mass-society]]\n\nSo the questions the theory asked (ties, scale, the media arena) live on, while the answers it gave largely lost when tested.",
+      "question": {
+        "id": "crit-verdict-q",
+        "type": "tf",
+        "prompt": "True or false: according to Reicher, the Bristol 1980 data are conclusive proof of the social identity model.",
+        "answer": false,
+        "explain": "False. Reicher writes that the data are not ‘proof’ but a ‘strong hint’ for the theoretical account; he also says plainly that he treats only part of the event and that there were some civilian harms. A good reader counts a study’s own reservations as the theory’s reservations."
+      }
+    },
+    {
+      "id": "crit-powerful",
+      "section": "critique",
+      "layer": "core",
+      "kind": "steps",
+      "title": "How did this picture feed the fear of “powerful effects”? Four steps",
+      "body": "Mass society was not a research finding but a *picture*: the audience left alone, without intermediaries, open to mobilisation. You can read how this picture was tied to the fear of “powerful effects” in four steps:\n\n1. **The picture.** Intermediate groups have dissolved; the audience is atomised.\n2. **The inference.** A medium that reaches an atomised audience directly must be powerful. This step is our inference, not a sentence of the theorists themselves.\n3. **The textbook narrative.** When the interwar worry about propaganda joined this inference, textbooks told of a view of effects summed up as the “hypodermic needle” or “magic bullet”. Jefferson Pooley (2006) shows that the fifteen-page summary in Katz and Lazarsfeld’s *Personal Influence* fixed in textbooks the narrative “first the media were thought powerful, then research showed them limited”. [[cite:pooley-2006]] Sproule (1989) and Lubken (2008) argue that the “magic bullet” portrait is a straw man. [[cite:sproule-1989]] [[cite:lubken-2008]]\n4. **The counter-move.** The Lazarsfeld line answered: “the audience is woven into groups, so the effect is mediated and limited”.\n\nSo both halves of the story (“everyone believed in the needle” and “Lazarsfeld refuted it”) are disputed. For details see the lessons [[lesson:magic-bullet]] and [[lesson:two-step-flow]] and the concept [[concept:powerful-effects]].",
+      "question": {
+        "id": "crit-powerful-q",
+        "type": "mcq",
+        "prompt": "Which of the following is the most accurate summary of the link between “mass society and powerful effects”?",
+        "options": [
+          "Mass-society theorists put forward a theory called the ‘hypodermic needle model’",
+          "The assumption of an atomised audience feeds the expectation of powerful effects; the finding that the audience is tied to groups weakens that expectation",
+          "Lazarsfeld confirmed mass-society theory",
+          "There is no relation at all between mass society and media effects"
+        ],
+        "answer": 1,
+        "explain": "The link is a chain of inference: if the audience is isolated, the effect should be direct and strong; if the audience is tied to groups, the effect is mediated. The first option is historically wrong: ‘needle’ is a textbook label attached later. The third says the opposite. The fourth ignores the logical relation between the two ideas."
+      }
+    },
+    {
+      "id": "deep-lebon-fine-print",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: Le Bon’s fine print: race, heroism and the fear of reform",
+      "body": "Le Bon’s book is more complicated than its reputation. A few footnotes:\n\n- **A “scientific” stance, political advice.** Le Bon says he approaches the subject “scientifically” and without being steered by opinion; yet in the same preface he writes that it would be dangerous to meddle with the organisation of crowds and that nothing is more fatal to a people than “the mania for great reforms”. In his view institutions are the outward expression of a people’s character; laws cannot change that character. [[cite:le-bon-1895-psychologie-foules]]\n- **The crowd is not only destructive.** In the same pages Le Bon also speaks of the crowd’s “enthusiasm and heroism”; the Encyclopedia.com summary too notes that he says crowds can perform positive social acts. [[cite:le-bon-1895-psychologie-foules]] [[cite:encyclopedia-le-bon-european-social-history]]\n- **Race.** The “soul” of the crowd is added, in Le Bon, to inherited racial traits, and history is treated as a result of racial temperament. [[cite:encyclopedia-le-bon-european-social-history]] This part is not counted today as a scientific basis; Reicher criticises this “group mind” view because it ignores the social context of crowd behaviour. [[cite:reicher-1984-st-pauls-riot]]\n- **Reputation and objections.** Freud and Allport acknowledged the importance of his work; but because of his wide range of topics some found his work superficial, and because of his politics he has been branded “antidemocrat and elitist”. [[cite:encyclopedia-le-bon-european-social-history]] Reicher, for his part, ties the book’s fame not to theoretical novelty but to its advising the ruling classes on how to curb crowds; this is a polemical interpretation and is disputed among historians.\n\nConclusion: read Le Bon neither as a magic sage nor as a plain villain, but as an influential, problematic text that translated the fears of an era into scientific language."
+    },
+    {
+      "id": "deep-historiography",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: was there really a “mass-society theory”?",
+      "body": "To write the history of a theory is to see how a label was built:\n\n- **The one who analysed the label was also a theorist.** In 1968 Kornhauser writes that these different authors are joined by a common perspective, and that this makes them part of the history of the idea of mass society. [[cite:kornhauser-1968-iess-mass-society]] So the person who built the category was also among those who contributed most strongly to it. This is our reading.\n- **Marshall’s timeline.** The modern image of mass society begins with Tocqueville, though not under the label; these worries were largely brushed aside as “elitist nostalgia” until the 1950s; then the experience of totalitarianism brought them back. [[cite:marshall-dictionary-sociology-mass-society]]\n- **Hamilton’s waves.** Hamilton says the theory has an “on-and-off” history: in the 1940s with German exile scholars (Mannheim, Lederer, Arendt, Neumann), in the 1960s with the left version. He writes that Kornhauser’s synthesis of 1959 had, on balance, little impact. [[cite:hamilton-encyclopedia-sociology-mass-society]] The Berkeley memorial notice, on the other hand, calls the same book one that “would become a classic”. [[cite:uc-in-memoriam-kornhauser]] Measuring impact is not easy; both judgements can be true together.\n- **The criticism has a history too.** Daniel Bell wrote “The Theory of Mass Society: A Critique” in 1956; Leon Bramson’s book of 1961 contains a chapter titled “The American critique of the theory of mass society: research in mass communications”. We have not read these two texts; we record only their existence and titles. [[cite:bell-1956-theory-mass-society]] [[cite:bramson-1961-political-context]]\n- **A twin: the needle narrative.** As Pooley shows, the “first powerful, then limited” story of effects was also built by the fifteen-page summary in Personal Influence. [[cite:pooley-2006]] The mass-society and needle stories can be read side by side as two textbook narratives built in retrospect."
+    },
+    {
+      "id": "today-one-step",
+      "section": "today",
+      "layer": "core",
+      "kind": "text",
+      "title": "The one-step flow: mass society, this time in front of the screen",
+      "body": "The idea that came out of Lazarsfeld and his colleagues’ findings in the 1940s was the “two-step flow”: the message goes from the media to opinion leaders and from them to the others. But what about today?\n\nW. Lance Bennett and Jarol Manheim (2006) put forward a claim of a shift for the United States: public communication has shifted from a two-step flow, in which messages pass from the mass media through a process of social mediation, to a “one-step flow” in which messages are targeted directly at individuals. They regard this as a reflection of changes in technology and in the relations between individual and society. According to the authors, opinion leaders no longer “lead”, since they are more likely to reinforce latent opinions than to reframe them; and fragmented media feed individualisation through shrinking audiences, programming driven by demographics and targeted political advertising. [[cite:bennett-manheim-2006-one-step-flow]]\n\nThis reading offers a curious return to the mass-society picture. In the 1940s groups refuted the claim that “the audience is atomised”; now technology reaches the individual by going round the groups. The difference: while Kornhauser derives atomisation from the dissolution of social ties, here the mechanism is targeting technology. That is our inference.\n\nA limit: the authors speak of the United States and present this as an interpretation; take the article, which we read at the abstract level, not as a final verdict but as a thesis under discussion.",
+      "question": {
+        "id": "today-one-step-q",
+        "type": "mcq",
+        "prompt": "Where exactly does Bennett and Manheim’s “one-step flow” claim depart from the two-step flow?",
+        "options": [
+          "Opinion leaders are stronger than ever",
+          "Messages go, in targeted form, directly to individuals without a process of social mediation",
+          "The media no longer have any effect",
+          "Individuals no longer live inside groups"
+        ],
+        "answer": 1,
+        "explain": "In the two-step flow the message goes first to opinion leaders and from them to the others; in the one-step flow the intermediate step is skipped and messages are targeted directly at individuals. The authors say the influence of opinion leaders has weakened, not strengthened. ‘The media have no effect’ is the exact opposite. The last option is our exaggeration, not the authors’: they speak of individualisation, not of the disappearance of groups."
+      }
+    },
+    {
+      "id": "today-bubble",
+      "section": "today",
+      "layer": "core",
+      "kind": "myth",
+      "title": "What people assume: “The algorithm is locking us into a filter bubble”",
+      "body": "**What people assume.** The personalised web shuts everyone up inside his own opinions; people never see another view. The idea is set out in Eli Pariser’s book *The Filter Bubble* of 2011; the publisher’s description says that in December 2009 Google began customising search results for all users. [[cite:pariser-2011-filter-bubble]]\n\n**What the record says.** Later studies showed a more mixed picture:\n\n- Bakshy, Messing and Adamic (2015), among 10.1 million US Facebook users, found that individuals’ own choices limited their exposure to differing views more than the algorithmic ranking did. [[cite:bakshy-messing-adamic-2015-facebook]]\n- Flaxman, Goel and Rao (2016), in the browsing histories of 50,000 US users, found that social networks and search engines increased both ideological distance and exposure to content from the other side, with effects that were relatively modest. [[cite:flaxman-goel-rao-2016-filter-bubbles]]\n- Zuiderveen Borgesius and colleagues (2016) concluded in their review that, at the time, there was little empirical evidence to justify worry about filter bubbles. [[cite:zuiderveen-borgesius-2016-filter-bubbles]]\n- Bail and colleagues (2018) showed in a field experiment that exposure to opposing views can increase polarisation: Republicans became substantially more conservative after following a liberal bot; the shift among Democrats was small and not statistically significant. [[cite:bail-2018-opposing-views]]\n\n**Interpretation (ours).** The filter bubble can be read as a new version of mass society: the “isolated individual” is now imprisoned by the algorithm. The evidence partly supports this but is not conclusive; all of it is US-centred and concerns the platforms of a particular period.",
+      "question": {
+        "id": "today-bubble-q",
+        "type": "mcq",
+        "prompt": "According to the Facebook study by Bakshy, Messing and Adamic (2015), what is said to limit exposure to cross-cutting content mainly?",
+        "options": [
+          "The algorithmic ranking, more strongly than individuals’ choices",
+          "Individuals’ own choices, more strongly than the algorithmic ranking",
+          "Only the size of friend lists",
+          "The platform’s advertising policy"
+        ],
+        "answer": 1,
+        "explain": "The authors report that individuals’ choices limited exposure to cross-cutting content more strongly than the algorithmic ranking did. The first option is the very thesis that ‘the algorithm locks us in’, and in this study it turns out the other way round. The third and fourth options have no counterpart in the abstract."
+      }
+    },
+    {
+      "id": "today-lab",
+      "section": "today",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Mini lab: test a viral wave of anger with three questions",
+      "body": "Imagine that on a neighbourhood forum a security-camera clip spreads and hundreds of people target a shopkeeper with angry messages. Crowd psychology immediately says “contagion and loss of reason”; mass-society theory says “atomised people are being manipulated”. Ask three questions instead:\n\n1. **Are the participants really isolated?** Look through the line of Lazarsfeld and Katz: who sees whose messages, whose friend shares whose message? Are intermediate groups at work?\n2. **Does contagion spread equally to everyone?** In the data of Brady and colleagues (2017) each moral-emotional word raises diffusion by about 20 percent, but this effect is stronger within groups and weaker between them. So the contagion looks group-bound. [[cite:brady-2017-moral-emotional]]\n3. **Is this a crowd or a public?** By Tarde’s criterion the bodies are apart and the bond is mental; the word “crowd” may then be misleading. Are the options the platform offers the same for everyone (Kornhauser’s “standardised options”)? [[cite:tarde-1901-opinion-foule]]\n\nThese three questions will not give you an answer; but they will stop you jumping to the wrong one. This is a training exercise: without the data of a real event you cannot reach a conclusion.",
+      "question": {
+        "id": "today-lab-q",
+        "type": "mcq",
+        "prompt": "You observe that a wave of anger spreads quickly among users of the same view but does not pass to networks of a different view. Which idea does this observation fit best?",
+        "options": [
+          "Le Bon’s contagion model, in which everyone is affected at once, regardless of identity",
+          "The idea that contagion is bounded by the limits of a shared identity or group membership",
+          "The idea that there is no contagion and everything is coincidence",
+          "Mass-society theory’s thesis of complete atomisation"
+        ],
+        "answer": 1,
+        "explain": "Diffusion slowing at group boundaries fits Reicher’s idea that “the limit of contagion is the limit of identity” and the finding of Brady and colleagues (this pairing is our interpretation). Le Bon’s model predicts a contagion independent of identity. ‘Coincidence’ does not explain the observation; complete atomisation contradicts the fact that the wave spreads inside groups."
+      }
+    },
+    {
+      "id": "deep-viral",
+      "section": "today",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: “viral” is not just a word: two big-data studies",
+      "body": "**The speed of false news.** Vosoughi, Roy and Aral (2018) studied all the news stories that circulated on Twitter between 2006 and 2017 and had been verified as true or false: about 126,000 stories, about 3 million people and more than 4.5 million tweets. The decisions of six independent fact-checking organisations were used for the classification. Falsehood diffused farther, faster, deeper and more broadly than the truth; the effect was more pronounced for political news. False news was more “novel”; people were more likely to share novelty. The surprising finding: robots accelerated the spread of true and false news at the same rate; it was humans who made the difference. [[cite:vosoughi-roy-aral-2018-true-false-news]]\n\n**The spread of moral-emotional language.** In a sample of about 563,000 messages on gun control, same-sex marriage and climate change, Brady and colleagues (2017) found that each additional moral-emotional word in a message increased its diffusion by about 20 percent. But this “moral contagion” was bounded by groups: it was stronger within liberal and conservative networks and weaker between them. [[cite:brady-2017-moral-emotional]]\n\n**The link to Le Bon.** These studies neither confirm nor refute Le Bon’s model of suggestion; they answer another question: what spreads, to whom, and how fast? But the second finding (that spread is limited by group boundaries) is, in our reading, consistent with Reicher’s idea that “the limit of contagion is the limit of identity”. The studies focus on Twitter and the United States; do not transfer their findings directly to other platforms and countries."
+    },
+    {
+      "id": "turkey-lebon",
+      "section": "turkey",
+      "layer": "core",
+      "kind": "text",
+      "title": "A trace from Turkey: the Ottoman intellectuals who read Le Bon",
+      "body": "Le Bon also passed through the world of Turkish reading. According to Ferihan Polat and Ayşegül Durmuş (2015), Le Bon’s ideas fed a distrust of the people and an elitist attitude in a section of the Westernist intellectuals of the Young Turk period; in this frame the article names Ahmed Rıza, Mizancı Murad and Abdullah Cevdet. [[cite:polat-durmus-2015-le-bon-abdullah-cevdet]]\n\nThe article’s focus is Abdullah Cevdet: the authors report, relying on Hanioğlu, that he translated many of Le Bon’s works into Turkish, and that according to Hilmi Ziya Ülken the first Western thinker who came to mind at the time when Abdullah Cevdet was mentioned was Le Bon. [[cite:polat-durmus-2015-le-bon-abdullah-cevdet]] We took this list of translations from a single source and could not confirm it with a second Turkish one, so we do not go into its details.\n\nMustafa Enes Aktürkoğlu (2021) reports that Le Bon died on 13 December 1931 and that Abdullah Cevdet devoted a piece to him in the issue of the journal *İçtihat* dated 15 January 1932; the article also says that Le Bon’s ideas were adopted by Ottoman intellectuals. [[cite:akturkoglu-2021-le-bon]]\n\nThis short trace tells us two things. First, the fear of “crowd and elite” was not a purely European import; Ottoman intellectuals read it and used it in their own context. Second, we should not exaggerate an author’s influence: these are articles about the reading and adoption of Le Bon in one circle of intellectuals; they do not prove that he determined the politics of the period. For the continuation of the mass-culture debate in Turkey see the lesson [[lesson:mass-culture-debate]].",
+      "question": {
+        "id": "turkey-lebon-q",
+        "type": "mcq",
+        "prompt": "According to the article by Polat and Durmuş (2015), what was Abdullah Cevdet’s relation to Le Bon?",
+        "options": [
+          "He was Le Bon’s guide on a trip to Turkey",
+          "He was an intellectual who translated many of Le Bon’s works into Turkish and was influenced by his ideas",
+          "He was the fiercest critic of Le Bon’s ideas",
+          "He worked at the same university as Le Bon"
+        ],
+        "answer": 1,
+        "explain": "The article argues that Abdullah Cevdet translated many of Le Bon’s works into Turkish and was influenced by his ideas (the information on the translations relies on Hanioğlu). The other options have no counterpart in the article; in particular the ‘fiercest critic’ reading is the opposite of the article’s emphasis on ‘a source of inspiration’."
+      }
+    },
+    {
+      "id": "exam-patterns",
+      "section": "exam",
+      "layer": "core",
+      "kind": "text",
+      "title": "This is how exams ask it",
+      "body": "**Frequent patterns**\n\n- “Which author speaks of an ‘era of crowds’ and explains the crowd through suggestion, contagion and anonymity?” → Le Bon (*Psychologie des foules*, 1895).\n- “To whom does the concept of the tyranny of the majority belong?” → Tocqueville (*De la démocratie en Amérique*, 1835 and 1840).\n- “The public/crowd distinction, imitation?” → Tarde.\n- “The mass-man, the ‘mass’ as not a class” → Ortega y Gasset (1930).\n- “Accessibility of elites, availability of the masses for mobilisation” → Kornhauser (1959).\n- “The two strands” → the aristocratic and the democratic criticism (Kornhauser).\n- “The research that argued against the mass-society view” → Lazarsfeld and colleagues: the voter study and personal influence.\n\n**Tempting wrong answers**\n\n- Taking Ortega’s mass for the working class: the mass-man can come from any class.\n- Mixing up Tarde and Le Bon: imitation and the public are Tarde; contagion, suggestion and the crowd mind are Le Bon.\n- Counting Le Bon as the owner of the “hypodermic needle model”: that label was attached later and does not belong to Le Bon ([[lesson:magic-bullet]]).\n- Summarising Kornhauser as “mass society arises when the population is crowded”: the criterion is the scale of activities and the weakening of intermediate groups.\n- Looking for a single fear in Tocqueville: a tyrannical majority and a soft, tutelary power.\n\n**Alternative names (as used in Turkish)**\n\n- Le Bon’s book: “Kitleler Psikolojisi”, “Kitlelerin Psikolojisi” (The Psychology of Crowds). [[cite:polat-durmus-2015-le-bon-abdullah-cevdet]] [[cite:akturkoglu-2021-le-bon]]\n- Ortega’s book: “Kitlelerin Ayaklanması” (İş Bankası Kültür Yayınları), “Kitlelerin İsyanı”, “Kütlelerin İsyanı” (in bookshop listings) and, in one article, “Kitlelerin Yükselişi” (all renderings of The Revolt of the Masses). [[cite:iskultur-ortega-kitlelerin-ayaklanmasi]] [[cite:nadirkitap-kitlelerin-isyani]] [[cite:kitapyurdu-kutlelerin-isyani]] [[cite:baylarov-rustamli-2022-kitleler]]\n- Tocqueville’s concept: “çoğunluğun tiranlığı”, “çoğunluğun zorbalığı” (both: tyranny of the majority). [[cite:tr-wikipedia-cogunlugun-tiranligi]] [[cite:cumhuriyet-2020-cogunlugun-zorbaligi]]\n\nExam questions are written to general patterns; whichever source you study from, match the name and date in the question with your own source.",
+      "question": {
+        "id": "exam-patterns-q",
+        "type": "mcq",
+        "prompt": "An exam question: “Whose mass-society framework has at its core the idea that elites are accessible to mass pressure and masses are open to mobilisation by elites?” The right answer?",
+        "options": [
+          "Le Bon",
+          "Tarde",
+          "Ortega y Gasset",
+          "Kornhauser"
+        ],
+        "answer": 3,
+        "explain": "The accessibility of elites and the availability of the masses is Kornhauser’s formula. Le Bon is known for crowd psychology, Tarde for the public and imitation, Ortega for the mentality of the mass-man. The commonest mistake in exams is that the student who sees the word ‘mass’ writes Le Bon, the first name that comes to mind."
+      }
+    },
+    {
+      "id": "summary",
+      "section": "summary",
+      "layer": "core",
+      "kind": "summary",
+      "title": "Summary card",
+      "body": "- **Not one theory but a family of fears:** mass society gathers into two strands: fear that elite values will collapse (aristocratic) and fear that atomised people will be mobilised (democratic, left).\n- **The core (Kornhauser, 1959):** if intermediate groups weaken, elites become open to mass pressure and masses to elite mobilisation.\n- **The role of the media is not single:** mirror (Le Bon), maker (Tarde), remedy (Tocqueville), arena manager (Kornhauser), instrument of the rulers (left variant).\n- **Crowd ≠ public:** Le Bon stresses contagion, Tarde stresses connection.\n- **The evidence:** in Bristol 1980 the crowd was limited and targeted; in Erie County and Decatur people took the media through their surroundings.\n- **The criticism:** the atomisation claim got into trouble with the evidence, but the questions about ties and scale live on.\n- **Today:** the debates on the one-step flow and the filter bubble are new versions of old questions; the evidence is mixed.\n- **Watch the word “mass”:** according to Williams there are no masses, only ways of seeing people as masses.",
+      "question": {
+        "id": "summary-q",
+        "type": "mcq",
+        "prompt": "Which is the most accurate summary of this lesson?",
+        "options": [
+          "Mass-society theory is a proven theory and shows the absolute power of the media",
+          "Mass society is a family of ideas that carry contradictory fears; the atomisation claim has been strained by the evidence, but the questions it asked live on",
+          "Mass-society theory consists only of Le Bon’s crowd psychology",
+          "Mass-society theory is the proven ancestor of today’s filter-bubble debate"
+        ],
+        "answer": 1,
+        "explain": "Throughout the lesson you saw the two strands, the different roles assigned to the media, the findings against the atomisation claim and today’s echoes. The first option treats the theory as proven, whereas its basic assumption has been strained. The third reduces the theory to a single author. The fourth ties today’s debate to a proven line of descent; the evidence is mixed."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "What is the basic difference between Tocqueville’s “tyranny of the majority” and Le Bon’s “crowd”?",
+      "options": [
+        "In Tocqueville the pressure comes from the quiet, moral power of the majority’s opinion and needs no crowd in the street; Le Bon’s crowd is people who are together and move by contagion",
+        "They describe the same thing; only the names differ",
+        "Tocqueville speaks of the violence of crowds, Le Bon of the opinion of the majority",
+        "Le Bon defends democracy, Tocqueville opposes it"
+      ],
+      "answer": 0,
+      "explain": "Tocqueville speaks of the moral power of the majority that ends discussion once it has decided; neither a crowd nor violence is needed. Le Bon takes physical togetherness and contagion as his basis. The second option erases the difference. The third reverses the roles. The fourth is not true either: Le Bon keeps his distance from crowd power and has been called ‘antidemocrat and elitist’."
+    },
+    {
+      "id": "q2",
+      "type": "tf",
+      "prompt": "True or false: Ortega y Gasset’s “mass” is the name of the working class.",
+      "answer": false,
+      "explain": "False. Ortega defines the mass by quality: the person who feels “just like everybody” and seeks no special quality; the mass-man can come from any social class. The reading ‘mass = lower class’ is therefore a common error in textbooks."
+    },
+    {
+      "id": "q3",
+      "type": "match",
+      "prompt": "Match the names with their concepts or works.",
+      "pairs": [
+        [
+          "Le Bon",
+          "Psychologie des foules (1895): suggestion, contagion, anonymity"
+        ],
+        [
+          "Tarde",
+          "The distinction between public and crowd; the laws of imitation"
+        ],
+        [
+          "Tocqueville",
+          "The tyranny of the majority and individualism"
+        ],
+        [
+          "Ortega y Gasset",
+          "The mass-man: a mentality, not a class"
+        ],
+        [
+          "Kornhauser",
+          "Accessibility of elites and availability of the masses for mobilisation"
+        ]
+      ],
+      "explain": "The pairs most often confused are Le Bon–Tarde (contagion or public?) and Ortega–Kornhauser (mentality or social structure?). Tocqueville is known for the power of the majority over opinion."
+    },
+    {
+      "id": "q4",
+      "type": "order",
+      "prompt": "Put these works in the order of their publication (oldest to newest).",
+      "items": [
+        "Le Bon: Psychologie des foules (1895)",
+        "Ortega y Gasset: La rebelión de las masas, book (1930)",
+        "Lazarsfeld, Berelson and Gaudet: The People’s Choice (1944)",
+        "Katz and Lazarsfeld: Personal Influence (1955)",
+        "Kornhauser: The Politics of Mass Society (1959)"
+      ],
+      "explain": "The order is 1895, 1930, 1944, 1955, 1959. Kornhauser’s book appeared after both works of the Lazarsfeld team; that is, the idea of mass society went on being discussed after the personal-influence findings too. Ortega’s pieces appeared in a newspaper in 1929, but the book is dated 1930."
+    },
+    {
+      "id": "q5",
+      "type": "cloze",
+      "prompt": "Fill in the blanks.",
+      "text": "According to Kornhauser, in mass society elites are {{1}}, and masses are {{2}}.",
+      "blanks": [
+        {
+          "options": [
+            "accessible to mass pressure",
+            "completely cut off from the masses",
+            "never elected"
+          ],
+          "answer": 0
+        },
+        {
+          "options": [
+            "open to mobilisation by elites",
+            "tightly protected by intermediate groups",
+            "hereditarily obedient"
+          ],
+          "answer": 0
+        }
+      ],
+      "explain": "The formula runs both ways: elites open to mass pressure, masses open to elite mobilisation. ‘Isolated elites’ and ‘masses protected by intermediate groups’ draw the opposite picture, that of pluralist democracy rather than mass society. ‘Hereditary obedience’ is closer to Le Bon’s emphasis on race, not Kornhauser’s."
+    },
+    {
+      "id": "q6",
+      "type": "case",
+      "scenario": "Imagine that a large factory closes in a city. Most of the newly arrived migrant workers belong to neither a trade union nor a neighbourhood association. A leader starts a movement with slogans addressed from television directly to these people.",
+      "parts": [
+        {
+          "id": "q6a",
+          "prompt": "In Kornhauser’s framework, why are these people considered suited to a movement?",
+          "options": [
+            "Because they are innately unintelligent",
+            "Because they are cut off from communal ties but not yet incorporated into the new order",
+            "Because they all belong to the same class"
+          ],
+          "answer": 1,
+          "explain": "Kornhauser counts people who have lost their ties but not yet joined the new order (new migrants, new workers) as inclined to movements. The claim of mental inadequacy comes from the Le Bon line. Class membership is not a deciding criterion here."
+        },
+        {
+          "id": "q6b",
+          "prompt": "Which question would a researcher from the Lazarsfeld line ask first?",
+          "options": [
+            "Is it really true that these workers are inside no group at all, and through whom do they receive the message?",
+            "How many times did the leader appear on television?",
+            "How loudly do the workers shout in a crowd?"
+          ],
+          "answer": 0,
+          "explain": "The Lazarsfeld line questions precisely the atomisation assumption: do people receive the message through friends, neighbours and opinion leaders? The other questions either just count media exposure or focus on Le Bon-style crowd behaviour."
+        },
+        {
+          "id": "q6c",
+          "prompt": "How does Kornhauser’s warning apply to this scenario?",
+          "options": [
+            "These conditions alone produce a totalitarian movement",
+            "These conditions raise the risk but alone do not produce totalitarianism; other conditions are also needed",
+            "These conditions carry no risk at all"
+          ],
+          "answer": 1,
+          "explain": "Kornhauser writes that mass conditions alone do not produce totalitarianism and that other conditions are needed. The first option turns the chain into a fate; the third assumes the theory says nothing."
+        }
+      ],
+      "takeaway": "Mass-society theory draws a map of risk and does not proclaim a fate; and the first testing question is always: are these people really cut off from groups?"
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "What does Raymond Williams’s sentence “There are in fact no masses; there are only ways of seeing people as masses” mean at best?",
+      "options": [
+        "Crowds never gather",
+        "“Mass” is a way of seeing: nobody calls his own people ‘the masses’; masses are always other people",
+        "There are no people in society",
+        "The mass media do not really exist"
+      ],
+      "answer": 1,
+      "explain": "Williams says the concept of the mass names not a social reality but a way of looking; masses are always “the others”. The other options read the sentence literally and end in absurdity: Williams is discussing not whether crowds or media exist but how the label ‘mass’ works."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "In Reicher’s Bristol 1980 study, which finding contradicts Le Bon’s prediction that “an anonymous crowd attacks anything” most?",
+      "options": [
+        "The attack on police cars",
+        "The crowd not crossing the district boundary after the police had withdrawn, and stopping those who stoned private cars",
+        "The spread of rumours",
+        "The start at 3.30 in the afternoon"
+      ],
+      "answer": 1,
+      "explain": "Behaviour with limits and targets contradicts the picture of a ‘mindless, unlimited’ crowd. The attack on cars shows that violence was present, not that it was unlimited. Rumours and the time are details irrelevant to the prediction."
+    },
+    {
+      "id": "q9",
+      "type": "tf",
+      "prompt": "True or false: according to the Facebook study by Bakshy, Messing and Adamic (2015), algorithmic ranking limits exposure to cross-cutting content more strongly than individuals’ own choices do.",
+      "answer": false,
+      "explain": "False. The authors report the opposite: individuals’ choices limited exposure to cross-cutting content more strongly than algorithmic ranking did. The ‘algorithm locks us in’ thesis is weakened in this study. Still, since the study belongs to one platform and one country, it is not a final verdict."
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "Which strand best describes Hannah Arendt and Kornhauser?",
+      "options": [
+        "The aristocratic strand: the mass destroys elite culture",
+        "The democratic strand: totalitarian movements mobilise isolated people",
+        "The left variant: the rulers control the media and numb the masses",
+        "None; both are against mass-society theory"
+      ],
+      "answer": 1,
+      "explain": "Kornhauser counts himself and Arendt, with Fromm, Lederer, Mannheim and Neumann, in the democratic strand: the fear is atomised people mobilised by totalitarian movements. The aristocratic strand belongs to the nineteenth century and the Ortega type. The left variant is built on the media and the rulers. The last option is wrong too: both are defenders of the mass-society framework."
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "What change does Bennett and Manheim’s (2006) “one-step flow” thesis propose?",
+      "options": [
+        "A shift from the two-step flow of messages from the media through social mediation to a flow targeted directly at individuals",
+        "An increase in the power of opinion leaders",
+        "The complete disappearance of media effects",
+        "That individuals no longer live inside any group"
+      ],
+      "answer": 0,
+      "explain": "The authors discuss a shift from the two-step flow (media, opinion leader, others) to a flow targeted directly at individuals. The second option is the opposite of their thesis: opinion leaders are ceasing to ‘lead’. The third and fourth options are exaggerations; the article does not say them."
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "tocqueville",
+  "lang": "tr",
+  "name": "Alexis de Tocqueville",
+  "nativeName": "",
+  "slug": "alexis-de-tocqueville",
+  "short": "Fransız yargıç ve siyaset düşünürü (1805–1859); Amerika gezisinden doğan *Amerika’da Demokrasi*’de çoğunluğun zorbalığını ve bireyciliğin toplumu yalıtışını anlattı.",
+  "roles": [
+    "siyaset düşünürü",
+    "yargıç",
+    "yazar"
+  ],
+  "bio": "Alexis de Tocqueville 29 Temmuz 1805’te doğdu ve 16 Nisan 1859’da Cannes’da öldü. Soylu bir Norman ailenin çocuğuydu; Paris’te hukuk okudu ve Versailles’da yargıç yardımcısı oldu. Meslektaşı Gustave de Beaumont’la birlikte ABD’deki hapishane sistemini incelemek için izin aldı; giderlerini aileleri karşıladı. İkili Mayıs 1831 ile Şubat 1832 arasında Amerika’da kaldı. Yolculuğun ilk ürünü hapishane sistemi üzerine bir rapor (1832), asıl ürünü ise *De la démocratie en Amérique* oldu: birinci cilt 1835’te, ikinci cilt 1840’ta çıktı.\n\nKitabın temel gözlemi, eşitliğin demokrasinin özü olduğu ve demokrasinin kaçınılmaz olduğudur. Tocqueville eşitlikçi toplumda iki tehlike görür. Birincisi çoğunluğun zorbalığıdır: çoğunluk bir konuda karar verdiğinde tartışma sona erer ve bağımsız düşünce susar. İkincisi bireycilik ve onun doğurabileceği yumuşak bir despotluktur: insanlar kendi küçük dünyalarına çekilirken, üstlerinde onları çocuk gibi tutan vesayetçi bir güç yükselir. Çare olarak sivil dernekleri ve gazeteleri sayar.\n\n1839’da milletvekili seçildi, 1848 devriminden sonra yeniden milletvekili oldu, 1849’da birkaç ay dışişleri bakanlığı yaptı ve 1851 sonunda kamu hayatından çekildi. Son yıllarında *Eski Rejim ve Devrim*’i (1856) yazdı.\n\nKitle toplumu literatüründeki yeri şudur: Oxford Sosyoloji Sözlüğü, modern kitle toplumu imgesinin etiketiyle değil ama görüntüsüyle onunla başladığını yazar. [[cite:marshall-dictionary-sociology-mass-society]]",
+  "works": [
+    {
+      "bib": "tocqueville-1835-democratie",
+      "note": "Çoğunluğun zorbalığı (1. cilt), bireycilik ve vesayetçi güç (2. cilt), gazeteler ve dernekler."
+    }
+  ],
+  "inCourse": "[[lesson:mass-society]] dersinde kitle toplumu korkusunun hem “zorba çoğunluk” hem de “yalıtılmış birey ve yumuşak vesayet” yönünü temsil eder."
+}

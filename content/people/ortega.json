@@ -1,0 +1,16 @@
+{
+  "id": "ortega",
+  "born": {
+    "year": 1883
+  },
+  "died": {
+    "year": 1955
+  },
+  "sources": [
+    "nwe-ortega",
+    "wikipedia-ortega"
+  ],
+  "works": [
+    "ortega-1930-rebelion-masas"
+  ]
+}

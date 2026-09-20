@@ -1,0 +1,16 @@
+{
+  "id": "le-bon",
+  "born": {
+    "year": 1841
+  },
+  "died": {
+    "year": 1931
+  },
+  "sources": [
+    "encyclopedia-le-bon-european-social-history",
+    "wikipedia-le-bon"
+  ],
+  "works": [
+    "le-bon-1895-psychologie-foules"
+  ]
+}

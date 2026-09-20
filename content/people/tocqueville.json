@@ -1,0 +1,16 @@
+{
+  "id": "tocqueville",
+  "born": {
+    "year": 1805
+  },
+  "died": {
+    "year": 1859
+  },
+  "sources": [
+    "encyclopedia-tocqueville-european-social-history",
+    "nwe-tocqueville"
+  ],
+  "works": [
+    "tocqueville-1835-democratie"
+  ]
+}
