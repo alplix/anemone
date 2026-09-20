@@ -1,0 +1,17 @@
+{
+  "id": "pseudo-environment",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "pseudo-environment",
+  "altTerms": [
+    "sözde çevre",
+    "sahte çevre",
+    "the pictures in our heads"
+  ],
+  "slug": "pseudo-environment",
+  "short": "Lippmann’s term: the simplified representation that comes between people and the real environment, and to which behaviour actually responds. It does not mean a lie; its consequences appear in the real environment.",
+  "body": "The pseudo-environment is a concept Walter Lippmann builds in the first chapter of *Public Opinion* (1922). For him the real environment is too big, too complex and too fleeting for direct acquaintance; so people reconstruct it on a simpler model and build their behaviour as a response to that model [[cite:lippmann-1922]]. Lippmann calls this representation, inserted between a person and his environment, a “pseudo-environment”.\n\nTwo details of the concept are often missed. First: “pseudo” does not mean a lie. Lippmann defines a fiction as a representation of the environment made by people themselves, and writes that fictions range from complete hallucination to a scientist’s self-conscious use of a model [[cite:lippmann-1922]]. Second: the consequences of behaviour appear not in the pseudo-environment but in the real one; the mismatch between the two ends in the sensation of butting one’s head against a stone wall [[cite:lippmann-1922]].\n\nAgenda-setting researchers returned to the term later: McCombs and Shaw (1972) write that the pseudo-environment reflected in the media is not a perfect representation of the actual campaign [[cite:mccombs-shaw-1972]]; Iyengar, Peters and Kinder (1982) report that their experiments sustain Lippmann’s suspicion of half a century earlier [[cite:iyengar-peters-kinder-1982]]. For more see [[lesson:agenda-setting]].",
+  "example": "(Hypothetical example.) A local paper reports a distant factory strike in two paragraphs, relying only on the employer’s statement. Readers form an opinion from those two paragraphs and sign petitions accordingly; the strike’s real environment is a factory yard the readers never see."
+}

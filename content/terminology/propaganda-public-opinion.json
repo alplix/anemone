@@ -1,0 +1,65 @@
+{
+  "_comment": "Terms for the lesson propaganda-public-opinion. status: ok = attested in a Turkish source I opened; chosen = my own rendering; check = weakly attested, needs a Turkish-language reviewer. Existing keys (public-opinion, pseudo-environment, opinion-leader, propaganda-model, informed-consent) are NOT redefined here; notes on how they are used in this lesson are attached to new keys.",
+  "pseudo-environment-alt": {
+    "en": "pseudo-environment (alternative Turkish rendering)", "tr": "sahte çevre", "status": "check",
+    "note": "The lesson uses the course-wide ‘sözde çevre’ (see agenda-setting terminology). A bookseller’s description of the 2020 Turkish edition of Public Opinion (Kabalcı; kitapyurdu.com and idefix.com repeat one blurb) lists ‘Stereotip’, ‘Sahte Çevre’ and ‘Sahte Gerçek’; no scholarly Turkish source using ‘sahte çevre’ was opened."
+  },
+  "stereotype": {
+    "en": "stereotype", "tr": "stereotip", "status": "check",
+    "alt": ["kalıp yargı"],
+    "note": "‘Stereotip’ is in the Turkish edition blurb (see above). ‘Kalıp yargı’ is offered from my own knowledge of usage as an alternative and was not confirmed in a source I opened."
+  },
+  "manufacture-of-consent": {
+    "en": "manufacture of consent", "tr": "rızanın imalatı", "status": "ok",
+    "alt": ["rıza üretimi"],
+    "note": "‘Rızanın İmalatı’ is the Turkish title of Herman & Chomsky’s Manufacturing Consent as it appears in the title of Gadimov 2015 (İlef Dergisi 2(2), 215-226) and in several Turkish book listings (translator Ender Abadoğlu; publishers and years differ across listings, not used). ‘Rıza üretimi’ occurred only in a search snippet (a thesis title beginning ‘Toplumsal Rıza Üretiminde …’) and is treated as unconfirmed."
+  },
+  "engineering-of-consent": {
+    "en": "engineering of consent", "tr": "rızanın mühendisliği", "status": "chosen",
+    "note": "My own rendering of Bernays’s 1947 phrase; no Turkish source was opened for it."
+  },
+  "phantom-public": {
+    "en": "the phantom public", "tr": "hayalet kamu", "status": "chosen",
+    "note": "No Turkish rendering of Lippmann’s 1925 title was found (web searches returned none). ‘Kamu’ for ‘the public’ follows the existing Dewey person file (‘kamu tutulma içinde’). Own translation."
+  },
+  "lippmann-dewey-debate": {
+    "en": "Lippmann–Dewey debate", "tr": "Lippmann–Dewey tartışması", "status": "check",
+    "note": "The Turkish website journo.com.tr published a translation of notes by Carl R. Bybee titled ‘Gazeteciliğin demokrasi için önemi: Lippmann ve Dewey’nin “kamuoyu” tartışması’ (17 July 2022); a web-page summary, not a scholarly source."
+  },
+  "propagandist-technician": {
+    "en": "propagandist as technician", "tr": "teknisyen propagandacı", "status": "chosen",
+    "note": "The lesson’s own shorthand, not Lasswell’s term. ‘Propagandacı’ is in the TDK dictionary (‘Propaganda yapan kimse; propagandist’)."
+  },
+  "omnicompetent-citizen": {
+    "en": "omnicompetent citizen", "tr": "her şeyi bilen yurttaş", "status": "chosen",
+    "note": "Lippmann’s ‘omnicompetent citizen’ (Public Opinion, chapter XVII and elsewhere; Dewey 1927 quotes it as ‘omni-competent’). No Turkish source opened; own rendering."
+  },
+  "organized-intelligence": {
+    "en": "organized intelligence", "tr": "örgütlü istihbarat", "status": "chosen",
+    "note": "Title of Part VIII of Public Opinion. ‘İstihbarat’ (intelligence in the sense of intelligence bureau) is my own choice; ‘örgütlü bilgi/zekâ’ would be another option. No Turkish source opened."
+  },
+  "outsider-insider": {
+    "en": "outsider / insider (Lippmann)", "tr": "dışarıdaki / içerdeki", "status": "chosen",
+    "note": "Lippmann’s outsider and insider are positions, not social types (Schudson 2008). Own rendering; the lesson keeps the English ‘outsider’ in one quotation."
+  },
+  "public-opinions-capital": {
+    "en": "public opinions vs Public Opinion (capital letters)", "tr": "kamuoyları / büyük harfli Kamuoyu", "status": "chosen",
+    "note": "Lippmann’s distinction between individuals’ ‘public opinions’ and ‘Public Opinion with capital letters’ has no ready Turkish equivalent because ‘kamuoyu’ is a collective singular (TDK: ‘bir konuyla ilgili halkın genel düşüncesi’). Own solution."
+  },
+  "kanaat": {
+    "en": "opinion / contentment (kanaat)", "tr": "kanaat", "status": "ok",
+    "note": "TDK Güncel Türkçe Sözlük: 4 senses, the first ‘elindekinden hoşnut olma’, the fourth ‘görüş’. The course already uses ‘kanaat önderi’ (opinion leader) and Kutlu 2019 uses ‘kanaat iklimi’."
+  },
+  "riza": {
+    "en": "consent (rıza)", "tr": "rıza", "status": "ok",
+    "note": "TDK: ‘Razı olma, bir şeyi yapmayı isteme; onam’. The course’s research-methods terminology uses ‘onam’ for ‘informed consent’."
+  },
+  "significant-symbols": {
+    "en": "significant symbols", "tr": "anlamlı simgeler", "status": "chosen",
+    "note": "From Lasswell 1927: ‘the control of opinion by significant symbols’. Own rendering."
+  },
+  "intelligence-bureau": {
+    "en": "intelligence bureau", "tr": "istihbarat bürosu", "status": "chosen",
+    "note": "Lippmann’s proposal in chapters XXV–XXVIII. Own rendering."
+  }
+}

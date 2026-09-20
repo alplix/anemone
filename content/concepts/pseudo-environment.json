@@ -1,0 +1,18 @@
+{
+  "id": "pseudo-environment",
+  "family": "effects",
+  "introducedBy": [
+    "lippmann"
+  ],
+  "related": [
+    "stereotype",
+    "public-opinion",
+    "agenda-setting",
+    "media-agenda"
+  ],
+  "sources": [
+    "lippmann-1922",
+    "mccombs-shaw-1972",
+    "iyengar-peters-kinder-1982"
+  ]
+}
