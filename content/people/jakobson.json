@@ -1,0 +1,7 @@
+{
+  "id": "jakobson",
+  "born": { "year": 1896 },
+  "died": { "year": 1982 },
+  "sources": ["wikipedia-en-jakobson", "nwe-jakobson", "ebsco-jakobson"],
+  "works": ["jakobson-1960"]
+}

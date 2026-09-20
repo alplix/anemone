@@ -1,0 +1,378 @@
+{
+  "_comment": "Bibliography for the lesson other-models (Jakobson, Gerbner, Maletzke; Riley & Riley in one sentence). Every entry was checked on 2026-09-20 (verified.note says what was and was not read). Reused, NOT redefined here: maletzke-1963, ioni-pstae-2017, wikipedia-de-massenkommunikation, lasswell-1948, yaylagul-2006, iplikci-2015, pooley-socolow-2013-ijoc, pooley-socolow-2013-slate, gerbner-1969 (defined in other bibliography files).",
+  "jakobson-1960": {
+    "type": "chapter",
+    "authors": ["Jakobson, Roman"],
+    "year": 1960,
+    "title": "Closing statement: Linguistics and poetics",
+    "editors": ["Sebeok, Thomas A."],
+    "bookTitle": "Style in language",
+    "publisher": "Technology Press of the Massachusetts Institute of Technology; John Wiley & Sons",
+    "place": "Cambridge, MA; New York",
+    "pages": "350-377",
+    "verified": {
+      "status": "ok",
+      "methods": ["library-catalogue-record", "open-library", "excerpt-with-page-numbers", "secondary-sources"],
+      "date": "2026-09-20",
+      "note": "The book (Conference on Style, Indiana University, 1958; xvii + 470 pp.; Technology Press of MIT, 1960) was matched in the Stanford SearchWorks catalogue and in Open Library; the Varenne excerpt page reproduces the passages with page numbers 353-357 and gives the imprint 'New York: Wiley, 1960'. Pages 350-377 come from the Signo page (which I opened) and a reference listing seen in search results. THE FULL TEXT COULD NOT BE READ: the monoskop scan has no text layer and the Language in Literature PDF returned 403. The factors, the six functions, the poetic-function quotation and the 'I like Ike' example were checked on the Varenne excerpt, the Semioticon lecture text, Signo, Wikipedia and the Turkish article by Nesterova Coşkun (2023), which quotes the paper in translation with page numbers of the 1987 reprint."
+    }
+  },
+  "gerbner-1956": {
+    "type": "article",
+    "authors": ["Gerbner, George"],
+    "year": 1956,
+    "title": "Toward a general model of communication",
+    "container": "AV Communication Review",
+    "volume": "4",
+    "issue": "3",
+    "pages": "171-199",
+    "doi": "10.1007/BF02717110",
+    "verified": {
+      "status": "ok",
+      "methods": ["crossref", "second-source"],
+      "date": "2026-09-20",
+      "note": "Crossref record matched (issued June 1956; Crossref lists the journal under its present name, Educational Technology Research and Development, which continues AV Communication Review; the same journal as gerbner-1969). McQuail & Windahl 1993 cite it as 'Audio-Visual Communication Review, 4: 171-99'. THE ARTICLE ITSELF WAS NOT READ (paywalled; Scribd copies are truncated). The model is described through McQuail & Windahl 1993 (ch. 2.3), Iplikci 2015 and study summaries."
+    }
+  },
+  "mcquail-windahl-1993": {
+    "type": "book",
+    "authors": ["McQuail, Denis", "Windahl, Sven"],
+    "year": 1993,
+    "title": "Communication models for the study of mass communications",
+    "publisher": "Longman",
+    "place": "London",
+    "edition": "2nd ed.",
+    "verified": {
+      "status": "ok",
+      "methods": ["open-library", "source-itself"],
+      "date": "2026-09-20",
+      "note": "Full text of the 2013 Routledge reprint of the second edition read (a third-party-hosted PDF; its copyright page: 'Second edition 1993', ISBN 978-0-582-03650-5, 'First published 1982'; Open Library gives first publication as 1981, so the first-edition year is not used). Used for: the uses and misuses of models (ch. 1.2), Gerbner's model (ch. 2.3), Maletzke's model (ch. 2.6) and the mentions of Riley & Riley (ch. 2.1)."
+    }
+  },
+  "buhler-1934": {
+    "type": "book",
+    "authors": ["Bühler, Karl"],
+    "year": 1934,
+    "title": "Sprachtheorie",
+    "publisher": "Gustav Fischer",
+    "place": "Jena",
+    "verified": {
+      "status": "ok",
+      "methods": ["open-library", "reference-work"],
+      "date": "2026-09-20",
+      "note": "Open Library lists Sprachtheorie, G. Fischer, Jena (1934). The English Wikipedia article on the Organon model gives 1934 and the three functions (Ausdruck, Appell, Darstellung); Senft 2009 refers to 'Karl Bühler's (1934) organon model of language'. The book was not opened."
+    }
+  },
+  "malinowski-1923": {
+    "type": "chapter",
+    "authors": ["Malinowski, Bronisław"],
+    "year": 1923,
+    "title": "The problem of meaning in primitive languages (Supplement I)",
+    "bookTitle": "The meaning of meaning, by C. K. Ogden and I. A. Richards",
+    "publisher": "Kegan Paul, Trench, Trubner",
+    "place": "London",
+    "verified": {
+      "status": "ok",
+      "methods": ["open-library", "secondary-full-text", "crossref"],
+      "date": "2026-09-20",
+      "note": "Senft 2009 (full text read) says Malinowski introduced 'phatic communion' in the first supplement to Ogden & Richards' The Meaning of Meaning, and quotes the passage; the dating (three years after his 1920 paper) fits 1923. Open Library gives 1923 for the book; Crossref lists the supplement in a later reprint. Page numbers of the 1923 edition were not verified and are omitted. The supplement itself was not opened."
+    }
+  },
+  "senft-2009": {
+    "type": "chapter",
+    "authors": ["Senft, Gunter"],
+    "year": 2009,
+    "title": "Phatic communion",
+    "editors": ["Senft, Gunter", "Östman, Jan-Ola", "Verschueren, Jef"],
+    "bookTitle": "Culture and language use (Handbook of pragmatics highlights 2)",
+    "publisher": "John Benjamins",
+    "place": "Amsterdam",
+    "pages": "226-233",
+    "doi": "10.1075/hoph.2.20sen",
+    "verified": {
+      "status": "ok",
+      "methods": ["crossref", "full-text"],
+      "date": "2026-09-20",
+      "note": "Crossref record matched (chapter and book, editors from the book record 10.1075/hoph.2). The author's PDF from the Max Planck repository was read in full (pages 226-233 as printed on the running heads). Used for: Malinowski's phatic communion, Jakobson's borrowing and the expansion of Bühler's model, and Hymes's cross-cultural objection."
+    }
+  },
+  "kulkarni-2014": {
+    "type": "article",
+    "authors": ["Kulkarni, Dipti"],
+    "year": 2014,
+    "title": "Exploring Jakobson’s ‘phatic function’ in instant messaging interactions",
+    "container": "Discourse & Communication",
+    "volume": "8",
+    "issue": "2",
+    "pages": "117-136",
+    "doi": "10.1177/1750481313507150",
+    "verified": {
+      "status": "ok",
+      "methods": ["crossref", "abstract-read"],
+      "date": "2026-09-20",
+      "note": "Crossref record and abstract read (online 13 Nov 2013, print May 2014, volume 8 issue 2); the Semantic Scholar record agrees on title and author. Full text paywalled and not read: only the abstract-level facts are used (60 chats, 20 participants, English mixed with Marathi and Hindi, conversation analysis)."
+    }
+  },
+  "nesterova-coskun-2023": {
+    "type": "article",
+    "authors": ["Nesterova Coşkun, Svitlana"],
+    "year": 2023,
+    "title": "Roman Jakobson’da dilin işlevleri ve işleyiş mekanizması",
+    "container": "RumeliDE Dil ve Edebiyat Araştırmaları Dergisi",
+    "issue": "36",
+    "pages": "326-339",
+    "doi": "10.29000/rumelide.1372353",
+    "verified": {
+      "status": "ok",
+      "methods": ["crossref", "full-text"],
+      "date": "2026-09-20",
+      "note": "Crossref record matched (issued 21 Oct 2023) and the DergiPark PDF read (sections 1.1-1.7 on the six factors and functions). Used for the Turkish terms (göndergesel, duygusal, çağrı, kanal teyidi, metadil, poetik), the statement that the paper was first presented at the 1958 Indiana conference, the statement that the first three functions had been identified before Jakobson, the Turkish examples (the Stanislavsky example was read but is not used in the lesson) for the phatic and conative functions, and the Mevlana example. The author quotes Jakobson in Turkish translation (1987 reprint page numbers); I did not verify those page numbers against the paper."
+    }
+  },
+  "dalak-2021": {
+    "type": "article",
+    "authors": ["Dalak, Tülünay"],
+    "year": 2021,
+    "title": "B-M. Koltès’in Tabataba oyununun dramatik yöntemle iletişimsel açıdan incelenmesi",
+    "container": "Litera: Dil, Edebiyat ve Kültür Araştırmaları Dergisi",
+    "volume": "31",
+    "issue": "1",
+    "pages": "255-288",
+    "doi": "10.26650/LITERA2020-807938",
+    "verified": {
+      "status": "ok",
+      "methods": ["crossref", "full-text"],
+      "date": "2026-09-20",
+      "note": "Crossref record matched (issued 15 Jun 2021); the DergiPark PDF was read (abstract and the introduction of Jakobson's model). Used only for the fact that a Turkish article analyses a play through Jakobson's communication model and for the Turkish names of the functions used there (duygu, çağrı, gönderge, şiir/sanat, ilişki, üstdil). The play analysis itself was not summarised."
+    }
+  },
+  "varenne-jakobson-excerpt": {
+    "type": "web",
+    "authors": [],
+    "title": "Selections from Jakobson, “Concluding statement: Linguistics and poetics” (Style in language, 1960)",
+    "publisher": "Varenne (bibliography excerpts page)",
+    "url": "https://varenne.tc.columbia.edu/bib/info/jakbsromn600constat.html",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": ["source-itself"],
+      "date": "2026-09-20",
+      "note": "Page opened: excerpts of Jakobson's paper with page numbers (the two diagrams of six factors and six functions, the metalingual and poetic passages, the 'I like Ike' example). It is a partial excerpt, not the full text."
+    }
+  },
+  "semioticon-jakobson-poetic": {
+    "type": "web",
+    "authors": [],
+    "title": "Roman Jakobson and the Primacy of the Poetic (lecture text)",
+    "publisher": "Semioticon (lecture text, author not stated in the file)",
+    "url": "https://semioticon.com/sio/wp-content/uploads/sites/4/2023/09/02-comm-cultural.pdf",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": ["source-itself"],
+      "date": "2026-09-20",
+      "note": "PDF (13 pp.) read in full through text extraction. It quotes Jakobson with page numbers for the six features, the phatic function (Malinowski, 'Hello, do you hear me?', the Dorothy Parker dialogue) and the 'I like Ike' analysis, and reports Baudrillard's critique of the phatic function. The author and course are not named in the file."
+    }
+  },
+  "signo-jakobson-functions": {
+    "type": "web",
+    "authors": [],
+    "title": "Roman Jakobson: The Functions of Language",
+    "publisher": "Signo: Applied Semiotics Theories",
+    "url": "https://www.signosemio.com/pages/jakobson/functions-of-language.php",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": ["source-itself"],
+      "date": "2026-09-20",
+      "note": "Page opened: table of the six factors and functions, a quotation from p. 356 and the reference 'Jakobson, R., Linguistics and Poetics, in T. Sebeok, ed., Style in Language, Cambridge, MA: M.I.T. Press, 1960, pp. 350-377'; it also reports Bühler's triad symptom/signal/symbol."
+    }
+  },
+  "wikipedia-jakobson-functions": {
+    "type": "web",
+    "authors": [],
+    "title": "Jakobson's functions of language",
+    "publisher": "Wikipedia (English edition)",
+    "url": "https://en.wikipedia.org/wiki/Jakobson%27s_functions_of_language",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": ["source-itself"],
+      "date": "2026-09-20",
+      "note": "Article opened; used only as a cross-check for the factor-function pairs and for the statement that Jakobson added three functions to Bühler's organon model."
+    }
+  },
+  "wikipedia-organon-model": {
+    "type": "web",
+    "authors": [],
+    "title": "Organon model",
+    "publisher": "Wikipedia (English edition)",
+    "url": "https://en.wikipedia.org/wiki/Organon_model",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": ["source-itself"],
+      "date": "2026-09-20",
+      "note": "Article opened: Bühler (1879-1963), Sprachtheorie 1934, first English translation 1990, the three functions with German terms, the derivation from Plato's Cratylus, and the influence on Jakobson. Cross-checked with Senft 2009 and Signo."
+    }
+  },
+  "wikipedia-en-jakobson": {
+    "type": "web",
+    "authors": [],
+    "title": "Roman Jakobson",
+    "publisher": "Wikipedia (English edition)",
+    "url": "https://en.wikipedia.org/wiki/Roman_Jakobson",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": ["source-itself"],
+      "date": "2026-09-20",
+      "note": "Article opened: born Moscow 1896; founding member of the Prague school (1926); arrived in New York in 1941; Harvard 1949-1967; died 18 July 1982 in Cambridge, Massachusetts. The birth day differs between sources (10 or 11 October), so only the year is used."
+    }
+  },
+  "nwe-jakobson": {
+    "type": "web",
+    "authors": [],
+    "title": "Roman Jakobson",
+    "publisher": "New World Encyclopedia",
+    "url": "https://www.newworldencyclopedia.org/entry/Roman_Jakobson",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": ["source-itself"],
+      "date": "2026-09-20",
+      "note": "Entry opened: born 1896, died 1982, Prague Linguistic Circle founded 26 October 1926, Harvard 1949-1967, MIT from 1957. Independent of the Wikipedia article for the purposes of the years used."
+    }
+  },
+  "ebsco-jakobson": {
+    "type": "web",
+    "authors": [],
+    "title": "Roman Jakobson (Research Starters)",
+    "publisher": "EBSCO Research Starters",
+    "url": "https://www.ebsco.com/research-starters/history/roman-jakobson",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": ["source-itself"],
+      "date": "2026-09-20",
+      "note": "Page opened: born 1896 in Moscow; forty years of teaching and research in the United States (1941-1982); Harvard 1949-1967. The page says nothing about the six functions."
+    }
+  },
+  "wikipedia-de-maletzke": {
+    "type": "web",
+    "authors": [],
+    "title": "Gerhard Maletzke",
+    "publisher": "Wikipedia (German edition)",
+    "url": "https://de.wikipedia.org/wiki/Gerhard_Maletzke",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": ["source-itself"],
+      "date": "2026-09-20",
+      "note": "Article opened: born 6 January 1922 in Neustettin, Pomerania; died 6 December 2010; Hans-Bredow-Institut 1952-1964; Süddeutscher Rundfunk 1978-1987; works of 1963, 1988 and 1998. Only years are used in the lesson."
+    }
+  },
+  "deutsche-biographie-maletzke": {
+    "type": "web",
+    "authors": [],
+    "title": "Maletzke, Gerhard (Deutsche Biographie index entry)",
+    "publisher": "Deutsche Biographie (Bayerische Staatsbibliothek / Historische Kommission)",
+    "url": "https://www.deutsche-biographie.de/sfz098041-5.html",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": ["source-itself"],
+      "date": "2026-09-20",
+      "note": "Index page opened: life dates 1922-2010, birthplace Neustettin, occupation Kommunikationswissenschaftler, GND 119431378. It is a register entry without a biography text."
+    }
+  },
+  "blexkom-maletzke": {
+    "type": "web",
+    "authors": ["Wiedemann, Thomas"],
+    "title": "Gerhard Maletzke (Biografisches Lexikon der Kommunikationswissenschaft)",
+    "publisher": "Halem Verlag",
+    "url": "https://blexkom.halemverlag.de/gerhard-maletzke/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": ["source-itself"],
+      "date": "2026-09-20",
+      "note": "Entry opened (author Thomas Wiedemann, edited by Michael Meyen). Used for: Hans-Bredow-Institut 1952-1964; the 1963 book was neither dissertation nor Habilitation and became the standard work within a few years; the field schema was developed with reference to the widely quoted Lasswell formula and leaves out effect as a separate element."
+    }
+  },
+  "blexkom-maletzke-interview": {
+    "type": "web",
+    "authors": ["Wiedemann, Thomas"],
+    "title": "Unsere Wissenschaft braucht ein fundiertes Menschenbild (interview with Gerhard Maletzke)",
+    "publisher": "Biografisches Lexikon der Kommunikationswissenschaft, Halem Verlag",
+    "url": "https://blexkom.halemverlag.de/interview-mit-gerhard-maletzke/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": ["source-itself"],
+      "date": "2026-09-20",
+      "note": "Interview page opened (interviewer Thomas Wiedemann; date not stated on the page). Used for three remarks by Maletzke: that as a psychologist he was interested in what happens in people while listening to radio; that he wanted to give German-language research a conceptual framework; that today he would be more careful with some terms, for example 'Rezipient'. Quotations are given in translation or short paraphrase."
+    }
+  },
+  "wikipedia-de-feldschema": {
+    "type": "web",
+    "authors": [],
+    "title": "Feldschema der Massenkommunikation",
+    "publisher": "Wikipedia (German edition)",
+    "url": "https://de.wikipedia.org/wiki/Feldschema_der_Massenkommunikation",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": ["source-itself"],
+      "date": "2026-09-20",
+      "note": "Article opened (plain-text extract). Used for the German terms (Kommunikator, Aussage, Medium, Rezipient, Zwang des Mediums, Parafeedback), Maletzke's definition of the Kommunikator (quoted there), the remark that 'Feld' alludes to field theory, and the critical remarks. It links the model to Shannon and Weaver, whereas Maletzke himself names Lasswell (Ioni & Pstae 2017; blexkom); the lesson reports both."
+    }
+  },
+  "bergsma-1964": {
+    "type": "article",
+    "authors": ["Bergsma, F."],
+    "year": 1964,
+    "title": "Book reviews: Maletzke, G., Psychologie der Massenkommunikation, Theorie und Systematik. Hans Bredow Institut, Hamburg 1963, 311 pp.",
+    "container": "Gazette (Leiden, Netherlands)",
+    "volume": "10",
+    "issue": "2",
+    "pages": "185-187",
+    "doi": "10.1177/001654926401000211",
+    "verified": {
+      "status": "ok",
+      "methods": ["crossref"],
+      "date": "2026-09-20",
+      "note": "Crossref record matched (title carries the bibliographic data of the book: Hans Bredow Institut, Hamburg 1963, 311 pp.). The review text is paywalled and was not read; only the page count of the book is used."
+    }
+  },
+  "riley-riley-1959": {
+    "type": "chapter",
+    "authors": ["Riley, John W.", "Riley, Matilda White"],
+    "year": 1959,
+    "title": "Mass communication and the social system",
+    "editors": ["Merton, Robert K.", "Broom, Leonard", "Cottrell, Leonard S., Jr."],
+    "bookTitle": "Sociology today: Problems and prospects",
+    "publisher": "Basic Books",
+    "place": "New York",
+    "verified": {
+      "status": "ok",
+      "methods": ["open-library", "internet-archive-catalogue", "secondary-citations"],
+      "date": "2026-09-20",
+      "note": "The book (Basic Books, 1959, ed. Merton, Broom, Cottrell, for the American Sociological Society) is in Open Library and the Internet Archive catalogue; the chapter's authors, title and place are given identically in the reference lists of McQuail & Windahl 1993 and Yaylagül 2006 (Yaylagül spells 'Mathilda'). Page numbers were not confirmed and are omitted. The chapter itself was not opened; its content is described only at the level of the two textbooks."
+    }
+  },
+  "communicationtheory-riley": {
+    "type": "web",
+    "authors": [],
+    "title": "Riley & Riley Model of Communication",
+    "publisher": "Communication Theory (communicationtheory.org)",
+    "url": "https://www.communicationtheory.org/riley-riley-model-of-communication/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": ["source-itself"],
+      "date": "2026-09-20",
+      "note": "Page opened. A study-guide site: used only as a second, consistent description of the Rileys' idea that communicator and receiver each sit inside primary groups and a larger social structure, next to Yaylagül 2006. It gives no page range."
+    }
+  }
+}

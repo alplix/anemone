@@ -1,0 +1,637 @@
+{
+  "id": "other-models",
+  "lang": "en",
+  "translation": {
+    "status": "machine",
+    "date": "2026-09-20"
+  },
+  "title": "Other Models: Jakobson, Gerbner, Maletzke",
+  "slug": "other-models",
+  "description": "Jakobson’s six functions, Gerbner’s chain of perception, Maletzke’s field schema: three models built on language, perception and social field, and their limits.",
+  "claim": "Where process models look at a message’s journey, these three models ask other questions: Jakobson asks which of six factors a message is oriented to and what job it does; Gerbner says communication begins with the perception of an event and loses something at every link; Maletzke says mass communication is a field woven from the images communicator and recipient hold, the constraint of the medium and the social environment. All three are not theories but limited, useful maps.",
+  "keywords": [
+    "Jakobson",
+    "Gerbner",
+    "Maletzke",
+    "functions of language",
+    "phatic function",
+    "communication model",
+    "Feldschema",
+    "field schema",
+    "perception",
+    "mass communication",
+    "Riley and Riley",
+    "model and theory"
+  ],
+  "updated": "2026-09-20",
+  "timeline": {
+    "malinowski-phatic-communion": "Malinowski introduces “phatic communion” in the first supplement to Ogden and Richards’ The Meaning of Meaning",
+    "buhler-sprachtheorie": "Bühler, Sprachtheorie: the three functions of language (expression, appeal, representation)",
+    "cbs-mars-broadcast": "CBS’s Mercury Theatre on the Air: the Martian invasion broadcast (the lab case of this lesson’s Maletzke card)",
+    "lasswell-formula-published": "Lasswell, “The Structure and Function of Communication in Society”: the five questions",
+    "gerbner-general-model": "Gerbner, “Toward a general model of communication” (AV Communication Review)",
+    "style-conference-1958": "Conference on style: Jakobson’s closing statement is delivered",
+    "riley-riley-chapter": "Riley and Riley, “Mass communication and the social system” (Sociology Today)",
+    "jakobson-closing-statement": "Jakobson’s “Closing Statement: Linguistics and Poetics” is published (Style in Language)",
+    "maletzke-psychologie": "Maletzke, Psychologie der Massenkommunikation: the field schema",
+    "kulkarni-phatic-im": "Kulkarni: Jakobson’s phatic function in instant messaging (Discourse & Communication)"
+  },
+  "cards": [
+    {
+      "id": "hook",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "Three words of slogan on a linguist’s desk",
+      "body": "In the United States a presidential candidate’s campaign slogan had three words: *I like Ike*. (Ike alluded to Dwight Eisenhower.) It looks like an ad agency’s job, but in 1958, at a conference on style held in the United States, the linguist [[person:jakobson|Roman Jakobson]] analysed this slogan like a poem. By his account the three words are single syllables, all three carry the same diphthong (/ay/), the second diphthong is framed by the sounds /l/ and /k/, and /ayk/ returns like an echo in the preceding word. The result, in Jakobson’s telling, is a sound-image of a feeling that wraps its object; this poetic side reinforces the slogan’s impact and efficiency. [[cite:varenne-jakobson-excerpt]] [[cite:semioticon-jakobson-poetic]]\n\nIn the previous lesson ([[lesson:lasswell-shannon-weaver]]) we drew communication with boxes and arrows: source, channel, receiver, noise. In that scheme this slogan would be a one-line “message”; the sound pattern inside it would stay invisible. Jakobson asks what job the message *does*.\n\nIn this lesson you will meet three models that look at communication from three different places: the language-centred Jakobson, the perception-centred [[person:gerbner|Gerbner]] and the social-field-centred [[person:maletzke|Maletzke]]. All three set aside the question “how is a message carried from A to B?” and bring forward another.",
+      "question": {
+        "id": "hook-q",
+        "type": "mcq",
+        "prompt": "Why does Jakobson analyse the sound structure of “I like Ike” in such detail?",
+        "options": [
+          "To measure whether the slogan reached the voters",
+          "To show that sound patterns do work even in an everyday political message that nobody counts as poetry",
+          "To prove that the slogan carries no information at all",
+          "To show that election slogans derive from poetry"
+        ],
+        "answer": 1,
+        "explain": "The second option is right: Jakobson shows that the poetic function does not belong only to poems; in an ordinary political slogan the message’s own sound structure is at work too. The first option is tempting because the slogan is an election message, but measuring effect is a different job (Lasswell’s “with what effect?”); Jakobson looks at the structure of the message. The fourth option assumes the analysis is a claim about history; the text makes no such claim."
+      }
+    },
+    {
+      "id": "ctx-places",
+      "section": "context",
+      "layer": "core",
+      "kind": "text",
+      "title": "Three models, three separate doors",
+      "body": "These three models did not come out of the same laboratory; they came in through doors that did not know each other.\n\n- **Jakobson (1958–1960):** A linguist gives the closing talk of a conference on style held in the United States. The talk was published in 1960 as “Closing Statement: Linguistics and Poetics” in the collected volume *Style in Language*. The subject is the language of poetry, not communication; the communication scheme comes out of that discussion. [[cite:jakobson-1960]] [[cite:nesterova-coskun-2023]]\n- **Gerbner (1956):** “Toward a general model of communication” appeared in volume 4 of the journal *AV Communication Review*, pages 171–199. That same year Gerbner began work at a communications research institute in Illinois. [[cite:gerbner-1956]] [[cite:contemporary-authors-gerbner]]\n- **Maletzke (1963):** The book *Psychologie der Massenkommunikation*, published by the Hans-Bredow-Institut in Hamburg, where Maletzke had worked from 1952 to 1964. As a psychologist he was interested in what goes on inside a person listening to the radio. [[cite:blexkom-maletzke]] [[cite:blexkom-maletzke-interview]]\n\nLinguistics, educational and communication research, psychology: three separate sources. What they share (this reading is ours) is that each brings on stage something that the box-and-arrow scheme does not show: in one the function of the message, in one perception, in one the social environment.",
+      "question": {
+        "id": "ctx-places-q",
+        "type": "mcq",
+        "prompt": "Which of the following pairings is correct?",
+        "options": [
+          "Jakobson: 1956, an article in an educational journal",
+          "Gerbner: 1956, an article in *AV Communication Review*",
+          "Maletzke: 1960, a chapter in *Style in Language*",
+          "Jakobson: 1963, a book from an institute in Hamburg"
+        ],
+        "answer": 1,
+        "explain": "Gerbner’s model was published in 1956 in *AV Communication Review*. The first option is tempting because the 1956 and journal details belong to Gerbner, but they have been pinned on Jakobson. The third and fourth options swap the publications of Jakobson and Maletzke: *Style in Language* is Jakobson’s (1960), the book from the institute in Hamburg is Maletzke’s (1963)."
+      }
+    },
+    {
+      "id": "deep-origin-jakobson",
+      "section": "context",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: the two sources Jakobson borrowed from, Bühler and Malinowski",
+      "body": "Jakobson’s six functions were not invented from scratch. The German psychologist and linguist Karl Bühler, in his 1934 book *Sprachtheorie*, looked at language as an “organon” (tool); he took the idea from the language-as-instrument analogy in Plato’s *Cratylus*. Bühler’s three functions were expression (*Ausdruck*), appeal (*Appell*) and representation (*Darstellung*). [[cite:buhler-1934]] [[cite:wikipedia-organon-model]] They correspond to Jakobson’s emotive, conative and referential functions; Jakobson accepted the three and added three more. [[cite:senft-2009]] [[cite:nesterova-coskun-2023]]\n\nThe phatic one among the additions has a story of its own. In 1923, in the first supplement to Ogden and Richards’ *The Meaning of Meaning*, the anthropologist Bronisław Malinowski described a use of language he called “phatic communion”: remarks like “nice day today” are said not to give information but to start talk and forge a bond, while silence makes people uneasy. Jakobson borrowed the term and modified it slightly: for him the phatic function was about keeping the communication channel open. [[cite:malinowski-1923]] [[cite:senft-2009]]\n\nA note on dates: the conference took place in 1958, but the papers were published as a book only in 1960, which is why sources give the model as both 1958 and 1960. [[cite:jakobson-1960]] [[cite:nesterova-coskun-2023]]"
+    },
+    {
+      "id": "people-three",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "text",
+      "title": "Three names, a few key dates",
+      "body": "- [[person:jakobson|Roman Jakobson]] (1896–1982): Moscow-born linguist, one of the pioneers of structural linguistics. His model was presented in 1958 and published in 1960.\n- [[person:gerbner|George Gerbner]] (1919–2005): Hungarian-born American communication researcher. His general model of communication came out in 1956. The same person would later found the cultivation line of the lesson [[lesson:cultivation]]; in 1969 he also wrote up the “Cultural Indicators” programme. [[cite:gerbner-1956]] [[cite:gerbner-1969]]\n- [[person:maletzke|Gerhard Maletzke]] (1922–2010): German communication scientist and psychologist. His book appeared in 1963 and was soon regarded as the standard work of the field. [[cite:blexkom-maletzke]]\n\nA short timeline:\n\n- 1923: Malinowski defines “phatic communion”\n- 1934: Bühler’s *Sprachtheorie*\n- 1948: Lasswell’s five questions\n- 1956: Gerbner’s general model of communication\n- 1958 / 1960: Jakobson’s paper delivered / published\n- 1959: Riley and Riley’s social system approach\n- 1963: Maletzke’s *Psychologie der Massenkommunikation*\n\nYou do not need to memorise the line; just do not mix up the pairs Jakobson 1960, Gerbner 1956, Maletzke 1963. [[cite:malinowski-1923]] [[cite:buhler-1934]] [[cite:lasswell-1948]] [[cite:riley-riley-1959]] [[cite:jakobson-1960]] [[cite:maletzke-1963]]",
+      "question": {
+        "id": "people-three-q",
+        "type": "tf",
+        "prompt": "True or false: the author of the 1956 general model of communication and the researcher who started the cultivation studies are the same person.",
+        "answer": true,
+        "explain": "True: both are George Gerbner. If you see a student note saying “Gerbner model”, do not attach it to a different person; the man who wrote the perception-centred general model in 1956 is the same one who years later studied television’s common message system and cultivation. Students who mark this false usually think the two topics are so far apart that they must look for two different “Gerbners”."
+      }
+    },
+    {
+      "id": "deep-origin-gerbner",
+      "section": "people-time",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: Gerbner’s formula, a ten-part sentence “akin to Lasswell’s”",
+      "body": "Gerbner’s article appeared in the third issue of volume 4 of *AV Communication Review*, in June 1956; today the journal continues as *Educational Technology Research and Development*. [[cite:gerbner-1956]]\n\nMcQuail and Windahl write that the model comes with an “almost Lasswellian” verbal formula: someone perceives an event and reacts in a situation; by some means makes available materials that carry a content in some form and context; and some consequence follows. Ten items, twice Lasswell’s five questions. But the important difference lies not in the number but in the starting point: Lasswell begins with “who?”, Gerbner with “someone perceives an event”. Reality and perception are the first link. [[cite:mcquail-windahl-1993]]\n\nAccording to the same source, Gerbner later used the model to explain the procedures of content analysis (1964); in the original article he shows that the model can also describe mixed human and machine communication and distinguish different research areas. The Cultural Indicators programme of later years (1969) can be read as an extension, at the level of message systems, of the same question about the fit between an event and the statement about it; that last link is our interpretation, not a sourced claim. [[cite:mcquail-windahl-1993]] [[cite:gerbner-1969]]"
+    },
+    {
+      "id": "deep-origin-maletzke",
+      "section": "people-time",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: where did Maletzke’s schema come from? The sources do not agree",
+      "body": "The German Wikipedia presents Maletzke’s field schema as an extension of Shannon and Weaver’s sender–receiver model, and says the word “field” alludes to field theory. [[cite:wikipedia-de-feldschema]] On the other hand, the entry on Maletzke in the Biographisches Lexikon der Kommunikationswissenschaft says the schema was developed on the basis of the widely quoted Lasswell formula and that effect was left out as a separate element; Ioni and Pstae report the same, relying on a 2002 interview with Maletzke: he took only the first four elements of Lasswell and did not fit effect into a separate box, because it is the fundamental problem of mass communication. [[cite:blexkom-maletzke]] [[cite:ioni-pstae-2017]]\n\nSo we give no firm answer to “did Maletzke extend Shannon or Lasswell?”. The best-evidenced link is the one to Lasswell, which rests on Maletzke’s own statement; the Shannon–Weaver link appears in some sources as an interpretation.\n\nTwo solid facts about the book: it is 311 pages long and was published by the Hans-Bredow-Institut; it was neither a doctoral thesis nor a habilitation, yet within a few years it became the standard work of the field. [[cite:bergsma-1964]] [[cite:blexkom-maletzke]] Maletzke later described the aim of the book as giving German research a conceptual framework; he also added that he should have been more careful with some terms, “Rezipient” for example. [[cite:blexkom-maletzke-interview]]"
+    },
+    {
+      "id": "claim-map",
+      "section": "claim",
+      "layer": "core",
+      "kind": "text",
+      "title": "Process models ask “how is it carried?”; these three ask other questions",
+      "body": "The Lasswell and Shannon–Weaver schemes you met in the previous lesson looked at a message’s journey from one end to the other. Process models such as those of Schramm, Berlo, Westley and MacLean, and Newcomb enriched the detail of that journey; they are the subject of another lesson. The shared claim of these three models is that there are other things to look at before and around the journey.\n\n- **Jakobson, language-centred:** A message does several jobs at once; which one do you count as dominant? Six factors, six functions. [[concept:jakobson-functions]]\n- **Gerbner, perception-centred:** Communication begins with someone *perceiving* an event; what is perceived is already incomplete. [[concept:gerbner-model]]\n- **Maletzke, social-field-centred:** Behind communicator and recipient stand a team, an organisation, an environment and an image of the other side. [[concept:maletzke-model]]\n\nA news bulletin raises three questions at once: what job is this bulletin doing (informing, reassuring, calling to action)? Which part of the event could the editor see? What environment stands behind the presenter and the viewer? Turkish sources do not always put these models in the same drawer; İplikçi (2015), for example, counts Gerbner among the “process school” models together with Shannon–Weaver, Lasswell, Newcomb and Westley–MacLean. Our grouping is a convenience, not the one right classification. [[cite:iplikci-2015]]",
+      "question": {
+        "id": "claim-map-q",
+        "type": "mcq",
+        "prompt": "A news editor simplifies the language of a story because she thinks most of her viewers are elderly. Which element of which model of this lesson explains this behaviour best?",
+        "options": [
+          "Jakobson: the metalingual function",
+          "Maletzke: the communicator’s image of the recipient",
+          "Gerbner: the turning of the event into E1",
+          "Shannon–Weaver: channel capacity"
+        ],
+        "answer": 1,
+        "explain": "The picture of the viewer in the editor’s head is Maletzke’s “communicator’s image of the recipient”, and it shapes the form of the message. The metalingual function means speaking about language itself (explaining a term, say); the decision to simplify is not a code explanation but an assumption about the recipient. Gerbner’s E1 is the perceived version of the event, not an image of the audience. Channel capacity is a technical limit; here the limit belongs not to technology but to imagination."
+      }
+    },
+    {
+      "id": "concepts-jakobson",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Jakobson: six factors, six functions",
+      "body": "When you say or write a sentence, six things are at work. Jakobson ties a function of language to each; the function shows which factor the message is *oriented to*. [[cite:jakobson-1960]] [[cite:nesterova-coskun-2023]] [[concept:speech-event-factors]]\n\n- **Context → referential function:** what the message speaks about. “The plane has left.”\n- **Addresser → emotive function:** the speaker’s attitude, feeling. “Oh no, the plane has left.”\n- **Addressee → conative function:** moving the person in front of you to act. “No entry without a mask.”\n- **Contact (channel) → phatic (channel-checking) function:** is the line open? “Hello, can you hear me?”\n- **Code → metalingual function:** talking about language, like a dictionary entry.\n- **Message → poetic function:** focusing on the message itself, on how it is said. “I like Ike.”\n\nInstead of memorising the functions from a list you can tell them apart with one question: *whom or what has the speaker turned to with this message?* To the world (context), to herself (addresser), to you (addressee), to the line (contact), to language itself (code), or to the structure of the sentence itself (message)?\n\nThe key sentence is Jakobson’s: no message has a single function; the difference between messages lies in the *ordering* of the functions. [[concept:jakobson-functions]]",
+      "question": {
+        "id": "concepts-jakobson-q",
+        "type": "mcq",
+        "prompt": "With the projector on, the lecturer turns to the back rows and asks “Can you hear me?” According to Jakobson, which function does this message perform?",
+        "options": [
+          "The conative function, because she asks the listeners for something",
+          "The phatic (channel-checking) function, because she is testing whether the line works",
+          "The referential function, because she asks for information about sound",
+          "The metalingual function, because she talks about language"
+        ],
+        "answer": 1,
+        "explain": "The question speaks neither about the world nor about language; it tests whether the communication line works, that is, it is oriented to contact: the phatic function. The conative function is tempting because something is being asked of the audience; but the conative tries to move the addressee to some behaviour, while here the aim is only to confirm that contact continues. The referential option assumes she is seeking “information” about sound; but the lecturer’s concern is not the sound itself but that the communication carries on."
+      }
+    },
+    {
+      "id": "concepts-gerbner",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Gerbner: one event, two perceptions, one statement",
+      "body": "The letters in Gerbner’s model look a bit like code at first glance, but they are all characters in one story. [[cite:gerbner-1956]] [[cite:mcquail-windahl-1993]]\n\n- **E (event):** the event, what happens in outside reality.\n- **M:** the perceiver; it can be a person or a machine. (McQuail and Windahl’s example: a thermostat in a heating system.)\n- **E1:** the event as perceived by M. Not the whole of E, but the version visible from M’s point of view.\n- **SE:** the statement M produces about the event. S stands for form and E for content; the statement is content that has taken on a particular form.\n- **M2 and SE1:** the second perceiver who receives the statement and perceives it in his or her own frame, and that perception.\n\nThere are two separate dimensions. **In the perceptual dimension**, three things determine how the event appears to M: selection, context and availability of the event. **In the means and controls dimension**, what matters is by what means and under how much control the statement M produces is spread. [[concept:perception-in-communication]]\n\nThe strength of the model is that its parts can be used like building blocks: you can draw a simple chat and a many-linked news chain with the same letters.",
+      "question": {
+        "id": "concepts-gerbner-q",
+        "type": "mcq",
+        "prompt": "A thermostat measures the room temperature and sends a command to the heater. In Gerbner’s language, what does the thermostat correspond to?",
+        "options": [
+          "SE, because a command is a statement",
+          "M, because the perceiver can be a person or a machine",
+          "E, because temperature is outside reality",
+          "M2, because the heater receives the command"
+        ],
+        "answer": 1,
+        "explain": "The thermostat perceives the temperature, and it may be a machine: it is M itself. The temperature stays in the place of the event (E). The command is the statement the thermostat produces (SE); the heater stands on the receiving side. The first option is tempting because the command is a concrete output; but mixing up the producer of SE with its product is a common mistake: the thermostat represents the producer, not the product."
+      }
+    },
+    {
+      "id": "concepts-maletzke",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Maletzke: four elements and the invisible strings between them",
+      "body": "Maletzke’s schema has four familiar boxes: communicator (*Kommunikator*), statement (*Aussage*), medium (*Medium*) and recipient (*Rezipient*). The real action is in the strings stretched between them. [[cite:mcquail-windahl-1993]] [[cite:wikipedia-de-feldschema]]\n\n- **Self-image:** how does the communicator see herself: as an interpreter of events, a champion of a cause, or merely a mirror?\n- **Image of the recipient:** how does the communicator imagine the audience across from her? The recipient in turn meets the communicator and the medium with an image.\n- **Constraint of the medium (*Zwang des Mediums*):** each medium shapes the message with its own possibilities and limits: broadcast time, text length, the demand for sound or picture.\n- **Social environment:** the communicator is in a team and an organisation; the recipient in a family and a circle of friends.\n- **Para-feedback:** the recipient’s reaction reaches the communicator only indirectly: reader letters, phone calls, ratings, surveys.\n\nMaletzke’s definition of mass communication is built on the same logic: messages are given publicly, by technical means, indirectly and one-sidedly to a dispersed audience. [[concept:mass-communication]] He does not make effect a separate box; effect stays inside the recipient’s process of selecting and experiencing. [[cite:blexkom-maletzke]]",
+      "question": {
+        "id": "concepts-maletzke-q",
+        "type": "mcq",
+        "prompt": "A radio reporter can wrap up a story in only 90 seconds on live air, so he cuts the details. In Maletzke’s schema, which element is responsible for the cut?",
+        "options": [
+          "Para-feedback",
+          "The constraint of the medium",
+          "The recipient’s self-image",
+          "Effect analysis"
+        ],
+        "answer": 1,
+        "explain": "Radio’s broadcast time and form force the communicator to shape the content: this is the constraint of the medium. Para-feedback is the weak reaction returning from recipient to communicator (letters, ratings); it does not cause the story to be shortened. The recipient’s self-image sits on the recipient’s side and affects what he or she chooses. Effect analysis is one of Lasswell’s research areas, not one of Maletzke’s pressure elements."
+      }
+    },
+    {
+      "id": "deep-phatic",
+      "section": "concepts",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: is phatic communion the same in every culture?",
+      "body": "Describing “phatic communion”, Malinowski wrote that to a natural man another’s silence is not reassuring but, on the contrary, threatening, and that the word makes the first bond; talk about the weather relieves this tension. [[cite:senft-2009]]\n\nThe anthropologist Dell Hymes objected that this is not universal: according to the ethnographic record, phatic communication is far from universally an important or even accepted motive. As an example, according to a source he cites, the Paliyans of southern India talk very little and talkative people there are regarded as abnormal. David Crystal also noted that the weather is not a conversation filler in every culture and that topics vary. Senft, however, finds this criticism partly incoherent: giving an outside reason when taking leave also occurs among the English, so even if the form varies the function may be kept. [[cite:senft-2009]]\n\nThis debate indirectly sheds light on Jakobson’s phatic function too: the function is presented as a universal category, but “what counts as phatic” may vary from culture to culture. You will see a digital example later: Kulkarni’s study of instant messaging (the deep card of the evidence section)."
+    },
+    {
+      "id": "deep-names",
+      "section": "concepts",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: the names in Turkish and translation traps",
+      "body": "The same model circulates in Turkish under different names; here are the main variants you may meet in exams and papers.\n\n**Jakobson.** Nesterova Coşkun (2023) writes that the doctrine is mostly called “iletişim şeması” (communication scheme); in the English abstract of her article the name is spelled “Jacobson”. The factors there are gönderici, alıcı, bağlam, ileti, kanal, kod; the functions göndergesel, duygusal, çağrı, kanal teyidi (also called irtibat teyidi), metadil and poetik. Dalak (2021) gives the same list as gönderen–gönderilen (alıcı), gönderge, mesaj, kanal, kod and the functions duygu, çağrı, gönderge, şiir/sanat, ilişki and üstdil. So you can learn the name of the function without ever seeing the word *fatik*: “kanal teyidi” or “ilişki işlevi” is the same thing. [[cite:nesterova-coskun-2023]] [[cite:dalak-2021]]\n\n**Gerbner.** İplikçi (2015) says “Gerbner Modeli (1956)”; since the article’s original title is “Toward a general model of communication”, “genel iletişim modeli” is our translation. [[cite:iplikci-2015]] [[cite:gerbner-1956]]\n\n**Maletzke.** The German name is *Feldschema der Massenkommunikation*, literally “field schema of mass communication”. In Turkish it is mostly called “Maletzke modeli”. For *Kommunikator* this course says “iletici”; “gönderici” or “iletişimci” may also be used (details in our terminology note). For *Rezipient* we say “alıcı”. [[cite:wikipedia-de-feldschema]]\n\n**A trap.** The word “function” appears in three separate lists: Lasswell’s three functions, Jakobson’s six functions and the entertainment addition usually attributed to Wright. All are called “function”, but none is the same thing. [[concept:communication-functions]]"
+    },
+    {
+      "id": "assumptions-three",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "text",
+      "title": "The silent assumptions of the three models",
+      "body": "Every model treats some things as “given” inside the scheme it draws. Without seeing them it is hard either to criticise or to defend the model.\n\n**Jakobson** assumes the following. All six factors are present in every verbal act. Addresser and addressee share a code at least partly; if the code is not shared at all, the message does not work. The functions live together and the difference lies in their ordering. [[cite:nesterova-coskun-2023]] [[cite:varenne-jakobson-excerpt]]\n\n**Gerbner** assumes the following. Perception is selective and incomplete. Communication systems are open, that is, influenced from outside. The same building blocks suffice to draw both simple and complex communication situations. [[cite:mcquail-windahl-1993]]\n\n**Maletzke** assumes the following. Mass communication is public, technically mediated, indirect and one-way; the recipient is a dispersed audience. The mass media work like a relay between the messages of social actors. The psychological and social characteristics of communicator and recipient are inseparable parts of the process; feedback, however, is weak. [[cite:ioni-pstae-2017]] [[cite:mcquail-windahl-1993]]\n\nThere is also a shared assumption, and this is our observation: all three *map* a relationship; none proposes a cause–effect claim of the kind “if this happens, that follows”. So they should be looked at as maps, not as theories. We will unpack this in the critique section.",
+      "question": {
+        "id": "assumptions-three-q",
+        "type": "tf",
+        "prompt": "True or false: Jakobson’s model assumes that a message contains only one function.",
+        "answer": false,
+        "explain": "False. Jakobson says the opposite: no message is limited to a single function; the difference lies in which function is dominant, that is, in the hierarchy. The “single function” mistake comes from taking the six functions for six separate kinds of communication. In fact one and the same sentence can carry a referential, an emotive and a poetic layer at once."
+      }
+    },
+    {
+      "id": "how-jakobson-lab",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Lab: split a media message into six functions",
+      "body": "Pick a message: a news headline, a notification, a slogan. Apply the following five steps.\n\n1. **Write it down.** Copy the message word for word. It should be a documented, that is, really existing text; do not summarise it in your own sentences.\n2. **Identify the factors.** Who is the addresser, who the addressee, what is the context, which code and channel?\n3. **Look for fingerprints.** What do clues such as exclamations, vocatives, commands, greetings, definitions, repetitions and sound play point to?\n4. **Rank.** Order the functions by importance; find the dominant one.\n5. **Test.** If you remove the top function, what does the message leave behind?\n\n**Worked example: “I like Ike”.** In Jakobson’s own analysis the poetic function, through its sound structure, reinforces the slogan’s effect. [[cite:varenne-jakobson-excerpt]] Our reading: there is also an emotive function (“I like” declares an attitude), a conative one (it is an election slogan, asking for votes) and a very weak referential one (a reference to a candidate). Remove the poetic function and “I like Ike” leaves “I like Ike”: the slogan is still understood but no longer sticks in the mind.\n\n**A second example.** Nesterova Coşkun notes that Rumi’s *Masnavi* opens with “Listen to this reed, what it tells”, that the text makes contact with the reader and addresses him from the very first line, so that the phatic and conative functions are intertwined. [[cite:nesterova-coskun-2023]]",
+      "question": {
+        "id": "how-jakobson-lab-q",
+        "type": "mcq",
+        "prompt": "A municipal announcement: “Dear fellow citizens, water will be cut off tomorrow between 09:00 and 15:00.” Which function is dominant in this message?",
+        "options": [
+          "The conative function, because it addresses “fellow citizens”",
+          "The referential function, because the main job is reporting a fact",
+          "The emotive function, because “dear” declares an attitude",
+          "The poetic function, because the message has an orderly structure"
+        ],
+        "answer": 1,
+        "explain": "The message’s main aim is to convey the date and time: the referential function. “Dear fellow citizens” gives a small touch to contact and to the addressee; but if you remove the address the message still does its job, whereas if you remove the information it does not. The conative option is tempting because of the address and the implied “be prepared”; but it is not dominant, because the backbone of the message is a fact. The poetic option confuses “having a structure” with “focusing on its own structure”."
+      }
+    },
+    {
+      "id": "how-gerbner-steps",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Gerbner’s chain, step by step",
+      "body": "Let us walk through Gerbner’s own example with a raindrop. [[cite:mcquail-windahl-1993]] [[cite:gerbner-1956]]\n\n1. **An event happens (E).** Moisture in the air condenses; something is really going on outside.\n2. **M perceives (E1).** The perceiver sees the event within his or her own selectivity, context and access: “rain”. The resulting E1 is not the event itself but a slice of it.\n3. **M produces the statement (SE).** He says “it’s raining”. A form (S) and a content (E) are chosen here; there is also a means and a level of control: is he talking face to face, writing a message, publishing a newspaper?\n4. **The statement circulates.** In the means and controls dimension the statement moves within the possibilities and limits of the channels chosen.\n5. **M2 perceives (SE1).** The listener perceives the statement, in his or her own frame, as “it’s raining”; his or her own selectivity and context are at work.\n\nAt each arrow there may be a loss or a transformation: from E to E1, from E1 to SE, from SE to SE1. You can extend the chain: if M2 passes the statement on to someone else, a new perception–production–perception link opens (this extension is our inference).\n\nThink of a news story: the event (E), the part the reporter could see (E1), the story he wrote (SE), what the reader understood (SE1). Four places, four separate points of loss.",
+      "question": {
+        "id": "how-gerbner-steps-q",
+        "type": "order",
+        "prompt": "Put Gerbner’s chain in the right order.",
+        "items": [
+          "An event happens (E)",
+          "The perceiver perceives the event with his or her own selectivity (E1)",
+          "The perceiver produces a statement about the event by some means (SE)",
+          "A second perceiver perceives the statement in his or her own frame (SE1)"
+        ],
+        "explain": "Gerbner’s chain starts with the event; first comes perception, then production, and last the second perception. The most common mistake is to put the statement (SE) before the perception (E1): the statement is produced about the perceived event; an event cannot be expressed before it is perceived. That is why in Gerbner’s model the question “who, what, how much could they see?” comes before the question “who?”."
+      }
+    },
+    {
+      "id": "how-maletzke-lab",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Lab: place a documented broadcast in Maletzke’s field",
+      "body": "Let us pick a documented broadcast: the *Mercury Theatre on the Air* programme that CBS radio aired on the evening of Sunday, 30 October 1938. It was a dramatised Martian invasion, told with news-bulletin interludes. [[cite:pooley-socolow-2013-slate]] [[cite:pooley-socolow-2013-ijoc]]\n\nNow fill in the field:\n\n- **Communicator:** the team that made the radio play and the organisation that aired it, CBS. (For Maletzke the communicator is not one person but a team and an organisation.)\n- **Statement:** a fictional event, told in the form of news bulletins.\n- **Medium:** radio; sound only and a programme flow. The constraint of the medium determines the form here: everything through the ear, in a single stream.\n- **Recipient:** a dispersed audience. That evening a listener-measurement service (Hooper) surveyed 5,000 households; only 2 per cent said they were listening to “a radio play” or to the Orson Welles programme. The rest were listening to something else; one of the rival programmes was Edgar Bergen’s comedy show. [[cite:pooley-socolow-2013-slate]]\n- **Para-feedback:** next-day newspaper front pages; the questionnaire that CBS’s Frank Stanton wrote that night and the fieldwork that began the next morning. [[cite:pooley-socolow-2013-ijoc]]\n\nThis placement is an *interpretive frame*: it does not answer “was there a panic?”. But it organises the questions “who spoke to whom, through which medium and with what image, and where did the feedback come from?”",
+      "question": {
+        "id": "how-maletzke-lab-q",
+        "type": "mcq",
+        "prompt": "The morning after the broadcast, survey fieldwork began for CBS. In Maletzke’s schema, what does this fieldwork stand in for?",
+        "options": [
+          "The constraint of the medium",
+          "The communicator’s self-image",
+          "Para-feedback, filling the absence of the instant feedback of face-to-face talk",
+          "The recipient’s image of the medium"
+        ],
+        "answer": 2,
+        "explain": "In mass communication the recipient cannot answer the communicator on the spot; the communicator learns of the reaction only indirectly (letters, measurements, surveys). The next morning’s fieldwork is an institutional organisation of this indirect route. The constraint of the medium is radio’s formal limits, not a measurement. The communicator’s self-image and the recipient’s image of the medium are images; a survey tries to collect not an image but real reactions."
+      }
+    },
+    {
+      "id": "evidence-uses",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "text",
+      "title": "The evidence for models: having been put to use",
+      "body": "A theory makes a claim of the kind “if this happens, that follows” and is tested; these three models mostly offer a framework. So their evidence is of another kind: examples of the model actually being used and proving useful. You saw this distinction in detail in the lesson [[lesson:what-is-theory]].\n\n- **Jakobson:** Kulkarni (2014) investigated the phatic function in instant messaging: she collected 60 chats from 20 participants and used conversation analysis to look at how contact is established, maintained and ended. [[cite:kulkarni-2014]] Dalak (2021) analysed a French play with Jakobson’s model. [[cite:dalak-2021]] Nesterova Coşkun (2023) explained each function with Turkish examples. [[cite:nesterova-coskun-2023]]\n- **Gerbner:** According to McQuail and Windahl the model was also used to explain the procedures of content analysis (Gerbner 1964); it is also seen as suited to analysing situations such as testimony in court (how accurately did the witness perceive the event, how well does the statement match the perception?). [[cite:mcquail-windahl-1993]]\n- **Maletzke:** The model became the skeleton of the book itself; McQuail and Windahl write that it can be treated as a “checklist” and that it reminds a communicator of the need for a clear definition of the intended audience. [[cite:mcquail-windahl-1993]] According to Ioni and Pstae, Burkart (1997) adapted the model to online communication. [[cite:ioni-pstae-2017]]\n\nEach example shows that a model is a *tool for producing questions*; none of them proves that the model is “true”.",
+      "question": {
+        "id": "evidence-uses-q",
+        "type": "mcq",
+        "prompt": "A researcher wants to count and examine how short replies such as “uh-huh, I’m listening” keep a chat app conversation going. Which model guides her most?",
+        "options": [
+          "Maletzke: para-feedback",
+          "Jakobson: the phatic (channel-checking) function",
+          "Gerbner: the turning of E into E1",
+          "Shannon: channel capacity"
+        ],
+        "answer": 1,
+        "explain": "Short “I’m listening” replies keep the line of the conversation open: this is exactly the field of the phatic function, and Kulkarni’s study looks at just such means of keeping contact going. Para-feedback is tempting because it too is a kind of “reaction”; but in Maletzke it is the indirect return of a dispersed audience to the communicator in mass communication, not the instant cues inside a two-person chat. Gerbner looks at perception, Shannon at carrying capacity."
+      }
+    },
+    {
+      "id": "deep-kulkarni",
+      "section": "evidence",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: what did Kulkarni’s study show, and what did it not?",
+      "body": "Kulkarni’s article was published in *Discourse & Communication* in 2014 (online in November 2013) and aims to expand Jakobson’s definition of the phatic function: the phatic is treated as the maintenance of contact. [[cite:kulkarni-2014]]\n\n**Design.** The researcher adapts conversation analysis to textual chat. The data are 60 chats collected from 20 participants; the participants write mixing English with Indian languages such as Marathi and Hindi. The openings, middles and closings of the chats are examined separately.\n\n**Finding (at abstract level).** To signal attention, interest and agreement, participants use back-channels, evaluations, expressives and questions; these are a significant part of the work of establishing, maintaining and ending contact. So the words one might think of as “empty” are in fact serious interactional labour.\n\n**Limits.** We have only the abstract; we have not read the full text. The abstract gives neither counts of the most-used devices nor a measure of effect. The sample is small and from one language community; before carrying the results to other cultures, remember the warning of the previous deep card (is phatic communion the same in every culture?). The study shows not that Jakobson’s model is *true* but that the phatic function is useful as an analytical tool."
+    },
+    {
+      "id": "crit-limits",
+      "section": "critique",
+      "layer": "core",
+      "kind": "text",
+      "title": "Criticisms: each model has a different blind spot",
+      "body": "The criticism of these three models does not fit into one sentence; each gets stuck in a different place.\n\n**Jakobson.** In a lecture text published on Semioticon (author not stated), two separate points stand out. First, Jakobson says surprisingly little that is explicit about the conative function, and his examples of the phatic function (birds, babies) are left unfinished. Second, Baudrillard’s critique of the phatic function: for him “contact for contact’s sake” becomes an empty form in information networks. [[cite:semioticon-jakobson-poetic]] Nesterova Coşkun also reminds us that the model was not developed only for communication research; expecting a “communication theory” from it is therefore a little unfair. [[cite:nesterova-coskun-2023]]\n\n**Gerbner.** İplikçi (2015) writes that the model looks as if it is oriented to meaning but remains an extension of the Shannon–Weaver model: it does not ask how meaning arises, takes the form of the message and the codes as given, and does not go beyond the process of transmission. [[cite:iplikci-2015]] The defence is McQuail and Windahl’s stress on the model’s flexibility and on its showing that perception is subjective and selective. [[cite:mcquail-windahl-1993]]\n\n**Maletzke.** McQuail and Windahl write that Maletzke’s image of the person is a complex one (communicator and recipient behaviour is a function of many factors) and that this complexity is an important reason why mass communication research has been fairly unsuccessful in explaining and predicting outcomes; they add that the schema is relatively dated but remains useful as a checklist. [[cite:mcquail-windahl-1993]] Ioni and Pstae also report a methodological criticism: the criteria used in building the model are not consistent and unified. [[cite:ioni-pstae-2017]]",
+      "question": {
+        "id": "crit-limits-q",
+        "type": "mcq",
+        "prompt": "Which is the criticism İplikçi (2015) makes of Gerbner’s model?",
+        "options": [
+          "That the model leaves the recipient alone and passive",
+          "That it does not ask how meaning arises and takes the form of the message and the codes as given",
+          "That it does not draw effect as a separate box",
+          "That it does not calculate channel capacity"
+        ],
+        "answer": 1,
+        "explain": "İplikçi writes that the model looks oriented to meaning but remains an extension of Shannon–Weaver, not asking how meaning arises. The first option is tempting because it is the general criticism of linear models; but in Gerbner the perceiver is already active and selective. The third option is a correct description of Maletzke, not of Gerbner. The fourth option loads a concept of Shannon’s onto Gerbner."
+      }
+    },
+    {
+      "id": "crit-myth",
+      "section": "critique",
+      "layer": "core",
+      "kind": "myth",
+      "title": "Myth: “The model was refuted, so throw it away”",
+      "body": "**What people assume.** A model is tested like a theory; a single counter-example refutes it. E.g.: “Feedback on the internet is instant; Maletzke’s ‘one-way’ schema has been refuted.”\n\n**What the evidence says.** McQuail and Windahl define a model as a consciously simplified graphic description of a piece of reality. A model’s job is to show the main elements and the relations between them; it has three uses: it organises, it helps explanation (a heuristic function) and sometimes it gives a basis for prediction. [[cite:mcquail-windahl-1993]] They add that in communication research old models have generally been discarded or modified quickly.\n\nSo if the “one-way” assumption of Maletzke’s schema does not hold in the new environment, the thing to do is to change that assumption and adapt the schema; according to Ioni and Pstae, Burkart adapted the model for online communication in just this way. [[cite:ioni-pstae-2017]] A model is a map: when the road changes the map is updated, but the map still helps you find your way. Choosing which model suits which question is also a skill. Recall the distinction in the lesson [[lesson:what-is-theory]]: a model mostly shows “how it works”, not “why”.",
+      "question": {
+        "id": "crit-myth-q",
+        "type": "mcq",
+        "prompt": "A student says, “Likes arrive instantly on social media, so Maletzke’s model should be thrown out.” How does this argument misread the model?",
+        "options": [
+          "Models can never be updated under any circumstances, so the argument is right",
+          "It treats the model as a proposition refuted by a single counter-example, like a theory; but its assumption (weak, indirect feedback) can be adapted",
+          "Maletzke ignored feedback entirely, so the argument is invalid",
+          "Social media is not mass communication, so the model does not cover it"
+        ],
+        "answer": 1,
+        "explain": "A model works like a map: if one assumption (the weakness of feedback) fails in a new environment, that part is adapted; the model is not thrown out as a whole. The first option treats models as unchangeable, whereas McQuail and Windahl say old models are often modified. The third option is false: Maletzke put feedback (para-feedback) into the schema in the first place. The fourth option presents a contested claim as a ready-made answer."
+      }
+    },
+    {
+      "id": "deep-model-theory",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: the line between a model and a theory",
+      "body": "In the lesson [[lesson:what-is-theory]] we defined a model as a schema that simplifies and shows the parts of a process and their relations, and said it should not be confused with a theory. McQuail and Windahl refine this distinction at several points. [[cite:mcquail-windahl-1993]]\n\n**Structural and dynamic.** Some models show only structure, like a diagram listing the parts of a radio set. Others also show energy, force and the influence of one part on another. Most of the models in their book are of this second kind, because all communication is always somewhat a process.\n\n**Risk.** A researcher who uses a model may become trapped in one frame and defend the model against attack; the authors say this has probably not happened much in communication research, where old models were quickly discarded and changed. A subtler risk is a model’s (or a series of models’) keeping hidden assumptions alive: drawing communication, for example, as a one-way process in which a sender deliberately tries to influence a receiver may make the circularity and negotiability of communication invisible.\n\n**Choice.** There is no model that suits every purpose and every level; the right model must be chosen for the purpose. That is why the three models of this lesson should be used not by asking “which is correct?” but “which for which question?”: Jakobson for the function of a message, Gerbner for perception and the event–statement relation, Maletzke for the social and psychological environment of mass communication."
+    },
+    {
+      "id": "today-tools",
+      "section": "today",
+      "layer": "core",
+      "kind": "text",
+      "title": "Today: one question from each model",
+      "body": "Instead of memorising these three models and shelving them, you can keep them in your pocket as three questions.\n\n**Jakobson: “What job is this message doing?”** In messaging the phatic function is a world of its own: Kulkarni’s study shows that participants put serious effort, through short reactions, into establishing and keeping contact. [[cite:kulkarni-2014]] Nesterova Coşkun links emoji to the emotive function and reports that as of March 2019 Unicode had recorded 3,019 emoji and that, according to one study, nearly half of the text messages on Instagram contain emoji. [[cite:nesterova-coskun-2023]] These numbers are what the article reports; they are not our own measurement.\n\n**Gerbner: “Which part of the event is this news showing?”** At the societal level, if you take E as potential news, M as the media, SE as media content and M2 as the audience, these questions follow: how well do the stories the media tell match reality, and how well does the audience understand the content? [[cite:mcquail-windahl-1993]]\n\n**Maletzke: “Who, in what environment, with what image?”** The model works like a checklist: it reminds you especially of the clear definition of the target audience and of the communicator’s image with the audience. [[cite:mcquail-windahl-1993]]\n\nOur interpretation (not a sourced finding): on platforms, likes and comments have sped up feedback; Maletzke’s assumption of “weak, indirect feedback” must be re-examined in these environments, but the question “what environment stands behind whom?” is still valid.",
+      "question": {
+        "id": "today-tools-q",
+        "type": "mcq",
+        "prompt": "A content creator changes content quickly according to followers’ comments and likes. Which assumption of Maletzke’s schema is most in question?",
+        "options": [
+          "That the communicator works within a team and an organisation",
+          "That feedback is weak and indirect",
+          "That the recipient has an image",
+          "That the medium shapes the recipient"
+        ],
+        "answer": 1,
+        "explain": "Likes and comments make the feedback that is “indirect and delayed” in mass communication fast and visible; so the assumption most shaken is the weakness of feedback. The other three assumptions (team and organisation, images, the constraint of the medium) largely keep their validity on platforms too; algorithms may even strengthen the medium’s constraint (this second inference is ours)."
+      }
+    },
+    {
+      "id": "exam-patterns",
+      "section": "exam",
+      "layer": "core",
+      "kind": "text",
+      "title": "This is how exams ask it",
+      "body": "**Common question patterns**\n\n- “The referential, emotive, conative, poetic, phatic (channel-checking) and metalingual functions belong to which researcher?” → Roman Jakobson (1960; presented 1958).\n- “Which function is focus on how the message is said?” → poetic. “Testing the channel?” → phatic (kanal teyidi).\n- “Which model begins communication with the perception of an event?” → Gerbner (1956).\n- “Which model shows communicator, message, medium, recipient and the images and pressures between them?” → Maletzke (1963).\n- Matching: language-centred → Jakobson; perception-centred → Gerbner; social-field-centred → Maletzke.\n\n**Tempting wrong answers**\n\n- Confusing Jakobson’s six functions with Lasswell’s three (surveillance, correlation, transmission). The same word “function”, different lists. [[concept:communication-functions]]\n- Mentioning Gerbner only for cultivation, or placing the cultivation studies in 1956.\n- Thinking effect is a separate box in Maletzke. Maletzke takes the first four elements of Lasswell.\n- Merging Riley and Riley’s 1959 social system approach with Maletzke’s 1963 schema. [[concept:riley-model]]\n- Years: Gerbner 1956, Jakobson 1960 (paper 1958), Maletzke 1963.\n\n**Alternative names in Turkish**\n\n- Jakobson: Jakobson modeli, iletişim şeması, dilin işlevleri; for the phatic function kanal teyidi, ilişki işlevi; for the metalingual metadil, üstdil. [[cite:nesterova-coskun-2023]] [[cite:dalak-2021]]\n- Gerbner: Gerbner Modeli (1956), genel iletişim modeli. [[cite:iplikci-2015]]\n- Maletzke: Maletzke modeli, kitle iletişiminin alan şeması. Some sources count Gerbner among the “process models”. [[cite:iplikci-2015]]",
+      "question": {
+        "id": "exam-patterns-q",
+        "type": "mcq",
+        "prompt": "Exam question: “Which model presents mass communication as a field formed by the elements communicator, message, medium and recipient together with factors such as the communicator’s self-image, the image of the recipient and the constraint of the medium?” Which is the right answer?",
+        "options": [
+          "Jakobson’s six functions",
+          "Gerbner’s general model of communication",
+          "Maletzke’s field schema",
+          "The Riley and Riley model"
+        ],
+        "answer": 2,
+        "explain": "Communicator, message, medium, recipient and the images and medium pressure between them are Maletzke’s field schema. Riley and Riley is a tempting option because they too bring the social environment forward; but their approach is about primary and secondary groups and the social structure; medium pressure and images are elements specific to Maletzke. Gerbner starts from perception, while Jakobson is concerned with the functions of the message."
+      }
+    },
+    {
+      "id": "summary",
+      "section": "summary",
+      "layer": "core",
+      "kind": "summary",
+      "title": "Summary card",
+      "body": "- **Shared concern:** Three additional views to the process models’ question of “the message’s journey”: language, perception, social field.\n- **Jakobson (1960):** Six factors (addresser, addressee, context, message, contact, code) and six functions (emotive, conative, referential, poetic, phatic/channel-checking, metalingual). No message has a single function; the difference is in the hierarchy. The first three functions come from Bühler.\n- **Gerbner (1956):** An event (E) is perceived (E1), a statement is produced (SE), a second perceiver perceives it (SE1). A perceptual dimension and a means-and-controls dimension.\n- **Maletzke (1963):** Communicator, message, medium, recipient; self-image, image of the recipient, medium constraint, social environment, weak feedback. Effect is not a separate box.\n- **Riley and Riley (1959):** Sender and receiver sit inside primary and secondary groups and the social structure.\n- **Model ≠ theory:** A model is a simplified map; it organises, works heuristically and carries hidden assumptions.\n- **Today:** The phatic function in messaging, Gerbner in the fit between news and reality, Maletzke as a checklist.\n- **Exam:** the years 1956 / 1960 / 1963; Jakobson’s functions and Lasswell’s functions are different lists; alternative Turkish names.",
+      "question": {
+        "id": "summary-q",
+        "type": "tf",
+        "prompt": "True or false: In Maletzke’s schema effect appears as a separate box, as in Lasswell’s.",
+        "answer": false,
+        "explain": "False. Maletzke takes the first four elements of Lasswell’s formula (communicator, message, medium, recipient) and does not draw effect as a separate box; effect stays inside the recipient’s process of selecting and experiencing. A student who says “he drew effect too” is mixing up Lasswell and Maletzke."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Which of the following questions belongs most to Jakobson’s model among the three models of this lesson?",
+      "options": [
+        "From whom to whom, through which channel did this message travel?",
+        "What job is this message doing: giving information, declaring feeling, calling to action, keeping contact?",
+        "Which part of this event was perceived?",
+        "Which organisation and team stand behind this broadcast?"
+      ],
+      "answer": 1,
+      "explain": "The second option is Jakobson’s function question. The first is close to the question of Lasswell and the other process models (who, through which channel, to whom). The third is Gerbner’s perception question, the fourth Maletzke’s team-and-organisation question. The first option is tempting because Jakobson’s scheme also has addresser, addressee and contact; but Jakobson asks what these elements *do*, not about the journey."
+    },
+    {
+      "id": "q2",
+      "type": "tf",
+      "prompt": "True or false: three of Jakobson’s six functions (emotive, conative, referential) correspond to three functions Karl Bühler had distinguished earlier.",
+      "answer": true,
+      "explain": "True. Bühler’s expression (Ausdruck), appeal (Appell) and representation (Darstellung) functions correspond to Jakobson’s emotive, conative and referential functions; Jakobson added the poetic, phatic and metalingual functions to the three. Students who mark this false usually think all six functions were Jakobson’s discovery; but Bühler’s 1934 *Sprachtheorie* and Malinowski’s concept of phatic communion existed before Jakobson."
+    },
+    {
+      "id": "q3",
+      "type": "match",
+      "prompt": "Match Jakobson’s six factors with the function oriented to each.",
+      "pairs": [
+        [
+          "Context",
+          "Referential function"
+        ],
+        [
+          "Addresser",
+          "Emotive function"
+        ],
+        [
+          "Addressee",
+          "Conative function"
+        ],
+        [
+          "Contact (channel)",
+          "Phatic (channel-checking) function"
+        ],
+        [
+          "Code",
+          "Metalingual function"
+        ],
+        [
+          "Message",
+          "Poetic function"
+        ]
+      ],
+      "explain": "Context speaks of the world (referential), the addresser carries an attitude (emotive), the addressee is moved to act (conative), contact is tested (phatic), the code is explained (metalingual), the message itself comes to the fore (poetic). The pair most often confused is the functions of contact and code: the phatic function tests the line, the metalingual function tests the language. “Is there sound on the line?” and “What does this word mean?” are not the same job."
+    },
+    {
+      "id": "q4",
+      "type": "order",
+      "prompt": "Put the events in chronological order (oldest to newest).",
+      "items": [
+        "Malinowski introduces “phatic communion” (1923)",
+        "Bühler’s *Sprachtheorie* (1934)",
+        "Lasswell’s five questions (1948)",
+        "Gerbner’s general model of communication (1956)",
+        "Publication of Jakobson’s “Closing Statement” (1960)",
+        "Maletzke’s *Psychologie der Massenkommunikation* (1963)"
+      ],
+      "explain": "The order: 1923 Malinowski, 1934 Bühler, 1948 Lasswell, 1956 Gerbner, 1960 Jakobson, 1963 Maletzke. The most common mistake is to put Gerbner after Jakobson; because Jakobson’s text was delivered in 1958 it seems earlier, but it was published in 1960. Reversing Malinowski and Bühler is also common: Malinowski 1923, Bühler 1934."
+    },
+    {
+      "id": "q5",
+      "type": "cloze",
+      "prompt": "Complete Maletzke’s schema.",
+      "text": "Maletzke takes {{1}} of Lasswell’s elements and does not draw {{2}} as a separate box. Each medium shapes communicator and recipient through its own {{3}}; the recipient’s reaction reaches the communicator only through {{4}}.",
+      "blanks": [
+        {
+          "options": [
+            "the first four",
+            "the last three",
+            "all five"
+          ],
+          "answer": 0
+        },
+        {
+          "options": [
+            "effect",
+            "the channel",
+            "the recipient"
+          ],
+          "answer": 0
+        },
+        {
+          "options": [
+            "constraint",
+            "noise",
+            "redundancy"
+          ],
+          "answer": 0
+        },
+        {
+          "options": [
+            "indirect, weak feedback",
+            "instant feedback",
+            "no channel at all"
+          ],
+          "answer": 0
+        }
+      ],
+      "explain": "Maletzke takes the first four elements of Lasswell (communicator, message, medium, recipient) and does not make effect a separate box. The medium exerts a constraint with its possibilities and limits. The recipient’s reaction arrives as indirect and weak feedback such as letters, phone calls or measurements. “Noise” and “redundancy” are Shannon’s concepts; a student who attaches them to Maletzke is mixing up the two models."
+    },
+    {
+      "id": "q6",
+      "type": "case",
+      "scenario": "A television channel is preparing a flood story. The reporter could see only the street of one neighbourhood. The editor thinks most viewers watch the bulletin while eating dinner at home, and fits the story into 90 seconds. At the end of the bulletin the presenter says, “Please do not go to the area, and keep watching us.” (Hypothetical scenario.)",
+      "parts": [
+        {
+          "id": "q6a",
+          "type": "mcq",
+          "prompt": "In Gerbner’s schema, what does the reporter’s seeing only one street correspond to?",
+          "options": [
+            "E: the event itself",
+            "E1: the event as perceived by M, incomplete",
+            "SE1: the second perceiver’s perception",
+            "The means and controls dimension"
+          ],
+          "answer": 1,
+          "explain": "The part the reporter could see is the perceived and selected slice of the event (E: the whole flood): E1. E is the whole event, not the reporter’s view. SE1 is the perception of the person watching the story. The means and controls dimension concerns how the story will be conveyed, not how the event was seen."
+        },
+        {
+          "id": "q6b",
+          "type": "mcq",
+          "prompt": "In Maletzke’s schema, which element is fitting the story into 90 seconds?",
+          "options": [
+            "The constraint of the medium",
+            "Para-feedback",
+            "The recipient’s self-image",
+            "The social environment outside the team"
+          ],
+          "answer": 0,
+          "explain": "Broadcast time is one of the limits with which the medium shapes the message: the constraint of the medium. Para-feedback is the indirect reaction returning from the recipient to the communicator. The recipient’s self-image lies on the viewer’s side. The editor’s picturing the viewer as “eating dinner at home” is the communicator’s image of the recipient, an element separate from the time limit."
+        },
+        {
+          "id": "q6c",
+          "type": "mcq",
+          "prompt": "Which of Jakobson’s functions does the presenter’s “Please do not go to the area” bring to the fore?",
+          "options": [
+            "Referential",
+            "Conative",
+            "Poetic",
+            "Metalingual"
+          ],
+          "answer": 1,
+          "explain": "This sentence, in the imperative, wants to keep the viewer from a behaviour and is oriented to the addressee: the conative function. The referential function would give information about the flood; the poetic would be used for sound and form play, the metalingual for explaining language itself. In this sentence none of these is dominant."
+        }
+      ],
+      "takeaway": "The same story can be read with three separate questions: how much of the event was seen (Gerbner), which medium and images shaped the message (Maletzke), what job the message is doing (Jakobson)."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "Which of the following is one of Jakobson’s six functions?",
+      "options": [
+        "The surveillance function",
+        "The correlation function",
+        "The phatic (channel-checking) function",
+        "The transmission function"
+      ],
+      "answer": 2,
+      "explain": "The phatic (channel-checking) function is Jakobson’s. Surveillance, correlation and transmission are Lasswell’s three functions for society. This trap is often set in exams: both lists are called “functions”, but the items, owners and questions of the lists differ."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "A listener thinks, “Radio news always seems reliable to me,” and therefore prefers the radio bulletin. In Maletzke’s schema what does this thought represent, and what does it affect?",
+      "options": [
+        "The recipient’s image of the medium; what he chooses and how he experiences the content",
+        "The communicator’s self-image; how the story will be written",
+        "Para-feedback; the reaction returning to the communicator",
+        "The constraint of the medium; the broadcast time"
+      ],
+      "answer": 0,
+      "explain": "The recipient’s image of the medium (prestige, credibility) shapes expectations and affects what the recipient chooses and how he or she experiences the content. The communicator’s self-image sits on the communicator’s side and affects how the story is written. Para-feedback is the reaction going from recipient to communicator; here the listener holds an opinion but has not yet reacted. The constraint of the medium is the medium’s own limits, not the picture in the listener’s mind."
+    },
+    {
+      "id": "q9",
+      "type": "tf",
+      "prompt": "True or false: Gerbner’s model starts communication with the sender’s question “who?”.",
+      "answer": false,
+      "explain": "False. Gerbner’s model starts with the perception of an event: someone perceives an event. It is Lasswell’s formula that begins with “who?”. The confusion arises because Gerbner’s formula is called “almost Lasswellian”; the similarity is in form, the difference is in the starting point."
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "According to Yaylagül’s account, where do sender and receiver stand in the Riley and Riley (1959) model?",
+      "options": [
+        "Only inside their individual psychologies",
+        "Inside primary and secondary groups and a wider social structure",
+        "Only inside the media organisation",
+        "At the two ends of a technical channel independent of society"
+      ],
+      "answer": 1,
+      "explain": "According to Riley and Riley, sender and receiver stand inside primary groups such as family, relatives and friends, secondary groups formed by formal organisations, and the social structure that includes them. The first option is the psychology-based approach the model criticises. The fourth option describes a technical scheme of the Shannon–Weaver kind."
+    }
+  ]
+}

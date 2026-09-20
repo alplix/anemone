@@ -1,0 +1,18 @@
+{
+  "id": "maletzke-model",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "Maletzke’s field schema",
+  "altTerms": [
+    "Maletzke model",
+    "field schema of mass communication",
+    "Feldschema der Massenkommunikation",
+    "Maletzke’s model of mass communication"
+  ],
+  "slug": "maletzkes-model",
+  "short": "Gerhard Maletzke’s 1963 model shows mass communication as a “field” of communicator, statement, medium and recipient; the images the two sides hold, the pressure from the medium and the social environment are parts of that field.",
+  "body": "Maletzke (1963) takes the first four elements of Lasswell’s formula: communicator, message, medium and receiver; he does not draw effect as a separate box. His real contribution is to fill the space around these four with psychological and social factors. The communicator’s self-image, personality structure, working team and organisation, social environment and the pressure of being public determine what the communicator says and how. On the receiver’s side, self-image, personality, social environment and the situation of being an audience member determine what is chosen and how it is experienced.\n\nBoth sides carry an image of the other: the communicator pictures the audience, the recipient pictures the communicator and the medium. The medium also exerts a “constraint”: each medium, with its possibilities and limits, shapes both communicator and recipient. The recipient’s response reaches the communicator only as weak, indirect feedback (letters, phone calls, ratings). The word “field” says that the elements are interdependent and interlocked.",
+  "example": "The evening news: how the presenter sees herself, how the editor imagines the viewer, the time limit of the screen and the family setting in the living room are parts of the same field."
+}

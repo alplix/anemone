@@ -1,0 +1,637 @@
+{
+  "id": "other-models",
+  "lang": "tr",
+  "translation": {
+    "status": "source",
+    "date": "2026-09-20"
+  },
+  "title": "Diğer İletişim Modelleri: Jakobson, Gerbner, Maletzke",
+  "slug": "diger-modeller",
+  "description": "Jakobson’un altı işlevi, Gerbner’in algı zinciri, Maletzke’nin alan şeması: dil, algı ve toplumsal alan merkezli üç model, sınırları ve bugünkü kullanımı.",
+  "claim": "Süreç modelleri iletinin yolculuğuna bakarken bu üç model başka soru sorar: Jakobson iletinin altı etkenden hangisine yönelip hangi işi gördüğünü, Gerbner iletişimin bir olayın algılanmasıyla başladığını ve her halkada eksildiğini, Maletzke ise kitle iletişiminin ileticinin ve alıcının imgeleri, araçtan gelen zorlama ve toplumsal çevreyle örülü bir alan olduğunu söyler. Üçü de kuram değil, sınırlı ama işe yarar haritalardır.",
+  "keywords": [
+    "Jakobson",
+    "Gerbner",
+    "Maletzke",
+    "dilin işlevleri",
+    "fatik işlev",
+    "iletişim modeli",
+    "Feldschema",
+    "alan şeması",
+    "algı",
+    "kitle iletişimi",
+    "Riley ve Riley",
+    "model ve kuram"
+  ],
+  "updated": "2026-09-20",
+  "timeline": {
+    "malinowski-phatic-communion": "Malinowski, Ogden ve Richards’ın The Meaning of Meaning kitabının ilk ekinde “fatik bağ” kavramını tanıtır",
+    "buhler-sprachtheorie": "Bühler, Sprachtheorie: dilin üç işlevi (ifade, çağrı, betimleme)",
+    "cbs-mars-broadcast": "CBS’in Mercury Theatre on the Air programı: Mars istilası yayını (bu dersin Maletzke laboratuvarı)",
+    "lasswell-formula-published": "Lasswell, “The Structure and Function of Communication in Society”: beş soru",
+    "gerbner-general-model": "Gerbner, “Toward a general model of communication” (AV Communication Review)",
+    "style-conference-1958": "Biçem konferansı: Jakobson’un kapanış bildirisi sunulur",
+    "riley-riley-chapter": "Riley ve Riley, “Mass communication and the social system” (Sociology Today)",
+    "jakobson-closing-statement": "Jakobson, “Closing Statement: Linguistics and Poetics” (Style in Language) yayımlanır",
+    "maletzke-psychologie": "Maletzke, Psychologie der Massenkommunikation: alan şeması",
+    "kulkarni-phatic-im": "Kulkarni: Jakobson’un fatik işlevi anlık mesajlaşmada (Discourse & Communication)"
+  },
+  "cards": [
+    {
+      "id": "hook",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "Üç kelimelik bir slogan, bir dilbilimcinin masasında",
+      "body": "ABD’de bir başkan adayının seçim sloganı üç kelimeydi: *I like Ike*. (Ike, Dwight Eisenhower’a gönderme yapıyordu.) Bir reklamcının işi gibi görünür; ama dilbilimci [[person:jakobson|Roman Jakobson]] 1958’de ABD’de toplanan bir biçem konferansında bu sloganı bir şiir gibi çözümledi. Ona göre üç kelime tek heceli, üçünde de aynı çift ünlü (/ay/) var, ikinci çift ünlüyü /l/ ve /k/ sesleri kuşatıyor ve /ayk/ önceki kelimeye yankı gibi geri dönüyor. Sonuç, Jakobson’un ifadesiyle, sevginin sevileni sarıp sarmaladığı bir ses imgesi; bu şiirsel yan sloganın etkisini ve verimliliğini pekiştiriyor. [[cite:varenne-jakobson-excerpt]] [[cite:semioticon-jakobson-poetic]]\n\nBir önceki derste ([[lesson:lasswell-shannon-weaver]]) iletişimi kutular ve oklarla çizdik: kaynak, kanal, alıcı, gürültü. O şemada bu slogan tek satırlık bir “mesaj” olurdu; içindeki ses düzeni görünmezdi. Jakobson ise mesaja *ne iş gördüğünü* sorar.\n\nBu derste iletişime üç ayrı yerden bakan üç modeli tanıyacaksın: dil merkezli Jakobson, algı merkezli [[person:gerbner|Gerbner]] ve toplumsal alan merkezli [[person:maletzke|Maletzke]]. Üçü de “mesaj A’dan B’ye nasıl taşınır?” sorusunu bir kenara bırakıp başka bir soruyu öne çıkarır.",
+      "question": {
+        "id": "hook-q",
+        "type": "mcq",
+        "prompt": "Jakobson “I like Ike” sloganının ses yapısını neden ayrıntılı çözümlüyor?",
+        "options": [
+          "Sloganın seçmene ulaşıp ulaşmadığını ölçmek için",
+          "Şiir sayılmayan, gündelik bir siyasal mesajda bile ses düzeninin iş gördüğünü göstermek için",
+          "Sloganın hiçbir bilgi taşımadığını kanıtlamak için",
+          "Seçim sloganlarının şiirden türediğini göstermek için"
+        ],
+        "answer": 1,
+        "explain": "İkinci şık doğru: Jakobson, şiirsel işlevin yalnızca şiirlere ait olmadığını, sıradan bir siyasal sloganda da mesajın kendi ses yapısının etkili olduğunu gösteriyor. Birinci şık cazip, çünkü slogan bir seçim mesajı; ama etkiyi ölçmek başka bir iş (Lasswell’in “ne etkiyle?” sorusu), Jakobson ise mesajın yapısına bakıyor. Dördüncü şık, çözümlemenin bir tarih iddiasına dönüştüğünü varsayıyor; metinde böyle bir iddia yok."
+      }
+    },
+    {
+      "id": "ctx-places",
+      "section": "context",
+      "layer": "core",
+      "kind": "text",
+      "title": "Üç model, üç ayrı kapı",
+      "body": "Bu üç model aynı laboratuvardan çıkmadı; birbirinden habersiz kapılardan girdiler.\n\n- **Jakobson (1958–1960):** Bir dilbilimci, ABD’de toplanan bir biçem konferansının kapanış konuşmasını yapıyor. Konuşma 1960’ta *Style in Language* adlı derleme kitapta “Closing Statement: Linguistics and Poetics” adıyla yayımlanıyor. Konu iletişim değil, şiir dili; iletişim şeması bu tartışmanın içinden çıkıyor. [[cite:jakobson-1960]] [[cite:nesterova-coskun-2023]]\n- **Gerbner (1956):** “Toward a general model of communication”, *AV Communication Review* dergisinin dördüncü cildinde, 171–199. sayfalarda çıkıyor. Aynı yıl Gerbner Illinois’de bir iletişim araştırmaları enstitüsünde çalışmaya başlıyor. [[cite:gerbner-1956]] [[cite:contemporary-authors-gerbner]]\n- **Maletzke (1963):** Hamburg’daki Hans-Bredow-Institut’un yayımladığı *Psychologie der Massenkommunikation* kitabı; Maletzke o kurumda 1952’den 1964’e kadar çalışmıştı. Bir psikolog olarak onu radyo dinleyen insanın içinde neler olduğu ilgilendiriyordu. [[cite:blexkom-maletzke]] [[cite:blexkom-maletzke-interview]]\n\nDilbilim, eğitim ve iletişim araştırması, psikoloji: üç ayrı kaynak. Ortak nokta (bu yorum bizim) hepsinin kutu-ok şemasında görünmeyen bir şeyi sahneye çıkarması: birinde iletinin işlevi, birinde algı, birinde toplumsal çevre.",
+      "question": {
+        "id": "ctx-places-q",
+        "type": "mcq",
+        "prompt": "Aşağıdaki eşleştirmelerden hangisi doğrudur?",
+        "options": [
+          "Jakobson: 1956, bir eğitim dergisinde makale",
+          "Gerbner: 1956, *AV Communication Review*’da makale",
+          "Maletzke: 1960, *Style in Language* kitabında bölüm",
+          "Jakobson: 1963, Hamburg’daki bir enstitünün kitabı"
+        ],
+        "answer": 1,
+        "explain": "Gerbner’in modeli 1956’da *AV Communication Review*’da yayımlandı. Birinci şık cazip, çünkü 1956 ve dergi bilgisi Gerbner’e ait, ama Jakobson’a yapıştırılmış. Üçüncü ve dördüncü şıklar Jakobson ile Maletzke’nin yayınlarını yer değiştiriyor: *Style in Language* Jakobson’un (1960), Hamburg’daki enstitü kitabı Maletzke’nin (1963)."
+      }
+    },
+    {
+      "id": "deep-origin-jakobson",
+      "section": "context",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Jakobson’un iki ödünç aldığı kaynak, Bühler ve Malinowski",
+      "body": "Jakobson’un altı işlevi sıfırdan icat edilmedi. Alman psikolog ve dilbilimci Karl Bühler, 1934’te *Sprachtheorie* kitabında dile “organon” (araç) gözüyle baktı; fikri Platon’un *Kratylos* diyaloğundaki dil-araç benzetmesinden alıyordu. Bühler’in üç işlevi: ifade (*Ausdruck*), çağrı (*Appell*) ve betimleme/temsil (*Darstellung*). [[cite:buhler-1934]] [[cite:wikipedia-organon-model]] Bunlar Jakobson’un duygusal, çağrı ve göndergesel işlevlerine karşılık gelir; Jakobson üçünü kabul edip üç işlev daha ekledi. [[cite:senft-2009]] [[cite:nesterova-coskun-2023]]\n\nEklenenlerden fatik olanın kendine ait bir öyküsü var. Antropolog Bronisław Malinowski 1923’te Ogden ve Richards’ın *The Meaning of Meaning* kitabının ilk ekinde “phatic communion” (fatik bağ kurma) diye bir dil kullanımı anlattı: “Bugün hava güzel” türünden sözler bilgi vermek için değil, konuşmayı ve bağı başlatmak için söylenir; sessizlik ise insanı rahatsız eder. Jakobson bu terimi ödünç aldı ve biraz değiştirdi: onun için fatik işlev iletişim kanalını açık tutmakla ilgiliydi. [[cite:malinowski-1923]] [[cite:senft-2009]]\n\nBir de tarih notu: konferans 1958’de yapıldı, bildiriler ancak 1960’ta kitaplaştı; bu yüzden modele kaynaklarda hem 1958 hem 1960 diyenler çıkar. [[cite:jakobson-1960]] [[cite:nesterova-coskun-2023]]"
+    },
+    {
+      "id": "people-three",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "text",
+      "title": "Üç isim, birkaç kilit tarih",
+      "body": "- [[person:jakobson|Roman Jakobson]] (1896–1982): Moskova doğumlu dilbilimci; yapısalcı dilbilimin öncülerinden. Modeli 1958’de sunuldu, 1960’ta yayımlandı.\n- [[person:gerbner|George Gerbner]] (1919–2005): Macaristan doğumlu ABD’li iletişim araştırmacısı. Genel iletişim modeli 1956’da çıktı. Aynı kişi sonradan [[lesson:cultivation]] dersindeki kültivasyon çizgisinin de kurucusu olacak; 1969’da “Kültürel Göstergeler” programını da yazacak. [[cite:gerbner-1956]] [[cite:gerbner-1969]]\n- [[person:maletzke|Gerhard Maletzke]] (1922–2010): Alman iletişim bilimci ve psikolog. Kitabı 1963’te çıktı ve kısa sürede alanın standart eseri sayıldı. [[cite:blexkom-maletzke]]\n\nKısa bir zaman çizgisi:\n\n- 1923: Malinowski “fatik bağ”ı tanımlar\n- 1934: Bühler’in *Sprachtheorie*’si\n- 1948: Lasswell’in beş sorusu\n- 1956: Gerbner’in genel iletişim modeli\n- 1958 / 1960: Jakobson’un bildirisi / kitaplaşması\n- 1959: Riley ve Riley’nin toplumsal sistem yaklaşımı\n- 1963: Maletzke’nin *Psychologie der Massenkommunikation*’ı\n\nBu çizgiyi ezberlemene gerek yok; yeter ki Jakobson 1960, Gerbner 1956, Maletzke 1963 çiftlerini karıştırma. [[cite:malinowski-1923]] [[cite:buhler-1934]] [[cite:lasswell-1948]] [[cite:riley-riley-1959]] [[cite:jakobson-1960]] [[cite:maletzke-1963]]",
+      "question": {
+        "id": "people-three-q",
+        "type": "tf",
+        "prompt": "Doğru mu yanlış mı: 1956 tarihli genel iletişim modelinin yazarı ile kültivasyon çalışmalarını başlatan araştırmacı aynı kişidir.",
+        "answer": true,
+        "explain": "Doğru: ikisi de George Gerbner. “Gerbner modeli” diye bir öğrenci notu görürsen bunu ayrı bir kişiye bağlama; algı merkezli genel modeli 1956’da yazan kişi, yıllar sonra televizyonun ortak mesaj sistemini ve kültivasyonu inceleyen kişiyle aynıdır. Yanlış işaretleyen öğrenci genellikle iki konuyu birbirinden çok uzak sanıp iki ayrı “Gerbner” arar."
+      }
+    },
+    {
+      "id": "deep-origin-gerbner",
+      "section": "people-time",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Gerbner’in formülü “Lasswell’e benzeyen” on parçalı bir cümle",
+      "body": "Gerbner’in makalesi *AV Communication Review*’un dördüncü cildinin üçüncü sayısında, 1956 haziranında çıktı; bugün dergi *Educational Technology Research and Development* adıyla sürüyor. [[cite:gerbner-1956]]\n\nMcQuail ve Windahl modele “neredeyse Lasswell’vari” bir sözlü formülün eşlik ettiğini yazar: bir kişi bir olayı algılar ve bir durumda tepki verir; bazı araçlarla, bir biçim ve bağlam içinde bir içerik taşıyan malzemeleri erişilebilir kılar; bunun bir sonucu olur. On öğe, Lasswell’in beş sorusunun iki katı. Ama önemli fark sayıda değil, başlangıçta: Lasswell “kim?” diye başlar, Gerbner “birisi bir olayı algılar” diye. Yani gerçeklik ve algı ilk halkadır. [[cite:mcquail-windahl-1993]]\n\nAynı kaynağa göre Gerbner, modeli sonradan içerik çözümlemesinin yordamlarını açıklamak için de kullandı (1964); özgün makalede ise modelin insan ve makine karışık iletişimi anlatmak ve farklı araştırma alanlarını birbirinden ayırmak için de kullanılabileceğini gösterir. Yıllar sonraki Kültürel Göstergeler programı (1969), aynı “olay ile ifade arasındaki uyum” sorusunun mesaj sistemleri düzeyindeki bir uzantısı gibi okunabilir; bu son bağlantı bizim yorumumuzdur, kaynaklı bir iddia değil. [[cite:mcquail-windahl-1993]] [[cite:gerbner-1969]]"
+    },
+    {
+      "id": "deep-origin-maletzke",
+      "section": "people-time",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Maletzke’nin şeması nereden çıktı? Kaynaklar aynı şeyi söylemiyor",
+      "body": "Alman Vikipedi’si Maletzke’nin alan şemasını Shannon ve Weaver’ın gönderici–alıcı modelinin genişletilmiş hâli olarak sunar; “alan” sözcüğünün de alan kuramına gönderme yaptığını yazar. [[cite:wikipedia-de-feldschema]] Öte yandan Biografisches Lexikon der Kommunikationswissenschaft’ın Maletzke maddesi, şemanın sık anılan Lasswell formülüne dayanarak geliştirildiğini ve etkinin ayrı bir öğe olarak dışarıda bırakıldığını söyler; Ioni ve Pstae de Maletzke’nin 2002 tarihli bir söyleşisine dayanarak aynı şeyi aktarır: Maletzke Lasswell’in yalnızca ilk dört öğesini almış ve etkiyi, kitle iletişiminin temel sorunu olduğu için ayrı bir kutuya sığdırmamıştır. [[cite:blexkom-maletzke]] [[cite:ioni-pstae-2017]]\n\nBu yüzden “Maletzke Shannon’ı mı genişletti, Lasswell’i mi?” sorusuna kesin cevap vermiyoruz. Kanıtı en açık olan, Maletzke’nin kendi beyanına dayanan Lasswell bağlantısıdır; Shannon–Weaver bağlantısı ise bazı kaynaklarda yorum olarak geçer.\n\nKitap hakkında iki sağlam bilgi: 311 sayfadır ve Hans-Bredow-Institut’un yayınıdır; ne doktora tezi ne de doçentlik tezidir, yine de birkaç yıl içinde alanın standart eseri olmuştur. [[cite:bergsma-1964]] [[cite:blexkom-maletzke]] Maletzke sonradan kitabın amacını Alman araştırmasına kavramsal bir iskelet vermek diye anlatmış; bazı terimlerde, örneğin “Rezipient”te, daha dikkatli olması gerektiğini de eklemiştir. [[cite:blexkom-maletzke-interview]]"
+    },
+    {
+      "id": "claim-map",
+      "section": "claim",
+      "layer": "core",
+      "kind": "text",
+      "title": "Süreç modelleri “nasıl taşınır?” diye sorar; bu üçü başka sorular sorar",
+      "body": "Önceki derste gördüğün Lasswell ve Shannon–Weaver şemaları iletinin bir uçtan ötekine yolculuğuna bakıyordu. Schramm, Berlo, Westley ve MacLean, Newcomb gibi süreç modelleri bu yolculuğun ayrıntısını zenginleştirdi; onlar başka bir dersin konusu. Bu üç modelin ortak iddiası şu: yolculuktan önce ve çevresinde bakılacak başka şeyler var.\n\n- **Jakobson, dil merkezli:** Bir ileti aynı anda birkaç iş görür; sen hangi işi başat sayıyorsun? Altı etken, altı işlev. [[concept:jakobson-functions]]\n- **Gerbner, algı merkezli:** İletişim, birisinin bir olayı *algılamasıyla* başlar; algılanan zaten eksiktir. [[concept:gerbner-model]]\n- **Maletzke, toplumsal alan merkezli:** İletici ile alıcının arkasında ekip, kurum, çevre ve karşı tarafın imgesi vardır. [[concept:maletzke-model]]\n\nBir haber bülteni üç soruyu birden kaldırır: bu bülten hangi işi görüyor (bilgi mi, güven mi, çağrı mı)? Editör olayın hangi kısmını görebildi? Sunucunun ve izleyicinin arkasında hangi çevre var? Türkçe kaynaklar bu modelleri hep aynı çekmeceye koymaz; örneğin İplikçi (2015) Gerbner’i Shannon–Weaver, Lasswell, Newcomb ve Westley–MacLean ile birlikte “süreç okulu” modelleri arasında sayar. Bizim gruplamamız bir kolaylık, tek doğru sınıflama değildir. [[cite:iplikci-2015]]",
+      "question": {
+        "id": "claim-map-q",
+        "type": "mcq",
+        "prompt": "Bir haber editörü, izleyicilerinin çoğunun yaşlı olduğunu düşünerek haber dilini sadeleştiriyor. Bu davranış bu dersin modellerinden en çok hangisinin hangi öğesiyle açıklanır?",
+        "options": [
+          "Jakobson: üstdilsel işlev",
+          "Maletzke: ileticinin alıcı imgesi",
+          "Gerbner: olayın E1’e dönüşmesi",
+          "Shannon–Weaver: kanal kapasitesi"
+        ],
+        "answer": 1,
+        "explain": "Editörün kafasındaki izleyici resmi, Maletzke’nin “ileticinin alıcı hakkındaki imgesi”dir ve iletinin biçimini etkiler. Üstdilsel işlev, dilin kendisi hakkında konuşmayı ifade eder (bir terimi açıklamak gibi); sadeleştirme kararı bir kod açıklaması değil, alıcıya dair bir varsayımdır. Gerbner’in E1’i ise olayın algılanan hâlidir, izleyici imgesi değil. Kanal kapasitesi teknik bir sınırdır; burada sınır tekniğe değil hayale ait."
+      }
+    },
+    {
+      "id": "concepts-jakobson",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Jakobson: altı etken, altı işlev",
+      "body": "Bir cümleyi söylediğinde ya da yazdığında altı şey iş başındadır. Jakobson her birine bir dil işlevi bağlar; işlev, iletinin hangi etkene *yöneldiğini* gösterir. [[cite:jakobson-1960]] [[cite:nesterova-coskun-2023]] [[concept:speech-event-factors]]\n\n- **Bağlam → göndergesel işlev:** iletinin sözünü ettiği şey. “Uçak kalkmıştır.”\n- **Gönderici → duygusal işlev:** konuşanın tavrı, duygusu. “Eyvah, uçak kalkmıştır.”\n- **Alıcı → çağrı işlevi:** karşındakini harekete geçirme. “Maskesiz girilmez.”\n- **Temas (kanal) → kanal teyidi (fatik) işlevi:** hat açık mı? “Alo, sesim geliyor mu?”\n- **Kod → üstdilsel işlev:** dil hakkında konuşma; sözlük maddesi gibi.\n- **İleti → şiirsel işlev:** iletinin kendisine, nasıl söylendiğine odaklanma. “I like Ike.”\n\nİşlevleri sözlüğe bakıp ezberlemek yerine bir soruyla ayırabilirsin: *bu iletiyle konuşan kime ya da neye dönmüş?* Dünyaya mı (bağlam), kendisine mi (gönderici), sana mı (alıcı), hatta mı (temas), dilin kendisine mi (kod), yoksa cümlenin kendi yapısına mı (ileti)?\n\nAsıl önemli cümle Jakobson’un: hiçbir ileti tek işlevli değildir; iletiler arasındaki fark işlevlerin *sıralamasındadır*. [[concept:jakobson-functions]]",
+      "question": {
+        "id": "concepts-jakobson-q",
+        "type": "mcq",
+        "prompt": "Projeksiyon açıkken hoca arka sıralara dönüp “Sesim geliyor mu?” diyor. Jakobson’a göre bu ileti hangi işlevi görüyor?",
+        "options": [
+          "Çağrı işlevi, çünkü dinleyicilerden bir şey istiyor",
+          "Kanal teyidi (fatik) işlevi, çünkü hattın çalışıp çalışmadığını yokluyor",
+          "Göndergesel işlev, çünkü sese dair bilgi soruyor",
+          "Üstdilsel işlev, çünkü dilden söz ediyor"
+        ],
+        "answer": 1,
+        "explain": "Soru dünyadan ya da dilden söz etmiyor; iletişim hattının çalışıp çalışmadığını yokluyor, yani temas etkenine yöneliyor: kanal teyidi. Çağrı işlevi cazip, çünkü karşıya bir şey soruluyor; ama çağrı alıcıyı bir davranışa yöneltmeye çalışır, burada amaç yalnızca temasın sürdüğünü doğrulamak. Göndergesel şık sese dair “bilgi” aradığını varsayıyor; oysa hocanın derdi sesin kendisi değil, iletişimin sürmesi."
+      }
+    },
+    {
+      "id": "concepts-gerbner",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Gerbner: bir olay, iki algı, bir ifade",
+      "body": "Gerbner’in modelinin harfleri ilk bakışta biraz şifre gibi durur; ama hepsi tek bir öykünün karakteridir. [[cite:gerbner-1956]] [[cite:mcquail-windahl-1993]]\n\n- **E (event):** olay, dış gerçeklikte olup biten.\n- **M:** algılayan; insan olabilir, makine de. (McQuail ve Windahl’ın örneği: bir ısıtma sistemindeki termostat.)\n- **E1:** M’nin algıladığı olay. E’nin tamamı değil, M’nin gözünden görünen hâli.\n- **SE:** M’nin olay hakkında ürettiği ifade. S biçimi, E içeriği gösterir; ifade, içeriğin belirli bir biçime girmiş hâlidir.\n- **M2 ve SE1:** ifadeyi alan ve onu kendi çerçevesinde algılayan ikinci algılayıcı ile onun algısı.\n\nİki ayrı boyut vardır. **Algı boyutunda** olayın M’ye nasıl göründüğünü üç şey belirler: seçim, bağlam ve olaya ulaşabilirlik. **Araç ve denetim boyutunda** ise M’nin ürettiği ifadenin hangi araçla, ne kadar denetimle yayıldığı önem kazanır. [[concept:perception-in-communication]]\n\nModelin gücü, parçaların yapı taşı gibi kullanılabilmesinde: basit bir sohbeti de, çok halkalı bir haber zincirini de aynı harflerle çizebilirsin.",
+      "question": {
+        "id": "concepts-gerbner-q",
+        "type": "mcq",
+        "prompt": "Bir termostat oda sıcaklığını ölçüp ısıtıcıya komut gönderiyor. Gerbner’in dilinde termostat neye karşılık gelir?",
+        "options": [
+          "SE, çünkü komut bir ifadedir",
+          "M, çünkü algılayan insan ya da makine olabilir",
+          "E, çünkü sıcaklık dışarıdaki gerçekliktir",
+          "M2, çünkü ısıtıcı komutu alandır"
+        ],
+        "answer": 1,
+        "explain": "Termostat sıcaklığı algılıyor, üstelik makine olabilir: M’nin ta kendisi. Sıcaklık olayın (E) yerinde durur. Komut, termostatın ürettiği ifadedir (SE); ısıtıcı ise komutu alan tarafta durur. İlk şık cazip, çünkü komut somut bir çıktı; ama SE’nin üreticisi ile ürünü karıştırmak yaygın bir hatadır: termostat ürünü değil, üreteni temsil eder."
+      }
+    },
+    {
+      "id": "concepts-maletzke",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Maletzke: dört öğe ve aralarındaki görünmez ipler",
+      "body": "Maletzke’nin şemasında dört tanıdık kutu var: iletici (*Kommunikator*), ileti (*Aussage*), araç (*Medium*) ve alıcı (*Rezipient*). Gerçek olay, bunların arasına gerilmiş iplerde. [[cite:mcquail-windahl-1993]] [[cite:wikipedia-de-feldschema]]\n\n- **Öz imge:** iletici kendini nasıl görüyor: olayları yorumlayan biri mi, bir davanın savunucusu mu, yalnızca aynada yansıyan biri mi?\n- **Alıcı imgesi:** iletici karşıdaki kitleyi nasıl hayal ediyor? Alıcı da ileticiyi ve aracı bir imgeyle karşılar.\n- **Araçtan gelen zorlama (*Zwang des Mediums*):** her araç kendi olanaklarıyla ve sınırlarıyla iletiyi biçimler: yayın süresi, metin uzunluğu, ses ya da görüntü zorunluluğu.\n- **Toplumsal çevre:** iletici bir ekipte ve kurumda; alıcı bir aile ve arkadaş çevresinde.\n- **Parafeedback:** alıcının tepkisi ileticiye ancak dolaylı ulaşır: okur mektubu, telefon, izlenme oranı, anket.\n\nMaletzke’nin kitle iletişimi tanımı da aynı mantıkla kurulur: mesajlar herkese açık, teknik araçlarla, dolaylı ve tek yönlü biçimde dağınık bir izleyici kitlesine verilir. [[concept:mass-communication]] Etkiyi ayrı bir kutu yapmaz; etki, alıcının seçme ve yaşama sürecinin içinde kalır. [[cite:blexkom-maletzke]]",
+      "question": {
+        "id": "concepts-maletzke-q",
+        "type": "mcq",
+        "prompt": "Bir radyo muhabiri, canlı yayında haberi ancak 90 saniyede bitirebileceği için ayrıntıları kesiyor. Maletzke’nin şemasında bu kesintinin sorumlusu hangi öğedir?",
+        "options": [
+          "Parafeedback",
+          "Araçtan gelen zorlama",
+          "Alıcının öz imgesi",
+          "Etki analizi"
+        ],
+        "answer": 1,
+        "explain": "Radyonun yayın süresi ve biçimi, ileticiyi içeriği biçimlendirmeye zorlar: bu, araçtan gelen zorlamadır. Parafeedback alıcıdan ileticiye dönen zayıf tepkidir (mektup, ölçüm); haberin kısaltılmasına neden olmaz. Alıcının öz imgesi alıcı tarafında, neyi seçeceğini etkiler. Etki analizi ise Lasswell’in araştırma alanlarından biridir, Maletzke’nin baskı öğelerinden değil."
+      }
+    },
+    {
+      "id": "deep-phatic",
+      "section": "concepts",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Fatik bağ her kültürde aynı mı?",
+      "body": "Malinowski “fatik bağ”ı (*phatic communion*) anlatırken doğal insan için başkasının sessizliğinin güven verici değil, tersine tehditkâr olduğunu, sözün ilk bağı kurduğunu yazmıştı; hava durumu gibi bir konuşma bu gerilimi giderir. [[cite:senft-2009]]\n\nAntropolog Dell Hymes bunun evrensel olmadığına itiraz etti: etnografik kayıtlara göre fatik iletişim her yerde önemli ya da kabul görmüş bir güdü değildi. Örnek olarak, aktardığı bir kaynağa göre, Güney Hindistan’daki Paliyanların çok az konuştuğunu ve konuşkan kişilerin orada aykırı sayıldığını gösterdi. David Crystal da hava durumunun her kültürde sohbet dolgusu olmadığını, konuların değiştiğini belirtti. Senft ise bu eleştiriyi kısmen tutarsız buluyor: veda ederken bir dış neden ileri sürmek İngilizlerde de görülür, yani biçim değişse de işlev korunuyor olabilir. [[cite:senft-2009]]\n\nBu tartışma Jakobson’un fatik işlevine de dolaylı olarak ışık tutar: işlev evrensel bir kategori gibi sunulur, ama “neyin fatik sayılacağı” kültürden kültüre değişebilir. Bir dijital örneği ileride göreceksin: Kulkarni’nin anlık mesajlaşma çalışması (kanıt bölümünün derin kartı)."
+    },
+    {
+      "id": "deep-names",
+      "section": "concepts",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Türkçedeki adlar ve çeviri tuzakları",
+      "body": "Aynı model Türkçede farklı adlarla dolaşır; sınavda ve makalede karşına çıkabilecek başlıca varyantlar şunlar.\n\n**Jakobson.** Nesterova Coşkun (2023) doktrinin daha çok “iletişim şeması” diye anıldığını yazar; makalenin İngilizce özetinde ad “Jacobson” diye yazılmıştır. Etkenler orada gönderici, alıcı, bağlam, ileti, kanal, kod; işlevler göndergesel, duygusal, çağrı, kanal teyidi (irtibat teyidi de denir), metadil ve poetik. Dalak (2021) ise aynı listeyi gönderen–gönderilen (alıcı), gönderge, mesaj, kanal, kod ve duygu, çağrı, gönderge, şiir/sanat, ilişki, üstdil işlevleri olarak verir. Yani *fatik* diye bir sözcüğü hiç görmeden de işlevin adını öğrenebilirsin: “kanal teyidi” ya da “ilişki işlevi” aynı şeydir. [[cite:nesterova-coskun-2023]] [[cite:dalak-2021]]\n\n**Gerbner.** İplikçi (2015) “Gerbner Modeli (1956)” der; makalenin özgün başlığı “Toward a general model of communication” olduğu için “genel iletişim modeli” bizim çevirimizdir. [[cite:iplikci-2015]] [[cite:gerbner-1956]]\n\n**Maletzke.** Almanca adı *Feldschema der Massenkommunikation*; harfi harfine “kitle iletişiminin alan şeması”. Türkçede çoğunlukla “Maletzke modeli” denir. *Kommunikator* için bu derste “iletici” diyoruz; “gönderici” ya da “iletişimci” gibi karşılıklar da kullanılabilir (terminoloji notumuzda ayrıntısı var). *Rezipient* için “alıcı” diyoruz. [[cite:wikipedia-de-feldschema]]\n\n**Tuzak.** “İşlev” sözcüğü üç ayrı listede geçer: Lasswell’in üç işlevi, Jakobson’un altı işlevi ve genellikle Wright’a atfedilen eğlence eklemesi. Hepsine “işlev” denir, ama hiçbiri aynı şey değildir. [[concept:communication-functions]]"
+    },
+    {
+      "id": "assumptions-three",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "text",
+      "title": "Üç modelin sessiz varsayımları",
+      "body": "Her model, çizdiği şemanın içinde bazı şeyleri “verili” sayar. Bunları görmeden modeli eleştirmek de savunmak da zor.\n\n**Jakobson** şunları varsayar. Her sözlü edimde altı etken hazır bulunur. Gönderici ile alıcı bir kodu en azından kısmen ortaklaşa kullanır; kod hiç ortak değilse ileti işlemez. İşlevler bir arada yaşar ve fark bunların sıralamasındadır. [[cite:nesterova-coskun-2023]] [[cite:varenne-jakobson-excerpt]]\n\n**Gerbner** şunları varsayar. Algılama seçici ve eksiktir. İletişim sistemleri açıktır, yani dışarıdan etkilenir. Aynı yapı taşları hem basit hem karmaşık iletişim durumlarını çizmeye yeter. [[cite:mcquail-windahl-1993]]\n\n**Maletzke** şunları varsayar. Kitle iletişimi kamusal, teknik araçlı, dolaylı ve tek yönlü bir iletişimdir; alıcı dağınık bir izleyicidir. Kitle iletişim araçları, toplumsal aktörlerin iletileri arasında bir aktarma halkası gibi çalışır. İletici ile alıcının psikolojik ve toplumsal özellikleri sürecin ayrılmaz parçasıdır; geri bildirim ise zayıftır. [[cite:ioni-pstae-2017]] [[cite:mcquail-windahl-1993]]\n\nOrtak bir varsayım da var, ve bu bizim gözlemimiz: üçü de bir ilişkiyi *haritalar*; “şu olursa şu çıkar” diye bir sebep–sonuç önermez. Bu yüzden onlara kuram gibi değil, harita gibi bakmak gerekir. Bunu eleştiri bölümünde açacağız.",
+      "question": {
+        "id": "assumptions-three-q",
+        "type": "tf",
+        "prompt": "Doğru mu yanlış mı: Jakobson’un modeli bir iletide yalnızca tek bir işlevin bulunduğunu varsayar.",
+        "answer": false,
+        "explain": "Yanlış. Jakobson tam tersini söyler: hiçbir ileti tek bir işlevle sınırlı değildir; fark, işlevlerin hangisinin başat olduğunda, yani hiyerarşisindedir. “Tek işlev” yanılgısı, altı işlevi altı ayrı iletişim türü sanmaktan doğar. Oysa aynı cümlede hem göndergesel, hem duygusal, hem şiirsel katman bulunabilir."
+      }
+    },
+    {
+      "id": "how-jakobson-lab",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Laboratuvar: bir medya mesajını altı işleve ayır",
+      "body": "Bir mesaj seç: bir haber başlığı, bir bildirim, bir slogan. Aşağıdaki beş adımı uygula.\n\n1. **Yaz.** Mesajı kelimesi kelimesine yaz. Belgelenmiş, yani gerçekten var olan bir metin olsun; kendi cümlelerinle özetleme.\n2. **Etkenleri tanı.** Gönderici kim, alıcı kim, bağlam ne, hangi kod ve kanal?\n3. **Parmak izini ara.** Ünlem, seslenme, emir, selamlaşma, tanım, tekrar ve ses oyunu gibi ipuçları hangi işlevi gösteriyor?\n4. **Sırala.** İşlevleri önem sırasına diz; başat olanı bul.\n5. **Sına.** En üstteki işlevi çıkarınca mesaj geriye ne bırakıyor?\n\n**Çalışılmış örnek: “I like Ike”.** Jakobson’un kendi çözümlemesinde şiirsel işlev, ses yapısıyla sloganın etkisini pekiştirir. [[cite:varenne-jakobson-excerpt]] Bizim okumamız: duygusal (“I like”: bir tutum bildirir), çağrı (bir seçim sloganı, oy istiyor) ve çok zayıf bir göndergesel işlev (bir adaya gönderme) de var. Şiirsel işlevi çıkarınca geriye “Ike’ı seviyorum” kalır; slogan yine anlaşılır ama akılda kalmaz.\n\n**İkinci örnek.** Nesterova Coşkun, Mevlânâ’nın *Mesnevi*’sinin “Dinle, bu ney neler anlatır” diye açıldığını, metnin daha ilk satırdan okuyucuyla temas kurup ona seslendiğini, yani kanal teyidi ile çağrı işlevinin iç içe geçtiğini yazar. [[cite:nesterova-coskun-2023]]",
+      "question": {
+        "id": "how-jakobson-lab-q",
+        "type": "mcq",
+        "prompt": "Bir belediye anonsu: “Değerli hemşehrilerimiz, yarın 09.00–15.00 arasında su kesintisi uygulanacaktır.” Bu iletide başat işlev hangisidir?",
+        "options": [
+          "Çağrı işlevi, çünkü “hemşehrilerimiz” diye seslenir",
+          "Göndergesel işlev, çünkü asıl iş bir olguyu bildirmek",
+          "Duygusal işlev, çünkü “değerli” bir tutum bildirir",
+          "Şiirsel işlev, çünkü mesaj düzenli bir yapıdadır"
+        ],
+        "answer": 1,
+        "explain": "İletinin asıl amacı tarih ve saat bilgisini aktarmak: göndergesel işlev. “Değerli hemşehrilerimiz” hem temasa hem alıcıya küçük bir dokunuş yapar; ama bu seslenmeyi çıkarınca ileti işini yine görür, bilgiyi çıkarınca görmez. Çağrı şıkkı cazip, çünkü seslenme ve dolaylı bir “hazırlıklı olun” beklentisi var; ama başat işlev bu değildir, çünkü mesajın omurgası bir olgudur. Şiirsel şık ise “yapılı olmak” ile “kendi yapısına odaklanmak”ı karıştırıyor."
+      }
+    },
+    {
+      "id": "how-gerbner-steps",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Gerbner’in zinciri, adım adım",
+      "body": "Gerbner’in kendi örneğini bir yağmur damlasıyla yürüyelim. [[cite:mcquail-windahl-1993]] [[cite:gerbner-1956]]\n\n1. **Olay olur (E).** Havadaki nem yoğunlaşıyor; dışarıda gerçekten bir şey oluyor.\n2. **M algılar (E1).** Algılayan, olayı kendi seçiciliği, bağlamı ve ulaşabilirliği içinde görür: “yağmur”. Ortaya çıkan E1, olayın kendisi değil, ondan bir kesittir.\n3. **M ifadeyi üretir (SE).** “Yağmur yağıyor” der. Burada bir biçim (S) ve bir içerik (E) seçilir; bir araç ve bir denetim düzeyi de vardır: yüz yüze mi konuşuyor, mesaj mı yazıyor, gazete mi yayımlıyor?\n4. **İfade dolaşır.** Araç ve denetim boyutunda ifade, seçilen kanalların olanakları ve sınırları içinde ilerler.\n5. **M2 algılar (SE1).** Dinleyen ifadeyi kendi çerçevesinde “yağmur yağıyor” diye algılar; kendi seçiciliği ve bağlamı devrededir.\n\nHer okta bir kayıp ya da dönüşüm olabilir: E’den E1’e, E1’den SE’ye, SE’den SE1’e. Zinciri uzatabilirsin: M2 ifadeyi başkasına aktarırsa yeni bir algılama–üretim–algılama halkası açılır (bu uzatma bizim çıkarımımız).\n\nBir haber gibi düşün: olay (E), muhabirin görebildiği kısım (E1), yazdığı haber (SE), okurun anladığı (SE1). Dört yer, dört ayrı kayıp noktası.",
+      "question": {
+        "id": "how-gerbner-steps-q",
+        "type": "order",
+        "prompt": "Gerbner’in zincirini doğru sıraya diz.",
+        "items": [
+          "Bir olay gerçekleşir (E)",
+          "Algılayan olayı kendi seçiciliğiyle algılar (E1)",
+          "Algılayan bir araçla olay hakkında bir ifade üretir (SE)",
+          "İkinci bir algılayan ifadeyi kendi çerçevesinde algılar (SE1)"
+        ],
+        "explain": "Gerbner’in zinciri olayla başlar, önce algılama, sonra üretim, en sonda ikinci algılama gelir. En sık yapılan hata, ifadeyi (SE) algılamanın (E1) önüne koymaktır: ifade, algılanmış olayın hakkında üretilir; olay algılanmadan ifade edilemez. Bu yüzden Gerbner modelinde “kim?” sorusundan önce “kim, neyi, ne kadar görebildi?” sorusu gelir."
+      }
+    },
+    {
+      "id": "how-maletzke-lab",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Laboratuvar: belgelenmiş bir yayını Maletzke’nin alanına yerleştir",
+      "body": "Belgelenmiş bir yayın seçelim: 30 Ekim 1938 pazar akşamı CBS radyosunun yayımladığı *Mercury Theatre on the Air* programı. Program, bir Mars istilasının dramatize edildiği, haber bülteni aralarıyla ilerleyen bir yayındı. [[cite:pooley-socolow-2013-slate]] [[cite:pooley-socolow-2013-ijoc]]\n\nŞimdi alanı doldur:\n\n- **İletici:** radyo oyununu yapan ekip ve onları yayımlayan kurum, CBS. (Maletzke için iletici tek kişi değil, ekip ve kurumdur.)\n- **İleti:** kurgusal bir olay, haber bülteni biçiminde anlatılmış.\n- **Araç:** radyo; yalnızca ses ve bir yayın akışı. Araçtan gelen zorlama burada biçimi belirliyor: her şey kulakla, tek bir akışta.\n- **Alıcı:** dağınık bir izleyici. O akşam bir dinleyici ölçüm hizmeti (Hooper) 5.000 haneyi taradı; yalnızca yüzde 2’si “bir radyo oyunu” ya da Orson Welles programını dinlediğini söyledi. Kalanlar başka bir şey dinliyordu; rakip programlardan biri Edgar Bergen’in komedi programıydı. [[cite:pooley-socolow-2013-slate]]\n- **Parafeedback:** ertesi gün gazete manşetleri; CBS’ten Frank Stanton’ın o gece yazdığı anket ve ertesi sabah başlayan saha çalışması. [[cite:pooley-socolow-2013-ijoc]]\n\nBu yerleştirme bir *yorum çerçevesi*dir: “panik oldu mu?” sorusunu cevaplamaz. Ama “kim kime, hangi araçtan ve hangi imgeyle konuştu, geri bildirim nereden geldi?” sorularını düzenler.",
+      "question": {
+        "id": "how-maletzke-lab-q",
+        "type": "mcq",
+        "prompt": "Yayının ertesi sabahı CBS için anket saha çalışması başladı. Maletzke’nin şemasında bu çalışma neyin yerini tutuyor?",
+        "options": [
+          "Araçtan gelen zorlamanın",
+          "İleticinin öz imgesinin",
+          "Yüz yüze konuşmadaki anlık geri bildirimin yokluğunu dolduran parafeedback’in",
+          "Alıcının araç imgesinin"
+        ],
+        "answer": 2,
+        "explain": "Kitle iletişiminde alıcı ileticiye anında karşılık veremez; iletici tepkiyi ancak dolaylı yoldan (mektup, ölçüm, anket) öğrenir. Ertesi sabahki saha çalışması bu dolaylı yolu kurumsal biçimde örgütlemektir. Araçtan gelen zorlama radyonun biçimsel sınırlarıdır, ölçüm değil. İleticinin öz imgesi ve alıcının araç imgesi ise imgelerdir; anket bir imgeyi değil, gerçek tepkileri toplamaya çalışır."
+      }
+    },
+    {
+      "id": "evidence-uses",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "text",
+      "title": "Modellerin kanıtı: bir işe yaramış olmak",
+      "body": "Bir kuram “şu olursa şu çıkar” diye bir iddiada bulunur ve sınanır; bu üç model ise çoğunlukla bir çerçeve sunar. Bu yüzden kanıtları başka türdendir: modelin gerçekten kullanılıp işe yaradığı örnekler. Bu ayrımı [[lesson:what-is-theory]] dersinde ayrıntılı gördün.\n\n- **Jakobson:** Kulkarni (2014) fatik işlevi anlık mesajlaşmada araştırdı: 20 katılımcıdan 60 sohbet toplayıp konuşma çözümlemesiyle temasın nasıl kurulduğuna, sürdürüldüğüne ve bitirildiğine baktı. [[cite:kulkarni-2014]] Dalak (2021) bir Fransız oyununu Jakobson modeliyle çözümledi. [[cite:dalak-2021]] Nesterova Coşkun (2023) Türkçe örneklerle her işlevi anlattı. [[cite:nesterova-coskun-2023]]\n- **Gerbner:** McQuail ve Windahl’a göre model, içerik çözümlemesinin yordamlarını açıklamak için de kullanıldı (Gerbner 1964); ayrıca mahkemedeki tanıklık gibi durumları (tanık olayı ne kadar doğru algıladı, ifadesi algısıyla ne kadar örtüşüyor?) çözümlemek için elverişli görülür. [[cite:mcquail-windahl-1993]]\n- **Maletzke:** Model, kitabın kendisinin iskeleti oldu; McQuail ve Windahl ona bir “kontrol listesi” gibi bakılabileceğini, özellikle bir iletişimcinin hedef kitlesini net tanımlaması gerektiğini hatırlattığını yazar. [[cite:mcquail-windahl-1993]] Ioni ve Pstae’ye göre Burkart (1997) modeli çevrimiçi iletişime uyarlamıştır. [[cite:ioni-pstae-2017]]\n\nHer örnek, modelin bir *soru üretme aracı* olduğunu gösterir; hiçbiri modelin “doğru olduğunu” kanıtlamaz.",
+      "question": {
+        "id": "evidence-uses-q",
+        "type": "mcq",
+        "prompt": "Bir araştırmacı sohbet uygulamasında “hı hı, dinliyorum” gibi kısa yanıtların konuşmayı nasıl sürdürdüğünü sayıp inceliyor. Onu en çok hangi model yönlendirir?",
+        "options": [
+          "Maletzke: parafeedback",
+          "Jakobson: kanal teyidi (fatik) işlevi",
+          "Gerbner: E’nin E1’e dönüşmesi",
+          "Shannon: kanal kapasitesi"
+        ],
+        "answer": 1,
+        "explain": "Kısa “dinliyorum” tepkileri konuşmanın hattını açık tutar: bu, fatik işlevin tam alanı; Kulkarni’nin çalışması da bu tür kanal sürdürme araçlarına bakar. Parafeedback cazip, çünkü o da bir tür “tepki”; ama Maletzke’de parafeedback, kitle iletişiminde dağınık izleyicinin ileticiye dolaylı dönüşüdür, iki kişilik sohbetin içindeki anlık ipuçları değil. Gerbner algılamaya, Shannon taşıma kapasitesine bakar."
+      }
+    },
+    {
+      "id": "deep-kulkarni",
+      "section": "evidence",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Kulkarni’nin çalışması neyi gösterdi, neyi göstermedi?",
+      "body": "Kulkarni’nin makalesi *Discourse & Communication* dergisinde 2014’te (çevrimiçi Kasım 2013) yayımlandı ve Jakobson’un fatik işlev tanımını genişletmeyi amaçlıyor: fatik, temasın sürdürülmesi olarak ele alınıyor. [[cite:kulkarni-2014]]\n\n**Tasarım.** Araştırmacı konuşma çözümlemesini metinsel sohbete uyarlıyor. Veri 20 katılımcıdan toplanan 60 sohbet; katılımcılar İngilizceyi Marathi ve Hintçe gibi Hint dilleriyle karıştırarak yazıyor. Sohbetlerin açılışları, orta kısımları ve kapanışları ayrı ayrı inceleniyor.\n\n**Bulgu (özet düzeyinde).** Katılımcılar dikkat, ilgi ve onay göstermek için geri kanal sözcükleri, değerlendirmeler, duygu ifadeleri ve sorular kullanıyor; bunlar teması kurma, sürdürme ve bitirme işinin önemli bir parçası. Yani “boş” sanılan sözler aslında ciddi bir etkileşim emeği.\n\n**Sınırlar.** Elimizde yalnızca özet var; tam metni okumadık. Özet, sık kullanılan araçların sayılarını ya da bir etki ölçümünü vermiyor. Örneklem küçük ve belli bir dil topluluğundan; sonuçları başka kültürlere taşımadan önce bir önceki derin kartın (fatik bağ her kültürde aynı mı?) uyarısını hatırlamak gerekir. Araştırma Jakobson modelinin *doğru olduğunu* değil, fatik işlevin bir çözümleme aracı olarak kullanışlı olduğunu gösterir."
+    },
+    {
+      "id": "crit-limits",
+      "section": "critique",
+      "layer": "core",
+      "kind": "text",
+      "title": "Eleştiriler: her modelin kör noktası ayrı",
+      "body": "Bu üç modelin eleştirisi tek bir cümleye sığmaz; her biri başka yerde tıkanır.\n\n**Jakobson.** Semioticon’da yayımlanan bir ders metninde (yazarı belirtilmemiş) iki ayrı nokta öne çıkar. Birincisi, Jakobson’un çağrı işlevi hakkında şaşırtıcı derecede az açık şey söylemesi ve fatik işlev örneklerinin (kuşlar, bebekler) yarım kalması. İkincisi, Baudrillard’ın fatik işlevi eleştirmesi: ona göre bilgi ağlarında “temas için temas” boş bir biçime dönüşür. [[cite:semioticon-jakobson-poetic]] Nesterova Coşkun da modelin yalnızca iletişim araştırması için geliştirilmediğini hatırlatır; yani ondan bir “iletişim kuramı” beklemek biraz haksızlık. [[cite:nesterova-coskun-2023]]\n\n**Gerbner.** İplikçi (2015) modelin anlama yönelik göründüğünü ama Shannon–Weaver modelinin bir uzantısı kaldığını yazar: anlamın nasıl oluştuğunu sormaz, ileti biçimini ve kodları verili sayar, aktarım sürecinin ötesine geçmez. [[cite:iplikci-2015]] Savunma McQuail ve Windahl’ın vurgusudur: modelin esnekliği ve algının öznel, seçici olduğunu göstermesi. [[cite:mcquail-windahl-1993]]\n\n**Maletzke.** McQuail ve Windahl, Maletzke’nin insan imgesinin karmaşık olduğunu (iletici ve alıcı davranışı çok sayıda etkenin işlevidir) ve kitle iletişimi araştırmasının sonuçları açıklamada ve öngörmede pek başarılı olamamasının önemli bir nedeninin bu karmaşıklık olduğunu yazar; şemanın görece eskimiş olduğunu ama kontrol listesi olarak yararlı kaldığını da ekler. [[cite:mcquail-windahl-1993]] Ioni ve Pstae yöntem eleştirisini de aktarır: modelin kurulmasında kullanılan ölçütler tutarlı ve birleşik değil. [[cite:ioni-pstae-2017]]",
+      "question": {
+        "id": "crit-limits-q",
+        "type": "mcq",
+        "prompt": "İplikçi’nin (2015) Gerbner modeline yönelttiği eleştiri hangisidir?",
+        "options": [
+          "Modelin alıcıyı tek başına, edilgen bıraktığı",
+          "Anlamın nasıl oluştuğunu sormadığı; ileti biçimini ve kodları verili aldığı",
+          "Etkiyi ayrı bir kutu olarak çizmediği",
+          "Kanal kapasitesini hesaplamadığı"
+        ],
+        "answer": 1,
+        "explain": "İplikçi, modelin anlama yöneliyor gibi göründüğünü ama Shannon–Weaver’ın uzantısı kaldığını, anlamın oluşumunu sormadığını yazar. Birinci şık cazip, çünkü doğrusal modellerin genel eleştirisi budur; ama Gerbner’de algılayan zaten etkin ve seçicidir. Üçüncü şık Maletzke için doğru bir betimlemedir, Gerbner için değil. Dördüncü şık Shannon’a ait bir kavramı Gerbner’e yükler."
+      }
+    },
+    {
+      "id": "crit-myth",
+      "section": "critique",
+      "layer": "core",
+      "kind": "myth",
+      "title": "Mit: “Model yanlışlandı, o hâlde çöpe”",
+      "body": "**Sanılan.** Bir model, bir kuram gibi sınanır; tek bir karşı örnek onu çürütür. Ör.: “İnternette geri bildirim anında geliyor; Maletzke’nin ‘tek yönlü’ şeması yanlışlandı.”\n\n**Kanıtın söylediği.** McQuail ve Windahl bir modeli, gerçeğin bir parçasının bilinçli olarak sadeleştirilmiş grafik betimlemesi diye tanımlar. Modelin işi, ana öğeleri ve aralarındaki ilişkileri göstermektir; üç yararı vardır: düzenler, açıklamayı kolaylaştırır (buluşsal işlev) ve bazen öngörü için bir temel sağlar. [[cite:mcquail-windahl-1993]] İletişim araştırmasında eski modellerin genellikle çabucak atıldığını ya da değiştirildiğini de ekler.\n\nBu yüzden Maletzke şemasının “tek yönlü” varsayımı yeni ortamda tutmuyorsa yapılacak iş, o varsayımı değiştirip şemayı uyarlamaktır; Ioni ve Pstae’nin aktardığına göre Burkart modeli çevrimiçi iletişim için böyle uyarladı. [[cite:ioni-pstae-2017]] Model bir harita: yol değişince harita güncellenir, ama haritanın varlığı yolu bulmana yardım etmeye devam eder. Hangi modelin hangi soru için uygun olduğunu seçmek de bir beceridir. [[lesson:what-is-theory]] dersindeki ayrımı hatırla: model çoğu zaman “nasıl işliyor”u gösterir, “neden”i açıklamaz.",
+      "question": {
+        "id": "crit-myth-q",
+        "type": "mcq",
+        "prompt": "Bir öğrenci “Sosyal medyada beğeniler anında geliyor, o hâlde Maletzke modeli çöpe atılmalı” diyor. Bu argüman modeli nasıl yanlış okuyor?",
+        "options": [
+          "Modeller hiçbir koşulda güncellenemez, bu yüzden argüman haklı",
+          "Modeli bir kuram gibi tek karşı örnekle çürütülecek bir önerme sanıyor; oysa varsayımı (zayıf, dolaylı geri bildirim) uyarlanabilir",
+          "Maletzke geri bildirimi hiç dikkate almadığı için argüman geçersiz",
+          "Sosyal medya kitle iletişimi olmadığı için model onu kapsamaz"
+        ],
+        "answer": 1,
+        "explain": "Model bir harita gibi çalışır: bir varsayımı (geri bildirimin zayıflığı) yeni ortamda tutmuyorsa o parça uyarlanır, model bütünüyle çöpe atılmaz. Birinci şık modelleri değişmez sayar; oysa McQuail ve Windahl eski modellerin sık sık değiştirildiğini söyler. Üçüncü şık yanlış: Maletzke geri bildirimi (parafeedback) zaten şemaya koymuştur. Dördüncü şık tartışmalı bir iddiayı hazır cevap gibi sunuyor."
+      }
+    },
+    {
+      "id": "deep-model-theory",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Model ile kuram arasındaki çizgi",
+      "body": "[[lesson:what-is-theory]] dersinde modeli, bir sürecin parçalarını ve ilişkilerini sadeleştirip gösteren şema diye tanımladık ve kuramla karıştırılmaması gerektiğini söyledik. McQuail ve Windahl bu ayrımı birkaç noktada inceltir. [[cite:mcquail-windahl-1993]]\n\n**Yapısal ve dinamik.** Bazı modeller yalnızca yapıyı gösterir; bir radyo alıcısının parçalarını sayan bir şema gibi. Öbürleri enerji, güç ve bir parçanın ötekine etkisini de gösterir. Kitaplarındaki modellerin çoğu bu ikinci gruptandır, çünkü iletişim her zaman biraz süreçtir.\n\n**Risk.** Model kullanan araştırmacı bir çerçeveye hapsolabilir ve modeli saldırıdan korumaya çalışabilir; yazarlar bunun iletişim araştırmasında pek yaşanmadığını, eski modellerin çabuk atılıp değiştirildiğini söyler. Daha sinsi risk, bir modelin (ya da bir dizi modelin) gizli varsayımları sürdürmesidir: örneğin iletişimi göndericinin alıcıyı bilerek etkilemeye çalıştığı tek yönlü bir süreç diye çizmek, iletişimin döngüselliğini, pazarlığa açıklığını görünmez kılabilir.\n\n**Seçim.** Her amaca ve her düzeye uyan bir model yoktur; doğru modeli amaca göre seçmek gerekir. Bu dersteki üç model bu yüzden “hangisi doğru?” diye değil, “hangi soru için hangisi?” diye kullanılmalı: Jakobson bir iletinin işlevi için, Gerbner algı ve olay–ifade ilişkisi için, Maletzke kitle iletişiminin toplumsal ve psikolojik çevresi için."
+    },
+    {
+      "id": "today-tools",
+      "section": "today",
+      "layer": "core",
+      "kind": "text",
+      "title": "Bugün: her modelden bir soru",
+      "body": "Bu üç modeli ezberleyip rafa kaldırmak yerine üç soru olarak cebine koyabilirsin.\n\n**Jakobson: “Bu mesaj ne iş görüyor?”** Mesajlaşmada fatik işlev ayrı bir dünya: Kulkarni’nin çalışması, katılımcıların kısa tepkilerle temasın kurulup sürmesi için ciddi emek verdiğini gösterir. [[cite:kulkarni-2014]] Nesterova Coşkun ise emojileri duygusal işlevle ilişkilendirir ve Unicode’un 2019 martı itibariyle 3.019 emoji kaydettiğini, bir çalışmaya göre Instagram’daki metin mesajlarının neredeyse yarısının emoji içerdiğini aktarır. [[cite:nesterova-coskun-2023]] Bu sayılar makalenin aktardıklarıdır; kendi ölçümümüz değil.\n\n**Gerbner: “Bu haber olayın hangi kısmını gösteriyor?”** Toplumsal düzeyde E’yi potansiyel haber, M’yi medya, SE’yi medya içeriği, M2’yi izleyici alırsan şu sorular çıkar: medyanın anlattığı hikâyeler gerçekle ne kadar örtüşüyor, izleyici içeriği ne kadar anlıyor? [[cite:mcquail-windahl-1993]]\n\n**Maletzke: “Kim, hangi çevrede, hangi imgeyle?”** Model bir kontrol listesi gibi işe yarar: özellikle hedef kitlenin net tanımlanmasını ve iletişimcinin izleyicideki imajını hatırlatır. [[cite:mcquail-windahl-1993]]\n\nBizim yorumumuz (kaynaklı bir bulgu değil): platformlarda beğeni ve yorumlar geri bildirimi hızlandırdı; Maletzke’nin “zayıf, dolaylı geri bildirim” varsayımı bu ortamlarda yeniden sorgulanmalı, ama “kimin arkasında hangi çevre var?” sorusu hâlâ geçerli.",
+      "question": {
+        "id": "today-tools-q",
+        "type": "mcq",
+        "prompt": "Bir içerik üreticisi, takipçilerinin yorum ve beğenilerine göre hızla içerik değiştiriyor. Maletzke’nin şemasında en çok hangi varsayım yeniden sorgulanır?",
+        "options": [
+          "İleticinin bir ekip ve kurum içinde çalıştığı",
+          "Geri bildirimin zayıf ve dolaylı olduğu",
+          "Alıcının bir imgesi olduğu",
+          "Aracın alıcıyı biçimlendirdiği"
+        ],
+        "answer": 1,
+        "explain": "Beğeni ve yorumlar, kitle iletişiminde “dolaylı, gecikmeli” olan geri bildirimi hızlı ve görünür kılıyor; bu yüzden şemanın en çok sarsılan varsayımı geri bildirimin zayıflığı. Öbür üç varsayım (ekip ve kurum, imgeler, araçtan gelen zorlama) platform ortamında da geçerliliğini büyük ölçüde koruyor; hatta algoritmalar araç zorlamasını güçlendiriyor olabilir (bu ikinci çıkarım bizim)."
+      }
+    },
+    {
+      "id": "exam-patterns",
+      "section": "exam",
+      "layer": "core",
+      "kind": "text",
+      "title": "Sınavda böyle sorulur",
+      "body": "**Sık çıkan kalıplar**\n\n- “Göndergesel, duygusal, çağrı, şiirsel, kanal teyidi (fatik) ve üstdilsel işlevler hangi araştırmacıya aittir?” → Roman Jakobson (1960; sunum 1958).\n- “İletinin nasıl söylendiğine odaklanma hangi işlevdir?” → şiirsel. “Kanalı yoklama?” → kanal teyidi (fatik).\n- “İletişimi bir olayın algılanmasıyla başlatan model?” → Gerbner (1956).\n- “İletici, ileti, araç, alıcı ve aralarındaki imgeler ile baskıları gösteren model?” → Maletzke (1963).\n- Eşleştirme: dil merkezli → Jakobson; algı merkezli → Gerbner; toplumsal alan merkezli → Maletzke.\n\n**Cazip yanlışlar**\n\n- Jakobson’un altı işlevini Lasswell’in üç işleviyle (gözetim, ilişkilendirme, aktarım) karıştırmak. Aynı “işlev” sözcüğü, farklı listeler. [[concept:communication-functions]]\n- Gerbner’i yalnızca kültivasyonla anmak; ya da kültivasyon çalışmalarını 1956’ya yerleştirmek.\n- Maletzke’de etkiyi ayrı bir kutu sanmak. Maletzke Lasswell’in ilk dört öğesini alır.\n- Riley ve Riley’nin 1959 tarihli toplumsal sistem yaklaşımını Maletzke’nin 1963 şemasıyla birleştirmek. [[concept:riley-model]]\n- Yıllar: Gerbner 1956, Jakobson 1960 (bildiri 1958), Maletzke 1963.\n\n**Türkçede alternatif adlar**\n\n- Jakobson: Jakobson modeli, iletişim şeması, dilin işlevleri; fatik işlev için kanal teyidi, ilişki işlevi; üstdilsel için metadil, üstdil. [[cite:nesterova-coskun-2023]] [[cite:dalak-2021]]\n- Gerbner: Gerbner Modeli (1956), genel iletişim modeli. [[cite:iplikci-2015]]\n- Maletzke: Maletzke modeli, kitle iletişiminin alan şeması. Bazı kaynaklar Gerbner’i “süreç modelleri” arasında sayar. [[cite:iplikci-2015]]",
+      "question": {
+        "id": "exam-patterns-q",
+        "type": "mcq",
+        "prompt": "Sınav sorusu: “Kitle iletişimini iletici, ileti, araç ve alıcı öğeleri ile ileticinin öz imgesi, alıcı imgesi ve araçtan gelen zorlama gibi etkenlerin oluşturduğu bir alan olarak gösteren model hangisidir?” Doğru cevap hangisidir?",
+        "options": [
+          "Jakobson’un altı işlevi",
+          "Gerbner’in genel iletişim modeli",
+          "Maletzke’nin alan şeması",
+          "Riley ve Riley modeli"
+        ],
+        "answer": 2,
+        "explain": "İletici, ileti, araç, alıcı ve aralarındaki imgeler ile araç baskısı Maletzke’nin alan şemasıdır. Riley ve Riley cazip şıktır, çünkü onlar da toplumsal çevreyi öne çıkarır; ama onların yaklaşımı birincil ve ikincil gruplar ile toplumsal yapı üzerinedir, araç baskısı ve imgeler Maletzke’ye özgü öğelerdir. Gerbner algılamayla başlar, Jakobson ise iletinin işlevleriyle ilgilenir."
+      }
+    },
+    {
+      "id": "summary",
+      "section": "summary",
+      "layer": "core",
+      "kind": "summary",
+      "title": "Özet kartı",
+      "body": "- **Ortak kaygı:** Süreç modellerinin “iletinin yolculuğu” sorusuna üç ek bakış: dil, algı, toplumsal alan.\n- **Jakobson (1960):** Altı etken (gönderici, alıcı, bağlam, ileti, temas, kod) ve altı işlev (duygusal, çağrı, göndergesel, şiirsel, kanal teyidi/fatik, üstdilsel). Hiçbir ileti tek işlevli değildir; fark hiyerarşidedir. İlk üç işlev Bühler’den.\n- **Gerbner (1956):** Olay (E) algılanır (E1), ifade üretilir (SE), ikinci algılayan onu algılar (SE1). Algı boyutu ile araç ve denetim boyutu.\n- **Maletzke (1963):** İletici, ileti, araç, alıcı; öz imge, alıcı imgesi, araç zorlaması, toplumsal çevre, zayıf geri bildirim. Etki ayrı bir kutu değil.\n- **Riley ve Riley (1959):** Gönderici ve alıcı birincil ve ikincil gruplar ile toplumsal yapı içinde.\n- **Model ≠ kuram:** Model sadeleştirilmiş bir haritadır; örgütler, buluşsal işlev görür, gizli varsayımlar taşır.\n- **Bugün:** Fatik işlev mesajlaşmada, Gerbner haber–gerçek uyumunda, Maletzke kontrol listesi olarak.\n- **Sınav:** 1956 / 1960 / 1963 yılları; Jakobson’un işlevleri ile Lasswell’in işlevleri farklı listeler; Türkçe alternatif adlar.",
+      "question": {
+        "id": "summary-q",
+        "type": "tf",
+        "prompt": "Doğru mu yanlış mı: Maletzke’nin şemasında etki, Lasswell’deki gibi ayrı bir kutu olarak yer alır.",
+        "answer": false,
+        "explain": "Yanlış. Maletzke, Lasswell’in formülünün ilk dört öğesini (iletici, ileti, araç, alıcı) alır ve etkiyi ayrı bir kutu olarak çizmez; etki, alıcının seçme ve yaşantı sürecinin içinde kalır. “Etkiyi de çizmiştir” diyen öğrenci, Lasswell ile Maletzke’yi birbirine karıştırıyor."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Aşağıdaki sorulardan hangisi bu dersteki üç modelden en çok Jakobson’un modeline aittir?",
+      "options": [
+        "Bu ileti kimden kime, hangi kanaldan gitti?",
+        "Bu ileti hangi işi görüyor: bilgi vermek, duygu bildirmek, harekete geçirmek, teması sürdürmek?",
+        "Bu olayın hangi kısmı algılandı?",
+        "Bu yayının arkasında hangi kurum ve ekip var?"
+      ],
+      "answer": 1,
+      "explain": "İkinci şık Jakobson’un işlev sorusudur. Birinci şık Lasswell’in ve öteki süreç modellerinin sorusuna yakındır (kim, hangi kanaldan, kime). Üçüncü şık Gerbner’in algı sorusu, dördüncü şık Maletzke’nin ekip ve kurum sorusudur. Birinci şık cazip, çünkü Jakobson’un şemasında da gönderici, alıcı ve temas var; ama Jakobson bu öğelerin *ne iş gördüğünü* sorar, yolculuğu değil."
+    },
+    {
+      "id": "q2",
+      "type": "tf",
+      "prompt": "Doğru mu yanlış mı: Jakobson’un altı işlevinden üçü (duygusal, çağrı, göndergesel), Karl Bühler’in daha önce ayırdığı üç işlevle karşılık gelir.",
+      "answer": true,
+      "explain": "Doğru. Bühler’in ifade (Ausdruck), çağrı (Appell) ve betimleme (Darstellung) işlevleri Jakobson’un duygusal, çağrı ve göndergesel işlevlerine denk gelir; Jakobson üçüne şiirsel, fatik ve üstdilsel işlevleri ekledi. Yanlış işaretleyen öğrenci genellikle altı işlevin tümünün Jakobson’un buluşu olduğunu sanır; oysa Bühler’in 1934 tarihli *Sprachtheorie*’si ve Malinowski’nin fatik bağ kavramı Jakobson’dan önce vardı."
+    },
+    {
+      "id": "q3",
+      "type": "match",
+      "prompt": "Jakobson’un altı etkenini, her birine yönelen işlevle eşleştir.",
+      "pairs": [
+        [
+          "Bağlam",
+          "Göndergesel işlev"
+        ],
+        [
+          "Gönderici",
+          "Duygusal işlev"
+        ],
+        [
+          "Alıcı",
+          "Çağrı işlevi"
+        ],
+        [
+          "Temas (kanal)",
+          "Kanal teyidi (fatik) işlevi"
+        ],
+        [
+          "Kod",
+          "Üstdilsel işlev"
+        ],
+        [
+          "İleti",
+          "Şiirsel işlev"
+        ]
+      ],
+      "explain": "Bağlam dünyadan söz eder (göndergesel), gönderici tavrını taşır (duygusal), alıcı harekete geçirilir (çağrı), temas yoklanır (kanal teyidi), kod açıklanır (üstdilsel), iletinin kendisi öne çıkar (şiirsel). En sık karışan ikili, temas ile kodun işlevleridir: kanal teyidi hattı, üstdilsel işlev dili yoklar. “Hatta ses var mı?” ile “Bu sözcük ne demek?” aynı iş değildir."
+    },
+    {
+      "id": "q4",
+      "type": "order",
+      "prompt": "Olayları kronolojik sıraya diz (eskiden yeniye).",
+      "items": [
+        "Malinowski “fatik bağ” kavramını tanıtır (1923)",
+        "Bühler’in *Sprachtheorie*’si (1934)",
+        "Lasswell’in beş sorusu (1948)",
+        "Gerbner’in genel iletişim modeli (1956)",
+        "Jakobson’un “Closing Statement” yazısının yayımı (1960)",
+        "Maletzke’nin *Psychologie der Massenkommunikation*’ı (1963)"
+      ],
+      "explain": "Sıra: 1923 Malinowski, 1934 Bühler, 1948 Lasswell, 1956 Gerbner, 1960 Jakobson, 1963 Maletzke. En sık yapılan hata Gerbner’i Jakobson’un arkasına koymaktır; Jakobson’un metni 1958’de sunulduğu için erken sanılır, ama yayımı 1960’tadır. Malinowski ile Bühler’i ters sıralamak da yaygın: Malinowski 1923, Bühler 1934."
+    },
+    {
+      "id": "q5",
+      "type": "cloze",
+      "prompt": "Maletzke’nin şemasını tamamla.",
+      "text": "Maletzke, Lasswell’in {{1}} öğesini alır ve {{2}} ayrı bir kutu olarak çizmez. Her araç, ileticiyi ve alıcıyı kendi {{3}} biçimlendirir; alıcının tepkisi ise ileticiye ancak {{4}} ulaşır.",
+      "blanks": [
+        {
+          "options": [
+            "ilk dört",
+            "son üç",
+            "tüm beş"
+          ],
+          "answer": 0
+        },
+        {
+          "options": [
+            "etkiyi",
+            "kanalı",
+            "alıcıyı"
+          ],
+          "answer": 0
+        },
+        {
+          "options": [
+            "zorlamasıyla",
+            "gürültüsüyle",
+            "fazlalığıyla"
+          ],
+          "answer": 0
+        },
+        {
+          "options": [
+            "dolaylı, zayıf bir geri bildirimle",
+            "anında bir geri bildirimle",
+            "hiçbir biçimde"
+          ],
+          "answer": 0
+        }
+      ],
+      "explain": "Maletzke Lasswell’in ilk dört öğesini (iletici, ileti, araç, alıcı) alır, etkiyi ayrı kutu yapmaz. Araç, olanaklarıyla ve sınırlarıyla bir zorlama uygular. Alıcının tepkisi mektup, telefon ya da ölçüm gibi dolaylı ve zayıf bir geri bildirimle ulaşır. “Gürültü” ve “fazlalık” Shannon’ın kavramlarıdır; Maletzke’ye yükleyen öğrenci iki modeli karıştırıyor."
+    },
+    {
+      "id": "q6",
+      "type": "case",
+      "scenario": "Bir televizyon kanalı sel haberini hazırlıyor. Muhabir yalnızca bir mahallenin sokağını görebildi. Editör, izleyicilerin çoğunun evde yemek yerken bülteni izlediğini düşünüyor ve haberi 90 saniyeye sığdırıyor. Sunucu bültenin sonunda “Lütfen bölgeye gitmeyin, bizi izlemeye devam edin” diyor. (Varsayımsal senaryo.)",
+      "parts": [
+        {
+          "id": "q6a",
+          "type": "mcq",
+          "prompt": "Muhabirin yalnızca bir sokağı görmesi Gerbner’in şemasında neye karşılık gelir?",
+          "options": [
+            "E: olayın kendisi",
+            "E1: olayın M tarafından algılanmış, eksik hâli",
+            "SE1: ikinci algılayanın algısı",
+            "Araç ve denetim boyutu"
+          ],
+          "answer": 1,
+          "explain": "Muhabirin görebildiği kısım, olayın (E: bütün sel) algılanmış ve seçilmiş kesitidir: E1. E olayın tamamıdır, muhabirin görüşü değil. SE1 haberi izleyenin algısıdır. Araç ve denetim boyutu ise haberin nasıl aktarılacağıyla ilgilidir, olayın nasıl görüldüğüyle değil."
+        },
+        {
+          "id": "q6b",
+          "type": "mcq",
+          "prompt": "Haberin 90 saniyeye sığdırılması Maletzke’nin şemasında hangi öğedir?",
+          "options": [
+            "Araçtan gelen zorlama",
+            "Parafeedback",
+            "Alıcının öz imgesi",
+            "Ekip dışındaki toplumsal çevre"
+          ],
+          "answer": 0,
+          "explain": "Yayın süresi, aracın iletiyi biçimlendiren sınırlarıdır: araçtan gelen zorlama. Parafeedback alıcıdan ileticiye dönen dolaylı tepkidir. Alıcının öz imgesi izleyici tarafındadır. Editörün izleyiciyi “evde yemek yiyor” diye hayal etmesi ise ileticinin alıcı imgesidir; süre sınırından ayrı bir öğe."
+        },
+        {
+          "id": "q6c",
+          "type": "mcq",
+          "prompt": "Sunucunun “Lütfen bölgeye gitmeyin” cümlesi Jakobson’un hangi işlevini öne çıkarır?",
+          "options": [
+            "Göndergesel",
+            "Çağrı",
+            "Şiirsel",
+            "Üstdilsel"
+          ],
+          "answer": 1,
+          "explain": "İzleyiciyi bir davranıştan alıkoymak isteyen, emir kipindeki bu cümle alıcıya yöneliktir: çağrı işlevi. Göndergesel işlev sel hakkında bilgi verirdi; şiirsel işlev ses ve biçim oyunları için, üstdilsel işlev de dilin kendisini açıklamak için kullanılırdı. Bu cümlede hiçbiri başat değil."
+        }
+      ],
+      "takeaway": "Aynı haber üç ayrı soruyla okunabilir: olayın ne kadarı görüldü (Gerbner), hangi araç ve imge iletiyi biçimledi (Maletzke), ileti hangi işi görüyor (Jakobson)."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "Aşağıdakilerden hangisi Jakobson’un altı işlevinden biridir?",
+      "options": [
+        "Gözetim işlevi",
+        "İlişkilendirme işlevi",
+        "Kanal teyidi (fatik) işlevi",
+        "Aktarım işlevi"
+      ],
+      "answer": 2,
+      "explain": "Kanal teyidi (fatik) Jakobson’un işlevidir. Gözetim, ilişkilendirme ve aktarım ise Lasswell’in toplum için üç işlevidir. Sınavda bu tuzak sık kurulur: her iki listeye de “işlev” denir, ama listelerin öğeleri, sahipleri ve soruları farklıdır."
+    },
+    {
+      "id": "q8",
+      "type": "mcq",
+      "prompt": "Bir dinleyici “Radyo haberi bana hep güvenilir gelir” diye düşünüyor ve bu yüzden radyo bültenini tercih ediyor. Maletzke’nin şemasında bu düşünce neyi temsil eder ve neyi etkiler?",
+      "options": [
+        "Alıcının araç imgesini; neyi seçtiğini ve içeriği nasıl yaşadığını",
+        "İleticinin öz imgesini; haberin nasıl yazılacağını",
+        "Parafeedback’i; ileticiye dönen tepkiyi",
+        "Araçtan gelen zorlamayı; yayın süresini"
+      ],
+      "answer": 0,
+      "explain": "Alıcının araç hakkındaki imgesi (prestij, güvenilirlik) beklentileri belirler ve alıcının neyi seçeceğini, içeriği nasıl yaşayacağını etkiler. İleticinin öz imgesi iletici tarafında, haberin yazılışını etkiler. Parafeedback alıcıdan ileticiye giden tepkidir; burada dinleyici bir kanaate sahip, henüz tepki vermiyor. Araç zorlaması ise aracın kendi sınırlarıdır, dinleyicinin zihnindeki resim değil."
+    },
+    {
+      "id": "q9",
+      "type": "tf",
+      "prompt": "Doğru mu yanlış mı: Gerbner’in modeli iletişimi göndericinin “kim?” sorusuyla başlatır.",
+      "answer": false,
+      "explain": "Yanlış. Gerbner’in modeli bir olayın algılanmasıyla başlar: birisi bir olayı algılar. “Kim?” sorusuyla başlayan Lasswell’in formülüdür. Bu ayrım, Gerbner’in formülünün “neredeyse Lasswell’vari” diye anılması yüzünden karışır; benzerlik biçimde, fark başlangıçtadır."
+    },
+    {
+      "id": "q10",
+      "type": "mcq",
+      "prompt": "Yaylagül’ün aktardığına göre Riley ve Riley (1959) modelinde gönderici ve alıcı nerede yer alır?",
+      "options": [
+        "Yalnızca bireysel psikolojilerinin içinde",
+        "Birincil ve ikincil gruplar ile daha geniş bir toplumsal yapı içinde",
+        "Yalnızca medya kuruluşunun içinde",
+        "Toplumdan bağımsız bir teknik kanalın iki ucunda"
+      ],
+      "answer": 1,
+      "explain": "Riley ve Riley’ye göre gönderici ve alıcı, aile, akraba, arkadaş gibi birincil gruplar ile resmî örgütlerden oluşan ikincil gruplar içinde ve bunları kapsayan toplumsal yapı içinde bulunur. Birinci şık, modelin eleştirdiği psikoloji kökenli yaklaşımdır. Dördüncü şık Shannon–Weaver tarzı bir teknik şema anlatıyor."
+    }
+  ]
+}

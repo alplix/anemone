@@ -1,0 +1,17 @@
+{
+  "id": "jakobson-functions",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "Jakobson’s functions of language",
+  "altTerms": [
+    "Jakobson model",
+    "Jakobson’s communication model",
+    "the six functions of language"
+  ],
+  "slug": "jakobsons-functions",
+  "short": "According to Roman Jakobson a verbal message has six functions: referential, emotive, conative, poetic, phatic and metalingual. Each function is oriented to one factor of communication; one of them is usually dominant.",
+  "body": "Jakobson (1960) lists six factors of verbal communication and assigns a function of language to each. A message oriented to the context has the **referential** function: it speaks about the world. A message oriented to the addresser has the **emotive** function: it carries the speaker’s attitude and feeling. A message oriented to the addressee has the **conative** function: it wants to move the addressee to act. A message oriented to the message itself, that is to how it is said, has the **poetic** function. A message oriented to contact (the channel) has the **phatic** function: it checks that the line is open or keeps the conversation going. A message oriented to the code has the **metalingual** function: it talks about language.\n\nAccording to Jakobson no message has a single function; the differences lie in the hierarchy of functions. The function on top is the message’s dominant function. The model comes from a linguist and asks what a message is trying to achieve, not how accurately it is carried.",
+  "example": "“Hello, can you hear me?” is phatic; “The plane has left” is referential; “Oh no, the plane has left” adds an emotive layer to the same fact; “Walk to the exit” is conative."
+}
