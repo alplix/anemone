@@ -15,15 +15,15 @@
         { "id": "chicago-school", "prereq": ["social-thought-roots"], "minutes": 35, "ref": [], "status": "ready" },
         { "id": "mass-society", "prereq": ["social-thought-roots", "mass-media-history"], "minutes": 35, "ref": [], "status": "ready" },
         { "id": "lasswell-shannon-weaver", "prereq": ["what-is-theory"], "minutes": 35, "ref": ["P4"], "status": "ready" },
-        { "id": "process-models", "prereq": ["lasswell-shannon-weaver"], "minutes": 35, "ref": ["P6"], "status": "planned" },
-        { "id": "other-models", "prereq": ["process-models"], "minutes": 30, "ref": [], "status": "planned" }
+        { "id": "process-models", "prereq": ["lasswell-shannon-weaver"], "minutes": 40, "ref": ["P6"], "status": "ready" },
+        { "id": "other-models", "prereq": ["process-models"], "minutes": 35, "ref": [], "status": "ready" }
       ]
     },
     {
       "id": "early-effects", "color": "red",
       "lessons": [
-        { "id": "propaganda-history", "prereq": ["mass-society", "lasswell-shannon-weaver"], "minutes": 35, "ref": ["P6"], "status": "planned" },
-        { "id": "propaganda-public-opinion", "prereq": ["propaganda-history"], "minutes": 30, "ref": ["P6"], "status": "planned" },
+        { "id": "propaganda-history", "prereq": ["mass-society", "lasswell-shannon-weaver"], "minutes": 40, "ref": ["P6"], "status": "ready" },
+        { "id": "propaganda-public-opinion", "prereq": ["propaganda-history"], "minutes": 40, "ref": ["P6"], "status": "ready" },
         { "id": "magic-bullet", "prereq": ["propaganda-public-opinion"], "minutes": 35, "ref": ["P10"], "status": "ready" },
         { "id": "payne-fund-mars", "prereq": ["magic-bullet"], "minutes": 30, "ref": [], "status": "planned" },
         { "id": "persuasion-yale", "prereq": ["payne-fund-mars"], "minutes": 35, "ref": ["P5"], "status": "planned" },
