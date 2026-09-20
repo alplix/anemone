@@ -1,0 +1,23 @@
+{
+  "id": "berlo",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "name": "David K. Berlo",
+  "nativeName": "",
+  "slug": "david-berlo",
+  "short": "American communication scholar (1929–1996). His 1960 book The Process of Communication set out the lists of factors summed up as source–message–channel–receiver (SMCR).",
+  "roles": [
+    "communication scholar",
+    "university administrator"
+  ],
+  "bio": "David Kenneth Berlo was born in 1929 and died in 1996. He studied psychology at the University of Illinois and took a doctorate in communication there. In 1958 he became the first chairperson of the newly founded department of General Communication Arts at Michigan State University and held the post until he was appointed president of Illinois State University in 1971; his presidency lasted from 1971 to 1973.\n\nHe is best known for his 1960 book “The Process of Communication”. It presents communication as a model of six ingredients (source, encoder, message, channel, decoder, receiver) and discusses in detail the skills, attitudes, knowledge and place in a social-cultural system of source and receiver, the code, content and treatment of the message, and the sensory nature of the channel. The four-part short form that textbooks call SMCR is a later summary of this model. In the preface Berlo thanks Osgood and Schramm, whose writings shaped his thinking, and his colleague Malcolm MacLean; in the book he cites the “hypodermic needle” idea as a contrast to a process view.",
+  "works": [
+    {
+      "bib": "berlo-1960",
+      "note": "The six-ingredient model and the concept of process; regarded as the source of SMCR."
+    }
+  ],
+  "inCourse": "In [[lesson:process-models]] as the author of SMCR; in [[lesson:magic-bullet]] as someone who mentions the “hypodermic needle” as a contrast."
+}

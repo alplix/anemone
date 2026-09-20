@@ -1,0 +1,16 @@
+{
+  "id": "field-of-experience",
+  "family": "models",
+  "introducedBy": [
+    "schramm"
+  ],
+  "related": [
+    "schramm-model",
+    "circular-model"
+  ],
+  "sources": [
+    "schramm-1954-how-communication-works",
+    "schramm-1971-nature-models",
+    "wikipedia-tr-iletisim-modelleri-newcomb-schramm-berlo"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "westley",
+  "lang": "tr",
+  "name": "Bruce H. Westley",
+  "nativeName": "",
+  "slug": "bruce-westley",
+  "short": "Amerikalı gazetecilik hocası. Malcolm MacLean’le birlikte 1955–57’de, Newcomb’un ABX’ine kanal (kapı bekçisi) rolü ekleyen kitle iletişimi modelini yazdı.",
+  "roles": [
+    "gazetecilik profesörü"
+  ],
+  "bio": "Bruce H. Westley, modelin yazıldığı yıllarda Wisconsin Üniversitesi’nde gazetecilik dersleri veren bir hocaydı; Journalism Quarterly’nin 1957 tarihli makalesinin giriş notu, iki yazarı disiplinler arası doktora programlarından geçmiş gazetecilik öğretmenleri olarak tanıtır. Westley ve MacLean’in “A Conceptual Model for Communications Research” makalesi ilk kez 1955’te Audio-Visual Communication Review’da çıktı ve 1957’de gözden geçirilerek Journalism Quarterly’de yeniden yayımlandı.\n\nMakale, Newcomb’un iki kişilik ABX modelini kitle iletişimini kapsayacak biçimde genişletir: A (savunucu roller) ile B (alıcı, davranışsal sistem) arasına, alıcının vekili olarak seçim yapan bir C (kanal rolleri, kapı bekçisi) girer; geri bildirim üç hatta akar. Yazarlar modellerini bir kuram değil, kuramın ilk adımı olan bir paradigma olarak sunar. Bu sayfada yalnızca makalenin kendisinden ve kaynaklardan doğrulanabilen mesleki bilgiler vardır; yaşam tarihleri iki kaynakla doğrulanamadığı için yazılmamıştır.",
+  "works": [
+    {
+      "bib": "westley-maclean-1957",
+      "note": "Gözden geçirilmiş makale: A, B, C, X ve üç geri bildirim hattı."
+    },
+    {
+      "bib": "westley-maclean-1955",
+      "note": "Makalenin ilk sürümü (Audio-Visual Communication Review)."
+    }
+  ],
+  "inCourse": "[[lesson:process-models]] dersinde, Newcomb’un ABX’ini kitle iletişimine genişleten model olarak yer alır."
+}

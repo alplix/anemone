@@ -1,0 +1,17 @@
+{
+  "id": "feedback",
+  "family": "models",
+  "introducedBy": [],
+  "related": [
+    "schramm-model",
+    "westley-maclean-model",
+    "smcr-model",
+    "noise"
+  ],
+  "sources": [
+    "schramm-1954-how-communication-works",
+    "westley-maclean-1957",
+    "berlo-1960-smcr",
+    "sapienza-et-al-2016-transmission"
+  ]
+}

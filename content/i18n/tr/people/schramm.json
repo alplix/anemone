@@ -1,0 +1,30 @@
+{
+  "id": "schramm",
+  "lang": "tr",
+  "name": "Wilbur Schramm",
+  "nativeName": "",
+  "slug": "wilbur-schramm",
+  "short": "Amerikalı iletişim bilimcisi (1907–1987). Edebiyattan gelip 1947’de Illinois’de İletişim Araştırmaları Enstitüsü’nü kurdu; 1954’te süreç modellerinin ilk örneklerinden birini yazdı.",
+  "born": "Marietta, Ohio",
+  "roles": [
+    "iletişim bilimci",
+    "eğitimci",
+    "enstitü kurucusu"
+  ],
+  "bio": "Wilbur Schramm 1907’de Ohio’nun Marietta kentinde doğdu, 1987’de öldü. Marietta College’dan mezun olduktan sonra Harvard’da Amerikan uygarlığı üzerine yüksek lisans, Iowa’da 1932’de İngiliz edebiyatı doktorası yaptı; 1935–42 arasında Iowa Yazarlar Atölyesi’ni yönetti. Rogers’ın anlatımına göre çocukluğundaki ağır kekemelik, onun iletişime ilgisinin nedenlerinden biriydi.\n\nSavaş yıllarından sonra kitle iletişimine yöneldi: Rogers’a göre 1943’te Iowa’da bu alanda dünyanın ilk doktora programını düzenledi; 1947’de Illinois’de İletişim Araştırmaları Enstitüsü’nü kurdu. Daha sonra Stanford’da çalıştı ve emekliliğini Honolulu’da geçirdi. Rogers ve Chaffee gibi tarihçiler bu kurumsal çalışma yüzünden onu alanın kurucusu sayar; Pooley ise “dört kurucu” anlatısını kurarken Schramm’ın kendi rolünü de yazan bir “anıştırma girişimcisi” olduğunu savunur.\n\nDers kitaplarında en çok “How Communication Works” bölümüyle (1954; 1971’de yeniden yazıldı) anılır: Shannon’ın mühendislik zincirini insana uyarlar, iki deneyim dairesi çizer ve herkesin hem kodlayıp hem çözdüğünü söyler. 1971 bölümünde “Kurşun Kuramı” adını kendisi kullanır.",
+  "works": [
+    {
+      "bib": "schramm-1954-how-communication-works",
+      "note": "Süreç modellerinin ilk örneklerinden: mühendis zinciri, iki deneyim dairesi, geri bildirim."
+    },
+    {
+      "bib": "schramm-1971-nature",
+      "note": "Aynı bölümün yeniden yazımı; “Kurşun Kuramı” adının Schramm tarafından kullanıldığı yer."
+    },
+    {
+      "bib": "schramm-1997-beginnings",
+      "note": "İletişim çalışmalarının başlangıcına dair kişisel anı kitabı (ölümünden sonra yayımlandı)."
+    }
+  ],
+  "inCourse": "[[lesson:process-models]] dersinde “How Communication Works” modeliyle; [[lesson:magic-bullet]] dersinde “Kurşun Kuramı” adını kullanan biri olarak anılır."
+}

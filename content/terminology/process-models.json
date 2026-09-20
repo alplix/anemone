@@ -1,0 +1,143 @@
+{
+  "_comment": "Turkish terms chosen for the lesson process-models. status: sourced = attested in a Turkish source I opened; chosen = my own choice or rendering; check = weakly attested, needs a Turkish-language reviewer. The only Turkish source opened for this batch is the Turkish Wikipedia article 'İletişim modelleri' (sections on Newcomb, Schramm, Berlo and the classification doğrusal iletim / etkileşim / işlem models); the course books were not opened for these models, so no term below is claimed to come from a course book. Existing terms (feedback, gatekeeping, noise, source, channel, receiver, message, linear-transmission-model) are reused from core.json, what-is-communication.json and lasswell-shannon-weaver.json.",
+  "process-model": {
+    "en": "process model",
+    "tr": "süreç modeli",
+    "status": "check",
+    "alt": ["işlem modeli", "etkileşim modeli"],
+    "note": "Turkish Wikipedia distinguishes 'doğrusal iletim, etkileşim ve işlem modelleri'. In this lesson 'süreç modeli' is used for the whole group (Schramm, Newcomb, Westley–MacLean, Berlo) because the course title uses it; 'etkileşim' and 'işlem' are the terms of the three-way classification. Needs a Turkish reviewer."
+  },
+  "circular-model": {
+    "en": "circular model (Osgood–Schramm)",
+    "tr": "dairesel model (Osgood–Schramm)",
+    "status": "check",
+    "alt": ["döngüsel model", "Osgood–Schramm modeli", "dairesel iletişim modeli"],
+    "note": "'Dairesel' and 'döngüsel' are both natural renderings of 'circular'; neither Schramm text uses 'circular' (see the research notes). 'Schramm modeli' is the plain name used by Turkish Wikipedia."
+  },
+  "field-of-experience": {
+    "en": "field of experience",
+    "tr": "deneyim alanı",
+    "status": "sourced",
+    "alt": ["ortak deneyim alanı", "deneyim daireleri", "başvuru çerçevesi"],
+    "note": "Turkish Wikipedia: 'deneyim alanı' / 'deneyim alanları'. 'Başvuru çerçevesi' renders Schramm's own 1971 wording 'frame of reference'; 'deneyim daireleri' describes the drawing."
+  },
+  "encoder": {
+    "en": "encoder",
+    "tr": "kodlayıcı",
+    "status": "chosen",
+    "alt": ["kodlama yapan"],
+    "note": "Turkish Wikipedia uses 'kodlama' for the process; 'kodlayıcı' for the role is my choice (core.json has 'kodlama / kodaçımlama' for encoding/decoding, status check)."
+  },
+  "decoder": {
+    "en": "decoder",
+    "tr": "kod çözücü",
+    "status": "chosen",
+    "alt": ["kodaçımlayıcı"],
+    "note": "Turkish Wikipedia: 'kod çözme' for the process; 'kod çözücü' for the role is my choice."
+  },
+  "interpreter": {
+    "en": "interpreter",
+    "tr": "yorumlayıcı",
+    "status": "chosen",
+    "alt": [],
+    "note": "The third role in the scheme Schramm attributes to Osgood (encoder, decoder, interpreter). Turkish Wikipedia says the receiver 'kodunu çözmeli ve yorumlamalıdır'."
+  },
+  "object-of-orientation": {
+    "en": "object of orientation (X)",
+    "tr": "yönelim nesnesi (X)",
+    "status": "chosen",
+    "alt": ["konu ya da nesne (X)"],
+    "note": "Westley and MacLean: 'objects of orientation'. Turkish Wikipedia calls Newcomb's X 'konu/nesne' and speaks of 'yönelimler'."
+  },
+  "strain-toward-symmetry": {
+    "en": "strain toward symmetry",
+    "tr": "simetriye doğru gerilim",
+    "status": "check",
+    "alt": ["denge eğilimi"],
+    "note": "Wording 'strain toward symmetry' from the NAS memoir of Newcomb and Schramm 1971 ('Newcomb's strain for symmetry'). Turkish Wikipedia describes the same idea as 'gerginlik' and 'denge'. Needs a Turkish reviewer."
+  },
+  "advocacy-roles": {
+    "en": "advocacy roles (A)",
+    "tr": "savunucu roller (A)",
+    "status": "chosen",
+    "alt": ["amaçlı ileten roller"],
+    "note": "Westley and MacLean's 'As (Advocacy roles)': the communicator who selects and transmits messages purposively. 'Savunucu' is my rendering of 'advocacy'."
+  },
+  "behavioral-system": {
+    "en": "behavioral system (B)",
+    "tr": "davranışsal sistem (B)",
+    "status": "chosen",
+    "alt": ["alıcı sistem"],
+    "note": "Westley and MacLean's 'Bs (Behavioral system roles)': what is usually meant by the receiver or the public; a person, group or social system."
+  },
+  "channel-roles": {
+    "en": "channel roles (C)",
+    "tr": "kanal rolleri (C)",
+    "status": "chosen",
+    "alt": ["kapı bekçisi rolü"],
+    "note": "Westley and MacLean's 'Cs (Channel roles)': agents of B who select and transmit non-purposively; the gatekeeper role (gatekeeping is in core.json: 'kapı bekçiliği')."
+  },
+  "purposive-feedback": {
+    "en": "purposive / non-purposive feedback",
+    "tr": "amaçlı / amaçsız geri bildirim",
+    "status": "chosen",
+    "alt": ["bilinçli / bilinçsiz geri bildirim"],
+    "note": "Westley and MacLean's 'purposive' and 'non-purposive' feedback. 'Amaçlı/amaçsız' keeps their word 'purpose'; 'bilinçli/bilinçsiz' would misstate what they mean."
+  },
+  "smcr": {
+    "en": "SMCR model (Source–Message–Channel–Receiver)",
+    "tr": "SMCR modeli (Kaynak–Mesaj–Kanal–Alıcı)",
+    "status": "sourced",
+    "alt": ["Berlo modeli", "Kaynak–İleti–Kanal–Alıcı modeli"],
+    "note": "Turkish Wikipedia: 'SMCR modeli' or 'Kaynak-Mesaj-Kanal-Alıcı'. 'İleti' is the glossary form of 'message' in what-is-communication.json."
+  },
+  "communication-skills": {
+    "en": "communication skills",
+    "tr": "iletişim becerileri",
+    "status": "sourced",
+    "alt": [],
+    "note": "Turkish Wikipedia's rendering of Berlo's first source factor (writing, speaking, reading, listening, thought in Berlo's own list)."
+  },
+  "attitudes": {
+    "en": "attitudes",
+    "tr": "tutumlar",
+    "status": "sourced",
+    "alt": [],
+    "note": "Turkish Wikipedia; Berlo distinguishes attitude toward self, toward the subject matter and toward the receiver."
+  },
+  "knowledge-level": {
+    "en": "knowledge level",
+    "tr": "bilgi düzeyi",
+    "status": "sourced",
+    "alt": ["bilgi"],
+    "note": "Turkish Wikipedia uses 'bilgi'; Berlo's own heading is 'Knowledge Level'."
+  },
+  "social-cultural-system": {
+    "en": "social-cultural system",
+    "tr": "toplumsal-kültürel sistem",
+    "status": "sourced",
+    "alt": ["sosyal-kültürel sistem"],
+    "note": "Turkish Wikipedia: 'sosyal-kültürel sistem'; 'toplumsal-kültürel' is the form used in this lesson."
+  },
+  "treatment": {
+    "en": "message treatment",
+    "tr": "işleyiş (mesajın işlenişi)",
+    "status": "check",
+    "alt": ["sunuş", "davranış"],
+    "note": "Berlo's third message factor is 'treatment': the choices the source makes in delivering code and content. Turkish Wikipedia renders it 'davranış', which does not match Berlo's word and is flagged in the lesson; 'işleyiş' is my choice. Needs a Turkish reviewer."
+  },
+  "process": {
+    "en": "process (Berlo)",
+    "tr": "süreç",
+    "status": "sourced",
+    "alt": ["işlem"],
+    "note": "Berlo's concept of process: no beginning, end or fixed sequence; ingredients affect each other."
+  },
+  "transactional-model": {
+    "en": "interaction and transaction models",
+    "tr": "etkileşim ve işlem modelleri",
+    "status": "sourced",
+    "alt": [],
+    "note": "Turkish Wikipedia: 'doğrusal iletim, etkileşim ve işlem'. Mentioned only in the exam card; no concept page was created for the transactional model."
+  }
+}

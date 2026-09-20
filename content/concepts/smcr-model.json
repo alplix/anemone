@@ -1,0 +1,17 @@
+{
+  "id": "smcr-model",
+  "family": "models",
+  "introducedBy": [
+    "berlo"
+  ],
+  "related": [
+    "feedback",
+    "linear-transmission-model",
+    "schramm-model"
+  ],
+  "sources": [
+    "berlo-1960-smcr",
+    "communicationtheory-berlo-smcr",
+    "wikipedia-tr-iletisim-modelleri-newcomb-schramm-berlo"
+  ]
+}

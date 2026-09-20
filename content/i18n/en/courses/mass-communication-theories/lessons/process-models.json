@@ -1,0 +1,464 @@
+{
+  "id": "process-models",
+  "lang": "en",
+  "translation": { "status": "machine", "date": "2026-09-20" },
+  "title": "Process Models: Schramm, Berlo, Westley–MacLean, Newcomb",
+  "slug": "process-models",
+  "description": "Schramm’s overlapping circles, Newcomb’s ABX, Westley–MacLean’s gatekeeper C and Berlo’s SMCR: how communication became a process, and where the models stop.",
+  "claim": "Schramm, Newcomb, Westley–MacLean and Berlo added the participants’ shared experience, the relation between them, an intermediary gatekeeper and feedback to the one-way line of Lasswell and Shannon–Weaver, and so drew communication as a process; yet they remain maps and paradigms that include context, institutions and power only in part.",
+  "keywords": ["process models", "Schramm", "Osgood", "Newcomb", "ABX model", "Westley", "MacLean", "gatekeeper", "Berlo", "SMCR", "feedback", "field of experience", "circular model", "transmission view"],
+  "updated": "2026-09-20",
+  "timeline": {
+    "iowa-phd-1943": "Schramm sets up the mass-communication Ph.D. programme at Iowa (the world’s first, according to Rogers)",
+    "illinois-icr-1947": "Schramm founds the Institute of Communications Research at Illinois",
+    "shannon-weaver-book": "Shannon and Weaver, The Mathematical Theory of Communication (book): the starting point of this lesson",
+    "schramm-writes-1952": "Schramm writes “How Communication Works” (by his own account)",
+    "newcomb-abx": "Newcomb, “An Approach to the Study of Communicative Acts”: A, B, X",
+    "schramm-book-1954": "Schramm’s “How Communication Works” appears as the first chapter of The Process and Effects of Mass Communication",
+    "wm-avcr-1955": "Westley and MacLean, “A Conceptual Model for Communications Research” (first version, Audio-Visual Communication Review)",
+    "wm-jq-1957": "Westley and MacLean’s revised article, Journalism Quarterly",
+    "berelson-schramm-1959": "Berelson’s “the state of communication research” essay and Schramm’s reply: the phrase “founding fathers” appears for the first time (according to Pooley)",
+    "berlo-book": "Berlo, The Process of Communication (book)",
+    "schramm-four-founders-1963": "Schramm tells the “four founders” story in full in The Science of Human Communication (according to Pooley)",
+    "schramm-revision-1971": "Schramm rewrites the chapter as “The Nature of Communication between Humans”",
+    "sapienza-2016": "Sapienza and colleagues reconstruct the history of the transmission model",
+    "pooley-2017": "Pooley analyses how Schramm’s “four founders” story was built"
+  },
+  "cards": [
+    {
+      "id": "ctx-endless", "section": "context", "layer": "core", "kind": "story",
+      "title": "1954: one chapter, two diagrams",
+      "body": "Imagine opening the first chapter of a reader printed in 1954. The first page is surprisingly everyday. The author reminds you that the word “communication” comes from the Latin *communis*, “common”. Then he lines up three scenes: someone phones the fire brigade to shout that a house is burning, a young man in a parked car tries to tell the girl he loves how he feels, a newspaper tries to persuade its readers to back a political party. The process is the same in all of them, he says [[cite:schramm-1954-how-communication-works]].\n\nA few pages later the same author draws a plain chain that looks like a radio circuit: source, encoder, signal, decoder, destination. Put a microphone in place of the encoder and an earphone in place of the decoder and you have electronic communication; treat the source and encoder as one person and the decoder and destination as another and you have human communication. Then, in the same chapter, comes a warning that breaks the line: it is misleading to think of the communication process as starting somewhere and ending somewhere; the process is really an endless current, and each of us is a small switchboard in it [[cite:schramm-1954-how-communication-works]].\n\nThe author is [[person:schramm|Wilbur Schramm]]. He did not throw away the engineer’s diagram from the lesson [[lesson:lasswell-shannon-weaver]]; he borrowed it and added human layers on top. This lesson tells the story of those additions and of the three models that followed (Newcomb, Westley–MacLean, Berlo).",
+      "question": {
+        "id": "ctx-endless-q", "type": "mcq",
+        "prompt": "Which statement about Schramm’s 1954 chapter is correct?",
+        "options": [
+          "It rejects the Shannon–Weaver diagram and replaces it with a completely new drawing.",
+          "It adapts the radio-circuit-like chain to human communication and stresses that every participant both encodes and decodes and that the process has no clear ends.",
+          "It treats communication as an event specific to mass communication.",
+          "It never mentions feedback."
+        ],
+        "answer": 1,
+        "explain": "The second option is right: Schramm takes the engineering chain, uses it for humans and adds the ideas that everyone both encodes and decodes and that the process is endless. The first option is tempting because the story “the new model replaces the old” is easy to believe; but the chapter itself uses the old drawing as a starting point. The third option is wrong: the chapter describes the general process of communication before mass communication. The fourth option is wrong: feedback is defined separately in the chapter."
+      }
+    },
+    {
+      "id": "ctx-why", "section": "context", "layer": "core", "kind": "text",
+      "title": "Why the line was not enough",
+      "body": "The two models in the lesson [[lesson:lasswell-shannon-weaver]] were good at drawing the journey of a message from source to destination. But as researchers moved closer to the receiver’s side, places appeared where the line fell silent.\n\nSchramm summarises the period in 1971, looking back: the audience had been thought of as a defenceless target; but psychologists such as Hovland and his team at Yale found that an audience member’s experience and personality differences were very strong in determining how a message was received. By the middle of the 1950s, in his words, the “Bullet Theory” had been shot full of holes [[cite:schramm-1971-nature-models]]. (For the history of that label, see the lesson [[lesson:magic-bullet]].)\n\nThree things missing from the line were named:\n\n- **The receiver’s activity:** a message does not hit a target; the receiver selects and interprets.\n- **The place of meaning:** meaning is not in the signs but in the participants; it is the receiver’s response to the signs [[cite:schramm-1971-nature-models]].\n- **Return and relationship:** the speaker and the listener keep swapping roles; the relationship shapes the fate of the message.\n\nProcess models are attempts to fill these gaps; each one puts a different gap in the foreground.",
+      "question": {
+        "id": "ctx-why-q", "type": "mcq",
+        "prompt": "A city puts warning posters on its streets. Everyone notices the posters, but most older people do not understand a technical term in them. Where would you look for the problem in Schramm’s framework?",
+        "options": [
+          "The poster was not printed large enough; the problem is the capacity of the channel.",
+          "The message arrived undistorted, but the readers’ circle of experience overlaps too little with the term; the problem is sought in the overlap of the two circles.",
+          "The problem is only the readers’ inattention; the model has no place for it.",
+          "There is no problem: by Lasswell’s formula the question “with what effect?” has already been answered."
+        ],
+        "answer": 1,
+        "explain": "The second option is right: the message got through, but meaning is built in the receiver’s experience, and Schramm’s two circles show exactly that. The first option is tempting because “it did not get through” is the easiest diagnosis; but the poster was seen, and the problem is in understanding. The third option blames the receiver and thereby switches the model off, which is just what process models prevent. The fourth option treats the question “with what effect?” as answered instead of asked."
+      }
+    },
+    {
+      "id": "deep-labels", "section": "context", "layer": "deep", "kind": "text",
+      "title": "Deep dive: 1952, 1954, 1971 and the “Osgood–Schramm” label",
+      "body": "The names and years of models drift in textbooks; looking at the sources shows why.\n\n**The year.** At the start of his rewritten chapter of 1971, Schramm says he wrote “How Communication Works” in 1952; it had been the first chapter of the first edition of the reader [[cite:schramm-1971-nature-models]]. The chapter’s own footnote says the paper was first published in the *Shimbun Kenkyu* in Tokyo and later in the 53rd yearbook of an educational society [[cite:schramm-1954-how-communication-works]]. In an exam write 1954; 1952 is the year the paper was written.\n\n**Osgood.** In the 1954 chapter Schramm says in a footnote that he owes the learning-theory diagram to “his colleague Charles Osgood” [[cite:schramm-1954-how-communication-works]]. In 1971 he attributes to Osgood the scheme that stresses that each participant both receives and sends, both encodes and decodes, and interprets; as its source he gives an undated text by Osgood [[cite:schramm-1971-nature-models]].\n\n**The labels.** I could not find the names “Osgood–Schramm circular model” and “field of experience”, which you often see today, in either Schramm text (I read the texts from scanned copies): the 1954 text speaks of an “endless current” and “accumulated experience”, the 1971 text of a “frame of reference” [[cite:schramm-1954-how-communication-works]] [[cite:schramm-1971-nature-models]]. Secondary sources use these names [[cite:wikipedia-schramms-model]]; Sapienza and colleagues call the same model “Schramm and Osgood’s (1954)” [[cite:sapienza-et-al-2016-transmission]].\n\nPractical rule: use the common label in an exam, but when you write who brought what, say “Schramm (1954), drawing on Osgood’s ideas”."
+    },
+    {
+      "id": "who-when", "section": "people-time", "layer": "core", "kind": "text",
+      "title": "Who and when? Six names, seven years",
+      "body": "The heroes of this lesson come from different fields and fit into the years 1953–1960.\n\n- **Theodore Newcomb** [[person:newcomb]] (1903–1984): social psychologist. In 1953 he proposed the triangle of A, B and X in his paper on an approach to communicative acts [[cite:newcomb-1953]].\n- **Wilbur Schramm** [[person:schramm]] (1907–1987): from a literary background; in 1947 he founded the Institute of Communications Research at Illinois [[cite:illinois-icr-about]]. His chapter “How Communication Works” appeared in 1954 [[cite:schramm-1954-how-communication-works]].\n- **Charles Osgood** [[person:osgood]] (1916–1991): a psychologist at Illinois; the person who gave Schramm’s model some of its ideas [[cite:cas-illinois-osgood]].\n- **Bruce Westley** [[person:westley]] and **Malcolm MacLean** [[person:maclean]]: teachers of journalism; the first article in 1955, the revised one in 1957 [[cite:westley-maclean-1955]] [[cite:westley-maclean-1957]].\n- **David Berlo** [[person:berlo]] (1929–1996): a doctorate at Illinois, first chair of the communication department at Michigan State; his book came out in 1960 [[cite:isu-library-berlo]] [[cite:berlo-1960-smcr]].\n\nThe order: 1949 the Shannon–Weaver book, 1953 Newcomb, 1954 Schramm, 1955–57 Westley–MacLean, 1960 Berlo, 1971 Schramm’s rewrite.\n\nThe names are linked. Westley and MacLean start from Newcomb’s ABX and criticise Lasswell’s formula and the information-theory model [[cite:westley-maclean-1957]]. In his preface Berlo says the writings of Osgood and Schramm have permeated his thinking “beyond recognition”, and he thanks his colleague MacLean as well [[cite:berlo-1960-smcr]].",
+      "question": {
+        "id": "who-when-q", "type": "tf",
+        "prompt": "True or false: Westley and MacLean’s model starts from Newcomb’s ABX framework and was published before Berlo’s book.",
+        "answer": true,
+        "explain": "True. Westley and MacLean begin by describing the simple communication act with Newcomb’s A–B–X model and add to it a C role for mass communication; the article appeared in 1957 (its first version in 1955), Berlo’s book in 1960. The order can get muddled because textbooks arrange models by topic; the publication order is 1953, 1955–57, 1960."
+      }
+    },
+    {
+      "id": "deep-founder", "section": "people-time", "layer": "deep", "kind": "story",
+      "title": "Deep dive: who founded the field? Schramm, four “founders” and an interpretation",
+      "body": "Schramm’s own life is a story in itself. According to Rogers he developed a severe stutter at the age of five; at Iowa, among experts on stuttering, he overcame it to some extent with the counselling and exercises of Wendell Johnson, and Rogers thinks this was one of the reasons for his interest in communication [[cite:rogers-1994-history]]. (Schramm takes Johnson’s ten-step description of “Mr. A and Mr. B” into his own chapter in 1971 [[cite:schramm-1971-nature-models]].) Schramm took a doctorate in English literature, directed the Iowa Writers’ Workshop from 1935 to 1942, set up the first Ph.D. programme in mass communication at Iowa in 1943 and in 1947 moved to Illinois and founded the institute [[cite:rogers-1994-history]] [[cite:illinois-icr-about]].\n\nThe debate is this: who were the founders of the field? According to Pooley, from 1963 on Schramm wrote a “founding fathers” story about four names (Lazarsfeld, Lewin, Hovland, Lasswell); his material was his reply to Berelson’s 1959 essay saying the field was withering [[cite:pooley-2017-four-founders]]. Pooley’s reading: the field lacked standing, and Schramm borrowed the prestige of high-status pioneers; he calls him a “mnemonic entrepreneur” [[cite:pooley-2017-four-founders]]. Rogers and Chaffee, by contrast, argue that Schramm was too modest about himself and that the real founder was Schramm; as Pooley reports it, they write that nobody disputes this [[cite:pooley-2017-four-founders]].\n\nThe lesson: “founder” is not a fact but a choice of narrative. For an exam, memorise the four names; when you read history, ask who is telling the story."
+    },
+    {
+      "id": "claim-map", "section": "claim", "layer": "core", "kind": "text",
+      "title": "The core claim: four additions to the line",
+      "body": "The four models share one claim: communication is not a one-way dispatch from a source to a destination but a process kept going by participants who influence each other, with shared experience and a constant return. Each model adds a different part to this claim:\n\n- **Schramm (1954):** the more two people’s circles of experience overlap, the more easily meaning is shared; everyone both encodes and decodes; feedback ties the rope [[cite:schramm-1954-how-communication-works]].\n- **Newcomb (1953):** when two people talk about something (X) they orient at the same time toward each other and toward the thing; when their views diverge, a strain toward symmetry arises [[cite:converse-1994-newcomb-nas]].\n- **Westley–MacLean (1957):** mass communication is built with an intervening channel role (C, the gatekeeper); C selects like the receiver’s agent; feedback runs along three lines [[cite:westley-maclean-1957]].\n- **Berlo (1960):** each element of communication (source, message, channel, receiver) has factors that determine the outcome, and the elements are not independent of one another [[cite:berlo-1960-smcr]].\n\nThese four additions come on top of the two models in the lesson [[lesson:lasswell-shannon-weaver]]; they do not replace them. In the next step we open the four additions one by one.",
+      "question": {
+        "id": "claim-map-q", "type": "mcq",
+        "prompt": "A student says, “communication is nothing more than whether the message reaches its destination.” What is the four process models’ common objection?",
+        "options": [
+          "Reaching is not enough: meaning, the participants’ relationship and the return must be taken into account too.",
+          "The meaning of a message is determined only by the source’s intention.",
+          "The receiver is unimportant in communication; the channel determines everything.",
+          "Communication should be studied only at the face-to-face level."
+        ],
+        "answer": 0,
+        "explain": "The first option is right: what the four models have in common is that they redefine the success of transmission through the receiver, the relationship and the return. The second option is tempting because “the source’s intention” seems to fit Berlo’s stress on purpose; but Berlo, too, calls the receiver one of the most important links in the process. The third option turns the point upside down; the fourth contradicts Westley and MacLean’s effort to cover mass communication."
+      }
+    },
+    {
+      "id": "concepts-field", "section": "concepts", "layer": "core", "kind": "lab",
+      "title": "Lab: do your two circles overlap?",
+      "body": "Schramm’s most memorable drawing is two circles. In his own account the circles stand for the accumulated experience of two people: the source can encode only as much as its own experience allows, and the destination can decode only as much as its own experience allows. If the circles overlap in a large area, communication is easy; if the overlap is small, it is hard; if they do not overlap at all, it is impossible [[cite:schramm-1954-how-communication-works]]. His own examples: someone who has never learned Russian can neither encode nor decode in that language; someone who has never seen an aeroplane may take it for a big bird; someone with no science training has trouble reading Einstein [[cite:schramm-1954-how-communication-works]].\n\nNow try it (a hypothetical scene): a banker says to a ten-year-old nephew, “The transfer will reach the account tomorrow.”\n\n1. In the banker’s circle, what signs is this sentence loaded with?\n2. In the nephew’s circle, what do “transfer” and “account” evoke?\n3. What is left in the overlap? How can the banker move the sentence into the overlap?\n\nAccording to Schramm’s text, a source who thinks the other person will have trouble understanding can add examples and analogies [[cite:schramm-1954-how-communication-works]]; that is, choosing signs from the overlap is the way to enlarge the overlap. Textbooks call this drawing the [[concept:field-of-experience|field of experience]]; Schramm’s own words are “experience” in 1954 and “frame of reference” in 1971 [[cite:schramm-1971-nature-models]].",
+      "question": {
+        "id": "concepts-field-q", "type": "mcq",
+        "prompt": "A doctor says to a patient, “the drug has contraindications”; the patient looks bewildered. According to Schramm’s model, which move makes communication easiest?",
+        "options": [
+          "Repeating the sentence more loudly.",
+          "Recoding the same thing with signs close to the patient’s experience (an example, an analogy).",
+          "Stopping the patient from asking questions.",
+          "The doctor making no concessions from his professional language."
+        ],
+        "answer": 1,
+        "explain": "The second option is right: the message lies outside the patient’s circle, and the remedy is to move the signs into the overlap of the two circles. The first option is tempting because reading the problem as “it was not heard” is easy (channel and noise logic); but the patient has heard and has not understood. The third option closes the question and cuts off feedback; the fourth fixes the overlap instead of enlarging it."
+      }
+    },
+    {
+      "id": "concepts-glossary", "section": "concepts", "layer": "core", "kind": "text",
+      "title": "Glossary of concepts",
+      "body": "- **Encoder, decoder, interpreter:** according to Schramm everyone both encodes and decodes [[cite:schramm-1954-how-communication-works]]; the scheme that adds the role of “interpreter” is attributed to Osgood [[cite:schramm-1971-nature-models]]. See [[concept:circular-model]].\n- **Field of experience:** the overlap of two people’s circles of experience; shared meaning is built there. See [[concept:field-of-experience]].\n- **Feedback:** in Schramm the return process (you also get feedback from your own message); in Westley–MacLean purposive or non-purposive; in Berlo the message re-entering the source’s system. See [[concept:feedback]].\n- **A, B, C, X (Westley–MacLean):** A advocacy roles (those who transmit purposively), B behavioural system (the receiver: a person, group or society), C channel roles (those who select and transmit; the gatekeeper, see [[concept:gatekeeping]]), X the objects and events of the world. See [[concept:westley-maclean-model]].\n- **Orientation and symmetry (Newcomb):** a person’s view of a person or object; A, B and X are the three corners of one system. See [[concept:newcomb-abx-model]].\n- **SMCR:** the mnemonic name for Berlo’s six components reduced to four. See [[concept:smcr-model]].\n- **Process:** in Berlo, a whole with no beginning, end or fixed sequence, whose elements affect one another [[cite:berlo-1960-smcr]].\n- **Noise:** by the common definition Schramm reports, anything in the channel that the sender did not intentionally put there [[cite:schramm-1971-nature-models]]; see [[concept:noise]].",
+      "question": {
+        "id": "concepts-glossary-q", "type": "mcq",
+        "prompt": "In Westley and MacLean’s terms: a television viewer tries a well-advertised detergent, and the purchase enters a market survey’s data. What is this?",
+        "options": [
+          "Purposive feedback: the viewer deliberately answered the seller.",
+          "Non-purposive feedback: the viewer produced data even without meaning to give feedback.",
+          "A C role: the viewer became a gatekeeper.",
+          "X′: the viewer turned into an abstraction."
+        ],
+        "answer": 1,
+        "explain": "The second option is right: Westley and MacLean give this very example; the purchase becomes data for a market survey without the viewer’s intention. The first option is tempting because “feedback = a deliberate answer” sounds plausible; but purposive feedback is what is deliberately sent back, like an angry reader’s letter to an editor. The third and fourth options confuse other concepts (C and X′)."
+      }
+    },
+    {
+      "id": "assumptions-shared", "section": "assumptions", "layer": "core", "kind": "text",
+      "title": "Shared assumptions and one split",
+      "body": "Although the four models’ authors come from different disciplines, they share three things:\n\n1. **Participants are similar systems.** According to Berlo, source and receiver must be similar systems; the same person can be both, and usually is. “Source” and “receiver” are not names of separate beings but of behaviours that have to be performed in communication [[cite:berlo-1960-smcr]].\n2. **Meaning is in people.** According to Schramm, meaning exists within the participants; it is the receiver’s response to the signs [[cite:schramm-1971-nature-models]]. That is why the circle of experience is at the centre of the model.\n3. **A model is a map.** Berlo compares a process to a camera: the frame stops the process and is not the event itself [[cite:berlo-1960-smcr]]. According to Schramm, what tests a model is not whether it is a copy of reality but whether it lets you make predictions [[cite:schramm-1971-nature-models]].\n\nNewcomb’s model adds a fourth assumption: people try to keep their views in balance; divergence creates strain [[cite:converse-1994-newcomb-nas]].\n\n**The split: purpose.** In Berlo the source has a purpose and communication is an effort to obtain a response [[cite:berlo-1960-smcr]]. Westley and MacLean also take non-purposive messages into the model: if the person transmitting has no intention to influence, the message is an X; the intervening C is non-purposive too [[cite:westley-maclean-1957]]. In talking about mass communication this difference changes who counts as the “source”.",
+      "question": {
+        "id": "assumptions-shared-q", "type": "tf",
+        "prompt": "True or false: according to Berlo, source and receiver are two independent functions and make up the beginning and end of communication.",
+        "answer": false,
+        "explain": "False. Berlo writes that the source seems to be the beginning and the receiver the end, but that this is only a cut we make in order to talk about the model; he says it is not meaningful to assume the two functions are independent. “Beginning and end” is the language of linear models; Berlo’s concept of process says the opposite."
+      }
+    },
+    {
+      "id": "how-schramm", "section": "how-it-works", "layer": "core", "kind": "steps",
+      "title": "Schramm’s model, step by step",
+      "body": "1. **The source wants to share something and encodes it.** It turns a feeling or piece of information into signs that can be transmitted (speech, writing, gesture) [[cite:schramm-1954-how-communication-works]].\n2. **The sign leaves the source.** Once encoded, the message is independent of its sender; Schramm’s example is the helplessness every writer feels when handing the text over to be printed [[cite:schramm-1954-how-communication-works]].\n3. **The destination receives the sign and decodes it,** but only with meanings inside its own circle of experience [[cite:schramm-1954-how-communication-works]].\n4. **Interpretation and response.** The learned responses a sign calls up are its meaning; this meaning pushes the destination to do something, that is, to start encoding [[cite:schramm-1954-how-communication-works]].\n5. **The return.** The destination is now in the source’s place; its response is feedback. Feedback does not come only from the other side: a person who hears his own voice and corrects his pronunciation, or sees what he has written and corrects it, also gets feedback from his own message [[cite:schramm-1954-how-communication-works]].\n6. **The strength of the chain.** The system is only as strong as its weakest link: the source’s information, the accuracy of the encoding, the speed and accuracy of transmission, the message being decoded in a way that matches what the source encoded, the destination being able to respond to it [[cite:schramm-1954-how-communication-works]].\n\nThese six steps can be read like a circle, but Schramm’s own phrase is an “endless process”: the two sides keep swapping roles.",
+      "question": {
+        "id": "how-schramm-q", "type": "mcq",
+        "prompt": "A writer reads an article aloud before publishing it and corrects the repeated sentences. In Schramm’s terms, what is this?",
+        "options": [
+          "Feedback from the receiver",
+          "Feedback from one’s own message",
+          "Removal of channel noise",
+          "Enlarging the circle of experience"
+        ],
+        "answer": 1,
+        "explain": "The second option is right: Schramm counts hearing our own voice and correcting a mispronunciation, or seeing what we have written and correcting a spelling mistake, as feedback from our own message. The first option is tempting because feedback is often taught as “a reaction coming from the other side”; but Schramm separates two kinds. The third option is wrong because the writer is not removing an outside disturbance; the fourth is wrong because the writer is not changing his own experience."
+      }
+    },
+    {
+      "id": "how-newcomb", "section": "how-it-works", "layer": "core", "kind": "text",
+      "title": "Newcomb’s triangle: A, B and X",
+      "body": "Someone tells you, “this documentary is wonderful.” The sentence’s value depends on two things: the documentary and the speaker. Did the same sentence come from a friend you like or from someone you have never warmed to? Newcomb’s 1953 paper turns this pair into a model.\n\nAs Westley and MacLean report it, a mature person (B) does not orient toward an object (X) alone; if an A is there, he orients simultaneously toward both A and X. His view of X now depends not only on the satisfactions X itself can offer but also on the relation between A and X. So the full meaning of an opinion cannot be understood apart from who says it [[cite:westley-maclean-1957]].\n\nNewcomb’s prediction (in Westley and MacLean’s summary): other things being equal, when A tells B something about X and B likes A (or at least does not dislike A), B’s perception of X after the communication is more similar to A’s than it was before [[cite:westley-maclean-1957]]. Newcomb frames this as a “strain toward symmetry” and draws on Heider’s ideas of balance [[cite:converse-1994-newcomb-nas]]. In 1971 Schramm counts A–B–X as an early example of consistency theories [[cite:schramm-1971-nature-models]].\n\nThe model thus moves from the “carrying messages” line to a “relationship triangle”: communication is a way of keeping two people’s views of something in balance. The limit is here too: according to Westley and MacLean, A and B in Newcomb are only persons [[cite:westley-maclean-1957]]; the next card shows how they get past this limit.",
+      "question": {
+        "id": "how-newcomb-q", "type": "mcq",
+        "prompt": "A friend you like praises a documentary. In Newcomb’s framework (other things being equal), what is the most likely outcome?",
+        "options": [
+          "Your view of the documentary moves closer to your friend’s.",
+          "Your view moves away from your friend’s.",
+          "Nothing happens; communication only carries information.",
+          "You cannot form a view without watching the documentary."
+        ],
+        "answer": 0,
+        "explain": "The first option is right: if B likes A, B’s perception of X moves toward A’s after the communication. The third option is tempting because it is the view of line models (communication = information transfer); Newcomb says the relationship also changes the view of X. The second option describes what may happen with someone you dislike and contradicts the condition “other things being equal”; the fourth is a claim outside A–B–X."
+      }
+    },
+    {
+      "id": "how-wm", "section": "how-it-works", "layer": "core", "kind": "steps",
+      "title": "Westley and MacLean: a C steps in",
+      "body": "1. **The simple act.** A transmits something about X to B (Newcomb). In the face-to-face case many senses are at work and feedback returns at once [[cite:westley-maclean-1957]].\n2. **Mass communication is different:** the variety of senses shrinks, and feedback is minimised or delayed [[cite:westley-maclean-1957]].\n3. **B’s surroundings are full of Xs.** B orients selectively according to his needs and security problems. Some Xs arrive directly: seeing through the window that a neighbour’s house is on fire is information without any A [[cite:westley-maclean-1957]].\n4. **A C for Xs out of reach.** C selects the abstractions suited to B’s needs, turns them into symbols with shared meanings and transmits them through a channel. The authors introduce C as Lewin’s gatekeeper as adapted by White and as Bush’s “encoder” [[cite:westley-maclean-1957]].\n5. **Whose agent is C?** B’s. C survives only to the extent that it satisfies B’s needs; B chooses among many Cs, so Cs are rivals for attention [[cite:westley-maclean-1957]].\n6. **Three feedback lines.** From B to A, from B to C and from C to A. They can be purposive (an angry reader’s letter) or non-purposive (purchase data) [[cite:westley-maclean-1957]].\n\nTheir own examples are charming: if a housewife with too much to do cannot go round her neighbours, the neighbourhood gossip becomes her C; a remote frontier colony posts a sentinel; a state sets up a diplomatic service [[cite:westley-maclean-1957]].",
+      "question": {
+        "id": "how-wm-q", "type": "mcq",
+        "prompt": "According to Westley and MacLean, on whose behalf does a newspaper’s news editor (the C role) make choices?",
+        "options": [
+          "On behalf of A, the source of the news: he passes on A’s message.",
+          "On behalf of the receiver B: he selects the Xs suited to B’s needs and problems.",
+          "Only on his own behalf: his selection has no relation to anyone.",
+          "On behalf of advertisers: the income comes from them."
+        ],
+        "answer": 1,
+        "explain": "The second option is right: in the article C is the person who selects as B’s agent; his survival depends on satisfying B’s needs. The first option is tempting because the habit of “news source = A” is strong; but C is defined precisely as not being a purposive A. The fourth option is an economic claim from outside the model and is not in the 1957 article; the third option cuts C off from B and is therefore wrong."
+      }
+    },
+    {
+      "id": "how-berlo", "section": "how-it-works", "layer": "core", "kind": "text",
+      "title": "Berlo: the factors inside four elements",
+      "body": "Berlo’s 1960 book moves forward with a question: what should you look at in an analysis of communication? The answer is a model of six components: source, encoder, message, channel, decoder, receiver. When two people talk, source and encoder and receiver and decoder can be treated together; four elements remain. This is the short form textbooks call SMCR [[cite:berlo-1960-smcr]].\n\nThe weight lies in the factors inside the elements:\n\n- **Source (and, as its mirror, the receiver):** communication skills (writing, speaking, reading, listening and thought), attitudes (toward oneself, the subject matter and the other person), knowledge level, place in a social-cultural system.\n- **Message:** code, content and treatment (*treatment*: how something is said as well as what); each with elements and structure.\n- **Channel:** in its simplest sense the senses: seeing, hearing, touching; now and then taste and smell.\n\nBerlo’s own examples are nice: if a salesman does not believe in the product this leaks into his message; on a newspaper the reporter, the desk editor, the typesetter and the deliverer are parts of one communication network [[cite:berlo-1960-smcr]]. This is a list model: it says “look here”, it does not say “this is what will happen”. Berlo himself says the model tries to be useful rather than “true”.",
+      "question": {
+        "id": "how-berlo-q", "type": "mcq",
+        "prompt": "A salesman does not believe in the product he sells, and it shows. Which of Berlo’s factors explains this?",
+        "options": [
+          "The source’s communication skills (writing and speaking)",
+          "The source’s attitude toward the subject matter",
+          "The sensory nature of the channel",
+          "The receiver’s knowledge level"
+        ],
+        "answer": 1,
+        "explain": "The second option is right: Berlo writes that the source’s attitude toward the subject matter leaks into his message and that a salesman cannot sell what he does not believe in. The first option is tempting because “he cannot speak persuasively” comes to mind; but the problem is belief, not skill. The third and fourth options are features of the channel and the receiver, not of the source."
+      }
+    },
+    {
+      "id": "deep-smcr", "section": "how-it-works", "layer": "deep", "kind": "text",
+      "title": "Deep dive: “SMCR” is not in Berlo’s book",
+      "body": "You may have learned Berlo’s model as SMCR. I could not find that acronym in the scanned text of the book (a scan can be imperfect, so I am not certain): Berlo presents a model with six components and says that source-encoder and decoder-receiver can be treated as pairs in person-to-person communication [[cite:berlo-1960-smcr]]. SMCR is a later simplification.\n\nThe second difference is in the numbers. Popular summaries count five factors for the source (skills, attitudes, knowledge, social system, culture) and five for the message (content, elements, treatment, structure, code) [[cite:communicationtheory-berlo-smcr]]. Berlo’s own chapter gives four factors for the source-encoder (social-cultural system under one heading) and three for the message (code, content, treatment, each analysed by elements and structure) [[cite:berlo-1960-smcr]]. Turkish Wikipedia also gives four source factors but renders Berlo’s word *treatment* as “davranış” (behaviour) [[cite:wikipedia-tr-iletisim-modelleri-newcomb-schramm-berlo]].\n\nThe third difference is in classification. The summaries call the model linear and without feedback [[cite:communicationtheory-berlo-smcr]]. Berlo, however, writes at the start of the chapter that the process has no beginning or end, calls source and receiver “names of behaviours”, and takes up feedback only in later chapters of the book [[cite:berlo-1960-smcr]].\n\nIn an exam write the version in your book; in a discussion go back to Berlo’s own text."
+    },
+    {
+      "id": "how-lab", "section": "how-it-works", "layer": "core", "kind": "lab",
+      "title": "Lab: solve one episode with two models",
+      "body": "**The episode (documented).** A series of cartoons had been prepared to make prejudice look ridiculous: a character called “Mr. Biggott” displayed absurd prejudices; for example, in hospital he demanded only “sixth generation American blood” for a transfusion. The study was done for the research department of the American Jewish Committee; the Bureau of Applied Social Research at Columbia carried it out. The expected path was this: the prejudiced reader sees that Biggott’s ideas resemble his own, finds Biggott absurd, realises the ideas are absurd, and gives up his prejudice. What happened was different: some of those who first understood the cartoon tried so hard to escape identifying with Biggott that they missed its point; the authors called this a “derailment of understanding” [[cite:cooper-jahoda-1971-reprint]]. (You met the same episode in the lesson [[lesson:magic-bullet]] for a different question.)\n\n**Task 1: Schramm.** Draw the cartoonist’s circle and the prejudiced reader’s circle. What is in the overlap? The authors also describe cases where the reader took the cartoon into his own frame of reference and transformed it [[cite:cooper-jahoda-1971-reprint]].\n\n**Task 2: Newcomb.** A is the cartoonist, B the reader, X prejudice. Does B feel close to A? Is the reader’s reaction toward A’s view, or away from it?\n\n**Task 3: The gap.** Neither model tells you “what happened”; they show you where to look. (The interpretation is ours; the article’s authors themselves call the part that explains the motives “speculative”.)",
+      "question": {
+        "id": "how-lab-q", "type": "mcq",
+        "prompt": "In the Mr. Biggott episode, which question does Schramm’s model make you ask?",
+        "options": [
+          "Was the cartoon distorted in the channel?",
+          "How did the cartoon’s signs meet the reader’s experience and frame of reference?",
+          "How many people saw the cartoon?",
+          "Was the cartoonist’s encoder strong enough?"
+        ],
+        "answer": 1,
+        "explain": "The second option is right: the problem is how the signs settled into the reader’s frame, and Schramm’s circles make you ask exactly that. The first option is tempting because the line model’s first reflex is to look for “distortion in the message”; but the cartoon arrived undistorted and the meaning went off the rails inside the reader. The third option measures reach and the fourth the strength of encoding; both miss the receiver’s active interpretation."
+      }
+    },
+    {
+      "id": "evidence-test", "section": "evidence", "layer": "core", "kind": "text",
+      "title": "What is a model tested by?",
+      "body": "The source texts of these models (Schramm 1954, Westley–MacLean 1957, Berlo 1960) are proposals for a conceptual framework, not experimental reports; that is why the “evidence” section does not describe an experiment. Their authors’ own yardsticks:\n\n- **Schramm:** most of communication happens in the “black box” of the central nervous system; so models are analogies and gross functions, and the test is not whether a model is a copy of the black box but whether it lets you make predictions [[cite:schramm-1971-nature-models]].\n- **Westley and MacLean:** they write that their model is not a full theory but a paradigm, and that its worth lies in its heuristic value [[cite:westley-maclean-1957]].\n- **Berlo:** he says no model is “right” or “true”; some are more useful than others [[cite:berlo-1960-smcr]].\n\nStill, each model has a sentence that can be tested:\n\n- Newcomb and Westley–MacLean: B’s perception of X moves toward A’s if B likes A.\n- Schramm: the less experiences overlap, the harder it is to understand each other.\n- Berlo: the relationship between the skills of source and receiver is more decisive than skill level alone (he calls this relationship a “vital” determinant of the accuracy of communication, its *fidelity*) [[cite:berlo-1960-smcr]].\n\nThe honest answer in an exam to “what is the evidence for the model?”: the model itself is not evidence but a framework that guides research; the real evidence is sought in the fields it borrows from (social psychology, learning theory, information theory).",
+      "question": {
+        "id": "evidence-test-q", "type": "tf",
+        "prompt": "True or false: according to Schramm, a good communication model is one that copies exactly what goes on inside the black box.",
+        "answer": false,
+        "explain": "False. Schramm says most of communication takes place in the black box of the nervous system and that models are therefore analogies; the yardstick is whether a model lets you make predictions. The “copy” yardstick treats a model as a photograph instead of a map; Berlo, too, stresses that a map cannot draw the territory completely."
+      }
+    },
+    {
+      "id": "deep-noise", "section": "evidence", "layer": "deep", "kind": "text",
+      "title": "Deep dive: the semantic-noise argument, 1949 and 1957",
+      "body": "In 1949 Weaver had proposed adding “semantic receiver” and “semantic noise” boxes to Shannon’s diagram [[cite:shannon-weaver-1949]]; the details are in the lesson [[lesson:lasswell-shannon-weaver]]. Eight years later, evaluating the information-theory–cybernetics paradigm, Westley and MacLean voice an interesting reservation.\n\nThey write that this paradigm too assumes a communicator (though not necessarily a purposive one) and carries all the problems of a “borrowed” model; assuming perfect correspondence between the symbol systems encoded and decoded strains common knowledge [[cite:westley-maclean-1957]]. In a footnote they give the detail: in information theory the “ensembles” used for encoding and decoding are equivalent; the only encoder–decoder disagreement defined is noise in the channel, and noise is random events. Some writers have suggested distinguishing “channel noise” from “semantic noise” (decoding errors due to differences between the encoding and decoding ensembles). Westley and MacLean write that the distinction is important but looks like bending the model to satisfy common sense, that it is not clear how the mathematical relations could survive it, since such noise must be systematic and not random; for a technical treatment they point to an article by Cronbach [[cite:westley-maclean-1957]].\n\nInterpretation (ours): Schramm’s circles and Westley–MacLean’s stress on “symbols with shared meanings” are two ways of putting the same problem into the model instead of adding it to the mathematics."
+    },
+    {
+      "id": "crit-myth", "section": "critique", "layer": "core", "kind": "myth",
+      "title": "Does “process model” mean a model that draws a circle?",
+      "body": "**What people assume.** “Linear” models are one-way lines and “process” models draw loops; Schramm’s circular model, Berlo’s SMCR and Westley–MacLean are this new generation. In Turkish Wikipedia Berlo’s model is called a “linear transmission model” [[cite:wikipedia-tr-iletisim-modelleri-newcomb-schramm-berlo]] and a popular summary lists the lack of feedback among its faults [[cite:communicationtheory-berlo-smcr]].\n\n**What the evidence says.** The sources are more complicated:\n\n- In 1954 Schramm does not say “circular”; he says the process has no beginning or end [[cite:schramm-1954-how-communication-works]]. The “circular” label came later.\n- Berlo defines “process” as a point of view and not a drawing: elements affect one another and there is no fixed order; but his first model is a list of six components, and the term feedback enters the book only in the chapter on learning [[cite:berlo-1960-smcr]].\n- Westley and MacLean put “feedback” in quotation marks and write that A “transmits” something to B; Sapienza and colleagues therefore still count the model as transmission-based [[cite:westley-maclean-1957]] [[cite:sapienza-et-al-2016-transmission]].\n\nConclusion: “process” is a way of reading, not a way of drawing; and a half-finished way of reading at that: the language is still the language of sending, transmitting and encoding.",
+      "question": {
+        "id": "crit-myth-q", "type": "mcq",
+        "prompt": "Which statement about the “process” emphasis in Berlo’s 1960 book is the most accurate?",
+        "options": [
+          "Berlo draws communication as a circle and makes feedback the main box of the model.",
+          "Berlo argues that a process has no beginning, end or fixed order and that the elements affect one another; but the model in the book is a list of components.",
+          "Berlo says that communication is linear and that process is an illusion.",
+          "Berlo defines process through Shannon–Weaver’s concept of channel capacity."
+        ],
+        "answer": 1,
+        "explain": "The second option is right: Berlo defines process as having no beginning or end and as an interaction of elements, and says a model freezes the process like a photograph; the model itself is a list of six components. The first option is tempting because the habit “process = circle” is strong; in the book feedback is not a box in the first model. The third option turns Berlo’s thesis upside down; the fourth confuses concepts."
+      }
+    },
+    {
+      "id": "crit-limits", "section": "critique", "layer": "core", "kind": "text",
+      "title": "What can they still not draw?",
+      "body": "These models turned the line into a network; let us also say honestly where they stop.\n\n- **Context in one box.** Berlo puts the social-cultural system into the list of features of source and receiver; Schramm in 1971 treats the social layers of communication (the situation, relationships, relevant groups, society) separately in the text [[cite:berlo-1960-smcr]] [[cite:schramm-1971-nature-models]]. Carey’s [[concept:ritual-view|ritual view]], on the other hand, reads communication as sharing and sustaining a common world [[cite:carey-1989]]; see [[lesson:ritual-view]].\n- **The language of transmission continues.** According to Sapienza and colleagues, the Westley–MacLean model is still counted as transmission-based because of its terminology and its way of conceiving communication [[cite:sapienza-et-al-2016-transmission]].\n- **Feedback is secondary.** In Berlo’s first model feedback is not a component; in Westley–MacLean it is minimised or delayed in mass communication [[cite:berlo-1960-smcr]] [[cite:westley-maclean-1957]].\n- **Institutions’ interests are absent.** C is drawn as the receiver’s agent; the owners’ interests do not appear in the model (interpretation). Westley and MacLean are partly aware: a reporter may in practice act as an advocate; the authors treat this as a gap between role prescription and actual behaviour and leave it as an empirical question [[cite:westley-maclean-1957]].\n\n**What do defenders say?** The authors say from the start that the models are maps: Berlo on the limits of freezing a process with a camera, Westley and MacLean that the model is a paradigm and not a theory, Schramm that the yardstick is prediction [[cite:berlo-1960-smcr]] [[cite:westley-maclean-1957]] [[cite:schramm-1971-nature-models]]. “What did they leave out?” is a fair question, and so is “what did what they drew make you ask?”",
+      "question": {
+        "id": "crit-limits-q", "type": "mcq",
+        "prompt": "A critic says, “the Westley–MacLean model does not show the owners’ interests in news-making.” Based on the text, which reply is the fairest?",
+        "options": [
+          "The model has already solved all of these problems.",
+          "The model calls itself a paradigm, not a theory, and leaves the gap between C’s role prescription and behaviour open as an empirical question; but owners’ interests really do not appear in the model.",
+          "The criticism is meaningless because journalists are always neutral.",
+          "The model was designed only for face-to-face communication, so the criticism is off topic."
+        ],
+        "answer": 1,
+        "explain": "The second option is right: it both concedes that the criticism touches a real gap and reports the model’s own framework (paradigm, the gap between role and behaviour) accurately. The first option exaggerates the model’s claim; the third contradicts the fact that Westley and MacLean themselves write that a reporter may act as an advocate; the fourth is wrong because the model was written precisely to cover mass communication."
+      }
+    },
+    {
+      "id": "deep-straw", "section": "critique", "layer": "deep", "kind": "text",
+      "title": "Deep dive: “was the transmission model a straw man?” debate",
+      "body": "In this lesson we told the move “from line to process” like a story of progress. Historiography looks at this story from different sides; let me separate who says what.\n\n**1. The story itself.** Sapienza and colleagues (2016) summarise the field’s dominant narrative in three assumptions: the stages follow one another, the two views (transmission and ritual) exclude each other, and history is defined by metaphors. They take a different stance themselves [[cite:sapienza-et-al-2016-transmission]].\n\n**2. The source.** The same article argues that the transmission metaphor was not born with Shannon and Weaver: the telegraph terms of Hartley and Nyquist, general semantics. They write that Shannon used “transmission” literally and that it was Weaver who turned it into a metaphor for human communication; they also say that their essay is not a defence of the transmission metaphor but a call for a multidisciplinary look at it [[cite:sapienza-et-al-2016-transmission]]. (They do not use the word “straw man”; that label is our summary.)\n\n**3. The story that builds the past.** Pooley describes one use of disciplinary history: setting up a pre-scientific “straw man” predecessor in order to show one’s own work as scientific; his best example is Katz and Lazarsfeld’s 1955 account of prewar researchers as “hypodermic needle” theorists [[cite:pooley-2017-four-founders]]. The history of the needle label itself is treated in Lubken’s chapter on “remembering the straw man” and in the lesson [[lesson:magic-bullet]] [[cite:lubken-2008]].\n\nBack to this lesson: Berlo cites the hypodermic needle as a contrast to “process” (next card), and in 1971 Schramm says the bullet theory had been shot full of holes. This suggests that what we call “the line” may in part be a counter-example constructed afterwards; but that is not a firm claim: which text targets whom has to be asked one by one."
+    },
+    {
+      "id": "deep-berlo-bullet", "section": "critique", "layer": "deep", "kind": "text",
+      "title": "Deep dive: Berlo, the “hypodermic needle” and process",
+      "body": "In the lesson [[lesson:magic-bullet]] you met Berlo as one of the documented early users of the “needle” label. Here let us look at the same pages from the point of view of the process model.\n\nAfter explaining the concept of process, Berlo calls approaches that are not process-oriented “hypodermic needle” or “click-click, push-pull” points of view; he counts much of the early discussion of the effects of the mass media as of this kind; he writes that a radio or television programme was imagined as a needle, and adds that research on media effects points in another direction. He names nobody [[cite:berlo-1960]] [[cite:berlo-1960-smcr]].\n\nFrom the point of view of historiography this resembles the use Pooley calls a “paradigmatic contrast”: a new view defines itself by setting an “earlier view” against it [[cite:pooley-2017-four-founders]]. But “resembles” is not “is”: according to Berlo’s preface, the model was offered as a scheme found useful and changed many times through use in classrooms, extension courses and workshops in industry, agriculture and government [[cite:berlo-1960-smcr]]. So his intention may have been to build a teaching tool, not to write history; I cannot say this from a document.\n\nConclusion: when a textbook tells the move “linear → process”, ask who defended the earlier view, and in which text. What is documented is that the needle is cited in Berlo as a contrast to the process view."
+    },
+    {
+      "id": "today-digital", "section": "today", "layer": "core", "kind": "lab",
+      "title": "Today: whose feedback is at whose gate?",
+      "body": "Westley and MacLean’s 1957 article contains an observation surprisingly close to the screen age: should “special publics” such as trade journals, hobby publications and house organs count as mass communication? Even if some reach circulations measured in millions, where the line is drawn must be arbitrary; their model does not need such a distinction, because their Bs vary in how far they share common problems [[cite:westley-maclean-1957]].\n\nThe following is not documented evidence but a thinking exercise on how the model might be applied today (inference):\n\n- In a message group, a newsletter or a platform, who or what is the “C” that selects which events reach you? The model makes you ask: whose agent is C, yours or A’s?\n- Show the three feedback lines (B→A, B→C, C→A) on a platform you use: which is fast and which is delayed? In 1957 the line in mass communication was counted as “minimised or delayed” [[cite:westley-maclean-1957]]; today signals such as likes and comments may have shortened it. Treat this as a hypothesis, not a conclusion.\n- The authors separate purposive feedback (a letter) from non-purposive feedback (purchase data); which of your clicks on a platform are purposive and which are non-purposive?\n\nHow platforms actually work is a separate subject: see [[lesson:cmc-theories]].",
+      "question": {
+        "id": "today-digital-q", "type": "mcq",
+        "prompt": "Your uncle posts news links to the family group every day. In Westley and MacLean’s distinction, what would make him an A instead of a C?",
+        "options": [
+          "Posting a large number of links",
+          "Posting the links with the aim of changing the group’s perception of an issue",
+          "The links coming from newspaper sites",
+          "The group being large"
+        ],
+        "answer": 1,
+        "explain": "The second option is right: in the article A is the person who transmits in order to change B’s view of an X; without intention the transmitted thing is an X, and the one who selects and passes it on is in the C role. The authors add that the distinction is made in role prescriptions and not in actual performance. The other options are criteria of quantity or of the type of source; the model does not look at these."
+      }
+    },
+    {
+      "id": "exam-patterns", "section": "exam", "layer": "core", "kind": "text",
+      "title": "This is how exams ask it",
+      "body": "**Typical question patterns**\n\n- “Source, message, channel, receiver” → Berlo (1960); factors: communication skills, attitudes, knowledge level, social-cultural system.\n- “A, B and X” → Newcomb (1953), ABX; symmetry, balance.\n- “The model that adds a gatekeeper C role and adapts Newcomb’s model to mass communication” → Westley–MacLean.\n- “The overlap of two circles, shared experience, encoder–interpreter–decoder” → Schramm (1954); Osgood–Schramm.\n- Matching: Schramm → circles of experience; Newcomb → ABX; Westley–MacLean → C and three feedback lines; Berlo → SMCR factors.\n\n**Tempting wrong answers**\n\n- “Berlo is a linear model” → summaries write so; Berlo’s own text stresses process [[cite:berlo-1960-smcr]] [[cite:communicationtheory-berlo-smcr]]. In an exam write the classification in your textbook; in a discussion cite the source.\n- “Schramm’s model is 1952” → the year the paper was written; the year of publication is 1954.\n- “Westley–MacLean first appeared in 1957” → the first version was 1955.\n- “The S of SMCR is a single person” → in Berlo source and receiver are names of behaviours.\n- Years: Newcomb 1953; Schramm 1954; Westley–MacLean 1957 (first 1955); Berlo 1960.\n\n**Alternative names in Turkish** (Turkish Wikipedia and the renderings chosen in this course) [[cite:wikipedia-tr-iletisim-modelleri-newcomb-schramm-berlo]]\n\n- Berlo modeli, SMCR modeli, Kaynak–Mesaj–Kanal–Alıcı modeli.\n- Newcomb modeli, ABX modeli, ABX iletişim modeli.\n- Schramm modeli, Schramm’ın iletişim modeli, Osgood–Schramm modeli, dairesel (döngüsel) model; “ortak deneyim alanı” for “field of experience”.\n- Westley–MacLean modeli; “kapı bekçisi” (*gatekeeper*).\n- Classification: doğrusal iletim (linear transmission) models, etkileşim (interaction) models, işlem (süreç, process) models.",
+      "question": {
+        "id": "exam-patterns-q", "type": "mcq",
+        "prompt": "An exam question: “This is the model that adds a gatekeeper role to Newcomb’s ABX model and adapts it to mass communication.” Which is the correct answer?",
+        "options": [
+          "Lasswell’s model",
+          "Berlo’s SMCR model",
+          "The Westley–MacLean model",
+          "Schramm’s two-circle model"
+        ],
+        "answer": 2,
+        "explain": "Westley and MacLean add C (the gatekeeper) to Newcomb’s ABX. Lasswell is a tempting wrong answer because the questions “who” and “through what channel” evoke mass communication; but the formula dates from 1948 and has no gatekeeper role. Berlo has a “channel” but no gatekeeper role; Schramm’s two circles describe meaning between persons."
+      }
+    },
+    {
+      "id": "summary", "section": "summary", "layer": "core", "kind": "summary",
+      "title": "Summary card",
+      "body": "- **The shared claim:** beyond the line of Lasswell and Shannon–Weaver, communication is a process built by the participants’ shared experience and by a return.\n- **Schramm (1954):** the chain source, encoder, signal, decoder, destination + two circles of experience + everyone both encodes and decodes + the endlessness of the process. “Circular” and “field of experience” are later labels; Osgood’s ideas are credited in a footnote in Schramm’s text.\n- **Newcomb (1953):** A, B, X; a strain toward symmetry; “who is speaking” is part of the meaning.\n- **Westley–MacLean (1955/1957):** A (advocate), B (receiver system), C (channel, gatekeeper) and X; C is the receiver’s agent; three feedback lines; purposive and non-purposive messages.\n- **Berlo (1960):** source, encoder, message, channel, decoder, receiver (the acronym SMCR came later); skills, attitudes, knowledge, social-cultural system; code, content, treatment; the senses.\n- **Limits:** the models are maps; their language is still the language of transmission; context and power are drawn only in part; “process” is a way of reading, not a way of drawing.\n- **Historiography:** Schramm’s “founder” story, the debate on whether the transmission model was a “straw man”, Berlo’s mention of the needle: a model is also read by what it sets itself against.\n- **Exam:** years (1953, 1954, 1957/1955, 1960), letters (ABX, SMCR, A–B–C–X), alternative Turkish names, Berlo’s “linear” label.",
+      "question": {
+        "id": "summary-q", "type": "tf",
+        "prompt": "True or false: the names “circular model” and “field of experience” appear in Schramm’s 1954 chapter.",
+        "answer": false,
+        "explain": "False (according to the scanned text). In the chapter the two circles are described as “accumulated experience” and the process as an “endless current”; in 1971 the words are “frame of reference”. “Circular model” and “field of experience” are common textbook labels; use them in an exam, but know the source text’s own words too."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1", "type": "mcq",
+      "prompt": "Which of the following is NOT one of the factors Berlo lists for the source-encoder?",
+      "options": ["Communication skills", "Attitudes", "Knowledge level", "Gatekeeping"],
+      "answer": 3,
+      "explain": "Gatekeeping belongs to Westley and MacLean’s C role and is not a source factor in Berlo. Berlo’s list is communication skills, attitudes, knowledge level and social-cultural system. The mix-up arises because both models use the words “channel” and “source” and both come after Lasswell."
+    },
+    {
+      "id": "q2", "type": "tf",
+      "prompt": "True or false: in Schramm’s 1954 chapter the overlap of the two circles stands for the shared part of the two participants’ accumulated experience; the larger the overlap, the easier the communication.",
+      "answer": true,
+      "explain": "True. Schramm links a large overlap of the circles with easy communication, a small overlap with difficult communication and no overlap with impossibility. The yardstick is the overlap of experience, not “intelligence” or “education” level; that is a common misreading."
+    },
+    {
+      "id": "q3", "type": "match",
+      "prompt": "Match each model with its main contribution.",
+      "pairs": [
+        ["Schramm (1954)", "The overlap of two people’s circles of experience"],
+        ["Newcomb (1953)", "The strain toward symmetry among A, B and X"],
+        ["Westley–MacLean (1957)", "The gatekeeper C and three feedback lines"],
+        ["Berlo (1960)", "Lists of factors in source, message, channel and receiver"]
+      ],
+      "explain": "Schramm’s signature is the two circles; Newcomb’s is the triangle of A, B and X; Westley–MacLean’s is the C and the feedback lines added to Newcomb’s triangle; Berlo’s is the lists of factors inside the components. The pair most often mixed up is Newcomb and Westley–MacLean: the second builds on the first, but C and mass communication are only in the second."
+    },
+    {
+      "id": "q4", "type": "order",
+      "prompt": "Put the events in chronological order (oldest to newest).",
+      "items": [
+        "Newcomb’s paper “An Approach to the Study of Communicative Acts” (1953)",
+        "Schramm’s chapter “How Communication Works” (1954)",
+        "Westley and MacLean’s first article (1955)",
+        "Westley and MacLean’s Journalism Quarterly article (1957)",
+        "Berlo’s book The Process of Communication (1960)",
+        "Schramm’s rewrite of the chapter (1971)"
+      ],
+      "explain": "The order: 1953 Newcomb, 1954 Schramm, 1955 the first version of Westley–MacLean, 1957 the revised version, 1960 Berlo, 1971 Schramm’s rewrite. The most common mistake is to take the year Schramm wrote the chapter (1952) for its publication year; another is to forget that Westley–MacLean had a version before 1957."
+    },
+    {
+      "id": "q5", "type": "cloze",
+      "prompt": "Place the roles in the Westley–MacLean model.",
+      "text": "In Westley and MacLean’s model A stands for {{1}} roles, B for {{2}} roles and C for {{3}} roles.",
+      "blanks": [
+        { "options": ["advocacy (purposive transmitter)", "behavioural system (receiver)", "channel (gatekeeper)"], "answer": 0 },
+        { "options": ["channel (gatekeeper)", "advocacy (purposive transmitter)", "behavioural system (receiver)"], "answer": 2 },
+        { "options": ["behavioural system (receiver)", "channel (gatekeeper)", "advocacy (purposive transmitter)"], "answer": 1 }
+      ],
+      "explain": "A is the advocacy roles: it transmits purposively. B is the behavioural system roles: the receiver, that is a person, group or society. C is the channel roles: it selects and transmits non-purposively on the receiver’s behalf; it is the gatekeeper. The commonest mistake is to take C for an intermediary of A; in the article C is B’s agent."
+    },
+    {
+      "id": "q6", "type": "case",
+      "scenario": "The editor of a local news site picks three items out of the dozens discussed in the city council and writes them up for readers. Readers keep writing comments; looking at them, the editor adjusts which topics to stress the next day. In the article the editor avoids the council’s technical terms. (Hypothetical scenario.)",
+      "parts": [
+        {
+          "id": "q6a",
+          "type": "mcq",
+          "prompt": "What is the editor’s role in the Westley–MacLean model?",
+          "options": ["A (advocate)", "B (behavioural system)", "C (channel, gatekeeper)"],
+          "answer": 2,
+          "explain": "The editor selects from council topics the readers cannot reach and passes them on: C. The council members (as purposive transmitters) are A; the readers are B. Even if the editor is a committed advocate, the article treats that as a gap between role prescription and behaviour."
+        },
+        {
+          "id": "q6b",
+          "type": "mcq",
+          "prompt": "Along which line do the readers’ comments run?",
+          "options": ["Feedback from B to C", "Feedback from C to A", "A message from A to B"],
+          "answer": 0,
+          "explain": "The reader (B) sends the comment to the editor (C): feedback from B to C. The line from C to A is the information the editor returns to the council; A to B is the direction of the message. If writing a comment is deliberate, it is purposive feedback."
+        },
+        {
+          "id": "q6c",
+          "type": "mcq",
+          "prompt": "On which of Schramm’s ideas does the editor’s avoidance of technical terms rest?",
+          "options": ["The endlessness of the process", "Enlarging the overlap of the circles of experience", "Getting feedback from one’s own message"],
+          "answer": 1,
+          "explain": "Choosing signs close to the readers’ experience enlarges the overlap of the two circles. The endlessness of the process is a more general observation; feedback from one’s own message concerns the editor reading and correcting his own text."
+        }
+      ],
+      "takeaway": "The same newsroom can be read with two models: Westley–MacLean maps the roles and the feedback lines; Schramm makes you ask how well the chosen language fits the readers’ experience."
+    },
+    {
+      "id": "q7", "type": "mcq",
+      "prompt": "Which statement about the name “Osgood–Schramm circular model” is correct?",
+      "options": [
+        "The name itself appears explicitly in Schramm’s 1954 chapter.",
+        "In his chapter Schramm says in a footnote that he owes a psychology diagram to Osgood; the combined name is a common label in textbooks.",
+        "Osgood published this model after Schramm and cited him.",
+        "The model is Shannon and Weaver’s original diagram."
+      ],
+      "answer": 1,
+      "explain": "The second option is right: in 1954 Schramm thanks Osgood in a footnote, and in 1971 he attributes to Osgood the scheme that adds the interpreter role; the name “Osgood–Schramm circular model” is common in secondary sources and does not occur in that combined form in the two Schramm texts scanned. The first option is tempting because the label is so entrenched in books that it is assumed to be in the source text. The third and fourth options confuse the chronology and the identity of the model."
+    },
+    {
+      "id": "q8", "type": "mcq",
+      "prompt": "According to Pooley, what job did Schramm’s “four founders” story do for the field?",
+      "options": [
+        "It documented the true list of the field’s founders once and for all.",
+        "It gave a field that was growing institutionally but weak in standing a past and a legitimacy borrowed from high-status pioneers.",
+        "It redefined the field as a branch of economics.",
+        "It completely rejected the history of process models."
+      ],
+      "answer": 1,
+      "explain": "The second option is right: according to Pooley the field had a legitimacy deficit and Schramm closed it by writing a “founding fathers” story about four names. The first option is tempting because textbooks report the list as fact; Pooley treats it as a choice of narrative. The third and fourth options are not in the text."
+    },
+    {
+      "id": "q9", "type": "tf",
+      "prompt": "True or false: according to Westley and MacLean, feedback in mass communication is generally minimised or delayed compared with face-to-face communication.",
+      "answer": true,
+      "explain": "True. The article names two things that separate mass communication from face-to-face communication: fewer sense modalities, and “orientative” feedback that is minimised or delayed. The confusion comes from feedback being fast on modern platforms; but that is not the claim of the 1957 article."
+    },
+    {
+      "id": "q10", "type": "mcq",
+      "prompt": "Which of the following is one of Sapienza and colleagues’ (2016) main arguments about the transmission model?",
+      "options": [
+        "The transmission metaphor was born only with Shannon and Weaver.",
+        "The roots of the transmission metaphor go back before Shannon and Weaver, to telegraph terms and general semantics; Shannon used “transmission” literally.",
+        "The concept of feedback first appeared with process models.",
+        "The transmission model has never existed historically."
+      ],
+      "answer": 1,
+      "explain": "The second option is right: the article argues that the transmission metaphor came from sources before Shannon and Weaver, such as Hartley, Nyquist and general semantics, and that Shannon used “transmission” literally. The first option is the view the article disputes. The third option is tempting because feedback is so often linked with process models; the article writes that the concept comes from cybernetics. The fourth option is not the article’s thesis."
+    }
+  ]
+}

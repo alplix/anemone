@@ -1,0 +1,10 @@
+{
+  "id": "feedback",
+  "lang": "tr",
+  "term": "geri bildirim",
+  "altTerms": [],
+  "slug": "geri-bildirim",
+  "short": "Alıcının (ya da kişinin kendi mesajının) göndericiye geri dönen bilgisi; göndericinin mesajın nasıl karşılandığını öğrenmesini ve mesajı düzeltmesini sağlar.",
+  "body": "Geri bildirim, süreç modellerinin en çok anılan eklemesidir ve her yazar onu biraz farklı kurar. Schramm 1954’te buna “dönüş süreci” der: dinleyici başını sallar, kaşlarını çatar, editöre mektup yazar; ayrıca kişi kendi sesini duyup kendi yazdığını görerek kendi mesajından da geri bildirim alır. Westley ve MacLean 1957’de geri bildirimi tırnak içinde anar ve üç hatta gösterir: B’den A’ya, B’den C’ye, C’den A’ya. Amaçlı geri bildirim (öfkeli okurun mektubu) ile amaçsız geri bildirimi (satın alma davranışının pazar araştırmasının verisine girmesi) ayırırlar; kitle iletişiminde hattın en aza indiğini ya da geciktiğini söylerler. Berlo geri bildirimi, kaynağın kodladığı mesajı kendi sistemine geri almasıyla ve bir termostat örneğiyle anlatır; kitabın ilk modelinde ise bir kutu değildir.\n\nKavramın kökeni sibernetiktir. Sapienza ve arkadaşları, bunun ironisine dikkat çeker: geri bildirim çoğu zaman “doğrusal aktarım”a karşı bir ilerleme sayılır, oysa kavram bilgi kuramı ve sibernetikle aynı ailedendir.",
+  "example": "Bir konuşmacının salondaki yüzlerin bulanıklaştığını görüp örnek vermesi. (Varsayımsal örnek.)"
+}

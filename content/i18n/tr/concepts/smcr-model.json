@@ -1,0 +1,13 @@
+{
+  "id": "smcr-model",
+  "lang": "tr",
+  "term": "SMCR modeli (Berlo)",
+  "altTerms": [
+    "Berlo modeli",
+    "Kaynak–Mesaj–Kanal–Alıcı modeli"
+  ],
+  "slug": "smcr-modeli",
+  "short": "David Berlo’nun 1960 modelinin ders kitaplarındaki kısa adı: kaynak, mesaj, kanal, alıcı ve her birindeki sonucu belirleyen faktörler.",
+  "body": "Berlo 1960 tarihli kitabında iletişimi altı bileşenle anlatır: kaynak, kodlayıcı, mesaj, kanal, kod çözücü, alıcı. İki kişinin konuştuğu durumda kaynak ile kodlayıcı, alıcı ile kod çözücü birlikte ele alınabilir; geriye kalan dört öğenin baş harfleri SMCR’yi verir. (Kitabın taranmış metninde bu kısaltmayı bulamadım; sonradan gelen bir kolaylaştırma gibi görünür.)\n\nÖğelerin içindeki faktörler modelin asıl konusudur. Kaynak ve alıcı için: iletişim becerileri (yazma, konuşma, okuma, dinleme, düşünme), tutumlar (kendine, konuya ve karşıdakine), bilgi düzeyi, toplumsal-kültürel sistem. Mesaj için: kod, içerik ve işleyiş (treatment); her birinde öğeler ve yapı. Kanal için: duyular. Berlo “süreç”i vurgular: öğeler birbirinden bağımsız değildir ve kaynak ile alıcı ayrı varlıklar değil, davranışların adlarıdır.\n\nPopüler özetler modeli genellikle doğrusal ve geri bildirimsiz sayar; Berlo’nun kendi metni ise geri bildirimi kitabın sonraki bölümlerinde işler.",
+  "example": "Bir satıcının ürüne inanmaması ve bunun mesajına sızması: kaynağın konuya karşı tutumu. (Berlo’nun kendi örneklerinden biridir.)"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "osgood",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "name": "Charles E. Osgood",
+  "nativeName": "",
+  "slug": "charles-osgood",
+  "short": "American psychologist (1916–1991), known at Illinois for measuring meaning and the semantic differential; one of the colleagues whose ideas Schramm’s model draws on.",
+  "roles": [
+    "psychologist",
+    "researcher of meaning"
+  ],
+  "bio": "Charles Egerton Osgood was born in 1916 and died in 1991. He was a professor of psychology at the University of Illinois and also worked at that university’s Institute of Communications Research. He is best known for the semantic differential, a method for measuring the connotative meaning of concepts, which he summarised with Suci and Tannenbaum in “The Measurement of Meaning” (1957).\n\nIn this course his name matters because it appears in Schramm’s writings. In the 1954 chapter “How Communication Works” Schramm says in a footnote that he owes the diagram of learning theory to his colleague Osgood. In 1971 he attributes to Osgood the scheme in which every participant both receives and sends, encodes and decodes, and interprets, and refers to an undated text by Osgood. The name “Osgood–Schramm model” in textbooks is a label derived from these two credits; the combined name does not occur in either of Schramm’s two texts.\n\nBerlo, too, writes in the preface of his 1960 book that the writings and teaching of Osgood and Schramm have permeated his thinking beyond recognition.",
+  "works": [
+    {
+      "bib": "osgood-suci-tannenbaum-1957",
+      "note": "The main book on the semantic differential and the measurement of meaning."
+    }
+  ],
+  "inCourse": "In [[lesson:process-models]] as the person whose ideas Schramm’s model draws on and as the first half of the label “Osgood–Schramm”."
+}

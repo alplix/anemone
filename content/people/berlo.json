@@ -1,0 +1,16 @@
+{
+  "id": "berlo",
+  "born": {
+    "year": 1929
+  },
+  "died": {
+    "year": 1996
+  },
+  "sources": [
+    "isu-library-berlo",
+    "archive-org-berlo-process"
+  ],
+  "works": [
+    "berlo-1960"
+  ]
+}

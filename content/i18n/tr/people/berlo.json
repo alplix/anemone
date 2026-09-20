@@ -1,0 +1,20 @@
+{
+  "id": "berlo",
+  "lang": "tr",
+  "name": "David K. Berlo",
+  "nativeName": "",
+  "slug": "david-berlo",
+  "short": "Amerikalı iletişim bilimci (1929–1996). 1960 tarihli The Process of Communication kitabı, kaynak–mesaj–kanal–alıcı (SMCR) diye özetlenen faktör listelerini sundu.",
+  "roles": [
+    "iletişim bilimci",
+    "üniversite yöneticisi"
+  ],
+  "bio": "David Kenneth Berlo 1929’da doğdu, 1996’da öldü. Illinois Üniversitesi’nde psikoloji okudu ve iletişim alanında doktora yaptı. 1958’de Michigan State Üniversitesi’nde yeni kurulan Genel İletişim Sanatları bölümünün ilk başkanı oldu ve 1971’de Illinois State Üniversitesi’nin başkanlığına atanana kadar bu görevi sürdürdü; başkanlığı 1971–1973 arasında sürdü.\n\nEn çok, 1960 tarihli “The Process of Communication” kitabıyla anılır. Kitap iletişimi altı bileşenli bir model olarak sunar (kaynak, kodlayıcı, mesaj, kanal, kod çözücü, alıcı) ve kaynak ile alıcının becerilerini, tutumlarını, bilgisini ve toplumsal-kültürel sistemdeki yerini, mesajın kodunu, içeriğini ve işleyişini, kanalın duyusal doğasını ayrıntılı tartışır. Ders kitaplarının SMCR dediği dört öğeli kısa hâl, bu modelin sonradan yapılmış özetidir. Berlo önsözünde Osgood ve Schramm’ın yazılarına, ayrıca meslektaşı Malcolm MacLean’e teşekkür eder; kitapta “hypodermic needle” anlayışını süreç bakışına karşı bir örnek olarak anar.",
+  "works": [
+    {
+      "bib": "berlo-1960",
+      "note": "Altı bileşenli iletişim modeli ve “süreç” kavramı; SMCR’nin kaynağı sayılır."
+    }
+  ],
+  "inCourse": "[[lesson:process-models]] dersinde SMCR’nin sahibi olarak; [[lesson:magic-bullet]] dersinde “hypodermic needle” sözünü karşı örnek olarak anan biri olarak geçer."
+}

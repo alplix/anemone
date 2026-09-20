@@ -1,0 +1,16 @@
+{
+  "id": "schramm-model",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "Schramm’s model",
+  "altTerms": [
+    "Schramm’s communication model",
+    "Schramm’s two-circle model"
+  ],
+  "slug": "schramm-model",
+  "short": "Wilbur Schramm’s model in the 1954 chapter “How Communication Works”: Shannon’s engineering chain, two people’s circles of experience, everyone both encoding and decoding, and feedback.",
+  "body": "Schramm’s model is not a single drawing but several drawings in a row within one chapter. The first adapts Shannon’s engineering chain to humans: source, encoder, signal, decoder, destination. The second draws the accumulated experience of two people as two circles and says that communication is easy only where the circles overlap. The third stresses that everyone is both an encoder and a decoder, so that the process neither starts nor ends anywhere. Then it adds the return: feedback can come from the other person and also from one’s own message.\n\nIn 1954 Schramm says in a footnote that he owes the learning-theory diagram to his colleague Osgood. When he rewrote the chapter in 1971 he put more weight on communication as two separate acts, that is, as a relationship between two people. The names “circular model” and “field of experience” are common in textbooks, but neither occurs verbatim in Schramm’s two texts (see [[concept:circular-model]], [[concept:field-of-experience]]). The model does not reject the line of Lasswell and Shannon–Weaver; it adds human layers on top of it.",
+  "example": "A doctor saying “don’t take this medicine if you are in this situation” instead of “contraindication”: choosing signs from the patient’s circle of experience. (Hypothetical example.)"
+}

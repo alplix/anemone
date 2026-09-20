@@ -1,0 +1,26 @@
+{
+  "id": "westley",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "name": "Bruce H. Westley",
+  "nativeName": "",
+  "slug": "bruce-westley",
+  "short": "American journalism teacher. With Malcolm MacLean he wrote, in 1955–57, the mass-communication model that adds a channel (gatekeeper) role to Newcomb’s ABX.",
+  "roles": [
+    "professor of journalism"
+  ],
+  "bio": "Bruce H. Westley was, in the years the model was written, a teacher of journalism at the University of Wisconsin; the introductory note to the 1957 Journalism Quarterly article describes the two authors as teachers of journalism who have had interdisciplinary Ph.D. programmes. Westley and MacLean’s “A Conceptual Model for Communications Research” first appeared in 1955 in the Audio-Visual Communication Review and was revised and republished in Journalism Quarterly in 1957.\n\nThe article extends Newcomb’s two-person ABX model to cover mass communication: between A (advocacy roles) and B (receiver, behavioural system) a C (channel roles, the gatekeeper) enters as the receiver’s agent in selecting; feedback runs along three lines. The authors present their model not as a theory but as a paradigm, a first step toward one. This page contains only professional information that can be verified from the article itself and from sources; life dates are left out because they could not be confirmed by two sources.",
+  "works": [
+    {
+      "bib": "westley-maclean-1957",
+      "note": "The revised article: A, B, C, X and the three feedback lines."
+    },
+    {
+      "bib": "westley-maclean-1955",
+      "note": "The first version of the article (Audio-Visual Communication Review)."
+    }
+  ],
+  "inCourse": "In [[lesson:process-models]] as the model that extends Newcomb’s ABX to mass communication."
+}

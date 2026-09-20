@@ -1,0 +1,20 @@
+{
+  "id": "newcomb",
+  "lang": "tr",
+  "name": "Theodore M. Newcomb",
+  "nativeName": "",
+  "slug": "theodore-newcomb",
+  "short": "Amerikalı sosyal psikolog (1903–1984). 1953 tarihli makalesinde A, B ve X’ten oluşan modeli önerdi; Westley ve MacLean’in kitle iletişimi modeli bunun üstüne kuruludur.",
+  "born": "Rock Creek, Ohio",
+  "roles": [
+    "sosyal psikolog"
+  ],
+  "bio": "Theodore Mead Newcomb 1903’te Ohio’nun Rock Creek kasabasında doğdu ve 1984’te öldü. Lehigh ve Western Reserve üniversitelerinde çalıştıktan sonra 1934’te Bennington College’a geçti; 1940’ların başından itibaren Michigan Üniversitesi’nde çalıştı ve orada sosyal psikoloji doktora programını yönetti. Kitapları arasında “Personality and Social Change” (1943) ve “Social Psychology” (1950) vardır.\n\nİletişim çalışmalarındaki yeri, 1953 tarihli “An Approach to the Study of Communicative Acts” makalesine dayanır. National Academy of Sciences anma yazısına göre bu makale, iki kişi (A ve B) ile ortak bir nesneden (X) oluşan ABX sistemini tanıtır ve A ile B’nin X’e bakışlarının ayrışması halinde bir “simetriye doğru gerilim” olacağını varsayar; Heider’ın denge fikirlerinden yararlanır. Westley ve MacLean bu modeli kitle iletişimine genişletir; Schramm 1971’de A–B–X’i tutarlılık kuramlarının erken bir örneği sayar.\n\nBu sayfada yalnızca doğrulanabilir mesleki bilgiler vardır.",
+  "works": [
+    {
+      "bib": "newcomb-1953",
+      "note": "ABX modelinin ve “simetriye doğru gerilim” fikrinin kaynağı."
+    }
+  ],
+  "inCourse": "[[lesson:process-models]] dersinde A–B–X üçgeni ve Westley–MacLean modelinin başlangıç noktası olarak yer alır."
+}

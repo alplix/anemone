@@ -1,0 +1,16 @@
+{
+  "id": "newcomb",
+  "born": {
+    "year": 1903
+  },
+  "died": {
+    "year": 1984
+  },
+  "sources": [
+    "converse-1994-newcomb-nas",
+    "douvan-1986-newcomb"
+  ],
+  "works": [
+    "newcomb-1953"
+  ]
+}

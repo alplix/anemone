@@ -1,0 +1,16 @@
+{
+  "id": "smcr-model",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "SMCR model (Berlo)",
+  "altTerms": [
+    "Berlo’s model",
+    "Source–Message–Channel–Receiver model"
+  ],
+  "slug": "smcr-model",
+  "short": "The textbook short name for David Berlo’s 1960 model: source, message, channel, receiver, and the factors in each that determine the outcome.",
+  "body": "In his 1960 book Berlo describes communication with six components: source, encoder, message, channel, decoder, receiver. When two people talk, source and encoder and receiver and decoder can be treated together; the initials of the four remaining elements give SMCR. (I could not find this acronym in the scanned text of the book; it looks like a later simplification.)\n\nThe factors inside the elements are the real subject of the model. For source and receiver: communication skills (writing, speaking, reading, listening, thought), attitudes (toward oneself, the subject matter and the other person), knowledge level, social-cultural system. For the message: code, content and treatment, each with elements and structure. For the channel: the senses. Berlo stresses “process”: the elements are not independent, and source and receiver are not separate entities but names of behaviours.\n\nPopular summaries usually call the model linear and without feedback; Berlo’s own text takes up feedback in later chapters of the book.",
+  "example": "A salesman who does not believe in the product, and this showing in his message: the source’s attitude toward the subject matter. (One of Berlo’s own examples.)"
+}

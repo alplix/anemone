@@ -1,0 +1,33 @@
+{
+  "id": "schramm",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "name": "Wilbur Schramm",
+  "nativeName": "",
+  "slug": "wilbur-schramm",
+  "short": "American communication scholar (1907–1987). He came from literature, founded the Institute of Communications Research at Illinois in 1947 and wrote one of the first process models in 1954.",
+  "born": "Marietta, Ohio",
+  "roles": [
+    "communication scholar",
+    "educator",
+    "institute founder"
+  ],
+  "bio": "Wilbur Schramm was born in Marietta, Ohio, in 1907 and died in 1987. After graduating from Marietta College he took a master’s degree in American civilization at Harvard and a doctorate in English literature at Iowa in 1932; from 1935 to 1942 he directed the Iowa Writers’ Workshop. According to Rogers, a severe stutter in childhood was one of the reasons for his interest in communication.\n\nAfter the war years he turned to mass communication: according to Rogers he organised the world’s first doctoral programme in the field at Iowa in 1943, and in 1947 he founded the Institute of Communications Research at Illinois. He later worked at Stanford and spent his retirement in Honolulu. Historians such as Rogers and Chaffee call him the founder of the field because of this institutional work; Pooley argues that when Schramm built the “four founders” story he was also writing his own part, as a “mnemonic entrepreneur”.\n\nIn textbooks he is remembered most for the chapter “How Communication Works” (1954; rewritten in 1971): it adapts Shannon’s engineering chain to humans, draws two circles of experience and says that everyone both encodes and decodes. In the 1971 chapter he uses the name “Bullet Theory” himself.",
+  "works": [
+    {
+      "bib": "schramm-1954-how-communication-works",
+      "note": "One of the first process models: the engineering chain, two circles of experience, feedback."
+    },
+    {
+      "bib": "schramm-1971-nature",
+      "note": "The rewritten chapter; where Schramm himself uses the name “Bullet Theory”."
+    },
+    {
+      "bib": "schramm-1997-beginnings",
+      "note": "Personal memoir on the beginnings of communication study (published after his death)."
+    }
+  ],
+  "inCourse": "In [[lesson:process-models]] with the model of “How Communication Works”; in [[lesson:magic-bullet]] as someone who uses the name “Bullet Theory”."
+}

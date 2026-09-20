@@ -1,0 +1,19 @@
+{
+  "id": "schramm",
+  "born": {
+    "year": 1907
+  },
+  "died": {
+    "year": 1987
+  },
+  "sources": [
+    "rogers-1994-history",
+    "encyclopedia-com-schramm",
+    "illinois-icr-about"
+  ],
+  "works": [
+    "schramm-1954-how-communication-works",
+    "schramm-1971-nature",
+    "schramm-1997-beginnings"
+  ]
+}

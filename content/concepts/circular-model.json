@@ -1,0 +1,18 @@
+{
+  "id": "circular-model",
+  "family": "models",
+  "introducedBy": [
+    "osgood",
+    "schramm"
+  ],
+  "related": [
+    "schramm-model",
+    "field-of-experience",
+    "feedback"
+  ],
+  "sources": [
+    "schramm-1971-nature-models",
+    "schramm-1954-how-communication-works",
+    "wikipedia-schramms-model"
+  ]
+}

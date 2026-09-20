@@ -1,0 +1,464 @@
+{
+  "id": "process-models",
+  "lang": "tr",
+  "translation": { "status": "source", "date": "2026-09-20" },
+  "title": "Süreç Modelleri: Schramm, Berlo, Westley–MacLean, Newcomb",
+  "slug": "surec-modelleri",
+  "description": "Schramm’ın ortak deneyim daireleri, Newcomb’un ABX’i, Westley–MacLean’in kapı bekçisi C’si ve Berlo’nun SMCR’si: çizgiden sürece geçiş ve sınırları.",
+  "claim": "Schramm, Newcomb, Westley–MacLean ve Berlo, Lasswell ile Shannon–Weaver’ın tek yönlü çizgisine katılımcıların ortak deneyimini, aralarındaki ilişkiyi, aracı kapı bekçisini ve geri bildirimi ekleyerek iletişimi bir süreç olarak çizdi; yine de bunlar birer harita ve paradigmadır: bağlamı, kurumları ve gücü yalnızca kısmen içerirler.",
+  "keywords": ["süreç modelleri", "Schramm", "Osgood", "Newcomb", "ABX modeli", "Westley", "MacLean", "kapı bekçisi", "Berlo", "SMCR", "geri bildirim", "deneyim alanı", "dairesel model", "aktarım görüşü"],
+  "updated": "2026-09-20",
+  "timeline": {
+    "iowa-phd-1943": "Schramm, Iowa’da kitle iletişimi doktora programını düzenler (Rogers’a göre dünyada ilk)",
+    "illinois-icr-1947": "Schramm, Illinois’de İletişim Araştırmaları Enstitüsü’nü kurar",
+    "shannon-weaver-book": "Shannon ve Weaver, The Mathematical Theory of Communication (kitap): bu dersin başlangıç noktası",
+    "schramm-writes-1952": "Schramm, “How Communication Works” yazısını yazar (kendi anlatımına göre)",
+    "newcomb-abx": "Newcomb, “An Approach to the Study of Communicative Acts”: A, B, X",
+    "schramm-book-1954": "Schramm’ın “How Communication Works” bölümü, The Process and Effects of Mass Communication’ın ilk bölümü olarak çıkar",
+    "wm-avcr-1955": "Westley ve MacLean, “A Conceptual Model for Communications Research” (ilk sürüm, Audio-Visual Communication Review)",
+    "wm-jq-1957": "Westley ve MacLean’in gözden geçirilmiş makalesi, Journalism Quarterly",
+    "berelson-schramm-1959": "Berelson’un “alan ölüyor” makalesi ve Schramm’ın yanıtı: “kurucu babalar” sözü ilk kez (Pooley’e göre)",
+    "berlo-book": "Berlo, The Process of Communication (kitap)",
+    "schramm-four-founders-1963": "Schramm, The Science of Human Communication’da “dört kurucu” anlatısını tam olarak yazar (Pooley’e göre)",
+    "schramm-revision-1971": "Schramm, bölümü “The Nature of Communication between Humans” adıyla yeniden yazar",
+    "sapienza-2016": "Sapienza ve arkadaşları, aktarım modelinin geçmişini yeniden kurar",
+    "pooley-2017": "Pooley, Schramm’ın “dört kurucu” anlatısının nasıl kurulduğunu çözümler"
+  },
+  "cards": [
+    {
+      "id": "ctx-endless", "section": "context", "layer": "core", "kind": "story",
+      "title": "1954: bir bölüm, iki şema",
+      "body": "1954 baskılı bir okuma kitabının ilk bölümünü açtığını düşün. İlk sayfa şaşırtıcı biçimde gündelik. Yazar, “iletişim” sözcüğünün Latince *communis*, yani “ortak” sözcüğünden geldiğini hatırlatıyor. Sonra üç sahne sıralıyor: biri itfaiyeyi arayıp evin yandığını bağırıyor, park edilmiş bir arabadaki genç sevdiği kıza duygularını anlatmaya çalışıyor, bir gazete okurlarını bir partiye ikna etmeye uğraşıyor. Hepsinde süreç aynı, diyor [[cite:schramm-1954-how-communication-works]].\n\nBirkaç sayfa sonra aynı yazar bir radyo devresini andıran düz bir zincir çiziyor: kaynak, kodlayıcı, işaret, kod çözücü, hedef. Mikrofonu kodlayıcının, kulaklığı kod çözücünün yerine koyarsan elektronik iletişim; kaynak ile kodlayıcıyı bir kişi, kod çözücü ile hedefi başka bir kişi sayarsan insan iletişimi elde ediyorsun. Ardından aynı bölümde çizgiyi bozan bir uyarı geliyor: iletişim sürecini bir yerde başlayıp bir yerde biten bir şey saymak yanıltıcıdır; süreç aslında sonsuz akan bir akımdır ve her birimiz o akımın küçük birer santraliyiz [[cite:schramm-1954-how-communication-works]].\n\nYazar [[person:schramm|Wilbur Schramm]]. [[lesson:lasswell-shannon-weaver]] dersindeki mühendis şemasını çöpe atmadı; ödünç aldı ve üstüne insanlara özgü katmanlar ekledi. Bu ders, o eklemelerin ve arkasından gelen üç modelin (Newcomb, Westley–MacLean, Berlo) hikâyesi.",
+      "question": {
+        "id": "ctx-endless-q", "type": "mcq",
+        "prompt": "Schramm’ın 1954 tarihli bölümü için hangisi doğrudur?",
+        "options": [
+          "Shannon–Weaver şemasını reddedip tamamen yeni bir çizimle onun yerine geçer.",
+          "Radyo devresine benzeyen zinciri insan iletişimine uyarlar; her katılımcının hem kodlayıp hem çözdüğünü ve sürecin uçlarının belli olmadığını vurgular.",
+          "İletişimi yalnızca kitle iletişimine özgü bir olay sayar.",
+          "Geri bildirimden hiç söz etmez."
+        ],
+        "answer": 1,
+        "explain": "İkinci şık doğru: Schramm mühendislik zincirini alır, insan için kullanır ve üstüne “herkes hem kodlar hem çözer”, “süreç uçsuzdur” fikirlerini ekler. İlk şık cazip, çünkü “yeni model eskisinin yerine geçer” anlatısı kolay akla gelir; oysa bölümün kendisi eski çizimi bir başlangıç noktası olarak kullanır. Üçüncü şık yanlış: bölüm, kitle iletişiminden önce iletişimin genel sürecini anlatır. Dördüncü şık yanlış: bölümde geri bildirim ayrıca tanımlanır."
+      }
+    },
+    {
+      "id": "ctx-why", "section": "context", "layer": "core", "kind": "text",
+      "title": "Neden çizgi yetmedi?",
+      "body": "[[lesson:lasswell-shannon-weaver]] dersindeki iki model, mesajın kaynaktan hedefe gidişini çizmekte iyiydi. Ama araştırmacılar alıcının tarafına yaklaştıkça çizginin sustuğu yerler görünmeye başladı.\n\nSchramm bu dönemi 1971’de geriye bakarak özetler: izleyici eskiden savunmasız bir hedef sayılıyordu; ama Hovland ve Yale’deki ekibi gibi psikologlar, izleyicinin deneyiminin ve kişilik farklarının bir mesajın nasıl karşılandığını belirlemede çok güçlü olduğunu buldu. Onun deyişiyle 1950’lerin ortasına gelindiğinde “Kurşun Kuramı” delik deşik olmuştu [[cite:schramm-1971-nature-models]]. (Bu etiketin kendi tarihi için [[lesson:magic-bullet]] dersine bak.)\n\nÇizgide eksik kalan üç şey böylece adlandırıldı:\n\n- **Alıcının etkinliği:** mesaj bir hedefe çarpmaz; alıcı seçer ve yorumlar.\n- **Anlamın yeri:** anlam işaretlerin içinde değil, katılımcıların içindedir; alıcının işarete verdiği tepkidir [[cite:schramm-1971-nature-models]].\n- **Dönüş ve ilişki:** konuşan da dinleyen de sürekli rol değiştirir; ilişki mesajın kaderini belirler.\n\nSüreç modelleri bu boşlukları doldurma girişimleridir; her biri farklı bir boşluğu öne çıkarır.",
+      "question": {
+        "id": "ctx-why-q", "type": "mcq",
+        "prompt": "Bir belediye, sokaklara uyarı afişleri asıyor. Afişler herkesin gözüne çarpıyor; ama yaşlıların çoğu içindeki teknik terimi anlamıyor. Schramm’ın çerçevesinde sorun nerede aranır?",
+        "options": [
+          "Afiş yeterince büyük basılmamıştır; sorun kanalın kapasitesindedir.",
+          "Mesaj bozulmadan ulaşmıştır ama okurun deneyim dairesi terimle yeterince kesişmez; sorun iki dairenin örtüşmesinde aranır.",
+          "Sorun yalnızca okurun dikkatsizliğidir; modelde bunun yeri yoktur.",
+          "Sorun yoktur: Lasswell’in formülüne göre “ne etkiyle” sorusu zaten yanıtlanmıştır."
+        ],
+        "answer": 1,
+        "explain": "İkinci şık doğru: mesaj ulaşmıştır, ama anlam okurun deneyiminde kurulur; Schramm’ın iki dairesi tam bunu gösterir. İlk şık cazip, çünkü “ulaşmadı” demek en kolay tanıdır; oysa afiş görülmüş, sorun anlaşılırlıkta. Üçüncü şık, alıcıyı suçlayarak modeli devre dışı bırakır; süreç modelleri tam da bunu önler. Dördüncü şık, “etki” sorusunu soruyu sormak yerine cevaplanmış saymaktır."
+      }
+    },
+    {
+      "id": "deep-labels", "section": "context", "layer": "deep", "kind": "text",
+      "title": "Derin: 1952, 1954, 1971 ve “Osgood–Schramm” etiketi",
+      "body": "Modellerin adları ve yılları ders kitaplarında kayar; kaynağa bakınca nedenini görürsün.\n\n**Yıl.** Schramm 1971 tarihli yeniden yazımın başında, “How Communication Works” yazısını 1952’de yazdığını söyler; yazı derlemenin ilk baskısına ilk bölüm olarak girmişti [[cite:schramm-1971-nature-models]]. Bölümün kendi dipnotu, yazının önce Tokyo’daki *Shimbun Kenkyu* dergisinde, sonra bir eğitim derneğinin 53. yıllığında yayımlandığını söyler [[cite:schramm-1954-how-communication-works]]. Sınavda 1954 yaz; 1952 ise yazının yazıldığı yıldır.\n\n**Osgood.** 1954 bölümünde Schramm, öğrenme kuramı diyagramı için “meslektaşı Charles Osgood”a borçlu olduğunu bir dipnotta yazar [[cite:schramm-1954-how-communication-works]]. 1971’de ise her katılımcının hem aldığını hem gönderdiğini, hem kodlayıp hem çözdüğünü ve yorumladığını vurgulayan şemayı Osgood’a atfeder; kaynak olarak Osgood’un tarihsiz bir metnini gösterir [[cite:schramm-1971-nature-models]].\n\n**Etiketler.** Bugün sık gördüğün “Osgood–Schramm dairesel modeli” ve “deneyim alanı” adlarını iki Schramm metninde de bulamadım (metinleri taranmış kopyalardan okudum): 1954’te “sonsuz akım” ve “birikmiş deneyim”, 1971’de “başvuru çerçevesi” denir [[cite:schramm-1954-how-communication-works]] [[cite:schramm-1971-nature-models]]. İkincil kaynaklar bu adları kullanır [[cite:wikipedia-schramms-model]]; Sapienza ve arkadaşları ise aynı modeli “Schramm ve Osgood (1954)” diye anar [[cite:sapienza-et-al-2016-transmission]].\n\nPratik kural: sınavda yaygın etiketi kullan, ama kimin neyi getirdiğini yazarken “Schramm (1954), Osgood’un fikirlerinden yararlanarak” de."
+    },
+    {
+      "id": "who-when", "section": "people-time", "layer": "core", "kind": "text",
+      "title": "Kimler, ne zaman? Altı isim, yedi yıl",
+      "body": "Bu dersin kahramanları farklı alanlardan geliyor ve 1953–1960 arasına sığıyor.\n\n- **Theodore Newcomb** [[person:newcomb]] (1903–1984): sosyal psikolog. 1953’te “iletişimsel eylemlere yaklaşım” makalesinde A, B ve X üçgenini önerdi [[cite:newcomb-1953]].\n- **Wilbur Schramm** [[person:schramm]] (1907–1987): edebiyat kökenli; 1947’de Illinois’de İletişim Araştırmaları Enstitüsü’nü kurdu [[cite:illinois-icr-about]]. “How Communication Works” bölümü 1954’te çıktı [[cite:schramm-1954-how-communication-works]].\n- **Charles Osgood** [[person:osgood]] (1916–1991): Illinois’de psikolog; Schramm’ın modeline fikir veren isim [[cite:cas-illinois-osgood]].\n- **Bruce Westley** [[person:westley]] ve **Malcolm MacLean** [[person:maclean]]: gazetecilik hocaları; ilk makale 1955, gözden geçirilmişi 1957 [[cite:westley-maclean-1955]] [[cite:westley-maclean-1957]].\n- **David Berlo** [[person:berlo]] (1929–1996): Illinois’de doktora, Michigan State’te iletişim bölümünün ilk başkanı; kitabı 1960 [[cite:isu-library-berlo]] [[cite:berlo-1960-smcr]].\n\nSıralama: 1949 Shannon–Weaver kitabı, 1953 Newcomb, 1954 Schramm, 1955–57 Westley–MacLean, 1960 Berlo, 1971 Schramm’ın yeniden yazımı.\n\nİsimler birbirine bağlı. Westley ve MacLean, Newcomb’un ABX’inden yola çıkar ve Lasswell’in formülünü ile bilgi kuramı modelini eleştirir [[cite:westley-maclean-1957]]. Berlo önsözünde Osgood ve Schramm’ın yazılarının düşüncesine “tanınmayacak kadar” sindiğini söyler ve meslektaşı MacLean’e de teşekkür eder [[cite:berlo-1960-smcr]].",
+      "question": {
+        "id": "who-when-q", "type": "tf",
+        "prompt": "Doğru mu yanlış mı: Westley ve MacLean’in modeli Newcomb’un ABX çerçevesinden yola çıkar ve Berlo’nun kitabından önce yayımlanır.",
+        "answer": true,
+        "explain": "Doğru. Westley ve MacLean, basit iletişim eylemini Newcomb’un A–B–X modeliyle anlatarak başlar ve buna kitle iletişimi için bir C rolü ekler; makale 1957’de (ilk sürümü 1955’te) çıkar, Berlo’nun kitabı 1960’ta. Sıra karışabilir, çünkü ders kitapları modelleri konuya göre dizer; yayın sırası 1953, 1955–57, 1960’tır."
+      }
+    },
+    {
+      "id": "deep-founder", "section": "people-time", "layer": "deep", "kind": "story",
+      "title": "Derin: Alanın kurucusu kim? Schramm, dört “kurucu” ve bir yorum",
+      "body": "Schramm’ın yaşamı başlı başına bir hikâye. Rogers’ın anlatımına göre beş yaşında ağır bir kekemelik geliştirdi; Iowa’da kekemelik uzmanlarının arasında Wendell Johnson’ın danışmanlığı ve alıştırmalarıyla bunu bir ölçüde yendi, Rogers bunun onun iletişime ilgisinin nedenlerinden biri olduğunu düşünür [[cite:rogers-1994-history]]. (Aynı Wendell Johnson’ın on adımlık “Bay A ile Bay B” tarifini Schramm 1971’de kendi bölümüne alır [[cite:schramm-1971-nature-models]].) Schramm İngiliz edebiyatı doktorası yaptı, 1935–42 arasında Iowa Yazarlar Atölyesi’ni yönetti, 1943’te Iowa’da kitle iletişiminde ilk doktora programını düzenledi ve 1947’de Illinois’e geçip enstitüyü kurdu [[cite:rogers-1994-history]] [[cite:illinois-icr-about]].\n\nTartışma şu: alanın kurucuları kimdi? Pooley’e göre Schramm 1963’ten başlayarak dört isim (Lazarsfeld, Lewin, Hovland, Lasswell) için bir “kurucu babalar” hikâyesi yazdı; malzemesi, Berelson’un 1959’daki “alan sönüyor” makalesine verdiği yanıttı [[cite:pooley-2017-four-founders]]. Pooley’in yorumu: alanın itibarı yoktu; Schramm yüksek statülü öncülerin prestijini ödünç aldı ve bu yüzden onu bir “anıştırma girişimcisi” (mnemonic entrepreneur) diye adlandırır [[cite:pooley-2017-four-founders]]. Rogers ile Chaffee ise Schramm’ın kendine karşı fazla mütevazı davrandığını, gerçek kurucunun Schramm olduğunu savunur; Pooley’in aktardığına göre kimsenin buna itiraz etmediğini yazarlar [[cite:pooley-2017-four-founders]].\n\nDers: “kurucu” bir olgu değil, bir anlatım seçimidir. Sınavda dört adı ezberle; tarih okurken hikâyeyi kimin anlattığına bak."
+    },
+    {
+      "id": "claim-map", "section": "claim", "layer": "core", "kind": "text",
+      "title": "Temel iddia: çizgiye dört ekleme",
+      "body": "Dört modelin ortak iddiası şu: iletişim, bir kaynaktan hedefe giden tek yönlü bir gönderi değil; birbirini etkileyen katılımcıların ortak bir deneyimle ve sürekli bir dönüşle sürdürdüğü bir süreçtir. Her model bu iddiaya farklı bir parça ekler:\n\n- **Schramm (1954):** iki kişinin deneyim daireleri ne kadar örtüşürse anlam o kadar kolay paylaşılır; herkes hem kodlar hem çözer; geri bildirim ipi bağlar [[cite:schramm-1954-how-communication-works]].\n- **Newcomb (1953):** iki kişi bir şey (X) hakkında konuşurken aynı anda birbirine ve o şeye yönelir; bakışları ayrıldığında simetri yönünde bir gerilim doğar [[cite:converse-1994-newcomb-nas]].\n- **Westley–MacLean (1957):** kitle iletişimi, araya giren bir kanal rolüyle (C, kapı bekçisi) kurulur; C alıcının vekili gibi seçer; geri bildirim üç hatta akar [[cite:westley-maclean-1957]].\n- **Berlo (1960):** iletişimin her öğesinde (kaynak, mesaj, kanal, alıcı) sonucu belirleyen faktörler vardır ve öğeler birbirinden bağımsız değildir [[cite:berlo-1960-smcr]].\n\nBu dört ekleme, [[lesson:lasswell-shannon-weaver]] dersindeki iki modelin üstüne gelir; onların yerine geçmez. Bir sonraki adımda dört eklemeyi tek tek açacağız.",
+      "question": {
+        "id": "claim-map-q", "type": "mcq",
+        "prompt": "Bir öğrenci “iletişim, mesajın hedefe ulaşıp ulaşmadığından ibarettir” diyor. Dört süreç modelinin ortak itirazı hangisidir?",
+        "options": [
+          "Ulaşmak yetmez: anlam, katılımcıların ilişkisi ve dönüş de hesaba katılmalıdır.",
+          "Mesajın anlamı yalnızca kaynağın niyetiyle belirlenir.",
+          "Alıcı iletişimde önemsizdir; kanal her şeyi belirler.",
+          "İletişim yalnızca yüz yüze düzeyde incelenmelidir."
+        ],
+        "answer": 0,
+        "explain": "İlk şık doğru: dört modelin de ortak noktası, iletimin başarısını alıcı, ilişki ve dönüş üzerinden yeniden tanımlamasıdır. İkinci şık cazip, çünkü “kaynak niyeti” Berlo’nun amaç vurgusuna uyuyor gibidir; ama Berlo da alıcıyı sürecin en önemli halkalarından biri sayar. Üçüncü şık tersine döner; dördüncü şık Westley–MacLean’in kitle iletişimini kapsama çabasına aykırıdır."
+      }
+    },
+    {
+      "id": "concepts-field", "section": "concepts", "layer": "core", "kind": "lab",
+      "title": "Laboratuvar: iki dairen kesişiyor mu?",
+      "body": "Schramm’ın en akılda kalan çizimi iki dairedir. Onun kendi anlatımına göre daireler iki kişinin birikmiş deneyimini temsil eder: kaynak yalnızca kendi deneyimi kadarını kodlayabilir, hedef yalnızca kendi deneyimi kadarını çözebilir. Daireler geniş bir alanda örtüşüyorsa iletişim kolaydır; örtüşme küçükse zordur; hiç örtüşmüyorsa imkânsızdır [[cite:schramm-1954-how-communication-works]]. Kendi örnekleri: hiç Rusça öğrenmemiş biri o dilde ne kodlayabilir ne çözebilir; uçak görmemiş biri uçağı büyük bir kuş sanabilir; fen eğitimi almamış biri Einstein’ı okumakta zorlanır [[cite:schramm-1954-how-communication-works]].\n\nŞimdi dene (varsayımsal bir sahne): bir bankacı, on yaşındaki yeğenine “Havale yarın hesaba geçer” diyor.\n\n1. Bankacının dairesinde bu cümle hangi işaretlerle yüklü?\n2. Yeğenin dairesinde “havale” ve “hesap” neyi çağrıştırıyor?\n3. Kesişimde ne kalıyor? Bankacı cümleyi kesişime nasıl taşıyabilir?\n\nSchramm’ın metnine göre kaynak, karşıdakinin anlamakta zorlanacağını düşünüyorsa örnek ve benzetme ekleyebilir [[cite:schramm-1954-how-communication-works]]; yani işaretleri kesişimden seçmek, kesişimi büyütmenin yoludur. Bu çizime ders kitapları [[concept:field-of-experience|deneyim alanı]] der; Schramm’ın kendi sözcükleri 1954’te “deneyim”, 1971’de “başvuru çerçevesi”dir [[cite:schramm-1971-nature-models]].",
+      "question": {
+        "id": "concepts-field-q", "type": "mcq",
+        "prompt": "Bir doktor hastasına “ilacın kontrendikasyonları var” diyor; hasta şaşkın. Schramm’ın modeline göre hangi hamle iletişimi en çok kolaylaştırır?",
+        "options": [
+          "Cümleyi daha yüksek sesle tekrar etmek.",
+          "Aynı şeyi hastanın deneyimine yakın işaretlerle (örnek, benzetme) yeniden kodlamak.",
+          "Hastanın soru sormasını engellemek.",
+          "Doktorun kendi uzmanlık dilinden hiç ödün vermemesi."
+        ],
+        "answer": 1,
+        "explain": "İkinci şık doğru: mesaj hastanın dairesinin dışında kalmıştır; çözüm, işaretleri iki dairenin kesişimine taşımaktır. İlk şık cazip, çünkü sorunu “duyulmadı” diye okumak kolaydır (kanal/gürültü mantığı); ama hasta duymuş, anlamamıştır. Üçüncü şık soruyu kapatır ve geri bildirimi keser; dördüncü şık kesişimi büyütmek yerine sabitler."
+      }
+    },
+    {
+      "id": "concepts-glossary", "section": "concepts", "layer": "core", "kind": "text",
+      "title": "Kavramlar sözlüğü",
+      "body": "- **Kodlayıcı, kod çözücü, yorumlayıcı:** Schramm’a göre herkes hem kodlar hem çözer [[cite:schramm-1954-how-communication-works]]; “yorumlayıcı” rolünü ekleyen şema Osgood’a atfedilir [[cite:schramm-1971-nature-models]]. Bkz. [[concept:circular-model]].\n- **Deneyim alanı:** iki kişinin deneyim dairelerinin kesişimi; ortak anlam orada kurulur. Bkz. [[concept:field-of-experience]].\n- **Geri bildirim:** Schramm’da dönüş süreci (kendi mesajından da geri bildirim alırsın); Westley–MacLean’de amaçlı ya da amaçsız; Berlo’da mesajın kaynağın sistemine geri girmesi. Bkz. [[concept:feedback]].\n- **A, B, C, X (Westley–MacLean):** A savunucu roller (amaçlı ileten), B davranışsal sistem (alıcı: kişi, grup ya da toplum), C kanal rolleri (seçen ve ileten; kapı bekçisi, bkz. [[concept:gatekeeping]]), X dünyadaki nesneler ve olaylar. Bkz. [[concept:westley-maclean-model]].\n- **Yönelim ve simetri (Newcomb):** bir kişinin bir kişiye ya da nesneye bakışı; A, B ve X aynı sistemin üç köşesidir. Bkz. [[concept:newcomb-abx-model]].\n- **SMCR:** Berlo’nun altı bileşeninin dörde indirilmiş anımsatıcı adı. Bkz. [[concept:smcr-model]].\n- **Süreç:** Berlo’ya göre başlangıcı, sonu ve sabit sırası olmayan; öğelerin birbirini etkilediği bütün [[cite:berlo-1960-smcr]].\n- **Gürültü:** Schramm’ın aktardığı yaygın tanımla, kanalda göndericinin bilerek koymadığı her şey [[cite:schramm-1971-nature-models]]; bkz. [[concept:noise]].",
+      "question": {
+        "id": "concepts-glossary-q", "type": "mcq",
+        "prompt": "Westley ve MacLean’in terimleriyle: bir televizyon izleyicisi reklamı yapılan bir deterjanı deniyor; alışverişi bir pazar araştırmasının verisine giriyor. Bu nedir?",
+        "options": [
+          "Amaçlı geri bildirim: izleyici satıcıya bilerek yanıt vermiştir.",
+          "Amaçsız geri bildirim: izleyici geri bildirim niyeti olmadan da veri üretmiştir.",
+          "C rolü: izleyici kapı bekçisi olmuştur.",
+          "X′: izleyici bir soyutlamaya dönüşmüştür."
+        ],
+        "answer": 1,
+        "explain": "İkinci şık doğru: Westley ve MacLean bu örneği kendileri verir; alışveriş, izleyicinin niyeti olmadan pazar araştırmasının verisi olur. İlk şık cazip, çünkü “geri bildirim = bilerek yanıt” akla yatkındır; ama amaçlı geri bildirim, sinirli bir okurun editöre mektup yazması gibi bilerek geri gönderilendir. Üçüncü ve dördüncü şıklar başka kavramları (C ve X′) karıştırır."
+      }
+    },
+    {
+      "id": "assumptions-shared", "section": "assumptions", "layer": "core", "kind": "text",
+      "title": "Ortak varsayımlar ve bir ayrılık",
+      "body": "Dört modelin yazarları birbirinden farklı disiplinlerden gelse de üç şeyi paylaşır:\n\n1. **Katılımcılar birbirine benzeyen sistemlerdir.** Berlo’ya göre kaynak ile alıcı benzer sistemler olmak zorundadır; aynı kişi ikisi de olabilir ve çoğunlukla olur. “Kaynak” ve “alıcı”, ayrı varlıkların değil, iletişimde yapılması gereken davranışların adlarıdır [[cite:berlo-1960-smcr]].\n2. **Anlam insanların içindedir.** Schramm’a göre anlam katılımcıların içinde var olur; alıcının işaretlere verdiği tepkidir [[cite:schramm-1971-nature-models]]. Bu yüzden deneyim dairesi modelin merkezindedir.\n3. **Model bir haritadır.** Berlo süreci fotoğraf makinesiyle karşılaştırır: kare süreci durdurur, olayın kendisi değildir [[cite:berlo-1960-smcr]]. Schramm’a göre modeli sınayan şey, gerçeğin kopyası olması değil, tahmin yaptırmasıdır [[cite:schramm-1971-nature-models]].\n\nNewcomb’un modeli buna dördüncü bir varsayım ekler: insanlar bakışlarını dengede tutmaya çalışır; ayrışma gerilim doğurur [[cite:converse-1994-newcomb-nas]].\n\n**Ayrılık noktası: amaç.** Berlo’da kaynağın bir amacı vardır ve iletişim, bir tepki elde etme çabasıdır [[cite:berlo-1960-smcr]]. Westley ve MacLean ise amaçsız mesajları da modele alır: ileten kişinin etkileme niyeti yoksa o ileti bir X’tir; araya giren C de amaçsızdır [[cite:westley-maclean-1957]]. Kitle iletişimini konuşurken bu fark, kimin “kaynak” sayılacağını değiştirir.",
+      "question": {
+        "id": "assumptions-shared-q", "type": "tf",
+        "prompt": "Doğru mu yanlış mı: Berlo’ya göre kaynak ve alıcı, birbirinden bağımsız iki işlevdir ve iletişimin başı ile sonunu oluşturur.",
+        "answer": false,
+        "explain": "Yanlış. Berlo, kaynağın başlangıç, alıcının son gibi göründüğünü ama bunun yalnızca modeli konuşabilmek için yaptığımız bir kesit olduğunu yazar; iki işlevin bağımsız olduğunu varsaymanın anlamlı olmadığını söyler. “Başı ve sonu” ifadesi doğrusal modellerin dilidir; Berlo’nun süreç kavramı tam tersini söyler."
+      }
+    },
+    {
+      "id": "how-schramm", "section": "how-it-works", "layer": "core", "kind": "steps",
+      "title": "Schramm’ın modeli, adım adım",
+      "body": "1. **Kaynak bir şey paylaşmak ister ve kodlar.** Duyguyu ya da bilgiyi, iletilebilecek işaretlere (söz, yazı, jest) çevirir [[cite:schramm-1954-how-communication-works]].\n2. **İşaret kaynaktan ayrılır.** Kodlanmış mesaj gönderenden bağımsızdır; Schramm’ın örneği: yazısını baskıya verirken her yazarın hissettiği çaresizlik [[cite:schramm-1954-how-communication-works]].\n3. **Hedef işareti alır ve kodunu çözer:** ama yalnızca kendi deneyim dairesinin içindeki anlamlarla [[cite:schramm-1954-how-communication-works]].\n4. **Yorum ve yanıt.** İşaretin çağırdığı öğrenilmiş tepkiler onun anlamıdır; bu anlam hedefi bir şey yapmaya iter, yani kodlamaya başlatır [[cite:schramm-1954-how-communication-works]].\n5. **Dönüş.** Hedef artık kaynağın yerindedir; verdiği yanıt geri bildirimdir. Geri bildirim yalnızca karşıdan gelmez: kendi sesini duyup telaffuzunu düzelten ya da yazdığını görüp düzelten kişi de kendi mesajından geri bildirim alır [[cite:schramm-1954-how-communication-works]].\n6. **Zincirin gücü.** Sistem en zayıf halkası kadar güçlüdür: kaynağın bilgisi, kodlamanın isabeti, iletimin hızı ve doğruluğu, mesajın kaynağın kodladığına denk biçimde çözülmesi, hedefin buna yanıt verebilmesi [[cite:schramm-1954-how-communication-works]].\n\nBu altı adım bir daire gibi okunabilir ama Schramm’ın kendi sözü “uçsuz süreç”tir: iki taraf sürekli rol değiştirir.",
+      "question": {
+        "id": "how-schramm-q", "type": "mcq",
+        "prompt": "Bir yazar makalesini yayımlamadan önce yüksek sesle okuyup tekrarlayan cümleleri düzeltiyor. Schramm’ın kavramlarıyla bu nedir?",
+        "options": [
+          "Alıcıdan gelen geri bildirim",
+          "Kendi mesajından alınan geri bildirim",
+          "Kanal gürültüsünün ayıklanması",
+          "Deneyim dairesinin genişletilmesi"
+        ],
+        "answer": 1,
+        "explain": "İkinci şık doğru: Schramm, kendi sesimizi duyup yanlış telaffuzu ya da yazdığımızı görüp yazım hatasını düzeltmeyi kendi mesajımızdan alınan geri bildirim sayar. İlk şık cazip, çünkü geri bildirim çoğu zaman “karşıdan gelen tepki” diye öğretilir; ama Schramm iki türü ayırır. Üçüncü şık yanlış, çünkü yazar dışarıdan gelen bir parazit ayıklamıyor; dördüncü şık, yazarın kendi deneyimini değiştirmediği için yanlış."
+      }
+    },
+    {
+      "id": "how-newcomb", "section": "how-it-works", "layer": "core", "kind": "text",
+      "title": "Newcomb’un üçgeni: A, B ve X",
+      "body": "Biri sana “bu belgesel harika” diyor. Cümlenin değeri iki şeye bağlı: belgesele ve söyleyene. Aynı cümle sevdiğin bir arkadaşından mı, hiç ısınamadığın birinden mi geldi? Newcomb’un 1953 makalesi bu ikiliği modele çevirir.\n\nWestley ve MacLean’in aktardığına göre olgun bir kişi (B) bir nesneye (X) tek başına yönelmez; karşısında bir A varsa aynı anda hem A’ya hem X’e yönelir. X’e bakışı artık yalnızca X’in kendisine sağlayacağı doyumlara değil, A ile X arasındaki ilişkiye de bağlıdır. Bu yüzden bir görüşün tam anlamı, kimin söylediğinden ayrı anlaşılmaz [[cite:westley-maclean-1957]].\n\nNewcomb’un öngörüsü (Westley ve MacLean’in özetiyle): diğer şeyler eşitken A, X hakkında B’ye bir şey söylediğinde ve B, A’yı seviyorsa (ya da en azından ondan hoşlanmıyor değilse), B’nin X algısı iletişimden sonra öncekine göre A’nınkine daha çok benzer [[cite:westley-maclean-1957]]. Newcomb bunu bir “simetriye doğru gerilim” diye kurar; Heider’ın denge fikirlerinden yararlanır [[cite:converse-1994-newcomb-nas]]. Schramm 1971’de A–B–X’i tutarlılık kuramlarının erken bir örneği sayar [[cite:schramm-1971-nature-models]].\n\nBöylece model, “mesaj taşıma” çizgisinden “ilişki üçgeni”ne geçer: iletişim, iki kişinin bir şeye bakışını dengede tutmanın yoludur. Sınır da burada: Westley ve MacLean’e göre Newcomb’da A ve B yalnızca kişilerdir [[cite:westley-maclean-1957]]; bir sonraki kart bu sınırı nasıl aştıklarını anlatıyor.",
+      "question": {
+        "id": "how-newcomb-q", "type": "mcq",
+        "prompt": "Hoşlandığın bir arkadaşın bir belgeseli övüyor. Newcomb’un çerçevesinde (diğer şeyler eşitken) en olası sonuç hangisidir?",
+        "options": [
+          "Belgesel hakkındaki görüşün arkadaşınınkine yaklaşır.",
+          "Görüşün arkadaşınınkinden uzaklaşır.",
+          "Hiçbir şey olmaz; iletişim yalnızca bilgi taşır.",
+          "Belgeseli izlemeden görüş oluşturamazsın."
+        ],
+        "answer": 0,
+        "explain": "İlk şık doğru: B, A’yı seviyorsa iletişim sonrası X algısı A’nınkine yaklaşır. Üçüncü şık cazip, çünkü çizgi modellerin bakışıdır (iletişim = bilgi aktarımı); Newcomb ise ilişkinin de X’e bakışı değiştirdiğini söyler. İkinci şık, sevmediğin biri için geçerli olabilecek bir durumdur ve “diğer şeyler eşitken” koşuluyla çelişir; dördüncü şık, A–B–X’in dışında bir iddiadır."
+      }
+    },
+    {
+      "id": "how-wm", "section": "how-it-works", "layer": "core", "kind": "steps",
+      "title": "Westley ve MacLean: araya bir C girer",
+      "body": "1. **Basit eylem.** A, B’ye X hakkında bir şey iletir (Newcomb). Yüz yüze durumda çok duyu devrededir ve geri bildirim anında döner [[cite:westley-maclean-1957]].\n2. **Kitle iletişimi farklıdır:** duyu çeşitliliği azalır, geri bildirim en aza iner ya da gecikir [[cite:westley-maclean-1957]].\n3. **B’nin çevresi X doludur.** B ihtiyaçlarına ve güvenlik sorunlarına göre seçici yönelir. Bazı X’ler doğrudan ulaşır: pencereden komşunun evinin yandığını görmek, A gerekmeden bilgidir [[cite:westley-maclean-1957]].\n4. **Erişilemeyen X’ler için C.** C, B’nin gereksinimlerine uygun soyutlamaları seçer, ortak anlamlı sembollere dönüştürür ve bir kanaldan iletir. Yazarlar C’yi Lewin’in kapı bekçisi kavramının White tarafından uyarlanmış hâli ve Bush’un “kodlayıcı”sı olarak tanıtır [[cite:westley-maclean-1957]].\n5. **C kimin vekili?** B’nin. C ancak B’nin gereksinimlerini karşıladığı ölçüde ayakta kalır; B birçok C arasından seçer, bu yüzden C’ler dikkat için rakiptir [[cite:westley-maclean-1957]].\n6. **Üç geri bildirim hattı.** B’den A’ya, B’den C’ye ve C’den A’ya. Amaçlı olabilir (öfkeli bir okurun mektubu) ya da amaçsız (satın alma verisi) [[cite:westley-maclean-1957]].\n\nKendi örnekleri hoş: işleri başından aşkın bir ev kadını komşularını dolaşamıyorsa mahalledeki dedikoducu onun C’si olur; uzak bir sınır kolonisi gözcü diker; bir devlet diplomatik servis kurar [[cite:westley-maclean-1957]].",
+      "question": {
+        "id": "how-wm-q", "type": "mcq",
+        "prompt": "Westley ve MacLean’e göre bir gazetenin haber editörü (C rolü) seçimlerini kimin adına yapar?",
+        "options": [
+          "Haberin kaynağı olan A adına: A’nın mesajını iletir.",
+          "Alıcı B adına: onun ihtiyaç ve sorunlarına uygun X’leri seçer.",
+          "Yalnızca kendi adına: seçimin kimseyle ilişkisi yoktur.",
+          "Reklamverenler adına: gelir onlardan gelir."
+        ],
+        "answer": 1,
+        "explain": "İkinci şık doğru: makalede C, B’nin vekili olarak seçen kişidir; ayakta kalması B’nin gereksinimlerini karşılamasına bağlıdır. İlk şık cazip, çünkü “haber kaynağı = A” alışkanlığı güçlüdür; oysa C’nin tanımı, amaçlı bir A olmayışıdır. Dördüncü şık, modelin dışında bir ekonomi iddiasıdır ve 1957 makalesinde yoktur; üçüncü şık, C’yi B’den kopardığı için yanlıştır."
+      }
+    },
+    {
+      "id": "how-berlo", "section": "how-it-works", "layer": "core", "kind": "text",
+      "title": "Berlo: dört öğenin içindeki faktörler",
+      "body": "Berlo’nun 1960 tarihli kitabı bir soruyla ilerler: bir iletişim çözümlemesinde neye bakmalı? Cevap altı bileşenli bir model: kaynak, kodlayıcı, mesaj, kanal, kod çözücü, alıcı. İki kişinin konuştuğu durumda kaynak ile kodlayıcı, alıcı ile kod çözücü birlikte ele alınabilir; geriye dört öğe kalır. Ders kitaplarının SMCR dediği kısa hâl budur [[cite:berlo-1960-smcr]].\n\nAsıl ağırlık öğelerin içindeki faktörlerde:\n\n- **Kaynak (ve aynasında alıcı):** iletişim becerileri (yazma, konuşma, okuma, dinleme ve düşünme), tutumlar (kendine, konuya ve karşıdakine), bilgi düzeyi, toplumsal-kültürel sistemdeki yer.\n- **Mesaj:** kod, içerik ve işleyiş (*treatment*: ne söylendiği kadar nasıl söylendiği); her birinde öğeler ve yapı.\n- **Kanal:** en sade anlamıyla duyular: görme, işitme, dokunma; ara sıra tat ve koku.\n\nBerlo’nun kendi örnekleri hoş: bir satıcı ürüne inanmıyorsa bu mesajına sızar; bir gazetede muhabir, masa editörü, dizgici ve dağıtıcı aynı iletişim ağının parçalarıdır [[cite:berlo-1960-smcr]]. Bu bir liste modelidir: “nereye bak” der, “ne olur” demez. Berlo’nun kendisi de modelin “doğru” değil, kullanışlı olmaya çalıştığını söyler.",
+      "question": {
+        "id": "how-berlo-q", "type": "mcq",
+        "prompt": "Bir satıcı sattığı ürüne inanmıyor ve bu belli oluyor. Berlo’nun hangi faktörü bunu açıklar?",
+        "options": [
+          "Kaynağın iletişim becerileri (yazma ve konuşma)",
+          "Kaynağın konuya karşı tutumu",
+          "Kanalın duyusal doğası",
+          "Alıcının bilgi düzeyi"
+        ],
+        "answer": 1,
+        "explain": "İkinci şık doğru: Berlo, kaynağın konuya karşı tutumunun mesajına sızdığını, satıcının ürüne inanmadan satamayacağını yazar. İlk şık cazip, çünkü “ikna edici konuşamıyor” akla gelir; ama sorun beceri değil, inanç. Üçüncü ve dördüncü şıklar kaynağın değil, kanal ve alıcının özelliğidir."
+      }
+    },
+    {
+      "id": "deep-smcr", "section": "how-it-works", "layer": "deep", "kind": "text",
+      "title": "Derin: “SMCR” Berlo’nun kitabında yok",
+      "body": "Berlo’nun modelini SMCR diye öğrenmiş olabilirsin. Kitabın taranmış metninde bu kısaltmayı bulamadım (tarama kusurlu olabilir; bu yüzden kesin söylemiyorum): Berlo altı bileşenli bir model sunar ve kaynak–kodlayıcı ile kod çözücü–alıcıyı insan-insan iletişiminde birer çift olarak ele alabileceğini söyler [[cite:berlo-1960-smcr]]. SMCR sonradan gelen bir kolaylaştırmadır.\n\nİkinci fark sayılarda. Popüler özetler kaynak için beş faktör (beceriler, tutumlar, bilgi, toplumsal sistem, kültür), mesaj için de beş (içerik, öğeler, işleyiş, yapı, kod) sayar [[cite:communicationtheory-berlo-smcr]]. Berlo’nun kendi bölümü kaynak-kodlayıcı için dört faktör verir (toplumsal-kültürel sistem tek başlıkta), mesaj için üç faktör (kod, içerik, işleyiş; her biri öğeler ve yapı bakımından çözümlenir) [[cite:berlo-1960-smcr]]. Türkçe Vikipedi de dört kaynak faktörü verir ama Berlo’nun *treatment* sözcüğünü “davranış” diye karşılar [[cite:wikipedia-tr-iletisim-modelleri-newcomb-schramm-berlo]].\n\nÜçüncü fark sınıflamada. Özetler modeli doğrusal ve geri bildirimsiz sayar [[cite:communicationtheory-berlo-smcr]]. Berlo ise bölüm başında sürecin başlangıcı ve sonu olmadığını yazar, kaynak ile alıcıyı “davranış adları” sayar ve geri bildirimi ancak kitabın sonraki bölümlerinde ele alır [[cite:berlo-1960-smcr]].\n\nSınavda kitabının sürümünü yaz; tartışmada Berlo’nun kendi metnine dön."
+    },
+    {
+      "id": "how-lab", "section": "how-it-works", "layer": "core", "kind": "lab",
+      "title": "Laboratuvar: bir olayı iki modelle çöz",
+      "body": "**Olay (belgeli).** Önyargıyı gülünç düşürmek için bir karikatür dizisi hazırlanmıştı: “Bay Biggott” adlı karakter saçma önyargıları sergiliyordu; örneğin hastanede nakil için yalnızca “altıncı kuşak Amerikalı kanı” istiyordu. Çalışma, Amerikan Yahudi Komitesi’nin araştırma birimi için yapıldı; Columbia’daki Uygulamalı Toplumsal Araştırmalar Bürosu yürüttü. Beklenen yol şuydu: önyargılı okur, Biggott’ın fikirlerinin kendi fikirlerine benzediğini görür, Biggott’ı saçma bulur, fikirlerin saçma olduğunu anlar, önyargısından vazgeçer. Olan başkaydı: karikatürü önce anlayanların bir kısmı, Biggott’la özdeşleşmekten kurtulmaya o kadar uğraştı ki karikatürün asıl noktasını kaçırdı; yazarlar buna “anlayışın raydan çıkması” dedi [[cite:cooper-jahoda-1971-reprint]]. (Aynı olayı [[lesson:magic-bullet]] dersinde başka bir soru için de gördün.)\n\n**Görev 1: Schramm.** Karikatürcünün dairesi ile önyargılı okurun dairesini çiz. Kesişimde ne var? Yazarlar, okurun karikatürü kendi başvuru çerçevesine sokup dönüştürdüğü örnekleri de anlatır [[cite:cooper-jahoda-1971-reprint]].\n\n**Görev 2: Newcomb.** A karikatürcü, B okur, X önyargı. B kendini A’ya yakın mı hissediyor? Okurun tepkisi A’ya yaklaşma yönünde mi, uzaklaşma yönünde mi?\n\n**Görev 3: Boşluk.** İki model de “ne olduğunu” söylemez; nereye bakacağını gösterir. (Yorum bize ait; makalenin yazarları da nedenlerin anlatıldığı bölümü “tahmine dayalı” diye nitelendirir.)",
+      "question": {
+        "id": "how-lab-q", "type": "mcq",
+        "prompt": "Bay Biggott olayında Schramm’ın modeli hangi soruyu sordurur?",
+        "options": [
+          "Karikatür kanalda bozuldu mu?",
+          "Karikatürün işaretleri, okurun deneyimi ve başvuru çerçevesiyle nasıl buluştu?",
+          "Kaç kişi karikatürü gördü?",
+          "Karikatürcünün kodlayıcısı yeterince güçlü müydü?"
+        ],
+        "answer": 1,
+        "explain": "İkinci şık doğru: sorun işaretlerin okurun çerçevesine nasıl yerleştiğidir; Schramm’ın daireleri tam bunu sordurur. İlk şık cazip, çünkü çizgi modelin ilk refleksi “iletide bozulma” aramaktır; ama karikatür bozulmadan ulaşmış, anlam okurun içinde yola sapmıştır. Üçüncü şık ulaşımı, dördüncü şık kodlamanın gücünü ölçer; ikisi de alıcının etkin yorumunu kaçırır."
+      }
+    },
+    {
+      "id": "evidence-test", "section": "evidence", "layer": "core", "kind": "text",
+      "title": "Bir model neyle sınanır?",
+      "body": "Bu modellerin kaynak metinleri (Schramm 1954, Westley–MacLean 1957, Berlo 1960) deney raporu değil, kavramsal çerçeve önerisidir; o yüzden “kanıt” bölümü bir deneyi anlatmaz. Yazarlarının kendi ölçütleri şöyle:\n\n- **Schramm:** iletişimin çoğu merkezî sinir sisteminin “kara kutusu”nda geçer; bu yüzden modeller analoji ve kaba işlevlerdir; sınav, modelin kara kutunun birebir kopyası olması değil, tahmin yaptırmasıdır [[cite:schramm-1971-nature-models]].\n- **Westley ve MacLean:** modellerinin tam bir kuram olmadığını, bir paradigma olduğunu; değerinin sezgisel yararında yattığını yazar [[cite:westley-maclean-1957]].\n- **Berlo:** hiçbir modelin “doğru” ya da “gerçek” olmadığını, bazılarının daha yararlı olduğunu söyler [[cite:berlo-1960-smcr]].\n\nYine de her modelin sınanabilir bir cümlesi var:\n\n- Newcomb ve Westley–MacLean: A’yı seven B’nin X algısı A’ya yaklaşır.\n- Schramm: deneyimler ne kadar az örtüşürse anlaşmak o kadar zorlaşır.\n- Berlo: kaynak ve alıcının becerileri arasındaki ilişki, tek başına beceri düzeyinden daha belirleyicidir (bu ilişkiyi iletişimin doğruluğunun, yani *fidelity*’nin “hayati” belirleyicisi sayar) [[cite:berlo-1960-smcr]].\n\nSınavda “modelin kanıtı nedir?” sorusuna dürüst cevap: modelin kendisi kanıt değil, araştırmayı yönlendiren çerçeve; gerçek kanıt modelin borç aldığı alanlarda (sosyal psikoloji, öğrenme kuramı, bilgi kuramı) aranır.",
+      "question": {
+        "id": "evidence-test-q", "type": "tf",
+        "prompt": "Doğru mu yanlış mı: Schramm’a göre iyi bir iletişim modeli, kara kutunun içinde olup biteni birebir kopyalayan modeldir.",
+        "answer": false,
+        "explain": "Yanlış. Schramm, iletişimin büyük bölümünün sinir sisteminin kara kutusunda geçtiğini ve bu yüzden modellerin analoji olduğunu söyler; ölçüt, modelin tahmin yaptırıp yaptırmadığıdır. “Kopya” ölçütü modeli harita yerine fotoğraf sayar; Berlo da haritanın araziyi tamamen çizemeyeceğini vurgular."
+      }
+    },
+    {
+      "id": "deep-noise", "section": "evidence", "layer": "deep", "kind": "text",
+      "title": "Derin: Anlamsal gürültü tartışması, 1949 ve 1957",
+      "body": "Weaver 1949’da Shannon’ın şemasına “anlamsal alıcı” ve “anlamsal gürültü” kutuları eklemeyi önermişti [[cite:shannon-weaver-1949]]; ayrıntısı [[lesson:lasswell-shannon-weaver]] dersinde. Sekiz yıl sonra Westley ve MacLean bilgi kuramı–sibernetik paradigmasını değerlendirirken ilginç bir çekince koyar.\n\nYazdıklarına göre bu paradigma da bir iletişimciyi (mutlaka amaçlı olmasa bile) varsayıyor ve “ödünç alınmış” bir modelin bütün sorunlarını taşıyor; kodlanan ve çözülen sembol sistemlerinin birbirine tam uyduğunu varsaymak, sağduyuyu zorlar [[cite:westley-maclean-1957]]. Dipnotta ayrıntı verirler: bilgi kuramında kodlama ve çözme için kullanılan “topluluklar” (ensemble) eşdeğerdir; kodlama–çözme uyuşmazlığı olarak yalnızca kanaldaki gürültü tanımlanır ve gürültü rastlantısal olaylardır. Bazı yazarlar “kanal gürültüsü” ile “anlamsal gürültü”yü (kodlama ve çözme topluluklarının farkından doğan çözme hataları) ayırmayı önermiştir. Westley ve MacLean bu ayrımın önemli olduğunu ama modeli “sağduyuyu memnun etmek için eğip bükmek” gibi durduğunu; matematiksel ilişkilerin buna nasıl dayanacağının belli olmadığını, çünkü bu gürültünün rastlantısal değil sistematik olması gerektiğini yazar [[cite:westley-maclean-1957]].\n\nYorum (bize ait): Schramm’ın daireleri ve Westley–MacLean’in “ortak anlamlı semboller” vurgusu, aynı sorunu matematiğe eklemek yerine modelin içine koymanın iki yoludur."
+    },
+    {
+      "id": "crit-myth", "section": "critique", "layer": "core", "kind": "myth",
+      "title": "Süreç modeli demek daire çizen model demek mi?",
+      "body": "**Sanılan.** “Doğrusal” modeller tek yönlü çizgidir, “süreç” modelleri ise döngü çizer; Schramm’ın dairesel modeli, Berlo’nun SMCR’si ve Westley–MacLean bu yeni kuşaktır. Türkçe Vikipedi’de Berlo’nun modeli “doğrusal iletim modeli” diye anılır [[cite:wikipedia-tr-iletisim-modelleri-newcomb-schramm-berlo]] ve popüler bir özet geri bildirim eksikliğini sayar [[cite:communicationtheory-berlo-smcr]].\n\n**Kanıtın söylediği.** Kaynaklar daha karmaşık:\n\n- Schramm 1954’te “dairesel” demez; sürecin başı ve sonu olmadığını söyler [[cite:schramm-1954-how-communication-works]]. “Dairesel” etiketi sonradan geldi.\n- Berlo “süreç”i bir çizim değil bir bakış olarak tanımlar: öğeler birbirini etkiler, sabit sıra yoktur; ama ilk model altı bileşenli bir listedir ve geri bildirim terimi kitapta ancak öğrenme bölümünde girer [[cite:berlo-1960-smcr]].\n- Westley ve MacLean “feedback” sözcüğünü tırnak içinde kullanır ve A’nın B’ye bir şey “ilettiğini” yazar; Sapienza ve arkadaşları modeli bu yüzden hâlâ aktarım temelli sayar [[cite:westley-maclean-1957]] [[cite:sapienza-et-al-2016-transmission]].\n\nSonuç: “süreç”, bir çizim biçimi değil bir okuma biçimidir; üstelik yarı yolda kalmış bir okuma: dil hâlâ gönderme, iletme, kodlama dilidir.",
+      "question": {
+        "id": "crit-myth-q", "type": "mcq",
+        "prompt": "Berlo’nun 1960 tarihli kitabındaki “süreç” vurgusu için hangisi en doğrudur?",
+        "options": [
+          "Berlo, iletişimi bir daire olarak çizer ve geri bildirimi modelin ana kutusu yapar.",
+          "Berlo, süreçte başlangıç, son ve sabit sıra olmadığını, öğelerin birbirini etkilediğini savunur; ama kitaptaki model bir bileşen listesidir.",
+          "Berlo, iletişimin doğrusal olduğunu ve sürecin bir yanılsama olduğunu söyler.",
+          "Berlo, süreci Shannon–Weaver’ın kanal kapasitesi kavramıyla tanımlar."
+        ],
+        "answer": 1,
+        "explain": "İkinci şık doğru: Berlo süreci başlangıcı ve sonu olmayan, öğelerin karşılıklı etkilediği bir bakış olarak tanımlar ve modelin fotoğraf gibi süreci dondurduğunu söyler; model ise altı bileşenli bir listedir. İlk şık cazip, çünkü “süreç = daire” alışkanlığı güçlüdür; kitapta geri bildirim ilk modelde kutu değildir. Üçüncü şık Berlo’nun tezini tersine çevirir; dördüncü şık kavramları karıştırır."
+      }
+    },
+    {
+      "id": "crit-limits", "section": "critique", "layer": "core", "kind": "text",
+      "title": "Hâlâ neyi çizemiyorlar?",
+      "body": "Bu modeller çizgiyi ağa çevirdi; sınırlarını da dürüstçe söyleyelim.\n\n- **Bağlam tek kutuda.** Berlo toplumsal-kültürel sistemi kaynak ve alıcının özellik listesine koyar; Schramm 1971’de iletişimin toplumsal katmanlarını (durum, ilişkiler, ilgili gruplar, toplum) ayrıca metinde işler [[cite:berlo-1960-smcr]] [[cite:schramm-1971-nature-models]]. Carey’nin [[concept:ritual-view|ritüel görüşü]] ise iletişimi ortak bir dünyayı paylaşma ve sürdürme olarak okur [[cite:carey-1989]]; bkz. [[lesson:ritual-view]].\n- **Aktarım dili sürüyor.** Sapienza ve arkadaşlarına göre Westley–MacLean modeli terminolojisi ve kavrayışı yüzünden hâlâ aktarım temelli sayılır [[cite:sapienza-et-al-2016-transmission]].\n- **Geri bildirim ikincil.** Berlo’nun ilk modelinde geri bildirim bileşen değildir; Westley–MacLean’de ise kitle iletişiminde en aza inmiş ya da gecikmiş sayılır [[cite:berlo-1960-smcr]] [[cite:westley-maclean-1957]].\n- **Kurumların çıkarı yok.** C, alıcının vekili olarak çizilir; sahiplerin çıkarı modelde görünmez (yorum). Westley ve MacLean kısmen farkındadır: bir muhabir gerçekte savunucu gibi davranabilir; yazarlar bunu rol tanımı ile gerçek davranış arasındaki fark sayıp ampirik bir soru olarak bırakır [[cite:westley-maclean-1957]].\n\n**Savunanlar ne diyor?** Yazarlar modellerin harita olduğunu baştan söylüyor: Berlo süreci kamerayla dondurmanın sınırlarını, Westley–MacLean modelin bir kuram değil bir paradigma olduğunu, Schramm ise ölçütün tahmin olduğunu yazar [[cite:berlo-1960-smcr]] [[cite:westley-maclean-1957]] [[cite:schramm-1971-nature-models]]. “Neden şunu çizmediler?” sorusu kadar “çizdikleri neyi sordurdu?” sorusu da adil bir sorudur.",
+      "question": {
+        "id": "crit-limits-q", "type": "mcq",
+        "prompt": "Bir eleştirmen “Westley–MacLean modeli habercilerin sahiplerinin çıkarını göstermiyor” diyor. Metne dayanarak en adil yanıt hangisidir?",
+        "options": [
+          "Model bütün bu sorunları zaten çözmüştür.",
+          "Model kendini kuram değil paradigma sayar ve C’nin rol tanımı ile davranışı arasındaki farkı ampirik soru olarak açık bırakır; ama sahip çıkarı gerçekten modelde görünmez.",
+          "Eleştiri anlamsızdır, çünkü haberciler her zaman tarafsızdır.",
+          "Model yalnızca yüz yüze iletişim için tasarlandı, eleştiri konu dışıdır."
+        ],
+        "answer": 1,
+        "explain": "İkinci şık doğru: hem eleştirinin bir boşluğa değindiğini kabul eder hem modelin kendi çerçevesini (paradigma, rol–davranış farkı) doğru aktarır. İlk şık modelin iddiasını abartır; üçüncü şık, Westley ve MacLean’in bizzat bir muhabirin savunucu gibi davranabileceğini yazdığı gerçeğiyle çelişir; dördüncü şık, model tam da kitle iletişimini kapsamak için yazıldığı için yanlıştır."
+      }
+    },
+    {
+      "id": "deep-straw", "section": "critique", "layer": "deep", "kind": "text",
+      "title": "Derin: “Aktarım modeli bir korkuluk muydu?” tartışması",
+      "body": "Bu derste “çizgiden sürece” geçişi bir ilerleme hikâyesi gibi anlattık. Tarihyazımı bu hikâyeye farklı yerlerden bakar; kim ne diyor, ayırarak yazayım.\n\n**1. Hikâyenin kendisi.** Sapienza ve arkadaşları (2016) alandaki baskın anlatıyı üç varsayımla özetler: aşamalar birbirini izler, iki görüş (aktarım ve ritüel) birbirini dışlar ve tarih metaforlarla tanımlanır. Kendileri farklı bir tutum alır [[cite:sapienza-et-al-2016-transmission]].\n\n**2. Kaynak.** Aynı makale, aktarım metaforunun Shannon ve Weaver’la doğmadığını savunur: Hartley ve Nyquist’in telgraf terimleri, genel semantik. Shannon’ın “aktarım”ı gerçek anlamıyla kullandığını, bunu insan iletişimi için metafora çevirenin Weaver olduğunu yazarlar; ayrıca kendi yazılarının aktarım metaforunu savunmak olmadığını, çok disiplinli bir bakışa çağrı olduğunu söylerler [[cite:sapienza-et-al-2016-transmission]]. (“Korkuluk” sözcüğünü onlar kullanmaz; bu etiket bizim özetimizdir.)\n\n**3. Geçmişi kuran hikâye.** Pooley, disiplin tarihinin bir kullanımını tarif eder: kendi işini bilimsel göstermek için bilim öncesi bir “korkuluk” selef kurmak; en iyi örnek olarak Katz ve Lazarsfeld’in 1955’te savaş öncesi araştırmacıları “şırınga” kuramcısı diye anlatmasını gösterir [[cite:pooley-2017-four-founders]]. Şırınga etiketinin kendi tarihini Lubken’in “korkuluğu hatırlamak” bölümü ve [[lesson:magic-bullet]] dersi işler [[cite:lubken-2008]].\n\nBu derse dönersek: Berlo şırıngayı “süreç”e karşıt örnek gösterir (bir sonraki kart), Schramm 1971’de kurşun kuramının delik deşik olduğunu söyler. Bu, “çizgi” dediğimiz şeyin kısmen sonradan kurulmuş bir karşı-örnek olabileceğini düşündürür; ama kesin bir iddia değil: hangi metnin kimi hedef aldığı tek tek sorulmalı."
+    },
+    {
+      "id": "deep-berlo-bullet", "section": "critique", "layer": "deep", "kind": "text",
+      "title": "Derin: Berlo, “hypodermic needle” ve süreç",
+      "body": "[[lesson:magic-bullet]] dersinde “şırınga” etiketinin belgelenmiş ilk kullanıcılarından biri olarak Berlo’yu görmüştün. Burada aynı sayfalara süreç modeli açısından bakalım.\n\nBerlo, süreç kavramını anlattıktan sonra süreç odaklı olmayan yaklaşımları “hypodermic needle” ya da “tık-tık, itme-çekme” bakışları diye anar; kitle medyasının etkilerine dair erken tartışmaların çoğunu bu türden sayar; bir radyo ya da televizyon programının iğne gibi düşünüldüğünü, medya etkileri araştırmasının ise başka yönü gösterdiğini yazar. Kimseyi adıyla anmaz [[cite:berlo-1960]] [[cite:berlo-1960-smcr]].\n\nTarihyazımı açısından bu, Pooley’in ayırdığı kullanımlardan “paradigmatik karşıtlık”a benzer: yeni bakış, karşısına bir “önceki bakış” koyarak kendini tanımlar [[cite:pooley-2017-four-founders]]. “Benzer”, “aynı” demek değil: Berlo’nun önsözüne göre model, sınıfta, uzantı kurslarında ve sanayi, tarım, devlet atölyelerinde kullanılarak defalarca değiştirilmiş, kullanışlı bir çerçeve olsun diye sunulmuştur [[cite:berlo-1960-smcr]]. Yani niyeti bir tarih yazmak değil, bir öğretim aracı kurmak olabilir; bunu belgeyle söyleyemiyorum.\n\nSonuç: ders kitabında “doğrusal → süreç” geçişi anlatılırken önceki bakışın kim tarafından, hangi metinde savunulduğunu sor. Belgelenmiş olan, şırınganın Berlo’da süreç bakışına karşı örnek olarak anılmasıdır."
+    },
+    {
+      "id": "today-digital", "section": "today", "layer": "core", "kind": "lab",
+      "title": "Bugün: kimin geri bildirimi kimin kapısında?",
+      "body": "Westley ve MacLean’in 1957 makalesi ekran çağına şaşırtıcı yakın bir tespit içerir: ticaret dergileri, hobi yayınları, kurum bültenleri gibi “özel kitleler” bir kitle iletişimi sayılır mı? Bazıları milyonlarla ölçülen tirajlara ulaşsa da sınırın nerede çizileceği keyfî olmak zorundadır; modelleri böyle bir ayrıma ihtiyaç duymaz, çünkü B’ler ortak sorunlara ne kadar sahip olduklarına göre değişir [[cite:westley-maclean-1957]].\n\nAşağıdakiler belgeli bulgu değil, modelin bugüne nasıl uygulanabileceğine dair bir düşünce alıştırması (çıkarım):\n\n- Bir mesaj grubunda, bir bültende ya da bir platformda sana hangi olayın ulaşacağını seçen “C” kim ya da ne? Model şunu sordurur: C kimin vekili, senin mi, A’nın mı?\n- Üç geri bildirim hattını (B→A, B→C, C→A) kullandığın bir platformda göster: hangisi hızlı, hangisi gecikmeli? 1957’de kitle iletişiminde bu hat “en aza inmiş ya da gecikmiş” sayılıyordu [[cite:westley-maclean-1957]]; bugün beğeni ve yorum gibi işaretler onu kısaltmış olabilir. Bunu hipotez say, sonuç sayma.\n- Yazarlar amaçlı (mektup) ile amaçsız (satın alma verisi) geri bildirimi ayırır; platformda yaptığın tıklamaların hangisi amaçlı, hangisi amaçsız?\n\nPlatformların gerçekte nasıl çalıştığı ayrı bir konudur: bkz. [[lesson:cmc-theories]].",
+      "question": {
+        "id": "today-digital-q", "type": "mcq",
+        "prompt": "Dayın aile grubuna her gün haber bağlantıları atıyor. Westley ve MacLean’in ayrımına göre onu C yerine A yapan şey hangisi olur?",
+        "options": [
+          "Çok sayıda bağlantı atması",
+          "Bağlantıları atarken grubun bir konudaki algısını değiştirmeyi amaçlaması",
+          "Bağlantıların gazete sitelerinden gelmesi",
+          "Grubun büyük olması"
+        ],
+        "answer": 1,
+        "explain": "İkinci şık doğru: makalede A, B’nin bir X’e bakışını değiştirmek amacıyla ileten kişidir; niyet yoksa iletilen bir X’tir ve seçip iletenin rolü C’dir. Yazarlar ayrımın gerçek davranışta değil rol tanımında yapıldığını da ekler. Diğer şıklar nicelik ya da kaynak türü ölçütüdür; model bunlara bakmaz."
+      }
+    },
+    {
+      "id": "exam-patterns", "section": "exam", "layer": "core", "kind": "text",
+      "title": "Sınavda böyle sorulur",
+      "body": "**Sık çıkan kalıplar**\n\n- “Kaynak, ileti (mesaj), kanal, alıcı” → Berlo (1960); faktörler: iletişim becerileri, tutumlar, bilgi düzeyi, toplumsal-kültürel sistem.\n- “A, B ve X” → Newcomb (1953), ABX; simetri, denge.\n- “Kapı bekçisi C rolünü ekleyerek Newcomb’un modelini kitle iletişimine uyarlayan model” → Westley–MacLean.\n- “İki dairenin kesişimi, ortak deneyim, kodlayıcı–yorumlayıcı–kod çözücü” → Schramm (1954); Osgood–Schramm.\n- Eşleştirme: Schramm → deneyim daireleri; Newcomb → ABX; Westley–MacLean → C ve üç geri bildirim hattı; Berlo → SMCR faktörleri.\n\n**Cazip yanlışlar**\n\n- “Berlo doğrusal modeldir” → özet kitaplar öyle yazar; Berlo’nun kendi metni süreç vurgular [[cite:berlo-1960-smcr]] [[cite:communicationtheory-berlo-smcr]]. Sınavda ders kitabındaki sınıflamayı yaz, tartışmada kaynağı an.\n- “Schramm’ın modeli 1952” → yazının yazıldığı yıl; yayın yılı 1954.\n- “Westley–MacLean 1957’de ilk kez çıktı” → ilk sürüm 1955.\n- “SMCR’nin S’si tek bir kişidir” → Berlo’da kaynak ve alıcı davranış adlarıdır.\n- Yıllar: Newcomb 1953; Schramm 1954; Westley–MacLean 1957 (ilk 1955); Berlo 1960.\n\n**Türkçede alternatif adlar** (Türkçe Vikipedi ve derste seçilen karşılıklar) [[cite:wikipedia-tr-iletisim-modelleri-newcomb-schramm-berlo]]\n\n- Berlo modeli, SMCR modeli, Kaynak–Mesaj–Kanal–Alıcı modeli.\n- Newcomb modeli, ABX modeli, ABX iletişim modeli.\n- Schramm modeli, Schramm’ın iletişim modeli, Osgood–Schramm modeli, dairesel (döngüsel) model; “deneyim alanı” için “ortak deneyim alanı”.\n- Westley–MacLean modeli; “kapı bekçisi” (*gatekeeper*).\n- Sınıflama: doğrusal iletim modelleri, etkileşim modelleri, işlem (süreç) modelleri.",
+      "question": {
+        "id": "exam-patterns-q", "type": "mcq",
+        "prompt": "Bir sınav sorusu: “Kapı bekçisi rolünü ekleyerek Newcomb’un ABX modelini kitle iletişimine uyarlayan modeldir.” Doğru cevap hangisidir?",
+        "options": [
+          "Lasswell modeli",
+          "Berlo’nun SMCR modeli",
+          "Westley–MacLean modeli",
+          "Schramm’ın iki daire modeli"
+        ],
+        "answer": 2,
+        "explain": "Westley ve MacLean, Newcomb’un ABX’ine C’yi (kapı bekçisi) ekler. Lasswell cazip bir yanlıştır, çünkü “kim”, “hangi kanaldan” soruları kitle iletişimini çağrıştırır; ama formül 1948’dedir ve kapı bekçisi rolünü içermez. Berlo’da “kanal” vardır ama bir kapı bekçisi rolü yoktur; Schramm’ın iki dairesi kişiler arası anlamı anlatır."
+      }
+    },
+    {
+      "id": "summary", "section": "summary", "layer": "core", "kind": "summary",
+      "title": "Özet kartı",
+      "body": "- **Ortak iddia:** iletişim, Lasswell ve Shannon–Weaver’ın çizgisinin ötesinde, katılımcıların ortak deneyimiyle ve dönüşle kurulan bir süreçtir.\n- **Schramm (1954):** kaynak, kodlayıcı, işaret, kod çözücü, hedef zinciri + iki deneyim dairesi + herkes hem kodlar hem çözer + sürecin sonsuzluğu. “Dairesel” ve “deneyim alanı” sonradan gelen etiketlerdir; Osgood’un fikirleri Schramm’ın metninde dipnotla anılır.\n- **Newcomb (1953):** A, B, X; simetriye doğru gerilim; “kim söylüyor” anlamın bir parçasıdır.\n- **Westley–MacLean (1955/1957):** A (savunucu), B (alıcı sistem), C (kanal, kapı bekçisi) ve X; C alıcının vekilidir; üç geri bildirim hattı; amaçlı ve amaçsız iletiler.\n- **Berlo (1960):** kaynak, kodlayıcı, mesaj, kanal, kod çözücü, alıcı (SMCR kısaltması sonradan); becerileri, tutumları, bilgiyi, toplumsal-kültürel sistemi; kod, içerik, işleyiş; duyular.\n- **Sınırlar:** modeller haritadır; dilleri hâlâ aktarım dilidir; bağlam ve iktidar yalnızca kısmen çizilir; “süreç” bir çizim biçimi değil okuma biçimidir.\n- **Tarihyazımı:** Schramm’ın “kurucu” anlatısı, aktarım modelinin “korkuluk” olup olmadığı tartışması, Berlo’nun şırınga anışı: bir model, kendini tanımlarken karşısına neyi koyduğuyla da okunur.\n- **Sınav:** yıllar (1953, 1954, 1957/1955, 1960), harfler (ABX, SMCR, A–B–C–X), Türkçe alternatif adlar, Berlo’nun “doğrusal” etiketi.",
+      "question": {
+        "id": "summary-q", "type": "tf",
+        "prompt": "Doğru mu yanlış mı: Schramm’ın 1954 tarihli bölümünde “dairesel model” ve “deneyim alanı” adları geçer.",
+        "answer": false,
+        "explain": "Yanlış (taranan metne göre). Bölümde iki daire “birikmiş deneyim” olarak, süreç “sonsuz akım” olarak anlatılır; 1971’de “başvuru çerçevesi” denir. “Dairesel model” ve “deneyim alanı”, ders kitaplarında yaygın etiketlerdir; sınavda kullan, ama kaynak metnin kendi sözcüklerini de bil."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1", "type": "mcq",
+      "prompt": "Aşağıdakilerden hangisi Berlo’nun kaynak-kodlayıcı için saydığı faktörlerden biri DEĞİLDİR?",
+      "options": ["İletişim becerileri", "Tutumlar", "Bilgi düzeyi", "Kapı bekçiliği"],
+      "answer": 3,
+      "explain": "Kapı bekçiliği Westley ve MacLean’in C rolüyle ilgilidir, Berlo’nun kaynak faktörü değildir. Berlo’nun listesi iletişim becerileri, tutumlar, bilgi düzeyi ve toplumsal-kültürel sistemdir. Karışma nedeni, iki modelin de “kanal” ve “kaynak” sözcüklerini kullanması ve ikisinin de Lasswell’den sonra gelmesidir."
+    },
+    {
+      "id": "q2", "type": "tf",
+      "prompt": "Doğru mu yanlış mı: Schramm’ın 1954 bölümünde iki dairenin kesişimi, iki katılımcının birikmiş deneyimlerinin ortak kısmını temsil eder; kesişim ne kadar büyükse iletişim o kadar kolaydır.",
+      "answer": true,
+      "explain": "Doğru. Schramm dairelerin geniş örtüşmesini kolay iletişimle, küçük örtüşmesini zor iletişimle, hiç örtüşmemesini imkânsızlıkla ilişkilendirir. “Zekâ” ya da “eğitim” düzeyi değil, deneyimin örtüşmesi ölçüttür; bu, sık düşülen bir yanlış okumadır."
+    },
+    {
+      "id": "q3", "type": "match",
+      "prompt": "Her modeli ana katkısıyla eşleştir.",
+      "pairs": [
+        ["Schramm (1954)", "İki kişinin deneyim dairelerinin kesişimi"],
+        ["Newcomb (1953)", "A, B ve X arasındaki simetri gerilimi"],
+        ["Westley–MacLean (1957)", "Kapı bekçisi C ve üç geri bildirim hattı"],
+        ["Berlo (1960)", "Kaynak, mesaj, kanal ve alıcıdaki faktör listeleri"]
+      ],
+      "explain": "Schramm’ın imzası iki dairedir; Newcomb’unki A, B ve X üçgeni; Westley–MacLean’inki Newcomb’un üçgenine eklenen C ve geri bildirim hatları; Berlo’nunki bileşenlerin içindeki faktör listeleri. En sık karışan ikili Newcomb ile Westley–MacLean’dir: ikincisi birincisinin üstüne kurulur, ama C ve kitle iletişimi yalnızca ikincisindedir."
+    },
+    {
+      "id": "q4", "type": "order",
+      "prompt": "Olayları kronolojik sıraya diz (eskiden yeniye).",
+      "items": [
+        "Newcomb’un “An Approach to the Study of Communicative Acts” makalesi (1953)",
+        "Schramm’ın “How Communication Works” bölümü (1954)",
+        "Westley ve MacLean’in ilk makalesi (1955)",
+        "Westley ve MacLean’in Journalism Quarterly makalesi (1957)",
+        "Berlo’nun The Process of Communication kitabı (1960)",
+        "Schramm’ın bölümü yeniden yazması (1971)"
+      ],
+      "explain": "Sıra: 1953 Newcomb, 1954 Schramm, 1955 Westley–MacLean’in ilk sürümü, 1957 gözden geçirilmiş sürüm, 1960 Berlo, 1971 Schramm’ın yeniden yazımı. En sık hata, Schramm’ın yazıyı yazdığı yılı (1952) yayın yılı sanmaktır; bir diğeri Westley–MacLean’in 1957’den önce de bir sürümü olduğunu unutmaktır."
+    },
+    {
+      "id": "q5", "type": "cloze",
+      "prompt": "Westley–MacLean modelindeki rolleri yerleştir.",
+      "text": "Westley ve MacLean’in modelinde A {{1}} rollerini, B {{2}} rollerini, C ise {{3}} rollerini temsil eder.",
+      "blanks": [
+        { "options": ["savunucu (amaçlı ileten)", "davranışsal sistem (alıcı)", "kanal (kapı bekçisi)"], "answer": 0 },
+        { "options": ["kanal (kapı bekçisi)", "savunucu (amaçlı ileten)", "davranışsal sistem (alıcı)"], "answer": 2 },
+        { "options": ["davranışsal sistem (alıcı)", "kanal (kapı bekçisi)", "savunucu (amaçlı ileten)"], "answer": 1 }
+      ],
+      "explain": "A savunucu (advocacy) rollerdir: amaçlı iletir. B davranışsal sistem rollerdir: alıcı, yani kişi, grup ya da toplum. C kanal rolleridir: alıcı adına amaçsız seçer ve iletir; kapı bekçisidir. En sık yapılan hata C’yi A’nın aracısı sanmaktır; makalede C, B’nin vekilidir."
+    },
+    {
+      "id": "q6", "type": "case",
+      "scenario": "Bir yerel haber sitesinin editörü, belediye meclisinde konuşulan onlarca konudan üçünü seçip okurlarına yazıyor. Okurlar sürekli yorum yazıyor; editör bu yorumlara bakarak ertesi gün hangi konulara ağırlık vereceğini ayarlıyor. Yazıda meclisin teknik terimlerinden kaçınıyor. (Varsayımsal senaryo.)",
+      "parts": [
+        {
+          "id": "q6a",
+          "type": "mcq",
+          "prompt": "Editörün rolü Westley–MacLean modelinde hangisidir?",
+          "options": ["A (savunucu)", "B (davranışsal sistem)", "C (kanal, kapı bekçisi)"],
+          "answer": 2,
+          "explain": "Editör, okurların erişemediği meclis konularından seçim yapan ve ileten kişidir: C. Meclis üyeleri ise (amaçlı iletenler olarak) A’dır; okurlar B’dir. Editör niyetli bir savunucuysa bile makale bunu rol tanımı ile davranış arasındaki fark olarak ele alır."
+        },
+        {
+          "id": "q6b",
+          "type": "mcq",
+          "prompt": "Okur yorumları hangi hatta akar?",
+          "options": ["B’den C’ye geri bildirim", "C’den A’ya geri bildirim", "A’dan B’ye mesaj"],
+          "answer": 0,
+          "explain": "Okur (B) yorumu editöre (C) gönderir: B’den C’ye geri bildirim. C’den A’ya hat, editörün meclise geri döndürdüğü bilgidir; A’dan B’ye ise mesajın yönüdür. Yorum yazmak niyetliyse amaçlı geri bildirimdir."
+        },
+        {
+          "id": "q6c",
+          "type": "mcq",
+          "prompt": "Editörün teknik terimlerden kaçınması Schramm’ın hangi fikrine dayanır?",
+          "options": ["Sürecin sonsuz olması", "Deneyim dairelerinin kesişimini genişletmek", "Kendi mesajından geri bildirim almak"],
+          "answer": 1,
+          "explain": "Okurların deneyimine yakın işaretleri seçmek, iki dairenin kesişimini büyütmektir. Sürecin sonsuz oluşu daha genel bir tespittir; kendi mesajından geri bildirim ise editörün kendi yazısını okuyup düzeltmesiyle ilgilidir."
+        }
+      ],
+      "takeaway": "Aynı haber odası iki modelle okunabilir: Westley–MacLean rollerin ve geri bildirim hatlarının haritasını çıkarır; Schramm ise seçilen dilin okurun deneyimine ne kadar oturduğunu sordurur."
+    },
+    {
+      "id": "q7", "type": "mcq",
+      "prompt": "“Osgood–Schramm dairesel modeli” adı için hangisi doğrudur?",
+      "options": [
+        "Adın kendisi Schramm’ın 1954 bölümünde açıkça geçer.",
+        "Schramm, bölümünde bir psikoloji diyagramı için Osgood’a borçlu olduğunu dipnotta yazar; birleşik ad ise ders kitaplarında yaygın bir etikettir.",
+        "Osgood bu modeli Schramm’dan sonra yayımlamış ve ona atıf yapmıştır.",
+        "Model, Shannon ve Weaver’ın orijinal şemasıdır."
+      ],
+      "answer": 1,
+      "explain": "İkinci şık doğru: Schramm 1954’te Osgood’a dipnotta teşekkür eder, 1971’de yorumlayıcı rolünü ekleyen şemayı Osgood’a atfeder; “Osgood–Schramm dairesel modeli” adı ise ikincil kaynaklarda yaygındır ve taranan iki Schramm metninde geçmez. İlk şık cazip, çünkü etiket kitaplarda o kadar yerleşiktir ki kaynak metinde de olduğu sanılır. Üçüncü ve dördüncü şık ise kronolojiyi ve modelin kimliğini karıştırır."
+    },
+    {
+      "id": "q8", "type": "mcq",
+      "prompt": "Pooley’e göre Schramm’ın “dört kurucu” anlatısı alan için ne iş görmüştür?",
+      "options": [
+        "Alanın kurucularının gerçek listesini kesin biçimde belgelemiştir.",
+        "Kurumsal olarak büyüyen ama itibarı zayıf bir alana, yüksek statülü öncülerden ödünç alınan bir geçmiş ve meşruiyet vermiştir.",
+        "Alanı ekonomi disiplininin bir dalı olarak yeniden tanımlamıştır.",
+        "Süreç modellerinin tarihini tamamen reddetmiştir."
+      ],
+      "answer": 1,
+      "explain": "İkinci şık doğru: Pooley’e göre alanın meşruiyet açığı vardı ve Schramm dört isim için bir “kurucu babalar” hikâyesi yazarak bu açığı kapattı. İlk şık cazip, çünkü ders kitapları listeyi olgu gibi aktarır; Pooley ise onu bir anlatım seçimi sayar. Üçüncü ve dördüncü şık metinde yoktur."
+    },
+    {
+      "id": "q9", "type": "tf",
+      "prompt": "Doğru mu yanlış mı: Westley ve MacLean’e göre kitle iletişiminde geri bildirim, yüz yüze iletişime kıyasla genellikle en aza inmiş ya da gecikmiştir.",
+      "answer": true,
+      "explain": "Doğru. Makale, kitle iletişimini yüz yüze iletişimden ayıran iki şey sayar: duyu çeşitliliğinin azalması ve “amaca dönük” geri bildirimin en aza inmesi ya da gecikmesi. Karışma, modern platformlarda geri bildirimin hızlı olmasından gelir; ama bu 1957 makalesinin iddiası değildir."
+    },
+    {
+      "id": "q10", "type": "mcq",
+      "prompt": "Sapienza ve arkadaşlarının (2016) aktarım modeli üzerine temel savlarından biri hangisidir?",
+      "options": [
+        "Aktarım metaforu yalnızca Shannon ve Weaver’la doğmuştur.",
+        "Aktarım metaforunun kökleri Shannon ve Weaver’dan öncesine, telgraf terimlerine ve genel semantiğe uzanır; Shannon “aktarım”ı gerçek anlamıyla kullanmıştır.",
+        "Geri bildirim kavramı süreç modelleriyle ilk kez ortaya çıkmıştır.",
+        "Aktarım modeli tarihsel olarak hiç var olmamıştır."
+      ],
+      "answer": 1,
+      "explain": "İkinci şık doğru: makale aktarım metaforunun Shannon ve Weaver’dan önce, Hartley, Nyquist ve genel semantik gibi kaynaklardan geldiğini ve Shannon’ın “aktarım”ı gerçek anlamıyla kullandığını savunur. İlk şık, makalenin çürüttüğü görüştür. Üçüncü şık cazip, çünkü geri bildirim süreç modelleriyle çok anılır; makale ise kavramın sibernetikten geldiğini yazar. Dördüncü şık makalenin tezi değildir."
+    }
+  ]
+}

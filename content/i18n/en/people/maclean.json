@@ -1,0 +1,26 @@
+{
+  "id": "maclean",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "name": "Malcolm S. MacLean Jr.",
+  "nativeName": "",
+  "slug": "malcolm-maclean",
+  "short": "American journalism teacher. With Bruce Westley he wrote, in 1955–57, the conceptual model that extends Newcomb’s ABX to mass communication.",
+  "roles": [
+    "professor of journalism"
+  ],
+  "bio": "Malcolm S. MacLean Jr. is the second author of the article “A Conceptual Model for Communications Research”, written with Westley. According to the introductory note in the 1957 Journalism Quarterly issue, MacLean was at that time an associate professor of journalism at Michigan State University. In the preface of his 1960 book Berlo also writes that Malcolm MacLean Jr., a colleague in the department of General Communication Arts at the same university, read and criticised several chapters.\n\nThe article first appeared in 1955 in the Audio-Visual Communication Review and was revised and published in Journalism Quarterly in 1957. By adding a C role that selects on the receiver’s behalf to Newcomb’s A–B–X model, the authors offer a “paradigm” that also covers mass communication. This page contains only professional information that can be verified from written sources such as the article and Berlo’s preface; life dates are left out because the sources contradict one another.",
+  "works": [
+    {
+      "bib": "westley-maclean-1957",
+      "note": "The revised article: A, B, C, X and the three feedback lines."
+    },
+    {
+      "bib": "westley-maclean-1955",
+      "note": "The first version of the article (Audio-Visual Communication Review)."
+    }
+  ],
+  "inCourse": "In [[lesson:process-models]] as the second author of the Westley–MacLean model."
+}

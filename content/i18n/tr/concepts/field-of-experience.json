@@ -1,0 +1,14 @@
+{
+  "id": "field-of-experience",
+  "lang": "tr",
+  "term": "deneyim alanı",
+  "altTerms": [
+    "ortak deneyim alanı",
+    "deneyim daireleri",
+    "başvuru çerçevesi"
+  ],
+  "slug": "deneyim-alani",
+  "short": "İki katılımcının birikmiş deneyimlerinin kesiştiği alan: iletişim ancak orada kolaydır. Ders kitaplarında Schramm’ın iki dairesine verilen ad.",
+  "body": "Schramm’ın 1954 tarihli çizimi iki daireden oluşur. Daireler iki kişinin birikmiş deneyimini temsil eder; kaynak yalnızca kendi deneyimi kadarını kodlayabilir, hedef yalnızca kendi deneyimi kadarını çözebilir. Daireler geniş bir alanda örtüşüyorsa iletişim kolaydır; örtüşme küçükse zordur; hiç örtüşmüyorsa imkânsızdır. Schramm’ın örnekleri: hiç Rusça öğrenmemiş biri o dilde iletişim kuramaz; uçak görmemiş biri uçağı büyük bir kuş sanabilir.\n\n“Deneyim alanı” adı ders kitaplarında yaygındır (Türkçe Vikipedi’de de böyledir); ama Schramm’ın 1954 metninde “birikmiş deneyim”, 1971 metninde “başvuru çerçevesi”, yani “kullanılabilir deneyim birikimi” denir. Kavramın önemi, anlamın işaretlerde değil katılımcılarda kurulduğunu göstermesidir: aynı ileti, deneyimi farklı iki kişide farklı anlama gelir.\n\nKesişimi büyütmenin yolu, karşıdakinin deneyimine yakın işaretler seçmek, örnek ve benzetme kullanmaktır.",
+  "example": "Bir bankacının “Havale yarın hesaba geçer” cümlesini on yaşındaki yeğenine anlatırken “yarın cebine para girecek” demesi. (Varsayımsal örnek.)"
+}

@@ -1,0 +1,397 @@
+{
+  "_comment": "Bibliography for the lesson process-models. Every entry was checked on 2026-09-20; verified.note says what was and was not read. Entries already defined elsewhere (berlo-1960, schramm-1971-nature, schramm-roberts-1971, cooper-jahoda-1947, lubken-2008, pooley-2006, sproule-1989, bineham-1988, carey-1989, craig-1999, shannon-1948, shannon-weaver-1949, lasswell-1948) are reused by id and NOT redefined here. Where a different passage of an already defined source was used, a new id with its own note is given (berlo-1960-smcr, schramm-1971-nature-models, cooper-jahoda-1971-reprint).",
+  "schramm-1954-how-communication-works": {
+    "type": "chapter",
+    "authors": ["Schramm, Wilbur"],
+    "year": 1954,
+    "title": "How communication works",
+    "editors": ["Schramm, Wilbur"],
+    "bookTitle": "The process and effects of mass communication",
+    "publisher": "University of Illinois Press",
+    "place": "Urbana",
+    "pages": "3-26",
+    "verified": {
+      "status": "ok",
+      "methods": ["full-text", "second-source"],
+      "date": "2026-09-20",
+      "note": "Full text of the chapter read in the scan of the fourth printing (1960) of the 1954 volume hosted by worldradiohistory.com (copyright page: 'Copyright 1954 by the University of Illinois', LCCN 54-9666; contents list the chapter on p. 3). Pages 3-26 are given by Schramm himself in a footnote of the 1971 revision (schramm-1971-nature) and by Berlo 1960 (footnote 3 of ch. 2). Passages used: the opening (communis, 'commonness'; fire-brigade call, young man in a car, newspaper), the source-encoder-signal-decoder-destination picture and its 'weakest link' remark, the two overlapping circles read as the 'accumulated experience' of the two people, 'each person is both an encoder and a decoder', the remark that the process has no start or end ('really endless'), the paragraphs on feedback (the return process, feedback from one's own message), and the footnote thanking Charles E. Osgood for the model in the section on learning theory. The chapter's own footnote says it was first published in the Shimbun Kenkyu of Tokyo and later in the 53rd Yearbook of the Society for the Study of Education. The phrase 'field of experience' and the word 'circular' do NOT occur in the chapter."
+    }
+  },
+  "schramm-1971-nature-models": {
+    "type": "chapter",
+    "authors": ["Schramm, Wilbur"],
+    "year": 1971,
+    "title": "The nature of communication between humans",
+    "editors": ["Schramm, Wilbur", "Roberts, Donald F."],
+    "bookTitle": "The process and effects of mass communication (rev. ed.)",
+    "publisher": "University of Illinois Press",
+    "place": "Urbana, IL",
+    "pages": "3-53",
+    "verified": {
+      "status": "ok",
+      "methods": ["full-text", "second-source"],
+      "date": "2026-09-20",
+      "note": "Same source as schramm-1971-nature (defined in magic-bullet.json), different passages, read in the same full-text PDF of the revised edition (worldradiohistory.com): pp. 3-53 (running heads; the chapter ends on p. 53 before Part A). Passages used: Schramm says he wrote 'How Communication Works' in 1952 and that it was the first chapter of the first edition; the 'Bullet Theory ... shot full of holes' by the middle 1950s and the psychologists (Hovland's group at Yale) who found experience and personality differences important; the plan to think of communication as two separate acts; the sentence that Osgood 'has preferred to schematize the process' with each participant receiving, sending, encoding, decoding and interpreting (footnote 11 cites Osgood, 'A Vocabulary for Talking about Communication', Urbana, n.d.); the mention of Westley and MacLean's model; the circles of A and B read as 'frames of reference ... fund of usable experience'; that meaning is in the participants; that the test of a model is prediction; the mass-communication remark that feedback is weak; 'Newcomb's A-B-X model' as an early consistency theory. Pages 3-53 taken from the running heads and the contents page. The phrase 'field of experience' and the words 'Osgood-Schramm' and 'circular' do not occur in the chapter."
+    }
+  },
+  "westley-maclean-1957": {
+    "type": "article",
+    "authors": ["Westley, Bruce H.", "MacLean, Malcolm S., Jr."],
+    "year": 1957,
+    "title": "A conceptual model for communications research",
+    "container": "Journalism Quarterly",
+    "volume": "34",
+    "issue": "1",
+    "pages": "31-38",
+    "doi": "10.1177/107769905703400103",
+    "verified": {
+      "status": "ok",
+      "methods": ["crossref", "full-text", "second-source"],
+      "date": "2026-09-20",
+      "note": "Crossref record matched (SAGE, Journalism Quarterly 34(1), March 1957, pp. 31-38). The whole article (all eight pages, scan of the journal offprint hosted on marketing-course.ru) was read: the editor's note (revision of an earlier article; the authors are teachers of journalism with interdisciplinary Ph.D. programmes; Westley at Wisconsin, MacLean at Michigan State); the A-B-X starting point credited to Newcomb; face-to-face versus mass communication (fewer sense modalities, feedback minimised or delayed); the role C as Lewin's gatekeeper as adapted by White and Bush's encoder; C as agent of B; purposive versus non-purposive messages and feedback; the feedback lines f_BA, f_BC, f_CA; the neighbourhood-gossip, frontier-colony and diplomatic-service examples; the remark that the boundary of 'mass' is arbitrary; the criticism of Lasswell's formula and of the information-theory paradigm (footnote 19 on semantic noise); the closing definitions of As, Bs, Cs, X, X', channels, encoding, decoding, feedback; the statement that the model is a paradigm and not a theory. Sapienza et al. 2016 also describe this article (quote 'person A transmits something about an object X to person B', p. 31)."
+    }
+  },
+  "westley-maclean-1955": {
+    "type": "article",
+    "authors": ["Westley, Bruce H.", "MacLean, Malcolm S., Jr."],
+    "year": 1955,
+    "title": "A conceptual model for communications research",
+    "container": "Audio-Visual Communication Review",
+    "volume": "3",
+    "issue": "1",
+    "pages": "3-12",
+    "doi": "10.1007/bf02713344",
+    "verified": {
+      "status": "ok",
+      "methods": ["crossref", "second-source"],
+      "date": "2026-09-20",
+      "note": "Crossref record matched (Springer, indexed under the journal's successor title Educational Technology Research and Development; volume 3, issue 1, December 1955, pp. 3-12). The 1957 Journalism Quarterly article states in its first footnote that it is a revision of this article ('Audio-Visual Communication Review, 3:3-12 (Winter 1955)'). The 1955 text itself was not read; it is used only for the date of the first version."
+    }
+  },
+  "newcomb-1953": {
+    "type": "article",
+    "authors": ["Newcomb, Theodore M."],
+    "year": 1953,
+    "title": "An approach to the study of communicative acts",
+    "container": "Psychological Review",
+    "volume": "60",
+    "issue": "6",
+    "pages": "393-404",
+    "doi": "10.1037/h0063098",
+    "verified": {
+      "status": "ok",
+      "methods": ["crossref", "pubmed", "second-source"],
+      "date": "2026-09-20",
+      "note": "Crossref and PubMed (PMID 13112341, November 1953) agree on title, author, volume, issue and pages. The article itself was NOT read (paywalled). Its content is taken from three sources that describe it: Westley and MacLean 1957 (first page and footnotes 1, 4 and 8: A transmits about X to B; if B likes A, B's view of X moves toward A's; the mature B orients to A and X together; shared symbol systems; an opinion as an A-X relation), Schramm 1971 (p. 47: 'Newcomb's A-B-X model' as an early consistency theory; also 'Newcomb's strain for symmetry') and the National Academy of Sciences memoir by Converse (converse-1994-newcomb-nas: the ABX system and a hypothesised 'strain toward symmetry', applying Heider's balance ideas). Schramm 1971 cites a reprint in Hare, Borgatta and Bales, Small Groups (Knopf, 1955)."
+    }
+  },
+  "berlo-1960-smcr": {
+    "type": "book",
+    "authors": ["Berlo, David K."],
+    "year": 1960,
+    "title": "The process of communication: An introduction to theory and practice",
+    "publisher": "Holt, Rinehart and Winston",
+    "place": "New York",
+    "verified": {
+      "status": "ok",
+      "methods": ["open-library", "full-text", "second-source"],
+      "date": "2026-09-20",
+      "note": "Same book as berlo-1960 (defined in magic-bullet.json; LCCN 60-7981; the Internet Archive record archive.org/details/processofcommuni0000berl lists it as Holt, Rinehart and Winston, 1960, by 'Berlo, David K., 1929-1996'). Different passages, read in the OCR text of the Digital Library of India scan (archive.org id dli.ernet.235577; title page: Michigan State University; preface dated by the 1960 copyright, this printing October 1966): the preface thanking Osgood and Schramm ('permeated my own thinking') and Malcolm MacLean Jr. as a colleague; ch. 2 ('A model of the communication process', pp. 23-39, with 'The concept of process', 'The ingredients of communication' and 'A communication model': process as no beginning or end, the camera analogy, the model of six ingredients source, encoder, message, channel, decoder, receiver, the salt-and-picnic examples, the newspaper as a communication network, the statement that source and receiver are names of behaviours and not separate things); ch. 3 ('The fidelity of communication: determinants of effect', pp. 40-70, read pp. 41-64: source-encoder factors communication skills [five: writing, speaking, reading, listening, thought], attitudes [toward self, subject matter, receiver], knowledge level, social-cultural system; message factors code, content, treatment, each with elements and structure; the channel as a word 'used and abused', the boat-dock analogy and the senses as channels; the decoder-receiver mirrored on the source; the monadic versus dyadic remark); ch. 4, pp. 102-103 (feedback introduced through learning and the public-address microphone) and ch. 5 (feedback again, through a thermostat and a furnace, in the section on interdependence). The acronym SMCR was not found in the OCR text (OCR is imperfect, so this is stated with that caveat). Berlo dates the Shannon-Weaver model to 1947 (p. 29), which differs from the 1948 article; not used."
+    }
+  },
+  "osgood-suci-tannenbaum-1957": {
+    "type": "book",
+    "authors": ["Osgood, Charles E.", "Suci, George J.", "Tannenbaum, Percy H."],
+    "year": 1957,
+    "title": "The measurement of meaning",
+    "publisher": "University of Illinois Press",
+    "place": "Urbana",
+    "verified": {
+      "status": "ok",
+      "methods": ["open-library", "second-source"],
+      "date": "2026-09-20",
+      "note": "Open Library work record: first published 1957, University of Illinois Press, LCCN 56005684. Schramm and Roberts 1971 cite it in the chapter on the nature of communication and in the reference list ('Osgood, Suci, and Tannenbaum, The Measurement of Meaning'). The book itself was not opened."
+    }
+  },
+  "pooley-2017-four-founders": {
+    "type": "article",
+    "authors": ["Pooley, Jefferson"],
+    "year": 2017,
+    "title": "Wilbur Schramm and the “Four Founders” history of U.S. communication research",
+    "container": "Communications. Media. Design",
+    "volume": "2",
+    "issue": "4",
+    "pages": "5-18",
+    "doi": "10.17323/cmd.2017.7495",
+    "verified": {
+      "status": "ok",
+      "methods": ["crossref", "full-text"],
+      "date": "2026-09-20",
+      "note": "Crossref record matched (Higher School of Economics; online 19 February 2018; the running heads of the PDF read '2, 4, 2017', so the article is cited as issue 4 of 2017). Open-access PDF read in full (cmd-journal.hse.ru; it is the text of a talk). Used for: Schramm's origin story with four 'founders' (Lazarsfeld, Lewin, Hovland, Lasswell), first told in full in 1963; its source in Berelson's 1959 essay and Schramm's 1959 reply; Pooley's description of Schramm as a 'mnemonic entrepreneur'; the classification of uses of disciplinary history (buried treasure, paradigmatic contrast with a strawman predecessor, weapon in turf battles, legitimacy); Pooley's account of Schramm at Iowa (1943) and Illinois (1947); the remark that Rogers and Chaffee call Schramm the real founder."
+    }
+  },
+  "sapienza-et-al-2016-transmission": {
+    "type": "article",
+    "authors": ["Sapienza, Zachary S.", "Veenstra, Aaron S.", "Kirtiklis, Kęstas", "Giannino, Steve S."],
+    "year": 2016,
+    "title": "The transmission model of communication: Toward a multidisciplinary explication",
+    "container": "ETC: A Review of General Semantics",
+    "volume": "73",
+    "issue": "4",
+    "pages": "321-341",
+    "doi": "10.66774/etc_7304_321",
+    "verified": {
+      "status": "ok",
+      "methods": ["crossref", "full-text"],
+      "date": "2026-09-20",
+      "note": "Crossref record matched (October 2016, vol. 73 no. 4, pp. 321-341). Full text read in the Gale Academic OneFile copy (the copy has no page numbers). Used for: the 'dominant narrative' that the field moved from a transmission view to a ritual view (with its three assumptions); the argument that Shannon and Weaver were not the originators of the transmission metaphor (Hartley, Nyquist, general semantics), that Shannon used 'transmission' literally and Weaver first used it as a metaphor for human communication; the section on the 'irony of feedback' (feedback comes from cybernetics; Westley and MacLean's 'feedback' in quotation marks; the model 'generally considered transmission-based'); the authors' statement that their essay is not so much a defence of the transmission metaphor as a call for a multidisciplinary look at it. The DOI prefix 10.66774 is as recorded by Crossref. The authors do not use the words 'straw man'; the label is not attributed to them."
+    }
+  },
+  "rogers-1994-history": {
+    "type": "book",
+    "authors": ["Rogers, Everett M."],
+    "year": 1994,
+    "title": "A history of communication study: A biographical approach",
+    "publisher": "The Free Press",
+    "place": "New York",
+    "verified": {
+      "status": "ok",
+      "methods": ["library-catalogue", "open-library", "publisher-sample-text"],
+      "date": "2026-09-20",
+      "note": "Library of Congress record (LCCN 93-043281) and Open Library (The Free Press, first published 1994) agree. The publisher-supplied sample text hosted by the Library of Congress (catdir.loc.gov/catdir/samples/simon052/93043281.html) contains the start of chapter 1, 'Wilbur Schramm and the founding of communication study', and was read: Schramm born in Marietta, Ohio, on 5 August 1907 (1907-1987); severe stutter from age five; Wendell Johnson's help; Ph.D. in English literature at Iowa (1932); Iowa Writers' Workshop 1935-42; organised the first Ph.D. programme in mass communication at Iowa in 1943; moved to Illinois in 1947; eighteen years at Stanford; Rogers's own judgement that Schramm was the founder of communication study. The rest of the book was not read."
+    }
+  },
+  "schramm-1997-beginnings": {
+    "type": "book",
+    "authors": ["Schramm, Wilbur"],
+    "year": 1997,
+    "title": "The beginnings of communication study in America: A personal memoir",
+    "editors": ["Chaffee, Steven H.", "Rogers, Everett M."],
+    "publisher": "Sage Publications",
+    "place": "Thousand Oaks, CA",
+    "verified": {
+      "status": "ok",
+      "methods": ["open-library", "second-source"],
+      "date": "2026-09-20",
+      "note": "Open Library record (Sage Publications, 1997, LCCN 96051268, OCLC 36112089) and the reference list of Pooley 2017 (Chaffee and Rogers 1997a and 1997b, Sage, Thousand Oaks) agree. The book was not read; Pooley 2017 quotes its editors' foreword."
+    }
+  },
+  "encyclopedia-com-schramm": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2026,
+    "title": "Schramm, Wilbur (1907-1987)",
+    "publisher": "Encyclopedia.com",
+    "url": "https://www.encyclopedia.com/media/encyclopedias-almanacs-transcripts-and-maps/schramm-wilbur-1907-1987",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": ["source-itself"],
+      "date": "2026-09-20",
+      "note": "Page read. The entry (reprinted from the Encyclopedia of Communication and Information; the page names Everett M. Rogers as author) gives Schramm's dates 1907-1987 and Marietta, Ohio; says he left English literature, that he founded the first doctoral-granting programmes and the first university-based communication research institutes and wrote the first textbooks of the field, and that he was the first scholar in the world to carry the title of professor of communication; and that his students spread his vision. Because Rogers also wrote rogers-1994-history, the two are NOT independent of each other on Rogers's founder judgement; the years and the institutional facts were confirmed independently (illinois-icr-about, pooley-2017-four-founders)."
+    }
+  },
+  "illinois-icr-about": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2026,
+    "title": "About ICR (Institute of Communications Research)",
+    "publisher": "University of Illinois Urbana-Champaign, College of Media",
+    "url": "https://media.illinois.edu/about-icr/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": ["source-itself"],
+      "date": "2026-09-20",
+      "note": "Page read: the Institute of Communications Research was established in 1947; Wilbur Schramm, an English professor and creative writer who came from the University of Iowa, founded it; it is described as the first institution in the United States to offer doctoral training in communications research. Pooley 2017 gives the same year and place (Schramm left Iowa for Illinois in 1947)."
+    }
+  },
+  "mcguigan-1995-osgood": {
+    "type": "article",
+    "authors": ["McGuigan, F. J."],
+    "year": 1995,
+    "title": "Charles Eggerton Osgood (1916-1991)",
+    "container": "American Psychologist",
+    "volume": "50",
+    "issue": "3",
+    "pages": "173-174",
+    "doi": "10.1037/0003-066x.50.3.173",
+    "verified": {
+      "status": "ok",
+      "methods": ["crossref"],
+      "date": "2026-09-20",
+      "note": "Crossref record matched (obituary; the title carries the years 1916-1991). The obituary text was not read; used only for the years, together with holowinsky-martin-2008-osgood."
+    }
+  },
+  "holowinsky-martin-2008-osgood": {
+    "type": "web",
+    "authors": ["Holowinsky, Ivan Z.", "Martin, Sandra"],
+    "year": 2008,
+    "title": "Osgood, Charles E. (1916-1991)",
+    "publisher": "Wiley (Encyclopedia of Special Education)",
+    "url": "https://doi.org/10.1002/9780470373699.speced1524",
+    "doi": "10.1002/9780470373699.speced1524",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": ["crossref"],
+      "date": "2026-09-20",
+      "note": "Crossref record matched (reference entry, pp. 1495-1496, 15 July 2008; the title carries the years 1916-1991). The entry text was not read; used only for the years."
+    }
+  },
+  "cas-illinois-osgood": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2026,
+    "title": "Charles E. Osgood (Center for Advanced Study profile)",
+    "publisher": "University of Illinois Urbana-Champaign, Center for Advanced Study",
+    "url": "https://cas.illinois.edu/node/1758",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": ["source-itself"],
+      "date": "2026-09-20",
+      "note": "Page read: Osgood held a professorship in psychology at the University of Illinois and is best known for developing the semantic differential. Schramm 1954 (p. 251 note) independently places him as a professor of psychology and of the Institute of Communications Research at Illinois."
+    }
+  },
+  "converse-1994-newcomb-nas": {
+    "type": "web",
+    "authors": ["Converse, Philip E."],
+    "year": 1994,
+    "title": "Theodore Mead Newcomb 1903-1984 (Biographical Memoir)",
+    "publisher": "National Academy of Sciences",
+    "url": "https://www.nationalacademies.org/read/4547/chapter/15",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": ["source-itself"],
+      "date": "2026-09-20",
+      "note": "Chapter of the NAS Biographical Memoirs (vol. 64) opened: born 24 July 1903 in Rock Creek, Ohio; died 28 December 1984; Lehigh (1929), Western Reserve, Bennington College from 1934, University of Michigan from 1941/42; main books; the 1953 article introduced the ABX system, with a hypothesised 'strain toward symmetry' and an application of Heider's balance ideas. Only the years, the Michigan affiliation and that description were used."
+    }
+  },
+  "douvan-1986-newcomb": {
+    "type": "article",
+    "authors": ["Douvan, Elizabeth"],
+    "year": 1986,
+    "title": "Theodore M. Newcomb (1903-1984)",
+    "container": "American Psychologist",
+    "volume": "41",
+    "issue": "12",
+    "pages": "1380-1381",
+    "doi": "10.1037/h0092113",
+    "verified": {
+      "status": "ok",
+      "methods": ["crossref"],
+      "date": "2026-09-20",
+      "note": "Crossref record matched (obituary; the title carries the years 1903-1984). The text was not read; used only for the years, together with converse-1994-newcomb-nas."
+    }
+  },
+  "infoamerica-westley-maclean": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2026,
+    "title": "Bruce H. Westley y Malcolm S. MacLean (modelo de 1957)",
+    "publisher": "Infoamérica",
+    "url": "https://www.infoamerica.org/teoria/westley_maclean1.htm",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": ["source-itself"],
+      "date": "2026-09-20",
+      "note": "Page read: it presents the 1957 Journalism Quarterly article, says Westley taught journalism at the University of Wisconsin-Madison (given as 1946-1968) and later directed a journalism school in Kentucky, and gives the article's citation. It gives no dates for MacLean. Only the Wisconsin affiliation (which the 1957 article itself states) is used; the life dates on the page are NOT used because they could not be confirmed by a second source."
+    }
+  },
+  "isu-library-berlo": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2026,
+    "title": "David Berlo (Presidential history)",
+    "publisher": "Milner Library, Illinois State University",
+    "url": "https://library.illinoisstate.edu/collections/presidential-history/berlo/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": ["source-itself"],
+      "date": "2026-09-20",
+      "note": "Page read: Berlo 1929-1996; psychology degree and Ph.D. in communication at the University of Illinois; first chairperson of the new department of General Communication Arts at Michigan State University in 1958 until his appointment as president of Illinois State University in 1971; president 1971-1973; wrote The Process of Communication while at Illinois. The years 1929-1996 are confirmed by the Internet Archive catalogue record (archive-org-berlo-process)."
+    }
+  },
+  "archive-org-berlo-process": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2026,
+    "title": "The process of communication; an introduction to theory and practice (catalogue record)",
+    "publisher": "Internet Archive",
+    "url": "https://archive.org/details/processofcommuni0000berl",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": ["catalogue-record"],
+      "date": "2026-09-20",
+      "note": "Metadata record read through the Internet Archive metadata interface: creator 'Berlo, David K., 1929-1996', date 1960, New York, Holt, Rinehart and Winston, LCCN 60007981."
+    }
+  },
+  "wikipedia-schramms-model": {
+    "type": "web",
+    "authors": ["Wikipedia contributors"],
+    "year": 2026,
+    "title": "Schramm's model of communication",
+    "publisher": "Wikipedia",
+    "url": "https://en.wikipedia.org/wiki/Schramm%27s_model_of_communication",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": ["source-itself"],
+      "date": "2026-09-20",
+      "note": "Article read only to see how the model is labelled in secondary literature: it uses the phrase 'field of experience' for the two overlapping circles, says some theorists call the model the 'Osgood-Schramm model', and dates the first version to 1954 and a relational revision to 1971. These labels were compared with Schramm's own texts (schramm-1954-how-communication-works, schramm-1971-nature-models), which use neither label; the article is used as evidence of the label, not of what Schramm wrote."
+    }
+  },
+  "wikipedia-tr-iletisim-modelleri-newcomb-schramm-berlo": {
+    "type": "web",
+    "authors": ["Vikipedi katkıcıları"],
+    "year": 2026,
+    "title": "İletişim modelleri",
+    "publisher": "Vikipedi",
+    "url": "https://tr.wikipedia.org/wiki/%C4%B0leti%C5%9Fim_modelleri",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": ["source-itself"],
+      "date": "2026-09-20",
+      "note": "Same Turkish Wikipedia article as wikipedia-tr-iletisim-modelleri (defined in lasswell-shannon-weaver.json, whose note covers the Lasswell and Shannon-Weaver sections); here the sections on Newcomb, Schramm and Berlo (and the classification into doğrusal iletim / etkileşim / işlem models) were read, for Turkish usage only: 'ABX iletişim modeli', 'Schramm modeli' with 'deneyim alanı', 'SMCR modeli' (Kaynak-Mesaj-Kanal-Alıcı), Berlo's four source factors (iletişim becerileri, tutumlar, bilgi, sosyal-kültürel sistem), 'kapı bekçisi' and 'geri bildirim'. The article calls Berlo's model a linear transmission model and renders Berlo's 'treatment' as 'davranış', which does not match Berlo's word; both points are flagged in the lesson and the research notes. Facts about the models themselves were taken from the primary texts, not from this article."
+    }
+  },
+  "communicationtheory-berlo-smcr": {
+    "type": "web",
+    "anonymous": true,
+    "year": 2026,
+    "title": "Berlo's SMCR model of communication",
+    "publisher": "Communication Theory (communicationtheory.org)",
+    "url": "https://www.communicationtheory.org/berlos-smcr-model-of-communication/",
+    "accessed": "2026-09-20",
+    "verified": {
+      "status": "ok",
+      "methods": ["source-itself"],
+      "date": "2026-09-20",
+      "note": "Popular web summary read only to see how the model is commonly presented: it lists five source factors (communication skills, attitudes, knowledge, social system, culture), five message factors (content, elements, treatment, structure, code), five channel factors (the five senses), and calls the model linear with 'lack of feedback' among its weaknesses. Compared with Berlo's own text (berlo-1960-smcr): Berlo lists four source-encoder factors (culture and social system together) and three message factors (code, content, treatment) each with elements and structure. Used as evidence of the common presentation, not of Berlo's wording."
+    }
+  },
+  "cooper-jahoda-1971-reprint": {
+    "type": "chapter",
+    "authors": ["Cooper, Eunice", "Jahoda, Marie"],
+    "year": 1971,
+    "title": "The evasion of propaganda: How prejudiced people respond to anti-prejudice propaganda",
+    "editors": ["Schramm, Wilbur", "Roberts, Donald F."],
+    "bookTitle": "The process and effects of mass communication (rev. ed.)",
+    "publisher": "University of Illinois Press",
+    "place": "Urbana, IL",
+    "pages": "287-299",
+    "originalYear": 1947,
+    "verified": {
+      "status": "ok",
+      "methods": ["full-text", "second-source"],
+      "date": "2026-09-20",
+      "note": "Reprint of the 1947 Journal of Psychology article (cooper-jahoda-1947, Crossref-verified in magic-bullet.json), read in the full-text PDF of the revised edition (pp. 287-299 from the contents page and running heads): the study grew out of an attempt to make people laugh at their own prejudices; a cartoon series about 'Mr. Biggott' was made for the American Jewish Committee's research department and tested by the Bureau of Applied Social Research (Columbia); the intended four-step reading and the 'derailment of understanding'; the 'sixth generation American blood' cartoon and the respondent who drifted to Biggott's social status; other paths of misunderstanding; the phrase 'frame of reference' for what the respondent imposes on the item; the authors' own remark that the second part of the article (motives) is speculative. No sample sizes or percentages are used in the lesson. The editors' introduction on p. 59 and Schramm's chapter (p. 43 and note 20) describe the same study."
+    }
+  }
+}

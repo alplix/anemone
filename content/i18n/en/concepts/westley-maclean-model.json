@@ -1,0 +1,16 @@
+{
+  "id": "westley-maclean-model",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "Westley–MacLean model",
+  "altTerms": [
+    "conceptual model for communications research",
+    "A–B–C–X model"
+  ],
+  "slug": "westley-maclean-model",
+  "short": "Westley and MacLean’s 1955–57 model: to Newcomb’s A–B–X it adds a channel role that selects on the receiver’s behalf (C, the gatekeeper) and three feedback lines.",
+  "body": "Westley and MacLean’s article extends Newcomb’s two-person model so as to cover mass communication as well. A stands for advocacy roles (those who transmit purposively), B for behavioural-system roles (the receiver: a person, group or society), X for the objects and events of the world, and X′ for transmissible abstractions. In mass communication B cannot reach most Xs directly; so a C enters in between: it selects the abstractions suited to B’s needs, turns them into symbols and transmits them through a channel. The authors treat C as the counterpart of Lewin’s gatekeeper (as adapted by White) and of Bush’s “encoder”.\n\nC is the agent of B and not of A, and it survives only to the extent that it satisfies B’s needs. Feedback runs on three lines: from B to A, from B to C and from C to A; it can be purposive or non-purposive. The authors present their model not as a theory but as a paradigm, a first step toward one. Sapienza and colleagues write that the model is still regarded as transmission-based because of its terminology.",
+  "example": "A newspaper’s news desk choosing three items from a council meeting that will interest its readers, with readers’ letters returning to the editor. (Hypothetical example.)"
+}

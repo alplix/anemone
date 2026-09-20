@@ -1,0 +1,17 @@
+{
+  "id": "newcomb-abx-model",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "term": "Newcomb’s ABX model",
+  "altTerms": [
+    "ABX model",
+    "ABX communication model",
+    "A–B–X model"
+  ],
+  "slug": "newcomb-abx-model",
+  "short": "Theodore Newcomb’s 1953 model: two persons (A, B) orient simultaneously toward an object (X) and toward each other; when their views diverge, a strain toward symmetry arises.",
+  "body": "Newcomb’s 1953 article builds communication as a system with three corners: A and B are two persons, and X is an object or event both orient toward. As Westley and MacLean report it, a mature person, when an A is present, orients simultaneously toward both A and X; the view of X depends not only on the satisfactions X can offer but also on the relation between A and X. So the full meaning of an opinion cannot be understood apart from who expresses it.\n\nThe model’s prediction is this: other things being equal, when A tells B something about X and B likes A (or at least does not dislike A), B’s perception of X becomes more similar to A’s after the communication. According to the memoir of the National Academy of Sciences, Newcomb frames this as a “strain toward symmetry” and draws on Heider’s ideas of balance; in 1971 Schramm counts A–B–X as an early example of consistency theories. According to Westley and MacLean, A and B are only persons in Newcomb; they themselves extend the model to groups and mass communication.",
+  "example": "A friend you like praising a documentary, and your view of the documentary moving toward theirs. (Hypothetical example.)"
+}

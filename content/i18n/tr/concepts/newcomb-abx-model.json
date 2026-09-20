@@ -1,0 +1,14 @@
+{
+  "id": "newcomb-abx-model",
+  "lang": "tr",
+  "term": "Newcomb’un ABX modeli",
+  "altTerms": [
+    "ABX modeli",
+    "ABX iletişim modeli",
+    "A–B–X modeli"
+  ],
+  "slug": "newcomb-abx-modeli",
+  "short": "Theodore Newcomb’un 1953 modeli: iki kişi (A, B) bir nesneye (X) aynı anda ve birbirlerine yönelir; bakışları ayrıştığında simetriye doğru bir gerilim doğar.",
+  "body": "Newcomb’un 1953 tarihli makalesi iletişimi üç köşeli bir sistem olarak kurar: A ve B iki kişidir, X ise ikisinin de yöneldiği bir nesne ya da olaydır. Westley ve MacLean’in aktarımına göre olgun bir kişi, karşısında bir A varsa, aynı anda hem A’ya hem X’e yönelir; X’e bakışı yalnızca X’in ona sağlayacağı doyumlara değil, A ile X arasındaki ilişkiye de bağlıdır. Bu yüzden bir görüşün tam anlamı, onu kimin söylediğinden ayrı anlaşılmaz.\n\nModelin öngörüsü şudur: diğer şeyler eşitken A, X hakkında B’ye bir şey söylediğinde ve B, A’yı seviyorsa (ya da ondan hoşlanmıyor değilse), B’nin X algısı iletişimden sonra A’nınkine daha çok benzer. National Academy of Sciences anma yazısına göre Newcomb bunu bir “simetriye doğru gerilim” olarak kurar ve Heider’ın denge fikirlerinden yararlanır; Schramm 1971’de A–B–X’i tutarlılık kuramlarının erken bir örneği sayar. Westley ve MacLean’e göre Newcomb’da A ve B yalnızca kişilerdir; kendileri modeli gruplara ve kitle iletişimine genişletir.",
+  "example": "Hoşlandığın bir arkadaşının bir belgeseli övmesinin belgesel hakkındaki görüşünü ona yaklaştırması. (Varsayımsal örnek.)"
+}

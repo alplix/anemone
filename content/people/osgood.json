@@ -1,0 +1,17 @@
+{
+  "id": "osgood",
+  "born": {
+    "year": 1916
+  },
+  "died": {
+    "year": 1991
+  },
+  "sources": [
+    "mcguigan-1995-osgood",
+    "holowinsky-martin-2008-osgood",
+    "cas-illinois-osgood"
+  ],
+  "works": [
+    "osgood-suci-tannenbaum-1957"
+  ]
+}

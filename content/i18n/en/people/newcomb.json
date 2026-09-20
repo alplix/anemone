@@ -1,0 +1,23 @@
+{
+  "id": "newcomb",
+  "lang": "en",
+  "translation": {
+    "status": "machine"
+  },
+  "name": "Theodore M. Newcomb",
+  "nativeName": "",
+  "slug": "theodore-newcomb",
+  "short": "American social psychologist (1903–1984). His 1953 paper proposed the model of A, B and X on which Westley and MacLean’s mass-communication model is built.",
+  "born": "Rock Creek, Ohio",
+  "roles": [
+    "social psychologist"
+  ],
+  "bio": "Theodore Mead Newcomb was born in 1903 in Rock Creek, Ohio, and died in 1984. After working at Lehigh and Western Reserve universities he moved to Bennington College in 1934; from the early 1940s he worked at the University of Michigan, where he directed the doctoral programme in social psychology. His books include “Personality and Social Change” (1943) and “Social Psychology” (1950).\n\nHis place in communication studies rests on the 1953 paper “An Approach to the Study of Communicative Acts”. According to the memoir of the National Academy of Sciences, the paper introduces the ABX system of two persons (A and B) and a shared object (X), and supposes a “strain toward symmetry” when A and B come to see X differently; it draws on Heider’s ideas about balance. Westley and MacLean extended the model to mass communication; in 1971 Schramm counts A–B–X as an early example of consistency theories.\n\nThis page contains only professional information that can be verified.",
+  "works": [
+    {
+      "bib": "newcomb-1953",
+      "note": "The source of the ABX model and of the idea of a strain toward symmetry."
+    }
+  ],
+  "inCourse": "In [[lesson:process-models]] as the A–B–X triangle and the starting point of the Westley–MacLean model."
+}

@@ -1,0 +1,17 @@
+{
+  "id": "newcomb-abx-model",
+  "family": "models",
+  "introducedBy": [
+    "newcomb"
+  ],
+  "related": [
+    "westley-maclean-model",
+    "feedback"
+  ],
+  "sources": [
+    "newcomb-1953",
+    "westley-maclean-1957",
+    "converse-1994-newcomb-nas",
+    "schramm-1971-nature-models"
+  ]
+}

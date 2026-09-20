@@ -1,0 +1,18 @@
+{
+  "id": "westley-maclean-model",
+  "family": "models",
+  "introducedBy": [
+    "westley",
+    "maclean"
+  ],
+  "related": [
+    "newcomb-abx-model",
+    "gatekeeping",
+    "feedback"
+  ],
+  "sources": [
+    "westley-maclean-1957",
+    "westley-maclean-1955",
+    "sapienza-et-al-2016-transmission"
+  ]
+}

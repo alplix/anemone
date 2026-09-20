@@ -1,0 +1,19 @@
+{
+  "id": "schramm-model",
+  "family": "models",
+  "introducedBy": [
+    "schramm"
+  ],
+  "related": [
+    "circular-model",
+    "field-of-experience",
+    "feedback",
+    "shannon-weaver-model",
+    "linear-transmission-model"
+  ],
+  "sources": [
+    "schramm-1954-how-communication-works",
+    "schramm-1971-nature-models",
+    "wikipedia-schramms-model"
+  ]
+}
