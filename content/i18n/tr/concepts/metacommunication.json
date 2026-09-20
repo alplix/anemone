@@ -1,0 +1,7 @@
+{
+  "id": "metacommunication", "lang": "tr",
+  "term": "üstiletişim", "altTerms": ["meta-iletişim"], "slug": "ustiletisim",
+  "short": "İletişim hakkında iletişim: bir mesajın nasıl anlaşılması gerektiğini ve iki tarafın birbirine nasıl davrandığını belirten ipuçları. Watzlawick’e göre iletişimin ilişki boyutu, içerik boyutunu sınıflandırır.",
+  "body": "Üstiletişim, iletişimin kendisine dair iletişimdir: bir söylenenin nasıl anlaşılması gerektiğini, yani “şaka yapıyorum”, “ciddiyim”, “sana kızgınım” türünden ipuçlarını taşır. Gregory Bateson ve Jurgen Ruesch bunu, kodlama ve iletişim kuranların birbirleriyle ilişkisi hakkında karşılıklı verilen ipuçları olarak tanımlamıştı.\n\nPaul Watzlawick ve arkadaşları bunu 1967 tarihli kitaplarındaki ikinci aksiyomda kullandı: her iletişimin bir içerik ve bir ilişki boyutu vardır; ilişki boyutu içerik boyutunu sınıflandırır ve bu yüzden bir üstiletişimdir. Yani söylenen şey (içerik) ile onun nasıl söylendiği ve kimin kime söylediği (ilişki) aynı mesajda birlikte gelir.\n\nBu boyut çoğu zaman sözsüz iletişimle taşınır: ses tonu, yüz ifadesi, zamanlama. Aynı cümle, farklı bir üstiletişimle bambaşka bir mesaj olabilir.",
+  "example": "“Raporu bugün istiyorum.” cümlesi güler yüzle söylendiğinde bir rica, sert bir bakışla söylendiğinde bir emir gibi anlaşılır; içerik aynıdır, ilişki mesajı farklıdır."
+}

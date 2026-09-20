@@ -1,0 +1,8 @@
+{
+  "id": "transmission-view", "lang": "en",
+  "translation": { "status": "machine" },
+  "term": "transmission view", "altTerms": [], "slug": "transmission-view",
+  "short": "The view that sees communication as the sending of messages over distance, the carrying of information from one place to another. One of the two views that Carey contrasts with each other.",
+  "body": "The transmission view thinks of communication as the sending of things: there is a source, a message, a channel and a receiver, and the job is to get the message to the receiver. James W. Carey describes this view through the idea of transferring signals and messages over distance for purposes of control, and contrasts it with the “ritual” view of communication.\n\nThe transmission view is very common in theories and in everyday speech: sentences such as “I couldn’t get my idea across to you” or “did you get the message?” reflect it. It is useful for the engineering side of things, such as measuring how accurately a telephone line carries information.\n\nCritics say that this view overlooks the fact that meaning is built on the receiving side, and it neglects the role of shared beliefs and community. So the view is not wrong, only incomplete on its own. Carey’s distinction is therefore not a question of “which one is true?” but of “which one lets us see what?”.",
+  "example": "When a teacher finishes a lesson and asks “Was that clear enough?”, she is treating communication as a matter of whether a message has reached the students."
+}

@@ -1,0 +1,820 @@
+{
+  "id": "what-is-communication",
+  "lang": "en",
+  "translation": {
+    "status": "machine",
+    "date": "2026-09-20"
+  },
+  "title": "What Is Communication?",
+  "slug": "what-is-communication",
+  "description": "Why does “communication” resist one definition? Transmission and ritual views, levels, Watzlawick’s five axioms and what makes mass communication mass.",
+  "claim": "Communication does not fit a single definition: some views see it as sending a message over distance, others as building meaning and community together; mass communication is a public, mediated, indirect, mostly one-way and institutional form of communication.",
+  "keywords": [
+    "what is communication",
+    "definition of communication",
+    "transmission view",
+    "ritual view",
+    "Carey",
+    "Watzlawick",
+    "five axioms",
+    "mass communication",
+    "Maletzke",
+    "nonverbal communication",
+    "levels of communication"
+  ],
+  "updated": "2026-09-20",
+  "timeline": {
+    "shannon-1948": "Shannon: “A Mathematical Theory of Communication” (Bell System Technical Journal)",
+    "weaver-1949": "Weaver’s essay on the mathematical theory of communication, in the joint book with Shannon",
+    "maletzke-1963": "Maletzke: Psychologie der Massenkommunikation",
+    "pragmatics-1967": "Watzlawick, Beavin and Jackson: Pragmatics of Human Communication (the five axioms)",
+    "mehrabian-1967": "Mehrabian and colleagues’ two studies behind the “7-38-55” figures",
+    "dance-concept-1970": "Dance: “The ‘Concept’ of Communication” (15 themes in definitions)",
+    "dance-larson-126": "Dance and Larson list 126 definitions of communication",
+    "carey-culture-1989": "Carey: Communication as Culture (transmission and ritual views)",
+    "motley-1990": "Motley questions the axiom “one cannot not communicate”; Bavelas replies",
+    "castells-2007": "Castells: mass self-communication",
+    "masspersonal-2018": "O’Sullivan and Carr: the masspersonal communication model"
+  },
+  "cards": [
+    {
+      "id": "ctx-bus",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "Nobody said a word on the bus",
+      "body": "Imagine this: half past seven in the morning, a bus packed to the doors. The person in the next seat has earphones in and eyes fixed on the window. You are looking at your phone; they pull their bag a little closer. Nobody has said a word. (This scene is hypothetical, but you have probably lived something like it.)\n\nAnd yet an agreement was reached. You said “I won’t bother you”, they said “don’t talk to me”. Maybe you both misread the other; but you read.\n\nThat is the first surprising question of this lesson: is silence communication? [[person:watzlawick|Paul Watzlawick]] and two colleagues answered it in one sentence in their 1967 book: “One cannot not communicate” [[cite:lutterer-2007]] [[cite:watzlawick-et-al-1967]]. Between two people who are aware of each other, any behaviour can be read by the other as a message.\n\nSounds a bit too bold, doesn’t it? It is: the claim met serious objections and we will hear them too. But first we have to answer a more basic question. What exactly does the word “communication”, which we use a hundred times a day, mean?\n\nThis lesson will not hand you the answer ready-made; we will build it together. Along the way we will also shake a few beliefs you are fond of.",
+      "question": {
+        "id": "ctx-bus-q",
+        "type": "mcq",
+        "prompt": "On the bus you say “good morning” to the person next to you; they turn their face away and do not answer. According to Watzlawick’s first axiom, how should this behaviour be judged?",
+        "options": [
+          "It is not communication, because not a single word was said.",
+          "It is communication: any behaviour within an interaction can be interpreted by the other party as a message.",
+          "To count as communication, it would have to be shown that the person acted with conscious intent.",
+          "Only face-to-face talk counts as communication; turning away is outside it."
+        ],
+        "answer": 1,
+        "explain": "The first axiom says that any behaviour between people who are aware of each other can carry message value; there is no such thing as “not behaving”. So turning away is also a message (perhaps “I don’t want to talk now”). The first option is wrong because it equates communication with words alone; nonverbal behaviour carries messages too. The third option is the most tempting, because intent really is a contested point and critics object exactly there; but the axiom itself does not ask for that condition. We will come back to this debate later."
+      }
+    },
+    {
+      "id": "ctx-126",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "126 definitions, one word",
+      "body": "If you ask a communication researcher “what is your definition?”, order yourself another coffee; it will take a while.\n\nI am not exaggerating. In an appendix to their 1976 book, Frank Dance and Carl Larson listed 126 published definitions of communication [[cite:littlejohn-foss-2008]] [[cite:nastasia-rakow-2005]]. As early as 1970 Dance had sifted the elements the definitions have in common: 15 main themes emerged, and on three of them the definitions diverged sharply [[cite:dance-1970]].\n\nThose three splits are [[cite:littlejohn-foss-2008]]:\n\n- **Scope:** is the definition broad (any process that links parts of the living world) or narrow (the telephone and telegraph system of a navy)?\n- **Intent:** does it count only messages sent consciously, or does it include unintended behaviour too?\n- **Value judgment:** is a criterion such as “successful” or “correctly understood” built into the definition?\n\nDance’s conclusion was that we ask the concept of “communication” to do more work than it can carry, so instead of a single definition he suggests a family of concepts [[cite:littlejohn-foss-2008]].\n\nSo definitions differ not because some are wrong but because they do different jobs. Choosing a definition means choosing a tool.\n\nDance and Larson’s list also reminds us of one more thing: it is worth asking whom a definition serves. An engineer thinks of a telephone line, a psychologist of a conversation in a family, a journalist of the readers; what each of them calls “communication” looks different (this example is ours).",
+      "question": {
+        "id": "ctx-126-q",
+        "type": "mcq",
+        "prompt": "One of two definitions describes communication as “a source consciously sending a message in order to affect the receiver’s behaviour”; the other has no such condition. According to Dance’s three splits, where do these two definitions differ?",
+        "options": [
+          "Scope (how broad the definition is)",
+          "Intent (the requirement of conscious purpose)",
+          "Value judgment (a criterion of success)",
+          "In none of them; one of the two definitions is simply wrong."
+        ],
+        "answer": 1,
+        "explain": "The difference is whether conscious purpose is part of the definition; that is intent, one of Dance’s splits. The first option is tempting because an intent condition narrows the definition, but Dance’s “scope” axis is about how abstract or general the definition is (a process linking the living world versus a navy’s communication system). The last option contradicts the point of this card: definitions differ not because of mistakes but because they do different jobs."
+      }
+    },
+    {
+      "id": "ctx-root",
+      "section": "context",
+      "layer": "core",
+      "kind": "text",
+      "title": "The root of the word: making common",
+      "body": "The root of a word often preserves the first idea of the concept. Both the English *communication* and the Turkish *komünikasyon* come from the Latin verb *communicare*. The verb means “to share, to impart, to convey”; its literal sense is “to make common”. Its root is *communis*, that is “common, belonging to all” [[cite:etymonline-communicate]].\n\nAn interesting detail: relying on John Durham Peters, Nastasia and Rakow report that in Rome *communicatio* did not mean, as it does today, a general human connection built through symbols; it mostly pointed to tangible things and to particular devices used by orators [[cite:nastasia-rakow-2005]]. So the sense of “I am conveying my feelings to you” is not the word’s first form.\n\nToday, in ordinary speech, the word often evokes something else: sending something from one place to another. Phrases like “did the message arrive?” or “I’ll be in touch” are all the language of sending (this observation is ours).\n\nThe two ideas are not alike. In one, something becomes common; in the other, something changes place. This is exactly the first big distinction of this lesson: you can look at the same event through two different eyes.\n\nA note: the root of a word does not define it; it only shows its first associations. Knowing the root is no substitute for learning the definition, but it helps you see why definitions drift apart.",
+      "question": {
+        "id": "ctx-root-q",
+        "type": "mcq",
+        "prompt": "Which idea does the Latin root of “communication”, *communicare*, carry?",
+        "options": [
+          "Sending something far away",
+          "Making something common, sharing it",
+          "Persuading the person in front of you",
+          "Gathering a piece of news from its source"
+        ],
+        "answer": 1,
+        "explain": "According to the sources, *communicare* means “to share, to impart” and literally “to make common”; the root is *communis*, “common”. “Sending far away” is a tempting option because modern usage pushes us in that direction; but the idea of the root is commonness, not sending. Persuasion and news-gathering are unrelated to the root, later associations."
+      }
+    },
+    {
+      "id": "ctx-map",
+      "section": "context",
+      "layer": "core",
+      "kind": "text",
+      "title": "A road map: this lesson is a doorway",
+      "body": "This lesson is only the first step. The road ahead looks roughly like this:\n\n- **Foundations:** the history of the media and the first communication models ([[lesson:mass-media-history]], [[lesson:lasswell-shannon-weaver]], [[lesson:process-models]]).\n- **Powerful effects and propaganda:** the early period when the media were thought to be very powerful, and the hypodermic-needle model ([[lesson:magic-bullet]]).\n- **Limited effects:** the voting studies, [[lesson:two-step-flow]] and [[lesson:gatekeeping]].\n- **Mid-range effects:** [[lesson:agenda-setting]], [[lesson:cultivation]], [[lesson:spiral-of-silence]].\n- **Audience and technology:** [[lesson:uses-gratifications]] and [[lesson:mcluhan]].\n- **Critical approaches and culture:** [[lesson:frankfurt-1]], [[lesson:ritual-view]], [[lesson:encoding-decoding]].\n- **Normative theories and media systems:** [[lesson:four-theories]], [[lesson:turkey-media]].\n- **The digital age:** [[lesson:filter-bubbles]], [[lesson:algorithmic-media]].\n\nEvery lesson looks for the answer to a question: do the media affect people, how, under what conditions, in whose interest, in which system? The job of this lesson is to prepare the dictionaries before those questions: what do we call communication, and of what kind is mass communication a special case?\n\nSo as you go on, you will keep recalling three things from here: that the definition of communication is contested, that the transmission and ritual views see different things, and that the criteria of mass communication are blurring today.\n\nThe lesson titles and their order are taken from the course plan; details may change as the course develops.",
+      "question": {
+        "id": "ctx-map-q",
+        "type": "mcq",
+        "prompt": "A friend wonders whether people who watch a lot of television think the world is more dangerous than it really is. Which lesson do you point them to on the road map?",
+        "options": [
+          "Cultivation theory",
+          "Agenda-setting",
+          "The spiral of silence",
+          "The ritual view"
+        ],
+        "answer": 0,
+        "explain": "The effect of long-term television viewing on the perception of reality is studied by cultivation theory. Agenda-setting looks at how the media influence which issues are seen as important; the spiral of silence at people hiding their opinions for fear of being in the minority; the ritual view at the sharing and community side of communication. All four concern the media, so they are easily confused; what tells them apart is the subject of the question: here the question is “how dangerous does the world look?”."
+      }
+    },
+    {
+      "id": "people-lineage",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "text",
+      "title": "Who and when: the stops of this lesson",
+      "body": "The list of people who have thought about communication is long; let us gather in time order the steps you will meet in this lesson:\n\n- **1948:** Claude Shannon publishes his article treating the engineering side of communication mathematically [[cite:shannon-1948]]; Warren Weaver interprets it in 1949 and stretches it towards questions of meaning [[cite:weaver-1949]].\n- **1963:** Gerhard Maletzke defines and models mass communication in *Psychologie der Massenkommunikation* [[cite:maletzke-1963]].\n- **1967:** [[person:watzlawick|Paul Watzlawick]], Janet Beavin and Don D. Jackson present the five axioms in *Pragmatics of Human Communication* [[cite:watzlawick-et-al-1967]].\n- **1970 and 1976:** Frank Dance compares definitions; Dance and Larson list 126 of them [[cite:dance-1970]] [[cite:dance-larson-1976]].\n- **1989:** [[person:carey|James W. Carey]] contrasts the transmission and ritual views in *Communication as Culture* [[cite:carey-1989]].\n- **2007:** Manuel Castells discusses “mass self-communication” in the network society [[cite:castells-2007]].\n- **2018:** Patrick O’Sullivan and Caleb Carr present the “masspersonal communication” model [[cite:osullivan-carr-2018]].\n\nA warning: this is not the history of “the invention of communication”, only the stops of this lesson. Thinking about communication goes back much further; we will follow that in [[lesson:mass-media-history]] and later lessons.\n\nThe timeline also shows a trend: engineering in the 1940s, psychology and human relationships in the 1960s, culture in the late 1980s, and networks and the digital environment in the 2000s (this generalization is ours).",
+      "question": {
+        "id": "people-lineage-q",
+        "type": "order",
+        "prompt": "Put the stops of this lesson in chronological order (oldest first).",
+        "items": [
+          "Shannon’s article on the mathematical theory of communication (1948)",
+          "Maletzke’s book on mass communication (1963)",
+          "The five axioms of Watzlawick, Beavin and Jackson (1967)",
+          "Dance and Larson’s list of 126 definitions (1976)",
+          "Carey’s *Communication as Culture* (1989)",
+          "Castells’s article on mass self-communication (2007)"
+        ],
+        "explain": "The order is: 1948 Shannon, 1963 Maletzke, 1967 Watzlawick and colleagues, 1976 Dance and Larson, 1989 Carey, 2007 Castells. The order also shows a line of thought: first engineering and mass communication, then human relationships and the debate over definitions, and lastly culture and the digital network. The most common mistake is to put Shannon’s 1948 article and the 1949 book with Weaver’s contribution in the same year."
+      }
+    },
+    {
+      "id": "claim-two-views",
+      "section": "claim",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Carrying or sharing?",
+      "body": "[[person:carey|James W. Carey]] says that communication can be looked at through two different eyes, and calls them the “transmission” and the “ritual” view [[cite:carey-1989]].\n\nIn the **transmission view**, communication is the sending of messages over distance; the aim is to carry signals and messages from one place to another for purposes of control [[cite:nastasia-rakow-2005]]. A source, a channel, a receiver; the job is for the message to arrive. → [[concept:transmission-view]]\n\nIn the **ritual view**, communication is sharing, participation, fellowship and the possession of shared beliefs; the focus is not on imparting information but on representing shared beliefs [[cite:nastasia-rakow-2005]]. → [[concept:ritual-view]]\n\nCarey’s best-loved example is reading a newspaper. In the ritual view, reading a newspaper is less like learning something new and more like attending a mass: nothing new is learned, but a particular view of the world is portrayed and confirmed [[cite:ebsco-ritual-view]].\n\n**A small experiment (hypothetical).** Ask yourself: when did you last read or watch, from start to finish, a piece of news you already knew? What for? For information, or for the feeling that “the world is still in its place”? If the second is even slightly there, you have met a small crumb of the ritual view.\n\nThe two views do not replace each other; they light up different things in the same event. The details are in the lesson [[lesson:ritual-view]].",
+      "question": {
+        "id": "claim-two-views-q",
+        "type": "mcq",
+        "prompt": "Every morning a person reads the same newspaper from start to finish even though they already know yesterday’s news, and says “if I don’t, my day feels incomplete”. Which of Carey’s two views explains this behaviour better?",
+        "options": [
+          "The transmission view: the person wants to obtain new information.",
+          "The ritual view: reading is like a mass in which a view of the world is staged and confirmed.",
+          "Neither; reading does not count as communication.",
+          "The two views say the same thing; there is no difference."
+        ],
+        "answer": 1,
+        "explain": "In the ritual view, reading a newspaper is less like obtaining new information and more like attending a mass: nothing new is learned, but a particular view of the world is confirmed. The transmission view asks about carrying information from source to receiver; yet this person reads news they already know. That does not make the transmission view wrong; it just fails to capture the most visible side of this behaviour."
+      }
+    },
+    {
+      "id": "claim-working",
+      "section": "claim",
+      "layer": "core",
+      "kind": "text",
+      "title": "Our working definition for this course",
+      "body": "We are not going to settle on a single definition; but we need a working one, or we will not know where to stop. Here is ours (not taken from a book; a deliberate choice):\n\n> Communication is a context-bound process in which people try to build or share meaning through symbols.\n\nEvery word is a choice:\n\n- **Symbols:** words, gestures, images, tone of voice; not only language.\n- **Meaning:** what travels is not the message but the meaning that gets interpreted.\n- **Try:** success is not guaranteed; misunderstanding is inside communication, not outside it.\n- **Process:** not a one-off event but a mutual, continuing flow.\n- **Context:** the same sentence says something else elsewhere.\n\nIn terms of Dance’s three splits, our position is: a medium scope; a stance that does not demand intent but does not exclude intentional messages either; and an approach that does not build success into the definition [[cite:littlejohn-foss-2008]]. This definition also takes in institutional and mediated communication such as mass communication.\n\nThere is one place we deliberately leave open: intent. Watzlawick’s claim (one cannot not communicate) will be discussed through that door. If you read communication as “behaviour that another can interpret”, the claim is true; if you read it as “an intentional message”, it is contestable.",
+      "question": {
+        "id": "claim-working-q",
+        "type": "tf",
+        "prompt": "True or false: According to our working definition, communication takes place only when the receiver understands the message the way the sender intended.",
+        "answer": false,
+        "explain": "False. Our definition says people “try”, so it does not guarantee success; misunderstanding is inside communication, not outside it. In Dance’s terms, we do not build the success criterion into the definition. What makes “true” tempting is that in everyday speech “we communicated” often means “we understood each other”; but that everyday usage is not the definition itself."
+      }
+    },
+    {
+      "id": "deep-dance",
+      "section": "claim",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: Dance’s three-axis map",
+      "body": "In summary, Frank Dance’s 1970 article finds 15 main themes in the definitions and shows that on three of them the definitions divide “critically” [[cite:dance-1970]]. Littlejohn and Foss present the three splits as level of observation (abstractness), intent and normative judgment, and give a sample definition for each [[cite:littlejohn-foss-2008]]:\n\n- **Level of observation:** the difference between a very broad definition (the process that links discontinuous parts of the living world) and a very narrow dictionary definition (a system of telephones or telegraphs for passing information and orders in a navy).\n- **Intent:** one definition counts situations in which a source consciously sends a message to affect a receiver’s behaviour; another describes a process that makes common to several what was the monopoly of one, and does not ask for intent.\n- **Normative judgment:** a definition of “verbal interchange of a thought or idea” presumes that the exchange is successful; a definition as “transmission of information” does not ask whether the information was understood.\n\nNastasia and Rakow write that of the 126 definitions of Dance and Larson, 44 contain the word “process”, and many others speak of flow, transfer, transmission or exchange [[cite:nastasia-rakow-2005]]. In their view, the dominant trend in the field is to model communication as a process."
+    },
+    {
+      "id": "concepts-levels",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Five levels: from talking to yourself to the screen",
+      "body": "Communication is divided into levels according to who is talking to whom. A frequently used list in Turkish sources runs from small to large [[cite:tubitak-iletisim-2022]]:\n\n1. **Intrapersonal (internal) communication:** with yourself, in your mind. Telling yourself “I can do it” before an exam.\n2. **Interpersonal communication:** between two people. Texting a friend one to one.\n3. **Group communication:** within a small group. A project team’s meeting.\n4. **Organizational communication:** the communication an institution carries on inside itself and with the outside. A company’s announcement to its employees.\n5. **Mass communication:** through mass media to a large, dispersed audience. The evening news bulletin.\n\nLists differ from book to book. In one open textbook’s list of five, organizational communication is absent; instead “public communication”, one person speaking to a group, counts as a separate level [[cite:lardbucket-communication-in-context]]. So “five” is not a law of nature, only a classification choice.\n\nThe levels do not exclude one another either. In a meeting, group communication (the team is talking), interpersonal communication (you whisper to your neighbour) and intrapersonal communication (“when is lunch?”) all run at the same time. The inner talk in a listener’s head is a kind of noise that interferes with the speaker’s efforts to hold attention (this interpretation is ours).",
+      "question": {
+        "id": "concepts-levels-q",
+        "type": "match",
+        "prompt": "Match each scene with its level of communication.",
+        "pairs": [
+          [
+            "Telling yourself “I can do it” before an exam",
+            "Intrapersonal communication"
+          ],
+          [
+            "Two friends texting one to one",
+            "Interpersonal communication"
+          ],
+          [
+            "The meeting of a five-person project team",
+            "Group communication"
+          ],
+          [
+            "A regulation notice sent to all employees of a company",
+            "Organizational communication"
+          ],
+          [
+            "The evening news on a national channel",
+            "Mass communication"
+          ]
+        ],
+        "explain": "The criterion is who is talking to whom and at what scale. The most tempting confusion is to count the company notice as mass communication: the notice reaches many people, but the recipients are limited and individually known (the employees) and the message circulates inside the institution; so it is organizational communication. A five-person team is group communication, not interpersonal, because more than two people are involved."
+      }
+    },
+    {
+      "id": "concepts-elements",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "The parts of a communication event",
+      "body": "If you want to break a communication event into parts, the list common in Turkish sources is this [[cite:tubitak-iletisim-2022]]:\n\n- **Source:** the person or institution that sends the message.\n- **Message:** the thing that is sent.\n- **Target (receiver, target audience):** the party that receives the message.\n- **Channel:** sound wave, paper, screen, radio wave.\n- **Code:** the symbols and rules that carry the message; the source encodes, the receiver decodes.\n- **Feedback:** the receiver’s reaction returning to the source.\n- **Noise:** anything that distorts the message.\n- **Frame of reference:** the outlook made up of the parties’ experience, knowledge and culture.\n\nMind the word “noise”. In Shannon’s engineering diagram noise is the physical interference that corrupts the line [[cite:shannon-1948]]. Weaver considers adding a “semantic noise” box to the scheme: distortions of meaning that the source did not intend but that inescapably affect the destination [[cite:weaver-1949]]. So “the line is crackly” and “you said ‘fine’, but what did you mean?” are different kinds of noise.\n\nThis list is a map, not the territory: the boxes and arrows do not fully capture the fluidity of people communicating with one another. But it is a useful vocabulary for talking about where things got stuck.\n\nAn exercise: try placing a text exchange you had yesterday into these eight boxes. You will notice which box you left empty; most often it is the frame of reference.",
+      "question": {
+        "id": "concepts-elements-q",
+        "type": "mcq",
+        "prompt": "Ozan sends a voice message to a friend from a crowded platform; the friend hears the station announcements on the recording and cannot make out half of the message. Which element of the scheme is most directly responsible?",
+        "options": [
+          "Code: Ozan used the wrong language.",
+          "Noise: interference in the channel corrupted the message.",
+          "Feedback: the friend did not reply.",
+          "Target audience: the friend was the wrong person."
+        ],
+        "answer": 1,
+        "explain": "The announcements on the recording are interference in the channel that corrupts the message; that is noise in the most direct sense. The first option can be tempting because “not understanding” is often thought of as a matter of code; but here both speak the same language. If Ozan’s words had been semantically ambiguous we could have spoken of semantic noise. Feedback refers to the receiver’s answer; the problem began before the answer, in the message itself."
+      }
+    },
+    {
+      "id": "concepts-nonverbal",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Everything other than words",
+      "body": "Verbal communication runs on words, nonverbal communication on everything else: facial expression, arm and hand movements, posture, gaze, tone of voice, even how close two people stand to each other. The study of body movement is called kinesics; the term was coined in 1952 by the anthropologist Ray Birdwhistell [[cite:padula-2009]]. → [[concept:nonverbal-communication]]\n\nIn 1969 Paul Ekman and Wallace Friesen divided nonverbal behaviour into five groups [[cite:ekman-friesen-1969]] [[cite:padula-2009]]:\n\n- **Affect displays:** appear mainly on the face and reflect feelings spontaneously.\n- **Regulators:** manage the flow of conversation; a nod for approval, for instance.\n- **Adaptors:** help to cope with tension; twirling a pen, biting nails.\n- **Illustrators:** support speech visually; showing the size of something with your hands.\n- **Emblems:** movements with a direct verbal translation; the “OK” sign.\n\nA detail: some behaviours, such as adaptors, are not performed in order to send a message; but remember the first axiom, the other person can read them anyway. Someone who keeps twirling a pen before an exam did not mean to say “I’m nervous”, but everyone reads it.\n\nAnd a warning: nonverbal communication is important, but the saying “93 per cent of communication is body language” is a dangerous thing. We will take it apart in the evidence section.",
+      "question": {
+        "id": "concepts-nonverbal-q",
+        "type": "mcq",
+        "prompt": "A student waiting in an exam hall keeps twirling a pen between their fingers. Which of Ekman and Friesen’s groups describes this behaviour best?",
+        "options": [
+          "Emblem: it has a direct verbal translation.",
+          "Illustrator: it supports what is being said visually.",
+          "Adaptor: it helps to cope with tension.",
+          "Regulator: it manages the turn-taking of conversation."
+        ],
+        "answer": 2,
+        "explain": "Playing with a pen is an example of adaptors: they help to manage tension or stress. Emblems have a direct verbal translation (like the “OK” sign); pen-twirling has none. Illustrators accompany speech; here there is no speech at all. Regulators manage turn-taking between two people. The interesting side: the student does not intend to send a message, but the invigilator can read it; that is an instance of the first axiom in real life."
+      }
+    },
+    {
+      "id": "deep-ekman",
+      "section": "concepts",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: an inventory of body language",
+      "body": "Padula’s summary on kinesics describes Ekman and Friesen’s 1969 contribution as a shift of emphasis to the psychological basis of gesture and facial expression [[cite:padula-2009]]. The details of the five groups:\n\n- **Adaptors** are of three kinds: object adaptors (playing with a pencil), those carried out on another person by touch, and self-directed ones (biting nails, rubbing the eyes).\n- **Illustrators** have subtypes: those used for emphasis, those that resemble their referents, those that resemble bodily actions, those that portray the course of thought, pointing gestures and those that depict spatial relations. In 1999 Ekman added rhythmic movements to the group.\n- **Emblems** have a direct verbal translation; the “OK” sign and the victory sign are examples. For a movement to acquire shared meaning it has to be conventionalized, that is settled by a society [[cite:padula-2009]].\n\nNonverbal behaviours take their meaning from context and culture: the same hand movement can be “fine” in one place and an insult in another (this is a general observation; we give no documented example on this card). That is why the “analogic” side of Watzlawick’s fourth axiom is slipperier ground to analyse than words."
+    },
+    {
+      "id": "concepts-mass",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "steps",
+      "title": "What makes mass communication “mass”?",
+      "body": "“I reached millions of people” does not by itself make you a mass communicator. Gerhard Maletzke’s often-cited definition lists five conditions [[cite:maletzke-1963]] [[cite:wikipedia-de-massenkommunikation]] [[cite:ioni-pstae-2017]]. → [[concept:mass-communication]]\n\n1. **Public:** the recipients are not limited or individually defined.\n2. **By technical means:** dissemination media such as the press, radio, television.\n3. **Indirect:** there is spatial or temporal distance between communicator and recipient.\n4. **One-sided:** communicator and recipient do not swap roles.\n5. **A dispersed audience:** the recipients are spread out in space.\n\nTwo more things can be attached to these. The first is the institution: according to Maletzke, mass communication passes through an institutionalized, professional intermediary structure [[cite:ioni-pstae-2017]]; what enters the news is selected there, and this is called [[concept:gatekeeping|gatekeeping]]. The second is feedback: the recipient’s reaction does not return to the communicator directly; Maletzke’s example of poor feedback is letters from readers [[cite:ioni-pstae-2017]]. (Indirect and delayed returns such as sales figures or audience ratings belong to the same family; that example is ours.)\n\nNone of these criteria is flawless; some of them blur in the age of social media. We will see that on the “today” card.\n\nThink of the criteria as a spectrum rather than a checklist: some cases meet all five conditions, others only a few.",
+      "question": {
+        "id": "concepts-mass-q",
+        "type": "mcq",
+        "prompt": "Which of the following fits mass communication best under Maletzke’s criteria?",
+        "options": [
+          "An internal announcement e-mail a company sends to its 400 employees",
+          "The broadcast of the evening news bulletin on a national channel",
+          "A class teacher telling students the exam date aloud",
+          "Two friends talking on a video call"
+        ],
+        "answer": 1,
+        "explain": "The news bulletin reaches a dispersed audience through technical means, publicly, indirectly and one-way, and it passes through an institutional structure. The internal announcement e-mail is a tempting distractor: it is institutional and reaches many people, but the recipients are limited and individually known; so it is not public, and counts as organizational communication. The class announcement is direct and face to face. The video call uses a medium but is reciprocal; roles are swapped."
+      }
+    },
+    {
+      "id": "assump-axioms-a",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "text",
+      "title": "Watzlawick’s first two axioms",
+      "body": "The five axioms of Watzlawick, Beavin and Jackson can be read as basic assumptions about communication between people. (Below we summarize the axioms in our own sentences; the page numbers given are the places where Lutterer quotes the book [[cite:lutterer-2007]].)\n\n**1. One cannot not communicate** (p. 51). Every behaviour within an interaction has message value; there is no such thing as “not behaving”. Someone who is silent has said something too.\n\n**2. Every communication has a content and a relationship aspect; the relationship aspect classifies the content and is therefore a metacommunication** (p. 54). “I want the report today” carries the same content; but who says it, to whom and how decides whether it is a request or an order. → [[concept:metacommunication]]\n\n**Imagine:** A friend texts you only “Okay.” One day it means “I agree”, another day “I don’t want to talk any more”. The content is the same; the relationship message differs. A written message has neither tone of voice nor a face; people use punctuation, emoji and the delay of the reply as cues (this reading is ours).\n\nWhy “axiom”? The name suggests that the five propositions are presented as starting points that need no proof; Lutterer questions whether the name is apt and recalls that in mathematics axioms are independent of one another [[cite:lutterer-2007]]. We will return to this debate in the critique section.",
+      "question": {
+        "id": "assump-axioms-a-q",
+        "type": "mcq",
+        "prompt": "A manager says the same sentence on two different days: “I want the report today.” The first time with a smile, the second time with a hard stare. Which axiom best explains the difference?",
+        "options": [
+          "The first axiom: one cannot not communicate.",
+          "The second axiom: the relationship aspect classifies the content aspect.",
+          "The third axiom: the relationship depends on the punctuation of the sequence.",
+          "The fifth axiom: exchanges are either symmetrical or complementary."
+        ],
+        "answer": 1,
+        "explain": "The content is the same on both days; what changes is the relationship aspect (a request or an order). The second axiom says exactly this. The first axiom is also true but does not explain the difference; it only says that no behaviour is without a message. The fifth option can be tempting because an order looks like a complementary relationship; but what is asked about is the same words carrying different relationship messages."
+      }
+    },
+    {
+      "id": "assump-axioms-b",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Three more axioms: punctuation, two languages, two kinds of relationship",
+      "body": "**3. Punctuation** (p. 59). The nature of a relationship depends on how the parties “punctuate” the sequence of communication, that is, where they place the beginning of the chain of events. A hypothetical example: one says “You are always late, that is why I nag”; the other says “You nag all the time, that is why I’m late”. They cut the same cycle at different points. Lutterer summarizes the book’s example like this: who started the quarrel? Always the other side [[cite:lutterer-2007]].\n\n**4. Digital and analogic communication** (pp. 66–67). People communicate both digitally and analogically. Digital language (mostly words) has a powerful logical syntax but lacks adequate meaning in the field of relationship; analogic language (gesture, tone of voice, face) carries meaning but lacks a syntax that could define the relationship unambiguously [[cite:lutterer-2007]]. → [[concept:nonverbal-communication]]\n\n**5. Symmetrical and complementary** (p. 70). Every communicational exchange is based on equality or on difference. A symmetrical relationship rests on equality (like two rivals mirroring each other); a complementary one rests on difference (like one who directs and one who follows) [[cite:lutterer-2007]].\n\nThink of them all together: in a relationship the content of what is said, the way it is said, where the cycle is cut and whether the parties are placed as equals or as different all work together. That is why reading an argument as “how does the cycle work?” rather than “who is right?” is often more productive (the interpretation is ours).",
+      "question": {
+        "id": "assump-axioms-b-q",
+        "type": "mcq",
+        "prompt": "When one of two siblings boasts of an achievement, the other immediately describes a bigger one; then the first tries to top the previous one. Which kind of the fifth axiom does this exchange belong to?",
+        "options": [
+          "Symmetrical: the parties mirror each other on the basis of equality.",
+          "Complementary: one directs, the other follows.",
+          "Analogic: communication runs on body language alone.",
+          "Punctuation: they disagree about who started it."
+        ],
+        "answer": 0,
+        "explain": "The parties mirror each other’s behaviour and compete on the basis of equality; that is a symmetrical exchange. In a complementary relationship differences complement each other (one directs, the other follows). The digital/analogic distinction concerns the form of communication, not the kind of relationship. The punctuation option also seems fitting, because such contests often turn into a debate over who started it; but what is asked about is the structure of the relationship. Being symmetrical is not bad in itself: it can also occur between equals."
+      }
+    },
+    {
+      "id": "how-cycle",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "The journey of a message",
+      "body": "Let us follow a simple communication cycle step by step. This is the skeleton of the scheme in most textbooks; its origin is largely Shannon’s engineering drawing: an information source, a transmitter, a channel, a receiver, a destination and a noise source [[cite:shannon-1948]].\n\n1. **Something is in the source’s mind:** an idea, a feeling, a wish.\n2. **Encoding:** the source turns it into symbols: words, tone of voice, emoji.\n3. **Passage through the channel:** the symbols travel through air, screen or paper.\n4. **Noise:** something in the channel or in the interpretation can distort the message.\n5. **Decoding:** the receiver interprets the symbols with their own experience and frame of reference [[cite:tubitak-iletisim-2022]].\n6. **Feedback:** the receiver says or does something; it returns to the source and the roles may swap.\n\nThe strength of the scheme is that it shows where communication can go wrong. Its weakness is that it makes meaning look like an object carried inside a package. We will unpack that trap in the critique section.\n\nA small exercise (hypothetical): you texted a friend “What are we doing tonight?” and got no reply. You are the source, the phone is the channel; but is the problem in decoding (the message was not read), in noise (the notification got lost), or in feedback (they chose not to answer)? The scheme lets you ask three separate questions; it does not tell you which one is right.",
+      "question": {
+        "id": "how-cycle-q",
+        "type": "order",
+        "prompt": "Put the steps of a communication cycle in the correct order.",
+        "items": [
+          "The source turns what is in their mind into symbols (encoding)",
+          "The symbols pass through the channel; noise can distort the message",
+          "The receiver interprets the symbols with their own frame of reference (decoding)",
+          "The receiver says or does something (reaction)",
+          "The reaction returns to the source (feedback)"
+        ],
+        "explain": "The cycle begins with encoding, passes through the channel, gains meaning at the receiver through decoding, continues with a reaction and returns to the source as feedback. Rather than memorizing the order, think about what can go wrong at each step: faulty encoding, noise in the channel, a different frame of reference, feedback that is late or never comes. The most common mistake in exams is putting feedback in the middle of the cycle."
+      }
+    },
+    {
+      "id": "how-compare",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "lab",
+      "title": "The same sentence, two scenes",
+      "body": "A thought experiment (hypothetical): you hear the sentence “It will rain tomorrow” first from a friend at the next table, then from the mouth of a weather presenter. The same sentence, two completely different kinds of communication.\n\nAccording to Maletzke’s comparison, face-to-face communication is direct, personal, mutual, symmetrical and private; mass communication is indirect, technologically mediated, asymmetrical, public and aimed at an audience dispersed in space and time [[cite:ioni-pstae-2017]].\n\nTry it yourself and compare the two scenes with these questions:\n\n- **Who can talk back?** You can say “how do you know?” to your friend. The presenter cannot hear you.\n- **How long does the answer take?** From your friend, immediately. From the presenter, never; there are only indirect reactions, such as switching channels, that are measured afterwards.\n- **Who chose the message?** Your friend chose it on the spot. The presenter’s sentence was prepared in advance inside an institution.\n- **Who is listening?** Your friend knows you. The presenter speaks to a crowd whose identity they do not know.\n\nThe first two items on this list are the everyday version of one of the best-known features of mass communication, the delay of feedback. In some mass media feedback is almost absent altogether; Maletzke’s example of readers’ letters shows how narrow this path is [[cite:ioni-pstae-2017]].",
+      "question": {
+        "id": "how-compare-q",
+        "type": "mcq",
+        "prompt": "How does a newspaper columnist usually find out how readers reacted to their piece?",
+        "options": [
+          "From readers’ facial expressions, at the moment they read it.",
+          "Through indirect and delayed channels such as letters from readers, sales and readership figures.",
+          "Directly and instantly, because a newspaper is a two-way medium.",
+          "By no means; in mass communication reactions cannot be measured at all."
+        ],
+        "answer": 1,
+        "explain": "Feedback in mass communication is not direct; Maletzke cites readers’ letters as an example of poor feedback, and sales and readership data belong to the same family (that second example is ours). Facial expressions are cues specific to face-to-face communication. The last option goes too far: reactions are not unmeasurable, they are delayed and indirect. The third option contradicts the one-sidedness criterion of mass communication."
+      }
+    },
+    {
+      "id": "deep-shannon",
+      "section": "how-it-works",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: Shannon’s engineering, Weaver’s three levels",
+      "body": "In his article Shannon puts the fundamental problem of communication as reproducing at one point, exactly or approximately, a message selected at another point [[cite:shannon-1948]]. He then adds that messages frequently have meaning, but that these semantic aspects are irrelevant to the engineering problem [[cite:shannon-1948]]. So the “message” in the drawing is a selection stripped of meaning.\n\nIn 1949 Warren Weaver drew this boundary explicitly. He divided the problems of communication into three levels [[cite:weaver-1949]]:\n\n- **Level A (the technical problem):** how accurately can the symbols of communication be transmitted?\n- **Level B (the semantic problem):** how precisely do the transmitted symbols convey the desired meaning?\n- **Level C (the effectiveness problem):** how effectively does the received meaning affect conduct in the desired way?\n\nWeaver also writes that he will use the word communication in a very broad sense, for “all of the procedures by which one mind may affect another”, which covers not only written and oral speech but also music, the pictorial arts, the theatre and even all human behaviour [[cite:weaver-1949]]. This is a framework surprisingly close to Watzlawick’s “one cannot not communicate” (the comparison is ours).\n\nThese three levels are the main framework of a later lesson ([[lesson:lasswell-shannon-weaver]]); for now, note only this: a measurement problem and a meaning problem are not the same thing."
+    },
+    {
+      "id": "evid-mehrabian",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "myth",
+      "title": "The myth that “93 per cent of communication is body language”",
+      "body": "**What people assume:** 7 per cent of a message is words, 38 per cent tone of voice, 55 per cent facial expression; so when we speak, words are almost unimportant.\n\n**What the evidence says:** These figures derive from two small studies by Albert Mehrabian in 1967 [[cite:mehrabian-wiener-1967]] [[cite:mehrabian-ferris-1967]]. According to David Lapakko’s examination, the figures were extracted from two separate studies and neither compared words, voice and face at the same time. The participants of the Mehrabian and Ferris study were 37 female psychology students and the language element consisted of a single word, “maybe”; the role of language was largely irrelevant by the design of the experiment [[cite:lapakko-2007]].\n\nThe warning on Mehrabian’s own page is also clear: these equations are applicable only if someone is talking about their feelings or attitudes [[cite:mehrabian-silent-messages-page]]. According to Lapakko, Mehrabian wrote to him in a correspondence that it would be absurd to claim that the verbal part of a sentence describing where an eraser is in a drawer is only 7 per cent [[cite:lapakko-2007]].\n\n**Bottom line:** Body language matters; but “93 per cent” is the narrow finding of one experiment turned into false precision in popular culture. If you see this figure somewhere, let your first question be: for what kind of message, in which experiment?",
+      "question": {
+        "id": "evid-mehrabian-q",
+        "type": "mcq",
+        "prompt": "A trainer says in a presentation: “Research has proved that 93 per cent of communication is nonverbal.” Which is the most apt objection?",
+        "options": [
+          "The figures were miscalculated; the right one is 70 per cent.",
+          "The figures come from two small experiments on communicating feelings and attitudes; they cannot be applied to communication in general.",
+          "There is no such thing as nonverbal communication.",
+          "The experiment was carried out only with children."
+        ],
+        "answer": 1,
+        "explain": "The force of the objection comes from the narrow source of the figures: two small experiments, communication of feelings and attitudes, a one-word cue. Mehrabian himself writes that the equations do not apply unless feelings or attitudes are being talked about. The first option proposes an invented alternative figure; the problem is not that the figure is slightly off but that it cannot be generalized. The opposite extreme, “there is no nonverbal communication”, is also wrong: body language matters, only this formula is unfounded."
+      }
+    },
+    {
+      "id": "deep-mehrabian",
+      "section": "evidence",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: tracing a myth",
+      "body": "Lapakko also measured how far the myth had spread. On 5 January 2007, with the search phrase “communication 93 percent nonverbal”, he found more than 263,000 results and examined the first hundred. Seven made no reference to Mehrabian, eight were duplicates and six could not be accessed; that left 79 sites, and only four of them took issue with the figures or questioned them in any way [[cite:lapakko-2007]]. Lapakko attributes the appeal of the formula to its reduction of the complex world of communication to a tidy and precise number [[cite:lapakko-2007]].\n\nThere are also two older objections from the academic world. Burgoon (1985) wrote that the estimate rests on faulty analysis; Hegstrom (1979) argued that such a formula gives the impression that more is known about the relative contribution of the channels than is actually known. Both are cited through Lapakko [[cite:lapakko-2007]].\n\nI leave Mehrabian’s own warning in its original form:\n\n> “Unless a communicator is talking about their feelings or attitudes, these equations are not applicable.”\n\n(From Mehrabian’s page [[cite:mehrabian-silent-messages-page]].)\n\nA small lesson: when a piece of information looks solid and has spread widely, it is worth going back to its first source."
+    },
+    {
+      "id": "evid-tappers",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "story",
+      "title": "Guessing songs from finger taps",
+      "body": "Picture an experiment: two people sit facing each other at a table. One taps out the rhythm of a well-known song on the table with a finger; the other tries to work out which song it is. According to Chip and Dan Heath, this experiment was carried out by Elizabeth Newton, who completed a doctorate in psychology at a US university in 1990 [[cite:heath-heath-2007]]. The tappers were given a list of 25 well-known songs; in the course of the experiment 120 songs were tapped in total.\n\nThe tappers predicted that the listeners would guess half of the songs. In reality the listeners identified only three of the 120, that is 2.5 per cent [[cite:heath-heath-2007]]. So the tappers thought their message got through one time in two; in fact it got through one time in forty.\n\nWhy? In the tapper’s head a song is playing: melody, words, tempo. The listener hears irregular knocks. The meaning did not pass through the channel; it stayed at the source. This shows that communication is more than “sending”: the receiver has to be able to rebuild the thing from the symbols that arrive.\n\nAn honest note: these numbers come from a doctoral study through a popular book’s account; we have not opened the thesis itself. So read it not as an exact law but as a striking example.",
+      "question": {
+        "id": "evid-tappers-q",
+        "type": "mcq",
+        "prompt": "An engineer knows their project so well that they skip key steps in a presentation, and the audience gets lost. How does the tappers–listeners experiment explain this?",
+        "options": [
+          "The room’s acoustics are poor, so there is noise in the channel.",
+          "The source assumes that the receiver knows what they know; the context does not reach the receiver.",
+          "The presentation breaks down because the audience gives no feedback.",
+          "The engineer chose the wrong language; simpler words would have been enough."
+        ],
+        "answer": 1,
+        "explain": "What the experiment teaches is that the context in the source’s head (the melody) does not reach the receiver. The engineer, too, misjudges which step is obvious because they know the project, just as the tappers thought half of the listeners would guess. The acoustics option is tempting because the problem is a breakdown in expression; but here there is no noise, there is a lack of context. The language and feedback options move the source of the problem outside the message."
+      }
+    },
+    {
+      "id": "crit-conduit",
+      "section": "critique",
+      "layer": "core",
+      "kind": "myth",
+      "title": "The trap in “I put my idea into words”",
+      "body": "**What people assume:** Ideas are put into words, sent through a channel and extracted at the other end. Words are a box, meaning is the object inside.\n\n**The linguist Michael Reddy’s observation (1979):** English speakers systematically fall back on this pattern when they talk about communication; it is called the “conduit metaphor”. Examples: “it is very difficult to put this concept into words”, “Harry always fills his paragraphs with meaning”, “I have to struggle to get any meaning at all out of the sentence” [[cite:grady-conduit]] [[cite:reddy-1979]]. Reddy’s real worry was this: the view puts too much responsibility on the speaker or writer, too little on the listener or reader, and leads to a dangerous passivity in the exchange of ideas [[cite:grady-conduit]].\n\nTurkish is not free of it either (this is our own observation): “I couldn’t convey what was on my mind”, “I can’t explain what I mean”, “nothing came out of that sentence”.\n\nThere is a parallel with Carey’s critique: critics of the transmission view say that it diminishes the mutual building of meaning (intersubjectivity) [[cite:nastasia-rakow-2005]]. But there is no need to throw the model away: it works perfectly well for measuring how accurately a telephone line carries information. The problem is applying it to every communication event.\n\nA small exercise: this week, count which verbs you use when you talk about communication: convey, pass on, put into words, get out of… How many of them evoke carrying an object?",
+      "question": {
+        "id": "crit-conduit-q",
+        "type": "mcq",
+        "prompt": "Which of the following sentences is the clearest example of Reddy’s conduit metaphor?",
+        "options": [
+          "We can interpret what the speaker said in different ways.",
+          "I couldn’t get any meaning out of this paragraph.",
+          "You must have learned this word in a different context.",
+          "The meaning of words changes with use."
+        ],
+        "answer": 1,
+        "explain": "The second sentence presents meaning as an object sitting inside the paragraph and implies that the reader is obliged to “extract” it; this is the typical pattern of the conduit metaphor. The others describe meaning as something that arises from interpretation, context and use. The first sentence may also look tempting because it says “what the speaker said”; but there meaning is not an object, it is something open to interpretation."
+      }
+    },
+    {
+      "id": "deep-reddy",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Deep dive: the four constants of Reddy’s metaphor",
+      "body": "According to Joe Grady’s summary, Reddy’s analysis was built around comments that instructors wrote on students’ essays; the comments focused on how well the students got their ideas across and whether the writing had significant content [[cite:grady-conduit]]. Four constants emerged from these comments:\n\n- Language works like a conduit that enables the transfer of thoughts, feelings and meanings from one person to another.\n- In speaking and writing, people place these items from their inner world within external signals.\n- Signals convey or contain these items.\n- In listening or reading, people find these items within the signals and take them into their own minds.\n\nGrady’s paper offers a finer analysis of this metaphor, but it also repeats the main worry: Reddy thought that this pervasive view damages our communication and even our culture [[cite:grady-conduit]]. A note on the record: the Reddy reference used here is the 1993 second edition of the book; the article first appeared in 1979 [[cite:reddy-1979]]."
+    },
+    {
+      "id": "crit-cannot-not",
+      "section": "critique",
+      "layer": "core",
+      "kind": "text",
+      "title": "Is it really true that “one cannot not communicate”?",
+      "body": "The first axiom is so striking that it could not pass without objection. In 1990 Michael Motley argued that each of four traditional postulates, that communication is interactive, involves encoding, is an exchange of symbols and has a fidelity dimension, contradicts the axiom “one cannot not communicate” [[cite:motley-1990]]. In the same year Janet Beavin Bavelas, one of the authors of the axioms, wrote a reply in the same journal [[cite:bavelas-1990]]; Peter Andersen also took issue with Motley in 1991 [[cite:andersen-1991]]. So the debate is real, and it went on among the authors’ own circle too.\n\nThe core of the objection is this: if communication means “sending an intentional message”, someone who turns their face away may have had no intent; so they have not communicated. But if communication means “behaviour that another can interpret”, the axiom is true.\n\nHere recall Dance’s split on intent [[cite:littlejohn-foss-2008]]: the two sides may in fact be speaking from two different definitions. (This reading is ours, not a summary of the articles. We did not open the content of Bavelas’s reply; we only know that it exists.)\n\nPractical upshot: read the axiom not as a law of nature but as a warning that “people’s behaviour is read by others”. This warning is very useful in daily life: a message you do not answer also has a meaning (whatever your intent).",
+      "question": {
+        "id": "crit-cannot-not-q",
+        "type": "mcq",
+        "prompt": "Why does “intent” play a key role when the axiom “one cannot not communicate” is debated?",
+        "options": [
+          "Without intent no behaviour can be observed.",
+          "If communication is defined as an “intentional message”, unintended behaviour does not count; if it is defined as “interpretable behaviour”, it does.",
+          "The axiom says that intent is the proof of communication.",
+          "Motley’s article deals only with words, not with intent."
+        ],
+        "answer": 1,
+        "explain": "The debate arises largely from the definition: if communication is sending an intentional message, silently turning away may not be communication; if it is any behaviour that another can interpret, the axiom comes out true. This is the same knot as Dance’s split on intent. The first option confuses observation with intent; behaviour is observable without intent. The third option misreports the axiom. The last option ignores that Motley’s article deals with four traditional postulates."
+      }
+    },
+    {
+      "id": "today-mass-self",
+      "section": "today",
+      "layer": "core",
+      "kind": "text",
+      "title": "A video on your phone: mass or personal?",
+      "body": "Maletzke’s definition was drawn in 1963 for newspapers, radio and television. Today a video on your phone can reach millions of people without an intermediary broadcasting institution.\n\nIn 2007 Manuel Castells called this situation “mass self-communication”. In his account the communication system of industrial society was built on the mass distribution of one-way messages from one to many, while the foundation of the network society is horizontal networks of communication from many to many, synchronous or asynchronous [[cite:castells-2007]]. Mass self-communication is “mass” because it potentially reaches a global audience; it is “self” because its content is self-generated, its emission self-directed and its reception self-selected [[cite:castells-2007]] [[cite:nechita-2012]].\n\nPatrick O’Sullivan and Caleb Carr (2018) go another way: digital tools blur the line between mass communication and interpersonal communication; they propose a channel-independent “masspersonal communication” model built on two dimensions, the perceived accessibility of a message and its personalization [[cite:osullivan-carr-2018]] [[cite:chen-liu-2025]].\n\nAn exercise: test Maletzke’s criteria one by one. Public? Mostly yes. Technical means? Yes. Is an institutional intermediary structure required? Not always. One-way? No longer: the audience writes comments and sees replies. (This assessment is ours.)",
+      "question": {
+        "id": "today-mass-self-q",
+        "type": "mcq",
+        "prompt": "A content creator shares a live story with 80,000 followers; followers write replies and the creator answers some of them. Which of Maletzke’s criteria is shaken most in this case?",
+        "options": [
+          "Mediation: communication runs through a technical means.",
+          "One-sidedness: communicator and recipient can swap roles.",
+          "Publicness: who will see it is unlimited or wide.",
+          "Technical means of dissemination: an app is used."
+        ],
+        "answer": 1,
+        "explain": "Maletzke’s one-sidedness criterion (no role change) is shaken most here: recipients write comments and the communicator replies. The criteria of mediation, publicness and technical means still hold. This is exactly a feature of what Castells calls “mass self-communication”: it reaches the masses and also allows many-to-many flow."
+      }
+    },
+    {
+      "id": "turkey-words",
+      "section": "turkey",
+      "layer": "core",
+      "kind": "text",
+      "title": "Five words for the same thing",
+      "body": "Turkish has no single word for “communication”; the dictionary has a cluster. The dictionary of the Turkish Language Association (TDK) gives two senses under “iletişim”: (1) feelings, thoughts or information being conveyed to others by any conceivable means; (2) the exchange of information carried on through media such as the telephone, telegraph, television or radio. As synonyms it lists bildirişim, haberleşme, komünikasyon and, for the second sense, muhabere [[cite:tdk-iletisim]]. “Komünikasyon” is of French origin (*communication*); the dictionary sends this entry straight to “iletişim” [[cite:tdk-iletisim]].\n\nThe TÜBİTAK Social Sciences Encyclopedia, in turn, defines communication as conveying **or sharing** information through speech, writing, gesture, facial expression and every other means, and lists the same alternative names [[cite:tubitak-iletisim-2022]].\n\nAn interesting observation (our own interpretation): the first sense in the dictionary says “conveyed”, so even the everyday dictionary leans on the transmission view. The encyclopedia’s “sharing”, on the other hand, opens the door to the ritual view. One word, two definitions.\n\nIn the dictionary the entry “bildirişim” is likewise sent straight to “iletişim” [[cite:tdk-iletisim]]; so this cluster in the dictionary is a set of alternative names gathered around one word.\n\nIf you see “haberleşme” or “komünikasyon” in a text, you are most often meeting the same concept; but “haberleşme” tends to evoke the exchange of information carried on through media (again our own interpretation). Look at the context.",
+      "question": {
+        "id": "turkey-words-q",
+        "type": "mcq",
+        "prompt": "A reader writes: “The dictionary defines communication as conveying to others, so communication is only transmission.” What can be said about this inference?",
+        "options": [
+          "It is right; a dictionary gives the single correct definition of a concept.",
+          "It is unfounded; another reference work in the same language includes “sharing” in the definition too.",
+          "It is right, because in Turkish there is no such thing as sharing as a kind of communication.",
+          "It is unfounded, because the dictionary has not defined communication at all."
+        ],
+        "answer": 1,
+        "explain": "The first sense of the TDK entry does say “conveyed”, but the TÜBİTAK encyclopedia widens the definition by saying “conveying or sharing”; and the second sense looks at mediated exchange of information. A dictionary entry is a record of usage, not the single correct definition of a concept (which is why the first option is weak). The last option is contrary to fact: the dictionary does define communication, only within a limited frame."
+      }
+    },
+    {
+      "id": "exam-patterns",
+      "section": "exam",
+      "layer": "core",
+      "kind": "text",
+      "title": "This is how exams ask it",
+      "body": "**Frequent patterns**\n\n- “Which of the following is not one of the levels of communication?” → intrapersonal, interpersonal, group, organizational, mass. Depending on the sources, “public” may enter the list too.\n- “The characteristics of mass communication”: public, indirect, one-way, dispersed audience, institutional intermediary structure.\n- “Watzlawick’s axioms”: one cannot not communicate; content and relationship aspect; punctuation; digital and analogic; symmetrical and complementary.\n- “The transmission and ritual views” → Carey.\n\n**Tempting mistakes**\n\n- “93 per cent of communication is body language” → a false generalization of Mehrabian’s narrow finding.\n- “Mass communication means reaching many people” → not enough on its own; indirectness, one-sidedness and institutionality count too.\n- “Communication is the correct understanding of the message” → building success into the definition is only one of the options Dance distinguished.\n- Years: Shannon’s article 1948, the book with Weaver’s contribution 1949; Watzlawick and colleagues 1967; Maletzke 1963; Carey 1989.\n\n**Alternative names in Turkish**\n\n- İletişim; haberleşme; komünikasyon; bildirişim; muhabere [[cite:tdk-iletisim]] [[cite:tubitak-iletisim-2022]].\n- İç iletişim instead of kişi içi iletişim; bireyler arası iletişim instead of kişilerarası [[cite:tubitak-iletisim-2022]].\n- İleti (message); hedef (receiver, target audience); geri bildirim (feedback) [[cite:tubitak-iletisim-2022]].\n\nTip: if you are torn between two terms in an exam, ask which split (scope, intent, value judgment) the definition rests on; that question often helps you eliminate the wrong option.",
+      "question": {
+        "id": "exam-patterns-q",
+        "type": "mcq",
+        "prompt": "An exam question asks: “Which of the following characteristics of mass communication is wrong?” Which option could be the wrong one?",
+        "options": [
+          "Messages are given publicly.",
+          "There is spatial or temporal distance between communicator and recipient.",
+          "Communicator and recipient do not swap roles.",
+          "The recipients are known one by one and the communicator talks to them face to face."
+        ],
+        "answer": 3,
+        "explain": "Under Maletzke’s criteria mass communication is public, indirect and one-sided; the recipients are dispersed. The last option says the opposite: knowing recipients one by one and speaking face to face describe interpersonal, not mass, communication. In exams the distractor often takes the opposite of a true characteristic and hides it in the same sentence."
+      }
+    },
+    {
+      "id": "summary",
+      "section": "summary",
+      "layer": "core",
+      "kind": "summary",
+      "title": "Summary card",
+      "body": "- **Definition:** communication has no single definition. Dance and Larson listed 126; definitions differ in scope, intent and value judgment.\n- **Origin:** Latin *communicare* means “to make common”; modern usage often slides towards “to send”.\n- **Two views:** for Carey, the transmission view looks at sending messages over distance, the ritual view at sharing and shared beliefs.\n- **Levels:** intrapersonal, interpersonal, group, organizational, mass communication; the lists vary from book to book.\n- **Parts:** source, message, target, channel, code, feedback, noise, frame of reference.\n- **Verbal and nonverbal:** “93 per cent” is a false generalization of Mehrabian’s narrow finding.\n- **Five axioms:** one cannot not communicate; content and relationship; punctuation; digital and analogic; symmetrical and complementary. The first axiom is contested because of intent.\n- **Mass communication (Maletzke):** public, by technical means, indirect, one-way, dispersed audience; an institutional intermediary structure.\n- **Today:** Castells’s mass self-communication and O’Sullivan and Carr’s masspersonal communication blur these criteria.\n- **Exams:** the 93 per cent trap; not equating mass communication with “reaching many people”; the years 1948, 1963, 1967, 1989.",
+      "question": {
+        "id": "summary-q",
+        "type": "tf",
+        "prompt": "True or false: According to the working definition in this lesson, communication consists only of intentional and correctly understood messages.",
+        "answer": false,
+        "explain": "False. Our working definition takes communication as “a context-bound process in which people try to build or share meaning”; it sets neither success nor intent as a condition. The “true” option gets its appeal from everyday usage, which equates communication with “understanding each other”; in Dance’s terms, that is only one option, the one that builds a value judgment into the definition."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "A student says “there is no single correct definition of communication”. Which piece of the literature gives the best support for this claim?",
+      "options": [
+        "All sources give the same definition; the difference is only in wording.",
+        "Dance and Larson listed 126 definitions; definitions differ on splits such as scope, intent and value judgment.",
+        "The Latin root has a single meaning, so the definition is single too.",
+        "Mehrabian’s experiments established the single correct definition of communication."
+      ],
+      "answer": 1,
+      "explain": "The student’s claim is backed by solid evidence: Dance and Larson’s 126 definitions and the three axes along which Dance sorted them. The first option says the opposite and is contrary to fact. The third option overlooks that the idea of the root (making common) sits alongside a modern usage that has drifted from it. Mehrabian ran two experiments on nonverbal communication; he did not fix a definition."
+    },
+    {
+      "id": "q2",
+      "type": "tf",
+      "prompt": "True or false: Mehrabian’s 1967 studies show that 93 per cent of meaning in communication in general is nonverbal.",
+      "answer": false,
+      "explain": "False. The figures were derived from two small studies and concern the communication of feelings and attitudes; Mehrabian himself writes that these equations do not apply unless feelings or attitudes are being talked about. What makes “true” tempting is how widely the figure has spread in popular culture."
+    },
+    {
+      "id": "q3",
+      "type": "match",
+      "prompt": "Match Watzlawick and colleagues’ axioms with an example each.",
+      "pairs": [
+        [
+          "First axiom: one cannot not communicate",
+          "The silence of someone who does not answer your message also carries a meaning"
+        ],
+        [
+          "Second axiom: content and relationship aspect",
+          "The same sentence is taken as a request when said with a smile and as an order with a hard stare"
+        ],
+        [
+          "Third axiom: punctuation",
+          "The two sides place the beginning of the quarrel at different points"
+        ],
+        [
+          "Fourth axiom: digital and analogic communication",
+          "The words spoken are accompanied by tone of voice and facial expression"
+        ],
+        [
+          "Fifth axiom: the complementary relationship",
+          "One party directs, the other follows"
+        ]
+      ],
+      "explain": "The matches: silence also carries a message (first); the same content gives a different relationship message (second); the parties starting the chain of events at different places is punctuation (third); words are the digital channel, tone of voice and face the analogic one (fourth); one who directs and one who follows is a complementary relationship (fifth). The most common confusion is between the second and the fourth axiom: both look at “how it is said”, but the second concerns the relationship classifying the content, the fourth the distinction between two forms of communication."
+    },
+    {
+      "id": "q4",
+      "type": "order",
+      "prompt": "Put the levels of communication in order of participant scale, from smallest to largest.",
+      "items": [
+        "Intrapersonal communication: a person talking to themselves",
+        "Interpersonal communication: between two people",
+        "Group communication: within a small group",
+        "Organizational communication: inside and outside an institution",
+        "Mass communication: to a large, dispersed audience"
+      ],
+      "explain": "The order follows the growth in the number of participants and in mediation: one person, two people, a small group, an institution, the masses. This is the list of five frequent in Turkish sources; some books put public communication in the place of organizational communication. The most common mistake in exams is confusing organizational communication with mass communication: in an organization the recipients are limited and known one by one."
+    },
+    {
+      "id": "q5",
+      "type": "cloze",
+      "prompt": "Fill in the blanks.",
+      "text": "For Carey, communication can be looked at through two eyes. In the {{1}} view, communication is the sending of messages over distance; in the {{2}} view, it is sharing, participation and the representation of shared beliefs. Comparing newspaper reading to attending a mass is a typical example of the {{3}} view.",
+      "blanks": [
+        {
+          "options": [
+            "transmission",
+            "ritual",
+            "digital",
+            "symmetrical"
+          ],
+          "answer": 0
+        },
+        {
+          "options": [
+            "transmission",
+            "ritual",
+            "analogic",
+            "complementary"
+          ],
+          "answer": 1
+        },
+        {
+          "options": [
+            "transmission",
+            "ritual",
+            "punctuation",
+            "complementary"
+          ],
+          "answer": 1
+        }
+      ],
+      "explain": "The transmission view looks at the sending of messages, the ritual view at sharing and shared beliefs; comparing newspaper reading to a mass is an example of the ritual view. “Digital”, “analogic”, “symmetrical”, “complementary” and “punctuation” belong to Watzlawick’s axioms and should not be confused with Carey’s distinction."
+    },
+    {
+      "id": "q6",
+      "type": "case",
+      "scenario": "A municipality announces its new bus routes in three ways: (a) a written message to neighbourhood WhatsApp groups, (b) the evening news of the local television station, (c) a face-to-face information meeting at the mukhtar’s office (the neighbourhood administrator’s office). (Hypothetical scenario.)",
+      "parts": [
+        {
+          "id": "q6a",
+          "type": "mcq",
+          "prompt": "Which route fits mass communication best under Maletzke’s criteria?",
+          "options": [
+            "Only (a)",
+            "Only (b)",
+            "(a) and (c)",
+            "All three equally"
+          ],
+          "answer": 1,
+          "explain": "The local television news reaches a dispersed audience through technical means, publicly, indirectly and one-way, and it passes through a broadcasting institution. The meeting is face to face; WhatsApp messages use a medium, but the recipients are limited to particular groups and can reply. Treating all three alike ignores the criteria."
+        },
+        {
+          "id": "q6b",
+          "type": "mcq",
+          "prompt": "In the WhatsApp groups, residents write replies to the message. Which of the criteria of mass communication does this blur?",
+          "options": [
+            "Transmission by technical means",
+            "One-sidedness (no role change)",
+            "The message being prepared in advance",
+            "The recipients being dispersed in space"
+          ],
+          "answer": 1,
+          "explain": "Recipients writing replies means that communicator and recipient can swap roles; this shakes the one-sidedness criterion. Technical means and advance preparation still hold here; so does dispersal."
+        },
+        {
+          "id": "q6c",
+          "type": "mcq",
+          "prompt": "The municipality uses a closed WhatsApp group that only neighbourhood residents can join. How does this bear on the “public” criterion?",
+          "options": [
+            "The criterion is met, because the group is large.",
+            "The criterion weakens, because the recipients are a limited, defined community.",
+            "It has no effect.",
+            "The criterion disappears entirely; this is now intrapersonal communication."
+          ],
+          "answer": 1,
+          "explain": "In a closed group it is known who the recipients are, whereas Maletzke’s “public” criterion requires that recipients are neither limited nor individually defined. So the criterion weakens. A large group is still not open (first option). Yet this does not amount to intrapersonal communication, which is a person’s communication with themselves (last option)."
+        }
+      ],
+      "takeaway": "The criteria of mass communication work like a spectrum: the type of channel or the size of the group is not enough on its own; publicness, indirectness, one-sidedness and institutionality are judged together."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "On the morning of a holiday, many people send the same “Happy holiday” message; nobody gives any new information, but the messages matter all the same. Which of Carey’s views explains this better?",
+      "options": [
+        "The transmission view: it matters that the message carries information.",
+        "The ritual view: messaging serves as sharing and joining a community.",
+        "Digital communication: only words matter.",
+        "Noise: the messages interfere with each other."
+      ],
+      "answer": 1,
+      "explain": "The ritual view thinks of communication as sharing, participation and fellowship; the value of holiday messages comes not from the information they contain but from taking part in a ritual together. The transmission view looks at the information the message carries; here there is almost none. Digital communication is one of Watzlawick’s axioms and has nothing to do with Carey’s distinction; noise is an element of the scheme."
+    },
+    {
+      "id": "q8",
+      "type": "tf",
+      "prompt": "True or false: Among the replies to Motley’s 1990 article there is one by an author of the axioms.",
+      "answer": true,
+      "explain": "True. Janet Beavin Bavelas is one of the authors of the axioms, and in the same year she published a reply in the same journal titled “Behaving and communicating: A reply to Motley”; Peter Andersen also objected to Motley in 1991. We have not opened the content of the replies in this lesson; we only know that the debate continued within the authors’ own circle too."
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "At a metro station the announcement system works flawlessly and everyone hears every syllable; but the phrase “exit on the right” evokes one direction for some passengers and another for others. At which of Weaver’s levels is there a problem?",
+      "options": [
+        "Level A: the technical problem (how accurately are the symbols transmitted)",
+        "Level B: the semantic problem (how precisely do the symbols convey the desired meaning)",
+        "Level C: the effectiveness problem (how effectively does the received meaning affect conduct)",
+        "At none; there is no problem."
+      ],
+      "answer": 1,
+      "explain": "The symbols are transmitted flawlessly (level A is fine); but the meaning the recipients draw from those symbols varies. That is a semantic problem (level B). Level C may look tempting because in the end passengers may go the wrong way; but level C asks whether the received meaning affects conduct in the desired way, whereas here the source of the problem is that the meaning itself is received differently."
+    },
+    {
+      "id": "q10",
+      "type": "case",
+      "scenario": "A content creator, without an intermediary broadcasting institution, shares live videos with 80,000 followers; followers write comments and the creator answers some of them. (Hypothetical scenario.)",
+      "parts": [
+        {
+          "id": "q10a",
+          "type": "mcq",
+          "prompt": "Which is the best name for this situation in Castells’s terms?",
+          "options": [
+            "Mass self-communication",
+            "Intrapersonal communication",
+            "The ritual view",
+            "A symmetrical relationship"
+          ],
+          "answer": 0,
+          "explain": "Communication whose content is self-generated, whose emission is self-directed and whose reception is self-selected, and which potentially reaches a wide audience, is what Castells calls “mass self-communication”. The ritual view is Carey’s concept; a symmetrical relationship belongs to Watzlawick’s axioms; intrapersonal communication is communication with oneself."
+        },
+        {
+          "id": "q10b",
+          "type": "mcq",
+          "prompt": "Which of Maletzke’s criteria is shaken most in this case?",
+          "options": [
+            "Publicness",
+            "Dissemination by technical means",
+            "One-sidedness",
+            "Dispersed audience"
+          ],
+          "answer": 2,
+          "explain": "Followers writing comments and the creator answering make role swapping possible; this shakes one-sidedness. The other criteria largely remain valid here."
+        },
+        {
+          "id": "q10c",
+          "type": "mcq",
+          "prompt": "Along which two dimensions does O’Sullivan and Carr’s masspersonal communication model work?",
+          "options": [
+            "The perceived accessibility of a message and its personalization",
+            "The source’s authority and the channel’s speed",
+            "The complexity of the code and the level of noise",
+            "The number of viewers and advertising revenue"
+          ],
+          "answer": 0,
+          "explain": "The model positions mass and interpersonal communication independently of the channel along the dimensions of the perceived accessibility of a message and its personalization. The other options are not the model’s dimensions; they may sound plausible but have no source."
+        }
+      ],
+      "takeaway": "In digital settings, testing the criteria of mass communication one by one is the best way to see where the concepts blur; the blurring has also given rise to new concepts (mass self-communication, masspersonal communication)."
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "Which level of communication is closest to the topic of a company designing its communication policy among employees and its internal announcement channels?",
+      "options": [
+        "Mass communication",
+        "Intrapersonal communication",
+        "Organizational communication",
+        "Group communication only"
+      ],
+      "answer": 2,
+      "explain": "The communication an institution carries on inside itself and with the outside is organizational communication. Mass communication is a tempting distractor because internal announcements reach many people; but the recipients are limited and known one by one, so it is not “public”. Group communication is communication within a small group; a whole company goes beyond that."
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": "A definition says “communication is the successful understanding of the message by the receiver”. In which of Dance’s three splits does it sit?",
+      "options": [
+        "Scope (how broad the definition is)",
+        "Intent (the requirement of conscious purpose)",
+        "Value judgment (a criterion of success)",
+        "Channel (which medium is used)"
+      ],
+      "answer": 2,
+      "explain": "The definition builds success (“successful understanding”) into the definition; that is Dance’s value-judgment split. Scope and intent can be tempting, because every definition is somewhat broad or narrow and somewhat intentional or not; but the distinguishing feature of this definition is that it carries a success criterion. Channel is not one of Dance’s three splits."
+    }
+  ]
+}

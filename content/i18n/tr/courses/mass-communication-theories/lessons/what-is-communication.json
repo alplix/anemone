@@ -1,0 +1,820 @@
+{
+  "id": "what-is-communication",
+  "lang": "tr",
+  "translation": {
+    "status": "source",
+    "date": "2026-09-20"
+  },
+  "title": "İletişim Nedir?",
+  "slug": "iletisim-nedir",
+  "description": "İletişim neden tek bir tanıma sığmaz? Aktarım ve ritüel görüşü, iletişim katmanları, Watzlawick’in beş aksiyomu ve kitle iletişiminin ölçütleri.",
+  "claim": "İletişim tek bir tanıma sığmaz: kimi bakışlar onu mesajın uzağa gönderilmesi, kimileri anlamın ve topluluğun birlikte kurulması sayar; kitle iletişimi ise herkese açık, aracılı, dolaylı ve çoğunlukla tek yönlü, kurumsal bir iletişim biçimidir.",
+  "keywords": [
+    "iletişim nedir",
+    "iletişimin tanımı",
+    "aktarım görüşü",
+    "ritüel görüşü",
+    "Carey",
+    "Watzlawick",
+    "beş aksiyom",
+    "kitle iletişimi",
+    "Maletzke",
+    "sözsüz iletişim",
+    "iletişim katmanları"
+  ],
+  "updated": "2026-09-20",
+  "timeline": {
+    "shannon-1948": "Shannon: “A Mathematical Theory of Communication” (Bell System Technical Journal)",
+    "weaver-1949": "Weaver’ın matematiksel iletişim kuramı üzerine denemesi, Shannon’la ortak kitapta",
+    "maletzke-1963": "Maletzke: Psychologie der Massenkommunikation",
+    "pragmatics-1967": "Watzlawick, Beavin ve Jackson: Pragmatics of Human Communication (beş aksiyom)",
+    "mehrabian-1967": "Mehrabian ve arkadaşlarının “7-38-55” rakamlarının çıktığı iki çalışması",
+    "dance-concept-1970": "Dance: “The ‘Concept’ of Communication” (tanımlarda 15 tema)",
+    "dance-larson-126": "Dance ve Larson iletişimin 126 tanımını listeler",
+    "carey-culture-1989": "Carey: Communication as Culture (aktarım ve ritüel görüşü)",
+    "motley-1990": "Motley “iletişim kurmamak olanaksızdır” aksiyomunu sorgular; Bavelas yanıt verir",
+    "castells-2007": "Castells: kitlesel öziletişim",
+    "masspersonal-2018": "O’Sullivan ve Carr: kitlekişisel iletişim modeli"
+  },
+  "cards": [
+    {
+      "id": "ctx-bus",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "Otobüste kimse tek kelime etmedi",
+      "body": "Hayal et: sabah yedi buçuk, ağzına kadar dolu bir otobüs. Yan koltuktaki kişi kulaklığını takmış, gözünü camdan ayırmıyor. Sen telefonuna bakıyorsun; o da çantasını biraz daha kendine çekiyor. Kimse tek kelime etmedi. (Bu sahne varsayımsaldır ama benzerini her gün yaşıyorsundur.)\n\nYine de bir anlaşma yapıldı. Sen “seni rahatsız etmeyeceğim” dedin, o “benimle konuşma” dedi. Belki ikiniz de ötekini yanlış okudunuz; ama okudunuz.\n\nBu dersin ilk şaşırtıcı sorusu tam da bu: sessizlik iletişim midir? [[person:watzlawick|Paul Watzlawick]] ve iki arkadaşı 1967’de yayımladıkları kitapta bunu tek cümleyle yanıtlar: “One cannot not communicate”, yani iletişim kurmamak olanaksızdır [[cite:lutterer-2007]] [[cite:watzlawick-et-al-1967]]. Birbirinin farkında olan iki kişi arasında her davranış, karşı taraf için bir ileti olarak okunabilir.\n\nKulağa fazla iddialı geliyor, değil mi? Öyle de: bu sav ciddi itirazlarla karşılaştı ve onları da dinleyeceğiz. Ama önce daha temel bir soruya cevap vermeliyiz. Günde yüz kere kullandığımız “iletişim” sözcüğü tam olarak ne demek?\n\nBu ders cevabı sana hazır vermeyecek; onu birlikte kuracağız. Yolda sevdiğin birkaç inancı da sarsacağız.",
+      "question": {
+        "id": "ctx-bus-q",
+        "type": "mcq",
+        "prompt": "Otobüste yan koltuktaki kişiye “günaydın” diyorsun; o, yüzünü çevirip cevap vermiyor. Watzlawick’in ilk aksiyomuna göre bu davranış nasıl değerlendirilir?",
+        "options": [
+          "İletişim değildir; çünkü tek bir sözcük bile söylenmemiştir.",
+          "İletişimdir; etkileşim içindeki her davranış, karşı tarafça bir ileti olarak yorumlanabilir.",
+          "İletişim sayılması için kişinin bilinçli bir niyeti olduğunun kanıtlanması gerekir.",
+          "Yalnızca yüz yüze konuşma iletişim sayılır; yüz çevirmek bunun dışındadır."
+        ],
+        "answer": 1,
+        "explain": "Birinci aksiyom, birbirinin farkında olan insanlar arasındaki her davranışın bir mesaj değeri taşıyabileceğini söyler; “davranmamak” diye bir şey yoktur. Bu yüzden yüz çevirmek de bir ileti olur (belki “şimdi konuşmak istemiyorum”). Birinci şık iletişimi yalnızca sözcüklerle eşitlediği için yanlıştır; sözsüz davranışlar da ileti taşır. Üçüncü şık en cazip olanıdır, çünkü niyet gerçekten tartışmalı bir noktadır ve eleştirmenler tam da buradan itiraz eder; ama aksiyomun kendisi bu şartı aramaz. Bu tartışmayı ileride ele alacağız."
+      }
+    },
+    {
+      "id": "ctx-126",
+      "section": "context",
+      "layer": "core",
+      "kind": "story",
+      "title": "126 tanım, tek bir sözcük",
+      "body": "İletişim çalışan bir araştırmacıya “senin tanımın ne?” diye sorarsan, kendine bir kahve daha ısmarla; uzun sürecek.\n\nAbartmıyorum. Frank Dance ve Carl Larson 1976’da yayımladıkları kitabın ekinde iletişime dair yayımlanmış 126 tanım listeledi [[cite:littlejohn-foss-2008]] [[cite:nastasia-rakow-2005]]. Dance daha 1970’te tanımlardaki ortak öğeleri ayıklamıştı: 15 ana tema çıktı ve bunların üçünde tanımlar keskin biçimde ayrışıyordu [[cite:dance-1970]].\n\nO üç ayrım şunlar [[cite:littlejohn-foss-2008]]:\n\n- **Kapsam:** Tanım geniş mi (canlı dünyanın parçalarını birbirine bağlayan her süreç) yoksa dar mı (bir donanmadaki telefon ve telgraf sistemi)?\n- **Niyet:** Yalnızca bilinçli olarak mesaj göndermeyi mi sayıyor, yoksa niyetsiz davranışı da içine alıyor mu?\n- **Değer yargısı:** Tanımın içine “başarılı”, “doğru anlaşılmış” gibi bir ölçüt gömülmüş mü?\n\nDance’in vardığı sonuca göre “iletişim” kavramına taşıyabileceğinden fazla iş yüklüyoruz; bu yüzden tek bir tanım yerine bir kavram ailesi öneriyor [[cite:littlejohn-foss-2008]].\n\nYani tanımlar birbirinden yanlış oldukları için değil, farklı işler gördükleri için ayrışır. Bir tanım seçmek, bir alet seçmektir.\n\nDance ve Larson’ın listesi bir şeyi daha hatırlatır: bir tanımın kimin işine yaradığına bakmak gerekir. Bir mühendis telefon hattını, bir psikolog aile içi konuşmayı, bir gazeteci okurunu düşünür; üçünün de “iletişim” dediği şey farklı görünür (bu örnek bizim).",
+      "question": {
+        "id": "ctx-126-q",
+        "type": "mcq",
+        "prompt": "İki tanımdan biri iletişimi “bir kaynağın, alıcının davranışını etkilemek amacıyla bilinçli olarak mesaj göndermesi” diye anlatıyor; ötekinde niyet diye bir şart yok. Dance’in üç ayrımına göre bu iki tanım hangi noktada ayrışıyor?",
+        "options": [
+          "Kapsam (tanımın ne kadar geniş olduğu)",
+          "Niyet (bilinçli amaç şartı)",
+          "Değer yargısı (başarı ölçütü)",
+          "Hiçbirinde; iki tanımdan biri kesinlikle yanlıştır."
+        ],
+        "answer": 1,
+        "explain": "Fark, bilinçli amacın tanıma girip girmemesidir; bu, Dance’in ayrımlarından niyettir. İlk şık cazip görünür, çünkü niyet şartı tanımı daraltır; ama Dance’in “kapsam” ekseni tanımın ne kadar soyut ya da genel olduğuyla ilgilidir (canlı dünyayı bağlayan süreç ile bir donanma sistemi gibi). Son şık bu kartın ana fikrine ters: tanımlar hata yüzünden değil, farklı işler gördükleri için ayrışır."
+      }
+    },
+    {
+      "id": "ctx-root",
+      "section": "context",
+      "layer": "core",
+      "kind": "text",
+      "title": "Sözcüğün kökü: ortak kılmak",
+      "body": "Bir sözcüğün kökü çoğu zaman kavramın ilk fikrini saklar. Türkçedeki *komünikasyon* da İngilizcedeki *communication* da Latince *communicare* fiilinden gelir. Fiil “paylaşmak, bildirmek, aktarmak” demektir; kelimenin tam karşılığı ise “ortak kılmak”tır. Kök de *communis*, yani “ortak, herkese ait” sözcüğüdür [[cite:etymonline-communicate]].\n\nİlginç bir ayrıntı: Nastasia ve Rakow, John Durham Peters’a dayanarak Roma’daki *communicatio*’nun bugünkü gibi, simgelerle kurulan genel bir insan bağlantısı anlamına gelmediğini; çoğunlukla somut şeylere ve hatiplerin kullandığı belirli söz araçlarına işaret ettiğini aktarır [[cite:nastasia-rakow-2005]]. Yani “duygularımı sana aktarıyorum” anlamı, sözcüğün ilk hâli değil.\n\nGünümüzde ise sözcük çoğu zaman başka bir şeyi çağrıştırıyor: bir şeyi bir yerden başka bir yere göndermek. “Mesaj ulaştı mı?”, “seninle iletişime geçeceğim” gibi kalıplar hep gönderme dilidir (bu gözlem bizim).\n\nİki fikir birbirine benzemiyor. Birinde bir şey ortak hâle gelir; ötekinde bir şey yer değiştirir. Bu dersin ilk büyük ayrımı tam olarak bu: aynı olaya iki farklı gözle bakabilirsin.\n\nBir not: bir sözcüğün kökü onu tanımlamaz; yalnızca ilk çağrışımlarını gösterir. Kökü bilmek, tanımı öğrenmenin yerini tutmaz, ama tanımların neden birbirinden koptuğunu anlamana yardım eder.",
+      "question": {
+        "id": "ctx-root-q",
+        "type": "mcq",
+        "prompt": "“Communication” sözcüğünün Latince kökü olan *communicare* hangi fikri taşır?",
+        "options": [
+          "Bir şeyi uzağa göndermek",
+          "Bir şeyi ortak kılmak, paylaşmak",
+          "Karşındakini ikna etmek",
+          "Bir haberi kaynağından toplamak"
+        ],
+        "answer": 1,
+        "explain": "Kaynaklara göre *communicare* “paylaşmak, bildirmek” demektir ve tam karşılığı “ortak kılmak”tır; kök, “ortak” anlamındaki *communis*’tir. “Uzağa göndermek” cazip bir şıktır, çünkü modern kullanım bizi o yöne iter; ama kökün fikri gönderme değil, ortaklıktır. İkna ve haber toplamak ise kökle ilgisiz, sonradan bağlanmış çağrışımlardır."
+      }
+    },
+    {
+      "id": "ctx-map",
+      "section": "context",
+      "layer": "core",
+      "kind": "text",
+      "title": "Yol haritası: bu ders bir kapıdır",
+      "body": "Bu ders yalnızca ilk basamak. Önünde yürüyeceğin yol kabaca şöyle:\n\n- **Temeller:** araçların tarihi ve ilk iletişim modelleri ([[lesson:mass-media-history]], [[lesson:lasswell-shannon-weaver]], [[lesson:process-models]]).\n- **Güçlü etkiler ve propaganda:** medyanın çok güçlü sayıldığı ilk dönem ve şırınga modeli ([[lesson:magic-bullet]]).\n- **Sınırlı etkiler:** seçmen araştırmaları, [[lesson:two-step-flow]] ve [[lesson:gatekeeping]].\n- **Orta düzey etkiler:** [[lesson:agenda-setting]], [[lesson:cultivation]], [[lesson:spiral-of-silence]].\n- **İzleyici ve teknoloji:** [[lesson:uses-gratifications]] ve [[lesson:mcluhan]].\n- **Eleştirel yaklaşımlar ve kültür:** [[lesson:frankfurt-1]], [[lesson:ritual-view]], [[lesson:encoding-decoding]].\n- **Normatif kuramlar ve medya sistemleri:** [[lesson:four-theories]], [[lesson:turkey-media]].\n- **Dijital çağ:** [[lesson:filter-bubbles]], [[lesson:algorithmic-media]].\n\nHer ders bir soruya cevap arar: medya insanları etkiler mi, nasıl, hangi koşulda, kimin çıkarına, hangi sistemde? Bu dersin işi, o sorulardan önce sözlükleri hazırlamak: iletişim dediğimiz şey nedir, kitle iletişimi onun hangi özel hâlidir?\n\nBu yüzden ilerledikçe buradaki üç şeyi sık sık hatırlayacaksın: iletişimin tanımının tartışmalı olduğunu, aktarım ve ritüel bakışlarının ayrı şeyler gördüğünü ve kitle iletişiminin ölçütlerinin bugün bulanıklaştığını.\n\nDers adları ve sıraları kursun planından alınmıştır; ilerledikçe ayrıntıları değişebilir.",
+      "question": {
+        "id": "ctx-map-q",
+        "type": "mcq",
+        "prompt": "Bir arkadaşın, televizyonu çok izleyen insanların dünyayı gerçekte olduğundan daha tehlikeli sanıp sanmadığını merak ediyor. Yol haritasında ona hangi dersi gösterirsin?",
+        "options": [
+          "Kültivasyon (ekme) kuramı",
+          "Gündem belirleme",
+          "Suskunluk sarmalı",
+          "Ritüel görüşü"
+        ],
+        "answer": 0,
+        "explain": "Uzun süreli televizyon izlemenin gerçeklik algısına etkisini kültivasyon kuramı inceler. Gündem belirleme, medyanın hangi konuların önemli sayılacağını nasıl etkilediğine; suskunluk sarmalı, insanların azınlıkta kalma korkusuyla fikirlerini saklamasına; ritüel görüşü ise iletişimin paylaşma ve topluluk yanına bakar. Dördü de medyayla ilgili olduğu için kolayca karışır; ayırt edici olan sorunun konusudur: burada soru “dünya ne kadar tehlikeli görünüyor?”."
+      }
+    },
+    {
+      "id": "people-lineage",
+      "section": "people-time",
+      "layer": "core",
+      "kind": "text",
+      "title": "Kim, ne zaman: bu dersin durakları",
+      "body": "İletişimi düşünenlerin listesi uzun; bu derste karşılaşacağın adımları zaman sırasıyla toparlayalım:\n\n- **1948:** Claude Shannon, iletişimin mühendislik yanını matematikle ele alan makalesini yayımlar [[cite:shannon-1948]]; Warren Weaver bunu 1949’da yorumlar ve anlam sorunlarına doğru genişletir [[cite:weaver-1949]].\n- **1963:** Gerhard Maletzke, *Psychologie der Massenkommunikation* kitabında kitle iletişimini tanımlar ve modeller [[cite:maletzke-1963]].\n- **1967:** [[person:watzlawick|Paul Watzlawick]], Janet Beavin ve Don D. Jackson *Pragmatics of Human Communication* kitabında beş aksiyomu sunar [[cite:watzlawick-et-al-1967]].\n- **1970 ve 1976:** Frank Dance tanımları karşılaştırır; Dance ve Larson 126 tanımı listeler [[cite:dance-1970]] [[cite:dance-larson-1976]].\n- **1989:** [[person:carey|James W. Carey]], *Communication as Culture* kitabında aktarım ve ritüel görüşünü karşılaştırır [[cite:carey-1989]].\n- **2007:** Manuel Castells ağ toplumunda “kitlesel öziletişim”i tartışır [[cite:castells-2007]].\n- **2018:** Patrick O’Sullivan ve Caleb Carr “kitlekişisel iletişim” modelini sunar [[cite:osullivan-carr-2018]].\n\nBir uyarı: bunlar “iletişimin icadı”nın tarihi değil, bu dersin durakları. İletişim üzerine düşünmek çok daha eskiye gider; onu [[lesson:mass-media-history]] ve sonraki derslerde izleyeceğiz.\n\nZaman çizgisi bir eğilim de gösteriyor: 1940’larda mühendislik, 1960’larda psikoloji ve insan ilişkileri, 1980’lerin sonunda kültür, 2000’lerde ağ ve dijital ortam öne çıkıyor (bu genelleme bizim).",
+      "question": {
+        "id": "people-lineage-q",
+        "type": "order",
+        "prompt": "Bu dersin duraklarını tarihe göre sırala (eskiden yeniye).",
+        "items": [
+          "Shannon’ın iletişimin matematiksel kuramı makalesi (1948)",
+          "Maletzke’nin kitle iletişimi kitabı (1963)",
+          "Watzlawick, Beavin ve Jackson’ın beş aksiyomu (1967)",
+          "Dance ve Larson’ın 126 tanım listesi (1976)",
+          "Carey’nin *Communication as Culture* kitabı (1989)",
+          "Castells’in kitlesel öziletişim makalesi (2007)"
+        ],
+        "explain": "Sıra: 1948 Shannon, 1963 Maletzke, 1967 Watzlawick ve arkadaşları, 1976 Dance ve Larson, 1989 Carey, 2007 Castells. Bu sıra bir düşünce çizgisini de gösterir: önce mühendislik ve kitle iletişimi, sonra insan ilişkileri ve tanım tartışması, en sonda kültür ve dijital ağ. En sık yapılan hata, 1948’deki Shannon makalesi ile 1949’da Weaver’ın katkısıyla çıkan kitabı aynı yıla koymaktır."
+      }
+    },
+    {
+      "id": "claim-two-views",
+      "section": "claim",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Taşımak mı, paylaşmak mı?",
+      "body": "[[person:carey|James W. Carey]] iletişime iki ayrı gözle bakılabileceğini söyler ve bunlara “aktarım” ve “ritüel” görüşü adını verir [[cite:carey-1989]].\n\n**Aktarım görüşünde** iletişim, mesajların uzağa gönderilmesidir; amaç, sinyalleri ve iletileri bir yerden başka bir yere, denetim amacıyla taşımaktır [[cite:nastasia-rakow-2005]]. Bir kaynak, bir kanal, bir alıcı; iş, iletinin ulaşmasıdır. → [[concept:transmission-view]]\n\n**Ritüel görüşünde** iletişim, paylaşma, katılım, birliktelik ve ortak inançlara sahip olmaktır; odak bilgi vermek değil, paylaşılan inançların temsil edilmesidir [[cite:nastasia-rakow-2005]]. → [[concept:ritual-view]]\n\nCarey’nin en sevilen örneği gazete okumak. Ritüel görüşüne göre gazete okumak yeni bir şey öğrenmekten çok bir ayine katılmaya benzer: yeni bir şey öğrenilmez, ama belli bir dünya görüşü sahnelenir ve onaylanır [[cite:ebsco-ritual-view]].\n\n**Küçük bir deney (varsayımsal).** Kendine sor: en son ne zaman, zaten bildiğin bir haberi yine de baştan sona okudun ya da izledin? Ne için? Bilgi için mi, yoksa “dünya yerli yerinde” duygusu için mi? İkincisi biraz olsun varsa, ritüel görüşünün küçük bir kırıntısıyla karşılaştın demektir.\n\nİki görüş birbirinin yerine geçmez; aynı olayda farklı şeyleri aydınlatır. Ayrıntısı [[lesson:ritual-view]] dersinde.",
+      "question": {
+        "id": "claim-two-views-q",
+        "type": "mcq",
+        "prompt": "Bir kişi her sabah, dünkü haberleri zaten bildiği hâlde aynı gazeteyi baştan sona okuyor ve “okumazsam günüm eksik kalıyor” diyor. Carey’nin iki görüşünden hangisi bu davranışı daha iyi açıklar?",
+        "options": [
+          "Aktarım görüşü: kişi yeni bilgi edinmek istiyor.",
+          "Ritüel görüşü: okuma, bir dünya görüşünün sahnelenip onaylandığı bir ayine benziyor.",
+          "Hiçbiri; okumak iletişim sayılmaz.",
+          "İki görüş de aynı şeyi söylüyor; fark yok."
+        ],
+        "answer": 1,
+        "explain": "Ritüel görüşüne göre gazete okumak yeni bilgi edinmekten çok bir ayine katılmaya benzer: yeni bir şey öğrenilmez ama belli bir dünya görüşü onaylanır. Aktarım görüşü bilginin kaynaktan alıcıya taşınmasını sorar; oysa bu kişi zaten bildiği haberleri okuyor. Bu, aktarım görüşünün yanlış olduğu anlamına gelmez, yalnızca bu davranışın en görünür yanını yakalayamaz."
+      }
+    },
+    {
+      "id": "claim-working",
+      "section": "claim",
+      "layer": "core",
+      "kind": "text",
+      "title": "Bu ders için çalışma tanımımız",
+      "body": "Tek bir tanıma karar verecek değiliz; ama bir çalışma tanımına ihtiyacımız var, yoksa nerede duracağımızı bilemeyiz. İşte bizimki (bir kitaptan alınmadı; bilinçli bir tercih):\n\n> İletişim, insanların simgeler aracılığıyla anlam kurmaya ya da paylaşmaya çalıştığı, bağlama bağlı bir süreçtir.\n\nHer sözcük bir tercih:\n\n- **Simgeler:** sözcük, jest, görüntü, ses tonu; yalnızca dil değil.\n- **Anlam:** taşınan şey ileti değil, yorumlanan anlam.\n- **Çalıştığı:** başarı garanti değil; yanlış anlaşılma iletişimin dışında değil, içindedir.\n- **Süreç:** tek seferlik bir olay değil, karşılıklı ve sürekli bir akış.\n- **Bağlam:** aynı cümle başka yerde başka şey söyler.\n\nDance’in üç ayrımına göre konumumuz şu: orta genişlikte bir kapsam; niyeti şart koşmayan ama niyetli olanı da dışlamayan bir tutum; ve başarıyı tanımın içine katmayan bir yaklaşım [[cite:littlejohn-foss-2008]]. Bu tanım, kitle iletişimi gibi kurumsal ve araçlı iletişimi de içine alır.\n\nBilerek açık bıraktığımız bir yer var: niyet. Watzlawick’in iddiası (iletişim kurmamak olanaksızdır) bu kapıdan geçilerek tartışılacak. Eğer iletişimi “başkasının yorumlayabildiği davranış” diye okursan iddia doğrudur; “kasıtlı mesaj” diye okursan tartışmalıdır.",
+      "question": {
+        "id": "claim-working-q",
+        "type": "tf",
+        "prompt": "Doğru mu yanlış mı: Çalışma tanımımıza göre iletişim, ancak alıcı iletiyi ileticinin amaçladığı biçimde anladığında gerçekleşir.",
+        "answer": false,
+        "explain": "Yanlış. Tanımımız “çalışır” diyerek başarıyı garanti etmez; yanlış anlaşılma iletişimin dışında değil içindedir. Dance’in ayrımlarıyla söylersek, başarı ölçütünü tanıma katmıyoruz. “Doğru” cevabı cazip kılan şey, gündelik dilde “iletişim kurdum” demenin çoğu zaman “anlaştık” demek olması; oysa bu gündelik kullanım tanımın kendisi değil."
+      }
+    },
+    {
+      "id": "deep-dance",
+      "section": "claim",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Dance’in üç eksenli haritası",
+      "body": "Frank Dance’in 1970 tarihli makalesinin özeti şöyle: tanımlardan 15 ana tema çıkar ve bunların üçünde tanımlar “eleştirel biçimde” ayrılır [[cite:dance-1970]]. Littlejohn ve Foss bu üç ayrımı gözlem düzeyi (soyutluk), niyet ve değer yargısı olarak sunar ve her biri için bir tanım örneği verir [[cite:littlejohn-foss-2008]]:\n\n- **Gözlem düzeyi:** Çok geniş bir tanım (canlı dünyanın kopuk parçalarını birbirine bağlayan süreç) ile çok dar bir sözlük tanımı (bir donanmada telefon ve telgrafla bilgi ve emir iletme sistemi) arasındaki fark.\n- **Niyet:** Bir tanım, kaynağın alıcının davranışını etkilemek için bilinçli olarak mesaj gönderdiği durumları sayar; bir başkası, bir kişinin tekelindekini birkaç kişiye ortak kılan süreci anlatır ve niyet aramaz.\n- **Değer yargısı:** “Sözlü düşünce alışverişi” tanımı alışverişin başarıyla gerçekleştiğini varsayar; “bilginin iletilmesi” tanımı ise iletilen bilginin anlaşılıp anlaşılmadığını sormaz.\n\nNastasia ve Rakow, Dance ve Larson’ın 126 tanımından 44’ünün “süreç” sözcüğünü içerdiğini, birçoğunun da akış, aktarma, iletim ya da alışveriş gibi kavramlara başvurduğunu yazar [[cite:nastasia-rakow-2005]]. Onlara göre alandaki baskın eğilim, iletişimi bir süreç olarak modellemektir."
+    },
+    {
+      "id": "concepts-levels",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Beş katman: kendinle konuşmaktan ekrana",
+      "body": "İletişim, kimin kiminle konuştuğuna göre katmanlara ayrılır. Türkçe kaynaklarda sık görülen sıralama, küçükten büyüğe şöyledir [[cite:tubitak-iletisim-2022]]:\n\n1. **Kişi içi (iç) iletişim:** kendi kendine, zihninde. Sınavdan önce “yapabilirim” demek.\n2. **Kişilerarası (bireyler arası) iletişim:** iki kişi arasında. Arkadaşınla baş başa mesajlaşmak.\n3. **Grup içi iletişim:** küçük bir topluluğun içinde. Bir proje ekibinin toplantısı.\n4. **Örgütsel iletişim:** bir kurumun kendi içinde ve dışıyla yürüttüğü iletişim. Bir şirketin çalışanlara yaptığı duyuru.\n5. **Kitle iletişimi:** kitle iletişim araçlarıyla geniş, dağınık bir izleyici kitlesine. Akşam haber bülteni.\n\nListeler kitaba göre değişir. Bir açık ders kitabının beşli listesinde örgütsel iletişim yoktur; onun yerine tek kişinin bir gruba konuştuğu “kamusal iletişim” ayrı bir katman olarak sayılır [[cite:lardbucket-communication-in-context]]. Yani “beş” bir doğa yasası değil, bir sınıflandırma tercihi.\n\nKatmanlar birbirini dışlamaz da. Bir toplantıda hem grup içi iletişim (ekip konuşuyor), hem kişilerarası iletişim (yanındakine fısıldıyorsun), hem de kişi içi iletişim (“yemek ne zaman?”) aynı anda yürür. Dinleyicinin kafasındaki iç konuşma, ön taraftaki konuşmacının dikkat çekme çabasına karışan bir gürültüdür (bu yorum bizim).",
+      "question": {
+        "id": "concepts-levels-q",
+        "type": "match",
+        "prompt": "Her sahneyi iletişim katmanıyla eşleştir.",
+        "pairs": [
+          [
+            "Sınavdan önce içinden “yapabilirim” demek",
+            "Kişi içi iletişim"
+          ],
+          [
+            "İki arkadaşın baş başa mesajlaşması",
+            "Kişilerarası iletişim"
+          ],
+          [
+            "Beş kişilik bir proje ekibinin toplantısı",
+            "Grup içi iletişim"
+          ],
+          [
+            "Bir şirketin tüm çalışanlarına gönderdiği yönetmelik duyurusu",
+            "Örgütsel iletişim"
+          ],
+          [
+            "Ulusal bir kanalda yayımlanan akşam haberleri",
+            "Kitle iletişimi"
+          ]
+        ],
+        "explain": "Ölçüt, kimin kiminle ve hangi ölçekte konuştuğudur. En cazip karışıklık, şirket duyurusunu kitle iletişimi saymaktır: duyuru çok kişiye ulaşır ama alıcılar sınırlı ve tek tek bellidir (çalışanlar) ve mesaj kurumun içinde dolaşır; bu yüzden örgütsel iletişimdir. Beş kişilik ekip ise kişilerarası değil, grup içi iletişimdir, çünkü ikiden fazla kişi vardır."
+      }
+    },
+    {
+      "id": "concepts-elements",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Bir iletişim olayının parçaları",
+      "body": "Bir iletişim olayını parçalarına ayırmak istersen, Türkçe kaynaklarda yaygın olan liste şudur [[cite:tubitak-iletisim-2022]]:\n\n- **Kaynak:** ileti gönderen kişi ya da kurum.\n- **İleti (mesaj):** gönderilen şey.\n- **Hedef (alıcı, hedef kitle):** iletiyi alan taraf.\n- **Kanal:** ses dalgası, kâğıt, ekran, radyo dalgası.\n- **Kod:** iletiyi taşıyan simgeler ve kurallar; kaynak kodlar, alıcı kodu açar.\n- **Geri bildirim:** alıcının tepkisinin kaynağa dönmesi.\n- **Gürültü:** iletiyi bozan her şey.\n- **Referans çerçevesi:** tarafların deneyiminden, bilgisinden ve kültüründen oluşan bakış.\n\n“Gürültü” sözcüğüne dikkat. Shannon’ın mühendislik çizimindeki gürültü, hattı bozan fiziksel karışmadır [[cite:shannon-1948]]. Weaver ise şemaya “anlamsal gürültü” kutusu eklemeyi düşünür: kaynağın istemediği ama hedefi kaçınılmaz biçimde etkileyen anlam çarpıtmaları [[cite:weaver-1949]]. Yani “hat cızırtılı” ile “sen ‘tamam’ dedin ama ne demek istedin?” farklı türde gürültüler.\n\nBu liste bir harita, arazinin kendisi değil: kutular ve oklar, insanların karşılıklı iletişimindeki akışkanlığı tam yakalamaz. Ama nerede takıldığını konuşmak için işe yarar bir sözlük.\n\nBir alıştırma: dün yaptığın bir mesajlaşmayı bu sekiz kutuya yerleştirmeyi dene. Hangi kutuyu boş bıraktığını fark edeceksin; çoğu zaman bu, referans çerçevesidir.",
+      "question": {
+        "id": "concepts-elements-q",
+        "type": "mcq",
+        "prompt": "Ozan, kalabalık bir peronda arkadaşına sesli mesaj gönderiyor; arkadaşı kayıtta peron anonslarını duyup mesajın yarısını anlayamıyor. Şemadaki hangi öge en doğrudan sorumludur?",
+        "options": [
+          "Kod: Ozan yanlış dil kullandı.",
+          "Gürültü: kanaldaki karışma iletiyi bozdu.",
+          "Geri bildirim: arkadaşı yanıt vermedi.",
+          "Hedef kitle: arkadaşı yanlış kişiydi."
+        ],
+        "answer": 1,
+        "explain": "Kayıttaki anonslar, kanalda iletiyi bozan bir karışmadır; bu, en doğrudan gürültüdür. İlk şık cazip olabilir, çünkü “anlayamamak” çoğu zaman kod meselesi sanılır; ama burada ikisi de aynı dili konuşuyor. Ozan’ın sözleri anlamsal olarak belirsiz olsaydı, o zaman anlamsal gürültüden söz edebilirdik. Geri bildirim, alıcının cevabını anlatır; sorun ise cevaptan önce, iletinin kendisinde başlamıştır."
+      }
+    },
+    {
+      "id": "concepts-nonverbal",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "text",
+      "title": "Sözcüklerin dışında kalan her şey",
+      "body": "Sözlü iletişim sözcüklerle, sözsüz iletişim onun dışındaki her şeyle yürür: yüz ifadesi, el kol hareketi, duruş, bakış, ses tonu, hatta iki kişinin birbirine ne kadar yakın durduğu. Beden hareketlerinin incelenmesine kinesik denir; terimi antropolog Ray Birdwhistell 1952’de ortaya attı [[cite:padula-2009]]. → [[concept:nonverbal-communication]]\n\nPaul Ekman ve Wallace Friesen 1969’da sözsüz davranışları beş gruba ayırdı [[cite:ekman-friesen-1969]] [[cite:padula-2009]]:\n\n- **Duygu ifadeleri:** çoğunlukla yüzde ortaya çıkar, duyguları kendiliğinden yansıtır.\n- **Düzenleyiciler:** konuşmanın akışını yönetir; onay için baş sallamak gibi.\n- **Uyum sağlayıcılar:** gerginlikle başa çıkmaya yarar; kalemi çevirmek, tırnak yemek gibi.\n- **Açıklayıcılar:** sözü görsel olarak destekler; elle bir şeyin boyutunu göstermek gibi.\n- **Simgesel hareketler:** doğrudan söz karşılığı olan hareketler; “tamam” işareti gibi.\n\nBir ayrıntı: uyum sağlayıcılar gibi bazı davranışlar mesaj göndermek için yapılmaz; ama ilk aksiyomu hatırla, karşındaki yine de onları okuyabilir. Sınavdan önce durmadan kalem çeviren biri “ben gerginim” demeyi düşünmemiştir, ama herkes bunu okur.\n\nVe bir uyarı: sözsüz iletişim önemlidir, ama “iletişimin yüzde 93’ü beden dilidir” sözü tehlikeli bir şeydir. Onu kanıt bölümünde parçalayacağız.",
+      "question": {
+        "id": "concepts-nonverbal-q",
+        "type": "mcq",
+        "prompt": "Sınav salonunda bekleyen bir öğrenci durmadan kalemini parmaklarının arasında çeviriyor. Ekman ve Friesen’in gruplarından hangisi bu davranışı en iyi tanımlar?",
+        "options": [
+          "Simgesel hareket: doğrudan bir söz karşılığı var.",
+          "Açıklayıcı: söylenen şeyi görsel olarak destekliyor.",
+          "Uyum sağlayıcı: gerginlikle başa çıkmaya yarıyor.",
+          "Düzenleyici: konuşmanın sırasını yönetiyor."
+        ],
+        "answer": 2,
+        "explain": "Kalemle oynamak, uyum sağlayıcıların örneğidir: gerginlik ya da stresi yönetmeye yarar. Simgesel hareketlerin doğrudan bir söz karşılığı vardır (“tamam” işareti gibi); kalem çevirmenin yoktur. Açıklayıcılar konuşmaya eşlik eder; burada konuşma bile yok. Düzenleyiciler iki kişi arasındaki söz sırasını yönetir. İlginç yan: öğrenci mesaj göndermeyi amaçlamıyor, ama gözetmen bunu okuyabilir; bu, ilk aksiyomun kendi hayatından bir örneği."
+      }
+    },
+    {
+      "id": "deep-ekman",
+      "section": "concepts",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Beden dilinin envanteri",
+      "body": "Kinesik üzerine yazan Padula’ya göre Ekman ve Friesen 1969’da vurguyu jest ve yüz ifadesinin psikolojik temeline kaydırdı [[cite:padula-2009]]. Beş grubun ayrıntıları:\n\n- **Uyum sağlayıcılar** üçe ayrılır: nesne uyum sağlayıcıları (kalemle oynamak), başkasına dokunma yoluyla olanlar ve kendine yönelik olanlar (tırnak yemek, gözü ovuşturmak).\n- **Açıklayıcılar** alt türlere ayrılır: vurgu için kullanılanlar, şeklini taklit edenler, bedensel bir eylemi taklit edenler, düşüncenin gidişini gösterenler, işaret edenler ve mekânsal ilişkileri gösterenler. Ekman 1999’da ritmik hareketleri de bu gruba ekledi.\n- **Simgesel hareketlerin** doğrudan bir söz karşılığı vardır; “tamam” işareti ve zafer işareti örneklerdir. Bir hareketin ortak bir anlam kazanması için toplumca yerleşmiş olması, yani geleneksel hâle gelmesi gerekir [[cite:padula-2009]].\n\nSözsüz davranışlar, anlamlarını bağlamdan ve kültürden alır: aynı el hareketi bir yerde “tamam”, başka bir yerde hakaret olabilir (bu genel bir gözlemdir; bu kartta belgeye dayanan bir örnek vermiyoruz). Bu yüzden Watzlawick’in dördüncü aksiyomundaki “analojik” iletişimin çözümlenmesi, sözcük çözümlemesinden daha kaygan bir zemindir."
+    },
+    {
+      "id": "concepts-mass",
+      "section": "concepts",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Kitle iletişimini “kitle” yapan ne?",
+      "body": "“Milyonlarca kişiye ulaştım” demek seni tek başına kitle iletişimcisi yapmaz. Gerhard Maletzke’nin sık anılan tanımı beş şart sıralar [[cite:maletzke-1963]] [[cite:wikipedia-de-massenkommunikation]] [[cite:ioni-pstae-2017]]. → [[concept:mass-communication]]\n\n1. **Herkese açık:** alıcılar sınırlı ve tek tek belli değil.\n2. **Teknik araçlarla:** basın, radyo, televizyon gibi yayım araçları.\n3. **Dolaylı:** iletici ile alıcı arasında mekân ya da zaman uzaklığı var.\n4. **Tek yönlü:** iletici ile alıcı rol değiştirmiyor.\n5. **Dağınık izleyici kitlesi:** alıcılar mekân bakımından dağınık.\n\nBunlara iki şey daha bağlanabilir. Birincisi kurum: Maletzke’ye göre kitle iletişimi, kurumsallaşmış ve meslekî bir aracı yapıdan geçer [[cite:ioni-pstae-2017]]; neyin habere gireceği orada seçilir, buna [[concept:gatekeeping|kapı bekçiliği]] denir. İkincisi geri bildirim: alıcının tepkisi ileticiye doğrudan dönmez; Maletzke’nin zayıf geri bildirim örneği okur mektuplarıdır [[cite:ioni-pstae-2017]]. (Satış rakamları ya da izlenme ölçümleri gibi dolaylı ve gecikmeli dönütler de aynı ailedendir; bu bizim örneğimiz.)\n\nBu ölçütlerin hepsi kusursuz değil; sosyal medya çağında bir kısmı bulanıklaşıyor. Bunu “bugün” kartında göreceğiz.\n\nÖlçütleri bir kontrol listesi gibi değil, bir yelpaze gibi düşün: bazı durumlar beş şartın tamamını, bazıları yalnızca birkaçını karşılar.",
+      "question": {
+        "id": "concepts-mass-q",
+        "type": "mcq",
+        "prompt": "Aşağıdaki durumlardan hangisi Maletzke’nin ölçütleriyle en çok kitle iletişimine uyar?",
+        "options": [
+          "Bir şirketin 400 çalışanına gönderdiği iç duyuru e-postası",
+          "Ulusal bir kanalda akşam haberleri bülteninin yayımlanması",
+          "Sınıf öğretmeninin sınav tarihini öğrencilere sözle duyurması",
+          "İki arkadaşın telefonda görüntülü konuşması"
+        ],
+        "answer": 1,
+        "explain": "Haber bülteni; teknik araçla, herkese açık, dolaylı ve tek yönlü olarak, dağınık bir izleyici kitlesine ulaşır ve kurumsal bir yapıdan geçer. İç duyuru e-postası cazip bir çeldiricidir: kurumsaldır ve çok kişiye ulaşır, ama alıcılar sınırlı ve tek tek bellidir; yani herkese açık değildir ve örgütsel iletişim sayılır. Sınıf duyurusu doğrudan ve yüz yüzedir. Görüntülü konuşma araçlıdır ama karşılıklıdır; rol değişimi vardır."
+      }
+    },
+    {
+      "id": "assump-axioms-a",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "text",
+      "title": "Watzlawick’in ilk iki aksiyomu",
+      "body": "Watzlawick, Beavin ve Jackson’ın beş aksiyomu, insanlar arasındaki iletişime bakışın temel varsayımları gibi okunabilir. (Aşağıda aksiyomları kendi cümlelerimizle özetliyoruz; verilen sayfa numaraları, Lutterer’in kitaptan aktardığı yerlerdir [[cite:lutterer-2007]].)\n\n**1. İletişim kurmamak olanaksızdır** (s. 51). Etkileşim içindeki her davranışın bir mesaj değeri vardır; “davranmamak” diye bir şey yoktur. Susan da bir şey söylemiş olur.\n\n**2. Her iletişimin bir içerik, bir ilişki boyutu vardır; ilişki boyutu içeriği sınıflandırır ve bu yüzden bir üstiletişimdir** (s. 54). “Raporu bugün istiyorum” cümlesi aynı içeriği taşır; ama kimin, kime, nasıl söylediği bunun rica mı emir mi olduğunu belirler. → [[concept:metacommunication]]\n\n**Hayal et:** Bir arkadaşın sana yalnızca “Tamam.” yazıyor. Bir gün bu “kabul ediyorum” demektir, başka bir gün “artık konuşmak istemiyorum”. İçerik aynı; ilişki mesajı farklı. Yazılı mesajda ses tonu da yüz de yoktur; insanlar noktalamayı, emojiyi ve cevap gecikmesini ipucu olarak kullanır (bu yorum bizim).\n\nNeden “aksiyom”? Bu ad, beş önermenin ispat gerektirmeyen başlangıç noktaları gibi sunulduğunu düşündürür; Lutterer bu adlandırmanın yerindeliğini sorgular ve matematikteki aksiyomların birbirinden bağımsız olduğunu hatırlatır [[cite:lutterer-2007]]. Eleştiri bölümünde bu tartışmaya döneceğiz.",
+      "question": {
+        "id": "assump-axioms-a-q",
+        "type": "mcq",
+        "prompt": "Bir yönetici iki ayrı günde aynı cümleyi kuruyor: “Raporu bugün istiyorum.” İlkinde gülümseyerek, ikincisinde sert bir bakışla söylüyor. Hangi aksiyom bu farkı en iyi açıklar?",
+        "options": [
+          "Birinci aksiyom: iletişim kurmamak olanaksızdır.",
+          "İkinci aksiyom: ilişki boyutu, içerik boyutunu sınıflandırır.",
+          "Üçüncü aksiyom: ilişki, iletişim dizisinin noktalanışına bağlıdır.",
+          "Beşinci aksiyom: alışveriş ya simetriktir ya tamamlayıcıdır."
+        ],
+        "answer": 1,
+        "explain": "İçerik iki gün de aynıdır; değişen, ilişki boyutudur (rica mı, emir mi). İkinci aksiyom tam olarak bunu söyler. Birinci aksiyom da doğrudur ama farkı açıklamaz; o yalnızca hiçbir davranışın mesajsız olmadığını söyler. Beşinci şık cazip olabilir, çünkü emir ilişkisi tamamlayıcı gibi görünür; ama sorulan şey, aynı sözlerin farklı ilişki mesajı taşımasıdır."
+      }
+    },
+    {
+      "id": "assump-axioms-b",
+      "section": "assumptions",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Üç aksiyom daha: noktalama, iki dil, iki ilişki türü",
+      "body": "**3. Noktalama** (s. 59). Bir ilişkinin niteliği, tarafların iletişim dizisini nasıl “noktaladığına”, yani olay zincirinin başlangıcını nereye koyduğuna bağlıdır. Varsayımsal örnek: biri “Sen hep geç kalıyorsun, o yüzden söyleniyorum” der; öteki “Sen hep söylendiğin için geç geliyorum”. Aynı döngüyü farklı yerinden kesiyorlar. Lutterer, kitaptaki örneği şöyle özetler: kavgayı kim başlattı? Her zaman öteki taraf [[cite:lutterer-2007]].\n\n**4. Sayısal ve analojik iletişim** (s. 66–67). İnsanlar hem sayısal hem analojik iletişim kurar. Sayısal dilin (çoğunlukla sözcükler) mantıksal sözdizimi güçlüdür ama ilişki alanında anlamı yetersizdir; analojik dil (jest, ses tonu, yüz) anlamı taşır ama ilişkiyi açık seçik tanımlayacak bir sözdiziminden yoksundur [[cite:lutterer-2007]]. → [[concept:nonverbal-communication]]\n\n**5. Simetrik ve tamamlayıcı** (s. 70). Her iletişim alışverişi eşitliğe ya da farka dayanır. Simetrik ilişki eşitliğe dayanır (iki rakibin birbirini aynalaması gibi); tamamlayıcı ilişki farka dayanır (yönlendiren ile uyan gibi) [[cite:lutterer-2007]].\n\nHepsini bir arada düşün: bir ilişkide söylenenin içeriği, söylenme biçimi, döngünün nerede kesildiği ve tarafların eşit mi farklı mı konumlandığı birlikte çalışır. Bu yüzden bir tartışmayı “kim haklı?” diye değil, “döngü nasıl işliyor?” diye okumak çoğu zaman daha verimlidir (yorum bizim).",
+      "question": {
+        "id": "assump-axioms-b-q",
+        "type": "mcq",
+        "prompt": "İki kardeşten biri bir başarısıyla övündüğünde ötekisi hemen daha büyük bir başarısını anlatıyor; sonra ilki bir öncekini geçmeye çalışıyor. Bu alışveriş beşinci aksiyomun hangi türüne girer?",
+        "options": [
+          "Simetrik: taraflar eşitlik temelinde birbirini aynalıyor.",
+          "Tamamlayıcı: biri yönlendiriyor, öteki uyuyor.",
+          "Analojik: iletişim yalnızca beden diliyle yürüyor.",
+          "Noktalama: kimin başlattığı konusunda anlaşamıyorlar."
+        ],
+        "answer": 0,
+        "explain": "Taraflar birbirinin davranışını aynalayıp eşitlik temelinde yarışıyor; bu simetrik bir alışveriştir. Tamamlayıcı ilişkide farklar birbirini tamamlar (biri yönlendirir, öteki uyar). Analojik ve sayısal ayrımı iletişimin biçimiyle ilgilidir, ilişkinin türüyle değil. Noktalama şıkkı da yakışır gibi görünür, çünkü bu tür yarışlar kimin başlattığı tartışmasına döner; ama soruda tartışılan şey ilişkinin yapısıdır. Simetrik olmak kötü demek değildir: eşit taraflar arasında da olabilir."
+      }
+    },
+    {
+      "id": "how-cycle",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "steps",
+      "title": "Bir iletinin yolculuğu",
+      "body": "Basit bir iletişim döngüsünü adım adım izleyelim. Çoğu ders kitabındaki şemanın iskeleti budur; kökeni büyük ölçüde Shannon’ın mühendislik çizimidir: bir bilgi kaynağı, bir verici, bir kanal, bir alıcı, bir hedef ve bir gürültü kaynağı [[cite:shannon-1948]].\n\n1. **Kaynağın zihninde bir şey var:** bir fikir, duygu, istek.\n2. **Kodlama:** kaynak bunu simgelere çevirir: sözcükler, ses tonu, emoji.\n3. **Kanaldan geçiş:** simgeler havadan, ekrandan ya da kâğıttan geçer.\n4. **Gürültü:** kanalda ya da yorumda bir şey iletiyi bozabilir.\n5. **Kod açma:** alıcı simgeleri kendi deneyimi ve referans çerçevesiyle yorumlar [[cite:tubitak-iletisim-2022]].\n6. **Geri bildirim:** alıcı bir şey söyler ya da yapar; bu kaynağa döner ve roller değişebilir.\n\nŞemanın gücü, iletişimin nerede bozulabileceğini göstermesidir. Zayıflığı ise anlamı, paketin içinde taşınan bir nesne gibi göstermesi. Bu tuzağı eleştiri bölümünde açacağız.\n\nKüçük bir uygulama (varsayımsal): arkadaşına “Akşam ne yapıyoruz?” diye yazdın ve cevap gelmedi. Kaynak sensin, kanal telefon; ama sorun kod açmada mı (mesaj okunmadı), gürültüde mi (bildirim kayboldu), yoksa geri bildirimde mi (cevap vermemeyi seçti)? Şema sana üç ayrı soru sordurur; hangisinin doğru olduğunu ise şema söylemez.",
+      "question": {
+        "id": "how-cycle-q",
+        "type": "order",
+        "prompt": "Bir iletişim döngüsünün adımlarını doğru sıraya diz.",
+        "items": [
+          "Kaynak, aklındakini simgelere çevirir (kodlama)",
+          "Simgeler kanaldan geçer; gürültü iletiyi bozabilir",
+          "Alıcı, simgeleri kendi referans çerçevesiyle yorumlar (kod açma)",
+          "Alıcı bir şey söyler ya da yapar (tepki)",
+          "Tepki kaynağa döner (geri bildirim)"
+        ],
+        "explain": "Döngü kodlamayla başlar, kanaldan geçer, kod açmayla alıcıda anlam kazanır, tepkiyle devam eder ve geri bildirimle kaynağa döner. Bu sırayı ezberlemekten çok, her adımda neyin ters gidebileceğini düşün: yanlış kodlama, kanalda gürültü, farklı referans çerçevesi, gecikmiş ya da hiç gelmeyen geri bildirim. Sınavda en sık yapılan hata geri bildirimi döngünün ortasına koymaktır."
+      }
+    },
+    {
+      "id": "how-compare",
+      "section": "how-it-works",
+      "layer": "core",
+      "kind": "lab",
+      "title": "Aynı cümle, iki sahne",
+      "body": "Düşünce deneyi (varsayımsal): “Yarın yağmur yağacak” cümlesini önce yan masadaki arkadaşından, sonra bir hava durumu sunucusunun ağzından duyuyorsun. Aynı cümle, iki tamamen farklı iletişim.\n\nMaletzke’nin karşılaştırmasına göre yüz yüze iletişim doğrudan, kişisel, karşılıklı, simetrik ve özeldir; kitle iletişimi ise dolaylı, teknikle aracılanmış, asimetrik, kamusal ve mekân ile zaman bakımından dağınık bir izleyiciye yöneliktir [[cite:ioni-pstae-2017]].\n\nKendi başına dene ve iki sahneyi şu sorulara göre karşılaştır:\n\n- **Kim geri konuşabilir?** Arkadaşına “nereden biliyorsun?” diyebilirsin. Sunucu seni duymaz.\n- **Cevap ne kadar sürede gelir?** Arkadaşından anında. Sunucudan hiçbir zaman; yalnızca kanalı değiştirmek gibi dolaylı ve sonradan ölçülen tepkiler var.\n- **Mesajı kim seçti?** Arkadaşın anlık olarak seçti. Sunucunun cümlesi bir kurumda önceden hazırlandı.\n- **Kim dinliyor?** Arkadaşın seni tanıyor. Sunucu, kim olduğunu bilmediği kalabalığa konuşuyor.\n\nBu listenin ilk iki maddesi, kitle iletişiminin en sık anılan özelliklerinden birinin, geri bildirimin gecikmesinin gündelik hâlidir. Bazı kitle iletişim araçlarında geri bildirim tümüyle yok gibidir; Maletzke’nin okur mektupları örneği, bu yolun ne kadar dar olduğunu gösterir [[cite:ioni-pstae-2017]].",
+      "question": {
+        "id": "how-compare-q",
+        "type": "mcq",
+        "prompt": "Bir gazetenin köşe yazarı, yazısına okurların tepkisini genellikle nasıl öğrenir?",
+        "options": [
+          "Okurların yüz ifadelerinden, yazıyı okudukları anda.",
+          "Okur mektupları, satış ve okunma rakamları gibi dolaylı ve gecikmeli yollarla.",
+          "Doğrudan ve anında; çünkü gazete iki yönlü bir iletişim aracıdır.",
+          "Hiçbir yolla; kitle iletişiminde tepki kesinlikle ölçülemez."
+        ],
+        "answer": 1,
+        "explain": "Kitle iletişiminde geri bildirim doğrudan değildir; Maletzke, okur mektuplarını zayıf geri bildirimin örneği olarak anar, satış ve okunma verileri de aynı ailedendir (bu ikincisi bizim örneğimiz). Yüz ifadeleri, yüz yüze iletişime özgü ipuçlarıdır. Son şık uçta: tepki ölçülemez değil, gecikmeli ve dolaylıdır. Üçüncü şık ise kitle iletişiminin tek yönlülük ölçütüyle çelişir."
+      }
+    },
+    {
+      "id": "deep-shannon",
+      "section": "how-it-works",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Shannon’ın mühendisliği, Weaver’ın üç düzeyi",
+      "body": "Shannon makalesinde iletişimin temel sorununu, bir noktada seçilmiş bir iletiyi başka bir noktada tam ya da yaklaşık olarak yeniden üretmek diye koyar [[cite:shannon-1948]]. Ardından şunu ekler: iletilerin çoğu zaman bir anlamı vardır, ama bu anlamsal yanlar mühendislik sorunu için ilgisizdir [[cite:shannon-1948]]. Yani çizimdeki “ileti”, anlamdan arındırılmış bir seçimdir.\n\nWarren Weaver 1949’da bu sınırı açıkça çizdi. İletişim sorunlarını üç düzeye ayırdı [[cite:weaver-1949]]:\n\n- **A düzeyi (teknik sorun):** İletişim simgeleri ne kadar doğru aktarılabilir?\n- **B düzeyi (anlamsal sorun):** Aktarılan simgeler istenen anlamı ne kadar tam taşır?\n- **C düzeyi (etkililik sorunu):** Alınan anlam, davranışı istenen yönde ne kadar etkiler?\n\nWeaver ayrıca iletişim sözcüğünü çok geniş bir anlamda, “bir zihnin bir başkasını etkileyebileceği bütün yollar” için kullanacağını (özgün İngilizce ifadenin çevirisi), bunun yazılı ve sözlü konuşmanın yanı sıra müziği, resim sanatlarını, tiyatroyu ve hatta bütün insan davranışlarını kapsadığını yazar [[cite:weaver-1949]]. Bu, Watzlawick’in “iletişim kurmamak olanaksızdır” sözüne şaşırtıcı biçimde yakın bir çerçevedir (yorum bizim).\n\nBu üç düzey, ileriki dersin ([[lesson:lasswell-shannon-weaver]]) ana çerçevesidir; burada yalnızca şunu not et: bir ölçüm sorunu ile bir anlam sorunu aynı şey değildir."
+    },
+    {
+      "id": "evid-mehrabian",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "myth",
+      "title": "“İletişimin yüzde 93’ü beden dilidir” masalı",
+      "body": "**Sanılan:** Bir mesajın yüzde 7’si sözcük, yüzde 38’i ses tonu, yüzde 55’i yüz ifadesidir; yani konuşurken sözcükler neredeyse önemsizdir.\n\n**Kanıtın söylediği:** Bu rakamlar Albert Mehrabian’ın 1967’deki iki küçük çalışmasından türedi [[cite:mehrabian-wiener-1967]] [[cite:mehrabian-ferris-1967]]. David Lapakko’nun incelemesine göre rakamlar iki ayrı çalışmadan çıkarılmıştı ve hiçbirinde sözcükler, ses ve yüz aynı anda karşılaştırılmadı. Mehrabian ve Ferris çalışmasının katılımcıları 37 kadın psikoloji öğrencisiydi ve dil öğesi tek bir sözcükten, “maybe”den ibaretti; dilin rolü deneyin tasarımı gereği büyük ölçüde önemsiz kalmıştı [[cite:lapakko-2007]].\n\nMehrabian’ın kendi sayfasındaki uyarı da açık: bu denklemler, ancak biri duygularından ya da tutumlarından söz ediyorsa uygulanabilir [[cite:mehrabian-silent-messages-page]]. Lapakko’nun aktardığına göre Mehrabian ona yazdığı bir yazışmada, çekmecedeki silginin yerini tarif eden bir cümlenin yalnızca yüzde 7’sinin sözel olduğunu ileri sürmenin saçma olacağını yazmış [[cite:lapakko-2007]].\n\n**Sonuç:** Beden dili önemli; ama “yüzde 93”, bir deneyin dar bulgusunun popüler kültürde sahte kesinliğe dönüşmüş hâli. Bir yerde bu rakamı görürsen ilk sorun şu olsun: hangi mesaj türü için, hangi deneyle?",
+      "question": {
+        "id": "evid-mehrabian-q",
+        "type": "mcq",
+        "prompt": "Bir eğitmen sunumunda “Araştırmalar iletişimin yüzde 93’ünün sözsüz olduğunu kanıtladı” diyor. Bu iddiaya en yerinde itiraz hangisidir?",
+        "options": [
+          "Rakamlar yanlış hesaplanmış; doğrusu yüzde 70.",
+          "Rakamlar duygu ve tutum iletişimine dair iki küçük deneyden geliyor; genel iletişime uygulanamaz.",
+          "Sözsüz iletişim diye bir şey yoktur.",
+          "Deney yalnızca çocuklarla yapılmıştır."
+        ],
+        "answer": 1,
+        "explain": "İtirazın gücü, rakamların kaynağının dar olmasından gelir: iki küçük deney, duygu ve tutum iletişimi, tek sözcüklük bir ipucu. Mehrabian’ın kendisi de denklemlerin duygu ya da tutumdan söz edilmiyorsa uygulanamayacağını yazar. İlk şık uydurma bir alternatif rakam önerir; sorun rakamın küçük bir farkla yanlış olması değil, genelleştirilemez olması. İkinci uçtaki “sözsüz iletişim yoktur” da yanlıştır: beden dili önemlidir, yalnızca bu formül dayanaksızdır."
+      }
+    },
+    {
+      "id": "deep-mehrabian",
+      "section": "evidence",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Bir masalın izini sürmek",
+      "body": "Lapakko masalın ne kadar yayıldığını da ölçtü. 5 Ocak 2007’de “communication 93 percent nonverbal” arama ifadesiyle 263 binden fazla sonuç buldu ve ilk yüzünü inceledi. Yedisi Mehrabian’a hiç değinmiyordu, sekizi yineleniyordu, altısına erişilemiyordu; geriye 79 site kalmıştı ve bunların yalnızca dördü rakamlara itiraz ediyor ya da onları sorguluyordu [[cite:lapakko-2007]]. Lapakko, formülün cazibesini, iletişimin karmaşık dünyasını temiz ve kesin bir rakama indirgemesine bağlar [[cite:lapakko-2007]].\n\nAkademik dünyadan iki eski itiraz da var. Burgoon (1985) bu tahminin hatalı bir çözümlemeye dayandığını yazdı; Hegstrom (1979) ise böyle bir formülün, kanalların göreli katkısı hakkında gerçekte bilinenden fazlasının bilindiği izlenimini verdiğini savundu. İkisi de Lapakko’nun aktarımıyla anılıyor [[cite:lapakko-2007]].\n\nMehrabian’ın kendi uyarısını özgün hâliyle bırakıyorum:\n\n> “Unless a communicator is talking about their feelings or attitudes, these equations are not applicable.”\n\n(Mehrabian’ın sayfasından; yani “iletişim kuran kişi duygu ya da tutumlarından söz etmiyorsa bu denklemler uygulanamaz.”) [[cite:mehrabian-silent-messages-page]]\n\nKüçük bir ders: bir bilgi sağlam görünüyorsa ve çok yayılmışsa, ilk kaynağına dönüp bakmaya değer."
+    },
+    {
+      "id": "evid-tappers",
+      "section": "evidence",
+      "layer": "core",
+      "kind": "story",
+      "title": "Parmak ucuyla şarkı tahmini",
+      "body": "Bir deney düşün: iki kişi bir masada karşılıklı oturuyor. Biri, herkesin bildiği bir şarkının ritmini parmağıyla masaya vuruyor; öteki hangi şarkı olduğunu bulmaya çalışıyor. Chip ve Dan Heath’in aktardığına göre bu deneyi 1990’da bir ABD üniversitesinde psikoloji doktorasını tamamlayan Elizabeth Newton yaptı [[cite:heath-heath-2007]]. Vuranlara 25 tanınmış şarkılık bir liste verildi; deney boyunca toplam 120 şarkı vuruldu.\n\nVuranlar, dinleyicilerin şarkıların yarısını bileceğini tahmin ediyordu. Gerçekte dinleyiciler 120 şarkının yalnızca üçünü, yani yüzde 2,5’ini bildi [[cite:heath-heath-2007]]. Yani vuranlar iletilerinin iki denemede bir ulaştığını sanıyordu; oysa kırk denemede bir ulaşıyordu.\n\nNeden? Vuran kişinin kafasında şarkı çalıyor: melodi, sözler, tempo. Dinleyici ise düzensiz vuruşlar duyuyor. Anlam kanaldan geçmedi; kaynakta kaldı. Bu, iletişimin “göndermek”ten fazlası olduğunu gösteriyor: alıcının, gelen simgelerden o şeyi yeniden kurabilmesi gerekir.\n\nDürüst bir not: bu sayılar bir doktora çalışmasından, popüler bir kitabın aktarımıyla geliyor; asıl tezi biz açmadık. Bu yüzden onu kesin bir yasa olarak değil, çarpıcı bir örnek olarak oku.",
+      "question": {
+        "id": "evid-tappers-q",
+        "type": "mcq",
+        "prompt": "Bir mühendis, projesini çok iyi bildiği için sunumda önemli adımları atlıyor ve dinleyiciler kayboluyor. Vuranlar–dinleyiciler deneyi bunu nasıl açıklar?",
+        "options": [
+          "Salonun akustiği kötü olduğu için kanalda gürültü var.",
+          "Kaynak, kendi bildiğini alıcının da bildiğini sanıyor; bağlam alıcıya geçmiyor.",
+          "Dinleyiciler geri bildirim vermediği için sunum bozuluyor.",
+          "Mühendis yanlış dili seçmiş; daha basit sözcükler yetecekti."
+        ],
+        "answer": 1,
+        "explain": "Deneyin öğrettiği şey, kaynağın kafasındaki bağlamın (melodinin) alıcıya geçmediğidir. Mühendis de projeyi bildiği için hangi adımın açık olduğunu yanlış tahmin ediyor; tıpkı vuranların dinleyicilerin yarısının bileceğini sanması gibi. Akustik şıkkı cazip, çünkü sorun bir anlatım kopukluğu; ama burada gürültü yok, bağlam eksikliği var. Dil ya da geri bildirim şıkları da sorunun kaynağını iletinin dışına taşıyor."
+      }
+    },
+    {
+      "id": "crit-conduit",
+      "section": "critique",
+      "layer": "core",
+      "kind": "myth",
+      "title": "“Fikrimi kelimelere döktüm” cümlesindeki tuzak",
+      "body": "**Sanılan:** Fikirler sözcüklerin içine konur, bir kanaldan gönderilir ve karşıda çıkarılır. Sözcükler bir kutu, anlam ise içindeki nesnedir.\n\n**Dilbilimci Michael Reddy’nin gözlemi (1979):** İngilizce konuşanlar iletişimden söz ederken bu kalıba sistematik olarak başvurur; buna “kanal (conduit) metaforu” denir. Örnekler: “bunu sözcüklere dökmek çok zor”, “paragraflarını anlamla dolduruyor”, “cümlenin içinden hiçbir anlam çıkaramıyorum” [[cite:grady-conduit]] [[cite:reddy-1979]]. Reddy’nin asıl kaygısı şuydu: bu bakış sorumluluğu fazlasıyla konuşana ya da yazana yükler, dinleyiciye ya da okura çok az düşürür ve fikir alışverişinde tehlikeli bir edilgenliğe yol açar [[cite:grady-conduit]].\n\nTürkçe de bundan azade değil (bu bizim gözlemimiz): “aklımdakini sana aktaramadım”, “ne demek istediğimi anlatamıyorum”, “cümlenin içinden bir şey çıkmadı”.\n\nCarey’nin eleştirisiyle paralel bir yer var: aktarım görüşünü eleştirenler, bu bakışın karşılıklı anlam kurmayı (öznelerarasılığı) küçülttüğünü söyler [[cite:nastasia-rakow-2005]]. Ama modeli çöpe atmak gerekmez: bir telefon hattının bilgiyi ne kadar doğru taşıdığını ölçmek için gayet iyi çalışır. Sorun, onu her iletişim olayına uygulamaktır.\n\nKüçük bir alıştırma: bu hafta iletişimden söz ederken hangi fiilleri kullandığını say: aktarmak, iletmek, dökmek, çıkarmak… Kaçı bir nesne taşımayı çağrıştırıyor?",
+      "question": {
+        "id": "crit-conduit-q",
+        "type": "mcq",
+        "prompt": "Aşağıdaki cümlelerden hangisi Reddy’nin kanal metaforuna en açık örnektir?",
+        "options": [
+          "Konuşmacının söylediklerini farklı biçimlerde yorumlayabiliriz.",
+          "Bu paragrafın içinden bir anlam çıkaramadım.",
+          "Bu sözcüğü sen başka bir bağlamda öğrenmişsin.",
+          "Sözcüklerin anlamı kullanıma göre değişir."
+        ],
+        "answer": 1,
+        "explain": "İkinci cümle, anlamı paragrafın içinde duran bir nesne gibi gösterir ve okurun onu “çıkarmakla” yükümlü olduğunu ima eder; kanal metaforunun tipik kalıbı budur. Diğerleri anlamı yorumdan, bağlamdan ve kullanımdan doğan bir şey olarak anlatır. Birinci cümle de cazip gelebilir çünkü “konuşmacının söyledikleri” der; ama orada anlam nesne değil, yoruma açık bir şeydir."
+      }
+    },
+    {
+      "id": "deep-reddy",
+      "section": "critique",
+      "layer": "deep",
+      "kind": "text",
+      "title": "Derin: Reddy’nin metaforunun dört sabiti",
+      "body": "Joe Grady’nin özetine göre Reddy’nin çözümlemesi, öğretmenlerin öğrenci kompozisyonlarına yazdığı yorumlara dayanıyordu; yorumlar, öğrencilerin düşüncelerini ne kadar aktarabildiğine ve yazıda anlamlı bir içerik olup olmadığına odaklanıyordu [[cite:grady-conduit]]. Bu yorumlardan dört değişmez çıkıyordu:\n\n- Dil, düşüncelerin, duyguların ve anlamların bir kişiden ötekine aktarılmasını sağlayan bir kanal gibi işler.\n- Konuşurken ve yazarken insanlar iç dünyalarındaki bu öğeleri dışarıdaki simgelerin içine yerleştirir.\n- Simgeler bu öğeleri taşır ya da içerir.\n- Dinlerken ya da okurken insanlar bu öğeleri simgelerin içinde bulur ve kendi zihinlerine alır.\n\nGrady’nin makalesi, bu metaforun daha ince bir çözümlemesini yapar; ama ana kaygıyı da tekrarlar: Reddy, bu yaygın bakışın iletişimimize ve hatta kültürümüze zarar verdiğini düşünüyordu [[cite:grady-conduit]]. Bir kayıt: burada kullandığımız Reddy künyesi, kitabın 1993’teki ikinci baskısına aittir; makale ilk kez 1979’da yayımlanmıştı [[cite:reddy-1979]]."
+    },
+    {
+      "id": "crit-cannot-not",
+      "section": "critique",
+      "layer": "core",
+      "kind": "text",
+      "title": "Sahiden “iletişim kurmamak olanaksız” mı?",
+      "body": "İlk aksiyom o kadar etkileyici ki itirazsız geçemezdi. Michael Motley 1990’da, iletişimin etkileşimli olduğu, kodlama içerdiği, simge alışverişi olduğu ve bir doğruluk boyutu taşıdığı yolundaki dört geleneksel varsayımın her birinin “iletişim kurmamak olanaksızdır” aksiyomuyla çeliştiğini savundu [[cite:motley-1990]]. Aynı yıl Janet Beavin Bavelas, yani aksiyomların yazarlarından biri, aynı dergide bir yanıt yazdı [[cite:bavelas-1990]]; Peter Andersen de 1991’de Motley’ye karşı çıktı [[cite:andersen-1991]]. Yani tartışma gerçek ve yazarların kendi içinden de sürdü.\n\nİtirazın özü şu: iletişim “kasıtlı mesaj göndermek” demekse, yüzünü çeviren birinin niyeti olmayabilir; öyleyse iletişim yapmamıştır. Ama iletişim “başkasının yorumlayabileceği davranış” demekse, aksiyom doğrudur.\n\nBurada Dance’in niyet ayrımını hatırla [[cite:littlejohn-foss-2008]]: iki taraf aslında iki farklı tanımdan konuşuyor olabilir. (Bu okuma bizimdir; makalelerin özeti değil. Bavelas’ın yanıtının içeriğini açmadık, yalnızca varlığını biliyoruz.)\n\nPratik sonuç: aksiyomu bir doğa yasası gibi değil, “insanların davranışları başkaları tarafından okunur” diye bir uyarı gibi oku. Bu uyarı gündelik hayatta çok işe yarar: yanıtlamadığın mesajın da bir anlamı vardır (senin niyetin ne olursa olsun).",
+      "question": {
+        "id": "crit-cannot-not-q",
+        "type": "mcq",
+        "prompt": "“İletişim kurmamak olanaksızdır” aksiyomu tartışılırken “niyet” neden kilit rol oynar?",
+        "options": [
+          "Niyet olmadan hiçbir davranış gözlemlenemez.",
+          "İletişim “kasıtlı mesaj” diye tanımlanırsa niyetsiz davranış iletişim sayılmaz; “yorumlanabilir davranış” diye tanımlanırsa sayılır.",
+          "Aksiyom, niyetin iletişimin ispatı olduğunu söyler.",
+          "Motley’nin makalesi niyeti değil, yalnızca sözcükleri ele alır."
+        ],
+        "answer": 1,
+        "explain": "Tartışma büyük ölçüde tanımdan doğar: iletişim niyetli bir mesaj gönderme ise sessiz yüz çevirme iletişim olmayabilir; başkasının yorumlayabildiği her davranış ise aksiyom doğru çıkar. Bu, Dance’in niyet ayrımıyla aynı düğümdür. Birinci şık, gözlem ile niyeti karıştırıyor; niyet olmadan da davranış gözlemlenir. Üçüncü şık aksiyomu yanlış aktarıyor. Son şık ise Motley’nin makalesinin dört geleneksel varsayımı ele aldığı gerçeğini yok sayıyor."
+      }
+    },
+    {
+      "id": "today-mass-self",
+      "section": "today",
+      "layer": "core",
+      "kind": "text",
+      "title": "Telefonundaki video: kitle mi, kişisel mi?",
+      "body": "Maletzke’nin tanımı 1963’te gazete, radyo ve televizyon için çizildi. Bugün telefonundaki bir video, aracı bir yayın kurumu olmadan milyonlarca kişiye ulaşabiliyor.\n\nManuel Castells 2007’de bu duruma “kitlesel öziletişim” adını verdi. Ona göre sanayi toplumunun iletişim sistemi, tek yönlü ve birden çoğa yayılan bir kitle dağıtımı üzerine kuruluydu; ağ toplumunun temeli ise çoktan çoğa, eşzamanlı ya da eşzamansız yatay iletişim ağlarıdır [[cite:castells-2007]]. Kitlesel öziletişim “kitle”dir, çünkü potansiyel olarak küresel bir izleyiciye ulaşır; “öz”dür, çünkü içeriği kendi üretilmiş, gönderimi kendi yönlendirilmiş, alımı kendi seçilmiştir [[cite:castells-2007]] [[cite:nechita-2012]].\n\nPatrick O’Sullivan ve Caleb Carr (2018) ise başka bir yoldan gider: dijital araçlar kitle iletişimi ile kişilerarası iletişim arasındaki çizgiyi bulanıklaştırıyor; onlar da mesajın algılanan erişilebilirliği ve kişiselleştirilmesi diye iki boyutla, kanaldan bağımsız bir “kitlekişisel iletişim” modeli önerir [[cite:osullivan-carr-2018]] [[cite:chen-liu-2025]].\n\nAlıştırma: Maletzke’nin ölçütlerini tek tek yokla. Herkese açık mı? Çoğunlukla evet. Teknik araç var mı? Evet. Kurumsal bir aracı yapı zorunlu mu? Her zaman değil. Tek yönlü mü? Artık değil: izleyici yorum yazıyor, yanıt görüyor. (Bu değerlendirme bizimdir.)",
+      "question": {
+        "id": "today-mass-self-q",
+        "type": "mcq",
+        "prompt": "Bir içerik üreticisi 80 bin takipçisine anlık hikâye paylaşıyor; takipçiler yanıt yazıyor, o da bazılarını yanıtlıyor. Maletzke’nin ölçütlerinden hangisi bu durumda en çok sarsılır?",
+        "options": [
+          "Aracılık: iletişim teknik bir araçla yürüyor.",
+          "Tek yönlülük: iletici ile alıcı rol değiştirebiliyor.",
+          "Kamusallık: kimlerin göreceği sınırsız ya da geniş.",
+          "Teknik yayım araçları: bir uygulama kullanılıyor."
+        ],
+        "answer": 1,
+        "explain": "Maletzke’nin tek yönlülük ölçütü (rol değişimi olmaması) en çok burada sarsılır: alıcılar yorum yazıyor, iletici yanıtlıyor. Aracılık, kamusallık ve teknik araç ölçütleri burada hâlâ geçerlidir. Bu tam olarak Castells’in “kitlesel öziletişim” dediği şeyin bir özelliği: hem kitleye ulaşıyor hem de çoktan çoğa akışa izin veriyor."
+      }
+    },
+    {
+      "id": "turkey-words",
+      "section": "turkey",
+      "layer": "core",
+      "kind": "text",
+      "title": "Aynı şey için beş sözcük",
+      "body": "Türkçede “communication” için tek bir sözcük yok; sözlükte bir küme var. Türk Dil Kurumu’nun sözlüğü “iletişim” maddesinde iki anlam verir: (1) duygu, düşünce ya da bilgilerin akla gelebilecek her yolla başkalarına aktarılması; (2) telefon, telgraf, televizyon, radyo gibi araçlardan yararlanılarak yürütülen bilgi alışverişi. Eş anlamlı olarak bildirişim, haberleşme, komünikasyon ve ikinci anlamda muhabere sıralanır [[cite:tdk-iletisim]]. “Komünikasyon” Fransızca *communication* kökenlidir; sözlük bu maddeyi doğrudan “iletişim”e yönlendirir [[cite:tdk-iletisim]].\n\nTÜBİTAK Sosyal Bilimler Ansiklopedisi ise iletişimi konuşma, yazma, jest, mimik ve diğer her yolla bilgi aktarma **veya paylaşma** diye tanımlar ve aynı alternatif adları sayar [[cite:tubitak-iletisim-2022]].\n\nİlginç bir gözlem (bizim yorumumuz): sözlüğün ilk anlamı “aktarılması” diyor; yani gündelik sözlük bile aktarım görüşüne yaslanıyor. Ansiklopedinin “paylaşma”sı ise ritüel görüşünün kapısını aralıyor. Aynı sözcük, iki tanım.\n\nSözlükte “bildirişim” maddesi de doğrudan “iletişim”e yönlendirilir [[cite:tdk-iletisim]]; yani sözlükteki bu küme, tek bir sözcüğün etrafında toplanmış eş adlardır.\n\nBir metinde “haberleşme” ya da “komünikasyon” görürsen çoğu zaman aynı kavramla karşılaşıyorsundur; ama “haberleşme” daha çok araçla yürütülen bilgi alışverişini çağrıştırır (bu da bizim yorumumuz). Bağlama bak.",
+      "question": {
+        "id": "turkey-words-q",
+        "type": "mcq",
+        "prompt": "Bir okur şöyle yazıyor: “Sözlük iletişimi başkalarına aktarma olarak tanımlıyor; demek ki iletişim yalnızca aktarımdır.” Bu çıkarım hakkında ne söylenebilir?",
+        "options": [
+          "Doğrudur; sözlük bir kavramın tek doğru tanımını verir.",
+          "Dayanaksızdır; aynı dilde başka bir başvuru kaynağı “paylaşma”yı da tanıma katıyor.",
+          "Doğrudur; çünkü Türkçede paylaşma diye bir iletişim türü yoktur.",
+          "Dayanaksızdır; çünkü sözlük iletişimi hiç tanımlamamıştır."
+        ],
+        "answer": 1,
+        "explain": "TDK’nin ilk anlamı gerçekten “aktarılması” der, ama TÜBİTAK ansiklopedisi aktarma “veya paylaşma” diyerek tanımı genişletir; üstelik ikinci anlam da araçlı bilgi alışverişine bakar. Bir sözlük maddesi bir kavramın tek doğru tanımı değil, kullanımının kaydıdır (ilk şık bu yüzden zayıf). Son şık ise gerçeğe aykırı: sözlük iletişimi tanımlar, yalnızca kısıtlı bir çerçevede."
+      }
+    },
+    {
+      "id": "exam-patterns",
+      "section": "exam",
+      "layer": "core",
+      "kind": "text",
+      "title": "Sınavda böyle sorulur",
+      "body": "**Sık çıkan kalıplar**\n\n- “Aşağıdakilerden hangisi iletişim düzeylerinden biri değildir?” → kişi içi, kişilerarası, grup içi, örgütsel, kitle. Kaynaklara göre listeye “kamusal” da girebilir.\n- “Kitle iletişiminin özellikleri”: herkese açık, dolaylı, tek yönlü, dağınık izleyici, kurumsal aracı yapı.\n- “Watzlawick’in aksiyomları”: iletişim kurmamak olanaksızdır; içerik ve ilişki boyutu; noktalama; sayısal ve analojik; simetrik ve tamamlayıcı.\n- “Aktarım ve ritüel görüşü” → Carey.\n\n**Cazip yanlışlar**\n\n- “İletişimin yüzde 93’ü beden dilidir” → Mehrabian’ın dar bulgusunun yanlış genellemesi.\n- “Kitle iletişimi çok kişiye ulaşmaktır” → tek başına yeterli değil; dolaylılık, tek yönlülük ve kurumsallık da var.\n- “İletişim, iletinin doğru anlaşılmasıdır” → başarıyı tanıma katmak Dance’in ayırdığı seçeneklerden yalnızca biridir.\n- Yıllar: Shannon’ın makalesi 1948, Weaver’ın katkılı kitap 1949; Watzlawick ve arkadaşları 1967; Maletzke 1963; Carey 1989.\n\n**Türkçede alternatif adlar**\n\n- İletişim; haberleşme; komünikasyon; bildirişim; muhabere [[cite:tdk-iletisim]] [[cite:tubitak-iletisim-2022]].\n- Kişi içi iletişim yerine iç iletişim; kişilerarası yerine bireyler arası iletişim [[cite:tubitak-iletisim-2022]].\n- İleti (mesaj); hedef (alıcı, hedef kitle); geri bildirim [[cite:tubitak-iletisim-2022]].\n\nİpucu: sınavda iki terim arasında kalırsan, tanımın hangi ayrıma (kapsam, niyet, değer yargısı) dayandığını sor; bu soru çoğu zaman yanlış şıkkı elemene yardım eder.",
+      "question": {
+        "id": "exam-patterns-q",
+        "type": "mcq",
+        "prompt": "Bir sınav sorusu soruyor: “Kitle iletişimini tanımlayan aşağıdaki özelliklerden hangisi yanlıştır?” Hangi şık yanlış olabilir?",
+        "options": [
+          "Mesajlar herkese açık verilir.",
+          "İletici ile alıcı arasında mekân ya da zaman uzaklığı vardır.",
+          "İletici ile alıcı rol değiştirmez.",
+          "Alıcılar tek tek bilinir ve iletici onlarla yüz yüze konuşur."
+        ],
+        "answer": 3,
+        "explain": "Maletzke’nin ölçütlerine göre kitle iletişimi herkese açıktır, dolaylıdır ve tek yönlüdür; alıcılar dağınıktır. Son şık tam tersini söyler: alıcıların tek tek bilinmesi ve yüz yüze konuşma kitle iletişimini değil, kişilerarası iletişimi tanımlar. Sınavlarda çeldirici çoğu zaman doğru bir özelliğin tersini alıp aynı cümlede saklar."
+      }
+    },
+    {
+      "id": "summary",
+      "section": "summary",
+      "layer": "core",
+      "kind": "summary",
+      "title": "Özet kartı",
+      "body": "- **Tanım:** İletişimin tek bir tanımı yok. Dance ve Larson 126 tanım listeledi; tanımlar kapsam, niyet ve değer yargısı bakımından ayrışır.\n- **Köken:** Latince *communicare* “ortak kılmak”tır; modern kullanım sık sık “göndermek”e kayar.\n- **İki bakış:** Carey’ye göre aktarım görüşü mesajın uzağa gönderilmesine, ritüel görüşü paylaşma ve ortak inançlara bakar.\n- **Katmanlar:** kişi içi, kişilerarası, grup içi, örgütsel, kitle iletişimi; listeler kitaba göre değişir.\n- **Parçalar:** kaynak, ileti, hedef, kanal, kod, geri bildirim, gürültü, referans çerçevesi.\n- **Sözlü ve sözsüz:** “Yüzde 93” Mehrabian’ın dar bulgusunun yanlış genellemesidir.\n- **Beş aksiyom:** iletişim kurmamak olanaksız; içerik ve ilişki; noktalama; sayısal ve analojik; simetrik ve tamamlayıcı. İlk aksiyom, niyet yüzünden tartışmalı.\n- **Kitle iletişimi (Maletzke):** herkese açık, teknik araçla, dolaylı, tek yönlü, dağınık izleyici; kurumsal bir aracı yapı.\n- **Bugün:** Castells’in kitlesel öziletişimi ve O’Sullivan ile Carr’ın kitlekişisel iletişimi, bu ölçütleri bulanıklaştırır.\n- **Sınav:** yüzde 93 tuzağı; kitle iletişimini “çok kişiye ulaşmak”la eşitlememek; yıllar 1948, 1963, 1967, 1989.",
+      "question": {
+        "id": "summary-q",
+        "type": "tf",
+        "prompt": "Doğru mu yanlış mı: Bu dersteki çalışma tanımına göre iletişim, yalnızca kasıtlı ve doğru anlaşılan mesajlardan oluşur.",
+        "answer": false,
+        "explain": "Yanlış. Çalışma tanımımız iletişimi “anlam kurmaya ya da paylaşmaya çalışan, bağlama bağlı bir süreç” olarak alır; başarı ve niyet şartı koşmaz. “Doğru” şıkkı, iletişimi “anlaşma”yla eşitleyen gündelik kullanımın cazibesinden gelir; Dance’in ayrımlarıyla söylersek, bu, değer yargısını tanıma katan yalnızca bir seçenektir."
+      }
+    }
+  ],
+  "quiz": [
+    {
+      "id": "q1",
+      "type": "mcq",
+      "prompt": "Bir öğrenci “iletişimin tek doğru tanımı yoktur” diyor. Literatürden hangisi bu iddiaya en iyi dayanak olur?",
+      "options": [
+        "Bütün kaynaklar aynı tanımı verir; farklılık yalnızca ifade biçimindedir.",
+        "Dance ve Larson 126 tanım listelemiştir; tanımlar kapsam, niyet ve değer yargısı gibi ayrımlarda ayrışır.",
+        "Latince kökün tek bir anlamı vardır, bu yüzden tanım da tektir.",
+        "Mehrabian’ın deneyleri iletişimin tek doğru tanımını belirlemiştir."
+      ],
+      "answer": 1,
+      "explain": "Öğrencinin iddiasını sağlam bir dayanak destekler: Dance ve Larson’ın 126 tanımı ve Dance’in tanımları ayırdığı üç ekseni. İlk şık tam tersini söylüyor ve gerçeğe aykırı. Üçüncü şık, kökün fikrinin (ortak kılmak) modern kullanımın ondan uzaklaşmasıyla yan yana durduğunu görmüyor. Mehrabian ise sözsüz iletişim üzerine iki deney yaptı; tanım belirlemedi."
+    },
+    {
+      "id": "q2",
+      "type": "tf",
+      "prompt": "Doğru mu yanlış mı: Mehrabian’ın 1967 çalışmaları, iletişimin genelinde anlamın yüzde 93’ünün sözsüz olduğunu gösterir.",
+      "answer": false,
+      "explain": "Yanlış. Rakamlar iki küçük çalışmadan türetilmiştir ve duygu ile tutum iletişimine aittir; Mehrabian’ın kendisi de bu denklemlerin duygu ya da tutumdan söz edilmiyorsa uygulanamayacağını yazar. “Doğru” cevabını cazip kılan şey, rakamın popüler kültürde çok yayılmış olması."
+    },
+    {
+      "id": "q3",
+      "type": "match",
+      "prompt": "Watzlawick ve arkadaşlarının aksiyomlarını birer örnekle eşleştir.",
+      "pairs": [
+        [
+          "Birinci aksiyom: iletişim kurmamak olanaksızdır",
+          "Mesajını yanıtlamayan birinin sessizliği de bir anlam taşır"
+        ],
+        [
+          "İkinci aksiyom: içerik ve ilişki boyutu",
+          "Aynı cümle güler yüzle rica, sert bakışla emir gibi anlaşılır"
+        ],
+        [
+          "Üçüncü aksiyom: noktalama",
+          "İki taraf kavganın başlangıcını farklı yere koyar"
+        ],
+        [
+          "Dördüncü aksiyom: sayısal ve analojik iletişim",
+          "Söylenen sözcüklere ses tonu ve yüz ifadesi eşlik eder"
+        ],
+        [
+          "Beşinci aksiyom: tamamlayıcı ilişki",
+          "Bir taraf yönlendirir, öteki uyar"
+        ]
+      ],
+      "explain": "Eşleşmeler: sessizlik de bir ileti taşır (birinci); aynı içerik farklı ilişki mesajı verir (ikinci); tarafların olay zincirini farklı yerden başlatması noktalamadır (üçüncü); sözcükler sayısal, ses tonu ve yüz analojik kanaldır (dördüncü); yönlendiren ile uyan tamamlayıcı bir ilişkidir (beşinci). En sık karışan çift, ikinci ile dördüncü aksiyomdur: ikisi de “nasıl söylendiği”ne bakar, ama ikincisi ilişkinin içeriği sınıflandırmasını, dördüncüsü iki iletişim biçimini ayırır."
+    },
+    {
+      "id": "q4",
+      "type": "order",
+      "prompt": "İletişim katmanlarını, katılımcı ölçeğine göre küçükten büyüğe sırala.",
+      "items": [
+        "Kişi içi iletişim: kişinin kendi kendine konuşması",
+        "Kişilerarası iletişim: iki kişi arasında",
+        "Grup içi iletişim: küçük bir topluluğun içinde",
+        "Örgütsel iletişim: bir kurumun içinde ve dışıyla",
+        "Kitle iletişimi: dağınık, geniş bir izleyici kitlesine"
+      ],
+      "explain": "Sıra, katılımcı sayısının ve aracılığın büyümesini izler: bir kişi, iki kişi, küçük grup, kurum, kitle. Bu, Türkçe kaynaklarda sık görülen beşli listedir; bazı kitaplar örgütsel iletişimin yerine kamusal iletişimi koyar. Sınavda en sık yapılan hata, örgütsel iletişimi kitle iletişimiyle karıştırmaktır: örgütte alıcılar sınırlı ve tek tek bellidir."
+    },
+    {
+      "id": "q5",
+      "type": "cloze",
+      "prompt": "Boşlukları doldur.",
+      "text": "Carey’ye göre iletişime iki gözle bakılabilir. {{1}} görüşünde iletişim, mesajların uzağa gönderilmesidir; {{2}} görüşünde ise paylaşma, katılım ve ortak inançların temsilidir. Gazete okumayı bir ayine katılmaya benzetmesi, {{3}} görüşünün tipik örneğidir.",
+      "blanks": [
+        {
+          "options": [
+            "aktarım",
+            "ritüel",
+            "sayısal",
+            "simetrik"
+          ],
+          "answer": 0
+        },
+        {
+          "options": [
+            "aktarım",
+            "ritüel",
+            "analojik",
+            "tamamlayıcı"
+          ],
+          "answer": 1
+        },
+        {
+          "options": [
+            "aktarım",
+            "ritüel",
+            "noktalama",
+            "tamamlayıcı"
+          ],
+          "answer": 1
+        }
+      ],
+      "explain": "Aktarım görüşü mesajın gönderilmesine, ritüel görüşü paylaşma ve ortak inançlara bakar; gazete okumanın ayine benzetilmesi ritüel görüşünün örneğidir. “Sayısal”, “analojik”, “simetrik”, “tamamlayıcı” ve “noktalama” Watzlawick’in aksiyomlarına aittir; Carey’nin ayrımıyla karıştırılmamalıdır."
+    },
+    {
+      "id": "q6",
+      "type": "case",
+      "scenario": "Bir belediye, yeni otobüs hatlarını üç yoldan duyuruyor: (a) mahalle WhatsApp gruplarına yazılı mesaj, (b) yerel televizyonun akşam haberleri, (c) muhtarlıkta yapılan yüz yüze bilgilendirme toplantısı. (Varsayımsal senaryo.)",
+      "parts": [
+        {
+          "id": "q6a",
+          "type": "mcq",
+          "prompt": "Maletzke’nin ölçütlerine en çok hangi yol kitle iletişimine uyar?",
+          "options": [
+            "Yalnızca (a)",
+            "Yalnızca (b)",
+            "(a) ve (c)",
+            "Üçü de aynı ölçüde"
+          ],
+          "answer": 1,
+          "explain": "Yerel televizyonun haberleri; teknik araçla, herkese açık, dolaylı ve tek yönlü olarak dağınık bir izleyiciye ulaşır ve bir yayın kurumundan geçer. Toplantı yüz yüzedir; WhatsApp mesajları ise araçlıdır ama alıcılar belirli gruplarla sınırlıdır ve yanıt verilebilir. Üçünü aynı saymak ölçütleri yok saymaktır."
+        },
+        {
+          "id": "q6b",
+          "type": "mcq",
+          "prompt": "WhatsApp gruplarında yurttaşlar mesaja yanıt yazıyor. Bu, kitle iletişimi ölçütlerinden hangisini bulanıklaştırır?",
+          "options": [
+            "Teknik araçla aktarılmasını",
+            "Tek yönlülüğü (rol değişimi olmamasını)",
+            "Mesajın önceden hazırlanmasını",
+            "Alıcıların mekân bakımından dağınık olmasını"
+          ],
+          "answer": 1,
+          "explain": "Alıcıların yanıt yazması, iletici ile alıcının rol değiştirebilmesi demektir; bu, tek yönlülük ölçütünü sarsar. Teknik araç ve önceden hazırlanma burada hâlâ geçerlidir; dağınıklık da öyle."
+        },
+        {
+          "id": "q6c",
+          "type": "mcq",
+          "prompt": "Belediye, yalnızca mahalle sakinlerinin katılabildiği kapalı bir WhatsApp grubu kullanıyor. Bu, “herkese açık” ölçütüne nasıl bakar?",
+          "options": [
+            "Ölçüt karşılanır; çünkü grup büyüktür.",
+            "Ölçüt zayıflar; çünkü alıcılar sınırlı ve belirli bir topluluktur.",
+            "Hiçbir etkisi yoktur.",
+            "Ölçüt tamamen ortadan kalkar; bu artık kişi içi iletişimdir."
+          ],
+          "answer": 1,
+          "explain": "Kapalı grupta kimlerin alıcı olduğu bellidir; Maletzke’nin “herkese açık” ölçütü ise alıcıların sınırlı ve tek tek belli olmamasını ister. Bu yüzden ölçüt zayıflar. Grup büyük olsa da açık değildir (ilk şık). Yine de bu, kişi içi iletişim demek değildir; o, kişinin kendi kendine yaptığı iletişimdir (son şık)."
+        }
+      ],
+      "takeaway": "Kitle iletişimi ölçütleri bir yelpaze gibi çalışır: kanalın türü ya da grubun büyüklüğü tek başına yetmez; kamusallık, dolaylılık, tek yönlülük ve kurumsallık birlikte değerlendirilir."
+    },
+    {
+      "id": "q7",
+      "type": "mcq",
+      "prompt": "Bayram sabahı pek çok kişi aynı “Bayramınız kutlu olsun” mesajını gönderiyor; kimse yeni bir bilgi vermiyor, ama mesajlar yine de önemli. Carey’nin hangi görüşü bunu daha iyi açıklar?",
+      "options": [
+        "Aktarım görüşü: mesajın bilgi taşıması önemli.",
+        "Ritüel görüşü: mesajlaşma, paylaşma ve topluluğa katılma işlevi görüyor.",
+        "Sayısal iletişim: yalnızca sözcükler önemli.",
+        "Gürültü: mesajlar birbirini bozuyor."
+      ],
+      "answer": 1,
+      "explain": "Ritüel görüşü, iletişimi paylaşma, katılım ve birliktelik olarak düşünür; bayram mesajlarının değeri bilgi içermelerinden değil, birlikte bir ritüele katılmaktan gelir. Aktarım görüşü, mesajın taşıdığı bilgiye bakar; burada bilgi yok denecek kadar az. Sayısal iletişim Watzlawick’in aksiyomlarından biridir, Carey’nin ayrımıyla ilgisi yoktur; gürültü ise bir çizim öğesidir."
+    },
+    {
+      "id": "q8",
+      "type": "tf",
+      "prompt": "Doğru mu yanlış mı: Motley’nin 1990 tarihli makalesine verilen yanıtlar arasında, aksiyomların yazarlarından birinin yanıtı da vardır.",
+      "answer": true,
+      "explain": "Doğru. Janet Beavin Bavelas, aksiyomların yazarlarından biridir ve aynı yıl aynı dergide “Behaving and communicating: A reply to Motley” başlıklı bir yanıt yayımladı; Peter Andersen de 1991’de Motley’ye itiraz etti. Yanıtların içeriğini bu derste açmadık; yalnızca tartışmanın yazarların kendi çevresinden de sürdüğünü biliyoruz."
+    },
+    {
+      "id": "q9",
+      "type": "mcq",
+      "prompt": "Bir metro istasyonunda anons sistemi kusursuz çalışıyor ve herkes her heceyi duyuyor; ama “sağdan çıkış” ifadesi kimi yolcuda bir yönü, kimisinde başka bir yönü çağrıştırıyor. Weaver’ın hangi düzeyinde bir sorun var?",
+      "options": [
+        "A düzeyi: teknik sorun (simgeler ne kadar doğru aktarılıyor)",
+        "B düzeyi: anlamsal sorun (simgeler istenen anlamı ne kadar tam taşıyor)",
+        "C düzeyi: etkililik sorunu (alınan anlam davranışı ne kadar etkiliyor)",
+        "Hiçbirinde; ortada bir sorun yok."
+      ],
+      "answer": 1,
+      "explain": "Simgeler kusursuz aktarılıyor (A düzeyi sorunsuz); ama alıcıların o simgelerden çıkardığı anlam değişiyor. Bu, anlamsal bir sorundur (B düzeyi). C düzeyi cazip görünebilir, çünkü sonunda yolcular yanlış yöne gidebilir; ama C düzeyi, alınan anlamın davranışı istenen biçimde etkileyip etkilemediğini sorar, oysa burada sorunun kaynağı anlamın kendisinin farklı alınmasıdır."
+    },
+    {
+      "id": "q10",
+      "type": "case",
+      "scenario": "Bir içerik üreticisi, aracı bir yayın kurumu olmadan, 80 bin takipçisine anlık videolar paylaşıyor; takipçiler yorum yazıyor, o da bazılarını yanıtlıyor. (Varsayımsal senaryo.)",
+      "parts": [
+        {
+          "id": "q10a",
+          "type": "mcq",
+          "prompt": "Castells’in kavramıyla bu durum en iyi nasıl adlandırılır?",
+          "options": [
+            "Kitlesel öziletişim",
+            "Kişi içi iletişim",
+            "Ritüel görüşü",
+            "Simetrik ilişki"
+          ],
+          "answer": 0,
+          "explain": "İçeriği kendi üretilmiş, gönderimi kendi yönlendirilmiş ve alımı kendi seçilmiş, potansiyel olarak geniş bir izleyiciye ulaşan iletişim, Castells’in “kitlesel öziletişim” dediği şeydir. Ritüel görüşü Carey’nin kavramıdır; simetrik ilişki Watzlawick’in aksiyomlarındandır; kişi içi iletişim ise kendi kendine iletişimdir."
+        },
+        {
+          "id": "q10b",
+          "type": "mcq",
+          "prompt": "Bu durumda Maletzke’nin hangi ölçütü en çok sarsılıyor?",
+          "options": [
+            "Kamusallık",
+            "Teknik araçla yayım",
+            "Tek yönlülük",
+            "Dağınık izleyici"
+          ],
+          "answer": 2,
+          "explain": "Takipçilerin yorum yazması ve içerik üreticisinin yanıtlaması, rol değişimini mümkün kılar; bu, tek yönlülüğü sarsar. Diğer ölçütler burada büyük oranda geçerli kalır."
+        },
+        {
+          "id": "q10c",
+          "type": "mcq",
+          "prompt": "O’Sullivan ve Carr’ın kitlekişisel iletişim modeli hangi iki boyutla çalışır?",
+          "options": [
+            "Mesajın algılanan erişilebilirliği ve kişiselleştirilmesi",
+            "Kaynağın otoritesi ve kanalın hızı",
+            "Kodun karmaşıklığı ve gürültü düzeyi",
+            "İzleyici sayısı ve reklam geliri"
+          ],
+          "answer": 0,
+          "explain": "Model, kitle ile kişilerarası iletişimi kanaldan bağımsız olarak, mesajın algılanan erişilebilirliği ve kişiselleştirilmesi boyutlarıyla konumlandırır. Diğer şıklar modelin boyutları değildir; kulağa akla yatkın gelebilirler ama kaynağı yoktur."
+        }
+      ],
+      "takeaway": "Dijital ortamda kitle iletişimi ölçütlerini tek tek yoklamak, kavramların nerede bulanıklaştığını görmenin en iyi yoludur; bulanıklaşma da yeni kavramlar (kitlesel öziletişim, kitlekişisel iletişim) doğurmuştur."
+    },
+    {
+      "id": "q11",
+      "type": "mcq",
+      "prompt": "Bir şirketin, çalışanlar arasındaki iletişim politikasını ve iç duyuru kanallarını tasarlaması hangi iletişim katmanına en yakın bir konudur?",
+      "options": [
+        "Kitle iletişimi",
+        "Kişi içi iletişim",
+        "Örgütsel iletişim",
+        "Grup içi iletişim yalnızca"
+      ],
+      "answer": 2,
+      "explain": "Bir kurumun kendi içinde ve dışıyla yürüttüğü iletişim örgütsel iletişimdir. Kitle iletişimi cazip bir çeldiricidir, çünkü iç duyurular çok kişiye ulaşır; ama alıcılar sınırlı ve tek tek belli olduğundan “herkese açık” değildir. Grup içi iletişim küçük bir topluluğun içindeki iletişimdir; şirketin tamamı bunun ötesindedir."
+    },
+    {
+      "id": "q12",
+      "type": "mcq",
+      "prompt": "Bir tanım “iletişim, mesajın alıcı tarafından başarıyla anlaşılmasıdır” diyor. Dance’in üç ayrımından hangisinde konumlanır?",
+      "options": [
+        "Kapsam (tanım ne kadar geniş)",
+        "Niyet (bilinçli amaç şartı)",
+        "Değer yargısı (başarı ölçütü)",
+        "Kanal (hangi araç kullanılıyor)"
+      ],
+      "answer": 2,
+      "explain": "Tanım, başarıyı (“başarıyla anlaşılması”) tanımın içine katıyor; bu, Dance’in değer yargısı ayrımıdır. Kapsam ve niyet cazip olabilir, çünkü her tanım bir ölçüde geniş ya da dar, bir ölçüde niyetli ya da niyetsizdir; ama bu tanımın ayırt edici özelliği başarı ölçütü taşımasıdır. Kanal ise Dance’in üç ayrımından biri değildir."
+    }
+  ]
+}

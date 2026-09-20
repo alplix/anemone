@@ -1,0 +1,16 @@
+{
+  "id": "carey",
+  "lang": "tr",
+  "name": "James W. Carey",
+  "nativeName": "",
+  "slug": "james-carey",
+  "short": "Amerikalı iletişim kuramcısı ve gazetecilik eğitimcisi (öl. 2006). İletişime “aktarım” ve “ritüel” diye iki ayrı gözle bakmayı öneren Communication as Culture (1989) ile anılır.",
+  "born": "Providence, Rhode Island, ABD",
+  "died": "South Kingstown, Rhode Island, ABD",
+  "roles": ["iletişim kuramcısı", "gazetecilik eğitimcisi", "medya eleştirmeni"],
+  "bio": "James W. Carey, Providence’ta doğdu. Çocukluğunda doğuştan bir kalp sorunu yüzünden okula ancak lise çağında başlayabildi; bu yıllar onun için bol okuma yılları oldu. Lisansını Rhode Island Üniversitesi’nde, doktorasını Illinois Üniversitesi’nde tamamladı. Illinois’de öğretim üyeliği yaptı ve on üç yıl boyunca İletişim Fakültesi’nin dekanlığını yürüttü. 1990’dan itibaren de Columbia Üniversitesi Gazetecilik Yüksek Okulu’nda uluslararası gazetecilik profesörü olarak çalıştı.\n\nCarey, felsefe, tarih ve antropolojiyi bir araya getiren bir düşünürdü; John Dewey ve William James gibi Amerikan pragmatistlerinden etkilendiğini yazanlar var. En bilinen kitabı, denemelerini topladığı *Communication as Culture: Essays on Media and Society*’dir (1989). Kitapta iletişimi iki farklı biçimde düşünmeyi önerir: bilginin uzağa gönderilmesi olarak “aktarım görüşü” ve paylaşma, katılım ve topluluk olarak “ritüel görüşü”. Gazete okumayı bile bir ayine katılmaya benzetmesi bu ikinci görüşün en sık anılan örneğidir.\n\nGazetecilikle medyayı birbirinden ayırdı; gazeteciliği, toplulukların daha iyi bir yaşam kurmak için sürdürdüğü bir konuşmanın parçası olarak görüyordu. Gazetecilerin kurduğu Concerned Journalists Komitesi’nin kurucu üyeleri arasında yer aldı. 23 Mayıs 2006’da, 71 yaşındayken, öldü.",
+  "works": [
+    { "bib": "carey-1989", "note": "Aktarım ve ritüel görüşünün en bilinen kaynağı olan deneme derlemesi." }
+  ],
+  "inCourse": "Bu derste iletişimin “aktarım” ve “ritüel” görüşünü ayıran kuramcı olarak geçer; ayrıntısı [[lesson:ritual-view]] dersindedir."
+}

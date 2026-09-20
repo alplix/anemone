@@ -1,0 +1,7 @@
+{
+  "id": "watzlawick",
+  "born": { "year": 1921 },
+  "died": { "year": 2007 },
+  "sources": ["encyclopedia-watzlawick", "ndb-watzlawick", "ray-2007-watzlawick"],
+  "works": ["watzlawick-et-al-1967"]
+}

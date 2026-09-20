@@ -1,0 +1,17 @@
+{
+  "id": "carey",
+  "lang": "en",
+  "translation": { "status": "machine" },
+  "name": "James W. Carey",
+  "nativeName": "",
+  "slug": "james-carey",
+  "short": "American communication theorist and journalism educator (d. 2006). Known for Communication as Culture (1989), which proposed looking at communication through two lenses, “transmission” and “ritual”.",
+  "born": "Providence, Rhode Island, USA",
+  "died": "South Kingstown, Rhode Island, USA",
+  "roles": ["communication theorist", "journalism educator", "media critic"],
+  "bio": "James W. Carey was born in Providence. A congenital heart problem meant that he could only start school at high-school age, and those years became years of heavy reading. He took his bachelor’s degree at the University of Rhode Island and his doctorate at the University of Illinois. He taught at Illinois and served as dean of its College of Communications for thirteen years. From 1990 he also worked as a professor of international journalism at Columbia University’s Graduate School of Journalism.\n\nCarey was a thinker who combined philosophy, history and anthropology; some writers note the influence of American pragmatists such as John Dewey and William James. His best-known book is the collection of essays *Communication as Culture: Essays on Media and Society* (1989). In it he proposes thinking about communication in two different ways: a “transmission view”, in which information is sent over distance, and a “ritual view”, in which communication means sharing, participation and community. His comparison of reading a newspaper to attending a mass is the most frequently quoted example of the second view.\n\nHe distinguished journalism from the media and saw journalism as part of a conversation that communities carry on in order to build a better life. He was among the founding members of the Committee of Concerned Journalists. He died on 23 May 2006, at the age of 71.",
+  "works": [
+    { "bib": "carey-1989", "note": "The collection of essays that is the best-known source of the transmission and ritual views." }
+  ],
+  "inCourse": "Appears in this course as the theorist who separated the “transmission” and “ritual” views of communication; the details are in [[lesson:ritual-view]]."
+}

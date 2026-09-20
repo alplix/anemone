@@ -1,0 +1,8 @@
+{
+  "id": "metacommunication", "lang": "en",
+  "translation": { "status": "machine" },
+  "term": "metacommunication", "altTerms": [], "slug": "metacommunication",
+  "short": "Communication about communication: cues about how a message is to be understood and how the two parties relate. For Watzlawick, the relationship aspect of communication classifies its content aspect.",
+  "body": "Metacommunication is communication about communication itself: it carries cues about how something that was said should be understood, such as “I’m joking”, “I’m serious” or “I’m angry with you”. Gregory Bateson and Jurgen Ruesch had defined it as the cues exchanged about the codification of messages and about the relationship between the communicators.\n\nPaul Watzlawick and his colleagues used the idea in the second axiom of their 1967 book: every communication has a content and a relationship aspect, the relationship aspect classifies the content aspect, and it is therefore a metacommunication. In other words, what is said (content) and how and by whom it is said (relationship) arrive together in the same message.\n\nThis aspect is often carried by nonverbal communication: tone of voice, facial expression, timing. The same sentence can be a completely different message with a different metacommunication.",
+  "example": "“I want the report today.” sounds like a request when said with a smile and like an order when said with a hard stare; the content is the same, the relationship message differs."
+}
