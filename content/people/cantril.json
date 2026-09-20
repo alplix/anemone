@@ -1,0 +1,7 @@
+{
+  "id": "cantril",
+  "born": { "year": 1906 },
+  "died": { "year": 1969 },
+  "sources": ["pooley-socolow-2013-ijoc", "sfe-cantril"],
+  "works": ["cantril-1940", "cantril-1971-invasion-summary", "hastorf-cantril-1954"]
+}

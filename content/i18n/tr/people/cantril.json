@@ -1,0 +1,13 @@
+{
+  "id": "cantril", "lang": "tr",
+  "name": "Hadley Cantril", "nativeName": "", "slug": "hadley-cantril",
+  "short": "Amerikalı psikolog ve kamuoyu araştırmacısı; Orson Welles’in 1938 radyo oyunu üzerine The Invasion from Mars (1940) kitabıyla anılır. Kitap ders kitaplarında sık sık ‘mermi kuramı’ örneği gösterilir.",
+  "roles": ["psikolog", "kamuoyu araştırmacısı"],
+  "bio": "Hadley Cantril (1906–1969), Amerikalı bir psikolog ve kamuoyu araştırmacısıdır. Dartmouth’ta lisans öğrencisiyken Gordon Allport’la çalıştı, doktora için Allport’u Harvard’a kadar izledi; birlikte yürüttükleri radyo dinleme deneyleri 1935 tarihli *The Psychology of Radio* kitabının çekirdeğini oluşturdu. 1936 sonbaharında Princeton’ın psikoloji bölümüne katıldı. Rockefeller Vakfı’nın finanse ettiği Princeton Radyo Araştırma Projesi’ni Frank Stanton’la birlikte tasarladı; projenin yöneticiliğini ise Paul Lazarsfeld üstlendi. Cantril bir dönem Propaganda Analizi Enstitüsü’nün kurucu yönetim kurulu başkanıydı. 1930’ların sonunda Princeton’da bir Kamuoyu Araştırma Ofisi kurdu.\n\nDers kitaplarındaki adı büyük ölçüde tek bir eserle özdeşleşir: *The Invasion from Mars* (1940). Kitap, Orson Welles’in 30 Ekim 1938 tarihli radyo oyununun ardından yapılan araştırmayı anlatır; kapakta Cantril’in adı vardır ve kitap Hazel Gaudet ile Herta Herzog’un “yardımıyla” yazılmış olarak gösterilir. Yazarlık Lazarsfeld’le bir anlaşmazlığa konu oldu; sonraki yıllarda tarihçiler de kitabın ders kitaplarında ‘mermi kuramı’ örneği olarak kullanılmasını sorguladılar. Cantril’in kendi özetinde ise dinleyicilerin yayını nasıl sınadığı ve hangi “yargı ölçütlerine” dayandığı öne çıkar.\n\n1954’te Albert Hastorf’la yayımladığı *They Saw a Game* makalesi, aynı futbol maçını farklı takımların taraftarlarının farklı gördüğünü anlatan bir vaka çalışmasıdır. Cantril 1969’da öldü.",
+  "works": [
+    { "bib": "cantril-1940", "note": "Mars yayınının araştırması; ders kitaplarındaki ünlü ‘panik’ kaynağı." },
+    { "bib": "cantril-1971-invasion-summary", "note": "Cantril’in kendi özeti: dört tür dinleyici, telkin edilebilirlik ve yargı ölçütleri." },
+    { "bib": "hastorf-cantril-1954", "note": "Aynı olayı farklı görmek üzerine vaka çalışması." }
+  ],
+  "inCourse": "[[lesson:magic-bullet]] dersinde Mars yayınının araştırmasını hem kitabın ünlü hikâyesiyle hem de Cantril’in kendi özetiyle karşılaştırırız; sonraki [[lesson:payne-fund-mars]] dersinde de yeniden karşımıza çıkar."
+}

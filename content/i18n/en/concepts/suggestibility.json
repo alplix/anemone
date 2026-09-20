@@ -1,0 +1,11 @@
+{
+  "id": "suggestibility",
+  "lang": "en",
+  "translation": { "status": "machine" },
+  "term": "suggestibility",
+  "altTerms": ["suggestion doctrine", "telkin edilebilirlik", "telkine açıklık"],
+  "slug": "suggestibility",
+  "short": "A person’s tendency to accept incoming information as true without testing it enough. Cantril explained it in his Mars study through “standards of judgment” and “checking up”; the concept reaches back to the suggestion doctrine of the early twentieth century.",
+  "body": "In this lesson suggestibility is a concept from Cantril’s Mars study: listeners who believed the broadcast and were frightened are described as, for that occasion, people who accepted the incoming information as true without testing it enough, that is, “suggestible” people. According to Cantril this is less a fixed personality trait than a matter of the *standards of judgment* a person has, and it arises under one of four conditions: (1) the person’s standard lets them “place” the event at once (for example a religious or a war-scare frame); (2) the person tries to check but checks against unreliable data, for example neighbours who share the same doubt, or reads the check so that it confirms the first assumption; (3) no standard is adequate and the person accepts the first interpretation offered; (4) the person does not even realize that other interpretations are possible.\n\nEducation, religious belief, the war scare and economic anxiety could all affect these standards; but Cantril writes that he found no single variable that consistently explained the panic.\n\nThe concept has an old history: Parsons (2021) shows that the “suggestion doctrine” arose in social psychology at the turn of the twentieth century and was one of the foremost explanations of media influence before the war. Cantril too speaks of what psychologists once called a “critical faculty”, but he rebuilds it around standards of judgment and checking up. That is why the Mars study is not a plain “hypodermic” story but a study of how the receiver tests the broadcast.",
+  "example": "A listener in Cantril’s summary looks out of the window, finds the street “the same as usual” and concludes that the disaster has not yet reached the neighbourhood: they have checked, but in a way that confirms their first assumption."
+}

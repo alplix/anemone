@@ -1,0 +1,14 @@
+{
+  "id": "cantril", "lang": "en",
+  "translation": { "status": "machine" },
+  "name": "Hadley Cantril", "nativeName": "", "slug": "hadley-cantril",
+  "short": "American psychologist and public opinion researcher, known for The Invasion from Mars (1940) on Orson Welles’s 1938 radio play. Textbooks often present the book as a “magic bullet” example.",
+  "roles": ["psychologist", "public opinion researcher"],
+  "bio": "Hadley Cantril (1906–1969) was an American psychologist and public opinion researcher. As an undergraduate at Dartmouth he worked with Gordon Allport and followed Allport to Harvard for his doctorate; the radio listening experiments they ran together formed the core of their 1935 book *The Psychology of Radio*. In the autumn of 1936 he joined Princeton’s psychology department. Together with Frank Stanton he designed the Rockefeller-funded Princeton Radio Research Project, whose director was Paul Lazarsfeld. Cantril was for a time the founding chair of the board of the Institute for Propaganda Analysis. In the late 1930s he founded an Office of Public Opinion Research at Princeton.\n\nIn textbooks his name is largely tied to a single work: *The Invasion from Mars* (1940). The book describes the research carried out after Orson Welles’s radio play of 30 October 1938; Cantril’s name is on the cover and the book is credited as written “with the assistance of” Hazel Gaudet and Herta Herzog. Its authorship became the subject of a dispute with Lazarsfeld, and later historians have questioned the way textbooks use the book as a “magic bullet” example. In Cantril’s own summary, what stands out is how listeners tested the broadcast and which “standards of judgment” they relied on.\n\nHis 1954 article *They Saw a Game*, written with Albert Hastorf, is a case study of how supporters of different teams saw the same football game differently. Cantril died in 1969.",
+  "works": [
+    { "bib": "cantril-1940", "note": "The study of the Mars broadcast; the source of the famous textbook “panic”." },
+    { "bib": "cantril-1971-invasion-summary", "note": "Cantril’s own summary: four kinds of listeners, suggestibility and standards of judgment." },
+    { "bib": "hastorf-cantril-1954", "note": "A case study on seeing the same event differently." }
+  ],
+  "inCourse": "In the [[lesson:magic-bullet]] lesson we compare the study of the Mars broadcast with both the book’s famous story and Cantril’s own summary; he returns in the following [[lesson:payne-fund-mars]] lesson."
+}

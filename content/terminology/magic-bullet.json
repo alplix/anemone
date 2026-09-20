@@ -1,0 +1,59 @@
+{
+  "_comment": "Terms chosen or confirmed for the lesson magic-bullet. status: ok = established in a Turkish source I opened; chosen = my own choice, no source uses exactly this; check = weakly attested, needs a Turkish-language reviewer. Sources named here were opened (see content/research-notes/magic-bullet.md).",
+  "magic-bullet": {
+    "en": "hypodermic needle (magic bullet) model", "tr": "şırınga (sihirli mermi) modeli", "status": "check",
+    "alt": ["hipodermik iğne modeli", "sihirli mermi kuramı", "uyarıcı–tepki modeli", "propaganda modeli", "bullet theory"],
+    "note": "core.json has ‘şırınga (hipodermik iğne) / sihirli mermi modeli’ (check) and the course title is ‘Şırınga ve Sihirli Mermi Modeli’ (project). Yaylagül 2006 (full PDF read, section ‘Propaganda / Uyarıcı-Tepki / Sihirli Mermi / Hipodermik İğne Modeli’, pp. 45-46) says the model is also known as ‘hipodermik iğne’, ‘sihirli mermi’, ‘uyarıcı-tepki’ or ‘propaganda modeli’ and explains it with a ‘şırınga ya da sihirli mermi’ image. ‘Kurşun’ (silver bullet) appears once in Yaylagül’s OCR text; not used."
+  },
+  "powerful-effects": {
+    "en": "powerful effects assumption", "tr": "güçlü etki varsayımı", "status": "check",
+    "alt": ["güçlü etkiler", "güçlü medya"],
+    "note": "Matches the unit title in the course (‘Güçlü Etki Varsayımı ve Propaganda’). Yaylagül 2006 speaks of iletişim araçlarının ‘güçlü bir etkiye sahip olduğu’ anlayışı, not of a fixed term."
+  },
+  "limited-effects": {
+    "en": "limited effects", "tr": "sınırlı etkiler", "status": "check",
+    "alt": ["minimum etki yaklaşımı"],
+    "note": "Course unit ‘Sınırlı Etkiler Dönemi’ (project). Yaylagül 2006 uses ‘Minimum Etki Yaklaşımı’ in a heading (‘Görgül Araştırmalar ve Minimum Etki Yaklaşımı’; OCR imperfect)."
+  },
+  "powerful-to-limited-story": {
+    "en": "‘powerful to limited effects’ story", "tr": "“güçlüden sınırlıya” hikâyesi", "status": "chosen",
+    "note": "Pooley 2006 abstract: ‘powerful-to-limited-effects story line’. Turkish rendering is mine."
+  },
+  "straw-man": {
+    "en": "straw man", "tr": "", "status": "check",
+    "note": "No established Turkish equivalent was confirmed in a source I opened (candidates seen only from memory: ‘korkuluk safsatası’, ‘saman adam’). The lesson keeps the English term in italics and glosses it as ‘çürütmesi kolay olsun diye çarpıtılmış rakip’."
+  },
+  "remembered-history": {
+    "en": "remembered history", "tr": "hatırlanan tarih", "status": "chosen",
+    "note": "From the title of Pooley 2006 (‘the remembered history of mass communication research’)."
+  },
+  "retrospective-label": {
+    "en": "retrospective label", "tr": "sonradan konmuş etiket", "status": "chosen",
+    "note": "My own wording for the historians’ point."
+  },
+  "suggestibility": {
+    "en": "suggestibility", "tr": "telkin edilebilirlik", "status": "check",
+    "alt": ["telkine açıklık", "telkin öğretisi (suggestion doctrine)"],
+    "note": "‘Telkin’ is the ordinary Turkish word for suggestion; no Turkish communication source using this exact compound was opened."
+  },
+  "critical-ability": {
+    "en": "critical ability / critical faculty", "tr": "eleştirel yeti", "status": "chosen",
+    "note": "Cantril writes ‘critical ability’ and, for the older psychological wording, ‘critical faculty’. Turkish rendering is mine."
+  },
+  "checking-up": {
+    "en": "checking up", "tr": "kontrol etme", "status": "chosen",
+    "note": "Herzog’s concept as described by Pooley & Socolow 2013."
+  },
+  "standards-of-judgment": {
+    "en": "standards of judgment", "tr": "yargı ölçütleri", "status": "chosen",
+    "note": "Cantril’s term; Turkish rendering is mine."
+  },
+  "ubiquity-cumulation-consonance": {
+    "en": "ubiquity, cumulation, consonance", "tr": "her yerde bulunma, birikim, tekdüzelik", "status": "check",
+    "note": "Noelle-Neumann 1973 as summarised by Salmon & Kline 1983. Turkish spiral-of-silence sources may use other words for ‘consonance’ (e.g. ‘uyumluluk’); not verified."
+  },
+  "propaganda-analysis": {
+    "en": "propaganda analysis", "tr": "propaganda analizi", "status": "chosen",
+    "note": "Sproule’s term for the interwar critical paradigm; Turkish rendering is mine."
+  }
+}
